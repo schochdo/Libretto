@@ -6,44 +6,25 @@ This document tracks identified shortcomings, in-progress enhancements, and futu
 
 ## 1. High Priority: Search & Discovery Overhaul
 
-### Problem: Current Search is Scene-Constrained
-- **Current Behavior**: The search bar in `Navbar.tsx` only filters lines within the currently selected scene (`currentScene.cues`).
-- **User Impact**: If a user is viewing Act I, Scene 1 of *Die Zauberflöte* and searches for Tamino's famous aria *"Dies Bildnis ist bezaubernd schön"* (which occurs in Scene 4), the reader reports 0 matches. The search feels broken and frustrating.
-- **Planned Solution**:
-  1. **Opera-Wide Search Index**: Compute matches across all acts and scenes of the active opera (and optionally across the entire library).
-  2. **Search Results Flyout / Modal**:
-     - When typing in the search box, display a popover list of matching occurrences:
-       ```
-       Found 3 matches for "Dies Bildnis":
-       [Act I, Scene 4] Tamino: "Dies Bildnis ist bezaubernd schön..."
-       [Act I, Scene 4] Tamino: "Ich fühl' es, wie dies Götterbild..."
-       ```
-     - Clicking any search result immediately navigates to that Act and Scene, scrolls the line into view, and highlights it.
-  3. **Visual Highlighting**: Highlight matched search terms in bright yellow within the reader columns.
+### [x] COMPLETED (v1.0.1): Opera-Wide Search with Jump Navigation
+- Implemented real-time multi-act, multi-scene search across all lines, speaker names, and word tokens.
+- Added interactive popover results dropdown in `Navbar.tsx` displaying act/scene tags, character badges, and snippets.
+- Added smooth scroll and automatic cue focus when jumping directly to matching lines.
+
+### [ ] Remaining Search Enhancements:
+- Visual search term highlighting (yellow highlight on matching words in the reader).
+- Character filter chips (e.g. "Only Papageno's cues").
 
 ---
 
 ## 2. High Priority: Opera Catalog & Composer Presentation
 
-### Problem: Missing Composer Attribution in Navigation
-- **Current Behavior**: The opera selector dropdown in `Navbar.tsx` only lists the title and language (e.g. `The Magic Flute (German)`). The composer is invisible unless the user opens the "About" or "Synopsis & Cast" modal.
-- **Scalability Limitation**: As the repertoire expands from 4 operas to dozens of operas, a flat `<select>` list will become unwieldy. Users will not easily find operas by their favorite composer or language.
-- **Planned Solution**:
-  1. **Navbar Dropdown Enhancement**:
-     - Display: `{Composer} – {Original Title} ({English Title}) [{Language}]`.
-     - Group operas by Composer or Language using `<optgroup>` tags:
-       ```html
-       <optgroup label="Wolfgang Amadeus Mozart">
-         <option>Die Zauberflöte (The Magic Flute) [German]</option>
-         <option>Don Giovanni [Italian]</option>
-       </optgroup>
-       <optgroup label="Giuseppe Verdi">
-         <option>Falstaff [Italian]</option>
-       </optgroup>
-       ```
-  2. **Dedicated Opera Library Gallery Modal**:
-     - A full visual modal with composer portraits, opera cover art, year of premiere, language badges, and synopsis previews.
-     - Search and filter by composer, language, voice types, or historical era (Baroque, Classical, Bel Canto, Romantic, Verismo).
+### [x] COMPLETED (v1.0.1): Composer & Title Attribution in Navbar
+- Enhanced opera selector dropdown in `Navbar.tsx` to prominently show Composer, Original Title, English Title, and Language.
+
+### [ ] Planned Catalog Enhancements:
+- Dedicated Opera Library Gallery Modal with composer portraits, synopsis previews, and historical era filters.
+- Grouping by composer or language with `<optgroup>` tags as repertoire grows beyond 10 operas.
 
 ---
 
@@ -99,6 +80,21 @@ This document tracks identified shortcomings, in-progress enhancements, and futu
     };
     ```
   - This reduces the initial bundle size from 700 kB down to ~150 kB, downloading each opera only when selected by the user.
+
+### 4.3 Web App Self-Service Importer ("Add Opera in Browser")
+- **The Vision**: Allow end-users visiting the web app to add custom operas without needing Python, a terminal, or Antigravity.
+- **Architecture Without a Backend**:
+  1. **Client-Side Storage (`IndexedDB`)**:
+     - The browser has a built-in persistent storage engine (`IndexedDB`) capable of storing hundreds of megabytes of JSON locally.
+     - Custom imported operas are loaded alongside `OPERA_CATALOG` in React state.
+  2. **Tier 1: Drag-and-Drop / Paste JSON**:
+     - A simple modal where users upload an `opera.json` file conforming to our `Opera` schema.
+     - Validates and immediately adds the opera to their local library.
+  3. **Tier 2: In-Browser AI Translation (Bring-Your-Own-Key / BYOK)**:
+     - The user enters a free Google Gemini API key or OpenAI key (stored in `localStorage`).
+     - The user pastes raw libretto text, enters title/composer/language.
+     - The browser calls the Gemini Flash API directly from JavaScript using `fetch()`, parsing cues and generating tokens in chunks.
+     - The resulting opera is saved to `IndexedDB` and ready to read instantly, with a "Download JSON" button to share with others.
 
 ---
 
