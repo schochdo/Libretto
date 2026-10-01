@@ -62,16 +62,6 @@ export const LinguisticInspector: React.FC<LinguisticInspectorProps> = ({
 
         <div className="flex items-center gap-2 shrink-0">
           <button
-            onClick={() => handleSpeak(line.original, true)}
-            className="flex items-center gap-1.5 text-xs py-1.5 px-2.5 rounded-lg border hover:opacity-85 transition-opacity"
-            style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-primary)' }}
-            title="Listen to full verse"
-          >
-            <Volume2 className="w-3.5 h-3.5" style={{ color: 'var(--accent)' }} />
-            <span className="font-medium">Listen</span>
-          </button>
-
-          <button
             onClick={onClose}
             className="p-1.5 rounded-lg border hover:opacity-75 transition-opacity"
             style={{ borderColor: 'var(--border-color)' }}

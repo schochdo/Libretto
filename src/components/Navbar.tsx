@@ -135,36 +135,40 @@ export const Navbar: React.FC<NavbarProps> = ({
       <div className="max-w-7xl mx-auto flex items-center justify-between gap-3">
         
         {/* Left: Branding & Opera Selector */}
-        <div className="flex items-center gap-3">
-          <div className="flex items-center gap-2">
+        <div className="flex items-center gap-3 shrink-0">
+          <div className="flex items-center gap-2 shrink-0">
             <span className="text-xl sm:text-2xl" role="img" aria-label="opera mask">🎭</span>
-            <div className="hidden md:block">
-              <span className="font-display font-bold tracking-wider text-base sm:text-lg block leading-none" style={{ color: 'var(--accent)' }}>
+            <div className="hidden md:block shrink-0">
+              <span className="font-display font-bold tracking-wider text-base sm:text-lg block leading-none whitespace-nowrap" style={{ color: 'var(--accent)' }}>
                 LIBRETTO
               </span>
-              <span className="text-[10px] tracking-widest uppercase opacity-70">
+              <span className="text-[10px] tracking-widest uppercase opacity-70 whitespace-nowrap">
                 Opera Companion
               </span>
             </div>
           </div>
 
           {/* Opera Dropdown */}
-          <div className="relative">
+          <div className="relative shrink-0">
             <select
               value={currentOpera.id}
               onChange={(e) => onSelectOpera(e.target.value)}
-              className="appearance-none font-medium text-xs sm:text-sm py-1.5 pl-2.5 pr-8 rounded-lg border cursor-pointer focus:outline-none focus:ring-1 transition-colors"
+              className="appearance-none font-medium text-xs sm:text-sm py-1.5 pl-2.5 pr-8 rounded-lg border cursor-pointer focus:outline-none focus:ring-1 transition-colors max-w-[210px] sm:max-w-xs truncate"
               style={{
                 backgroundColor: 'var(--bg-tertiary)',
                 borderColor: 'var(--border-color)',
                 color: 'var(--text-primary)',
               }}
             >
-              {catalog.map((op) => (
-                <option key={op.id} value={op.id}>
-                  {op.composer} – {op.originalTitle ? `${op.originalTitle} (${op.title})` : op.title} [{op.languageLabel}]
-                </option>
-              ))}
+              {catalog.map((op) => {
+                const composerLast = op.composer.split(' ').pop() || op.composer;
+                const shortTitle = op.id === 'die-zauberfloete' ? 'Die Zauberflöte' : op.title;
+                return (
+                  <option key={op.id} value={op.id}>
+                    {composerLast}: {shortTitle}
+                  </option>
+                );
+              })}
             </select>
             <ChevronDown className="w-3.5 h-3.5 absolute right-2.5 top-1/2 -translate-y-1/2 pointer-events-none opacity-60" />
           </div>
