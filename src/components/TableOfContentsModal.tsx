@@ -34,7 +34,12 @@ export const TableOfContentsModal: React.FC<TableOfContentsModalProps> = ({
             <h3 className="font-display font-bold text-lg" style={{ color: 'var(--accent)' }}>
               {opera.title}
             </h3>
-            <p className="text-xs opacity-75">
+            {opera.originalTitle && opera.originalTitle !== opera.title && (
+              <p className="text-xs italic opacity-85 mt-0.5" style={{ color: 'var(--accent)' }}>
+                Full original title: {opera.originalTitle}
+              </p>
+            )}
+            <p className="text-xs opacity-75 mt-0.5">
               {opera.composer} · {opera.year} · {opera.languageLabel}
             </p>
           </div>
