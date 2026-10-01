@@ -23,6 +23,7 @@ interface NavbarProps {
   onAdjustFontSize: (delta: number) => void;
   searchQuery: string;
   onSearchChange: (q: string) => void;
+  onNavigateToLine?: (actIndex: number, sceneIndex: number, lineId: string) => void;
   onOpenToc: () => void;
   onOpenAbout: () => void;
   onOpenVoiceSettings: () => void;
@@ -39,12 +40,73 @@ export const Navbar: React.FC<NavbarProps> = ({
   onAdjustFontSize,
   searchQuery,
   onSearchChange,
+  onNavigateToLine,
   onOpenToc,
   onOpenAbout,
   onOpenVoiceSettings,
   activeVoiceName
 }) => {
   const [isFullscreen, setIsFullscreen] = React.useState(false);
+  const [isSearchFocused, setIsSearchFocused] = React.useState(false);
+  const searchContainerRef = React.useRef<HTMLDivElement>(null);
+
+  React.useEffect(() => {
+    const handleClickOutside = (e: MouseEvent) => {
+      if (searchContainerRef.current && !searchContainerRef.current.contains(e.target as Node)) {
+        setIsSearchFocused(false);
+      }
+    };
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => document.removeEventListener('mousedown', handleClickOutside);
+  }, []);
+
+  const searchResults = React.useMemo(() => {
+    if (!searchQuery || searchQuery.trim().length < 2) return [];
+    const q = searchQuery.toLowerCase().trim();
+    const results: Array<{
+      actIndex: number;
+      actTitle: string;
+      sceneIndex: number;
+      sceneTitle: string;
+      speaker: string;
+      lineId: string;
+      original: string;
+      literal: string;
+    }> = [];
+
+    for (let aIdx = 0; aIdx < currentOpera.acts.length; aIdx++) {
+      const act = currentOpera.acts[aIdx];
+      for (let sIdx = 0; sIdx < act.scenes.length; sIdx++) {
+        const scene = act.scenes[sIdx];
+        for (const cue of scene.cues) {
+          const speakerMatch = cue.speaker.toLowerCase().includes(q);
+          const pieceMatch = cue.pieceTitle?.toLowerCase().includes(q);
+          for (const line of cue.lines) {
+            const origMatch = line.original.toLowerCase().includes(q);
+            const litMatch = line.literal.toLowerCase().includes(q);
+            const tokenMatch = line.tokens?.some(t => 
+              t.word.toLowerCase().includes(q) || t.meaning.toLowerCase().includes(q)
+            );
+
+            if (speakerMatch || pieceMatch || origMatch || litMatch || tokenMatch) {
+              results.push({
+                actIndex: aIdx,
+                actTitle: act.title,
+                sceneIndex: sIdx,
+                sceneTitle: scene.title,
+                speaker: cue.speaker,
+                lineId: line.id,
+                original: line.original,
+                literal: line.literal
+              });
+              if (results.length >= 25) return results;
+            }
+          }
+        }
+      }
+    }
+    return results;
+  }, [currentOpera, searchQuery]);
 
   React.useEffect(() => {
     const handleFsChange = () => {
@@ -100,7 +162,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             >
               {catalog.map((op) => (
                 <option key={op.id} value={op.id}>
-                  {op.title} ({op.languageLabel})
+                  {op.composer} – {op.originalTitle ? `${op.originalTitle} (${op.title})` : op.title} [{op.languageLabel}]
                 </option>
               ))}
             </select>
@@ -123,15 +185,22 @@ export const Navbar: React.FC<NavbarProps> = ({
           </button>
         </div>
 
-        {/* Center / Right: Search Bar */}
-        <div className="relative flex-1 max-w-xs hidden lg:block">
+        {/* Center / Right: Search Bar with Opera-Wide Results Dropdown */}
+        <div ref={searchContainerRef} className="relative flex-1 max-w-sm hidden lg:block">
           <Search className="w-3.5 h-3.5 absolute left-3 top-1/2 -translate-y-1/2 opacity-50" />
           <input
             type="text"
-            placeholder="Search aria, line, character..."
+            placeholder={`Search lines, tokens, characters in ${currentOpera.title}...`}
             value={searchQuery}
-            onChange={(e) => onSearchChange(e.target.value)}
-            className="w-full text-xs py-1.5 pl-8 pr-3 rounded-lg border focus:outline-none transition-colors"
+            onFocus={() => setIsSearchFocused(true)}
+            onChange={(e) => {
+              onSearchChange(e.target.value);
+              setIsSearchFocused(true);
+            }}
+            onKeyDown={(e) => {
+              if (e.key === 'Escape') setIsSearchFocused(false);
+            }}
+            className="w-full text-xs py-1.5 pl-8 pr-8 rounded-lg border focus:outline-none transition-colors"
             style={{
               backgroundColor: 'var(--bg-primary)',
               borderColor: 'var(--border-color)',
@@ -140,11 +209,71 @@ export const Navbar: React.FC<NavbarProps> = ({
           />
           {searchQuery && (
             <button
-              onClick={() => onSearchChange('')}
+              onClick={() => {
+                onSearchChange('');
+                setIsSearchFocused(false);
+              }}
               className="absolute right-2.5 top-1/2 -translate-y-1/2 text-xs opacity-50 hover:opacity-100"
+              title="Clear search"
             >
               ✕
             </button>
+          )}
+
+          {/* Opera-Wide Search Results Popover */}
+          {isSearchFocused && searchQuery.trim().length >= 2 && (
+            <div 
+              className="absolute top-full left-0 right-0 mt-2 max-h-96 overflow-y-auto rounded-xl shadow-2xl border z-50 p-2 space-y-1 text-xs backdrop-blur-md"
+              style={{
+                backgroundColor: 'var(--bg-secondary)',
+                borderColor: 'var(--border-color)',
+                color: 'var(--text-primary)'
+              }}
+            >
+              <div 
+                className="px-2 py-1.5 border-b flex items-center justify-between font-semibold tracking-wider text-[11px] opacity-75"
+                style={{ borderColor: 'var(--border-color)' }}
+              >
+                <span>Matches across {currentOpera.title}</span>
+                <span className="text-[10px] px-1.5 py-0.5 rounded-full bg-black/10 dark:bg-white/10 font-bold">
+                  {searchResults.length} {searchResults.length === 1 ? 'match' : 'matches'}{searchResults.length >= 25 ? '+' : ''}
+                </span>
+              </div>
+
+              {searchResults.length === 0 ? (
+                <div className="p-4 text-center opacity-60 italic">
+                  No matching dialogue or lines found for "{searchQuery}".
+                </div>
+              ) : (
+                <div className="space-y-1 pt-1">
+                  {searchResults.map((res) => (
+                    <button
+                      key={res.lineId}
+                      onClick={() => {
+                        if (onNavigateToLine) {
+                          onNavigateToLine(res.actIndex, res.sceneIndex, res.lineId);
+                        }
+                        setIsSearchFocused(false);
+                      }}
+                      className="w-full text-left p-2 rounded-lg transition-colors hover:bg-black/5 dark:hover:bg-white/5 space-y-0.5 cursor-pointer"
+                    >
+                      <div className="flex items-center justify-between text-[10px] opacity-70">
+                        <span className="font-semibold uppercase tracking-wider" style={{ color: 'var(--accent)' }}>
+                          {res.actTitle} • {res.sceneTitle}
+                        </span>
+                        <span className="font-medium">{res.speaker}</span>
+                      </div>
+                      <p className="font-libretto text-xs line-clamp-1 italic font-medium">
+                        {res.original}
+                      </p>
+                      <p className="text-[11px] opacity-75 line-clamp-1">
+                        {res.literal}
+                      </p>
+                    </button>
+                  ))}
+                </div>
+              )}
+            </div>
           )}
         </div>
 

@@ -215,6 +215,7 @@ export const DualColumnReader: React.FC<DualColumnReaderProps> = ({
                 return (
                   <div
                     key={line.id}
+                    id={`line-${line.id}`}
                     ref={isActive ? activeLineRef : null}
                     onClick={() => onSelectLine(line, cue)}
                     className={`group grid grid-cols-2 gap-8 py-2 px-3 rounded-lg cursor-pointer transition-all duration-150 ${

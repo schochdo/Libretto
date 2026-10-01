@@ -185,6 +185,36 @@ export const App: React.FC = () => {
   };
 
 
+  // Navigate directly to line from global search
+  const handleNavigateToLine = useCallback((actIndex: number, sceneIndex: number, lineId: string) => {
+    setCurrentActIndex(actIndex);
+    setCurrentSceneIndex(sceneIndex);
+    setActiveLineId(lineId);
+
+    const act = currentOpera.acts[actIndex];
+    const scene = act?.scenes[sceneIndex];
+    if (scene) {
+      for (const cue of scene.cues) {
+        const found = cue.lines.find(l => l.id === lineId);
+        if (found) {
+          setActiveCue(cue);
+          setActiveLine(found);
+          if (found.tokens && found.tokens.length > 0) {
+            setSelectedToken(found.tokens[0]);
+          }
+          break;
+        }
+      }
+    }
+
+    setTimeout(() => {
+      const el = document.getElementById(`line-${lineId}`);
+      if (el) {
+        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    }, 150);
+  }, [currentOpera]);
+
   // Filtered scene cues based on search query
   const displayedScene = useMemo(() => {
     if (!currentScene) return null;
@@ -231,6 +261,7 @@ export const App: React.FC = () => {
         onAdjustFontSize={handleAdjustFontSize}
         searchQuery={searchQuery}
         onSearchChange={setSearchQuery}
+        onNavigateToLine={handleNavigateToLine}
         onOpenToc={() => setIsTocOpen(true)}
         onOpenAbout={() => setIsAboutOpen(true)}
         onOpenVoiceSettings={() => setIsVoiceSettingsOpen(true)}
