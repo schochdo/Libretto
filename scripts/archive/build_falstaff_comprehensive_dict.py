@@ -1,0 +1,83 @@
+import json
+
+EXPANDED_IT = {
+    # Greetings & Common words
+    "olà": "hey / hallo", "oh": "oh", "ehi": "hey", "ah": "ah", "ahi": "alas / ah", "ahimè": "alas",
+    "sir": "Sir", "john": "John", "falstaff": "Falstaff", "caius": "Caius", "cajus": "Caius",
+    "bardolfo": "Bardolfo", "pistola": "Pistola", "ford": "Ford", "fenton": "Fenton",
+    "alice": "Alice", "meg": "Meg", "nannetta": "Nannetta", "quickly": "Quickly",
+    "piglia": "takes / seizes / ails", "battuto": "beaten", "servi": "servants", "servo": "servant",
+    "fiaccata": "broken-down / exhausted", "fiaccare": "to exhaust / break down",
+    "troppa": "too much", "troppo": "too much", "grazia": "favor / grace", "grazie": "thanks / graces",
+    "vecchia": "old woman / old", "vecchio": "old man / old", "ampio": "spacious / ample / portly",
+    "venti": "twenty", "volte": "times", "volta": "time", "ecco": "behold / here is", "eccoti": "here is for you",
+    "ciò": "that which / what", "dio": "God", "iddio": "God", "sta'": "stay / be (imperative)",
+    "quest'è": "this is", "com'è": "how is", "dov'è": "where is", "quant'è": "how much is",
+    "ser": "Sir / Master", "bere": "to drink", "bevuto": "drunk", "beveva": "drank",
+    
+    # Body & descriptions
+    "viso": "face", "faccia": "face", "ceffo": "mug / snout", "muso": "snout / muzzle",
+    "testa": "head", "zucca": "gourd / pumpkin (head)", "pancione": "big belly / paunch",
+    "ventre": "belly", "ventraia": "paunch / entrails", "budella": "guts / entrails",
+    "milza": "spleen", "fegato": "liver", "polmone": "lung", "polmoni": "lungs",
+    "schiena": "back", "spalle": "shoulders", "spalla": "shoulder", "costola": "rib", "costole": "ribs",
+    "pelle": "skin", "ossa": "bones", "scheletro": "skeleton", "trippa": "tripe / belly",
+    "naso": "nose", "orecchio": "ear", "orecchi": "ears", "orecchie": "ears",
+    "dente": "tooth", "denti": "teeth", "lingua": "tongue", "gola": "throat",
+    "barba": "beard", "baffi": "mustache", "pel": "hair / skin", "pelo": "hair",
+    "grasso": "fat", "grassa": "fat", "grosso": "big / thick", "grossa": "big / thick",
+    "sottile": "slender / thin", "smilzo": "lean / slender", "snello": "slender / nimble",
+    "lungo": "long", "corte": "short / court", "corto": "short", "alto": "tall / high", "basso": "short / low",
+    
+    # Falstaffian insults & expressions
+    "mascalzone": "rascal / scoundrel", "birbante": "rogue", "furfante": "knave / rogue",
+    "scellerato": "villain / wretch", "ribaldo": "rogue / ruffian", "ladrone": "great thief",
+    "manigoldo": "scoundrel / rogue", "pendaglio": "gallows-bird", "gaglioffo": "scoundrel / blackguard",
+    "ciarlatano": "charlatan / quack", "beone": "drunkard / toper", "ubriaco": "drunkard / drunk",
+    "trangugiatore": "swallower / guzzler", "ghiottone": "glutton", "vorace": "voracious",
+    "marrano": "traitor / scoundrel", "vigliacco": "coward", "poltrone": "coward / sluggard",
+    "sciocco": "fool / silly", "stolto": "fool / foolish", "pazzo": "madman / crazy",
+    "matto": "madman / mad", "insensato": "senseless / insane", "mentecatto": "imbecile / lunatic",
+    
+    # Love & Windsor Merry Wives terms
+    "comare": "gossip / crony", "comari": "merry wives / gossips", "vicina": "neighbor", "vicine": "neighbors",
+    "marito": "husband", "mariti": "husbands", "moglie": "wife", "mogli": "wives",
+    "amante": "lover", "amanti": "lovers", "innamorato": "in love / sweetheart", "innamorata": "sweetheart",
+    "corteggiar": "to court", "corteggiare": "to woo / court", "leggiadra": "graceful / charming",
+    "graziosa": "pretty / gracious", "vezzosa": "charming / dainty", "bella": "beautiful / fair",
+    "bello": "handsome / fine", "splendida": "splendid", "adorabile": "adorable",
+    "candida": "pure / white", "soave": "sweet / gentle", "dolce": "sweet", "dolci": "sweet",
+    "carezze": "caresses", "carezza": "caress", "sospiro": "sigh", "sospiri": "sighs",
+    "ardore": "ardor / passion", "fiamma": "flame", "fiamme": "flames", "incendio": "conflagration / fire",
+    "geloso": "jealous", "gelosia": "jealousy", "sospetto": "suspicion", "sospetti": "suspicions",
+    "becco": "cuckold / he-goat", "cornuto": "cuckolded / horned", "corna": "horns",
+    
+    # Forest, Herne's Oak & Fairies
+    "quercia": "oak", "cerqua": "oak", "faggio": "beech", "selva": "wood / forest",
+    "bosco": "wood", "foresta": "forest", "radura": "clearing", "prato": "meadow",
+    "spettro": "specter / ghost", "larva": "ghost / phantom", "fantasma": "phantom / ghost",
+    "orco": "ogre", "stregone": "sorcerer", "strega": "witch", "streghe": "witches",
+    "farfarello": "sprite / imp", "folletto": "elf / goblin", "folletti": "elves / goblins",
+    "fata": "fairy", "fate": "fairies", "ninfa": "nymph", "ninfe": "nymphs",
+    "silfi": "sylphs", "elfi": "elves", "ondina": "water-sprite", "ondine": "water-sprites",
+    "pizzica": "pinch", "pizzicare": "to pinch", "pizzichiamo": "let us pinch", "pizzicate": "pinch",
+    "scottatelo": "scorch him", "pungoliamolo": "let us prick him", "tormentiamolo": "let us torment him",
+    "bastone": "stick / staff", "bastonata": "beating / blow with stick", "frustata": "lash / whip",
+    "zampilla": "spurts / gushes", "incantesimo": "enchantment / spell", "magia": "magic",
+    
+    # Financial & Windsor life
+    "ghinea": "guinea", "ghinee": "guineas", "sterlina": "pound sterling", "sterline": "pounds",
+    "penny": "penny", "pence": "pence", "borsa": "purse", "tasca": "pocket", "tasche": "pockets",
+    "ducati": "ducats", "denaro": "money", "quattrini": "money / coins", "spendere": "to spend",
+    "spesi": "spent", "speso": "spent", "conto": "bill / reckoning", "oste": "innkeeper",
+    "cappone": "capon", "polli": "chickens", "acciughe": "anchovies", "vino": "wine",
+    "sacco": "sack", "cesto": "basket", "corba": "hamper", "bucato": "laundry",
+    "sapone": "soap", "liscivia": "lye", "sciacquare": "to rinse", "tuffare": "to plunge / dip",
+    "fiume": "river", "tamigi": "Thames", "riva": "bank / shore", "onda": "wave", "onde": "waves",
+    "argine": "embankment", "fosso": "ditch", "pantano": "mire / bog", "melma": "slime / mud"
+}
+
+with open('scripts/falstaff_comprehensive_lexicon.json', 'w') as f:
+    json.dump(EXPANDED_IT, f, ensure_ascii=False, indent=2)
+
+print(f"Generated {len(EXPANDED_IT)} expanded Italian vocabulary entries.")

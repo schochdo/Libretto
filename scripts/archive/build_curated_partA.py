@@ -1,0 +1,833 @@
+import json
+import re
+
+VALID_POS = {'noun', 'verb', 'adjective', 'adverb', 'pronoun', 'preposition', 'conjunction', 'interjection', 'particle', 'idiom'}
+null = None
+
+curated_data = {
+  "Falstaff!": [
+    "Falstaff!",
+    [
+      {"word": "Falstaff", "lemma": "Falstaff", "pos": "noun", "meaning": "Falstaff (proper name)"}
+    ],
+    "Dr. Caius bursts violently into the Garter Inn, shouting for Falstaff."
+  ],
+  "Olà!": [
+    "Hey there!",
+    [
+      {"word": "Olà", "lemma": "olà", "pos": "interjection", "meaning": "hey / ho / hallo"}
+    ],
+    "Falstaff answers with nonchalant composure from his table."
+  ],
+  "Sir John Falstaff!": [
+    "Sir John Falstaff!",
+    [
+      {"word": "Sir", "lemma": "Sir", "pos": "noun", "meaning": "Sir (knightly honorific)"},
+      {"word": "John", "lemma": "John", "pos": "noun", "meaning": "John (proper name)"},
+      {"word": "Falstaff", "lemma": "Falstaff", "pos": "noun", "meaning": "Falstaff (proper name)"}
+    ],
+    null
+  ],
+  "Oh! che vi piglia?": [
+    "Oh! what comes over you?",
+    [
+      {"word": "Oh", "lemma": "oh", "pos": "interjection", "meaning": "oh"},
+      {"word": "che", "lemma": "che", "pos": "pronoun", "meaning": "what"},
+      {"word": "vi", "lemma": "voi", "pos": "pronoun", "meaning": "you (plural/polite dative pronoun)"},
+      {"word": "piglia", "lemma": "pigliare", "pos": "verb", "meaning": "takes / seizes / overcomes"}
+    ],
+    "The colloquial idiom 'che vi piglia?' means 'what has come over you?' or 'what is the matter with you?' (literally: 'what seizes you?')."
+  ],
+  "Hai battuto i miei servi!...": [
+    "You have beaten my servants!...",
+    [
+      {"word": "Hai battuto", "lemma": "battere", "pos": "verb", "meaning": "you have beaten"},
+      {"word": "miei", "lemma": "mio", "pos": "adjective", "meaning": "my"},
+      {"word": "servi", "lemma": "servo", "pos": "noun", "meaning": "servants"}
+    ],
+    "Caius uses the informal second-person singular ('tu') in indignant reproach. Italian determiner syntax 'i miei servi' translates directly as 'my servants'."
+  ],
+  "Oste! un'altra bottiglia di Xeres.": [
+    "Innkeeper! another bottle of Sherry.",
+    [
+      {"word": "Oste", "lemma": "oste", "pos": "noun", "meaning": "innkeeper / host"},
+      {"word": "un'altra", "lemma": "altro", "pos": "adjective", "meaning": "another"},
+      {"word": "bottiglia", "lemma": "bottiglia", "pos": "noun", "meaning": "bottle"},
+      {"word": "di", "lemma": "di", "pos": "preposition", "meaning": "of"},
+      {"word": "Xeres", "lemma": "Xeres", "pos": "noun", "meaning": "sherry (sack / Spanish wine from Jerez)"}
+    ],
+    "Falstaff completely ignores Caius's outrage, demanding more Spanish sherry (sack). Note that 'di' is a preposition."
+  ],
+  "Hai fiaccata la mia giumenta baia,": [
+    "You have exhausted my bay mare,",
+    [
+      {"word": "fiaccata", "lemma": "fiaccare", "pos": "verb", "meaning": "exhausted / overridden / broken down"},
+      {"word": "mia", "lemma": "mio", "pos": "adjective", "meaning": "my"},
+      {"word": "giumenta", "lemma": "giumenta", "pos": "noun", "meaning": "mare / riding beast"},
+      {"word": "baia", "lemma": "baio", "pos": "adjective", "meaning": "bay (reddish-brown horse coat color)"}
+    ],
+    "The past participle 'fiaccata' agrees with the feminine direct object 'la mia giumenta baia'. Determiner syntax translates to 'my bay mare'."
+  ],
+  "sforzata la mia casa.": [
+    "forced open my house.",
+    [
+      {"word": "sforzata", "lemma": "sforzare", "pos": "verb", "meaning": "forced open / broken into"},
+      {"word": "mia", "lemma": "mio", "pos": "adjective", "meaning": "my"},
+      {"word": "casa", "lemma": "casa", "pos": "noun", "meaning": "house / home"}
+    ],
+    "Continuation of Caius's accusation: '[Hai] sforzata la mia casa'. Lowercase initial matches verse enjambment."
+  ],
+  "Ma non la tua massaia.": [
+    "But not your housekeeper.",
+    [
+      {"word": "Ma", "lemma": "ma", "pos": "conjunction", "meaning": "but"},
+      {"word": "non", "lemma": "non", "pos": "adverb", "meaning": "not"},
+      {"word": "tua", "lemma": "tuo", "pos": "adjective", "meaning": "your"},
+      {"word": "massaia", "lemma": "massaia", "pos": "noun", "meaning": "housekeeper / housewife"}
+    ],
+    "Falstaff retorts with a bawdy double entendre: he broke into the house, but spared Caius's woman."
+  ],
+  "Troppa grazia! Una vecchia cisposa. Ampio messere,": [
+    "Too much favor! An old blear-eyed woman. Portly sir,",
+    [
+      {"word": "Troppa", "lemma": "troppo", "pos": "adjective", "meaning": "too much"},
+      {"word": "grazia", "lemma": "grazia", "pos": "noun", "meaning": "favor / grace / honor"},
+      {"word": "cisposa", "lemma": "cisposo", "pos": "adjective", "meaning": "blear-eyed / rheumy-eyed"},
+      {"word": "Ampio", "lemma": "ampio", "pos": "adjective", "meaning": "ample / vast / portly"},
+      {"word": "messere", "lemma": "messere", "pos": "noun", "meaning": "sir / master"}
+    ],
+    "Caius sarcastically scoffs at Falstaff's boast of having spared his housekeeper: she is just an old blear-eyed crone anyway ('Troppa grazia!' = 'What a huge favor!'). He then sneers at Falstaff's immense physical girth as 'Ampio messere' (vast/portly sir)."
+  ],
+  "se foste venti volte John Falstaff cavaliere,": [
+    "if you were twenty times Sir John Falstaff,",
+    [
+      {"word": "se", "lemma": "se", "pos": "conjunction", "meaning": "if"},
+      {"word": "foste", "lemma": "essere", "pos": "verb", "meaning": "you were (subjunctive imperfect 2nd plural)"},
+      {"word": "venti", "lemma": "venti", "pos": "adjective", "meaning": "twenty"},
+      {"word": "volte", "lemma": "volta", "pos": "noun", "meaning": "times"},
+      {"word": "cavaliere", "lemma": "cavaliere", "pos": "noun", "meaning": "knight"}
+    ],
+    "Caius shifts to the formal 'voi' ('foste') to challenge Falstaff's chivalric title of knight ('cavaliere')."
+  ],
+  "v'obbligherò a rispondermi.": [
+    "I will compel you to answer me.",
+    [
+      {"word": "v'obbligherò", "lemma": "obbligare", "pos": "verb", "meaning": "I will compel you / oblige you"},
+      {"word": "a", "lemma": "a", "pos": "preposition", "meaning": "to"},
+      {"word": "rispondermi", "lemma": "rispondere", "pos": "verb", "meaning": "to answer me"}
+    ],
+    "The clitic pronoun 'v'' (voi) is elided before 'obbligherò' (future 1st person singular)."
+  ],
+  "Ecco la mia risposta:": [
+    "Here is my answer:",
+    [
+      {"word": "Ecco", "lemma": "ecco", "pos": "adverb", "meaning": "here is / behold"},
+      {"word": "mia", "lemma": "mio", "pos": "adjective", "meaning": "my"},
+      {"word": "risposta", "lemma": "risposta", "pos": "noun", "meaning": "answer / response"}
+    ],
+    null
+  ],
+  "ho fatto ciò che hai detto.": [
+    "I did what you said.",
+    [
+      {"word": "ho fatto", "lemma": "fare", "pos": "verb", "meaning": "I have done / I did"},
+      {"word": "ciò", "lemma": "ciò", "pos": "pronoun", "meaning": "that / that which"},
+      {"word": "che", "lemma": "che", "pos": "pronoun", "meaning": "which / that"},
+      {"word": "hai detto", "lemma": "dire", "pos": "verb", "meaning": "you said / have said"}
+    ],
+    "Falstaff brazenly confesses to every single accusation without hesitation or remorse."
+  ],
+  "E poi?": [
+    "And then?",
+    [
+      {"word": "E", "lemma": "e", "pos": "conjunction", "meaning": "and"},
+      {"word": "poi", "lemma": "poi", "pos": "adverb", "meaning": "then / next"}
+    ],
+    null
+  ],
+  "L'ho fatto apposta.": [
+    "I did it on purpose.",
+    [
+      {"word": "L'ho fatto", "lemma": "fare", "pos": "verb", "meaning": "I did it / I have done it"},
+      {"word": "apposta", "lemma": "apposta", "pos": "adverb", "meaning": "on purpose / deliberately"}
+    ],
+    "The clitic 'L'' represents the neuter direct object pronoun 'lo' ('it')."
+  ],
+  "M'appellerò al consiglio real.": [
+    "I will appeal to the royal council.",
+    [
+      {"word": "M'appellerò", "lemma": "appellarsi", "pos": "verb", "meaning": "I will appeal"},
+      {"word": "al", "lemma": "a", "pos": "preposition", "meaning": "to the (articulated preposition a + il)"},
+      {"word": "consiglio", "lemma": "consiglio", "pos": "noun", "meaning": "council"},
+      {"word": "real", "lemma": "reale", "pos": "adjective", "meaning": "royal (apocope of reale)"}
+    ],
+    "'Real' is an apocope of 'reale'. In Shakespeare's *The Merry Wives of Windsor*, Caius threatens to make a Star Chamber matter of it."
+  ],
+  "Vatti con dio.": [
+    "Go with God.",
+    [
+      {"word": "Vatti", "lemma": "andarsene", "pos": "verb", "meaning": "go away (imperative 2nd singular with reflexive pronoun)"},
+      {"word": "con", "lemma": "con", "pos": "preposition", "meaning": "with"},
+      {"word": "dio", "lemma": "dio", "pos": "noun", "meaning": "God"}
+    ],
+    "'Vatti con dio' is a formula of dismissal meaning 'Be on your way and leave me in peace'."
+  ],
+  "Sta' zitto o avrai le beffe; quest'è il consiglio mio.": [
+    "Hold your tongue or you will be mocked; this is my counsel.",
+    [
+      {"word": "Sta'", "lemma": "stare", "pos": "verb", "meaning": "stay / keep (truncated imperative)"},
+      {"word": "zitto", "lemma": "zitto", "pos": "adjective", "meaning": "silent / quiet"},
+      {"word": "avrai", "lemma": "avere", "pos": "verb", "meaning": "you will have"},
+      {"word": "beffe", "lemma": "beffa", "pos": "noun", "meaning": "mockeries / derision / ridicule"},
+      {"word": "consiglio", "lemma": "consiglio", "pos": "noun", "meaning": "counsel / advice"}
+    ],
+    "Caius threatened to appeal to the royal council ('consiglio real'), so Falstaff mocks him with his own 'consiglio' (advice): shut up, or you will be laughed out of court and become a laughingstock ('avrai le beffe')."
+  ],
+  "Non è finita!": [
+    "It is not over!",
+    [
+      {"word": "Non", "lemma": "non", "pos": "adverb", "meaning": "not"},
+      {"word": "è", "lemma": "essere", "pos": "verb", "meaning": "is"},
+      {"word": "finita", "lemma": "finire", "pos": "verb", "meaning": "finished / over"}
+    ],
+    null
+  ],
+  "Al diavolo!": [
+    "To the devil!",
+    [
+      {"word": "Al", "lemma": "a", "pos": "preposition", "meaning": "to the (articulated preposition a + il)"},
+      {"word": "diavolo", "lemma": "diavolo", "pos": "noun", "meaning": "devil"}
+    ],
+    "A sharp curse of dismissal equivalent to 'Go to the devil!'"
+  ],
+  "Bardolfo!": [
+    "Bardolfo!",
+    [
+      {"word": "Bardolfo", "lemma": "Bardolfo", "pos": "noun", "meaning": "Bardolfo (proper name)"}
+    ],
+    "Caius turns his accusations toward Falstaff's rogue companion Bardolfo."
+  ],
+  "Ser Dottore.": [
+    "Sir Doctor.",
+    [
+      {"word": "Ser", "lemma": "ser", "pos": "noun", "meaning": "Sir / Master (archaic honorific title)"},
+      {"word": "Dottore", "lemma": "dottore", "pos": "noun", "meaning": "doctor"}
+    ],
+    "'Ser' is an archaic Tuscan title of respect prefixed to titles or names (derived from 'messere')."
+  ],
+  "Tu, ier, m'hai fatto bere.": [
+    "You, yesterday, made me drink.",
+    [
+      {"word": "ier", "lemma": "ieri", "pos": "adverb", "meaning": "yesterday (apocope of ieri)"},
+      {"word": "m'hai fatto", "lemma": "fare", "pos": "verb", "meaning": "you made me"},
+      {"word": "bere", "lemma": "bere", "pos": "verb", "meaning": "to drink"}
+    ],
+    "'Ier' is an apocope of 'ieri' (yesterday), frequent in Tuscan and poetic verse."
+  ],
+  "Pur troppo! e che dolore!...": [
+    "Alas! and what pain!...",
+    [
+      {"word": "Pur troppo", "lemma": "purtroppo", "pos": "adverb", "meaning": "alas / all too true / unfortunately"},
+      {"word": "che", "lemma": "che", "pos": "adjective", "meaning": "what / what a"},
+      {"word": "dolore", "lemma": "dolore", "pos": "noun", "meaning": "pain / ache / sorrow"}
+    ],
+    "Bardolfo facetiously feigns hangover agony to elicit Caius's medical sympathy."
+  ],
+  "Sto mal. D'un tuo pronostico m'assisti. Ho l'intestino": [
+    "I feel sick. Assist me with your diagnosis. My bowel is",
+    [
+      {"word": "Sto", "lemma": "stare", "pos": "verb", "meaning": "I am / I feel"},
+      {"word": "mal", "lemma": "male", "pos": "adverb", "meaning": "ill / badly (apocope of male)"},
+      {"word": "pronostico", "lemma": "pronostico", "pos": "noun", "meaning": "prognosis / medical forecast"},
+      {"word": "assisti", "lemma": "assistere", "pos": "verb", "meaning": "assist / aid (imperative 2nd singular)"},
+      {"word": "intestino", "lemma": "intestino", "pos": "noun", "meaning": "intestine / bowel / gut"}
+    ],
+    "Bardolfo feigns terrible hangover sickness and facetiously begs Dr. Caius—who is a physician—for a professional medical prognosis ('pronostico'), hoping to distract Caius from the robbery accusations."
+  ],
+  "guasto. Malanno agli osti che dan la calce al vino!": [
+    "ruined. A plague upon innkeepers who put lime in the wine!",
+    [
+      {"word": "guasto", "lemma": "guasto", "pos": "adjective", "meaning": "ruined / upset / spoiled"},
+      {"word": "Malanno", "lemma": "malanno", "pos": "noun", "meaning": "curse / plague / misfortune"},
+      {"word": "osti", "lemma": "oste", "pos": "noun", "meaning": "innkeepers"},
+      {"word": "calce", "lemma": "calce", "pos": "noun", "meaning": "lime (quicklime used to doctor wine)"},
+      {"word": "vino", "lemma": "vino", "pos": "noun", "meaning": "wine"}
+    ],
+    "Corrupt Renaissance innkeepers cut sour or spoiled wine with lime (calcium oxide) to mask acidity and sweeten it; Bardolfo hypocritically blames this adulterated wine for his violent hangover rather than the vast quantities of sherry he consumed."
+  ],
+  "Vedi questa meteora?": [
+    "Do you see this meteor?",
+    [
+      {"word": "Vedi", "lemma": "vedere", "pos": "verb", "meaning": "do you see (2nd singular)"},
+      {"word": "questa", "lemma": "questo", "pos": "adjective", "meaning": "this"},
+      {"word": "meteora", "lemma": "meteora", "pos": "noun", "meaning": "meteor / blazing celestial sign"}
+    ],
+    "Bardolfo comically points to his famously bulbous, bright red, alcohol-inflamed nose, grandly describing it as a blazing 'meteor' or beacon in the sky."
+  ],
+  "La vedo.": [
+    "I see it.",
+    [
+      {"word": "La", "lemma": "la", "pos": "pronoun", "meaning": "it (feminine direct object pronoun referring to 'meteora')"},
+      {"word": "vedo", "lemma": "vedere", "pos": "verb", "meaning": "I see"}
+    ],
+    "The clitic pronoun 'La' refers back to the feminine noun 'meteora' (Bardolfo's nose), requiring English 'it'."
+  ],
+  "Essa si corca": [
+    "It lies down",
+    [
+      {"word": "Essa", "lemma": "essa", "pos": "pronoun", "meaning": "it (feminine subject pronoun referring to 'meteora')"},
+      {"word": "si corca", "lemma": "corcarsi", "pos": "verb", "meaning": "lies down / sets (archaic for coricarsi)"}
+    ],
+    "Bardolfo continues personifying his blazing red nose as a celestial meteor that 'lies down' (sets) every night when he goes to bed. 'Corcarsi' is archaic Tuscan for 'coricarsi' (to lie down / go to bed; of a celestial body, to set)."
+  ],
+  "rossa così ogni notte.": [
+    "red like this every night.",
+    [
+      {"word": "rossa", "lemma": "rosso", "pos": "adjective", "meaning": "red"},
+      {"word": "così", "lemma": "così", "pos": "adverb", "meaning": "thus / like this / so"},
+      {"word": "ogni", "lemma": "ogni", "pos": "adjective", "meaning": "every"},
+      {"word": "notte", "lemma": "notte", "pos": "noun", "meaning": "night"}
+    ],
+    "Syntactic continuation from the previous line ('Essa si corca / rossa così ogni notte')."
+  ],
+  "Pronostico di forca!": [
+    "A prognosis of the gallows!",
+    [
+      {"word": "Pronostico", "lemma": "pronostico", "pos": "noun", "meaning": "prognosis / prediction"},
+      {"word": "di", "lemma": "di", "pos": "preposition", "meaning": "of"},
+      {"word": "forca", "lemma": "forca", "pos": "noun", "meaning": "gallows / gibbet"}
+    ],
+    "Caius delivers his furious diagnosis: rather than medical treatment, Caius diagnoses that Bardolfo's drunken knavery will inevitably lead him to be hanged from the gallows ('forca')."
+  ],
+  "M'hai fatto ber, furfante, con lui, narrando frasche;": [
+    "You made me drink, scoundrel, with him, telling tall tales;",
+    [
+      {"word": "ber", "lemma": "bere", "pos": "verb", "meaning": "to drink (apocope of bere)"},
+      {"word": "furfante", "lemma": "furfante", "pos": "noun", "meaning": "scoundrel / rogue"},
+      {"word": "narrando", "lemma": "narrare", "pos": "verb", "meaning": "telling / reciting (gerund)"},
+      {"word": "frasche", "lemma": "frasca", "pos": "noun", "meaning": "tall tales / trifles / idle chatter"}
+    ],
+    "Caius accuses Bardolfo of plying him with wine while distracting him with 'frasche' (literally branches/twigs, an Italian idiom for tall tales, frivolous gossip, and nonsense) so they could pick his pockets."
+  ],
+  "poi, quando fui ben ciùschero, m'hai vuotato le tasche.": [
+    "then, when I was completely tipsy, you emptied my pockets.",
+    [
+      {"word": "quando", "lemma": "quando", "pos": "conjunction", "meaning": "when"},
+      {"word": "ciùschero", "lemma": "ciuscherò", "pos": "adjective", "meaning": "tipsy / drunk / inebriated"},
+      {"word": "vuotato", "lemma": "vuotare", "pos": "verb", "meaning": "emptied"},
+      {"word": "tasche", "lemma": "tasca", "pos": "noun", "meaning": "pockets"}
+    ],
+    "'Ciùschero' is a Tuscan colloquial term meaning pleasantly tipsy or intoxicated. Caius complains that once he was thoroughly drunk, Bardolfo cleaned out his pockets."
+  ],
+  "Non io.": [
+    "Not I.",
+    [
+      {"word": "Non", "lemma": "non", "pos": "adverb", "meaning": "not"},
+      {"word": "io", "lemma": "io", "pos": "pronoun", "meaning": "I"}
+    ],
+    null
+  ],
+  "Chi fu?": [
+    "Who was it?",
+    [
+      {"word": "Chi", "lemma": "chi", "pos": "pronoun", "meaning": "who"},
+      {"word": "fu", "lemma": "essere", "pos": "verb", "meaning": "was (passato remoto 3rd singular)"}
+    ],
+    null
+  ],
+  "Pistola!": [
+    "Pistola!",
+    [
+      {"word": "Pistola", "lemma": "Pistola", "pos": "noun", "meaning": "Pistol (proper name)"}
+    ],
+    "Falstaff summons his other follower, Pistol (Pistola)."
+  ],
+  "Padrone.": [
+    "Master.",
+    [
+      {"word": "Padrone", "lemma": "padrone", "pos": "noun", "meaning": "master / boss"}
+    ],
+    null
+  ],
+  "Hai tu vuotate": [
+    "Did you empty",
+    [
+      {"word": "Hai", "lemma": "avere", "pos": "verb", "meaning": "have (2nd singular)"},
+      {"word": "tu", "lemma": "tu", "pos": "pronoun", "meaning": "you"},
+      {"word": "vuotate", "lemma": "vuotare", "pos": "verb", "meaning": "emptied (feminine plural past participle)"}
+    ],
+    "The past participle 'vuotate' agrees in gender and number with the direct object 'le tasche' in the next line."
+  ],
+  "le tasche a quel messere?": [
+    "that gentleman's pockets?",
+    [
+      {"word": "tasche", "lemma": "tasca", "pos": "noun", "meaning": "pockets"},
+      {"word": "quel", "lemma": "quello", "pos": "adjective", "meaning": "that"},
+      {"word": "messere", "lemma": "messere", "pos": "noun", "meaning": "gentleman / sir"}
+    ],
+    "Continuation from previous line: 'Hai tu vuotate / le tasche a quel messere?'"
+  ],
+  "Certo fu lui. Guardate.": [
+    "Certainly it was he. Look.",
+    [
+      {"word": "Certo", "lemma": "certo", "pos": "adverb", "meaning": "certainly / surely"},
+      {"word": "lui", "lemma": "lui", "pos": "pronoun", "meaning": "he / him"},
+      {"word": "Guardate", "lemma": "guardare", "pos": "verb", "meaning": "look / see (imperative 2nd plural)"}
+    ],
+    null
+  ],
+  "Come s'atteggia al niego quel ceffo da bugiardo!": [
+    "How that liar's mug strikes an attitude of denial!",
+    [
+      {"word": "s'atteggia", "lemma": "atteggiarsi", "pos": "verb", "meaning": "poses / strikes an attitude"},
+      {"word": "niego", "lemma": "niego", "pos": "noun", "meaning": "denial / refusal (literary variant of diniego)"},
+      {"word": "ceffo", "lemma": "ceffo", "pos": "noun", "meaning": "ugly mug / snout / sinister face"},
+      {"word": "bugiardo", "lemma": "bugiardo", "pos": "noun", "meaning": "liar"}
+    ],
+    "'Niego' is an archaic Tuscan literary variant of 'diniego' (denial). 'Ceffo' is a derogatory term for a brute or villain's snout/face."
+  ],
+  "Qui c'eran due scellini del regno d'Edoardo": [
+    "Here there were two shillings from the reign of Edward",
+    [
+      {"word": "c'eran", "lemma": "esserci", "pos": "verb", "meaning": "there were (apocope of c'erano)"},
+      {"word": "due", "lemma": "due", "pos": "adjective", "meaning": "two"},
+      {"word": "scellini", "lemma": "scellino", "pos": "noun", "meaning": "shillings"},
+      {"word": "regno", "lemma": "regno", "pos": "noun", "meaning": "reign / kingdom"},
+      {"word": "Edoardo", "lemma": "Edoardo", "pos": "noun", "meaning": "Edward (King Edward VI)"}
+    ],
+    "Refers to English King Edward VI shillings ('two Edward shovel-boards' in Shakespeare's *Merry Wives of Windsor*)."
+  ],
+  "e sei mezzecorone.": [
+    "and six half-crowns.",
+    [
+      {"word": "e", "lemma": "e", "pos": "conjunction", "meaning": "and"},
+      {"word": "sei", "lemma": "sei", "pos": "adjective", "meaning": "six"},
+      {"word": "mezzecorone", "lemma": "mezzacorona", "pos": "noun", "meaning": "half-crowns (English silver coins worth 2s 6d)"}
+    ],
+    "A 'mezzacorona' (half-crown) was an English coin valued at two shillings and sixpence."
+  ],
+  "Non ne riman più segno.": [
+    "Not a trace of them remains.",
+    [
+      {"word": "Non", "lemma": "non", "pos": "adverb", "meaning": "not"},
+      {"word": "ne", "lemma": "ne", "pos": "pronoun", "meaning": "of them (partitive clitic pronoun)"},
+      {"word": "riman", "lemma": "rimanere", "pos": "verb", "meaning": "remains (apocope of rimane)"},
+      {"word": "segno", "lemma": "segno", "pos": "noun", "meaning": "trace / sign / mark"}
+    ],
+    "'Ne' is the partitive clitic referring to the coins; 'riman' is an apocope of 'rimane'."
+  ],
+  "Padron, chiedo di battermi con quest'arma di legno.": [
+    "Master, I ask to fight with this wooden weapon.",
+    [
+      {"word": "Padron", "lemma": "padrone", "pos": "noun", "meaning": "master (apocope of padrone)"},
+      {"word": "chiedo", "lemma": "chiedere", "pos": "verb", "meaning": "I ask / request"},
+      {"word": "battermi", "lemma": "battersi", "pos": "verb", "meaning": "to fight / duel"},
+      {"word": "arma", "lemma": "arma", "pos": "noun", "meaning": "weapon"},
+      {"word": "legno", "lemma": "legno", "pos": "noun", "meaning": "wood"}
+    ],
+    "Pistola grandiosely demands formal chivalric permission from Falstaff to duel Dr. Caius, waving a wooden tavern slat or bill as his 'weapon of wood' with mock-heroic swagger."
+  ],
+  "Vi smentisco!": [
+    "I give you the lie!",
+    [
+      {"word": "Vi", "lemma": "voi", "pos": "pronoun", "meaning": "you (formal/plural object)"},
+      {"word": "smentisco", "lemma": "smentire", "pos": "verb", "meaning": "I deny / give the lie to / contradict"}
+    ],
+    "In chivalric duel codes, 'smentire' ('giving the lie') was a grave formal provocation that demanded immediate combat; Pistola affects aristocratic dueling etiquette despite being a penniless tavern rogue."
+  ],
+  "Bifolco! tu parli a un gentiluomo!": [
+    "Churl! you speak to a gentleman!",
+    [
+      {"word": "Bifolco", "lemma": "bifolco", "pos": "noun", "meaning": "churl / boor / plowman"},
+      {"word": "tu", "lemma": "tu", "pos": "pronoun", "meaning": "you"},
+      {"word": "parli", "lemma": "parlare", "pos": "verb", "meaning": "you speak"},
+      {"word": "gentiluomo", "lemma": "gentiluomo", "pos": "noun", "meaning": "gentleman"}
+    ],
+    "Dr. Caius is outraged that a vulgar ruffian dares challenge him to a duel, calling Pistola a 'bifolco' (a base peasant/ox-plowman) who has no right to address a gentleman of standing."
+  ],
+  "Gonzo!": [
+    "Dolt!",
+    [
+      {"word": "Gonzo", "lemma": "gonzo", "pos": "noun", "meaning": "dolt / simpleton / gullible fool"}
+    ],
+    "Tuscan insult for a gullible, foolish dupe."
+  ],
+  "Pezzente!": [
+    "Beggar!",
+    [
+      {"word": "Pezzente", "lemma": "pezzente", "pos": "noun", "meaning": "beggar / pauper / tatterdemalion"}
+    ],
+    "Caius mocks Pistola's threadbare, penniless condition."
+  ],
+  "Bestia!": [
+    "Beast!",
+    [
+      {"word": "Bestia", "lemma": "bestia", "pos": "noun", "meaning": "beast / animal / brute"}
+    ],
+    null
+  ],
+  "Can!": [
+    "Dog!",
+    [
+      {"word": "Can", "lemma": "cane", "pos": "noun", "meaning": "dog / cur (apocope of cane)"}
+    ],
+    "'Can' is an apocope of 'cane', an epithet denoting utter baseness."
+  ],
+  "Vil!": [
+    "Vile coward!",
+    [
+      {"word": "Vil", "lemma": "vile", "pos": "adjective", "meaning": "vile / base / cowardly (apocope of vile)"}
+    ],
+    "'Vil' is an apocope of 'vile' (base, cowardly)."
+  ],
+  "Spauracchio!": [
+    "Scarecrow!",
+    [
+      {"word": "Spauracchio", "lemma": "spauracchio", "pos": "noun", "meaning": "scarecrow / bogey / bugbear"}
+    ],
+    "Derides Pistola's gaunt, ragged, menacing appearance."
+  ],
+  "Gnomo!": [
+    "Gnome!",
+    [
+      {"word": "Gnomo", "lemma": "gnomo", "pos": "noun", "meaning": "gnome / dwarf"}
+    ],
+    "Pistola mocks Caius's short stature or odd appearance."
+  ],
+  "Germoglio di mandragora!": [
+    "Sprout of mandrake!",
+    [
+      {"word": "Germoglio", "lemma": "germoglio", "pos": "noun", "meaning": "sprout / shoot / offshoot"},
+      {"word": "di", "lemma": "di", "pos": "preposition", "meaning": "of"},
+      {"word": "mandragora", "lemma": "mandragora", "pos": "noun", "meaning": "mandrake root"}
+    ],
+    "Caius calls Pistola a 'sprout of mandrake'—a poisonous mythical plant whose bifurcated roots were said to resemble a deformed little human and shriek like demons when uprooted—insulting Pistola's grotesque appearance and depravity."
+  ],
+  "Chi?": [
+    "Who?",
+    [
+      {"word": "Chi", "lemma": "chi", "pos": "pronoun", "meaning": "who"}
+    ],
+    null
+  ],
+  "Tu.": [
+    "You.",
+    [
+      {"word": "Tu", "lemma": "tu", "pos": "pronoun", "meaning": "you"}
+    ],
+    null
+  ],
+  "Ripeti!": [
+    "Repeat it!",
+    [
+      {"word": "Ripeti", "lemma": "ripetere", "pos": "verb", "meaning": "repeat (imperative 2nd singular)"}
+    ],
+    null
+  ],
+  "Sì.": [
+    "Yes.",
+    [
+      {"word": "Sì", "lemma": "sì", "pos": "adverb", "meaning": "yes"}
+    ],
+    null
+  ],
+  "Saette!": [
+    "Thunderbolts!",
+    [
+      {"word": "Saette", "lemma": "saetta", "pos": "noun", "meaning": "thunderbolts / lightning bolts (exclamation)"}
+    ],
+    "'Saette!' (literally arrows/lightning bolts) is an oath of fury akin to 'Zounds!' or 'Thunder and lightning!'."
+  ],
+  "Ehi là! Pistola!": [
+    "Hey there! Pistola!",
+    [
+      {"word": "Ehi là", "lemma": "ehi là", "pos": "interjection", "meaning": "hey there / whoa there"},
+      {"word": "Pistola", "lemma": "Pistola", "pos": "noun", "meaning": "Pistol (proper name)"}
+    ],
+    null
+  ],
+  "Non scaricarti qui!": [
+    "Do not discharge yourself here!",
+    [
+      {"word": "Non", "lemma": "non", "pos": "adverb", "meaning": "not"},
+      {"word": "scaricarti", "lemma": "scaricarsi", "pos": "verb", "meaning": "to discharge oneself / go off / vent (reflexive infinitive with clitic ti)"},
+      {"word": "qui", "lemma": "qui", "pos": "adverb", "meaning": "here"}
+    ],
+    "Falstaff makes a witty pun on Pistola's name ('Pistol'): he commands his hot-headed henchman (a firearm) not to 'discharge' (scaricarsi / fire / explode with rage) inside the inn."
+  ],
+  "Bardolfo! Chi ha vuotato le tasche a quel messere?": [
+    "Bardolfo! Who emptied that gentleman's pockets?",
+    [
+      {"word": "vuotato", "lemma": "vuotare", "pos": "verb", "meaning": "emptied"},
+      {"word": "tasche", "lemma": "tasca", "pos": "noun", "meaning": "pockets"},
+      {"word": "quel", "lemma": "quello", "pos": "adjective", "meaning": "that"},
+      {"word": "messere", "lemma": "messere", "pos": "noun", "meaning": "gentleman / sir"}
+    ],
+    null
+  ],
+  "Fu l'un dei due.": [
+    "It was one of the two.",
+    [
+      {"word": "Fu", "lemma": "essere", "pos": "verb", "meaning": "was (passato remoto 3rd singular)"},
+      {"word": "l'un", "lemma": "uno", "pos": "pronoun", "meaning": "the one (apocope of l'uno)"},
+      {"word": "dei", "lemma": "di", "pos": "preposition", "meaning": "of the (articulated preposition di + i)"},
+      {"word": "due", "lemma": "due", "pos": "noun", "meaning": "two"}
+    ],
+    "'L'un' is an apocope of 'l'uno'."
+  ],
+  "Costui beve, poi pe 'l gran bere": [
+    "This fellow drinks, then from the heavy drinking",
+    [
+      {"word": "Costui", "lemma": "costui", "pos": "pronoun", "meaning": "this fellow / this man (pejorative demonstrative pronoun)"},
+      {"word": "beve", "lemma": "bere", "pos": "verb", "meaning": "drinks"},
+      {"word": "pe 'l", "lemma": "per il", "pos": "preposition", "meaning": "for the / through the (archaic contraction of per + il)"},
+      {"word": "gran", "lemma": "grande", "pos": "adjective", "meaning": "great / heavy (apocope of grande)"},
+      {"word": "bere", "lemma": "bere", "pos": "noun", "meaning": "drinking (nominalized infinitive)"}
+    ],
+    "Bardolfo concocts a brazen excuse: he claims Dr. Caius simply drank excessively ('pe 'l gran bere'), using the pejorative demonstrative 'Costui' ('this fellow'). 'Pe 'l' is an archaic contraction of 'per il'."
+  ],
+  "perde i suoi cinque sensi, poi ti narra una favola": [
+    "loses his five senses, then tells you a fairy tale",
+    [
+      {"word": "perde", "lemma": "perdere", "pos": "verb", "meaning": "loses"},
+      {"word": "sensi", "lemma": "senso", "pos": "noun", "meaning": "senses"},
+      {"word": "ti", "lemma": "ti", "pos": "pronoun", "meaning": "to you (ethical dative pronoun)"},
+      {"word": "narra", "lemma": "narrare", "pos": "verb", "meaning": "tells / narrates"},
+      {"word": "favola", "lemma": "favola", "pos": "noun", "meaning": "fable / fairy tale / fabrication"}
+    ],
+    "Bardolfo argues that Caius lost all his senses through drink and fabricated the whole robbery as a drunken hallucination ('favola' = fairy tale/fiction). 'Ti' is an ethical dative."
+  ],
+  "ch'egli ha sognato mentre dormì sotto la tavola.": [
+    "that he dreamed while he slept under the table.",
+    [
+      {"word": "ch'egli", "lemma": "egli", "pos": "pronoun", "meaning": "that he (contraction of conjunction che + pronoun egli)"},
+      {"word": "sognato", "lemma": "sognare", "pos": "verb", "meaning": "dreamed"},
+      {"word": "mentre", "lemma": "mentre", "pos": "conjunction", "meaning": "while"},
+      {"word": "dormì", "lemma": "dormire", "pos": "verb", "meaning": "slept (passato remoto 3rd singular)"},
+      {"word": "tavola", "lemma": "tavola", "pos": "noun", "meaning": "table"}
+    ],
+    "Bardolfo claims Caius passed out dead drunk under the tavern table and dreamed the entire theft while asleep."
+  ],
+  "L'odi? Se ti capaciti, del ver tu sei sicuro.": [
+    "Do you hear him? If you see reason, you are sure of the truth.",
+    [
+      {"word": "L'odi", "lemma": "udire", "pos": "verb", "meaning": "do you hear him (clitic lo + odi)"},
+      {"word": "capaciti", "lemma": "capacitarsi", "pos": "verb", "meaning": "you convince yourself / come to terms"},
+      {"word": "ver", "lemma": "vero", "pos": "noun", "meaning": "truth (apocope of vero)"},
+      {"word": "sicuro", "lemma": "sicuro", "pos": "adjective", "meaning": "sure / certain"}
+    ],
+    "'Capacitarsi' means to understand or convince oneself of a fact. 'Ver' is an apocope of 'vero'."
+  ],
+  "I fatti son negati. Vattene in pace.": [
+    "The facts are denied. Go in peace.",
+    [
+      {"word": "fatti", "lemma": "fatto", "pos": "noun", "meaning": "facts / deeds"},
+      {"word": "son", "lemma": "essere", "pos": "verb", "meaning": "are (apocope of sono)"},
+      {"word": "negati", "lemma": "negare", "pos": "verb", "meaning": "denied"},
+      {"word": "Vattene", "lemma": "andarsene", "pos": "verb", "meaning": "go away (imperative 2nd singular)"},
+      {"word": "pace", "lemma": "pace", "pos": "noun", "meaning": "peace"}
+    ],
+    "Falstaff parodies legal court formulas ('I fatti son negati') coupled with mock priestly benediction ('Vattene in pace')."
+  ],
+  "Giuro": [
+    "I swear",
+    [
+      {"word": "Giuro", "lemma": "giurare", "pos": "verb", "meaning": "I swear"}
+    ],
+    "Caius begins his solemn resolution, continuing across lines 72 and 73."
+  ],
+  "che se mai mi ubriaco ancora all'osteria": [
+    "that if ever I get drunk again at the tavern",
+    [
+      {"word": "se mai", "lemma": "se mai", "pos": "idiom", "meaning": "if ever"},
+      {"word": "ubriaco", "lemma": "ubriacarsi", "pos": "verb", "meaning": "I get drunk"},
+      {"word": "ancora", "lemma": "ancora", "pos": "adverb", "meaning": "again / still"},
+      {"word": "osteria", "lemma": "osteria", "pos": "noun", "meaning": "tavern / inn"}
+    ],
+    "Dr. Caius makes the solemn vow directly adapted from Shakespeare's *Merry Wives of Windsor*."
+  ],
+  "sarà fra gente onesta, sobria, civile e pia.": [
+    "it will be among honest, sober, civil, and pious people.",
+    [
+      {"word": "fra", "lemma": "fra", "pos": "preposition", "meaning": "among / between"},
+      {"word": "onesta", "lemma": "onesto", "pos": "adjective", "meaning": "honest"},
+      {"word": "sobria", "lemma": "sobrio", "pos": "adjective", "meaning": "sober / temperate"},
+      {"word": "civile", "lemma": "civile", "pos": "adjective", "meaning": "civil / well-mannered"},
+      {"word": "pia", "lemma": "pio", "pos": "adjective", "meaning": "pious / godly"}
+    ],
+    "Caius's famous vow: to only get drunk 'in honest, civil, godly company'."
+  ],
+  "Amen.": [
+    "Amen.",
+    [
+      {"word": "Amen", "lemma": "amen", "pos": "interjection", "meaning": "amen / so be it"}
+    ],
+    "Bardolfo and Pistola mockingly chant a solemn liturgical 'Amen'."
+  ],
+  "Cessi l'antifona. La urlate in contrattempo.": [
+    "Cease the antiphon. You howl it off the beat.",
+    [
+      {"word": "Cessi", "lemma": "cessare", "pos": "verb", "meaning": "let cease / stop (jussive subjunctive 3rd singular)"},
+      {"word": "antifona", "lemma": "antifona", "pos": "noun", "meaning": "antiphon / liturgical chant"},
+      {"word": "urlate", "lemma": "urlare", "pos": "verb", "meaning": "you howl / bellow"},
+      {"word": "contrattempo", "lemma": "contrattempo", "pos": "noun", "meaning": "off-beat / out of time (musical syncopation)"}
+    ],
+    "Falstaff cuts off Bardolfo and Pistola's mock-church choir chanting of 'Amen', rebuking them like an irritable choirmaster for howling it out of time / off the beat ('in contrattempo')."
+  ],
+  "L'arte sta in questa massima: «rubar con garbo e a tempo».": [
+    "The art lies in this maxim: «to steal with grace and in time».",
+    [
+      {"word": "arte", "lemma": "arte", "pos": "noun", "meaning": "art / craft / skill"},
+      {"word": "massima", "lemma": "massima", "pos": "noun", "meaning": "maxim / rule"},
+      {"word": "rubar", "lemma": "rubare", "pos": "verb", "meaning": "to steal (apocope of rubare)"},
+      {"word": "garbo", "lemma": "garbo", "pos": "noun", "meaning": "grace / tact / politeness"},
+      {"word": "tempo", "lemma": "tempo", "pos": "noun", "meaning": "time / tempo / measure"}
+    ],
+    "Falstaff lectures his henchmen on the fine art of thievery: a true master thief must steal with elegance ('garbo') and perfect timing ('a tempo', playing on the musical term for keeping time)."
+  ],
+  "Siete dei rozzi artisti.": [
+    "You are clumsy artists.",
+    [
+      {"word": "Siete", "lemma": "essere", "pos": "verb", "meaning": "you are"},
+      {"word": "rozzi", "lemma": "rozzo", "pos": "adjective", "meaning": "clumsy / coarse / crude"},
+      {"word": "artisti", "lemma": "artista", "pos": "noun", "meaning": "artists"}
+    ],
+    "Falstaff ironically treats crime as a fine art and chides his men as unrefined amateurs."
+  ],
+  "«Sei polli: sei scellini,": [
+    "«Six chickens: six shillings,",
+    [
+      {"word": "Sei", "lemma": "sei", "pos": "adjective", "meaning": "six"},
+      {"word": "polli", "lemma": "pollo", "pos": "noun", "meaning": "chickens"},
+      {"word": "scellini", "lemma": "scellino", "pos": "noun", "meaning": "shillings"}
+    ],
+    "Falstaff begins reading the tavern bill line by line."
+  ],
+  "trenta giarre di Xeres: due lire; tre tacchini...»": [
+    "thirty jars of sherry: two pounds; three turkeys...»",
+    [
+      {"word": "giarre", "lemma": "giarra", "pos": "noun", "meaning": "jars / flagons (archaic variant of giara)"},
+      {"word": "Xeres", "lemma": "Xeres", "pos": "noun", "meaning": "sherry"},
+      {"word": "lire", "lemma": "lira", "pos": "noun", "meaning": "pounds (currency)"},
+      {"word": "tacchini", "lemma": "tacchino", "pos": "noun", "meaning": "turkeys"}
+    ],
+    "'Giarre' is an archaic spelling of 'giare' (flagons/jars). 'Lire' translates English pounds."
+  ],
+  "Fruga nella mia borsa.": [
+    "Rummage in my purse.",
+    [
+      {"word": "Fruga", "lemma": "frugare", "pos": "verb", "meaning": "rummage / search through (imperative 2nd singular)"},
+      {"word": "mia", "lemma": "mio", "pos": "adjective", "meaning": "my"},
+      {"word": "borsa", "lemma": "borsa", "pos": "noun", "meaning": "purse / money bag"}
+    ],
+    "Falstaff orders Bardolfo to search his coin purse to settle the tavern bill."
+  ],
+  "«Due fagiani, un'acciuga.»": [
+    "«Two pheasants, an anchovy.»",
+    [
+      {"word": "Due", "lemma": "due", "pos": "adjective", "meaning": "two"},
+      {"word": "fagiani", "lemma": "fagiano", "pos": "noun", "meaning": "pheasants"},
+      {"word": "un'acciuga", "lemma": "acciuga", "pos": "noun", "meaning": "an anchovy"}
+    ],
+    "Quotes Prince Hal's reading of Falstaff's tavern bill in Shakespeare's *Henry IV, Part 1* ('an anchovy and sack')."
+  ],
+  "Un mark, un mark, un penny.": [
+    "A mark, a mark, a penny.",
+    [
+      {"word": "Un", "lemma": "uno", "pos": "adjective", "meaning": "a / one"},
+      {"word": "mark", "lemma": "mark", "pos": "noun", "meaning": "mark (medieval English currency unit worth 13s 4d)"},
+      {"word": "penny", "lemma": "penny", "pos": "noun", "meaning": "penny (English silver/copper coin)"}
+    ],
+    "Bardolfo counts the meager coins remaining in the purse: Falstaff is destitute."
+  ]
+}
+
+def validate_and_save():
+    with open('scripts/falstaff_act1_sc1_partA.json', 'r', encoding='utf-8') as f:
+        partA = json.load(f)
+    
+    expected_lines = [item['original'] for item in partA]
+    print(f"Loaded {len(expected_lines)} expected lines from falstaff_act1_sc1_partA.json")
+    
+    assert len(expected_lines) == 82, f"Expected 82 lines, got {len(expected_lines)}"
+    
+    missing = [line for line in expected_lines if line not in curated_data]
+    if missing:
+        print(f"ERROR: Missing lines: {missing}")
+        return False
+    
+    extra = [line for line in curated_data if line not in expected_lines]
+    if extra:
+        print(f"ERROR: Extra lines: {extra}")
+        return False
+
+    errors = []
+    for line in expected_lines:
+        entry = curated_data[line]
+        if not isinstance(entry, list) or len(entry) != 3:
+            errors.append(f"Line '{line}': Entry must be a list of 3 elements")
+            continue
+        
+        lit, tokens, gnote = entry
+        
+        # Check literal
+        if not isinstance(lit, str) or not lit.strip():
+            errors.append(f"Line '{line}': Literal must be non-empty string")
+        
+        # Check capitalization rule
+        m_orig = re.search(r'[a-zA-ZàèéìíîòóùúÀÈÉÌÍÎÒÓÙÚ«]', line)
+        if m_orig:
+            first_orig_char = m_orig.group(0)
+            if first_orig_char == '«':
+                # check next letter
+                m_next = re.search(r'[a-zA-ZàèéìíîòóùúÀÈÉÌÍÎÒÓÙÚ]', line[1:])
+                if m_next and m_next.group(0).isupper():
+                    m_lit = re.search(r'[a-zA-Z]', lit)
+                    if m_lit and not m_lit.group(0).isupper():
+                        errors.append(f"Line '{line}': Literal should start with uppercase letter, got '{lit}'")
+            elif first_orig_char.isupper():
+                m_lit = re.search(r'[a-zA-Z]', lit)
+                if m_lit and not m_lit.group(0).isupper():
+                    errors.append(f"Line '{line}': Literal should start with uppercase letter, got '{lit}'")
+        
+        # Check tokens
+        if not isinstance(tokens, list):
+            errors.append(f"Line '{line}': Tokens must be a list")
+            continue
+            
+        word_count = len(line.split())
+        min_tokens = 1 if word_count <= 1 else 2
+        if len(tokens) < min_tokens:
+            errors.append(f"Line '{line}': Too few tokens ({len(tokens)} < {min_tokens})")
+        if len(tokens) > 5:
+            errors.append(f"Line '{line}': Too many tokens ({len(tokens)} > 5)")
+            
+        for tok in tokens:
+            if not isinstance(tok, dict):
+                errors.append(f"Line '{line}': Token must be dict: {tok}")
+                continue
+            for field in ['word', 'lemma', 'pos', 'meaning']:
+                if field not in tok or not isinstance(tok[field], str) or not tok[field].strip():
+                    errors.append(f"Line '{line}': Token missing or invalid '{field}': {tok}")
+            if tok.get('pos') not in VALID_POS:
+                errors.append(f"Line '{line}': Token invalid pos '{tok.get('pos')}': {tok}")
+                
+        # Check gnote
+        if gnote is not None and not isinstance(gnote, str):
+            errors.append(f"Line '{line}': Grammar note must be string or None, got: {type(gnote)}")
+            
+    if errors:
+        print(f"Validation FAILED with {len(errors)} errors:")
+        for e in errors[:20]:
+            print("  ", e)
+        return False
+        
+    out_file = 'scripts/falstaff_curated_a1_sc1_partA.json'
+    with open(out_file, 'w', encoding='utf-8') as f:
+        json.dump(curated_data, f, ensure_ascii=False, indent=2)
+        
+    print(f"SUCCESS: Validated and wrote {len(curated_data)} entries to {out_file}")
+    return True
+
+if __name__ == '__main__':
+    validate_and_save()

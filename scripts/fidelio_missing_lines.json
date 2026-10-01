@@ -1,0 +1,4538 @@
+[
+  {
+    "act": "act1",
+    "scene": 1,
+    "speaker": "Jaquino",
+    "line": "so bring' ich kein Wörtchen hervor."
+  },
+  {
+    "act": "act1",
+    "scene": 1,
+    "speaker": "Marzelline",
+    "line": "verstopf' ich mir vollends das Ohr."
+  },
+  {
+    "act": "act1",
+    "scene": 1,
+    "speaker": "Marzelline",
+    "line": "So hab' ich denn nimmermehr Ruh',"
+  },
+  {
+    "act": "act1",
+    "scene": 1,
+    "speaker": "Jaquino",
+    "line": "dann laß ich dich wieder in Ruh'."
+  },
+  {
+    "act": "act1",
+    "scene": 1,
+    "speaker": "Marzelline",
+    "line": "Fidelio hab' ich gewählet,"
+  },
+  {
+    "act": "act1",
+    "scene": 1,
+    "speaker": "Marzelline",
+    "line": "Du könntest nun geh'n."
+  },
+  {
+    "act": "act1",
+    "scene": 1,
+    "speaker": "Marzelline",
+    "line": "So bleibe hier steh'n."
+  },
+  {
+    "act": "act1",
+    "scene": 1,
+    "speaker": "Marzelline",
+    "line": "Der arme Jaquino dauert mich beinahe. Kann ich es"
+  },
+  {
+    "act": "act1",
+    "scene": 1,
+    "speaker": "Marzelline",
+    "line": "aber ändern? Ich war ihm sonst recht gut, da kam"
+  },
+  {
+    "act": "act1",
+    "scene": 1,
+    "speaker": "Marzelline",
+    "line": "Fidelio in unser Haus und seit der Zeit ist alles in"
+  },
+  {
+    "act": "act1",
+    "scene": 1,
+    "speaker": "Marzelline",
+    "line": "mir und um mich verändert."
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Marzelline",
+    "line": "O wär' ich schon mit dir vereint,"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Marzelline",
+    "line": "Doch wenn ich nicht erröten muß,"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Marzelline",
+    "line": "ob einem warmen Herzenskuß,"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Marzelline",
+    "line": "wenn nichts uns stört auf Erden –"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Marzelline",
+    "line": "Die Hoffnung schon erfüllt die Brust,"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Marzelline",
+    "line": "mit unaussprechlich süßer Lust;"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Marzelline",
+    "line": "wie glücklich will ich werden!"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Marzelline",
+    "line": "erwach' ich jeden Morgen,"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Marzelline",
+    "line": "wir grüßen uns mit Zärtlichkeit,"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Marzelline",
+    "line": "der Fleiß verscheucht die Sorgen."
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Marzelline",
+    "line": "Und ist die Arbeit abgetan,"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Marzelline",
+    "line": "dann schleicht die holde Nacht heran,"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Marzelline",
+    "line": "dann ruh'n wir von Beschwerden."
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Marzelline",
+    "line": "Die Hoffnung schon erfüllt die Brust,"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Marzelline",
+    "line": "mit unaussprechlich süßer Lust;"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Marzelline",
+    "line": "wie glücklich will ich werden!"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Guten Tag, Marzelline. Ist Fidelio noch nicht zurück?"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Marzelline",
+    "line": "Nein, Vater – Da ist er ja! Da ist er ja!"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Ich muß gestehen, ich bin ein wenig ermüdet. Der"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Schmied hatte an den Ketten so lange"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "auszubessern, daß ich glaubte, er würde nicht damit"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "fertig werden."
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Sind sie jetzt gut gemacht?"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Gewiß, recht gut und stark. Keiner der Gefangenen"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "wird sie zerbrechen."
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Gut! Brav!"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Der Schelm gibt sich alle Mühe, offenbar meiner"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Marzelline wegen."
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Ich suche zu tun, was mir möglich ist."
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Ja, ja, du bist brav. Man kann nicht eifriger, nicht ver-"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "ständiger sein. Ich habe dich aber auch mit jedem"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Tage lieber; und sei versichert, dein Lohn soll auch"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "nicht ausbleiben."
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "O glaubt nicht, daß ich meine Schuldigkeit nur des"
+  },
+  {
+    "act": "act1",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Lohnes wegen ..."
+  },
+  {
+    "act": "act1",
+    "scene": 3,
+    "speaker": "Leonore",
+    "line": "Wie groß ist die Gefahr,"
+  },
+  {
+    "act": "act1",
+    "scene": 3,
+    "speaker": "Leonore",
+    "line": "wie schwach der Hoffnung Schein!"
+  },
+  {
+    "act": "act1",
+    "scene": 3,
+    "speaker": "Rocco",
+    "line": "Sie liebt ihn, es ist klar,"
+  },
+  {
+    "act": "act1",
+    "scene": 3,
+    "speaker": "Rocco",
+    "line": "sie werden glücklich sein!"
+  },
+  {
+    "act": "act1",
+    "scene": 3,
+    "speaker": "Jaquino",
+    "line": "Mir sträubt sich schon das Haar,"
+  },
+  {
+    "act": "act1",
+    "scene": 3,
+    "speaker": "Jaquino",
+    "line": "der Vater willigt ein,"
+  },
+  {
+    "act": "act1",
+    "scene": 3,
+    "speaker": "Jaquino",
+    "line": "mir wird so wunderbar,"
+  },
+  {
+    "act": "act1",
+    "scene": 3,
+    "speaker": "Jaquino",
+    "line": "mir fällt kein Mittel ein!"
+  },
+  {
+    "act": "act1",
+    "scene": 3,
+    "speaker": "Rocco",
+    "line": "Höre, Fidelio, weißt du, was ich tue? Ich, ich, mache"
+  },
+  {
+    "act": "act1",
+    "scene": 3,
+    "speaker": "Rocco",
+    "line": "dich zu meinem Tochtermann!"
+  },
+  {
+    "act": "act1",
+    "scene": 3,
+    "speaker": "Rocco",
+    "line": "Nun, meine Kinder, ihr habt euch doch recht herzlich"
+  },
+  {
+    "act": "act1",
+    "scene": 3,
+    "speaker": "Rocco",
+    "line": "lieb, nicht wahr? Aber das ist noch nicht alles, was"
+  },
+  {
+    "act": "act1",
+    "scene": 3,
+    "speaker": "Rocco",
+    "line": "zu einer guten, vergnügten Haushaltung gehört; man"
+  },
+  {
+    "act": "act1",
+    "scene": 3,
+    "speaker": "Rocco",
+    "line": "braucht auch ..."
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "mancher Kummer stellt sich ein."
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "Doch wenn's in den Taschen fein klingelt und rollt,"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "und Macht und Liebe verschafft dir das Gold"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "es ist ein schönes Ding, das Gold,"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "es ist ein goldnes Ding, das Gold."
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "Wenn sich Nichts mit Nichts verbindet,"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "ist und bleibt die Summe klein;"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "wer bei Tisch nur Liebe findet,"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "wird nach Tische hungrig sein."
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "Drum lächle der Zufall euch gnädig und hold,"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "und segne und lenk' euer Streben;"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "das Liebchen im Arme, im Beutel das Gold,"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "so mögt ihr viel Jahre durchleben."
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "Ihr könnt das leicht sagen, Meister Rocco, aber ich,"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "ich behaupte, daß die Vereinigung zweier gleichges-"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "timmter Herzen die Quelle des wahren ehelichen"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "Glückes ist. O, dieses Glück muß der größte Schatz"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "auf Erden sein! Freilich gibt es noch etwas, das mir"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "nicht minder kostbar wäre, aber mit Kummer sehe"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "ich, daß ich es trotz aller meiner Bemühungen nicht"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "erhalten werde."
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "Und was wäre denn das?"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "Euer Vertrauen! Verzeiht mir diesen kleinen Vorwurf,"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "aber oft sehe ich Euch aus den unterirdischen"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "Gewölben dieses Schloßes ganz außer Atem und"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "ermattet zurückkommen. Warum erlaubt Ihr mir"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "nicht, Euch dahin zu begleiten? Es wäre mir so lieb,"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "wenn ich Euch bei Eurer Arbeit helfen und Eure"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "Beschwerden teilen könnte."
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "Du weißt doch, daß ich den strengsten Befehl habe,"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "niemanden, wer es auch sein möge, zu den"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "Staatsgefangenen zu lassen. Auch gibt es ein"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "Gewölbe, in das ich dich wohl nie werde führen dür-"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "fen, obschon ich mich ganz auf dich verlassen kann."
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Marzelline",
+    "line": "Vermutlich, wo der Gefangene sitzt, von dem du"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Marzelline",
+    "line": "schon einigemale gesprochen hast."
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "Du hast's erraten, Marzelline."
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "Ich glaube, es ist schon lange her, daß er gefangen ist?"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "Es ist schon über zwei Jahre."
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "Zwei Jahre, sagt Ihr? Er muß ein großer Verbrecher"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "sein!"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "Oder er muß große Feinde haben, das kommt unge-"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "fähr auf eins heraus. Nun, er wird mich nicht lange"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "mehr quälen. Es kann nicht mehr lange mit ihm"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "dauern."
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "Großer Gott!"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Marzelline",
+    "line": "Lieber Himmel! Wie hat er denn eine so schwere"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Marzelline",
+    "line": "Strafe verdient?"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "Seit einem Monat schon muß ich auf Pizarros Befehl"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "seine Portion kleiner machen. Jetzt hat er binnen"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "vierundzwanzig Stunden nicht mehr als zwei Unzen"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "schwarzes Brot und eine halbe Maß Wasser; kein"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "Licht, kein Stroh, nichts, nichts!"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Marzelline",
+    "line": "O lieber Vater, führe Fidelio ja nicht zu ihm! Diesen"
+  },
+  {
+    "act": "act1",
+    "scene": 4,
+    "speaker": "Marzelline",
+    "line": "Anblick könnte er nicht ertragen!"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Rocco",
+    "line": "hab' immer Mut,"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Rocco",
+    "line": "dann wird's dir auch gelingen;"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Rocco",
+    "line": "das Herz wird hart"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Rocco",
+    "line": "durch Gegenwart"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Rocco",
+    "line": "bei fürchterlichen Dingen."
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Leonore",
+    "line": "Ich habe Mut!"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Leonore",
+    "line": "Mit kaltem Blut"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Leonore",
+    "line": "will ich hinab mich wagen;"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Leonore",
+    "line": "für hohen Lohn"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Leonore",
+    "line": "kann Liebe schon"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Leonore",
+    "line": "auch hohe Leiden tragen."
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Marzelline",
+    "line": "Dein gutes Herz"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Marzelline",
+    "line": "wird manchen Schmerz"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Marzelline",
+    "line": "in diesen Grüften leiden;"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Marzelline",
+    "line": "dann kehrt zurück"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Marzelline",
+    "line": "der Liebe Glück"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Marzelline",
+    "line": "und unnennbare Freuden."
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Rocco",
+    "line": "Du wirst dein Glück ganz sicher bauen."
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Leonore",
+    "line": "Ich hab' auf Gott und Recht Vertrauen."
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Marzelline",
+    "line": "Du darfst mir auch in's Auge schauen:"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Marzelline",
+    "line": "der Liebe Macht ist auch nicht klein."
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Marzelline",
+    "line": "Ja, ja, wir werden glücklich sein."
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Leonore",
+    "line": "Ja, ja, ich kann noch glücklich sein."
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Rocco",
+    "line": "Ja, ja, ihr werdet glücklich sein."
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Rocco",
+    "line": "Der Gouverneur ..."
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Rocco",
+    "line": "der Gouverneur soll heut' erlauben,"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Rocco",
+    "line": "daß du mit mir die Arbeit teilst."
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Marzelline",
+    "line": "Ja, guter Vater, bitt' ihn heute,"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Rocco",
+    "line": "ich brauche Hülf', es ist ja wahr."
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Leonore",
+    "line": "Wie lang' bin ich des Kummers Beute!"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Leonore",
+    "line": "Du, Hoffnung, reichst mir Labung dar."
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Marzelline",
+    "line": "Ach, lieber Vater, was fällt euch ein?"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Marzelline",
+    "line": "Lang Freund und Rater müßt ihr uns sein."
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Rocco",
+    "line": "Nur auf der Hut, dann geht es gut,"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Rocco",
+    "line": "gestillt wird euer Sehnen."
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Marzelline",
+    "line": "O habe Mut, o welche Glut!"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Marzelline",
+    "line": "O welch ein tiefes Sehnen!"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Leonore",
+    "line": "Ihr seid so gut, ihr macht mir Mut,"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Leonore",
+    "line": "gestillt wird bald mein Sehnen!"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Rocco",
+    "line": "Gebt euch die Hand und schließt das Band"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Rocco",
+    "line": "in süßen Freudentränen."
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Leonore",
+    "line": "Ich gab die Hand zum süßen Band,"
+  },
+  {
+    "act": "act1",
+    "scene": 5,
+    "speaker": "Leonore",
+    "line": "es kostet bitt're Tränen."
+  },
+  {
+    "act": "act1",
+    "scene": 6,
+    "speaker": "Don Pizarro",
+    "line": "Was sehe ich? Mich dünkt, ich kenne diese Schrift."
+  },
+  {
+    "act": "act1",
+    "scene": 6,
+    "speaker": "Don Pizarro",
+    "line": "Laß sehen!"
+  },
+  {
+    "act": "act1",
+    "scene": 6,
+    "speaker": "Don Pizarro",
+    "line": "„Ich gebe Ihnen Nachricht, daß der Minister in"
+  },
+  {
+    "act": "act1",
+    "scene": 6,
+    "speaker": "Don Pizarro",
+    "line": "Erfahrung gebracht hat, daß die Staatsgefängnisse,"
+  },
+  {
+    "act": "act1",
+    "scene": 6,
+    "speaker": "Don Pizarro",
+    "line": "denen Sie vorstehen, mehrere Opfer willkürlicher"
+  },
+  {
+    "act": "act1",
+    "scene": 6,
+    "speaker": "Don Pizarro",
+    "line": "Gewalt enthalten. Er reist morgen ab, um Sie mit"
+  },
+  {
+    "act": "act1",
+    "scene": 6,
+    "speaker": "Don Pizarro",
+    "line": "einer Untersuchung zu überraschen. Seien Sie auf"
+  },
+  {
+    "act": "act1",
+    "scene": 6,
+    "speaker": "Don Pizarro",
+    "line": "Ihrer Hut und suchen Sie sich sicherzustellen.\""
+  },
+  {
+    "act": "act1",
+    "scene": 6,
+    "speaker": "Don Pizarro",
+    "line": "Gott, wenn er entdeckte, daß ich diesen Florestan in"
+  },
+  {
+    "act": "act1",
+    "scene": 6,
+    "speaker": "Don Pizarro",
+    "line": "Ketten liegen habe, den er längst tot glaubt, der so"
+  },
+  {
+    "act": "act1",
+    "scene": 6,
+    "speaker": "Don Pizarro",
+    "line": "oft meine Rache reizte! Doch es gibt ein Mittel! Eine"
+  },
+  {
+    "act": "act1",
+    "scene": 6,
+    "speaker": "Don Pizarro",
+    "line": "kühne Tat kann alle Besorgnisse zerstreuen!"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "Ha! Welch' ein Augenblick!"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "Die Rache werd' ich kühlen,"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "o Wonne, großes Glück!"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "Schon war ich nah' im Staube,"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "dem lauten Spott zum Raube,"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "dahin gestreckt zu sein."
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "Nun ist es mir geworden,"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "den Mörder selbst zu morden."
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "In seiner letzten Stunde,"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "den Stahl in seiner Wunde,"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "ihm noch ins Ohr zu schrei'n:"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "„Triumph! Der Sieg ist mein!\""
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "The Guard",
+    "line": "Er spricht von Tod und Wunde!"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "The Guard",
+    "line": "Nun fort auf uns're Runde!"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "The Guard",
+    "line": "Wie wichtig muß es sein!"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "Ha! Welch ein Augenblick!"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "Die Rache werd' ich kühlen,"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "ha! Nun ist es mir geworden,"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "den Mörder selbst zu morden!"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Chorus",
+    "line": "Er spricht von Tod und Wunde!"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Chorus",
+    "line": "Wacht scharf auf eurer Runde!"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Chorus",
+    "line": "Wie wichtig muß es sein!"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "Ha! Welch ein Augenblick!"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "Die Rache werd' ich kühlen,"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "Hauptmann, besteigen Sie mit einem Trompeter"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "sogleich den Turm. Sehen Sie mit der größten"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "Achtsamkeit auf die Straße von Sevilla. Sobald Sie"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "einen Wagen von Reitern begleitet sehen, lassen Sie"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "augenblicklich durch den Trompeter ein Signal geben."
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "Verstehen Sie? Augenblicklich! Ich erwarte die größte"
+  },
+  {
+    "act": "act1",
+    "scene": 7,
+    "speaker": "Don Pizarro",
+    "line": "Pünktlichkeit! Sie haften mir mit ihrem Kopf dafür. Rocco!"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "das geb' ich nur daran."
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Rocco",
+    "line": "So sagt doch nur in Eile,"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Rocco",
+    "line": "womit ich dienen kann!"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "Du bist von kaltem Blute,"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "von unverzagtem Mute"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "durch langen Dienst geworden."
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Rocco",
+    "line": "Was soll ich? Redet!"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "Höre mich nun an!"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "Du bebst? Bist du ein Mann?"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "Wir dürfen gar nicht säumen,"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "dem Staate liegt daran,"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "den bösen Untertan"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "schnell aus dem Weg zu räumen."
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "Du stehst noch an?"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "Er darf nicht länger leben,"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "sonst ist's um mich gescheh'n."
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "Pizarro sollte beben?"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "Du fällst, ich werde steh'n."
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Rocco",
+    "line": "Die Glieder fühl' ich beben,"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Rocco",
+    "line": "wie könnt' ich das besteh'n?"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Rocco",
+    "line": "Ich nehm' ihm nicht das Leben,"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Rocco",
+    "line": "mag, was da will, gescheh'n."
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Rocco",
+    "line": "Nein, Herr, das Leben nehmen,"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Rocco",
+    "line": "das ist nicht meine Pflicht."
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "Ich will mich selbst bequemen,"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "wenn dir's an Mut gebricht."
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "Nun eile rasch und munter"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "zu jenem Mann hinunter,"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "du weißt ..."
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Rocco",
+    "line": "... der kaum mehr lebt"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Rocco",
+    "line": "und wie ein Schatten schwebt?"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "Zu dem, zu dem hinab!"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "Ich wart' in kleiner Ferne,"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "du gräbst in der Zisterne"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "sehr schnell ein Grab."
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Rocco",
+    "line": "Und dann? Und dann?"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "Dann werd' ich schnell, vermummt,"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "mich in den Kerker schleichen:"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "Ein Stoß."
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "... und er verstummt!"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Rocco",
+    "line": "Verhungernd in den Ketten,"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Rocco",
+    "line": "ertrug er lange Pein,"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Rocco",
+    "line": "ihn töten, heißt ihn retten,"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Rocco",
+    "line": "der Dolch wird ihn befrei'n."
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "Er sterb' in seinen Ketten,"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "zu kurz war seine Pein!"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "Sein Tod nur kann mich retten,"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "dann werd' ich ruhig sein!"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "Hast du mich verstanden?"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "Du gibst ein Zeichen;"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "dann werd ich selbst, vermummt,"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "mich in den Kerker schleichen;"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "Ein Stoß – und er verstummt!"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Rocco",
+    "line": "Verhungernd in den Ketten,"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Rocco",
+    "line": "ertrug er lange Pein,"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Rocco",
+    "line": "ihn töten, heißt ihn retten,"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Rocco",
+    "line": "der Dolch wird ihn befrei'n."
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "Er sterb' in seinen Ketten,"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "zu kurz war seine Pein!"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "Sein Tod nur kann mich retten,"
+  },
+  {
+    "act": "act1",
+    "scene": 8,
+    "speaker": "Don Pizarro",
+    "line": "dann werd' ich ruhig sein!"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Leonore",
+    "line": "Des Mitleids Ruf, der Menschen Stimme,"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Leonore",
+    "line": "rührt nichts mehr deinen Tigersinn!"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Leonore",
+    "line": "der hell auf dunkeln Wolken ruht."
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Leonore",
+    "line": "Der blickt so still, so friedlich nieder,"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Leonore",
+    "line": "der spiegelt alte Zeiten wieder,"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Leonore",
+    "line": "Erhelle mein Ziel,"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Leonore",
+    "line": "sei's noch so fern,"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Leonore",
+    "line": "die Liebe wird's erreichen."
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Leonore",
+    "line": "Ich folg' dem inner'n Triebe,"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Leonore",
+    "line": "mich stärkt die Pflicht"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Leonore",
+    "line": "der treuen Gattenliebe!"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Leonore",
+    "line": "könnt' ich zur Stelle dringen,"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Leonore",
+    "line": "wo Bösheit dich in Fesseln schlug,"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Leonore",
+    "line": "Ich folg' dem inner'n Triebe,"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Leonore",
+    "line": "ich wanke nicht, mich stärkt die Pflicht"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Leonore",
+    "line": "der treuen Gattenliebe!"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Leonore",
+    "line": "Rocco, Ihr verspracht mir so oft, die armen"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Leonore",
+    "line": "Gefangenen, die über der Erde wohnen, in unseren"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Leonore",
+    "line": "Festungsgarten zu lassen. Heute ist das Wetter so"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Leonore",
+    "line": "schön! Der Gouverneur kommt um diese Zeit nicht"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Leonore",
+    "line": "hierher."
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Marzelline",
+    "line": "O ja! Ich bitte mit ihm!"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Rocco",
+    "line": "Kinder, ohne Erlaubnis des Gouverneurs?"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Marzelline",
+    "line": "Aber er sprach so lange mit dir. Vielleicht sollst du"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Marzelline",
+    "line": "ihm einen Gefallen tun, und dann wird er es so"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Marzelline",
+    "line": "genau nicht nehmen."
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Rocco",
+    "line": "Einen Gefallen? Du hast recht, Marzelline. Auf diese"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Rocco",
+    "line": "Gefahr hin kann ich es wagen. Wohl denn, Jaquino,"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Rocco",
+    "line": "Fidelio, öffnet die Gefängnisse! Ich aber gehe zu"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Rocco",
+    "line": "Pizarro und halte ihn zurück, indem ich für dein"
+  },
+  {
+    "act": "act1",
+    "scene": 9,
+    "speaker": "Rocco",
+    "line": "Bestes rede."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "First Prisoner",
+    "line": "auf Gottes Hülfe bauen."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "First Prisoner",
+    "line": "Wir werden frei, wir finden Ruh!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "All Others",
+    "line": "O Himmel! Rettung! Welch' ein Glück!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "All Others",
+    "line": "O Freiheit! Freiheit, kehrst du zurück?"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Second Prisoner",
+    "line": "Sprecht leise, haltet euch zurück!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "All Others",
+    "line": "Sprecht leise, haltet euch zurück!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "All Others",
+    "line": "Sprecht leise, ja leise!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "All Others",
+    "line": "O welche Lust!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "All Others",
+    "line": "Nur hier, nur hier ist Leben."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "All Others",
+    "line": "Sprecht leise, haltet euch zurück!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Leonore",
+    "line": "Nun sprecht, wie ging's?"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "Recht gut, recht gut;"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "zusammen rafft' ich meinen Mut"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "und trug ihm alles vor,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "und sollt'st du's glauben,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "was er zur Antwort mir gab?"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "Die Heirat und daß du mir hilfst, will er erlauben,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "noch heute führ' ich in die Kerker dich hinab."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Leonore",
+    "line": "Noch heute, noch heute?"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Leonore",
+    "line": "O welch ein Glück, o welche Wonne!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "Ich sehe deine Freude."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "Nur noch ein Augenblick,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "dann gehen wir schon beide ..."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "Zu jenem Mann hinab,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "dem ich seit vielen Wochen"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "stets weniger zu essen gab."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Leonore",
+    "line": "Ha! Wird er losgesprochen?"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "O nein!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "O nein!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "Wir müssen ihn – doch wie? – befrei'n.."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "Er muß in einer Stunde –"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "den Finger auf dem Munde –"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "von uns begraben sein."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Leonore",
+    "line": "Ist ihn zu töten deine Pflicht?"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "Nein, guter Junge, zitt're nicht!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "Zum Morden dingt sich Rocco nicht."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "Der Gouverneur kommt selbst hinab;"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "wir beide graben nur das Grab."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Leonore",
+    "line": "Vielleicht das Grab des Gatten graben?"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Leonore",
+    "line": "Was kann fürchterlicher sein!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "Ich darf ihn nicht mit Speise laben;"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "ihm wird im Grabe besser sein."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "Wir müssen gleich zum Werke schreiten;"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "du mußt mir helfen, mich begleiten;"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "hart ist des Kerkermeisters Brot."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Leonore",
+    "line": "Ich folge dir, wär's in den Tod."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "In der zerfallenen Zisterne"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "bereiten wir die Grube leicht;"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "ich tu' es, glaube mir, nicht gerne,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "auch dir ist schaurig, wie mich deucht."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Leonore",
+    "line": "Ich bin es nur noch nicht gewohnt."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "Ich hätte gerne dich verschont,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "doch wird es mir allein zu schwer,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "und gar so streng ist unser Herr."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Leonore",
+    "line": "O welch ein Schmerz!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "Mir scheint, er weine."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "Nein, du bleibst hier, ich geh' alleine,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "ich geh' allein."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Leonore",
+    "line": "O nein, o nein!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Leonore",
+    "line": "Ich muß ihn seh'n, den Armen sehen."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Leonore",
+    "line": "Und müßt' ich selbst zugrundegeh'n!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Both",
+    "line": "O säumen wir nun länger nicht,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Both",
+    "line": "wir folgen unserer strengen Pflicht."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Marzelline",
+    "line": "Ach! Vater, eilt!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Marzelline",
+    "line": "Voll Zorn folgt mir Pizarro nach,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Marzelline",
+    "line": "er drohet dir!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "Nur noch dies Wort:"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "Sprich, weiß er schon?"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Jaquino",
+    "line": "Ja, er weiß es schon."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Marzelline",
+    "line": "Der Offizier sagt' ihm was wir"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Marzelline",
+    "line": "jetzt den Gefangenen gewähren."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "Laßt alle schnell zurücke kehren!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Marzelline",
+    "line": "Ihr wißt ja, wie er tobet,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Marzelline",
+    "line": "und kennet seine Wut."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Leonore",
+    "line": "Wie mir's im Inner'n tobet,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Leonore",
+    "line": "empöret ist mein Blut!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "Mein Herz hat mich gelobet,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "sei der Tyrann in Wut!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Don Pizarro",
+    "line": "Verwegener Alter, welche Rechte"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Don Pizarro",
+    "line": "legst du dir frevelnd selber bei?"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Don Pizarro",
+    "line": "Und ziemt es dem gedung'nen Knechte,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Don Pizarro",
+    "line": "zu geben die Gefangenen frei?"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "Des Frühlings Kommen,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "das heit're, warme Sonnenlicht,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "dann ..."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "... habt ihr wohl in acht genommen,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "was sonst zu meinem Vorteil spricht?"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "Des Königs Namensfest ist heute,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "das feiern wir auf solche Art."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "Der unten stirbt, doch laßt die Ander'n"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "jetzt fröhlich hin und wieder wandern;"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "für Jenen sei der Zorn gespart!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Don Pizarro",
+    "line": "So eile, ihm sein Grab zu graben,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Don Pizarro",
+    "line": "hier will ich stille Ruhe haben."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Don Pizarro",
+    "line": "Schließ die Gefangenen wieder ein,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Don Pizarro",
+    "line": "mögst du nie mehr verwegen sein!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus of Prisoners",
+    "line": "Leb wohl, du warmes Sonnenlicht,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus of Prisoners",
+    "line": "schnell schwindest du uns wieder!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Marzelline",
+    "line": "Wie eilten sie zum Sonnenlicht,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Marzelline",
+    "line": "und scheiden traurig wieder!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Marzelline",
+    "line": "LEONORE, JAQUINO"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Marzelline",
+    "line": "Ihr hört das Wort, drum zögert nicht,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Marzelline",
+    "line": "kehrt in den Kerker wieder!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Don Pizarro",
+    "line": "Nun, Rocco, zög're länger nicht,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Don Pizarro",
+    "line": "steig in den Kerker nieder."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "Nein, Herr, ich zög're länger nicht,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "ich steige eilend nieder!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "Mir beben meine Glieder!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Rocco",
+    "line": "O unglücksel'ge, harte Pflicht!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Don Pizarro",
+    "line": "Nicht eher kehrst du wieder,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Don Pizarro",
+    "line": "bis ich vollzogen das Gericht!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Leonore",
+    "line": "Angst rinnt durch meine Glieder,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Leonore",
+    "line": "ereilt den Frevler kein Gericht!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Marzelline",
+    "line": "Die Ander'n murmeln nieder,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Marzelline",
+    "line": "hier wohnt die Lust, die Freude nicht!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Jaquino",
+    "line": "Sie sinnen auf und nieder!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Jaquino",
+    "line": "Könnt' ich versteh'n, was jeder spricht!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "Schon sinkt die Nacht hernieder,"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "aus der so bald kein Morgen bricht!"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "libretto by"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "Joseph Sonnleithner, Stephan von Breuning, Georg Friedrich Treitschke"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "Cast"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "Erster Akt"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "Zweiter Akt"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "<!--"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "-->"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "LibrettoArchive"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "Side-by-side opera libretti, translations, composer biographies, and opera history."
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "Explore"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "Operas"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "Composers"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "Paperback Libretti"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "Opera History"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "Blog"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "Browse Tags"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "Website"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "About"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "Contact"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "Links"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "Register free"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "Login"
+  },
+  {
+    "act": "act1",
+    "scene": 10,
+    "speaker": "Chorus",
+    "line": "&copy; 2012–2026 Murashev.com · All rights reserved."
+  },
+  {
+    "act": "act2",
+    "scene": 1,
+    "speaker": "Florestan",
+    "line": "Öd' ist es um mich her;"
+  },
+  {
+    "act": "act2",
+    "scene": 1,
+    "speaker": "Florestan",
+    "line": "ist das Glück von mir gefloh'n."
+  },
+  {
+    "act": "act2",
+    "scene": 1,
+    "speaker": "Florestan",
+    "line": "Wahrheit wagt' ich kühn zu sagen,"
+  },
+  {
+    "act": "act2",
+    "scene": 1,
+    "speaker": "Florestan",
+    "line": "Willig duld' ich alle Schmerzen,"
+  },
+  {
+    "act": "act2",
+    "scene": 1,
+    "speaker": "Florestan",
+    "line": "meine Pflicht hab' ich getan!"
+  },
+  {
+    "act": "act2",
+    "scene": 1,
+    "speaker": "Florestan",
+    "line": "Und spür' ich nicht linde, sanftsäuselnde Luft?"
+  },
+  {
+    "act": "act2",
+    "scene": 1,
+    "speaker": "Florestan",
+    "line": "Ich seh', wie ein Engel im rosigen Duft"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Ich glaubte schon, wir würden den Eingang gar nicht"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "finden."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Da ist er."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Vielleicht ist er tot."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Ihr meint es?"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Nein, nein, er schläft. Das müssen wir benützen und"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "gleich ans Werk gehen, wir haben keine Zeit zu ver-"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "lieren."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Es ist unmöglich, seine Züge zu unterscheiden. Gott"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "steh' mir bei, wenn er es ist!"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Hier unter diesen Trümmern ist die Zisterne, von der"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "ich dir gesagt habe. Wir brauchen nicht viel zu"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "graben, um an die Öffnung zu kommen. Gib mir die"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Haue und du, stelle dich hierher."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "O nein, es ist nur so kalt."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Nur hurtig fort, nur frisch gegraben,"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Ihr sollt ja nicht zu klagen haben,"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "ihr sollt gewiß zufrieden sein."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Komm, hilf doch diesen Stein mir heben!"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Hab Acht! Hab Acht! Er hat Gewicht."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Ich helfe schon, sorgt Euch nicht,"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "ich will mir alle Mühe geben."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Ein wenig noch!"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Geduld!"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Er weicht!"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Nur etwas noch!"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Es ist nicht leicht!"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Nur hurtig fort, nur frisch gegraben,"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Laßt mich nur wieder Kräfte haben,"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "wir werden bald zu Ende sein."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Wer du auch seist, ich will dich retten,"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "bei Gott! Du sollst kein Opfer sein!"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Gewiß, ich löse deine Ketten,"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "ich will, du Armer, dich befrei'n!"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Nein, Vater, nein, ich zaud're nicht."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Nur hurtig fort, nur frisch gegraben,"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "es währt nicht lang, so kommt er her."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Ihr sollt ja nicht zu klagen haben,"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "laßt mich nur wieder Kräfte haben,"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "denn mir wird keine Arbeit schwer."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Er erwacht!"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Er erwacht, sagst du?"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Ja, er hat eben den Kopf in die Höhe gehoben."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Ohne Zweifel wird er wieder tausend Fragen an mich"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "stellen. Ich muß allein mit ihm reden. Steig du statt"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "meiner hinab und räume noch so viel hinweg, daß"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "man die Zisterne leicht öffnen kann."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Was in mir vorgeht, ist unaussprechlich!"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Nun, Ihr habt wieder einige Augenblicke geruht?"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Florestan",
+    "line": "Geruht? Wie fände ich Ruhe?"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Diese Stimme! Wenn ich nur einen Augenblick sein"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Gesicht sehen könnte."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Florestan",
+    "line": "Werdet Ihr immer bei meinen Klagen taub sein, har-"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Florestan",
+    "line": "ter Mann?"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Gott! Er ist's!"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Florestan",
+    "line": "Sagt mir endlich einmal, wer ist der Gouverneur"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Florestan",
+    "line": "dieses Gefängnisses?"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Der Gouverneur dieses Gefängnisses ist Don Pizarro."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Florestan",
+    "line": "Pizarro! Er ist es, dessen Verbrechen ich zu entdeck-"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Florestan",
+    "line": "en wagte."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "O Barbar! Deine Grausamkeit gibt mir meine Kräfte"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "wieder."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Florestan",
+    "line": "O schickt so bald wie möglich nach Sevilla, fragt"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Florestan",
+    "line": "nach Leonore Florestan."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Gott! Er ahnt nicht, daß sie jetzt sein Grab gräbt."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Florestan",
+    "line": "Sagt ihr, daß ich hier in Ketten liege!"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Es ist unmöglich, sag' ich Euch. Ich würde mich ins"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Verderben stürzen, ohne Euch genützt zu haben."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Florestan",
+    "line": "Wenn ich denn verdammt bin, hier mein Leben zu"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Florestan",
+    "line": "enden, so laßt mich nicht langsam verschmachten."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "O Gott! Wer kann das ertragen?"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Florestan",
+    "line": "Aus Barmherzigkeit, gebt mir nur einen Tropfen"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Florestan",
+    "line": "Wasser. Das ist ja so wenig!"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Es geht mir wider meinen Willen zu Herzen."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Ich kann Euch nicht verschaffen, was Ihr verlangt."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Alles, was ich Euch anbieten kann, ist ein Restchen"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Wein, das ich in meinem Krug habe.—Fidelio!"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Da ist er! Da ist er!"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Florestan",
+    "line": "Wer ist das?"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Mein Schließer und in wenigen Tagen mein Eidam."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Es ist freilich nur wenig Wein, aber ich gebe ihn Euch"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "gerne."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Du bist ja ganz in Bewegung?"
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Wer sollte es nicht sein? Ihr selbst, Meister Rocco ..."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Rocco",
+    "line": "Ja, es ist wahr, der Mensch hat so eine Stimme ..."
+  },
+  {
+    "act": "act2",
+    "scene": 2,
+    "speaker": "Leonore",
+    "line": "Ja, sie dringt in die Tiefe des Herzens."
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Florestan",
+    "line": "Euch werde Lohn in besser'n Welten,"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Florestan",
+    "line": "O Dank! Ihr habt mich süß erquickt;"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Rocco",
+    "line": "Ich labt' ihn gern, den armen Mann,"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Rocco",
+    "line": "es ist ja bald um ihn getan."
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Leonore",
+    "line": "Wie heftig pochet dieses Herz!"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Leonore",
+    "line": "Es wogt in Freud' und scharfem Schmerz!"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Florestan",
+    "line": "Bewegt seh' ich den Jüngling hier,"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Florestan",
+    "line": "O Gott, du sendest Hoffnung mir,"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Florestan",
+    "line": "daß ich sie noch gewinnen kann."
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Leonore",
+    "line": "Wie heftig pochet dieses Herz,"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Rocco",
+    "line": "Ich tu', was meine Pflicht gebeut,"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Rocco",
+    "line": "doch hass' ich alle Grausamkeit."
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Leonore",
+    "line": "Dies Stückchen Brot, ja, seit zwei Tagen"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Leonore",
+    "line": "trag' ich es immer schon bei mir."
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Rocco",
+    "line": "Ich möchte gern, doch sag' ich dir,"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Rocco",
+    "line": "das hieße wirklich zu viel wagen."
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Leonore",
+    "line": "Ach! Ihr labtet gern den armen Mann."
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Rocco",
+    "line": "Das geht nicht an, das geht nicht an."
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Leonore",
+    "line": "Es ist ja bald um ihn getan!"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Florestan",
+    "line": "O, Dank dir, Dank! O Dank!"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Florestan",
+    "line": "Euch werde Lohn in besser'n Welten!"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Florestan",
+    "line": "Der Himmel hat euch mir geschickt."
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Florestan",
+    "line": "O Dank! Ihr habt mich süß erquickt."
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Leonore",
+    "line": "Der Himmel schicke Rettung dir,"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Leonore",
+    "line": "dann wird mir hoher Lohn gewährt."
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Rocco",
+    "line": "Mich rührte oft dein Leiden hier,"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Rocco",
+    "line": "doch Hilfe war mir streng verwehrt."
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Florestan",
+    "line": "Bewegt seh' ich den Jüngling hier,"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Florestan",
+    "line": "o wenn ich sie gewinnen kann!"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Leonore",
+    "line": "Ihr labt't ihn gern, den armen Mann!"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Rocco",
+    "line": "Ich labt' ihn gern, den armen Mann,"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Rocco",
+    "line": "es ist ja bald um ihn getan!"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Rocco",
+    "line": "Alles ist bereit. Ich gehe, das Signal zu geben."
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Leonore",
+    "line": "O Gott, gib mir Mut und Kraft!"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Florestan",
+    "line": "Wo geht er hin?"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Florestan",
+    "line": "Ist das der Vorbote meines Todes?"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Leonore",
+    "line": "Nein, nein! Beruhige dich, lieber Gefangener!"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Leonore",
+    "line": "Mein ganzes Herz reißt mich zu ihm hin."
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Leonore",
+    "line": "Sei ruhig, sag' ich dir. Was du auch hören und sehen"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Leonore",
+    "line": "magst, vergiß nicht, daß überall eine Vorsehung"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Leonore",
+    "line": "herrscht. Ja, ja, es gibt eine Vorsehung!"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Don Pizarro",
+    "line": "Ist alles bereit?"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Rocco",
+    "line": "Ja. Soll ich ihm die Ketten abnehmen?"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Don Pizarro",
+    "line": "Nein, aber schließe ihn vom Stein los. Die Zeit"
+  },
+  {
+    "act": "act2",
+    "scene": 3,
+    "speaker": "Don Pizarro",
+    "line": "drängt!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Don Pizarro",
+    "line": "Der Rache Dunkel sei zerrissen!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Don Pizarro",
+    "line": "Sieh her! Du hast mich nicht getäuscht!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Don Pizarro",
+    "line": "Pizarro, den du stürzen wolltest,"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Don Pizarro",
+    "line": "Pizarro, den du fürchten solltest,"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Don Pizarro",
+    "line": "steht nun als Rächer hier."
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Florestan",
+    "line": "Ein Mörder steht vor mir."
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Don Pizarro",
+    "line": "Noch einmal ruf' ich dir,"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Don Pizarro",
+    "line": "was du getan, zurück."
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Don Pizarro",
+    "line": "Nur noch ein Augenblick,"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Don Pizarro",
+    "line": "und dieser Dolch ..."
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "Zurück!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Florestan",
+    "line": "O Gott!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "Was soll's?"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "Durchbohren"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "mußt du erst diese Brust!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "Der Tod sei dir geschworen"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "für deine Mörderlust!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Don Pizarro",
+    "line": "Wahnsinniger!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "Halt ein! Halt ein!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Florestan",
+    "line": "O Gott!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "Töt' erst sein Weib!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "Ja, sieh hier Leonore!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Florestan",
+    "line": "Leonore!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "Ich bin sein Weib,"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "geschworen hab' ich ihm Trost,"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "Verderben dir!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "Ja, ich bin sein Weib,"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "geschworen hab ich ihm Trost,"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "Verderben dir!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Don Pizarro",
+    "line": "Welch unerhörter Mut!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Florestan",
+    "line": "Vor Freude starrt mein Blut."
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "Mir starrt vor Angst mein Blut."
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "Ich trotze seiner Wut!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "Verderben ihm,"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "ich trotze seiner Wut!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Don Pizarro",
+    "line": "Ha! Soll ich vor einem Weibe beben?"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Don Pizarro",
+    "line": "So opfr' ich beide meinem Grimm!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Don Pizarro",
+    "line": "Geteilt hast du mit ihm das Leben,"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Don Pizarro",
+    "line": "so teile nun den Tod mit ihm."
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "Der Tod sei dir geschworen,"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "durchbohren mußt du erst diese Brust!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "Noch einen Laut – und du bist tot!<"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Florestan",
+    "line": "Ach! Ich bin gerettet! Großer Gott!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Don Pizarro",
+    "line": "Ha! Der Minister! Höll' und Tod!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "O! Was ist das? Gerechter Gott!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Jaquino",
+    "line": "Vater Rocco! Vater Rocco! Der Herr Minister ist"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Jaquino",
+    "line": "angekommen. Sein Gefolge wartet schon im"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Jaquino",
+    "line": "Schloßhof."
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "Gelobt sei Gott!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "Wir kommen; ja, wir kommen augenblicklich! Und"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "diese Leute mit Fackeln sollen heruntersteigen und"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "den Herrn Gouverneur hinaufbegleiten.."
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "Du sollst gerettet sein!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Don Pizarro",
+    "line": "Die Heuchler spotten mein!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "O fürchterliche Stunde,"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "O Gott, was wartet mein?"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Don Pizarro",
+    "line": "Verzweiflung wird im Bunde"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Don Pizarro",
+    "line": "mit meiner Rache sein."
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Don Pizarro",
+    "line": "Die Heuchler spotten mein."
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "mit Mute dich befrei'n!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Florestan",
+    "line": "mit Mute mich befrei'n!"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Florestan",
+    "line": "Es schlägt der Rache Stunde,"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Florestan",
+    "line": "ich soll gerettet sein."
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "mit diesem Wütrich sein."
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Rocco",
+    "line": "O Gott, was wartet mein?"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Florestan",
+    "line": "O, meine Leonore, was hast du für mich getan?"
+  },
+  {
+    "act": "act2",
+    "scene": 4,
+    "speaker": "Leonore",
+    "line": "Nichts, nichts, mein Florestan!"
+  },
+  {
+    "act": "act2",
+    "scene": 5,
+    "speaker": "Florestan",
+    "line": "An Leonorens Brust!"
+  },
+  {
+    "act": "act2",
+    "scene": 5,
+    "speaker": "Leonore & Florestan",
+    "line": "Nach unnennbaren Leiden"
+  },
+  {
+    "act": "act2",
+    "scene": 5,
+    "speaker": "Florestan",
+    "line": "O Gott! Wie groß ist dein Erbarmen!"
+  },
+  {
+    "act": "act2",
+    "scene": 5,
+    "speaker": "Both",
+    "line": "O Dank dir, Gott, für diese Lust!"
+  },
+  {
+    "act": "act2",
+    "scene": 5,
+    "speaker": "Leonore",
+    "line": "Mein Mann, mein Mann an meiner Brust!"
+  },
+  {
+    "act": "act2",
+    "scene": 5,
+    "speaker": "Florestan",
+    "line": "Mein Weib, mein Weib an meiner Brust!"
+  },
+  {
+    "act": "act2",
+    "scene": 5,
+    "speaker": "Florestan",
+    "line": "Du bist's!"
+  },
+  {
+    "act": "act2",
+    "scene": 5,
+    "speaker": "Leonore",
+    "line": "Ich bin's!"
+  },
+  {
+    "act": "act2",
+    "scene": 5,
+    "speaker": "Florestan",
+    "line": "O himmlisches Entzücken!"
+  },
+  {
+    "act": "act2",
+    "scene": 5,
+    "speaker": "Florestan",
+    "line": "Leonore!"
+  },
+  {
+    "act": "act2",
+    "scene": 5,
+    "speaker": "Leonore",
+    "line": "Florestan!"
+  },
+  {
+    "act": "act2",
+    "scene": 5,
+    "speaker": "Leonore & Florestan",
+    "line": "O namenlose Freude,"
+  },
+  {
+    "act": "act2",
+    "scene": 5,
+    "speaker": "Leonore & Florestan",
+    "line": "nach unnennbaren Leiden"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus of People and Prisoners",
+    "line": "die lang ersehnt, doch unvermeint,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus of People and Prisoners",
+    "line": "vor unseres Grabes Tor erscheint!"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Fernando",
+    "line": "führt mich zu euch, ihr Armen, her,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Fernando",
+    "line": "daß ich der Frevel Nacht enthülle,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Fernando",
+    "line": "die all' umfangen, schwarz und schwer."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Fernando",
+    "line": "Nein, nicht länger kniet sklavisch nieder,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Fernando",
+    "line": "Tyrannenstrenge sei mir fern!"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Fernando",
+    "line": "Es sucht der Bruder seine Brüder,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "Heil sei dem Tag!"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Fernando",
+    "line": "Es sucht der Bruder seine Brüder,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Rocco",
+    "line": "Wohlan! So helfet, helfet den Armen!"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Pizarro",
+    "line": "Was seh' ich? Ha!"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Rocco",
+    "line": "Bewegt es dich?"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Pizarro",
+    "line": "Fort, fort!"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Fernando",
+    "line": "Nun rede!"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Rocco",
+    "line": "All' Erbarmen"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Rocco",
+    "line": "vereine diesem Paare sich!"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Rocco",
+    "line": "Don Florestan ..."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Fernando",
+    "line": "Der Totgeglaubte,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Fernando",
+    "line": "der Edle, der für Wahrheit stritt?"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Rocco",
+    "line": "... und Qualen ohne Zahl erlitt."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Fernando",
+    "line": "Gefesselt, bleich steht er vor mir."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Leonore & Rocco",
+    "line": "Ja, Florestan, ihr seht ihn hier."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Rocco",
+    "line": "Und Leonore ..."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Fernando",
+    "line": "Leonore!"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Rocco",
+    "line": "... der Frauen Zierde führ' ich vor;"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Rocco",
+    "line": "sie kam hierher ..."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Pizarro",
+    "line": "Zwei Worte sagen ..."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Fernando",
+    "line": "Kein Wort!"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Fernando",
+    "line": "Sie kam ..."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Rocco",
+    "line": "... dort an mein Tor,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Rocco",
+    "line": "daß ich zum Eidam sie erkor."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Marzelline",
+    "line": "O weh mir! Was vernimmt mein Ohr!"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Rocco",
+    "line": "Der Unmensch wollt' in dieser Stunde"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Rocco",
+    "line": "vollzieh'n an Florestan den Mord."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Pizarro",
+    "line": "Vollzieh'n, mit ihm!"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "Bestrafet sei der Bösewicht,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "der Unschuld unterdrückt!"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "Gerechtigkeit hält zum Gericht"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "der Rache Schwert gezückt."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Fernando",
+    "line": "Du schlossest auf des Edlen Grab:"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Fernando",
+    "line": "jetzt nimm ihm seine Ketten ab!"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Fernando",
+    "line": "Doch halt! Euch, edle Frau, allein,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Fernando",
+    "line": "euch ziemt es, ganz ihn zu befrei'n."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Leonore",
+    "line": "O Gott! O welch' ein Augenblick!"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Florestan",
+    "line": "O unaussprechlich süßes Glück!"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Fernando",
+    "line": "MARZELLINE, ROCCO"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Fernando",
+    "line": "Du prüfest, du verläßt uns nicht."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Fernando",
+    "line": "CHOR, LEONORE, MARZELLINE,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Florestan, Don Fernando & Rocco",
+    "line": "O Gott! O welch' ein Augenblick!"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Florestan, Don Fernando & Rocco",
+    "line": "O unaussprechlich süßes Glück!"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Florestan, Don Fernando & Rocco",
+    "line": "Gerecht, o Gott! Ist dein Gericht,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Florestan, Don Fernando & Rocco",
+    "line": "du prüfest, du verläßt uns nicht."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "Wer ein holdes Weib errungen,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "stimm' in unser'n Jubel ein."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Florestan",
+    "line": "Deine Treu' erhielt mein Leben,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Florestan",
+    "line": "Tugend schreckt den Bösewicht."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Leonore",
+    "line": "Liebe führte mein Bestreben,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Leonore",
+    "line": "wahre Liebe fürchtet nicht."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "Preist mit hoher Freude Glut"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Florestan & Chorus",
+    "line": "stimm' in unser'n Jubel ein,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Florestan & Chorus",
+    "line": "nie wird es zu hoch besungen,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Leonore",
+    "line": "Liebend ist es mir gelungen,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Leonore",
+    "line": "dich aus Ketten zu befrei'n."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Leonore",
+    "line": "Liebend sei es hoch besungen,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Leonore",
+    "line": "Florestan ist wieder mein!"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Leonore",
+    "line": "MARZELLINE, JAQUINO,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Don Fernando & Rocco",
+    "line": "stimm' in unser'n Jubel ein."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "Wer ein holdes Weib errungen,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "stimm' in unser'n Jubel ein."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Leonore",
+    "line": "Liebend ist es mir gelungen,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Leonore",
+    "line": "dich aus Ketten zu befrei'n."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Marzelline",
+    "line": "Liebend ist es ihr gelungen,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Marzelline",
+    "line": "ihn aus Ketten zu befrei'n."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Florestan",
+    "line": "Liebend ist es dir gelungen,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Florestan",
+    "line": "mich aus Ketten zu befrei'n."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Jaquino, Don Fernando & Rocco",
+    "line": "Liebend ist es ihr gelungen,"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Jaquino, Don Fernando & Rocco",
+    "line": "ihn aus Ketten zu befrei'n."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "Retterin des Gatten sein"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "ENDE DER OPER"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "libretto by"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "Joseph Sonnleithner, Stephan von Breuning, Georg Friedrich Treitschke"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "Cast"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "Erster Akt"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "Zweiter Akt"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "<!--"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "-->"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "LibrettoArchive"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "Side-by-side opera libretti, translations, composer biographies, and opera history."
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "Explore"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "Operas"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "Composers"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "Paperback Libretti"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "Opera History"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "Blog"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "Browse Tags"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "Website"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "About"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "Contact"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "Links"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "Register free"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "Login"
+  },
+  {
+    "act": "act2",
+    "scene": 6,
+    "speaker": "Chorus",
+    "line": "&copy; 2012–2026 Murashev.com · All rights reserved."
+  }
+]

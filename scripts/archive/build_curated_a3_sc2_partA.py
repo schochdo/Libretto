@@ -1,0 +1,1206 @@
+# scripts/build_curated_a3_sc2_partA.py
+import json
+
+DATA = {}
+
+# Section 1: Fenton's Sonnet & Duet with Nannetta (0-13)
+DATA["Dal labbro il canto estasiato vola"] = [
+    "From the lip the ecstatic song flies",
+    [
+        {"word": "labbro", "lemma": "labbro", "pos": "noun", "meaning": "lip"},
+        {"word": "canto", "lemma": "canto", "pos": "noun", "meaning": "song / singing"},
+        {"word": "estasiato", "lemma": "estasiato", "pos": "adjective", "meaning": "ecstatic / enraptured"},
+        {"word": "vola", "lemma": "volare", "pos": "verb", "meaning": "flies (3rd sing. pres.)"}
+    ],
+    "Fenton opens his poetic sonnet ('Dal labbro il canto estasiato vola') alone in Windsor Forest at midnight, expressing romantic ecstasy through soaring lyricism."
+]
+
+DATA["pe' silenzi notturni e va lontano"] = [
+    "through the night silences and goes far",
+    [
+        {"word": "pe'", "lemma": "per", "pos": "preposition", "meaning": "through / across (poetic contraction of per i)"},
+        {"word": "silenzi", "lemma": "silenzio", "pos": "noun", "meaning": "silences (masc. plur.)"},
+        {"word": "notturni", "lemma": "notturno", "pos": "adjective", "meaning": "nocturnal / night"},
+        {"word": "va", "lemma": "andare", "pos": "verb", "meaning": "goes (3rd sing. pres.)"},
+        {"word": "lontano", "lemma": "lontano", "pos": "adverb", "meaning": "far / far away"}
+    ],
+    "The archaic contraction 'pe'' (per i) introduces the nocturnal forest setting as Fenton's voice travels through the atmospheric silence."
+]
+
+DATA["e alfin ritrova un altro labbro umano"] = [
+    "and at last finds another human lip",
+    [
+        {"word": "alfin", "lemma": "al fine", "pos": "adverb", "meaning": "at last / finally (apocope of alfine)"},
+        {"word": "ritrova", "lemma": "ritrovare", "pos": "verb", "meaning": "finds again / discovers (3rd sing. pres.)"},
+        {"word": "labbro", "lemma": "labbro", "pos": "noun", "meaning": "lip"},
+        {"word": "umano", "lemma": "umano", "pos": "adjective", "meaning": "human"}
+    ],
+    "Fenton's hendecasyllable personifies the wandering song encountering another human lip (Nannetta's), bridging vocal melody and physical intimacy."
+]
+
+DATA["che gli risponde co' la sua parola."] = [
+    "that responds to it with its word.",
+    [
+        {"word": "risponde", "lemma": "rispondere", "pos": "verb", "meaning": "responds / answers (3rd sing. pres.)"},
+        {"word": "gli", "lemma": "gli", "pos": "pronoun", "meaning": "to it / to him (indirect object pronoun)"},
+        {"word": "co'", "lemma": "con", "pos": "preposition", "meaning": "with (poetic contraction of con)"},
+        {"word": "parola", "lemma": "parola", "pos": "noun", "meaning": "word / speech"}
+    ],
+    "The vocal echo completes the sonnet's first quatrain (vola / lontano / umano / parola), creating an interactive vocal dialogue between separated lovers."
+]
+
+DATA["Allor la nota che non è più sola"] = [
+    "Then the note that is no longer alone",
+    [
+        {"word": "Allor", "lemma": "allora", "pos": "adverb", "meaning": "then / at that time (apocope of allora)"},
+        {"word": "nota", "lemma": "nota", "pos": "noun", "meaning": "note / musical tone"},
+        {"word": "più", "lemma": "più", "pos": "adverb", "meaning": "more / longer"},
+        {"word": "sola", "lemma": "solo", "pos": "adjective", "meaning": "alone / solitary (fem. sing.)"}
+    ],
+    "Beginning the second quatrain, Fenton describes the metaphysical transformation when a solitary melody harmonizes with a responsive partner."
+]
+
+DATA["vibra di gioia in un accordo arcano"] = [
+    "vibrates with joy in a mysterious chord",
+    [
+        {"word": "vibra", "lemma": "vibrare", "pos": "verb", "meaning": "vibrates / resonates (3rd sing. pres.)"},
+        {"word": "gioia", "lemma": "gioia", "pos": "noun", "meaning": "joy / delight"},
+        {"word": "accordo", "lemma": "accordo", "pos": "noun", "meaning": "chord / harmony / agreement"},
+        {"word": "arcano", "lemma": "arcano", "pos": "adjective", "meaning": "mysterious / secret / arcane"}
+    ],
+    "Boito's lyric blends musical terminology ('accordo') with mystical imagery ('arcano'), depicting spiritual resonance between lovers."
+]
+
+DATA["e innamorando l'aer antelucano"] = [
+    "and making the pre-dawn air fall in love",
+    [
+        {"word": "innamorando", "lemma": "innamorare", "pos": "verb", "meaning": "enamoring / making fall in love (gerund)"},
+        {"word": "aer", "lemma": "aere", "pos": "noun", "meaning": "air / atmosphere (poetic apocope)"},
+        {"word": "antelucano", "lemma": "antelucano", "pos": "adjective", "meaning": "pre-dawn / before dawn (Latinate)"}
+    ],
+    "The gerund 'innamorando' governs the rare Latinate adjective 'antelucano' (ante lucem, before daybreak), highlighting Boito's sophisticated Scapigliatura vocabulary."
+]
+
+DATA["con altra voce al suo fonte rivola."] = [
+    "with another voice flies back to its source.",
+    [
+        {"word": "voce", "lemma": "voce", "pos": "noun", "meaning": "voice"},
+        {"word": "fonte", "lemma": "fonte", "pos": "noun", "meaning": "source / spring / fountain"},
+        {"word": "rivola", "lemma": "rivolare", "pos": "verb", "meaning": "flies back / returns flying (3rd sing. pres.)"}
+    ],
+    "Closing the octet with the rhyme 'rivola' (echoing 'vola' and 'sola'), the melody returns enriched by the beloved's voice like water returning to its source."
+]
+
+DATA["Quivi ripiglia suon, ma la sua cura"] = [
+    "There it resumes sound, but its longing",
+    [
+        {"word": "Quivi", "lemma": "quivi", "pos": "adverb", "meaning": "there / in that place (literary)"},
+        {"word": "ripiglia", "lemma": "ripigliare", "pos": "verb", "meaning": "resumes / takes up again (3rd sing. pres.)"},
+        {"word": "suon", "lemma": "suono", "pos": "noun", "meaning": "sound (poetic apocope of suono)"},
+        {"word": "cura", "lemma": "cura", "pos": "noun", "meaning": "care / longing / concern (Latinate cura)"}
+    ],
+    "The volta (turn) of the sonnet begins the sestet with 'Quivi ripiglia suon'; 'cura' carries classical Latin connotations of anxious love-longing."
+]
+
+DATA["tende sempre ad unir chi lo disuna."] = [
+    "aims always to unite those who separate it.",
+    [
+        {"word": "tende", "lemma": "tendere", "pos": "verb", "meaning": "aims / tends / strives (3rd sing. pres.)"},
+        {"word": "sempre", "lemma": "sempre", "pos": "adverb", "meaning": "always"},
+        {"word": "unir", "lemma": "unire", "pos": "verb", "meaning": "to unite / join (apocope of unire)"},
+        {"word": "disuna", "lemma": "disunare", "pos": "verb", "meaning": "separates / disunites (3rd sing. pres.)"}
+    ],
+    "Clever wordplay contrasting 'unir' and 'disuna' (to unite vs. to disunite), expressing how love-song continually strives to reconcile divided lovers."
+]
+
+DATA["Così baciai la disiata bocca!"] = [
+    "Thus I kissed the desired mouth!",
+    [
+        {"word": "Così", "lemma": "così", "pos": "adverb", "meaning": "thus / so"},
+        {"word": "baciai", "lemma": "baciare", "pos": "verb", "meaning": "I kissed (1st sing. passato remoto)"},
+        {"word": "disiata", "lemma": "disiato", "pos": "adjective", "meaning": "desired / longed-for (archaic/poetic)"},
+        {"word": "bocca", "lemma": "bocca", "pos": "noun", "meaning": "mouth / lips"}
+    ],
+    "Passionate culmination of Fenton's sonnet: the abstract wandering song crystallizes into the physical remembrance of kissing Nannetta's mouth."
+]
+
+DATA["Bocca baciata non perde ventura."] = [
+    "A kissed mouth does not lose its good fortune.",
+    [
+        {"word": "Bocca", "lemma": "bocca", "pos": "noun", "meaning": "mouth"},
+        {"word": "baciata", "lemma": "baciare", "pos": "adjective", "meaning": "kissed (past participle used as adj.)"},
+        {"word": "non", "lemma": "non", "pos": "adverb", "meaning": "not"},
+        {"word": "perde", "lemma": "perdere", "pos": "verb", "meaning": "loses (3rd sing. pres.)"},
+        {"word": "ventura", "lemma": "ventura", "pos": "noun", "meaning": "fortune / luck / fresh charm"}
+    ],
+    "Fenton quotes the first half of Boccaccio's famous aphorism from Decameron (II, 7): 'Bocca baciata non perde ventura...'"
+]
+
+DATA["Anzi rinnova come fa la luna."] = [
+    "Rather it renews itself as does the moon.",
+    [
+        {"word": "Anzi", "lemma": "anzi", "pos": "conjunction", "meaning": "on the contrary / rather"},
+        {"word": "rinnova", "lemma": "rinnovare", "pos": "verb", "meaning": "renews / refreshes (3rd sing. pres.)"},
+        {"word": "come", "lemma": "come", "pos": "conjunction", "meaning": "as / like"},
+        {"word": "fa", "lemma": "fare", "pos": "verb", "meaning": "does (3rd sing. pres.)"},
+        {"word": "luna", "lemma": "luna", "pos": "noun", "meaning": "moon"}
+    ],
+    "Nannetta enters singing offstage to complete Boccaccio's proverb ('...anzi rinnuova come fa la luna'), playfully asserting that kisses only enhance youthful beauty."
+]
+
+DATA["Ma il canto muor nel bacio che lo tocca."] = [
+    "But the song dies in the kiss that touches it.",
+    [
+        {"word": "canto", "lemma": "canto", "pos": "noun", "meaning": "song"},
+        {"word": "muor", "lemma": "morire", "pos": "verb", "meaning": "dies (poetic apocope of muore)"},
+        {"word": "bacio", "lemma": "bacio", "pos": "noun", "meaning": "kiss"},
+        {"word": "tocca", "lemma": "toccare", "pos": "verb", "meaning": "touches (3rd sing. pres.)"}
+    ],
+    "Fenton brings his sonnet to a breathtaking close: the song dissolves into the physical touch of Nannetta's kiss, as the lovers finally embrace."
+]
+
+# Section 2: Alice, Fenton, Nannetta, Quickly, Meg (14-30)
+DATA["Nossignore! Tu indossa questa cappa."] = [
+    "No, sir! You put on this cloak.",
+    [
+        {"word": "Nossignore", "lemma": "nossignore", "pos": "interjection", "meaning": "no sir / by no means"},
+        {"word": "Tu", "lemma": "tu", "pos": "pronoun", "meaning": "you (2nd sing. subject)"},
+        {"word": "indossa", "lemma": "indossare", "pos": "verb", "meaning": "put on / don (imperative 2nd sing.)"},
+        {"word": "questa", "lemma": "questo", "pos": "adjective", "meaning": "this (fem. sing.)"},
+        {"word": "cappa", "lemma": "cappa", "pos": "noun", "meaning": "cloak / monk's cowl"}
+    ],
+    "Alice abruptly bursts in on Fenton and Nannetta's romantic reverie with a pragmatic command, thrusting a disguise into Fenton's hands."
+]
+
+DATA["Che vuol dir ciò?"] = [
+    "What does this mean?",
+    [
+        {"word": "Che", "lemma": "che", "pos": "pronoun", "meaning": "what (interrogative pronoun)"},
+        {"word": "vuol", "lemma": "volere", "pos": "verb", "meaning": "wants / means (apocope of vuole)"},
+        {"word": "dir", "lemma": "dire", "pos": "verb", "meaning": "to say / mean (apocope of dire)"},
+        {"word": "ciò", "lemma": "ciò", "pos": "pronoun", "meaning": "this / that (demonstrative)"}
+    ],
+    "Fenton is startled and bewildered by Alice's sudden stage-managing, asking for an explanation of the monk's habit."
+]
+
+DATA["Lasciati fare."] = [
+    "Let yourself be handled.",
+    [
+        {"word": "Lasciati", "lemma": "lasciare", "pos": "verb", "meaning": "let yourself (imperative + reflexive pronoun ti)"},
+        {"word": "fare", "lemma": "fare", "pos": "verb", "meaning": "to do / to be done / handle"}
+    ],
+    "Nannetta tells Fenton to submit quietly to the women's styling ('lasciati fare' is an idiomatic formula meaning 'let us take care of it / don't resist')."
+]
+
+DATA["Allaccia."] = [
+    "Fasten.",
+    [
+        {"word": "Allaccia", "lemma": "allacciare", "pos": "verb", "meaning": "fasten / tie / lace up (imperative 2nd sing.)"}
+    ],
+    "A clipped, brisk imperative from Alice instructing Nannetta or Fenton to tie the cords of the monastic cowl."
+]
+
+DATA["È un fraticel sgusciato dalla trappa."] = [
+    "He is a little friar slipped out from the Trappist monastery.",
+    [
+        {"word": "fraticel", "lemma": "fraticello", "pos": "noun", "meaning": "little friar / young monk (diminutive apocope)"},
+        {"word": "sgusciato", "lemma": "sgusciare", "pos": "verb", "meaning": "slipped out / hatched / escaped (past participle)"},
+        {"word": "dalla", "lemma": "da", "pos": "preposition", "meaning": "from the (articulated preposition da + la)"},
+        {"word": "trappa", "lemma": "trappa", "pos": "noun", "meaning": "Trappist monastery / La Trappe"}
+    ],
+    "Nannetta playfully teases Fenton in his monk costume: 'sgusciato dalla trappa' evokes an escapee from the notoriously silent, austere Trappist order."
+]
+
+DATA["Il tradimento che Ford ne minaccia"] = [
+    "The betrayal that Ford threatens us with",
+    [
+        {"word": "tradimento", "lemma": "tradimento", "pos": "noun", "meaning": "betrayal / treachery"},
+        {"word": "Ford", "lemma": "Ford", "pos": "noun", "meaning": "Ford"},
+        {"word": "ne", "lemma": "ne", "pos": "pronoun", "meaning": "us / to us (archaic/literary clitic pronoun equivalent to ci)"},
+        {"word": "minaccia", "lemma": "minacciare", "pos": "verb", "meaning": "threatens (3rd sing. pres.)"}
+    ],
+    "Alice explains the stakes: Ford's covert plan to marry Nannetta to Dr. Caius under cover of the masquerade constitutes 'tradimento'."
+]
+
+DATA["tornar deve in suo scorno e in nostro aiuto."] = [
+    "must turn to his shame and to our aid.",
+    [
+        {"word": "tornar", "lemma": "tornare", "pos": "verb", "meaning": "to turn / redound (apocope of tornare)"},
+        {"word": "deve", "lemma": "dovere", "pos": "verb", "meaning": "must / ought to (3rd sing. pres.)"},
+        {"word": "scorno", "lemma": "scorno", "pos": "noun", "meaning": "shame / scorn / humiliation"},
+        {"word": "nostro", "lemma": "nostro", "pos": "adjective", "meaning": "our"},
+        {"word": "aiuto", "lemma": "aiuto", "pos": "noun", "meaning": "aid / help"}
+    ],
+    "Alice outlines her comic counter-plot: Ford's patriarchal scheme will rebound upon him in public mockery ('scorno'), clearing the path for Fenton and Nannetta."
+]
+
+DATA["Spiegatevi."] = [
+    "Explain yourselves.",
+    [
+        {"word": "Spiegatevi", "lemma": "spiegare", "pos": "verb", "meaning": "explain yourselves (imperative 2nd plur. + reflexive vi)"}
+    ],
+    "Fenton requests clarification of Alice's intricate scheme while being bundled into the monk's gown."
+]
+
+DATA["Ubbidisci presto e muto."] = [
+    "Obey quickly and silently.",
+    [
+        {"word": "Ubbidisci", "lemma": "ubbidire", "pos": "verb", "meaning": "obey (imperative 2nd sing.)"},
+        {"word": "presto", "lemma": "presto", "pos": "adverb", "meaning": "quickly / promptly"},
+        {"word": "muto", "lemma": "muto", "pos": "adjective", "meaning": "silent / mute"}
+    ],
+    "Alice brooks no delays; she orders unquestioning obedience and silence to maintain operational secrecy in the park."
+]
+
+DATA["L'occasïone come viene scappa."] = [
+    "Opportunity, as soon as it arrives, flees.",
+    [
+        {"word": "occasïone", "lemma": "occasione", "pos": "noun", "meaning": "opportunity / occasion (with diaeresis)"},
+        {"word": "come", "lemma": "come", "pos": "conjunction", "meaning": "as soon as / when"},
+        {"word": "viene", "lemma": "venire", "pos": "verb", "meaning": "comes / arrives (3rd sing. pres.)"},
+        {"word": "scappa", "lemma": "scappare", "pos": "verb", "meaning": "runs away / escapes (3rd sing. pres.)"}
+    ],
+    "Proverbial wisdom personifying Opportunity (Occasio) as a fleeting moment that must be seized instantly before it vanishes."
+]
+
+DATA["Chi vestirai da finta sposa?"] = [
+    "Whom will you dress as the sham bride?",
+    [
+        {"word": "Chi", "lemma": "chi", "pos": "pronoun", "meaning": "whom / who (interrogative pronoun)"},
+        {"word": "vestirai", "lemma": "vestire", "pos": "verb", "meaning": "you will dress (2nd sing. future)"},
+        {"word": "da", "lemma": "da", "pos": "preposition", "meaning": "as / in the guise of"},
+        {"word": "finta", "lemma": "finto", "pos": "adjective", "meaning": "fake / sham / false"},
+        {"word": "sposa", "lemma": "sposa", "pos": "noun", "meaning": "bride"}
+    ],
+    "Alice asks Quickly whom she has recruited to impersonate Nannetta at the mock wedding engineered by Ford for Dr. Caius."
+]
+
+DATA["Un gaio"] = [
+    "A cheerful",
+    [
+        {"word": "Un", "lemma": "uno", "pos": "adjective", "meaning": "a / an (indefinite article)"},
+        {"word": "gaio", "lemma": "gaio", "pos": "adjective", "meaning": "cheerful / merry / gay"}
+    ],
+    "Quickly begins describing the surrogate bride with an enjambment, emphasizing the lively irony of the replacement."
+]
+
+DATA["ladron nasuto che aborre il Dottor Cajo."] = [
+    "big-nosed rogue who abhors Doctor Caius.",
+    [
+        {"word": "ladron", "lemma": "ladrone", "pos": "noun", "meaning": "thief / rogue (apocope of ladrone)"},
+        {"word": "nasuto", "lemma": "nasuto", "pos": "adjective", "meaning": "big-nosed / long-nosed"},
+        {"word": "che", "lemma": "che", "pos": "pronoun", "meaning": "who / that (relative pronoun)"},
+        {"word": "aborre", "lemma": "aborrire", "pos": "verb", "meaning": "abhors / detests (3rd sing. pres.)"},
+        {"word": "Cajo", "lemma": "Caio", "pos": "noun", "meaning": "Caius"}
+    ],
+    "Quickly reveals Bardolfo as the substitute bride: with his bulbous, red nose ('nasuto') and vehement hatred for Dr. Caius, the wedding will be an unforgettable catastrophe for Caius."
+]
+
+DATA["Ho nascosto i folletti lungo il fosso."] = [
+    "I have hidden the goblins along the ditch.",
+    [
+        {"word": "nascosto", "lemma": "nascondere", "pos": "verb", "meaning": "hidden (past participle)"},
+        {"word": "folletti", "lemma": "folletto", "pos": "noun", "meaning": "goblins / elves / imps"},
+        {"word": "lungo", "lemma": "lungo", "pos": "preposition", "meaning": "along"},
+        {"word": "fosso", "lemma": "fosso", "pos": "noun", "meaning": "ditch / trench"}
+    ],
+    "Meg arrives confirming tactical readiness: the children disguised as spirits and imps ('folletti') are stationed along the ditch in ambush."
+]
+
+DATA["Siam pronte."] = [
+    "We are ready.",
+    [
+        {"word": "Siam", "lemma": "essere", "pos": "verb", "meaning": "we are (poetic apocope of siamo)"},
+        {"word": "pronte", "lemma": "pronto", "pos": "adjective", "meaning": "ready / prepared (fem. plur.)"}
+    ],
+    "Meg reports that all conspirators are primed and in position for Falstaff's midnight rendezvous."
+]
+
+DATA["Zitto. Viene il pezzo grosso."] = [
+    "Quiet. The big shot is coming.",
+    [
+        {"word": "Zitto", "lemma": "zitto", "pos": "interjection", "meaning": "quiet / hush"},
+        {"word": "Viene", "lemma": "venire", "pos": "verb", "meaning": "comes / is coming (3rd sing. pres.)"},
+        {"word": "pezzo grosso", "lemma": "pezzo grosso", "pos": "idiom", "meaning": "big shot / VIP (with pun on Falstaff's bulk)"}
+    ],
+    "Alice alerts everyone to Falstaff's arrival using the idiom 'pezzo grosso' (bigwig / big shot), a delicious double entendre mocking Falstaff's immense physical girth."
+]
+
+DATA["Via!..."] = [
+    "Away!...",
+    [
+        {"word": "Via", "lemma": "via", "pos": "interjection", "meaning": "away / off with you / scatter"}
+    ],
+    "Alice gives the signal to scatter and take cover before Falstaff reaches Herne's Oak."
+]
+
+# Section 3: Falstaff Enters, Strikes of Midnight & Invocation of Jove (31-39)
+DATA["Falstaff con due corna di cervo in testa e avviluppato in un ampio"] = [
+    "Falstaff with two stag horns on his head and wrapped in a wide",
+    [
+        {"word": "corna", "lemma": "corno", "pos": "noun", "meaning": "horns / antlers (fem. plur. of corno)"},
+        {"word": "cervo", "lemma": "cervo", "pos": "noun", "meaning": "stag / deer"},
+        {"word": "testa", "lemma": "testa", "pos": "noun", "meaning": "head"},
+        {"word": "avviluppato", "lemma": "avviluppare", "pos": "verb", "meaning": "wrapped / swathed (past participle)"},
+        {"word": "ampio", "lemma": "ampio", "pos": "adjective", "meaning": "wide / ample"}
+    ],
+    "Stage direction detailing Falstaff's grotesque mythical costume as Herne the Hunter, wearing massive antlers and wrapped in a heavy mantle."
+]
+
+DATA["mantello. Poi Alice. Poi Meg. Mentre Falstaff entra in scena, suona la"] = [
+    "cloak. Then Alice. Then Meg. As Falstaff enters the stage, midnight",
+    [
+        {"word": "mantello", "lemma": "mantello", "pos": "noun", "meaning": "cloak / mantle"},
+        {"word": "Poi", "lemma": "poi", "pos": "adverb", "meaning": "then / afterwards"},
+        {"word": "Mentre", "lemma": "mentre", "pos": "conjunction", "meaning": "while / as"},
+        {"word": "scena", "lemma": "scena", "pos": "noun", "meaning": "scene / stage"},
+        {"word": "suona", "lemma": "suonare", "pos": "verb", "meaning": "sounds / strikes (3rd sing. pres.)"}
+    ],
+    "Stage direction tracking the sequence of characters entering the moonlit clearing as the distant Windsor chimes strike midnight."
+]
+
+DATA["mezzanotte."] = [
+    "strikes.",
+    [
+        {"word": "mezzanotte", "lemma": "mezzanotte", "pos": "noun", "meaning": "midnight"}
+    ],
+    "Conclusion of the stage direction marking the stroke of midnight, the witching hour for the fairy masquerade."
+]
+
+DATA["Una, due, tre, quattro, cinque, sei, sette botte,"] = [
+    "One, two, three, four, five, six, seven strokes,",
+    [
+        {"word": "Una", "lemma": "uno", "pos": "adjective", "meaning": "one (cardinal numeral)"},
+        {"word": "quattro", "lemma": "quattro", "pos": "adjective", "meaning": "four (cardinal numeral)"},
+        {"word": "sette", "lemma": "sette", "pos": "adjective", "meaning": "seven (cardinal numeral)"},
+        {"word": "botte", "lemma": "botta", "pos": "noun", "meaning": "strokes / blows / bell chimes (fem. plur.)"}
+    ],
+    "Falstaff counts the eerie bell tolls echoing through Windsor Forest with comic nervous suspense."
+]
+
+DATA["otto, nove, dieci, undici, dodici. Mezzanotte."] = [
+    "eight, nine, ten, eleven, twelve. Midnight.",
+    [
+        {"word": "otto", "lemma": "otto", "pos": "adjective", "meaning": "eight (cardinal numeral)"},
+        {"word": "dieci", "lemma": "dieci", "pos": "adjective", "meaning": "ten (cardinal numeral)"},
+        {"word": "dodici", "lemma": "dodici", "pos": "adjective", "meaning": "twelve (cardinal numeral)"},
+        {"word": "Mezzanotte", "lemma": "mezzanotte", "pos": "noun", "meaning": "midnight"}
+    ],
+    "Falstaff reaches the twelfth stroke, verifying that the appointed midnight hour has arrived."
+]
+
+DATA["Questa è la quercia. Numi, proteggetemi! Giove!"] = [
+    "This is the oak. Gods, protect me! Jove!",
+    [
+        {"word": "Questa", "lemma": "questo", "pos": "pronoun", "meaning": "this (demonstrative pronoun)"},
+        {"word": "quercia", "lemma": "quercia", "pos": "noun", "meaning": "oak / Herne's Oak"},
+        {"word": "Numi", "lemma": "nume", "pos": "noun", "meaning": "gods / deities (vocative plural)"},
+        {"word": "proteggetemi", "lemma": "proteggere", "pos": "verb", "meaning": "protect me (imperative 2nd plur. + enclitic mi)"},
+        {"word": "Giove", "lemma": "Giove", "pos": "noun", "meaning": "Jove / Jupiter"}
+    ],
+    "Arriving beneath Herne's Oak, Falstaff invokes the pagan gods in a direct homage to Shakespeare's Merry Wives of Windsor (Act V, scene 5)."
+]
+
+DATA["Tu per amor d'Europa ti trasformasti in bove,"] = [
+    "You for love of Europa transformed yourself into an ox,",
+    [
+        {"word": "amor", "lemma": "amore", "pos": "noun", "meaning": "love (apocope of amore)"},
+        {"word": "Europa", "lemma": "Europa", "pos": "noun", "meaning": "Europa"},
+        {"word": "trasformasti", "lemma": "trasformare", "pos": "verb", "meaning": "you transformed (2nd sing. passato remoto)"},
+        {"word": "ti", "lemma": "ti", "pos": "pronoun", "meaning": "yourself (reflexive pronoun)"},
+        {"word": "bove", "lemma": "bove", "pos": "noun", "meaning": "ox / bull (literary form of bue)"}
+    ],
+    "Falstaff rationalizes his ridiculous animal disguise by citing Jupiter's mythical metamorphosis into a bull to seduce Europa."
+]
+
+DATA["portasti corna. I numi c'insegnan la modestia."] = [
+    "you wore horns. The gods teach us modesty.",
+    [
+        {"word": "portasti", "lemma": "portare", "pos": "verb", "meaning": "you wore / bore (2nd sing. passato remoto)"},
+        {"word": "corna", "lemma": "corno", "pos": "noun", "meaning": "horns (fem. plur.)"},
+        {"word": "numi", "lemma": "nume", "pos": "noun", "meaning": "gods / divinities"},
+        {"word": "insegnan", "lemma": "insegnare", "pos": "verb", "meaning": "teach (3rd plur. pres. apocope)"},
+        {"word": "modestia", "lemma": "modestia", "pos": "noun", "meaning": "modesty / humility"}
+    ],
+    "Hilarious comic theology: if Jupiter himself wore cuckold's horns for lust, mortal men should modestly embrace humiliation in the service of passion."
+]
+
+DATA["L'amore metamorfosa un uom in una bestia."] = [
+    "Love metamorphoses a man into a beast.",
+    [
+        {"word": "amore", "lemma": "amore", "pos": "noun", "meaning": "love"},
+        {"word": "metamorfosa", "lemma": "metamorfosare", "pos": "verb", "meaning": "metamorphoses / transforms (3rd sing. pres.)"},
+        {"word": "uom", "lemma": "uomo", "pos": "noun", "meaning": "man (poetic apocope of uomo)"},
+        {"word": "bestia", "lemma": "bestia", "pos": "noun", "meaning": "beast / animal"}
+    ],
+    "Translation of Shakespeare's line: 'O powerful love! that, in some respects, makes a beast a man; in some other, a man a beast.'"
+]
+
+# Section 4: Meeting with Alice, Panic & Demonic Sabbath (40-69)
+DATA["Odo un soave passo!"] = [
+    "I hear a gentle step!",
+    [
+        {"word": "Odo", "lemma": "udire", "pos": "verb", "meaning": "I hear (1st sing. pres.)"},
+        {"word": "soave", "lemma": "soave", "pos": "adjective", "meaning": "sweet / gentle / soft"},
+        {"word": "passo", "lemma": "passo", "pos": "noun", "meaning": "step / footstep"}
+    ],
+    "Falstaff detects rustling footsteps approaching in the dark wood and anticipates his amorous rendezvous."
+]
+
+DATA["Alice! Amor ti chiama!"] = [
+    "Alice! Love calls you!",
+    [
+        {"word": "Alice", "lemma": "Alice", "pos": "noun", "meaning": "Alice"},
+        {"word": "Amor", "lemma": "amore", "pos": "noun", "meaning": "love (apocope of amore)"},
+        {"word": "ti", "lemma": "ti", "pos": "pronoun", "meaning": "you (direct object pronoun)"},
+        {"word": "chiama", "lemma": "chiamare", "pos": "verb", "meaning": "calls (3rd sing. pres.)"}
+    ],
+    "Falstaff personifies Love calling out to Alice in the shadows of Windsor Forest."
+]
+
+DATA["Vieni! l'amor m'infiamma!"] = [
+    "Come! love sets me on fire!",
+    [
+        {"word": "Vieni", "lemma": "venire", "pos": "verb", "meaning": "come (imperative 2nd sing.)"},
+        {"word": "m'", "lemma": "mi", "pos": "pronoun", "meaning": "me (elided direct object pronoun)"},
+        {"word": "infiamma", "lemma": "infiammare", "pos": "verb", "meaning": "inflames / sets ablaze (3rd sing. pres.)"}
+    ],
+    "Falstaff's ardent summons expressing his swelling, comical passion ('l'amor m'infiamma')."
+]
+
+DATA["Sir John!"] = [
+    "Sir John!",
+    [
+        {"word": "Sir", "lemma": "sir", "pos": "noun", "meaning": "Sir (title)"},
+        {"word": "John", "lemma": "John", "pos": "noun", "meaning": "John"}
+    ],
+    "Alice arrives pretending to be breathlessly answering his call."
+]
+
+DATA["Sei la mia dama!"] = [
+    "You are my lady!",
+    [
+        {"word": "Sei", "lemma": "essere", "pos": "verb", "meaning": "you are (2nd sing. pres.)"},
+        {"word": "mia", "lemma": "mio", "pos": "adjective", "meaning": "my (fem. sing.)"},
+        {"word": "dama", "lemma": "dama", "pos": "noun", "meaning": "lady / noblewoman"}
+    ],
+    "First half of Boito's ingenious bilingual wordplay on Shakespeare's doe / lady: 'Sei la mia dama' / 'Sei la mia damma'."
+]
+
+DATA["Sei la mia damma!"] = [
+    "You are my doe!",
+    [
+        {"word": "Sei", "lemma": "essere", "pos": "verb", "meaning": "you are (2nd sing. pres.)"},
+        {"word": "damma", "lemma": "damma", "pos": "noun", "meaning": "doe / fallow deer (archaic literary form of daino)"}
+    ],
+    "Boito's pun: 'dama' (lady) pairs with 'damma' (female deer / doe), echoing Shakespeare's 'My doe with the black scut!' (Merry Wives V.5)."
+]
+
+DATA["O sfavillante amor!"] = [
+    "O sparkling love!",
+    [
+        {"word": "sfavillante", "lemma": "sfavillante", "pos": "adjective", "meaning": "sparkling / glittering / blazing"},
+        {"word": "amor", "lemma": "amore", "pos": "noun", "meaning": "love (apocope of amore)"}
+    ],
+    "Alice heightens the mock-heroic parody of courtly love by greeting Falstaff with melodramatic exuberance."
+]
+
+DATA["Vieni! Già fremo e fervo!"] = [
+    "Come! Already I shudder and boil!",
+    [
+        {"word": "Vieni", "lemma": "venire", "pos": "verb", "meaning": "come (imperative 2nd sing.)"},
+        {"word": "Già", "lemma": "già", "pos": "adverb", "meaning": "already"},
+        {"word": "fremo", "lemma": "fremere", "pos": "verb", "meaning": "I quiver / tremble / rage (1st sing. pres.)"},
+        {"word": "fervo", "lemma": "fervere", "pos": "verb", "meaning": "I boil / glow / burn with zeal (1st sing. pres.)"}
+    ],
+    "Falstaff uses twin alliterative Latinate verbs ('fremo e fervo') to express his boiling carnal agitation."
+]
+
+DATA["Sono il tuo servo!"] = [
+    "I am your servant!",
+    [
+        {"word": "Sono", "lemma": "essere", "pos": "verb", "meaning": "I am (1st sing. pres.)"},
+        {"word": "tuo", "lemma": "tuo", "pos": "adjective", "meaning": "your (masc. sing.)"},
+        {"word": "servo", "lemma": "servo", "pos": "noun", "meaning": "servant / slave"}
+    ],
+    "Courtly devotion rhyming with 'fervo' and leading up to the beast pun 'cervo'."
+]
+
+DATA["Sono il tuo cervo, imbizzarrito. Ed or"] = [
+    "I am your stag, run wild. And now",
+    [
+        {"word": "cervo", "lemma": "cervo", "pos": "noun", "meaning": "stag / hart"},
+        {"word": "imbizzarrito", "lemma": "imbizzarrire", "pos": "adjective", "meaning": "frenzied / enraged / run wild (past participle as adj.)"},
+        {"word": "or", "lemma": "ora", "pos": "adverb", "meaning": "now (apocope of ora)"}
+    ],
+    "Falstaff completes the triple rhyme servo/fervo/cervo, identifying himself as an antlered stag driven wild by rutting season."
+]
+
+DATA["piovan tartufi, rafani e finocchi!"] = [
+    "let truffles, radishes, and fennels rain down!",
+    [
+        {"word": "piovan", "lemma": "piovere", "pos": "verb", "meaning": "let rain down (3rd plur. pres. subjunctive apocope)"},
+        {"word": "tartufi", "lemma": "tartufo", "pos": "noun", "meaning": "truffles"},
+        {"word": "rafani", "lemma": "rafano", "pos": "noun", "meaning": "horseradishes / radishes"},
+        {"word": "finocchi", "lemma": "finocchio", "pos": "noun", "meaning": "fennels"}
+    ],
+    "Direct translation of Falstaff's famous line in Shakespeare: 'Let the sky rain potatoes... hail kissing-comfits and snow eringoes'—Boito adapts the Elizabethan aphrodisiac plants to Italian delicacies."
+]
+
+DATA["E sian la mia pastura!"] = [
+    "And let them be my pasture!",
+    [
+        {"word": "sian", "lemma": "essere", "pos": "verb", "meaning": "let them be (3rd plur. pres. subjunctive apocope of siano)"},
+        {"word": "pastura", "lemma": "pastura", "pos": "noun", "meaning": "pasture / grazing / food for beasts"}
+    ],
+    "Subjunctive 'sian' continues Falstaff's animalistic fantasy of grazing upon wild forest herbs as an antlered buck."
+]
+
+DATA["E amor trabocchi!"] = [
+    "And let love overflow!",
+    [
+        {"word": "trabocchi", "lemma": "traboccare", "pos": "verb", "meaning": "let overflow / spill over (3rd sing. pres. subjunctive)"}
+    ],
+    "Falstaff reaches an ecstatic climax of lustful appetite, demanding boundless romantic indulgence."
+]
+
+DATA["Siam soli..."] = [
+    "We are alone...",
+    [
+        {"word": "Siam", "lemma": "essere", "pos": "verb", "meaning": "we are (apocope of siamo)"},
+        {"word": "soli", "lemma": "solo", "pos": "adjective", "meaning": "alone / by ourselves (masc. plur.)"}
+    ],
+    "Falstaff anticipates an uninterrupted amorous encounter in the nocturnal forest."
+]
+
+DATA["No. Qua nella selva densa"] = [
+    "No. Here in the dense forest",
+    [
+        {"word": "No", "lemma": "no", "pos": "interjection", "meaning": "no"},
+        {"word": "selva", "lemma": "selva", "pos": "noun", "meaning": "wood / forest"},
+        {"word": "densa", "lemma": "denso", "pos": "adjective", "meaning": "dense / thick"}
+    ],
+    "Alice shatters Falstaff's illusion of solitude by mentioning the ominous, dark density of the forest."
+]
+
+DATA["mi segue Meg."] = [
+    "Meg follows me.",
+    [
+        {"word": "mi", "lemma": "mi", "pos": "pronoun", "meaning": "me (direct object pronoun)"},
+        {"word": "segue", "lemma": "seguire", "pos": "verb", "meaning": "follows (3rd sing. pres.)"},
+        {"word": "Meg", "lemma": "Meg", "pos": "noun", "meaning": "Meg"}
+    ],
+    "Alice informs Falstaff that Meg Page has followed her, springing the first part of their psychological trap."
+]
+
+DATA["FALSTAFF È doppia l'avventura!"] = [
+    "FALSTAFF The adventure is doubled!",
+    [
+        {"word": "FALSTAFF", "lemma": "Falstaff", "pos": "noun", "meaning": "Falstaff (speaker heading)"},
+        {"word": "doppia", "lemma": "doppio", "pos": "adjective", "meaning": "double / twofold (fem. sing.)"},
+        {"word": "avventura", "lemma": "avventura", "pos": "noun", "meaning": "adventure / romance / affair"}
+    ],
+    "Falstaff's immediate comic greed: far from being alarmed by Meg's arrival, he is thrilled at the prospect of possessing both women at once."
+]
+
+DATA["Venga anche lei! Squartatemi"] = [
+    "Let her come too! Quarter me",
+    [
+        {"word": "Venga", "lemma": "venire", "pos": "verb", "meaning": "let her come (3rd sing. pres. subjunctive)"},
+        {"word": "anche", "lemma": "anche", "pos": "adverb", "meaning": "also / too"},
+        {"word": "lei", "lemma": "lei", "pos": "pronoun", "meaning": "she / her (subject pronoun)"},
+        {"word": "Squartatemi", "lemma": "squartare", "pos": "verb", "meaning": "quarter me / tear me in four (imperative + enclitic mi)"}
+    ],
+    "Falstaff employs hunting vocabulary ('squartare' = to quarter slaughtered game), offering himself up like venison to be divided between the two women."
+]
+
+DATA["come un camoscio a mensa!"] = [
+    "like a chamois at a feast!",
+    [
+        {"word": "come", "lemma": "come", "pos": "conjunction", "meaning": "like / as"},
+        {"word": "camoscio", "lemma": "camoscio", "pos": "noun", "meaning": "chamois / wild game"},
+        {"word": "mensa", "lemma": "mensa", "pos": "noun", "meaning": "table / banquet / feast"}
+    ],
+    "Falstaff compares his flesh to a savory alpine game animal ('camoscio') served up at a lavish banquet."
+]
+
+DATA["Sbranatemi! Cupido"] = [
+    "Tear me to pieces! Cupid",
+    [
+        {"word": "Sbranatemi", "lemma": "sbranare", "pos": "verb", "meaning": "tear me to pieces / devour me (imperative + enclitic mi)"},
+        {"word": "Cupido", "lemma": "Cupido", "pos": "noun", "meaning": "Cupid / god of love"}
+    ],
+    "Falstaff demands to be devoured alive in the name of Cupid, the god of erotic love."
+]
+
+DATA["alfin mi ricompensa."] = [
+    "at last rewards me.",
+    [
+        {"word": "alfin", "lemma": "al fine", "pos": "adverb", "meaning": "at last / finally (apocope of alfine)"},
+        {"word": "mi", "lemma": "mi", "pos": "pronoun", "meaning": "me (direct object pronoun)"},
+        {"word": "ricompensa", "lemma": "ricompensare", "pos": "verb", "meaning": "rewards / compensates (3rd sing. pres.)"}
+    ],
+    "Falstaff delusionally celebrates what he believes is his supreme erotic triumph after all his tribulations."
+]
+
+DATA["Io t'amo! t'amo!"] = [
+    "I love you! I love you!",
+    [
+        {"word": "Io", "lemma": "io", "pos": "pronoun", "meaning": "I (subject pronoun)"},
+        {"word": "t'", "lemma": "ti", "pos": "pronoun", "meaning": "you (elided direct object pronoun)"},
+        {"word": "amo", "lemma": "amare", "pos": "verb", "meaning": "I love (1st sing. pres.)"}
+    ],
+    "Falstaff passionately showers Alice with declarations of love right before the catastrophic interruption."
+]
+
+DATA["Aiuto!"] = [
+    "Help!",
+    [
+        {"word": "Aiuto", "lemma": "aiuto", "pos": "interjection", "meaning": "help"}
+    ],
+    "Meg screams in mock terror from the darkness, setting the ambush into motion."
+]
+
+DATA["Un grido!"] = [
+    "A scream!",
+    [
+        {"word": "grido", "lemma": "grido", "pos": "noun", "meaning": "shout / scream / cry"}
+    ],
+    "Alice feigns shock at Meg's scream, pretending that danger is lurking in the dark."
+]
+
+DATA["Ahimè!"] = [
+    "Alas!",
+    [
+        {"word": "Ahimè", "lemma": "ahimè", "pos": "interjection", "meaning": "alas / woe is me"}
+    ],
+    "Traditional dramatic exclamation of grief or fright uttered by Alice to disorient Falstaff."
+]
+
+DATA["Vien la tregenda!"] = [
+    "The witches' sabbath is coming!",
+    [
+        {"word": "Vien", "lemma": "venire", "pos": "verb", "meaning": "comes / is coming (apocope of viene)"},
+        {"word": "tregenda", "lemma": "tregenda", "pos": "noun", "meaning": "witches' sabbath / nocturnal demonic revel"}
+    ],
+    "Meg announces 'la tregenda'—an archaic term for a terrifying nocturnal meeting of witches, phantoms, and devils."
+]
+
+DATA["Ahimè! Fuggiamo!"] = [
+    "Alas! Let us flee!",
+    [
+        {"word": "Ahimè", "lemma": "ahimè", "pos": "interjection", "meaning": "alas"},
+        {"word": "Fuggiamo", "lemma": "fuggire", "pos": "verb", "meaning": "let us flee (1st plur. pres. imperative/subjunctive)"}
+    ],
+    "Alice urges immediate flight, abandoning Falstaff in panic."
+]
+
+DATA["Dove?"] = [
+    "Where?",
+    [
+        {"word": "Dove", "lemma": "dove", "pos": "adverb", "meaning": "where (interrogative)"}
+    ],
+    "Falstaff, paralyzed by his bulk and stag antlers, pathetically asks where he can possibly run to hide."
+]
+
+DATA["Il cielo perdoni al mio peccato!"] = [
+    "May heaven forgive my sin!",
+    [
+        {"word": "cielo", "lemma": "cielo", "pos": "noun", "meaning": "heaven / sky"},
+        {"word": "perdoni", "lemma": "perdonare", "pos": "verb", "meaning": "may forgive (3rd sing. pres. subjunctive)"},
+        {"word": "peccato", "lemma": "peccato", "pos": "noun", "meaning": "sin / transgression"}
+    ],
+    "Alice theatrically repents her 'sin' of adultery as she sprints away into the dark."
+]
+
+DATA["Il diavol non vuol ch'io sia dannato."] = [
+    "The devil does not want me to be damned.",
+    [
+        {"word": "diavol", "lemma": "diavolo", "pos": "noun", "meaning": "devil (apocope of diavolo)"},
+        {"word": "non", "lemma": "non", "pos": "adverb", "meaning": "not"},
+        {"word": "vuol", "lemma": "volere", "pos": "verb", "meaning": "wants (apocope of vuole)"},
+        {"word": "ch'", "lemma": "che", "pos": "conjunction", "meaning": "that"},
+        {"word": "dannato", "lemma": "dannare", "pos": "adjective", "meaning": "damned (past participle as adj.)"}
+    ],
+    "Falstaff groans that the devil himself seems determined to torment him rather than let him enjoy sin in peace."
+]
+
+# Section 5: Nannetta summons spirits, Falstaff falls flat, Masquerade stage directions (70-83)
+DATA["Ninfe! Elfi! Silfi! Doridi! Sirene!"] = [
+    "Nymphs! Elves! Sylphs! Dorids! Sirens!",
+    [
+        {"word": "Ninfe", "lemma": "ninfa", "pos": "noun", "meaning": "nymphs (vocative plural)"},
+        {"word": "Elfi", "lemma": "elfo", "pos": "noun", "meaning": "elves"},
+        {"word": "Silfi", "lemma": "silfo", "pos": "noun", "meaning": "sylphs / air spirits"},
+        {"word": "Doridi", "lemma": "Doride", "pos": "noun", "meaning": "Dorids / sea nymphs (daughters of Doris)"},
+        {"word": "Sirene", "lemma": "sirena", "pos": "noun", "meaning": "sirens"}
+    ],
+    "Nannetta, as Queen of the Fairies, calls upon mythological nature spirits from earth, air, and water to assemble."
+]
+
+DATA["L'astro degli incantesimi in cielo è sorto."] = [
+    "The star of enchantments has risen in the sky.",
+    [
+        {"word": "astro", "lemma": "astro", "pos": "noun", "meaning": "star / heavenly body"},
+        {"word": "incantesimi", "lemma": "incantesimo", "pos": "noun", "meaning": "enchantments / spells"},
+        {"word": "cielo", "lemma": "cielo", "pos": "noun", "meaning": "sky / heaven"},
+        {"word": "sorto", "lemma": "sorgere", "pos": "verb", "meaning": "risen (past participle of sorgere)"}
+    ],
+    "Nannetta evokes nocturnal astrology: the magical planet or moon ('astro degli incantesimi') has reached its zenith, unleashing fairy powers."
+]
+
+DATA["Sorgete! Ombre serene!"] = [
+    "Rise! Serene shadows!",
+    [
+        {"word": "Sorgete", "lemma": "sorgere", "pos": "verb", "meaning": "rise / arise (imperative 2nd plur.)"},
+        {"word": "Ombre", "lemma": "ombra", "pos": "noun", "meaning": "shadows / spirits / shades (vocative)"},
+        {"word": "serene", "lemma": "sereno", "pos": "adjective", "meaning": "serene / peaceful / clear"}
+    ],
+    "Nannetta commands the benevolent spirits ('ombre serene') of Windsor Forest to emerge from the glades."
+]
+
+DATA["Sono le fate. Chi le guarda è morto."] = [
+    "They are the fairies. Whoever looks at them is dead.",
+    [
+        {"word": "Sono", "lemma": "essere", "pos": "verb", "meaning": "they are (3rd plur. pres.)"},
+        {"word": "fate", "lemma": "fata", "pos": "noun", "meaning": "fairies"},
+        {"word": "Chi", "lemma": "chi", "pos": "pronoun", "meaning": "whoever / he who"},
+        {"word": "guarda", "lemma": "guardare", "pos": "verb", "meaning": "looks at / watches (3rd sing. pres.)"},
+        {"word": "morto", "lemma": "morire", "pos": "adjective", "meaning": "dead"}
+    ],
+    "Falstaff recalls the deadly English folklore rule (Shakespeare, Merry Wives V.5: 'They are fairies; he that speaks to them shall die') and throws himself prostrate on the ground."
+]
+
+DATA["Nannetta vestita da regina delle fate. Meg da ninfa verde, co' la"] = [
+    "Nannetta dressed as queen of the fairies. Meg as green nymph, with her",
+    [
+        {"word": "vestita", "lemma": "vestire", "pos": "adjective", "meaning": "dressed / attired (past participle as adj.)"},
+        {"word": "regina", "lemma": "regina", "pos": "noun", "meaning": "queen"},
+        {"word": "fate", "lemma": "fata", "pos": "noun", "meaning": "fairies"},
+        {"word": "ninfa", "lemma": "ninfa", "pos": "noun", "meaning": "nymph"},
+        {"word": "verde", "lemma": "verde", "pos": "adjective", "meaning": "green"}
+    ],
+    "Stage direction detailing the fantastical fairy costumes: Nannetta as Fairy Queen and Meg as a green wood nymph."
+]
+
+DATA["maschera. Mrs Quickly da befana, mascherata. Alice co' la maschera."] = [
+    "mask. Mrs Quickly as a witch, masked. Alice with her mask.",
+    [
+        {"word": "maschera", "lemma": "maschera", "pos": "noun", "meaning": "mask"},
+        {"word": "befana", "lemma": "befana", "pos": "noun", "meaning": "witch / hag / crone"},
+        {"word": "mascherata", "lemma": "mascherare", "pos": "adjective", "meaning": "masked (fem. sing.)"}
+    ],
+    "Stage direction describing Mrs. Quickly disguised as an old folklore witch ('befana') and Alice wearing a mask."
+]
+
+DATA["Bardolfo in cappa rossa senza maschera, col cappuccio calato. Pistola da"] = [
+    "Bardolfo in a red cloak without mask, with his hood lowered. Pistola as",
+    [
+        {"word": "cappa", "lemma": "cappa", "pos": "noun", "meaning": "cloak / cowl"},
+        {"word": "rossa", "lemma": "rosso", "pos": "adjective", "meaning": "red"},
+        {"word": "senza", "lemma": "senza", "pos": "preposition", "meaning": "without"},
+        {"word": "cappuccio", "lemma": "cappuccio", "pos": "noun", "meaning": "hood / cowl"},
+        {"word": "calato", "lemma": "calare", "pos": "adjective", "meaning": "lowered / pulled down (past participle as adj.)"}
+    ],
+    "Stage direction describing Bardolfo disguised in red robes with his cowl drawn down to conceal his distinctive face and fiery nose."
+]
+
+DATA["satiro. Il Dr. Cajus in cappa grigia, senza maschera. Fenton in cappa"] = [
+    "satyr. Dr. Caius in a gray cloak, without mask. Fenton in a black",
+    [
+        {"word": "satiro", "lemma": "satiro", "pos": "noun", "meaning": "satyr"},
+        {"word": "grigia", "lemma": "grigio", "pos": "adjective", "meaning": "gray"},
+        {"word": "senza", "lemma": "senza", "pos": "preposition", "meaning": "without"},
+        {"word": "cappa", "lemma": "cappa", "pos": "noun", "meaning": "cloak"}
+    ],
+    "Stage direction detailing Pistola disguised as a horned satyr, Dr. Caius in gray, and Fenton in his monk's cowl."
+]
+
+DATA["nera, mascherato. Mr Ford senza cappa né maschera. Ragazzette vestite"] = [
+    "cloak, masked. Mr Ford without cloak or mask. Young girls dressed",
+    [
+        {"word": "nera", "lemma": "nero", "pos": "adjective", "meaning": "black"},
+        {"word": "mascherato", "lemma": "mascherare", "pos": "adjective", "meaning": "masked"},
+        {"word": "né", "lemma": "né", "pos": "conjunction", "meaning": "neither / nor"},
+        {"word": "Ragazzette", "lemma": "ragazzetta", "pos": "noun", "meaning": "young girls / little girls (diminutive)"},
+        {"word": "vestite", "lemma": "vestire", "pos": "adjective", "meaning": "dressed (fem. plur.)"}
+    ],
+    "Stage direction noting that Ford is undisguised to witness Caius's marriage, while local girls play fairy attendants."
+]
+
+DATA["da Fate bianche e da Fate azzurre. Altre Fate e Ninfe, Spiritelli, Diavoli."] = [
+    "as white Fairies and as blue Fairies. Other Fairies and Nymphs, Little Spirits, Devils.",
+    [
+        {"word": "Fate", "lemma": "fata", "pos": "noun", "meaning": "fairies"},
+        {"word": "bianche", "lemma": "bianco", "pos": "adjective", "meaning": "white (fem. plur.)"},
+        {"word": "azzurre", "lemma": "azzurro", "pos": "adjective", "meaning": "blue / azure (fem. plur.)"},
+        {"word": "Spiritelli", "lemma": "spiritello", "pos": "noun", "meaning": "little spirits / sprites (diminutive)"},
+        {"word": "Diavoli", "lemma": "diavolo", "pos": "noun", "meaning": "devils / demons"}
+    ],
+    "Stage direction listing the complete supernatural chorus: white and blue fairies, woodland nymphs, impish sprites, and mischievous devils."
+]
+
+DATA["Falstaff sempre a terra, co' la faccia rivolta verso il suolo, immobile. Le"] = [
+    "Falstaff still on the ground, with his face turned toward the soil, motionless. The",
+    [
+        {"word": "sempre", "lemma": "sempre", "pos": "adverb", "meaning": "still / always"},
+        {"word": "terra", "lemma": "terra", "pos": "noun", "meaning": "ground / earth"},
+        {"word": "faccia", "lemma": "faccia", "pos": "noun", "meaning": "face"},
+        {"word": "rivolta", "lemma": "rivolgere", "pos": "adjective", "meaning": "turned / facing (past participle as adj.)"},
+        {"word": "immobile", "lemma": "immobile", "pos": "adjective", "meaning": "motionless / still"}
+    ],
+    "Stage direction emphasizing Falstaff's terror-stricken posture, pressed flat against the earth in fearful superstitious paralysis."
+]
+
+DATA["piccole Fate si dispongono in cerchio intorno alla loro regina. Le Fate"] = [
+    "small Fairies arrange themselves in a circle around their queen. The larger",
+    [
+        {"word": "piccole", "lemma": "piccolo", "pos": "adjective", "meaning": "small / little (fem. plur.)"},
+        {"word": "dispongono", "lemma": "disporre", "pos": "verb", "meaning": "arrange / place (3rd plur. pres.)"},
+        {"word": "cerchio", "lemma": "cerchio", "pos": "noun", "meaning": "circle / ring"},
+        {"word": "intorno", "lemma": "intorno", "pos": "preposition", "meaning": "around / round about"},
+        {"word": "regina", "lemma": "regina", "pos": "noun", "meaning": "queen"}
+    ],
+    "Stage direction describing the choreography of concentric circles formed by the fairies around Nannetta."
+]
+
+DATA["più grandi formano un secondo cerchio. Tutti gli Uomini formano un"] = [
+    "Fairies form a second circle. All the Men form a",
+    [
+        {"word": "grandi", "lemma": "grande", "pos": "adjective", "meaning": "large / older (plur.)"},
+        {"word": "formano", "lemma": "formare", "pos": "verb", "meaning": "form / constitute (3rd plur. pres.)"},
+        {"word": "secondo", "lemma": "secondo", "pos": "adjective", "meaning": "second"},
+        {"word": "Uomini", "lemma": "uomo", "pos": "noun", "meaning": "men (plur.)"}
+    ],
+    "Stage direction illustrating the spatial staging: concentric fairy rings surrounding Nannetta, with the male conspirators grouped separately."
+]
+
+DATA["crocchio a destra e le Donne un crocchio a sinistra."] = [
+    "cluster on the right and the Women a cluster on the left.",
+    [
+        {"word": "crocchio", "lemma": "crocchio", "pos": "noun", "meaning": "knot / cluster / gathering of people"},
+        {"word": "destra", "lemma": "destra", "pos": "noun", "meaning": "right / right-hand side"},
+        {"word": "Donne", "lemma": "donna", "pos": "noun", "meaning": "women"},
+        {"word": "sinistra", "lemma": "sinistra", "pos": "noun", "meaning": "left / left-hand side"}
+    ],
+    "Stage direction concluding the mise-en-scène layout: men grouped stage right, women stage left, encircling the prostrate Falstaff."
+]
+
+# Section 6: Conspirators approach Falstaff (84-94)
+DATA["Inoltriam."] = [
+    "Let us advance.",
+    [
+        {"word": "Inoltriam", "lemma": "inoltrare", "pos": "verb", "meaning": "let us advance / move forward (poetic 1st plur. subjunctive/imperative)"}
+    ],
+    "Alice whispers an order to advance quietly toward Falstaff's hiding spot beneath the oak."
+]
+
+DATA["Egli è là."] = [
+    "He is there.",
+    [
+        {"word": "Egli", "lemma": "egli", "pos": "pronoun", "meaning": "he (subject pronoun)"},
+        {"word": "è", "lemma": "essere", "pos": "verb", "meaning": "is (3rd sing. pres.)"},
+        {"word": "là", "lemma": "là", "pos": "adverb", "meaning": "there"}
+    ],
+    "Nannetta points out the bulky, antlered silhouette of Falstaff lying prostrate on the forest floor."
+]
+
+DATA["Steso al suol."] = [
+    "Stretched out on the ground.",
+    [
+        {"word": "Steso", "lemma": "stendere", "pos": "adjective", "meaning": "stretched out / lying flat (past participle as adj.)"},
+        {"word": "al", "lemma": "a", "pos": "preposition", "meaning": "on the (articulated preposition a + il)"},
+        {"word": "suol", "lemma": "suolo", "pos": "noun", "meaning": "ground / soil (poetic apocope of suolo)"}
+    ],
+    "Alice remarks with quiet mockery on Falstaff's undignified posture, prostrated flat on the earth."
+]
+
+DATA["Lo confonde"] = [
+    "Confounds him",
+    [
+        {"word": "Lo", "lemma": "lo", "pos": "pronoun", "meaning": "him (direct object pronoun)"},
+        {"word": "confonde", "lemma": "confondere", "pos": "verb", "meaning": "confounds / overwhelms (3rd sing. pres.)"}
+    ],
+    "Nannetta observes the complete psychological disorientation gripping the terrified knight."
+]
+
+DATA["il terror."] = [
+    "the terror.",
+    [
+        {"word": "terror", "lemma": "terrore", "pos": "noun", "meaning": "terror / dread (poetic apocope of terrore)"}
+    ],
+    "Continuation of Nannetta's observation ('Lo confonde il terror'), highlighting Falstaff's genuine superstitious dread."
+]
+
+DATA["FATE"] = [
+    "FAIRIES",
+    [
+        {"word": "FATE", "lemma": "fata", "pos": "noun", "meaning": "fairies (chorus heading)"}
+    ],
+    "Choral heading designating the chorus of Fairies joining the whispered commentary."
+]
+
+DATA["Si nasconde!"] = [
+    "He is hiding!",
+    [
+        {"word": "Si", "lemma": "si", "pos": "pronoun", "meaning": "himself (reflexive pronoun)"},
+        {"word": "nasconde", "lemma": "nascondere", "pos": "verb", "meaning": "hides / conceals himself (3rd sing. pres.)"}
+    ],
+    "The fairies whisper in amused excitement at seeing the gigantic knight attempting in vain to hide."
+]
+
+DATA["Non ridiam!"] = [
+    "Let us not laugh!",
+    [
+        {"word": "Non", "lemma": "non", "pos": "adverb", "meaning": "not"},
+        {"word": "ridiam", "lemma": "ridere", "pos": "verb", "meaning": "let us laugh (1st plur. pres. imperative apocope)"}
+    ],
+    "Alice frantically hushes the conspirators to suppress their bubbling laughter and preserve the supernatural illusion."
+]
+
+DATA["Tutte qui, dietro a me."] = [
+    "All of you here, behind me.",
+    [
+        {"word": "Tutte", "lemma": "tutto", "pos": "pronoun", "meaning": "all (fem. plur.)"},
+        {"word": "qui", "lemma": "qui", "pos": "adverb", "meaning": "here"},
+        {"word": "dietro", "lemma": "dietro", "pos": "preposition", "meaning": "behind"},
+        {"word": "me", "lemma": "me", "pos": "pronoun", "meaning": "me"}
+    ],
+    "Nannetta organizes her fairy court into formation behind her before commencing the incantation."
+]
+
+DATA["Cominciam."] = [
+    "Let us begin.",
+    [
+        {"word": "Cominciam", "lemma": "cominciare", "pos": "verb", "meaning": "let us begin (1st plur. imperative apocope)"}
+    ],
+    "Nannetta signals the start of the ritual summoning song."
+]
+
+DATA["Tocca a te."] = [
+    "It is your turn.",
+    [
+        {"word": "Tocca", "lemma": "toccare", "pos": "verb", "meaning": "it falls / it is the turn of (3rd sing. pres. impersonal)"},
+        {"word": "a", "lemma": "a", "pos": "preposition", "meaning": "to"},
+        {"word": "te", "lemma": "te", "pos": "pronoun", "meaning": "you (disjunctive pronoun)"}
+    ],
+    "Whispered cue between the conspirators handing over the performance to Nannetta as Fairy Queen."
+]
+
+# Section 7: Nannetta's Fairy Song & Chorus ('Sul fil d'un soffio etesio') (95-110)
+DATA["Sul fil d'un soffio etesio"] = [
+    "Upon the thread of an Etesian breeze",
+    [
+        {"word": "fil", "lemma": "filo", "pos": "noun", "meaning": "thread / edge / filament (poetic apocope)"},
+        {"word": "soffio", "lemma": "soffio", "pos": "noun", "meaning": "breath / breeze / puff of wind"},
+        {"word": "etesio", "lemma": "etesio", "pos": "adjective", "meaning": "Etesian / gentle summer breeze (classical Greek etēsios)"}
+    ],
+    "Nannetta begins her ethereal song ('Sul fil d'un soffio etesio'), invoking the gentle classical 'etesio' wind (the cool periodic Mediterranean summer breeze) in delicate settenario verse."
+]
+
+DATA["scorrete, agili larve,"] = [
+    "glide, agile spirits,",
+    [
+        {"word": "scorrete", "lemma": "scorrere", "pos": "verb", "meaning": "glide / flow / skim (imperative 2nd plur.)"},
+        {"word": "agili", "lemma": "agile", "pos": "adjective", "meaning": "agile / nimble / light"},
+        {"word": "larve", "lemma": "larva", "pos": "noun", "meaning": "ghosts / spirits / phantoms (classical Latin larvae)"}
+    ],
+    "Boito uses 'larve' in its classical Latin sense (larvae = nocturnal spirits or phantoms), commanding them to glide weightlessly."
+]
+
+DATA["fra i rami un baglior cesio"] = [
+    "among the branches a pale bluish glow",
+    [
+        {"word": "rami", "lemma": "ramo", "pos": "noun", "meaning": "branches / boughs"},
+        {"word": "baglior", "lemma": "bagliore", "pos": "noun", "meaning": "glow / gleam / flash (apocope of bagliore)"},
+        {"word": "cesio", "lemma": "cesio", "pos": "adjective", "meaning": "cesious / pale bluish-gray / silvery (Latin caesius)"}
+    ],
+    "'Cesio' is a refined literary adjective derived from Latin caesius (silvery blue-gray), describing the delicate tint of moonlight filtering through leaves."
+]
+
+DATA["d'alba lunare apparve."] = [
+    "of lunar dawn appeared.",
+    [
+        {"word": "alba", "lemma": "alba", "pos": "noun", "meaning": "dawn / daybreak"},
+        {"word": "lunare", "lemma": "lunare", "pos": "adjective", "meaning": "lunar / of the moon"},
+        {"word": "apparve", "lemma": "apparire", "pos": "verb", "meaning": "appeared (3rd sing. passato remoto)"}
+    ],
+    "Poetic oxymoron 'alba lunare' (lunar dawn) portraying the radiant moonrise as an enchanting nocturnal dawn."
+]
+
+DATA["Danzate! e il passo blando"] = [
+    "Dance! and let the gentle step",
+    [
+        {"word": "Danzate", "lemma": "danzare", "pos": "verb", "meaning": "dance (imperative 2nd plur.)"},
+        {"word": "passo", "lemma": "passo", "pos": "noun", "meaning": "step / pace"},
+        {"word": "blando", "lemma": "blando", "pos": "adjective", "meaning": "gentle / soft / mild"}
+    ],
+    "Nannetta invites the spirits into motion, pairing 'passo blando' (gentle step) with soft musical cadence."
+]
+
+DATA["misuri un blando suon,"] = [
+    "measure a gentle sound,",
+    [
+        {"word": "misuri", "lemma": "misurare", "pos": "verb", "meaning": "let measure / keep time with (3rd sing. pres. subjunctive)"},
+        {"word": "blando", "lemma": "blando", "pos": "adjective", "meaning": "gentle / soft / mellow"},
+        {"word": "suon", "lemma": "suono", "pos": "noun", "meaning": "sound (poetic apocope of suono)"}
+    ],
+    "Boito repeats the adjective 'blando' to mirror the rhythmic harmony between the light footsteps and the soft orchestral accompaniment."
+]
+
+DATA["le magiche accoppiando"] = [
+    "coupling the magical",
+    [
+        {"word": "magiche", "lemma": "magico", "pos": "adjective", "meaning": "magical / enchanted (fem. plur.)"},
+        {"word": "accoppiando", "lemma": "accoppiare", "pos": "verb", "meaning": "coupling / joining / matching (gerund)"}
+    ],
+    "Gerund 'accoppiando' introduces the harmonious union of dance and choral song."
+]
+
+DATA["carole alla canzon."] = [
+    "round-dances to the song.",
+    [
+        {"word": "carole", "lemma": "carola", "pos": "noun", "meaning": "carols / ring-dances / round dances (medieval dance form)"},
+        {"word": "canzon", "lemma": "canzone", "pos": "noun", "meaning": "song (poetic apocope of canzone)"}
+    ],
+    "'Carola' denotes an archaic medieval circle-dance, evoking an idyllic, ancient fairy ritual in the forest glade."
+]
+
+DATA["FATE La selva dorme e sperde"] = [
+    "FAIRIES The forest sleeps and disperses",
+    [
+        {"word": "FATE", "lemma": "fata", "pos": "noun", "meaning": "fairies (chorus designation)"},
+        {"word": "selva", "lemma": "selva", "pos": "noun", "meaning": "forest / wood"},
+        {"word": "dorme", "lemma": "dormire", "pos": "verb", "meaning": "sleeps (3rd sing. pres.)"},
+        {"word": "sperde", "lemma": "sperdere", "pos": "verb", "meaning": "disperses / diffuses (3rd sing. pres.)"}
+    ],
+    "The fairy chorus enters softly with evocative nature poetry: the forest rests while diffusing fragrance and shadows into the midnight air."
+]
+
+DATA["incenso ed ombra; e par"] = [
+    "incense and shadow; and it seems",
+    [
+        {"word": "incenso", "lemma": "incenso", "pos": "noun", "meaning": "incense / aromatic fragrance"},
+        {"word": "ombra", "lemma": "ombra", "pos": "noun", "meaning": "shadow / darkness"},
+        {"word": "par", "lemma": "parere", "pos": "verb", "meaning": "seems / appears (poetic apocope of pare)"}
+    ],
+    "'Incenso' evokes the aromatic pine and nocturnal blossoms of Windsor Forest creating a sacred, mystical atmosphere."
+]
+
+DATA["nell'aer denso un verde"] = [
+    "in the dense air a green",
+    [
+        {"word": "nell'", "lemma": "in", "pos": "preposition", "meaning": "in the (articulated preposition in + il)"},
+        {"word": "aer", "lemma": "aere", "pos": "noun", "meaning": "air (poetic apocope)"},
+        {"word": "denso", "lemma": "denso", "pos": "adjective", "meaning": "dense / thick"},
+        {"word": "verde", "lemma": "verde", "pos": "adjective", "meaning": "green"}
+    ],
+    "The shimmering green foliage under the moonlight makes the dense night air resemble an underwater realm."
+]
+
+DATA["asilo in fondo al mar."] = [
+    "sanctuary at the bottom of the sea.",
+    [
+        {"word": "asilo", "lemma": "asilo", "pos": "noun", "meaning": "sanctuary / refuge / haven"},
+        {"word": "fondo", "lemma": "fondo", "pos": "noun", "meaning": "bottom / depth"},
+        {"word": "mar", "lemma": "mare", "pos": "noun", "meaning": "sea (poetic apocope of mare)"}
+    ],
+    "A stunning poetic simile comparing the moonlit Windsor woodland to an emerald sanctuary at the bottom of the ocean."
+]
+
+DATA["Erriam sotto la luna"] = [
+    "Let us wander beneath the moon",
+    [
+        {"word": "Erriam", "lemma": "errare", "pos": "verb", "meaning": "let us wander / roam (poetic 1st plur. pres. indicative/subjunctive)"},
+        {"word": "sotto", "lemma": "sotto", "pos": "preposition", "meaning": "beneath / under"},
+        {"word": "luna", "lemma": "luna", "pos": "noun", "meaning": "moon"}
+    ],
+    "The fairies call upon one another to wander freely under the full moon gathering magical flora."
+]
+
+DATA["scegliendo fior da fiore,"] = [
+    "choosing flower by flower,",
+    [
+        {"word": "scegliendo", "lemma": "scegliere", "pos": "verb", "meaning": "choosing / picking (gerund)"},
+        {"word": "fior", "lemma": "fiore", "pos": "noun", "meaning": "flower (poetic apocope)"},
+        {"word": "da", "lemma": "da", "pos": "preposition", "meaning": "from / by"},
+        {"word": "fiore", "lemma": "fiore", "pos": "noun", "meaning": "flower"}
+    ],
+    "'Scegliendo fior da fiore' is an Italian poetic idiom meaning selecting the sweetest blossoms one by one."
+]
+
+DATA["ogni corolla in core"] = [
+    "every corolla in its heart",
+    [
+        {"word": "ogni", "lemma": "ogni", "pos": "adjective", "meaning": "every / each"},
+        {"word": "corolla", "lemma": "corolla", "pos": "noun", "meaning": "corolla / petals of a flower"},
+        {"word": "core", "lemma": "cuore", "pos": "noun", "meaning": "heart (poetic form of cuore)"}
+    ],
+    "Poetic personification attributing an inner 'heart' ('core') to each floral corolla gathered by the woodland fairies."
+]
+
+DATA["porta la sua fortuna."] = [
+    "carries its good fortune.",
+    [
+        {"word": "porta", "lemma": "portare", "pos": "verb", "meaning": "carries / bears (3rd sing. pres.)"},
+        {"word": "sua", "lemma": "suo", "pos": "adjective", "meaning": "its / her"},
+        {"word": "fortuna", "lemma": "fortuna", "pos": "noun", "meaning": "fortune / luck / destiny"}
+    ],
+    "Conclusion of Part A: each flower picked by the fairies holds a unique magical blessing or destiny for the mortals."
+]
+
+
+def verify_and_save():
+    with open('scripts/falstaff_act3_sc2_partA.json', 'r') as f:
+        original_data = json.load(f)
+    
+    orig_lines = [item['original'] for item in original_data]
+    assert len(orig_lines) == 111, f"Expected 111 original lines, got {len(orig_lines)}"
+    
+    # Check all lines in DATA
+    missing = [l for l in orig_lines if l not in DATA]
+    extra = [l for l in DATA if l not in orig_lines]
+    
+    if missing:
+        print(f"ERROR: {len(missing)} missing lines: {missing}")
+    if extra:
+        print(f"ERROR: {len(extra)} extra lines: {extra}")
+        
+    assert not missing and not extra, "Data keys mismatch with original lines!"
+    
+    ALLOWED_POS = {
+        "noun", "verb", "adjective", "adverb", "pronoun",
+        "preposition", "conjunction", "interjection", "particle", "idiom"
+    }
+    
+    for line in orig_lines:
+        entry = DATA[line]
+        assert isinstance(entry, list) and len(entry) == 3, f"Invalid entry structure for '{line}'"
+        literal, tokens, grammar_note = entry
+        
+        # Check literal
+        assert isinstance(literal, str) and len(literal) > 0, f"Empty literal for '{line}'"
+        if line[0].isupper():
+            assert literal[0].isupper(), f"Literal capitalization mismatch for '{line}': '{literal}'"
+            
+        # Check tokens
+        assert isinstance(tokens, list) and 1 <= len(tokens) <= 5, f"Tokens count must be 1-5 for '{line}', got {len(tokens)}"
+        for t in tokens:
+            assert isinstance(t, dict), f"Token is not dict in '{line}'"
+            assert "word" in t and "lemma" in t and "pos" in t and "meaning" in t, f"Missing token fields in '{line}': {t}"
+            assert t["pos"] in ALLOWED_POS, f"Invalid POS '{t['pos']}' in '{line}'"
+            
+        # Check grammar note
+        assert grammar_note is None or (isinstance(grammar_note, str) and len(grammar_note) > 0), f"Invalid grammar note in '{line}'"
+
+    # Save ordered by appearance in partA
+    ordered_curated = {line: DATA[line] for line in orig_lines}
+    
+    output_path = 'scripts/falstaff_curated_a3_sc2_partA.json'
+    with open(output_path, 'w', encoding='utf-8') as f:
+        json.dump(ordered_curated, f, indent=2, ensure_ascii=False)
+        
+    print(f"SUCCESS: Saved {len(ordered_curated)} lines to {output_path}")
+
+if __name__ == '__main__':
+    verify_and_save()

@@ -1,0 +1,602 @@
+[
+  {
+    "speaker": "Meg Page",
+    "original": "Alice.",
+    "cue_id": "a1_s2_c1",
+    "line_id": "a1_s2_c1_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Meg.",
+    "cue_id": "a1_s2_c2",
+    "line_id": "a1_s2_c2_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Nannetta.",
+    "cue_id": "a1_s2_c3",
+    "line_id": "a1_s2_c3_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Escivo appunto.",
+    "cue_id": "a1_s2_c4",
+    "line_id": "a1_s2_c4_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Per ridere con te.",
+    "cue_id": "a1_s2_c4",
+    "line_id": "a1_s2_c4_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Buon dì, comare.",
+    "cue_id": "a1_s2_c5",
+    "line_id": "a1_s2_c5_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Dio vi doni allegria.",
+    "cue_id": "a1_s2_c6",
+    "line_id": "a1_s2_c6_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Botton di rosa!",
+    "cue_id": "a1_s2_c7",
+    "line_id": "a1_s2_c7_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Giungi in buon punto.",
+    "cue_id": "a1_s2_c8",
+    "line_id": "a1_s2_c8_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "M'accade un fatto da trasecolare.",
+    "cue_id": "a1_s2_c8",
+    "line_id": "a1_s2_c8_l2"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Anche a me.",
+    "cue_id": "a1_s2_c9",
+    "line_id": "a1_s2_c9_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Che?",
+    "cue_id": "a1_s2_c10",
+    "line_id": "a1_s2_c10_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Che cosa?",
+    "cue_id": "a1_s2_c11",
+    "line_id": "a1_s2_c11_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Narra il tuo caso.",
+    "cue_id": "a1_s2_c12",
+    "line_id": "a1_s2_c12_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Narra il tuo.",
+    "cue_id": "a1_s2_c13",
+    "line_id": "a1_s2_c13_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Promessa",
+    "cue_id": "a1_s2_c15",
+    "line_id": "a1_s2_c15_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "di non ciarlar.",
+    "cue_id": "a1_s2_c15",
+    "line_id": "a1_s2_c15_l2"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Ti pare?",
+    "cue_id": "a1_s2_c16",
+    "line_id": "a1_s2_c16_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Oibò! Vi pare?",
+    "cue_id": "a1_s2_c17",
+    "line_id": "a1_s2_c17_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Dunque: se m'acconciassi a entrar ne' rei",
+    "cue_id": "a1_s2_c18",
+    "line_id": "a1_s2_c18_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "propositi del diavolo, sarei",
+    "cue_id": "a1_s2_c18",
+    "line_id": "a1_s2_c18_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "promossa al grado di cavalleressa!",
+    "cue_id": "a1_s2_c18",
+    "line_id": "a1_s2_c18_l3"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Anch'io.",
+    "cue_id": "a1_s2_c19",
+    "line_id": "a1_s2_c19_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Motteggi.",
+    "cue_id": "a1_s2_c20",
+    "line_id": "a1_s2_c20_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Non più parole,",
+    "cue_id": "a1_s2_c21",
+    "line_id": "a1_s2_c21_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "ché qui sciupiamo la luce del sole.",
+    "cue_id": "a1_s2_c21",
+    "line_id": "a1_s2_c21_l2"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Ho una lettera.",
+    "cue_id": "a1_s2_c21",
+    "line_id": "a1_s2_c21_l3"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "NANNETTA E QUICKLY",
+    "cue_id": "a1_s2_c22",
+    "line_id": "a1_s2_c22_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Oh!",
+    "cue_id": "a1_s2_c22",
+    "line_id": "a1_s2_c22_l3"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Leggi.",
+    "cue_id": "a1_s2_c23",
+    "line_id": "a1_s2_c23_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "«Fulgida Alice! amor t'offro» ...Ma come?",
+    "cue_id": "a1_s2_c25",
+    "line_id": "a1_s2_c25_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Che cosa dice?",
+    "cue_id": "a1_s2_c25",
+    "line_id": "a1_s2_c25_l2"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Salvo che il nome",
+    "cue_id": "a1_s2_c25",
+    "line_id": "a1_s2_c25_l3"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "la frase è uguale.",
+    "cue_id": "a1_s2_c25",
+    "line_id": "a1_s2_c25_l4"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "«Fulgida Meg, amor t'offro»...",
+    "cue_id": "a1_s2_c26",
+    "line_id": "a1_s2_c26_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "«amor bramo».",
+    "cue_id": "a1_s2_c27",
+    "line_id": "a1_s2_c27_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Qua «Meg», là «Alice».",
+    "cue_id": "a1_s2_c28",
+    "line_id": "a1_s2_c28_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "È tal e quale:",
+    "cue_id": "a1_s2_c29",
+    "line_id": "a1_s2_c29_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "«Non domandar perché, ma dimmi:»",
+    "cue_id": "a1_s2_c30",
+    "line_id": "a1_s2_c30_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "«t'amo».",
+    "cue_id": "a1_s2_c31",
+    "line_id": "a1_s2_c31_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Pur non gli offersi cagion.",
+    "cue_id": "a1_s2_c31",
+    "line_id": "a1_s2_c31_l2"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Il nostro caso è pur strano.",
+    "cue_id": "a1_s2_c32",
+    "line_id": "a1_s2_c32_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Guardiam con flemma.",
+    "cue_id": "a1_s2_c34",
+    "line_id": "a1_s2_c34_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Gli stessi versi.",
+    "cue_id": "a1_s2_c35",
+    "line_id": "a1_s2_c35_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Lo stesso inchiostro.",
+    "cue_id": "a1_s2_c36",
+    "line_id": "a1_s2_c36_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "La stessa mano.",
+    "cue_id": "a1_s2_c37",
+    "line_id": "a1_s2_c37_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Lo stesso stemma.",
+    "cue_id": "a1_s2_c38",
+    "line_id": "a1_s2_c38_l1"
+  },
+  {
+    "speaker": "Alice & Meg",
+    "original": "«Sei la gaia comare, il compar gaio",
+    "cue_id": "a1_s2_c39",
+    "line_id": "a1_s2_c39_l1"
+  },
+  {
+    "speaker": "Alice & Meg",
+    "original": "son io, e fra noi due facciamo il paio.»",
+    "cue_id": "a1_s2_c39",
+    "line_id": "a1_s2_c39_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Già.",
+    "cue_id": "a1_s2_c40",
+    "line_id": "a1_s2_c40_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Lui, lei, te.",
+    "cue_id": "a1_s2_c41",
+    "line_id": "a1_s2_c41_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Un paio in tre.",
+    "cue_id": "a1_s2_c42",
+    "line_id": "a1_s2_c42_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "«Facciamo il paio in un amor ridente",
+    "cue_id": "a1_s2_c44",
+    "line_id": "a1_s2_c44_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "di donna bella e d'uomo»...",
+    "cue_id": "a1_s2_c44",
+    "line_id": "a1_s2_c44_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "TUTTE",
+    "cue_id": "a1_s2_c44",
+    "line_id": "a1_s2_c44_l3"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "«appariscente»",
+    "cue_id": "a1_s2_c44",
+    "line_id": "a1_s2_c44_l4"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "«e il viso tuo su me risplenderà",
+    "cue_id": "a1_s2_c45",
+    "line_id": "a1_s2_c45_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "come una stella sull'immensità.»",
+    "cue_id": "a1_s2_c45",
+    "line_id": "a1_s2_c45_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Ah! Ah! Ah! Ah! Ah! Ah!",
+    "cue_id": "a1_s2_c46",
+    "line_id": "a1_s2_c46_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "«Rispondi al tuo scudiere,",
+    "cue_id": "a1_s2_c47",
+    "line_id": "a1_s2_c47_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "John Falstaff cavaliere.»",
+    "cue_id": "a1_s2_c47",
+    "line_id": "a1_s2_c47_l2"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Mostro!",
+    "cue_id": "a1_s2_c48",
+    "line_id": "a1_s2_c48_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Dobbiam gabbarlo.",
+    "cue_id": "a1_s2_c49",
+    "line_id": "a1_s2_c49_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "E farne chiasso.",
+    "cue_id": "a1_s2_c50",
+    "line_id": "a1_s2_c50_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "E metterlo in burletta.",
+    "cue_id": "a1_s2_c51",
+    "line_id": "a1_s2_c51_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Oh! Oh! che spasso!",
+    "cue_id": "a1_s2_c52",
+    "line_id": "a1_s2_c52_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Che allegria!",
+    "cue_id": "a1_s2_c53",
+    "line_id": "a1_s2_c53_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Che vendetta!",
+    "cue_id": "a1_s2_c54",
+    "line_id": "a1_s2_c54_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Insieme",
+    "cue_id": "a1_s2_c55",
+    "line_id": "a1_s2_c55_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Quell'otre, quel tino!",
+    "cue_id": "a1_s2_c56",
+    "line_id": "a1_s2_c56_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Quel re delle pance,",
+    "cue_id": "a1_s2_c56",
+    "line_id": "a1_s2_c56_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "ci ha ancora le ciance",
+    "cue_id": "a1_s2_c56",
+    "line_id": "a1_s2_c56_l3"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "del bel vagheggino.",
+    "cue_id": "a1_s2_c56",
+    "line_id": "a1_s2_c56_l4"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "E l'olio gli sgocciola",
+    "cue_id": "a1_s2_c56",
+    "line_id": "a1_s2_c56_l5"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "dall'adipe unticcio",
+    "cue_id": "a1_s2_c56",
+    "line_id": "a1_s2_c56_l6"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "e ancor ei ne snocciola",
+    "cue_id": "a1_s2_c56",
+    "line_id": "a1_s2_c56_l7"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "la strofa e il bisticcio!",
+    "cue_id": "a1_s2_c56",
+    "line_id": "a1_s2_c56_l8"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Lasciam ch'ei le pronte",
+    "cue_id": "a1_s2_c56",
+    "line_id": "a1_s2_c56_l9"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "sue ciarle ne spifferi;",
+    "cue_id": "a1_s2_c56",
+    "line_id": "a1_s2_c56_l10"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "farà come i pifferi",
+    "cue_id": "a1_s2_c56",
+    "line_id": "a1_s2_c56_l11"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "che sceser dal monte.",
+    "cue_id": "a1_s2_c56",
+    "line_id": "a1_s2_c56_l12"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Vedrai che se abbindolo",
+    "cue_id": "a1_s2_c56",
+    "line_id": "a1_s2_c56_l13"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "quel grosso compar,",
+    "cue_id": "a1_s2_c56",
+    "line_id": "a1_s2_c56_l14"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "più lesto d'un guindolo",
+    "cue_id": "a1_s2_c56",
+    "line_id": "a1_s2_c56_l15"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "lo faccio girar.",
+    "cue_id": "a1_s2_c56",
+    "line_id": "a1_s2_c56_l16"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Quell'uom è un cannone,",
+    "cue_id": "a1_s2_c57",
+    "line_id": "a1_s2_c57_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "se scoppia, ci spaccia.",
+    "cue_id": "a1_s2_c57",
+    "line_id": "a1_s2_c57_l2"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Colui, se l'abbraccia,",
+    "cue_id": "a1_s2_c57",
+    "line_id": "a1_s2_c57_l3"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "ti schiaccia Giunone.",
+    "cue_id": "a1_s2_c57",
+    "line_id": "a1_s2_c57_l4"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Vedrai che a un tuo cenno",
+    "cue_id": "a1_s2_c57",
+    "line_id": "a1_s2_c57_l5"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "quel mostro si spappola",
+    "cue_id": "a1_s2_c57",
+    "line_id": "a1_s2_c57_l6"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "e perde il suo senno",
+    "cue_id": "a1_s2_c57",
+    "line_id": "a1_s2_c57_l7"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "e corre alla trappola.",
+    "cue_id": "a1_s2_c57",
+    "line_id": "a1_s2_c57_l8"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Potenza d'un fragile",
+    "cue_id": "a1_s2_c57",
+    "line_id": "a1_s2_c57_l9"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "sorriso di donna!",
+    "cue_id": "a1_s2_c57",
+    "line_id": "a1_s2_c57_l10"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Scïenza d'un'agile",
+    "cue_id": "a1_s2_c57",
+    "line_id": "a1_s2_c57_l11"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "movenza di gonna!",
+    "cue_id": "a1_s2_c57",
+    "line_id": "a1_s2_c57_l12"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Se il vischio lo impegola",
+    "cue_id": "a1_s2_c57",
+    "line_id": "a1_s2_c57_l13"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "lo udremo strillar.",
+    "cue_id": "a1_s2_c57",
+    "line_id": "a1_s2_c57_l14"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "E allor la sua fregola",
+    "cue_id": "a1_s2_c57",
+    "line_id": "a1_s2_c57_l15"
+  }
+]

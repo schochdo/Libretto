@@ -1,0 +1,1109 @@
+{
+  "Jetzt, Schätzchen, jetzt sind wir allein,": [
+    "Now, little-treasure, now are we alone,",
+    [
+      {
+        "word": "Jetzt",
+        "lemma": "jetzt",
+        "pos": "adverb",
+        "meaning": "now"
+      },
+      {
+        "word": "Schätzchen",
+        "lemma": "Schatz",
+        "pos": "noun",
+        "meaning": "little treasure / darling",
+        "notes": "Diminutive form with '-chen'."
+      },
+      {
+        "word": "sind",
+        "lemma": "sein",
+        "pos": "verb",
+        "meaning": "are"
+      },
+      {
+        "word": "wir",
+        "lemma": "wir",
+        "pos": "pronoun",
+        "meaning": "we"
+      },
+      {
+        "word": "allein",
+        "lemma": "allein",
+        "pos": "adjective",
+        "meaning": "alone"
+      }
+    ],
+    "V2 word order: adverb 'Jetzt' causes inversion of verb 'sind' and subject 'wir'."
+  ],
+  "wir können vertraulich nun plaudern.": [
+    "we can intimately now chat.",
+    [
+      {
+        "word": "können",
+        "lemma": "können",
+        "pos": "verb",
+        "meaning": "can / are able to"
+      },
+      {
+        "word": "vertraulich",
+        "lemma": "vertraulich",
+        "pos": "adverb",
+        "meaning": "intimately / confidentially"
+      },
+      {
+        "word": "nun",
+        "lemma": "nun",
+        "pos": "adverb",
+        "meaning": "now"
+      },
+      {
+        "word": "plaudern",
+        "lemma": "plaudern",
+        "pos": "verb",
+        "meaning": "to chat / converse"
+      }
+    ],
+    "Modal verb bracket: auxiliary 'können' in position 2, infinitive 'plaudern' at clause end."
+  ],
+  "Es wird wohl nichts Wichtiges sein,": [
+    "It will probably nothing important be,",
+    [
+      {
+        "word": "wird",
+        "lemma": "werden",
+        "pos": "verb",
+        "meaning": "will / shall"
+      },
+      {
+        "word": "wohl",
+        "lemma": "wohl",
+        "pos": "adverb",
+        "meaning": "probably / likely"
+      },
+      {
+        "word": "nichts Wichtiges",
+        "lemma": "wichtig",
+        "pos": "pronoun",
+        "meaning": "nothing important",
+        "notes": "Substantivized neuter adjective after 'nichts'."
+      },
+      {
+        "word": "sein",
+        "lemma": "sein",
+        "pos": "verb",
+        "meaning": "to be"
+      }
+    ],
+    "Future tense bracket with 'werden ... sein'."
+  ],
+  "ich darf bei der Arbeit nicht zaudern.": [
+    "I may at the work not dally.",
+    [
+      {
+        "word": "darf",
+        "lemma": "dürfen",
+        "pos": "verb",
+        "meaning": "may / am permitted to"
+      },
+      {
+        "word": "bei der Arbeit",
+        "lemma": "Arbeit",
+        "pos": "noun",
+        "meaning": "at / during the work",
+        "notes": "Dative singular feminine after preposition 'bei'."
+      },
+      {
+        "word": "nicht",
+        "lemma": "nicht",
+        "pos": "particle",
+        "meaning": "not"
+      },
+      {
+        "word": "zaudern",
+        "lemma": "zaudern",
+        "pos": "verb",
+        "meaning": "to tarry / hesitate / dally"
+      }
+    ],
+    "Modal verb construction: 'darf ... zaudern'."
+  ],
+  "Ein Wörtchen, du Trotzige, du!": [
+    "One little-word, you defiant-girl, you!",
+    [
+      {
+        "word": "Ein Wörtchen",
+        "lemma": "Wort",
+        "pos": "noun",
+        "meaning": "one little word",
+        "notes": "Neuter diminutive form with '-chen'."
+      },
+      {
+        "word": "du Trotzige",
+        "lemma": "trotzig",
+        "pos": "adjective",
+        "meaning": "you defiant/stubborn one",
+        "notes": "Substantivized feminine adjective."
+      }
+    ],
+    null
+  ],
+  "So sprich nur, ich höre ja zu.": [
+    "So speak just, I listen indeed to.",
+    [
+      {
+        "word": "sprich",
+        "lemma": "sprechen",
+        "pos": "verb",
+        "meaning": "speak (imperative singular)"
+      },
+      {
+        "word": "nur",
+        "lemma": "nur",
+        "pos": "adverb",
+        "meaning": "just / only"
+      },
+      {
+        "word": "höre... zu",
+        "lemma": "zuhören",
+        "pos": "verb",
+        "meaning": "listen / pay attention"
+      },
+      {
+        "word": "ja",
+        "lemma": "ja",
+        "pos": "particle",
+        "meaning": "indeed / after all"
+      }
+    ],
+    "Separable verb 'zuhören': prefix 'zu' moves to the end of the clause."
+  ],
+  "Wenn du mir nicht freundlicher blickest,": [
+    "If you at-me not more-friendly look,",
+    [
+      {
+        "word": "Wenn",
+        "lemma": "wenn",
+        "pos": "conjunction",
+        "meaning": "if / whenever"
+      },
+      {
+        "word": "mir",
+        "lemma": "ich",
+        "pos": "pronoun",
+        "meaning": "to me / at me (dative)"
+      },
+      {
+        "word": "freundlicher",
+        "lemma": "freundlich",
+        "pos": "adverb",
+        "meaning": "more kindly / more friendly",
+        "notes": "Comparative adverb."
+      },
+      {
+        "word": "blickest",
+        "lemma": "blicken",
+        "pos": "verb",
+        "meaning": "look / glance",
+        "notes": "Second-person singular inflection '-est'."
+      }
+    ],
+    "Subordinate clause word order: verb 'blickest' at the end after conjunction 'Wenn'."
+  ],
+  "so bring’ ich kein Wörtchen hervor.": [
+    "so bring I no little-word forth.",
+    [
+      {
+        "word": "bring'... hervor",
+        "lemma": "hervorbringen",
+        "pos": "verb",
+        "meaning": "bring forth / utter"
+      },
+      {
+        "word": "kein Wörtchen",
+        "lemma": "Wort",
+        "pos": "noun",
+        "meaning": "no little word"
+      }
+    ],
+    "Separable verb 'hervorbringen' with verb-subject inversion following the conditional clause."
+  ],
+  "Wenn du dich nicht in mich schickest,": [
+    "If you yourself not to me adapt,",
+    [
+      {
+        "word": "dich... schickest",
+        "lemma": "sich schicken",
+        "pos": "verb",
+        "meaning": "adapt oneself / accommodate"
+      },
+      {
+        "word": "in mich",
+        "lemma": "ich",
+        "pos": "pronoun",
+        "meaning": "to me (accusative with 'in')"
+      }
+    ],
+    "Reflexive idiom 'sich in jemanden schicken' (to accommodate someone's wishes)."
+  ],
+  "verstopf’ ich mir vollends das Ohr.": [
+    "plug I for-myself completely the ear.",
+    [
+      {
+        "word": "verstopf'",
+        "lemma": "verstopfen",
+        "pos": "verb",
+        "meaning": "stop up / plug"
+      },
+      {
+        "word": "mir",
+        "lemma": "ich",
+        "pos": "pronoun",
+        "meaning": "for myself (dative of interest)"
+      },
+      {
+        "word": "vollends",
+        "lemma": "vollends",
+        "pos": "adverb",
+        "meaning": "completely / entirely"
+      },
+      {
+        "word": "das Ohr",
+        "lemma": "Ohr",
+        "pos": "noun",
+        "meaning": "the ear (accusative singular neuter)"
+      }
+    ],
+    "Inversion after subordinate clause: verb 'verstopf'' precedes subject 'ich'."
+  ],
+  "So hab’ ich denn nimmermehr Ruh’,": [
+    "So have I then nevermore peace,",
+    [
+      {
+        "word": "denn",
+        "lemma": "denn",
+        "pos": "particle",
+        "meaning": "then / after all"
+      },
+      {
+        "word": "nimmermehr",
+        "lemma": "nimmermehr",
+        "pos": "adverb",
+        "meaning": "nevermore / never again"
+      },
+      {
+        "word": "Ruh'",
+        "lemma": "Ruhe",
+        "pos": "noun",
+        "meaning": "peace / quiet"
+      }
+    ],
+    null
+  ],
+  "so rede, so rede nur zu.": [
+    "so speak, so speak just on.",
+    [
+      {
+        "word": "rede... zu",
+        "lemma": "zureden",
+        "pos": "verb",
+        "meaning": "speak on / keep talking",
+        "notes": "Imperative singular."
+      }
+    ],
+    null
+  ],
+  "Ein Weilchen nur höre mir zu,": [
+    "A little-while only listen to-me to,",
+    [
+      {
+        "word": "Ein Weilchen",
+        "lemma": "Weile",
+        "pos": "noun",
+        "meaning": "a little while (accusative of duration)"
+      },
+      {
+        "word": "höre... zu",
+        "lemma": "zuhören",
+        "pos": "verb",
+        "meaning": "listen (imperative)"
+      }
+    ],
+    null
+  ],
+  "dann laß ich dich wieder in Ruh’.": [
+    "then leave I you again in peace.",
+    [
+      {
+        "word": "dann",
+        "lemma": "dann",
+        "pos": "adverb",
+        "meaning": "then"
+      },
+      {
+        "word": "laß",
+        "lemma": "lassen",
+        "pos": "verb",
+        "meaning": "leave / let"
+      },
+      {
+        "word": "in Ruh'",
+        "lemma": "Ruhe",
+        "pos": "noun",
+        "meaning": "in peace"
+      }
+    ],
+    "Idiom 'in Ruhe lassen' (to leave someone alone)."
+  ],
+  "Ich – ich habe –": [
+    "I – I have –",
+    [
+      {
+        "word": "habe",
+        "lemma": "haben",
+        "pos": "verb",
+        "meaning": "have"
+      }
+    ],
+    null
+  ],
+  "ich habe zum": [
+    "I have as",
+    [
+      {
+        "word": "zum",
+        "lemma": "zu",
+        "pos": "preposition",
+        "meaning": "to / as the (contraction of zu dem)"
+      }
+    ],
+    null
+  ],
+  "Weib dich gewählet, verstehst du?": [
+    "wife you chosen, understand you?",
+    [
+      {
+        "word": "Weib",
+        "lemma": "Weib",
+        "pos": "noun",
+        "meaning": "wife (dated/solemn)"
+      },
+      {
+        "word": "dich",
+        "lemma": "du",
+        "pos": "pronoun",
+        "meaning": "you (accusative)"
+      },
+      {
+        "word": "gewählet",
+        "lemma": "wählen",
+        "pos": "verb",
+        "meaning": "chosen",
+        "notes": "Poetic past participle form of wählen."
+      },
+      {
+        "word": "verstehst",
+        "lemma": "verstehen",
+        "pos": "verb",
+        "meaning": "understand"
+      }
+    ],
+    "Perfect tense: 'habe ... gewählet'."
+  ],
+  "Das ist ja doch klar.": [
+    "That is indeed after-all clear.",
+    [
+      {
+        "word": "klar",
+        "lemma": "klar",
+        "pos": "adjective",
+        "meaning": "clear / evident"
+      }
+    ],
+    null
+  ],
+  "Und wenn mir dein Jawort nicht fehlet,": [
+    "And if to-me your consent not lacks,",
+    [
+      {
+        "word": "Jawort",
+        "lemma": "Jawort",
+        "pos": "noun",
+        "meaning": "consent / saying yes to marriage",
+        "notes": "Compound noun: ja + Wort."
+      },
+      {
+        "word": "fehlet",
+        "lemma": "fehlen",
+        "pos": "verb",
+        "meaning": "lacks / is missing",
+        "notes": "Archaic third-person ending '-et'."
+      }
+    ],
+    "Subordinate clause word order after 'wenn'."
+  ],
+  "was meinst du?": [
+    "what think you?",
+    [
+      {
+        "word": "meinst",
+        "lemma": "meinen",
+        "pos": "verb",
+        "meaning": "think / mean"
+      }
+    ],
+    null
+  ],
+  "So sind wir ein Paar.": [
+    "Then are we a pair.",
+    [
+      {
+        "word": "Paar",
+        "lemma": "Paar",
+        "pos": "noun",
+        "meaning": "pair / couple"
+      }
+    ],
+    null
+  ],
+  "Wir könnten in wenigen Wochen ...": [
+    "We could in few weeks ...",
+    [
+      {
+        "word": "könnten",
+        "lemma": "können",
+        "pos": "verb",
+        "meaning": "could (subjunctive II)"
+      },
+      {
+        "word": "in wenigen Wochen",
+        "lemma": "Woche",
+        "pos": "noun",
+        "meaning": "in a few weeks (dative plural)"
+      }
+    ],
+    null
+  ],
+  "Recht schön, du bestimmst schon die Zeit!": [
+    "Right fine, you determine already the time!",
+    [
+      {
+        "word": "bestimmst",
+        "lemma": "bestimmen",
+        "pos": "verb",
+        "meaning": "determine / set"
+      },
+      {
+        "word": "Zeit",
+        "lemma": "Zeit",
+        "pos": "noun",
+        "meaning": "time (feminine accusative)"
+      }
+    ],
+    null
+  ],
+  "Zum Henker das ewige Pochen!": [
+    "To-the executioner the eternal knocking!",
+    [
+      {
+        "word": "Zum Henker",
+        "lemma": "Henker",
+        "pos": "noun",
+        "meaning": "to the devil / hangman",
+        "notes": "Mild historical oath; Henker = hangman/executioner."
+      },
+      {
+        "word": "ewige",
+        "lemma": "ewig",
+        "pos": "adjective",
+        "meaning": "eternal / perpetual"
+      },
+      {
+        "word": "Pochen",
+        "lemma": "Pochen",
+        "pos": "noun",
+        "meaning": "knocking / pounding"
+      }
+    ],
+    "Exclamatory oath: 'Zum Henker!' stands for 'Dammit!' or 'Deuce take it!'."
+  ],
+  "Da war ich so herrlich im Gang,": [
+    "There was I so wonderfully in progress,",
+    [
+      {
+        "word": "herrlich",
+        "lemma": "herrlich",
+        "pos": "adverb",
+        "meaning": "splendidly / wonderfully"
+      },
+      {
+        "word": "im Gang",
+        "lemma": "Gang",
+        "pos": "noun",
+        "meaning": "underway / in full swing"
+      }
+    ],
+    "Idiom 'im Gang sein' (to be well underway / in the groove)."
+  ],
+  "und immer entwischt mir der Fang.": [
+    "and always escapes from-me the catch.",
+    [
+      {
+        "word": "entwischt",
+        "lemma": "entwischen",
+        "pos": "verb",
+        "meaning": "slips away / escapes"
+      },
+      {
+        "word": "Fang",
+        "lemma": "Fang",
+        "pos": "noun",
+        "meaning": "catch / quarry"
+      }
+    ],
+    "Dativus incommodi: 'mir' marks the person disadvantaged by the escape."
+  ],
+  "So bin ich doch endlich befreit!": [
+    "So am I though at-last freed!",
+    [
+      {
+        "word": "endlich",
+        "lemma": "endlich",
+        "pos": "adverb",
+        "meaning": "finally / at last"
+      },
+      {
+        "word": "befreit",
+        "lemma": "befreien",
+        "pos": "verb",
+        "meaning": "freed / liberated"
+      }
+    ],
+    null
+  ],
+  "Wie macht seine Liebe mir bang,": [
+    "How makes his love to-me anxious,",
+    [
+      {
+        "word": "Liebe",
+        "lemma": "Liebe",
+        "pos": "noun",
+        "meaning": "love (nominative)"
+      },
+      {
+        "word": "bang",
+        "lemma": "bange",
+        "pos": "adjective",
+        "meaning": "fearful / anxious"
+      }
+    ],
+    "Idiom 'jemandem bange/bang machen' (to make someone uneasy)."
+  ],
+  "und wie werden die Stunden mir lang.": [
+    "and how become the hours to-me long.",
+    [
+      {
+        "word": "werden",
+        "lemma": "werden",
+        "pos": "verb",
+        "meaning": "become / grow"
+      },
+      {
+        "word": "Stunden",
+        "lemma": "Stunde",
+        "pos": "noun",
+        "meaning": "hours"
+      }
+    ],
+    "Idiom 'jemandem lang werden' (time hangs heavy on someone)."
+  ],
+  "Ich weiß, daß der Arme sich quälet,": [
+    "I know, that the poor-one himself torments,",
+    [
+      {
+        "word": "weiß",
+        "lemma": "wissen",
+        "pos": "verb",
+        "meaning": "know"
+      },
+      {
+        "word": "der Arme",
+        "lemma": "arm",
+        "pos": "noun",
+        "meaning": "the poor fellow"
+      },
+      {
+        "word": "quälet",
+        "lemma": "quälen",
+        "pos": "verb",
+        "meaning": "torments / agonizes"
+      }
+    ],
+    "Subordinate clause word order: reflexive verb 'sich quälet' at clause end after 'daß'."
+  ],
+  "es tut mir so leid auch um ihn!": [
+    "it does to-me so sorry also for him!",
+    [
+      {
+        "word": "tut... leid",
+        "lemma": "leidtun",
+        "pos": "verb",
+        "meaning": "causes sorrow / feel sorry for"
+      },
+      {
+        "word": "um ihn",
+        "lemma": "er",
+        "pos": "pronoun",
+        "meaning": "about/for him"
+      }
+    ],
+    "Impersonal idiom 'es tut mir leid um jemanden' (I feel sorry for someone)."
+  ],
+  "Fidelio hab’ ich gewählet,": [
+    "Fidelio have I chosen,",
+    [
+      {
+        "word": "Fidelio",
+        "lemma": "Fidelio",
+        "pos": "noun",
+        "meaning": "Fidelio (accusative object)"
+      },
+      {
+        "word": "gewählet",
+        "lemma": "wählen",
+        "pos": "verb",
+        "meaning": "chosen"
+      }
+    ],
+    "Topicalization: direct object 'Fidelio' placed first for emotional emphasis."
+  ],
+  "ihn lieben ist süßer Gewinn.": [
+    "him to-love is sweet gain.",
+    [
+      {
+        "word": "lieben",
+        "lemma": "lieben",
+        "pos": "verb",
+        "meaning": "to love"
+      },
+      {
+        "word": "süßer",
+        "lemma": "süß",
+        "pos": "adjective",
+        "meaning": "sweet"
+      },
+      {
+        "word": "Gewinn",
+        "lemma": "Gewinn",
+        "pos": "noun",
+        "meaning": "gain / profit / prize"
+      }
+    ],
+    null
+  ],
+  "Wo war ich? Sie sieht mich nicht an!": [
+    "Where was I? She looks me not at!",
+    [
+      {
+        "word": "sieht... an",
+        "lemma": "ansehen",
+        "pos": "verb",
+        "meaning": "looks at"
+      }
+    ],
+    "Separable verb 'ansehen'."
+  ],
+  "Da ist er – er fängt wieder an!!": [
+    "There is he – he begins again on!!",
+    [
+      {
+        "word": "fängt... an",
+        "lemma": "anfangen",
+        "pos": "verb",
+        "meaning": "begins / starts"
+      }
+    ],
+    "Separable verb 'anfangen'."
+  ],
+  "Wann wirst du das Jawort mir geben?": [
+    "When will you the consent to-me give?",
+    [
+      {
+        "word": "wirst",
+        "lemma": "werden",
+        "pos": "verb",
+        "meaning": "will (second-person singular auxiliary)"
+      },
+      {
+        "word": "geben",
+        "lemma": "geben",
+        "pos": "verb",
+        "meaning": "give"
+      }
+    ],
+    "Future interrogative syntax with auxiliary 'wirst' and infinitive 'geben'."
+  ],
+  "Es könnte ja heute noch sein.": [
+    "It could indeed today still be.",
+    [
+      {
+        "word": "könnte",
+        "lemma": "können",
+        "pos": "verb",
+        "meaning": "could (subjunctive II)"
+      },
+      {
+        "word": "heute noch",
+        "lemma": "heute",
+        "pos": "adverb",
+        "meaning": "this very day / still today"
+      }
+    ],
+    null
+  ],
+  "O weh! Er verbittert mein Leben!": [
+    "O woe! He embitters my life!",
+    [
+      {
+        "word": "O weh",
+        "lemma": "o weh",
+        "pos": "interjection",
+        "meaning": "alas / o woe"
+      },
+      {
+        "word": "verbittert",
+        "lemma": "verbittern",
+        "pos": "verb",
+        "meaning": "embitters / sours"
+      }
+    ],
+    null
+  ],
+  "Jetzt, morgen und immer nein, nein!": [
+    "Now, tomorrow and always no, no!",
+    [
+      {
+        "word": "morgen",
+        "lemma": "morgen",
+        "pos": "adverb",
+        "meaning": "tomorrow"
+      },
+      {
+        "word": "immer",
+        "lemma": "immer",
+        "pos": "adverb",
+        "meaning": "always"
+      }
+    ],
+    null
+  ],
+  "Du bist doch wahrhaftig von Stein,": [
+    "You are indeed truly of stone,",
+    [
+      {
+        "word": "wahrhaftig",
+        "lemma": "wahrhaftig",
+        "pos": "adverb",
+        "meaning": "truly / genuinely"
+      },
+      {
+        "word": "von Stein",
+        "lemma": "Stein",
+        "pos": "noun",
+        "meaning": "of stone"
+      }
+    ],
+    null
+  ],
+  "kein Wünschen, kein Bitten geht ein.": [
+    "no wishing, no pleading enters in.",
+    [
+      {
+        "word": "Wünschen",
+        "lemma": "Wünschen",
+        "pos": "noun",
+        "meaning": "wishing / desire"
+      },
+      {
+        "word": "Bitten",
+        "lemma": "Bitten",
+        "pos": "noun",
+        "meaning": "pleading / supplication"
+      },
+      {
+        "word": "geht... ein",
+        "lemma": "eingehen",
+        "pos": "verb",
+        "meaning": "penetrates / finds acceptance"
+      }
+    ],
+    "Idiomatic 'eingehen' (to be accepted / to register with someone)."
+  ],
+  "Ich muß ja so hart mit ihm sein,": [
+    "I must indeed so hard with him be,",
+    [
+      {
+        "word": "hart",
+        "lemma": "hart",
+        "pos": "adjective",
+        "meaning": "hard / severe / strict"
+      }
+    ],
+    null
+  ],
+  "er hofft bei dem mindesten Schein.": [
+    "he hopes at the slightest glimmer.",
+    [
+      {
+        "word": "mindesten",
+        "lemma": "mindeste",
+        "pos": "adjective",
+        "meaning": "slightest / least"
+      },
+      {
+        "word": "Schein",
+        "lemma": "Schein",
+        "pos": "noun",
+        "meaning": "semblance / glimmer / appearance"
+      }
+    ],
+    null
+  ],
+  "So wirst du dich nimmer bekehren?": [
+    "So will you yourself never convert?",
+    [
+      {
+        "word": "nimmer",
+        "lemma": "nimmer",
+        "pos": "adverb",
+        "meaning": "never"
+      },
+      {
+        "word": "bekehren",
+        "lemma": "bekehren",
+        "pos": "verb",
+        "meaning": "reform / relent / change one's mind"
+      }
+    ],
+    "Reflexive verb 'sich bekehren'."
+  ],
+  "Was meinst du?": [
+    "What mean you?",
+    [
+      {
+        "word": "meinst",
+        "lemma": "meinen",
+        "pos": "verb",
+        "meaning": "think / reckon"
+      }
+    ],
+    null
+  ],
+  "Du könntest nun geh’n.": [
+    "You could now go.",
+    [
+      {
+        "word": "könntest",
+        "lemma": "können",
+        "pos": "verb",
+        "meaning": "could (subjunctive II)"
+      },
+      {
+        "word": "geh'n",
+        "lemma": "gehen",
+        "pos": "verb",
+        "meaning": "go / leave"
+      }
+    ],
+    null
+  ],
+  "Wie?": [
+    "How?",
+    [
+      {
+        "word": "Wie",
+        "lemma": "wie",
+        "pos": "adverb",
+        "meaning": "how / what"
+      }
+    ],
+    null
+  ],
+  "Dich anzusehen, willst du mir wehren?": [
+    "You to-look-at, want you from-me to-forbid?",
+    [
+      {
+        "word": "anzusehen",
+        "lemma": "ansehen",
+        "pos": "verb",
+        "meaning": "to look upon (zu-infinitive)"
+      },
+      {
+        "word": "wehren",
+        "lemma": "wehren",
+        "pos": "verb",
+        "meaning": "prevent / forbid"
+      }
+    ],
+    "Dative construction: 'jemandem etwas wehren' (to forbid someone something)."
+  ],
+  "Auch das noch?": [
+    "Even that also?",
+    [
+      {
+        "word": "Auch das noch",
+        "lemma": "auch",
+        "pos": "phrase",
+        "meaning": "That on top of everything!"
+      }
+    ],
+    "Idiomatic exclamation of exasperation."
+  ],
+  "So bleibe hier steh’n.": [
+    "Then stay here standing.",
+    [
+      {
+        "word": "bleibe... steh'n",
+        "lemma": "stehenbleiben",
+        "pos": "verb",
+        "meaning": "stay standing / remain"
+      }
+    ],
+    null
+  ],
+  "Du hast mir so oft doch versprochen ...": [
+    "You have to-me so often though promised ...",
+    [
+      {
+        "word": "versprochen",
+        "lemma": "versprechen",
+        "pos": "verb",
+        "meaning": "promised"
+      }
+    ],
+    null
+  ],
+  "Versprochen?": [
+    "Promised?",
+    [
+      {
+        "word": "Versprochen",
+        "lemma": "versprechen",
+        "pos": "verb",
+        "meaning": "promised"
+      }
+    ],
+    null
+  ],
+  "Nein, das geht zu weit!": [
+    "No, that goes too far!",
+    [
+      {
+        "word": "zu weit",
+        "lemma": "weit",
+        "pos": "adjective",
+        "meaning": "too far"
+      }
+    ],
+    "Idiom 'zu weit gehen' (to cross the line)."
+  ],
+  "Das ist ein willkommener Klang,": [
+    "That is a welcome sound,",
+    [
+      {
+        "word": "willkommener",
+        "lemma": "willkommen",
+        "pos": "adjective",
+        "meaning": "welcome"
+      },
+      {
+        "word": "Klang",
+        "lemma": "Klang",
+        "pos": "noun",
+        "meaning": "sound / chime"
+      }
+    ],
+    null
+  ],
+  "es wurde zu Tode mir bang.": [
+    "it became to death to-me fearful.",
+    [
+      {
+        "word": "zu Tode",
+        "lemma": "Tod",
+        "pos": "noun",
+        "meaning": "unto death / dreadfully"
+      },
+      {
+        "word": "bang",
+        "lemma": "bange",
+        "pos": "adjective",
+        "meaning": "frightened / anxious"
+      }
+    ],
+    "Hyperbolic idiom: 'jemandem wird zu Tode bang' (one becomes scared to death)."
+  ],
+  "Es ward ihr im Ernste schon bang,": [
+    "It was to-her in earnest already fearful,",
+    [
+      {
+        "word": "ward",
+        "lemma": "werden",
+        "pos": "verb",
+        "meaning": "became / grew",
+        "notes": "Archaic preterite form of werden."
+      },
+      {
+        "word": "im Ernste",
+        "lemma": "Ernst",
+        "pos": "noun",
+        "meaning": "in earnest / genuinely"
+      }
+    ],
+    null
+  ],
+  "wer weiß, ob es mir gelang.": [
+    "who knows, whether it to-me succeeded.",
+    [
+      {
+        "word": "gelang",
+        "lemma": "gelingen",
+        "pos": "verb",
+        "meaning": "succeeded",
+        "notes": "Preterite of gelingen (impersonal verb taking dative)."
+      }
+    ],
+    "Impersonal construction: 'es gelang mir' (I succeeded)."
+  ],
+  "Der arme Jaquino dauert mich beinahe. Kann ich es aber ändern? Ich war ihm sonst recht gut, da kam Fidelio in unser Haus und seit der Zeit ist alles in mir und um mich verändert.": [
+    "The poor Jaquino grieves me almost. Can I it however change? I was to-him formerly quite well-disposed, then came Fidelio into our house and since the time is everything in me and around me changed.",
+    [
+      {
+        "word": "dauert",
+        "lemma": "dauern",
+        "pos": "verb",
+        "meaning": "grieves / moves to pity",
+        "notes": "Historical usage: jemanden dauern = to arouse pity in someone."
+      },
+      {
+        "word": "beinahe",
+        "lemma": "beinahe",
+        "pos": "adverb",
+        "meaning": "almost / nearly"
+      },
+      {
+        "word": "gut sein",
+        "lemma": "gut",
+        "pos": "phrase",
+        "meaning": "to be fond of / well-disposed toward"
+      },
+      {
+        "word": "verändert",
+        "lemma": "verändern",
+        "pos": "adjective",
+        "meaning": "changed / transformed"
+      }
+    ],
+    "Syntax note: 'gut sein' taking dative 'ihm' signifies romantic or affectionate fondness."
+  ]
+}

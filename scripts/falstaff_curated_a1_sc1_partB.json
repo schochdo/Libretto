@@ -1,0 +1,2228 @@
+{
+  "Fruga.": [
+    "Rummage.",
+    [
+      {
+        "word": "Fruga",
+        "lemma": "frugare",
+        "pos": "verb",
+        "meaning": "rummage / search thoroughly"
+      },
+      {
+        "word": "frugare",
+        "lemma": "frugare",
+        "pos": "verb",
+        "meaning": "to search through / rummage"
+      }
+    ],
+    "Falstaff orders Bardolfo to rummage through their pockets and tavern purse to find money for the bill. 'Fruga' is the second-person singular imperative of 'frugare' (to search thoroughly)."
+  ],
+  "Ho frugato.": [
+    "I have searched.",
+    [
+      {
+        "word": "Ho",
+        "lemma": "avere",
+        "pos": "verb",
+        "meaning": "have (1st person singular present)"
+      },
+      {
+        "word": "frugato",
+        "lemma": "frugare",
+        "pos": "verb",
+        "meaning": "searched / rummaged (past participle)"
+      }
+    ],
+    "Bardolfo's dejected reply that he has already searched the purse and found nothing. Passato prossimo of 'frugare' using auxiliary 'avere'."
+  ],
+  "Fruga!": [
+    "Rummage!",
+    [
+      {
+        "word": "Fruga",
+        "lemma": "frugare",
+        "pos": "verb",
+        "meaning": "rummage! / search! (imperative)"
+      },
+      {
+        "word": "frugare",
+        "lemma": "frugare",
+        "pos": "verb",
+        "meaning": "to search thoroughly / rummage"
+      }
+    ],
+    "Falstaff refuses to accept that they are completely broke and furiously repeats the command: 'Search again!'"
+  ],
+  "Qui non c'è più uno spicciolo.": [
+    "Here there is not a penny left.",
+    [
+      {
+        "word": "Qui",
+        "lemma": "qui",
+        "pos": "adverb",
+        "meaning": "here"
+      },
+      {
+        "word": "non c'è",
+        "lemma": "esserci",
+        "pos": "verb",
+        "meaning": "there is not"
+      },
+      {
+        "word": "più",
+        "lemma": "più",
+        "pos": "adverb",
+        "meaning": "more / longer (reinforcing negation)"
+      },
+      {
+        "word": "spicciolo",
+        "lemma": "spicciolo",
+        "pos": "noun",
+        "meaning": "small change / coin / penny"
+      }
+    ],
+    "Bardolfo reveals the painful truth that they are totally out of money. 'Spicciolo' denotes small change or copper coins; double negative 'non c'è più' means 'there isn't any more left'."
+  ],
+  "Sei la mia distruzione!": [
+    "You are my ruin!",
+    [
+      {
+        "word": "Sei",
+        "lemma": "essere",
+        "pos": "verb",
+        "meaning": "you are (2nd person singular)"
+      },
+      {
+        "word": "mia",
+        "lemma": "mio",
+        "pos": "adjective",
+        "meaning": "my"
+      },
+      {
+        "word": "distruzione",
+        "lemma": "distruzione",
+        "pos": "noun",
+        "meaning": "ruin / destruction"
+      }
+    ],
+    "Falstaff blames Bardolfo for drinking away all his money. Uses the standard Italian possessive structure with definite article 'la mia distruzione' (literally 'the my destruction', meaning 'my ruin')."
+  ],
+  "Spendo ogni sette giorni dieci ghinee! Beone!": [
+    "I spend ten guineas every seven days! Drunkard!",
+    [
+      {
+        "word": "Spendo",
+        "lemma": "spendere",
+        "pos": "verb",
+        "meaning": "I spend (1st person singular)"
+      },
+      {
+        "word": "giorni",
+        "lemma": "giorno",
+        "pos": "noun",
+        "meaning": "days"
+      },
+      {
+        "word": "ghinee",
+        "lemma": "ghinea",
+        "pos": "noun",
+        "meaning": "guineas (British gold coins)"
+      },
+      {
+        "word": "Beone",
+        "lemma": "beone",
+        "pos": "noun",
+        "meaning": "drunkard / tippler (augmentative from bere)"
+      }
+    ],
+    "Falstaff complains about their ruinous tavern tab, adapting Shakespeare's 'I sit at ten pounds a week' (Merry Wives I.3). 'Beone' is an expressive augmentative noun derived from 'bere' (to drink), meaning a heavy sot."
+  ],
+  "So che se andiam, la notte, di taverna in taverna,": [
+    "I know that if we go, at night, from tavern to tavern,",
+    [
+      {
+        "word": "So",
+        "lemma": "sapere",
+        "pos": "verb",
+        "meaning": "I know (1st person singular)"
+      },
+      {
+        "word": "andiam",
+        "lemma": "andare",
+        "pos": "verb",
+        "meaning": "we go (apocopated from andiamo)"
+      },
+      {
+        "word": "notte",
+        "lemma": "notte",
+        "pos": "noun",
+        "meaning": "night"
+      },
+      {
+        "word": "taverna",
+        "lemma": "taverna",
+        "pos": "noun",
+        "meaning": "tavern / inn"
+      }
+    ],
+    "Falstaff begins his famous teasing about Bardolfo's alcohol-reddened nose (drawn from 1 Henry IV, III.3). 'Andiam' is an apocope of 'andiamo' (we go)."
+  ],
+  "quel tuo naso ardentissimo mi serve da lanterna;": [
+    "that blazing nose of yours serves me as a lantern;",
+    [
+      {
+        "word": "naso",
+        "lemma": "naso",
+        "pos": "noun",
+        "meaning": "nose"
+      },
+      {
+        "word": "ardentissimo",
+        "lemma": "ardente",
+        "pos": "adjective",
+        "meaning": "blazing / glowing fiery hot (absolute superlative)"
+      },
+      {
+        "word": "serve",
+        "lemma": "servire",
+        "pos": "verb",
+        "meaning": "serves"
+      },
+      {
+        "word": "lanterna",
+        "lemma": "lanterna",
+        "pos": "noun",
+        "meaning": "lantern"
+      }
+    ],
+    "Falstaff jokes that Bardolfo's glowing red nose lights their way in the dark like a street lantern (Shakespeare's 'thou art our admiral, thou bearest the lantern in the poop'). 'Ardentissimo' is the absolute superlative of 'ardente'."
+  ],
+  "ma quel risparmio d'olio me lo consumi in vino.": [
+    "but that saving on oil you consume for me in wine.",
+    [
+      {
+        "word": "risparmio",
+        "lemma": "risparmio",
+        "pos": "noun",
+        "meaning": "saving / economy"
+      },
+      {
+        "word": "olio",
+        "lemma": "olio",
+        "pos": "noun",
+        "meaning": "oil (lamp oil)"
+      },
+      {
+        "word": "me lo",
+        "lemma": "me lo",
+        "pos": "pronoun",
+        "meaning": "it on me (ethical dative 'me' + direct object 'lo')"
+      },
+      {
+        "word": "consumi",
+        "lemma": "consumare",
+        "pos": "verb",
+        "meaning": "you consume / drink away"
+      },
+      {
+        "word": "vino",
+        "lemma": "vino",
+        "pos": "noun",
+        "meaning": "wine"
+      }
+    ],
+    "The comedic punchline: Falstaff points out that while Bardolfo's glowing red nose saves him money on buying lantern oil at night, Bardolfo drinks away all the savings in wine. 'Me lo consumi' pairs an ethical dative 'me' with direct object 'lo'."
+  ],
+  "Son trent'anni che abbevero quel fungo porporino!": [
+    "For thirty years I have watered that purple mushroom!",
+    [
+      {
+        "word": "trent'anni",
+        "lemma": "trent'anni",
+        "pos": "noun",
+        "meaning": "thirty years"
+      },
+      {
+        "word": "abbevero",
+        "lemma": "abbeverare",
+        "pos": "verb",
+        "meaning": "I water / give drink to"
+      },
+      {
+        "word": "fungo",
+        "lemma": "fungo",
+        "pos": "noun",
+        "meaning": "mushroom / fungus"
+      },
+      {
+        "word": "porporino",
+        "lemma": "porporino",
+        "pos": "adjective",
+        "meaning": "purple / crimson / purplish"
+      }
+    ],
+    "Falstaff groans that he has paid for Bardolfo's drinking habits for thirty years. 'Fungo porporino' (purple mushroom) is a comic grotesque metaphor for Bardolfo's bulbous, wine-flushed nose (rhinophyma)."
+  ],
+  "Costi troppo.": [
+    "You cost too much.",
+    [
+      {
+        "word": "Costi",
+        "lemma": "costare",
+        "pos": "verb",
+        "meaning": "you cost (2nd person singular present)"
+      },
+      {
+        "word": "troppo",
+        "lemma": "troppo",
+        "pos": "adverb",
+        "meaning": "too much"
+      }
+    ],
+    "Falstaff's blunt financial verdict addressed to Bardolfo: he is simply too expensive to keep around as a dependent."
+  ],
+  "E tu pure. Oste! un'altra bottiglia.": [
+    "And you as well. Host! another bottle.",
+    [
+      {
+        "word": "pure",
+        "lemma": "pure",
+        "pos": "adverb",
+        "meaning": "as well / also / too"
+      },
+      {
+        "word": "Oste",
+        "lemma": "oste",
+        "pos": "noun",
+        "meaning": "innkeeper / host"
+      },
+      {
+        "word": "altra",
+        "lemma": "altro",
+        "pos": "adjective",
+        "meaning": "another / other"
+      },
+      {
+        "word": "bottiglia",
+        "lemma": "bottiglia",
+        "pos": "noun",
+        "meaning": "bottle"
+      }
+    ],
+    "Falstaff turns to his other freeloading follower, Pistola ('And you too'), but despite his complaints about insolvency, immediately orders another bottle of wine from the innkeeper ('Oste!')."
+  ],
+  "Mi struggete le carni! Se Falstaff s'assottiglia": [
+    "You consume my flesh! If Falstaff grows thin",
+    [
+      {
+        "word": "struggete",
+        "lemma": "struggere",
+        "pos": "verb",
+        "meaning": "you consume / melt away (2nd person plural)"
+      },
+      {
+        "word": "carni",
+        "lemma": "carne",
+        "pos": "noun",
+        "meaning": "flesh / body (plural)"
+      },
+      {
+        "word": "Falstaff",
+        "lemma": "Falstaff",
+        "pos": "noun",
+        "meaning": "Falstaff"
+      },
+      {
+        "word": "s'assottiglia",
+        "lemma": "assottigliarsi",
+        "pos": "verb",
+        "meaning": "grows thin / tapers off (reflexive)"
+      }
+    ],
+    "Falstaff melodrammatically complains that the stress of keeping his useless men is causing him to lose weight. For Falstaff, growing thin ('s'assottiglia', from 'assottigliarsi') would ruin his grand physical majesty."
+  ],
+  "non è più lui, nessuno più l'ama; in questo addome": [
+    "he is no longer himself, no one loves him any more; in this paunch",
+    [
+      {
+        "word": "lui",
+        "lemma": "lui",
+        "pos": "pronoun",
+        "meaning": "him / himself"
+      },
+      {
+        "word": "nessuno",
+        "lemma": "nessuno",
+        "pos": "pronoun",
+        "meaning": "no one / nobody"
+      },
+      {
+        "word": "l'ama",
+        "lemma": "amare",
+        "pos": "verb",
+        "meaning": "loves him (elided clitic 'lo' + ama)"
+      },
+      {
+        "word": "addome",
+        "lemma": "addome",
+        "pos": "noun",
+        "meaning": "abdomen / paunch / belly"
+      }
+    ],
+    "Falstaff grandly uses illeism (referring to himself in the third person): if he loses his bulk, he won't be Falstaff anymore, and no woman will love him. 'Addome' (paunch/belly) is the core of his pride."
+  ],
+  "c'è un migliaio di lingue che annunciano il mio nome!": [
+    "there are a thousand tongues proclaiming my name!",
+    [
+      {
+        "word": "c'è",
+        "lemma": "esserci",
+        "pos": "verb",
+        "meaning": "there is"
+      },
+      {
+        "word": "migliaio",
+        "lemma": "migliaio",
+        "pos": "noun",
+        "meaning": "thousand (collective noun)"
+      },
+      {
+        "word": "lingue",
+        "lemma": "lingua",
+        "pos": "noun",
+        "meaning": "tongues / voices"
+      },
+      {
+        "word": "annunciano",
+        "lemma": "annunciare",
+        "pos": "verb",
+        "meaning": "proclaim / announce"
+      },
+      {
+        "word": "nome",
+        "lemma": "nome",
+        "pos": "noun",
+        "meaning": "name"
+      }
+    ],
+    "Falstaff personifies his colossal belly as an empire where a thousand voices proclaim his legendary fame. Collective singular 'migliaio' governing the plural relative verb 'annunciano'."
+  ],
+  "Falstaff immenso!": [
+    "Immense Falstaff!",
+    [
+      {
+        "word": "Falstaff",
+        "lemma": "Falstaff",
+        "pos": "noun",
+        "meaning": "Falstaff"
+      },
+      {
+        "word": "immenso",
+        "lemma": "immenso",
+        "pos": "adjective",
+        "meaning": "immense / boundless"
+      }
+    ],
+    "Pistola flatters his master by exclaiming at his sheer size. An exclamatory apostrophe celebrating Falstaff's colossal girth."
+  ],
+  "Enorme Falstaff!": [
+    "Enormous Falstaff!",
+    [
+      {
+        "word": "Enorme",
+        "lemma": "enorme",
+        "pos": "adjective",
+        "meaning": "enormous / huge"
+      },
+      {
+        "word": "Falstaff",
+        "lemma": "Falstaff",
+        "pos": "noun",
+        "meaning": "Falstaff"
+      }
+    ],
+    "Bardolfo joins in the flattering chorus, echoing Pistola with another synonym celebrating Sir John's monumental size."
+  ],
+  "Quest'è il mio regno.": [
+    "This is my realm.",
+    [
+      {
+        "word": "Quest'è",
+        "lemma": "questo è",
+        "pos": "idiom",
+        "meaning": "this is (demonstrative 'questo' elided before 'è')"
+      },
+      {
+        "word": "mio",
+        "lemma": "mio",
+        "pos": "adjective",
+        "meaning": "my"
+      },
+      {
+        "word": "regno",
+        "lemma": "regno",
+        "pos": "noun",
+        "meaning": "realm / kingdom"
+      }
+    ],
+    "Falstaff caresses his vast paunch and proudly proclaims it his royal dominion. Elision of 'questo' before 'è' ('Quest'è')."
+  ],
+  "Lo ingrandirò. Ma è tempo d'assottigliar l'ingegno.": [
+    "I will enlarge it. But it is time to sharpen our wits.",
+    [
+      {
+        "word": "ingrandirò",
+        "lemma": "ingrandire",
+        "pos": "verb",
+        "meaning": "I will enlarge / expand (1st person singular future)"
+      },
+      {
+        "word": "tempo",
+        "lemma": "tempo",
+        "pos": "noun",
+        "meaning": "time"
+      },
+      {
+        "word": "assottigliar",
+        "lemma": "assottigliare",
+        "pos": "verb",
+        "meaning": "to sharpen / refine (apocopated)"
+      },
+      {
+        "word": "ingegno",
+        "lemma": "ingegno",
+        "pos": "noun",
+        "meaning": "wit / intellect / ingenuity"
+      }
+    ],
+    "Falstaff vows to make his belly even bigger, but since they are broke, he must sharpen his wits to raise cash. Plays cleverly on 'assottigliare' (he refuses to let his body grow thin, but resolves to sharpen his intellect via the idiom 'assottigliar l'ingegno')."
+  ],
+  "PISTOLA E BARDOLFO": [
+    "Pistola and Bardolfo",
+    [
+      {
+        "word": "PISTOLA",
+        "lemma": "Pistola",
+        "pos": "noun",
+        "meaning": "Pistol (character name)"
+      },
+      {
+        "word": "E",
+        "lemma": "e",
+        "pos": "conjunction",
+        "meaning": "and"
+      },
+      {
+        "word": "BARDOLFO",
+        "lemma": "Bardolfo",
+        "pos": "noun",
+        "meaning": "Bardolph (character name)"
+      }
+    ],
+    "Score cue indicating that Falstaff's two ruffian followers, Pistola and Bardolfo, speak in unison."
+  ],
+  "Assottigliam.": [
+    "Let us sharpen.",
+    [
+      {
+        "word": "Assottigliam",
+        "lemma": "assottigliare",
+        "pos": "verb",
+        "meaning": "let us sharpen / refine (1st person plural hortative, apocopated)"
+      },
+      {
+        "word": "assottigliare",
+        "lemma": "assottigliare",
+        "pos": "verb",
+        "meaning": "to make keen / sharpen / refine"
+      }
+    ],
+    "Pistola and Bardolfo eagerly agree: 'Let us sharpen our wits!' First-person plural hortative subjunctive with apocope from 'assottigliamo', echoing Falstaff's idiom 'assottigliar l'ingegno'."
+  ],
+  "V'è noto un tal, qui del paese,": [
+    "Is there known to you a certain fellow, here from the town,",
+    [
+      {
+        "word": "V'è",
+        "lemma": "esserci",
+        "pos": "verb",
+        "meaning": "is there to you (vi + è)"
+      },
+      {
+        "word": "noto",
+        "lemma": "noto",
+        "pos": "adjective",
+        "meaning": "known / familiar"
+      },
+      {
+        "word": "un tal",
+        "lemma": "tale",
+        "pos": "pronoun",
+        "meaning": "a certain fellow / someone"
+      },
+      {
+        "word": "paese",
+        "lemma": "paese",
+        "pos": "noun",
+        "meaning": "town / locality"
+      }
+    ],
+    "Falstaff begins his scheme to seduce wealthy local townswomen for money, asking if they know a certain burgher. 'V'è noto' elides the dative plural pronoun 'vi' (to you) before 'è' (is known). 'Un tal' is apocopated from 'un tale'."
+  ],
+  "che ha nome Ford?": [
+    "whose name is Ford?",
+    [
+      {
+        "word": "che",
+        "lemma": "che",
+        "pos": "pronoun",
+        "meaning": "who (relative pronoun)"
+      },
+      {
+        "word": "ha",
+        "lemma": "avere",
+        "pos": "verb",
+        "meaning": "has"
+      },
+      {
+        "word": "nome",
+        "lemma": "nome",
+        "pos": "noun",
+        "meaning": "name"
+      },
+      {
+        "word": "Ford",
+        "lemma": "Ford",
+        "pos": "noun",
+        "meaning": "Ford (character name)"
+      }
+    ],
+    "Falstaff names the wealthy Windsor citizen Master Ford. The idiom 'avere nome' means 'to be named / to bear the name'."
+  ],
+  "Quell'uom è un gran borghese...": [
+    "That man is a wealthy burgher...",
+    [
+      {
+        "word": "Quell'uom",
+        "lemma": "uomo",
+        "pos": "noun",
+        "meaning": "that man (apocopated from uomo)"
+      },
+      {
+        "word": "gran",
+        "lemma": "grande",
+        "pos": "adjective",
+        "meaning": "great / wealthy (apocopated)"
+      },
+      {
+        "word": "borghese",
+        "lemma": "borghese",
+        "pos": "noun",
+        "meaning": "burgher / bourgeois citizen"
+      }
+    ],
+    "Falstaff describes Ford as a prosperous, wealthy burgher. Note the poetic apocopes 'uom' (from 'uomo') and 'gran' (from 'grande')."
+  ],
+  "Più liberal d'un Creso.": [
+    "More generous than a Croesus.",
+    [
+      {
+        "word": "Più",
+        "lemma": "più",
+        "pos": "adverb",
+        "meaning": "more"
+      },
+      {
+        "word": "liberal",
+        "lemma": "liberale",
+        "pos": "adjective",
+        "meaning": "generous / open-handed (apocopated)"
+      },
+      {
+        "word": "Creso",
+        "lemma": "Creso",
+        "pos": "noun",
+        "meaning": "Croesus (wealthy king of Lydia)"
+      }
+    ],
+    "Pistola chiming in that Ford is wealthier and more lavish than Croesus ('Creso'), the ancient Lydian king famous for boundless gold. 'Liberal' is apocopated from 'liberale' (generous / open-handed)."
+  ],
+  "È un Lord!": [
+    "He is a Lord!",
+    [
+      {
+        "word": "È",
+        "lemma": "essere",
+        "pos": "verb",
+        "meaning": "he is (3rd person singular present)"
+      },
+      {
+        "word": "Lord",
+        "lemma": "Lord",
+        "pos": "noun",
+        "meaning": "Lord / nobleman"
+      }
+    ],
+    "Bardolfo exaggerates Ford's lavish wealth by calling him a 'Lord', using the English loanword colloquially in Italian to denote aristocratic fortune."
+  ],
+  "Sua moglie è bella.": [
+    "His wife is beautiful.",
+    [
+      {
+        "word": "Sua",
+        "lemma": "suo",
+        "pos": "adjective",
+        "meaning": "his"
+      },
+      {
+        "word": "moglie",
+        "lemma": "moglie",
+        "pos": "noun",
+        "meaning": "wife"
+      },
+      {
+        "word": "bella",
+        "lemma": "bello",
+        "pos": "adjective",
+        "meaning": "beautiful / fair"
+      }
+    ],
+    "Falstaff brings the focus to Ford's attractive wife, Alice. Italian possessive adjective 'sua' omits the definite article before the singular kinship noun 'moglie'."
+  ],
+  "Atto primo Falstaff": [
+    "Act One Falstaff",
+    [
+      {
+        "word": "Atto",
+        "lemma": "atto",
+        "pos": "noun",
+        "meaning": "act (dramatic division)"
+      },
+      {
+        "word": "primo",
+        "lemma": "primo",
+        "pos": "adjective",
+        "meaning": "first"
+      },
+      {
+        "word": "Falstaff",
+        "lemma": "Falstaff",
+        "pos": "noun",
+        "meaning": "Falstaff"
+      }
+    ],
+    "Libretto section header marking Act I of Falstaff in the score."
+  ],
+  "E tien lo scrigno.": [
+    "And she keeps the coffer.",
+    [
+      {
+        "word": "tien",
+        "lemma": "tenere",
+        "pos": "verb",
+        "meaning": "keeps / holds (apocopated from tiene)"
+      },
+      {
+        "word": "scrigno",
+        "lemma": "scrigno",
+        "pos": "noun",
+        "meaning": "coffer / money-chest / strongbox"
+      }
+    ],
+    "Pistola delivers the crucial detail: Alice holds the keys to Ford's strongbox ('scrigno'). Boito adapts Shakespeare's 'she has all the rule of her husband's purse' (Merry Wives I.3). 'Tien' is apocopated from 'tiene'."
+  ],
+  "È quella! O amor! Sguardo di stella!": [
+    "She is the one! O love! Starlike glance!",
+    [
+      {
+        "word": "quella",
+        "lemma": "quello",
+        "pos": "pronoun",
+        "meaning": "that one / she"
+      },
+      {
+        "word": "amor",
+        "lemma": "amore",
+        "pos": "noun",
+        "meaning": "love (apocopated)"
+      },
+      {
+        "word": "Sguardo",
+        "lemma": "sguardo",
+        "pos": "noun",
+        "meaning": "glance / gaze"
+      },
+      {
+        "word": "stella",
+        "lemma": "stella",
+        "pos": "noun",
+        "meaning": "star"
+      }
+    ],
+    "Falstaff immediately explodes into romantic rhapsody once he realizes Alice holds the money: 'She's the one!'. Note the apocope of 'amore' to 'amor'."
+  ],
+  "Collo di cigno! e il labbro? Un fior. Un fior che ride.": [
+    "Swan neck! and her lip? A flower. A flower that smiles.",
+    [
+      {
+        "word": "Collo",
+        "lemma": "collo",
+        "pos": "noun",
+        "meaning": "neck"
+      },
+      {
+        "word": "cigno",
+        "lemma": "cigno",
+        "pos": "noun",
+        "meaning": "swan"
+      },
+      {
+        "word": "labbro",
+        "lemma": "labbro",
+        "pos": "noun",
+        "meaning": "lip"
+      },
+      {
+        "word": "fior",
+        "lemma": "fiore",
+        "pos": "noun",
+        "meaning": "flower (apocopated)"
+      },
+      {
+        "word": "ride",
+        "lemma": "ridere",
+        "pos": "verb",
+        "meaning": "smiles / laughs"
+      }
+    ],
+    "Falstaff parodies classic Petrarchan love poetry, praising Alice's swan neck and smiling lips. In Italian literary diction, 'un fior che ride' uses 'ridere' in the poetic sense of blossoming or smiling brightly."
+  ],
+  "Alice è il nome, e un giorno, come passar mi vide": [
+    "Alice is her name, and one day, as she saw me pass",
+    [
+      {
+        "word": "Alice",
+        "lemma": "Alice",
+        "pos": "noun",
+        "meaning": "Alice (character name)"
+      },
+      {
+        "word": "nome",
+        "lemma": "nome",
+        "pos": "noun",
+        "meaning": "name"
+      },
+      {
+        "word": "passar",
+        "lemma": "passare",
+        "pos": "verb",
+        "meaning": "to pass by (apocopated)"
+      },
+      {
+        "word": "vide",
+        "lemma": "vedere",
+        "pos": "verb",
+        "meaning": "saw (3rd person singular passato remoto)"
+      }
+    ],
+    "Falstaff narrates his supposed encounter with Alice Ford. Inverted word order 'come passar mi vide' (as she saw me pass) with apocopated infinitive 'passar' and clitic 'mi'."
+  ],
+  "ne' suoi paraggi, rise. M'ardea l'estro amatorio": [
+    "in her vicinity, she smiled. The amorous frenzy burned in me",
+    [
+      {
+        "word": "paraggi",
+        "lemma": "paraggi",
+        "pos": "noun",
+        "meaning": "vicinity / neighborhood"
+      },
+      {
+        "word": "rise",
+        "lemma": "ridere",
+        "pos": "verb",
+        "meaning": "smiled / laughed (passato remoto)"
+      },
+      {
+        "word": "M'ardea",
+        "lemma": "ardere",
+        "pos": "verb",
+        "meaning": "burned in me (dative 'mi' + archaic imperfect 'ardea')"
+      },
+      {
+        "word": "estro",
+        "lemma": "estro",
+        "pos": "noun",
+        "meaning": "inspiration / whim / poetic frenzy"
+      },
+      {
+        "word": "amatorio",
+        "lemma": "amatorio",
+        "pos": "adjective",
+        "meaning": "amorous / erotic"
+      }
+    ],
+    "Falstaff convinces himself that Alice's polite smile in the street was passionate flirtation, setting off his amorous lust. 'Ne'' is an apocope for 'nei' (in the), and 'ardea' is poetic imperfect for 'ardeva' with dative 'mi'."
+  ],
+  "nel cor. La dèa vibrava raggi di specchio ustorio,": [
+    "in my heart. The goddess beamed rays of a burning mirror,",
+    [
+      {
+        "word": "cor",
+        "lemma": "cuore",
+        "pos": "noun",
+        "meaning": "heart (apocopated)"
+      },
+      {
+        "word": "dèa",
+        "lemma": "dea",
+        "pos": "noun",
+        "meaning": "goddess"
+      },
+      {
+        "word": "vibrava",
+        "lemma": "vibrare",
+        "pos": "verb",
+        "meaning": "vibrated / beamed / radiated"
+      },
+      {
+        "word": "raggi",
+        "lemma": "raggio",
+        "pos": "noun",
+        "meaning": "rays / beams"
+      },
+      {
+        "word": "specchio ustorio",
+        "lemma": "specchio ustorio",
+        "pos": "noun",
+        "meaning": "burning mirror (Archimedean concave fire-glass)"
+      }
+    ],
+    "Falstaff imagines Alice's gaze focusing the sun's rays on him like Archimedes' burning mirror ('specchio ustorio') to set his lust on fire. Apocope of 'cuore' to 'cor'."
+  ],
+  "su me, su me, sul fianco baldo, sul gran torace,": [
+    "upon me, upon me, upon my bold flank, upon my great chest,",
+    [
+      {
+        "word": "fianco",
+        "lemma": "fianco",
+        "pos": "noun",
+        "meaning": "flank / hip / side"
+      },
+      {
+        "word": "baldo",
+        "lemma": "baldo",
+        "pos": "adjective",
+        "meaning": "bold / stalwart / sturdy"
+      },
+      {
+        "word": "gran",
+        "lemma": "grande",
+        "pos": "adjective",
+        "meaning": "great / vast (apocopated)"
+      },
+      {
+        "word": "torace",
+        "lemma": "torace",
+        "pos": "noun",
+        "meaning": "chest / thorax"
+      }
+    ],
+    "Falstaff's self-delusion in full glory: he imagines her gazing with burning desire upon his massive body, bold hips, and enormous chest. Features repeated prepositions 'su... sul'."
+  ],
+  "sul maschio piè, sul fusto saldo, erto, capace;": [
+    "upon my manly foot, upon my trunk sturdy, erect, capacious;",
+    [
+      {
+        "word": "maschio",
+        "lemma": "maschio",
+        "pos": "adjective",
+        "meaning": "manly / vigorous / masculine"
+      },
+      {
+        "word": "piè",
+        "lemma": "piede",
+        "pos": "noun",
+        "meaning": "foot (truncated from piede)"
+      },
+      {
+        "word": "fusto",
+        "lemma": "fusto",
+        "pos": "noun",
+        "meaning": "trunk / torso / body frame"
+      },
+      {
+        "word": "saldo",
+        "lemma": "saldo",
+        "pos": "adjective",
+        "meaning": "sturdy / solid / firm"
+      },
+      {
+        "word": "capace",
+        "lemma": "capace",
+        "pos": "adjective",
+        "meaning": "capacious / roomy / large"
+      }
+    ],
+    "Falstaff continues extolling his physical attributes: his manly feet and sturdy, upright, roomy ('capace') torso. 'Piè' is truncated from 'piede', and 'fusto' literally means a tree trunk."
+  ],
+  "e il suo desir in lei fulgea sì al mio congiunto": [
+    "and her desire in her shone so joined to mine",
+    [
+      {
+        "word": "desir",
+        "lemma": "desiderio",
+        "pos": "noun",
+        "meaning": "desire (poetic apocope of desiderio)"
+      },
+      {
+        "word": "fulgea",
+        "lemma": "fulgere",
+        "pos": "verb",
+        "meaning": "shone / flashed (poetic imperfect for fulgeva)"
+      },
+      {
+        "word": "sì",
+        "lemma": "sì",
+        "pos": "adverb",
+        "meaning": "so / thus (correlative with che)"
+      },
+      {
+        "word": "congiunto",
+        "lemma": "congiunto",
+        "pos": "adjective",
+        "meaning": "joined / united to"
+      }
+    ],
+    "Falstaff believes her lust matched his so perfectly that it shone forth visibly. 'Desir' is poetic apocope for 'desiderio', and 'fulgea' is archaic imperfect for 'fulgeva' (shone)."
+  ],
+  "che parea dir: «Io son di Sir John Falstaff.»": [
+    "that it seemed to say: 'I belong to Sir John Falstaff.'",
+    [
+      {
+        "word": "parea",
+        "lemma": "parere",
+        "pos": "verb",
+        "meaning": "it seemed (poetic imperfect for pareva)"
+      },
+      {
+        "word": "dir",
+        "lemma": "dire",
+        "pos": "verb",
+        "meaning": "to say (apocopated)"
+      },
+      {
+        "word": "son di",
+        "lemma": "essere di",
+        "pos": "verb",
+        "meaning": "belong to (am of)"
+      },
+      {
+        "word": "Falstaff",
+        "lemma": "Falstaff",
+        "pos": "noun",
+        "meaning": "Falstaff"
+      }
+    ],
+    "Falstaff concludes his fantasy: Alice's gaze seemed to declare 'I belong to Sir John Falstaff!' 'Parea' is poetic imperfect for 'pareva', and 'dir' is apocopated from 'dire'."
+  ],
+  "Punto.": [
+    "Period.",
+    [
+      {
+        "word": "Punto",
+        "lemma": "punto",
+        "pos": "noun",
+        "meaning": "period / full stop (punctuation mark)"
+      },
+      {
+        "word": "punto fermo",
+        "lemma": "punto fermo",
+        "pos": "idiom",
+        "meaning": "full stop / period"
+      }
+    ],
+    "Bardolfo cuts through Falstaff's romantic daydream by dryly acting as a scribe, announcing a punctuation full stop ('period')."
+  ],
+  "E a capo. Un'altra; e questa ha nome Margherita.": [
+    "And new line. Another one; and this one is named Margaret.",
+    [
+      {
+        "word": "a capo",
+        "lemma": "a capo",
+        "pos": "idiom",
+        "meaning": "new line / new paragraph (typographical command)"
+      },
+      {
+        "word": "altra",
+        "lemma": "altro",
+        "pos": "pronoun",
+        "meaning": "other / another (feminine)"
+      },
+      {
+        "word": "Margherita",
+        "lemma": "Margherita",
+        "pos": "noun",
+        "meaning": "Margaret (character name for Meg Page)"
+      }
+    ],
+    "Falstaff doesn't miss a beat and continues his dictation like a merchant: 'New line/paragraph! Another woman!'. He introduces Meg Page (using her Italian name Margherita)."
+  ],
+  "La chiaman Meg.": [
+    "They call her Meg.",
+    [
+      {
+        "word": "La",
+        "lemma": "la",
+        "pos": "pronoun",
+        "meaning": "her (direct object clitic)"
+      },
+      {
+        "word": "chiaman",
+        "lemma": "chiamare",
+        "pos": "verb",
+        "meaning": "they call (apocopated from chiamano)"
+      },
+      {
+        "word": "Meg",
+        "lemma": "Meg",
+        "pos": "noun",
+        "meaning": "Meg (diminutive of Margaret)"
+      }
+    ],
+    "Pistola provides her familiar English nickname 'Meg'. 'Chiaman' is apocopated from 'chiamano'."
+  ],
+  "È anch'essa dei miei pregi invaghita.": [
+    "She too is infatuated with my charms.",
+    [
+      {
+        "word": "anch'essa",
+        "lemma": "anch'esso",
+        "pos": "pronoun",
+        "meaning": "she too / she as well"
+      },
+      {
+        "word": "pregi",
+        "lemma": "pregio",
+        "pos": "noun",
+        "meaning": "charms / virtues / qualities"
+      },
+      {
+        "word": "invaghita",
+        "lemma": "invaghire",
+        "pos": "adjective",
+        "meaning": "infatuated / smitten / enamored"
+      }
+    ],
+    "Falstaff boasts that Meg Page too is madly infatuated with his charms. 'Anch'essa' elides 'anche essa' (she too); 'invaghita di' means enamored/infatuated with."
+  ],
+  "E anch'essa tien le chiavi dello scrigno. Costoro": [
+    "And she too holds the keys of the coffer. These women",
+    [
+      {
+        "word": "tien",
+        "lemma": "tenere",
+        "pos": "verb",
+        "meaning": "holds / keeps (apocopated from tiene)"
+      },
+      {
+        "word": "chiavi",
+        "lemma": "chiave",
+        "pos": "noun",
+        "meaning": "keys"
+      },
+      {
+        "word": "scrigno",
+        "lemma": "scrigno",
+        "pos": "noun",
+        "meaning": "coffer / money-chest"
+      },
+      {
+        "word": "Costoro",
+        "lemma": "costoro",
+        "pos": "pronoun",
+        "meaning": "these women / these people"
+      }
+    ],
+    "The punchline of Falstaff's scheme: Meg Page also holds the keys to her husband's strongbox. 'Tien' is apocopated from 'tiene'. The pronoun 'Costoro' (these women) is enjambed into the next line."
+  ],
+  "saran le mie Golconde e le mie Coste d'oro!": [
+    "shall be my Golcondas and my Gold Coasts!",
+    [
+      {
+        "word": "saran",
+        "lemma": "essere",
+        "pos": "verb",
+        "meaning": "shall be (future 3rd person plural, apocopated)"
+      },
+      {
+        "word": "Golconde",
+        "lemma": "Golconda",
+        "pos": "noun",
+        "meaning": "Golcondas (ancient diamond-mining city of India, emblem of wealth)"
+      },
+      {
+        "word": "Coste d'oro",
+        "lemma": "Costa d'oro",
+        "pos": "noun",
+        "meaning": "Gold Coasts (lands of riches)"
+      }
+    ],
+    "Falstaff envisions the two wealthy wives as his personal treasure houses (adapting Shakespeare's 'they shall be my East and West Indies'). Golconda was an Indian city famed for diamond mines; the Gold Coast was known for gold reserves. 'Saran' is apocopated from 'saranno'."
+  ],
+  "Guardate. Io sono ancora una piacente estate": [
+    "Look. I am still a pleasing summer",
+    [
+      {
+        "word": "Guardate",
+        "lemma": "guardare",
+        "pos": "verb",
+        "meaning": "look / behold (imperative 2nd person plural)"
+      },
+      {
+        "word": "ancora",
+        "lemma": "ancora",
+        "pos": "adverb",
+        "meaning": "still / yet"
+      },
+      {
+        "word": "piacente",
+        "lemma": "piacente",
+        "pos": "adjective",
+        "meaning": "pleasing / attractive (present participle of piacere)"
+      },
+      {
+        "word": "estate",
+        "lemma": "estate",
+        "pos": "noun",
+        "meaning": "summer"
+      }
+    ],
+    "Falstaff shows off his physique to his followers, claiming that despite his age, he is still an attractive, virile man. 'Piacente' is the present participle of 'piacere' used adjectivally."
+  ],
+  "di san Martino. A voi, due lettere infuocate.": [
+    "of Saint Martin. To you, two fiery letters.",
+    [
+      {
+        "word": "san Martino",
+        "lemma": "San Martino",
+        "pos": "noun",
+        "meaning": "Saint Martin"
+      },
+      {
+        "word": "lettere",
+        "lemma": "lettera",
+        "pos": "noun",
+        "meaning": "letters"
+      },
+      {
+        "word": "infuocate",
+        "lemma": "infuocato",
+        "pos": "adjective",
+        "meaning": "fiery / burning / impassioned"
+      }
+    ],
+    "'Estate di san Martino' (St. Martin's summer) is the Italian idiom for Indian summer (a warm spell in late autumn, echoing Hal calling Falstaff 'All-hallown summer' in 1 Henry IV). He hands them two passionate love letters."
+  ],
+  "Tu porta questa a Meg; tentiam la sua virtù.": [
+    "You carry this to Meg; let us test her virtue.",
+    [
+      {
+        "word": "porta",
+        "lemma": "portare",
+        "pos": "verb",
+        "meaning": "carry / take (imperative 2nd person singular)"
+      },
+      {
+        "word": "tentiam",
+        "lemma": "tentare",
+        "pos": "verb",
+        "meaning": "let us test / tempt (1st person plural hortative, apocopated)"
+      },
+      {
+        "word": "virtù",
+        "lemma": "virtù",
+        "pos": "noun",
+        "meaning": "virtue / chastity"
+      }
+    ],
+    "Falstaff instructs Bardolfo to deliver one letter to Meg Page to test her fidelity. 'Tentiam' is hortative 1st person plural apocopated from 'tentiamo'."
+  ],
+  "Già vedo che il tuo naso arde di zelo.": [
+    "Already I see that your nose burns with zeal.",
+    [
+      {
+        "word": "Già",
+        "lemma": "già",
+        "pos": "adverb",
+        "meaning": "already"
+      },
+      {
+        "word": "vedo",
+        "lemma": "vedere",
+        "pos": "verb",
+        "meaning": "I see (1st person singular present)"
+      },
+      {
+        "word": "arde",
+        "lemma": "ardere",
+        "pos": "verb",
+        "meaning": "burns / glows"
+      },
+      {
+        "word": "zelo",
+        "lemma": "zelo",
+        "pos": "noun",
+        "meaning": "zeal / fervor / devotion"
+      }
+    ],
+    "Falstaff mocks Bardolfo's glowing red nose, joking that it is already blazing with holy zeal to deliver the love letter."
+  ],
+  "E tu porta questa ad Alice.": [
+    "And you carry this to Alice.",
+    [
+      {
+        "word": "porta",
+        "lemma": "portare",
+        "pos": "verb",
+        "meaning": "carry / take (imperative 2nd person singular)"
+      },
+      {
+        "word": "questa",
+        "lemma": "questo",
+        "pos": "pronoun",
+        "meaning": "this (letter)"
+      },
+      {
+        "word": "Alice",
+        "lemma": "Alice",
+        "pos": "noun",
+        "meaning": "Alice (character name)"
+      }
+    ],
+    "Falstaff commands Pistola to deliver the identical second letter to Alice Ford. Note the euphonic 'd' in 'ad Alice'."
+  ],
+  "Porto una spada al fianco.": [
+    "I wear a sword at my side.",
+    [
+      {
+        "word": "Porto",
+        "lemma": "portare",
+        "pos": "verb",
+        "meaning": "I wear / carry (1st person singular present)"
+      },
+      {
+        "word": "spada",
+        "lemma": "spada",
+        "pos": "noun",
+        "meaning": "sword"
+      },
+      {
+        "word": "fianco",
+        "lemma": "fianco",
+        "pos": "noun",
+        "meaning": "flank / side"
+      }
+    ],
+    "Pistola proudly refuses, insisting he is a soldier who wears a sword, not a courier of illicit love notes (Shakespeare's Merry Wives I.3: 'Shall I Sir Pandarus of Troy become, and by my side wear steel?')."
+  ],
+  "Non sono un messer Pandarus. Ricuso.": [
+    "I am not a Sir Pandarus. I refuse.",
+    [
+      {
+        "word": "messer",
+        "lemma": "messer",
+        "pos": "noun",
+        "meaning": "master / sir (archaic title)"
+      },
+      {
+        "word": "Pandarus",
+        "lemma": "Pandarus",
+        "pos": "noun",
+        "meaning": "Pandarus (Trojan procurer/pimp in medieval legend)"
+      },
+      {
+        "word": "Ricuso",
+        "lemma": "ricusare",
+        "pos": "verb",
+        "meaning": "I refuse / reject (1st person singular present)"
+      }
+    ],
+    "Pistola declares he will not act as a pimp (alluding to Pandarus, who procured Cressida for Troilus). 'Ricuso' means 'I refuse'."
+  ],
+  "Saltimbanco.": [
+    "Mountebank.",
+    [
+      {
+        "word": "Saltimbanco",
+        "lemma": "saltimbanco",
+        "pos": "noun",
+        "meaning": "mountebank / charlatan / street acrobat"
+      },
+      {
+        "word": "saltare in banco",
+        "lemma": "saltare in banco",
+        "pos": "idiom",
+        "meaning": "to mount a bench (etymological origin of saltimbanco)"
+      }
+    ],
+    "Falstaff hurls an insult at Pistola, calling him a mountebank or cheap street performer. Derived etymologically from 'salta in banco' (one who climbs a bench to pitch snake oil)."
+  ],
+  "Sir John, in questo intrigo non posso accondiscendervi,": [
+    "Sir John, in this intrigue I cannot comply with you,",
+    [
+      {
+        "word": "intrigo",
+        "lemma": "intrigo",
+        "pos": "noun",
+        "meaning": "intrigue / scheme"
+      },
+      {
+        "word": "posso",
+        "lemma": "potere",
+        "pos": "verb",
+        "meaning": "I can (1st person singular)"
+      },
+      {
+        "word": "accondiscendervi",
+        "lemma": "accondiscendere",
+        "pos": "verb",
+        "meaning": "to comply with you / acquiesce (infinitive + enclitic 'vi')"
+      }
+    ],
+    "Bardolfo joins the mutiny, politely stating he cannot participate in this scheme. The enclitic pronoun 'vi' is attached to infinitive 'accondiscendere' ('accondiscendervi': comply with you in this)."
+  ],
+  "lo vieta...": [
+    "it is forbidden by...",
+    [
+      {
+        "word": "lo",
+        "lemma": "lo",
+        "pos": "pronoun",
+        "meaning": "it (direct object clitic)"
+      },
+      {
+        "word": "vieta",
+        "lemma": "vietare",
+        "pos": "verb",
+        "meaning": "forbids / prohibits"
+      }
+    ],
+    "Bardolfo pauses theatrically before naming what prevents him from helping. The direct object clitic 'lo' anticipates the delayed subject 'L'onore' in line 55."
+  ],
+  "L'onore.": [
+    "Honor.",
+    [
+      {
+        "word": "L'",
+        "lemma": "il",
+        "pos": "particle",
+        "meaning": "the (elided definite article)"
+      },
+      {
+        "word": "onore",
+        "lemma": "onore",
+        "pos": "noun",
+        "meaning": "honor"
+      }
+    ],
+    "Bardolfo finishes his sentence: 'Honor forbids it'. The hypocrisy of a pickpocket citing 'honor' enrages Falstaff and sparks the famous monologue."
+  ],
+  "Ehi! paggio!": [
+    "Hey! page!",
+    [
+      {
+        "word": "Ehi",
+        "lemma": "ehi",
+        "pos": "interjection",
+        "meaning": "hey! (interjection)"
+      },
+      {
+        "word": "paggio",
+        "lemma": "paggio",
+        "pos": "noun",
+        "meaning": "page / page-boy"
+      }
+    ],
+    "Disgusted by his men's sudden moral posturing, Falstaff calls over his page boy Robin to carry the letters instead."
+  ],
+  "Andate a impendervi,": [
+    "Go hang yourselves,",
+    [
+      {
+        "word": "Andate",
+        "lemma": "andare",
+        "pos": "verb",
+        "meaning": "go (imperative 2nd person plural)"
+      },
+      {
+        "word": "impendervi",
+        "lemma": "impendersi",
+        "pos": "verb",
+        "meaning": "to hang yourselves (archaic reflexive infinitive + enclitic 'vi')"
+      }
+    ],
+    "Falstaff curses his followers to go hang themselves. Uses the archaic verb 'impendersi' (from Latin impendere, to hang oneself) with reflexive enclitic 'vi'."
+  ],
+  "ma non più a me!": [
+    "but no longer on me!",
+    [
+      {
+        "word": "più",
+        "lemma": "più",
+        "pos": "adverb",
+        "meaning": "longer / more"
+      },
+      {
+        "word": "me",
+        "lemma": "me",
+        "pos": "pronoun",
+        "meaning": "me (disjunctive pronoun)"
+      }
+    ],
+    "A sharp comedic pun: Falstaff tells them to go hang themselves ('impendervi'), but to stop hanging upon or depending on him for money and lodging ('non più a me')."
+  ],
+  "Due lettere, prendi, per due signore.": [
+    "Two letters, take them, for two ladies.",
+    [
+      {
+        "word": "lettere",
+        "lemma": "lettera",
+        "pos": "noun",
+        "meaning": "letters"
+      },
+      {
+        "word": "prendi",
+        "lemma": "prendere",
+        "pos": "verb",
+        "meaning": "take (imperative 2nd person singular)"
+      },
+      {
+        "word": "signore",
+        "lemma": "signora",
+        "pos": "noun",
+        "meaning": "ladies / gentlewomen"
+      }
+    ],
+    "Falstaff gives Robin the two identical love letters addressed to Alice and Meg. Imperative 'prendi' addressed to the page."
+  ],
+  "Consegna tosto, corri, via, lesto, va'!": [
+    "Deliver quickly, run, away, nimble, go!",
+    [
+      {
+        "word": "Consegna",
+        "lemma": "consegnare",
+        "pos": "verb",
+        "meaning": "deliver / hand over (imperative)"
+      },
+      {
+        "word": "tosto",
+        "lemma": "tosto",
+        "pos": "adverb",
+        "meaning": "quickly / swiftly / at once"
+      },
+      {
+        "word": "corri",
+        "lemma": "correre",
+        "pos": "verb",
+        "meaning": "run (imperative)"
+      },
+      {
+        "word": "lesto",
+        "lemma": "lesto",
+        "pos": "adjective",
+        "meaning": "quick / nimble / brisk"
+      },
+      {
+        "word": "va'",
+        "lemma": "andare",
+        "pos": "verb",
+        "meaning": "go! (truncated imperative)"
+      }
+    ],
+    "Falstaff orders the page to sprint off on the errand with a staccato barrage of imperatives: 'Consegna... corri... va''. 'Tosto' is an archaic adverb meaning 'swiftly / at once'."
+  ],
+  "L'onore!": [
+    "Honor!",
+    [
+      {
+        "word": "L'",
+        "lemma": "il",
+        "pos": "particle",
+        "meaning": "the (elided definite article)"
+      },
+      {
+        "word": "onore",
+        "lemma": "onore",
+        "pos": "noun",
+        "meaning": "honor"
+      }
+    ],
+    "Falstaff turns back to his henchmen with utter contempt, echoing the word 'Honor!' to begin his legendary monologue (adapted from Henry IV, Part 1, Act V, Scene 1)."
+  ],
+  "Ladri! Voi state ligi all'onor vostro, voi!": [
+    "Thieves! You stand bound to your honor, you!",
+    [
+      {
+        "word": "Ladri",
+        "lemma": "ladro",
+        "pos": "noun",
+        "meaning": "thieves / robbers"
+      },
+      {
+        "word": "state",
+        "lemma": "stare",
+        "pos": "verb",
+        "meaning": "you stand / remain (2nd person plural present)"
+      },
+      {
+        "word": "ligi",
+        "lemma": "ligio",
+        "pos": "adjective",
+        "meaning": "loyal / obedient / bound to duty"
+      },
+      {
+        "word": "onor",
+        "lemma": "onore",
+        "pos": "noun",
+        "meaning": "honor (apocopated)"
+      }
+    ],
+    "Falstaff mocks the sheer absurdity of thieves pretending to be bound by knightly honor. Uses the doubled subject pronoun 'Voi... voi' for biting sarcasm, with 'ligi' meaning strictly obedient or bound."
+  ],
+  "Cloache d'ignominia, quando, non sempre, noi": [
+    "Sewers of ignominy, when, not always, we",
+    [
+      {
+        "word": "Cloache",
+        "lemma": "cloaca",
+        "pos": "noun",
+        "meaning": "sewers / sinks of filth / cesspools"
+      },
+      {
+        "word": "ignominia",
+        "lemma": "ignominia",
+        "pos": "noun",
+        "meaning": "ignominy / dishonor / shame"
+      },
+      {
+        "word": "sempre",
+        "lemma": "sempre",
+        "pos": "adverb",
+        "meaning": "always"
+      }
+    ],
+    "Falstaff calls them 'sewers of ignominy' (sinks of shame and filth), pointing out that even great gentlemen like himself cannot always remain bound to honor when survival is at stake."
+  ],
+  "possiam star ligi al nostro. Io stesso, sì, io, io,": [
+    "can stand bound to ours. I myself, yes, I, I,",
+    [
+      {
+        "word": "possiam",
+        "lemma": "potere",
+        "pos": "verb",
+        "meaning": "we can (apocopated from possiamo)"
+      },
+      {
+        "word": "star",
+        "lemma": "stare",
+        "pos": "verb",
+        "meaning": "to stand / remain (apocopated)"
+      },
+      {
+        "word": "nostro",
+        "lemma": "nostro",
+        "pos": "pronoun",
+        "meaning": "ours (referring to honor)"
+      },
+      {
+        "word": "stesso",
+        "lemma": "stesso",
+        "pos": "adjective",
+        "meaning": "myself / self"
+      }
+    ],
+    "Falstaff continues with comical self-importance ('I myself, yes, I, I!'): even he must sometimes bend the rules of honor. Apocopes 'possiam' and 'star'."
+  ],
+  "devo talor da un lato porre il timor di dio": [
+    "must sometimes set aside the fear of God",
+    [
+      {
+        "word": "devo",
+        "lemma": "dovere",
+        "pos": "verb",
+        "meaning": "I must (1st person singular present)"
+      },
+      {
+        "word": "talor",
+        "lemma": "talora",
+        "pos": "adverb",
+        "meaning": "sometimes / at times (apocopated from talora)"
+      },
+      {
+        "word": "porre da un lato",
+        "lemma": "porre da un lato",
+        "pos": "idiom",
+        "meaning": "to set aside / put aside"
+      },
+      {
+        "word": "timor",
+        "lemma": "timore",
+        "pos": "noun",
+        "meaning": "fear / dread (apocopated)"
+      }
+    ],
+    "Falstaff confesses that when money is scarce, he must occasionally set aside the fear of God. 'Porre da un lato' is an idiom meaning 'to set aside / discard'."
+  ],
+  "e, per necessità, sviar l'onore e usare": [
+    "and, through necessity, dodge honor and use",
+    [
+      {
+        "word": "necessità",
+        "lemma": "necessità",
+        "pos": "noun",
+        "meaning": "necessity"
+      },
+      {
+        "word": "sviar",
+        "lemma": "sviare",
+        "pos": "verb",
+        "meaning": "to deflect / divert / bypass (apocopated)"
+      },
+      {
+        "word": "onore",
+        "lemma": "onore",
+        "pos": "noun",
+        "meaning": "honor"
+      },
+      {
+        "word": "usare",
+        "lemma": "usare",
+        "pos": "verb",
+        "meaning": "to use / employ"
+      }
+    ],
+    "Falstaff explains that necessity forces a gentleman to bypass honor. 'Sviar' is an apocope of 'sviare' (to detour around / deflect / sidetrack)."
+  ],
+  "stratagemmi ed equivoci, destreggiar, bordeggiare.": [
+    "stratagems and equivocations, maneuver, tack to the wind.",
+    [
+      {
+        "word": "stratagemmi",
+        "lemma": "stratagemma",
+        "pos": "noun",
+        "meaning": "stratagems / ruses"
+      },
+      {
+        "word": "equivoci",
+        "lemma": "equivoco",
+        "pos": "noun",
+        "meaning": "equivocations / double entendres"
+      },
+      {
+        "word": "destreggiar",
+        "lemma": "destreggiare",
+        "pos": "verb",
+        "meaning": "to maneuver deftly / juggle (apocopated)"
+      },
+      {
+        "word": "bordeggiare",
+        "lemma": "bordeggiare",
+        "pos": "verb",
+        "meaning": "to tack / beat against the wind (nautical metaphor)"
+      }
+    ],
+    "Falstaff lists his survival tactics: stratagems, white lies, and deft maneuvering. 'Bordeggiare' is a nautical term meaning to tack back and forth against contrary winds, metaphorically describing clever dodging."
+  ],
+  "E voi, coi vostri cenci e coll'occhiata torta": [
+    "And you, with your rags and with your crooked look",
+    [
+      {
+        "word": "cenci",
+        "lemma": "cencio",
+        "pos": "noun",
+        "meaning": "rags / tatters"
+      },
+      {
+        "word": "occhiata",
+        "lemma": "occhiata",
+        "pos": "noun",
+        "meaning": "glance / look"
+      },
+      {
+        "word": "torta",
+        "lemma": "torto",
+        "pos": "adjective",
+        "meaning": "crooked / shifty / squinting"
+      }
+    ],
+    "Falstaff contrasts his own gentlemanly necessity with his henchmen's squalor: they are dressed in rags ('cenci') with the shifty, treacherous squint ('occhiata torta') of predatory cutpurses."
+  ],
+  "da gattopardo": [
+    "like an ocelot",
+    [
+      {
+        "word": "da",
+        "lemma": "da",
+        "pos": "preposition",
+        "meaning": "like / in the manner of"
+      },
+      {
+        "word": "gattopardo",
+        "lemma": "gattopardo",
+        "pos": "noun",
+        "meaning": "ocelot / serval / predatory wildcat"
+      }
+    ],
+    "Falstaff finishes the description of their shifty look: 'like an ocelot / serval' ('da gattopardo'), predatory wildcats known for deceitful stealth."
+  ],
+  "e i fetidi sghignazzi, avete a scorta": [
+    "and your foul sneers, have as your escort",
+    [
+      {
+        "word": "fetidi",
+        "lemma": "fetido",
+        "pos": "adjective",
+        "meaning": "fetid / foul-smelling / noxious"
+      },
+      {
+        "word": "sghignazzi",
+        "lemma": "sghignazzo",
+        "pos": "noun",
+        "meaning": "guffaws / sneering laughter"
+      },
+      {
+        "word": "avete",
+        "lemma": "avere",
+        "pos": "verb",
+        "meaning": "you have (2nd person plural)"
+      },
+      {
+        "word": "scorta",
+        "lemma": "scorta",
+        "pos": "noun",
+        "meaning": "escort / guide / guard"
+      }
+    ],
+    "Falstaff continues cataloging their repulsive traits: foul sneering laughter ('fetidi sghignazzi'). 'Avete a scorta' means 'you take as your guide and escort' (its direct object 'il vostro onor' follows in line 71)."
+  ],
+  "il vostro onor! Che onore? che onor? che onor! che ciancia!": [
+    "your honor! What honor? what honor? what honor! what nonsense!",
+    [
+      {
+        "word": "onor",
+        "lemma": "onore",
+        "pos": "noun",
+        "meaning": "honor (apocopated)"
+      },
+      {
+        "word": "Che",
+        "lemma": "che",
+        "pos": "adjective",
+        "meaning": "what (exclamative/interrogative)"
+      },
+      {
+        "word": "ciancia",
+        "lemma": "ciancia",
+        "pos": "noun",
+        "meaning": "idle talk / chatter / nonsense / twaddle"
+      }
+    ],
+    "Falstaff's mocking diatribe reaches fever pitch: 'Your honor! What honor? what claptrap!'. 'Ciancia' is an expressive noun meaning empty chatter, gossip, or nonsense."
+  ],
+  "Che baia! Può l'onore riempirvi la pancia?": [
+    "What a joke! Can honor fill your belly?",
+    [
+      {
+        "word": "baia",
+        "lemma": "baia",
+        "pos": "noun",
+        "meaning": "jest / joke / trifle / humbug"
+      },
+      {
+        "word": "Può",
+        "lemma": "potere",
+        "pos": "verb",
+        "meaning": "can (3rd person singular present)"
+      },
+      {
+        "word": "riempirvi",
+        "lemma": "riempire",
+        "pos": "verb",
+        "meaning": "to fill for you (infinitive + enclitic 'vi')"
+      },
+      {
+        "word": "pancia",
+        "lemma": "pancia",
+        "pos": "noun",
+        "meaning": "belly / paunch"
+      }
+    ],
+    "Falstaff's pragmatic catechism begins: can honor fill your empty belly? 'Che baia!' is a Tuscan idiom meaning 'What a joke! What nonsense!'. Directly translates Shakespeare's 'Can honour set to a leg? no'."
+  ],
+  "No. Può l'onor rimettervi uno stinco? Non può.": [
+    "No. Can honor set a shin for you? It cannot.",
+    [
+      {
+        "word": "rimettervi",
+        "lemma": "rimettere",
+        "pos": "verb",
+        "meaning": "to set / put back for you (infinitive + enclitic 'vi')"
+      },
+      {
+        "word": "stinco",
+        "lemma": "stinco",
+        "pos": "noun",
+        "meaning": "shin / shinbone"
+      },
+      {
+        "word": "Non può",
+        "lemma": "potere",
+        "pos": "verb",
+        "meaning": "it cannot"
+      }
+    ],
+    "Falstaff asks the questions and supplies the answers: can honor reset a broken shinbone? No, it cannot! ('rimettervi uno stinco')."
+  ],
+  "Né un piede? No. Né un dito? No. Né un capello? No.": [
+    "Nor a foot? No. Nor a finger? No. Nor a hair? No.",
+    [
+      {
+        "word": "Né",
+        "lemma": "né",
+        "pos": "conjunction",
+        "meaning": "nor / neither"
+      },
+      {
+        "word": "piede",
+        "lemma": "piede",
+        "pos": "noun",
+        "meaning": "foot"
+      },
+      {
+        "word": "dito",
+        "lemma": "dito",
+        "pos": "noun",
+        "meaning": "finger / toe"
+      },
+      {
+        "word": "capello",
+        "lemma": "capello",
+        "pos": "noun",
+        "meaning": "hair"
+      },
+      {
+        "word": "No",
+        "lemma": "no",
+        "pos": "interjection",
+        "meaning": "no"
+      }
+    ],
+    "Falstaff continues his rapid catechism in a comedic diminuendo from foot down to a single hair, showing honor has zero physical or medical value."
+  ],
+  "L'onor non è chirurgo. Ch'è dunque? Una parola.": [
+    "Honor is not a surgeon. What is it then? A word.",
+    [
+      {
+        "word": "chirurgo",
+        "lemma": "chirurgo",
+        "pos": "noun",
+        "meaning": "surgeon"
+      },
+      {
+        "word": "Ch'è",
+        "lemma": "che è",
+        "pos": "pronoun",
+        "meaning": "what is it (che + è)"
+      },
+      {
+        "word": "dunque",
+        "lemma": "dunque",
+        "pos": "adverb",
+        "meaning": "then / therefore"
+      },
+      {
+        "word": "parola",
+        "lemma": "parola",
+        "pos": "noun",
+        "meaning": "word"
+      }
+    ],
+    "Verbatim from Shakespeare: 'Honour hath no skill in surgery, then? no. What is honour? a word.' Falstaff dismisses honor as nothing more than an empty utterance."
+  ],
+  "Che c'è in questa parola? C'è dell'aria che vola.": [
+    "What is in this word? There is air that flies.",
+    [
+      {
+        "word": "Che",
+        "lemma": "che",
+        "pos": "pronoun",
+        "meaning": "what"
+      },
+      {
+        "word": "c'è",
+        "lemma": "esserci",
+        "pos": "verb",
+        "meaning": "there is"
+      },
+      {
+        "word": "aria",
+        "lemma": "aria",
+        "pos": "noun",
+        "meaning": "air / breath"
+      },
+      {
+        "word": "vola",
+        "lemma": "volare",
+        "pos": "verb",
+        "meaning": "flies / vanishes"
+      }
+    ],
+    "Shakespeare asked 'What is that honour? air.' Boito poetically expands this into 'dell'aria che vola' (air that flies away and vanishes on the wind)."
+  ],
+  "Bel costrutto! L'onore lo può sentire chi è morto?": [
+    "Fine outcome! Can he who is dead feel honor?",
+    [
+      {
+        "word": "Bel",
+        "lemma": "bello",
+        "pos": "adjective",
+        "meaning": "fine / handsome (apocopated)"
+      },
+      {
+        "word": "costrutto",
+        "lemma": "costrutto",
+        "pos": "noun",
+        "meaning": "substance / sense / profit / useful outcome"
+      },
+      {
+        "word": "sentire",
+        "lemma": "sentire",
+        "pos": "verb",
+        "meaning": "to feel / hear / perceive"
+      },
+      {
+        "word": "morto",
+        "lemma": "morto",
+        "pos": "adjective",
+        "meaning": "dead"
+      }
+    ],
+    "Falstaff's sarcastic summary: 'A fine profit/reckoning!' (translating Shakespeare's 'A trim reckoning!'). He asks if dead men can feel honor, using clitic left dislocation ('L'onore lo può sentire...')."
+  ],
+  "No. Vive sol coi vivi?... Neppure: perché a torto": [
+    "No. Does it live only with the living?... Not even that: because wrongly",
+    [
+      {
+        "word": "Vive",
+        "lemma": "vivere",
+        "pos": "verb",
+        "meaning": "lives (3rd person singular present)"
+      },
+      {
+        "word": "sol",
+        "lemma": "solo",
+        "pos": "adverb",
+        "meaning": "only / solely (apocopated from solo)"
+      },
+      {
+        "word": "vivi",
+        "lemma": "vivo",
+        "pos": "noun",
+        "meaning": "the living (substantivized plural adjective)"
+      },
+      {
+        "word": "Neppure",
+        "lemma": "neppure",
+        "pos": "adverb",
+        "meaning": "not even / neither"
+      },
+      {
+        "word": "a torto",
+        "lemma": "a torto",
+        "pos": "idiom",
+        "meaning": "wrongly / unjustly"
+      }
+    ],
+    "Falstaff continues Shakespeare's catechism: honor doesn't live with the dead, nor can it survive among the living ('Vive sol coi vivi?... Neppure'), because human malice constantly attacks it."
+  ],
+  "lo gonfian le lusinghe, lo corrompe l'orgoglio,": [
+    "flatteries puff it up, pride corrupts it,",
+    [
+      {
+        "word": "gonfian",
+        "lemma": "gonfiare",
+        "pos": "verb",
+        "meaning": "puff up / swell (apocopated from gonfiano)"
+      },
+      {
+        "word": "lusinghe",
+        "lemma": "lusinga",
+        "pos": "noun",
+        "meaning": "flatteries / blandishments"
+      },
+      {
+        "word": "corrompe",
+        "lemma": "corrompere",
+        "pos": "verb",
+        "meaning": "corrupts / taints"
+      },
+      {
+        "word": "orgoglio",
+        "lemma": "orgoglio",
+        "pos": "noun",
+        "meaning": "pride / vanity"
+      }
+    ],
+    "Falstaff explains why honor cannot survive even among the living: flattery inflates it with vanity, and arrogant pride corrupts it. Clitic direct object 'lo' refers back to honor."
+  ],
+  "l'ammorban le calunnie; e per me non ne voglio!": [
+    "calumnies infect it; and as for me, I want none of it!",
+    [
+      {
+        "word": "ammorban",
+        "lemma": "ammorbare",
+        "pos": "verb",
+        "meaning": "infect / sicken / plague (apocopated from ammorbano)"
+      },
+      {
+        "word": "calunnie",
+        "lemma": "calunnia",
+        "pos": "noun",
+        "meaning": "slanders / calumnies"
+      },
+      {
+        "word": "per me",
+        "lemma": "per me",
+        "pos": "idiom",
+        "meaning": "as for me / for my part"
+      },
+      {
+        "word": "ne voglio",
+        "lemma": "volerne",
+        "pos": "verb",
+        "meaning": "want of it (partitive clitic 'ne' + voglio)"
+      }
+    ],
+    "Falstaff concludes his philosophical catechism: slander and gossip infect honor like a plague ('ammorban'), so he wants nothing to do with it (translating Shakespeare's 'Therefore I'll none of it')."
+  ],
+  "Ma, per tornare a voi, furfanti, ho atteso troppo.": [
+    "But, to return to you, rascals, I have waited too long.",
+    [
+      {
+        "word": "tornare",
+        "lemma": "tornare",
+        "pos": "verb",
+        "meaning": "to return"
+      },
+      {
+        "word": "furfanti",
+        "lemma": "furfante",
+        "pos": "noun",
+        "meaning": "rascals / rogues / scoundrels"
+      },
+      {
+        "word": "atteso",
+        "lemma": "attendere",
+        "pos": "verb",
+        "meaning": "waited / waited for (past participle)"
+      },
+      {
+        "word": "troppo",
+        "lemma": "troppo",
+        "pos": "adverb",
+        "meaning": "too long / too much"
+      }
+    ],
+    "Having demolished the abstract concept of honor, Falstaff turns back to his real business: punishing his mutinous henchmen ('furfanti' = rascals)."
+  ],
+  "E vi discaccio.": [
+    "And I drive you out.",
+    [
+      {
+        "word": "vi",
+        "lemma": "vi",
+        "pos": "pronoun",
+        "meaning": "you (direct object clitic 2nd person plural)"
+      },
+      {
+        "word": "discaccio",
+        "lemma": "discacciare",
+        "pos": "verb",
+        "meaning": "I drive out / banish / expel (1st person singular present)"
+      }
+    ],
+    "Falstaff pronounces their formal banishment and expulsion: 'And I drive you out!'. Present indicative of 'discacciare' with direct object 'vi'."
+  ],
+  "Olà! lesti! lesti! al galoppo!": [
+    "Hey! quick! quick! at a gallop!",
+    [
+      {
+        "word": "Olà",
+        "lemma": "olà",
+        "pos": "interjection",
+        "meaning": "hey! / ho there! (interjection)"
+      },
+      {
+        "word": "lesti",
+        "lemma": "lesto",
+        "pos": "adjective",
+        "meaning": "quick / nimble / brisk (masculine plural)"
+      },
+      {
+        "word": "al galoppo",
+        "lemma": "al galoppo",
+        "pos": "idiom",
+        "meaning": "at a gallop / at full speed"
+      }
+    ],
+    "Falstaff seizes a broom and starts thrashing them, ordering them to run off at a gallop ('al galoppo')."
+  ],
+  "al galoppo! Il capestro assai bene vi sta.": [
+    "at a gallop! The halter suits you very well.",
+    [
+      {
+        "word": "capestro",
+        "lemma": "capestro",
+        "pos": "noun",
+        "meaning": "halter / hangman's rope / noose"
+      },
+      {
+        "word": "assai",
+        "lemma": "assai",
+        "pos": "adverb",
+        "meaning": "very / much / well"
+      },
+      {
+        "word": "vi sta",
+        "lemma": "stare bene",
+        "pos": "idiom",
+        "meaning": "suits you / becomes you"
+      }
+    ],
+    "Falstaff shouts that the hangman's noose ('il capestro') suits them perfectly, as hanging is the proper fate for thieves who betray their master. 'Stare bene a qualcuno' is an idiom meaning 'to suit/become someone'."
+  ],
+  "Ladri! Via! Via di qua! Via di qua! Via di qua!": [
+    "Thieves! Away! Out of here! Out of here! Out of here!",
+    [
+      {
+        "word": "Ladri",
+        "lemma": "ladro",
+        "pos": "noun",
+        "meaning": "thieves / robbers"
+      },
+      {
+        "word": "Via",
+        "lemma": "via",
+        "pos": "adverb",
+        "meaning": "away / out"
+      },
+      {
+        "word": "Via di qua",
+        "lemma": "via di qua",
+        "pos": "idiom",
+        "meaning": "out of here / away from here"
+      }
+    ],
+    "With furious blows of the broom, Falstaff drives Bardolfo and Pistola out into the street ('Via di qua!': 'Out of here!'), triumphantly ending Act 1 Scene 1."
+  ]
+}

@@ -1,0 +1,644 @@
+[
+  {
+    "speaker": "Alice Ford",
+    "original": "Sei tu dissennato?",
+    "cue_id": "a2_s2_c135",
+    "line_id": "a2_s2_c135_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Che fai?",
+    "cue_id": "a2_s2_c135",
+    "line_id": "a2_s2_c135_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Chi c'è dentro quel cesto?",
+    "cue_id": "a2_s2_c136",
+    "line_id": "a2_s2_c136_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Il bucato.",
+    "cue_id": "a2_s2_c137",
+    "line_id": "a2_s2_c137_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Mi lavi! rea moglie!",
+    "cue_id": "a2_s2_c138",
+    "line_id": "a2_s2_c138_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Tu, piglia le chiavi,",
+    "cue_id": "a2_s2_c139",
+    "line_id": "a2_s2_c139_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "rovista le casse, va'.",
+    "cue_id": "a2_s2_c139",
+    "line_id": "a2_s2_c139_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Ben tu mi lavi!",
+    "cue_id": "a2_s2_c140",
+    "line_id": "a2_s2_c140_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Al diavolo i cenci!",
+    "cue_id": "a2_s2_c141",
+    "line_id": "a2_s2_c141_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Sprangatemi l'uscio",
+    "cue_id": "a2_s2_c142",
+    "line_id": "a2_s2_c142_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "del parco!",
+    "cue_id": "a2_s2_c142",
+    "line_id": "a2_s2_c142_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Camice... gonnelle... Or ti sguscio,",
+    "cue_id": "a2_s2_c143",
+    "line_id": "a2_s2_c143_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "briccon! Strofinacci! Via! Via! Cuffie rotte!",
+    "cue_id": "a2_s2_c143",
+    "line_id": "a2_s2_c143_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Ti sguscio. Lenzuola... berretti da notte...",
+    "cue_id": "a2_s2_c143",
+    "line_id": "a2_s2_c143_l3"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Non c'è...",
+    "cue_id": "a2_s2_c143",
+    "line_id": "a2_s2_c143_l4"
+  },
+  {
+    "speaker": "Alice, Meg & Quickly",
+    "original": "Che uragano!",
+    "cue_id": "a2_s2_c144",
+    "line_id": "a2_s2_c144_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Cerchiam sotto il letto.",
+    "cue_id": "a2_s2_c145",
+    "line_id": "a2_s2_c145_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Nel forno, nel pozzo, nel bagno, sul tetto,",
+    "cue_id": "a2_s2_c145",
+    "line_id": "a2_s2_c145_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "in cantina...",
+    "cue_id": "a2_s2_c145",
+    "line_id": "a2_s2_c145_l3"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "È farnetico!",
+    "cue_id": "a2_s2_c146",
+    "line_id": "a2_s2_c146_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Cogliam tempo.",
+    "cue_id": "a2_s2_c147",
+    "line_id": "a2_s2_c147_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Troviamo",
+    "cue_id": "a2_s2_c148",
+    "line_id": "a2_s2_c148_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "modo com'egli fugga.",
+    "cue_id": "a2_s2_c148",
+    "line_id": "a2_s2_c148_l2"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Nel panier.",
+    "cue_id": "a2_s2_c149",
+    "line_id": "a2_s2_c149_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "No, là dentro",
+    "cue_id": "a2_s2_c150",
+    "line_id": "a2_s2_c150_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "non c'entra, è troppo grosso.",
+    "cue_id": "a2_s2_c150",
+    "line_id": "a2_s2_c150_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Vediam; sì, c'entro, c'entro.",
+    "cue_id": "a2_s2_c151",
+    "line_id": "a2_s2_c151_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Corro a chiamare i servi.",
+    "cue_id": "a2_s2_c152",
+    "line_id": "a2_s2_c152_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Sir John! Voi qui? Voi?",
+    "cue_id": "a2_s2_c154",
+    "line_id": "a2_s2_c154_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "T'amo amo te sola...",
+    "cue_id": "a2_s2_c155",
+    "line_id": "a2_s2_c155_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "salvami! salvami!",
+    "cue_id": "a2_s2_c155",
+    "line_id": "a2_s2_c155_l2"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Svelto!",
+    "cue_id": "a2_s2_c156",
+    "line_id": "a2_s2_c156_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Lesto!",
+    "cue_id": "a2_s2_c157",
+    "line_id": "a2_s2_c157_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Ahi!... Ahi!... Ci sto... Copritemi...",
+    "cue_id": "a2_s2_c158",
+    "line_id": "a2_s2_c158_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Presto! colmiamo il cesto.",
+    "cue_id": "a2_s2_c159",
+    "line_id": "a2_s2_c159_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Meg e Quickly attendono a nascondere Falstaff sotto la biancheria,",
+    "cue_id": "a2_s2_c160",
+    "line_id": "a2_s2_c160_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "mentre Nannetta e Fenton entrano da sinistra.",
+    "cue_id": "a2_s2_c160",
+    "line_id": "a2_s2_c160_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Vien qua.",
+    "cue_id": "a2_s2_c161",
+    "line_id": "a2_s2_c161_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Che chiasso!",
+    "cue_id": "a2_s2_c162",
+    "line_id": "a2_s2_c162_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Quanti schiamazzi!",
+    "cue_id": "a2_s2_c163",
+    "line_id": "a2_s2_c163_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Segui il mio passo.",
+    "cue_id": "a2_s2_c163",
+    "line_id": "a2_s2_c163_l2"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Casa di pazzi!",
+    "cue_id": "a2_s2_c164",
+    "line_id": "a2_s2_c164_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Qui ognun delira",
+    "cue_id": "a2_s2_c165",
+    "line_id": "a2_s2_c165_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "con vario error.",
+    "cue_id": "a2_s2_c165",
+    "line_id": "a2_s2_c165_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Son pazzi d'ira...",
+    "cue_id": "a2_s2_c165",
+    "line_id": "a2_s2_c165_l3"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "E noi d'amor.",
+    "cue_id": "a2_s2_c166",
+    "line_id": "a2_s2_c166_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Seguimi. Adagio.",
+    "cue_id": "a2_s2_c167",
+    "line_id": "a2_s2_c167_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Nessun m'ha scorto.",
+    "cue_id": "a2_s2_c168",
+    "line_id": "a2_s2_c168_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Tocchiamo il porto.",
+    "cue_id": "a2_s2_c169",
+    "line_id": "a2_s2_c169_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Siamo a nostr'agio.",
+    "cue_id": "a2_s2_c170",
+    "line_id": "a2_s2_c170_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Sta' zitto e attento.",
+    "cue_id": "a2_s2_c171",
+    "line_id": "a2_s2_c171_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Vien sul mio petto!",
+    "cue_id": "a2_s2_c172",
+    "line_id": "a2_s2_c172_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Il paravento",
+    "cue_id": "a2_s2_c173",
+    "line_id": "a2_s2_c173_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "sia benedetto!",
+    "cue_id": "a2_s2_c173",
+    "line_id": "a2_s2_c173_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Nannetta e Fenton nascosti nel paravento.",
+    "cue_id": "a2_s2_c173",
+    "line_id": "a2_s2_c173_l3"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Mr. Ford ed il Dr. Cajus da sinistra,",
+    "cue_id": "a2_s2_c173",
+    "line_id": "a2_s2_c173_l4"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Bardolfo e Pistola da destra con Gente del vicinato.",
+    "cue_id": "a2_s2_c173",
+    "line_id": "a2_s2_c173_l5"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Quickly e Meg accanto alla cesta dove c'è Falstaff nascosto.",
+    "cue_id": "a2_s2_c173",
+    "line_id": "a2_s2_c173_l6"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Poi ritornerà Alice dal fondo.",
+    "cue_id": "a2_s2_c173",
+    "line_id": "a2_s2_c173_l7"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Al ladro!",
+    "cue_id": "a2_s2_c174",
+    "line_id": "a2_s2_c174_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Al pagliardo!",
+    "cue_id": "a2_s2_c175",
+    "line_id": "a2_s2_c175_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Squartatelo!",
+    "cue_id": "a2_s2_c176",
+    "line_id": "a2_s2_c176_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "C'è?",
+    "cue_id": "a2_s2_c178",
+    "line_id": "a2_s2_c178_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "No.",
+    "cue_id": "a2_s2_c179",
+    "line_id": "a2_s2_c179_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Non c'è, no.",
+    "cue_id": "a2_s2_c181",
+    "line_id": "a2_s2_c181_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Vada a soqquadro la casa.",
+    "cue_id": "a2_s2_c182",
+    "line_id": "a2_s2_c182_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Non trovo nessuno.",
+    "cue_id": "a2_s2_c184",
+    "line_id": "a2_s2_c184_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Eppur giuro",
+    "cue_id": "a2_s2_c185",
+    "line_id": "a2_s2_c185_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "che l'uomo è qua dentro. Ne sono sicuro!",
+    "cue_id": "a2_s2_c185",
+    "line_id": "a2_s2_c185_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "sicuro! sicuro!",
+    "cue_id": "a2_s2_c185",
+    "line_id": "a2_s2_c185_l3"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Sir John! Sarò gaio",
+    "cue_id": "a2_s2_c186",
+    "line_id": "a2_s2_c186_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "quel dì ch'io ti veda dar calci a rovaio!",
+    "cue_id": "a2_s2_c186",
+    "line_id": "a2_s2_c186_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "T'arrendi furfante! T'arrendi! O bombardo",
+    "cue_id": "a2_s2_c187",
+    "line_id": "a2_s2_c187_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "le mura!",
+    "cue_id": "a2_s2_c187",
+    "line_id": "a2_s2_c187_l2"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "T'arrendi!",
+    "cue_id": "a2_s2_c188",
+    "line_id": "a2_s2_c188_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Vien fuora! Codardo!",
+    "cue_id": "a2_s2_c189",
+    "line_id": "a2_s2_c189_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Sugliardo!",
+    "cue_id": "a2_s2_c189",
+    "line_id": "a2_s2_c189_l2"
+  },
+  {
+    "speaker": "Bardolfo & Pistola",
+    "original": "Nessuno!",
+    "cue_id": "a2_s2_c190",
+    "line_id": "a2_s2_c190_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Cercatelo ancora!",
+    "cue_id": "a2_s2_c191",
+    "line_id": "a2_s2_c191_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "T'arrendi! Scanfardo!",
+    "cue_id": "a2_s2_c193",
+    "line_id": "a2_s2_c193_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Non c'è!",
+    "cue_id": "a2_s2_c194",
+    "line_id": "a2_s2_c194_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Vieni fuori!",
+    "cue_id": "a2_s2_c195",
+    "line_id": "a2_s2_c195_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Pappalardo! Beon! Bada a te!",
+    "cue_id": "a2_s2_c196",
+    "line_id": "a2_s2_c196_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Scagnardo! Falsardo! Briccon!",
+    "cue_id": "a2_s2_c197",
+    "line_id": "a2_s2_c197_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "NANNETTA E FENTON",
+    "cue_id": "a2_s2_c198",
+    "line_id": "a2_s2_c198_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "(*)!",
+    "cue_id": "a2_s2_c199",
+    "line_id": "a2_s2_c199_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "C'è.",
+    "cue_id": "a2_s2_c201",
+    "line_id": "a2_s2_c201_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Insieme",
+    "cue_id": "a2_s2_c202",
+    "line_id": "a2_s2_c202_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Se t'agguanto!",
+    "cue_id": "a2_s2_c204",
+    "line_id": "a2_s2_c204_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Se ti piglio!",
+    "cue_id": "a2_s2_c205",
+    "line_id": "a2_s2_c205_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Se t'acciuffo!",
+    "cue_id": "a2_s2_c206",
+    "line_id": "a2_s2_c206_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Se t'acceffo!",
+    "cue_id": "a2_s2_c207",
+    "line_id": "a2_s2_c207_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Ti sconquasso!",
+    "cue_id": "a2_s2_c208",
+    "line_id": "a2_s2_c208_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "T'arronciglio",
+    "cue_id": "a2_s2_c209",
+    "line_id": "a2_s2_c209_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "come un can!",
+    "cue_id": "a2_s2_c209",
+    "line_id": "a2_s2_c209_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Ti rompo il ceffo!",
+    "cue_id": "a2_s2_c210",
+    "line_id": "a2_s2_c210_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Guai a te!",
+    "cue_id": "a2_s2_c211",
+    "line_id": "a2_s2_c211_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Prega il tuo santo!",
+    "cue_id": "a2_s2_c212",
+    "line_id": "a2_s2_c212_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Guai se alfin con te m'azzuffo!",
+    "cue_id": "a2_s2_c213",
+    "line_id": "a2_s2_c213_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Non si trova.",
+    "cue_id": "a2_s2_c217",
+    "line_id": "a2_s2_c217_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Non si coglie.",
+    "cue_id": "a2_s2_c218",
+    "line_id": "a2_s2_c218_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Psss... Qua tutti.",
+    "cue_id": "a2_s2_c219",
+    "line_id": "a2_s2_c219_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "L'ho trovato.",
+    "cue_id": "a2_s2_c220",
+    "line_id": "a2_s2_c220_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Là c'è Falstaff con mia moglie.",
+    "cue_id": "a2_s2_c220",
+    "line_id": "a2_s2_c220_l2"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Sozzo can vituperato!",
+    "cue_id": "a2_s2_c221",
+    "line_id": "a2_s2_c221_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Zitto!",
+    "cue_id": "a2_s2_c222",
+    "line_id": "a2_s2_c222_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Pistola e Dr. Cajus",
+    "cue_id": "a2_s2_c222",
+    "line_id": "a2_s2_c222_l2"
+  }
+]

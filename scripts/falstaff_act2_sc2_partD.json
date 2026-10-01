@@ -1,0 +1,638 @@
+[
+  {
+    "speaker": "Ford",
+    "original": "Urlerai dopo.",
+    "cue_id": "a2_s2_c223",
+    "line_id": "a2_s2_c223_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Là s'è udito il suon d'un bacio.",
+    "cue_id": "a2_s2_c223",
+    "line_id": "a2_s2_c223_l2"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Noi dobbiam pigliare il topo",
+    "cue_id": "a2_s2_c224",
+    "line_id": "a2_s2_c224_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "mentre sta rodendo il cacio.",
+    "cue_id": "a2_s2_c224",
+    "line_id": "a2_s2_c224_l2"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "QUICKLY, MEG E FALSTAFF",
+    "cue_id": "a2_s2_c224",
+    "line_id": "a2_s2_c224_l3"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Quickly a Meg)",
+    "cue_id": "a2_s2_c225",
+    "line_id": "a2_s2_c225_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Facciamo le viste",
+    "cue_id": "a2_s2_c225",
+    "line_id": "a2_s2_c225_l2"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "d'attendere ai panni;",
+    "cue_id": "a2_s2_c225",
+    "line_id": "a2_s2_c225_l3"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "pur ch'ei non c'inganni",
+    "cue_id": "a2_s2_c225",
+    "line_id": "a2_s2_c225_l4"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "con mosse impreviste.",
+    "cue_id": "a2_s2_c225",
+    "line_id": "a2_s2_c225_l5"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Fin'or non s'accorse",
+    "cue_id": "a2_s2_c225",
+    "line_id": "a2_s2_c225_l6"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "di nulla, egli può",
+    "cue_id": "a2_s2_c225",
+    "line_id": "a2_s2_c225_l7"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "sorprenderci forse,",
+    "cue_id": "a2_s2_c225",
+    "line_id": "a2_s2_c225_l8"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "confonderci no.",
+    "cue_id": "a2_s2_c225",
+    "line_id": "a2_s2_c225_l9"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Facciamogli siepe",
+    "cue_id": "a2_s2_c226",
+    "line_id": "a2_s2_c226_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "fra tanto scompiglio.",
+    "cue_id": "a2_s2_c226",
+    "line_id": "a2_s2_c226_l2"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Ne' giuochi il periglio",
+    "cue_id": "a2_s2_c226",
+    "line_id": "a2_s2_c226_l3"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "è un grano di pepe.",
+    "cue_id": "a2_s2_c226",
+    "line_id": "a2_s2_c226_l4"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Il rischio è un diletto",
+    "cue_id": "a2_s2_c226",
+    "line_id": "a2_s2_c226_l5"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "che accresce l'ardor,",
+    "cue_id": "a2_s2_c226",
+    "line_id": "a2_s2_c226_l6"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "che stimola in petto",
+    "cue_id": "a2_s2_c226",
+    "line_id": "a2_s2_c226_l7"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "gli spirti e il cor.",
+    "cue_id": "a2_s2_c226",
+    "line_id": "a2_s2_c226_l8"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Affogo!",
+    "cue_id": "a2_s2_c227",
+    "line_id": "a2_s2_c227_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Sta' sotto.",
+    "cue_id": "a2_s2_c228",
+    "line_id": "a2_s2_c228_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Or questi s'insorge.",
+    "cue_id": "a2_s2_c229",
+    "line_id": "a2_s2_c229_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Se l'altro ti scorge",
+    "cue_id": "a2_s2_c230",
+    "line_id": "a2_s2_c230_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "sei morto.",
+    "cue_id": "a2_s2_c230",
+    "line_id": "a2_s2_c230_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Son cotto!",
+    "cue_id": "a2_s2_c231",
+    "line_id": "a2_s2_c231_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Sta' sotto!",
+    "cue_id": "a2_s2_c232",
+    "line_id": "a2_s2_c232_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Che caldo!",
+    "cue_id": "a2_s2_c233",
+    "line_id": "a2_s2_c233_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Mi squaglio!",
+    "cue_id": "a2_s2_c235",
+    "line_id": "a2_s2_c235_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Ragioniam. Colpo non vibro",
+    "cue_id": "a2_s2_c237",
+    "line_id": "a2_s2_c237_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "senza un piano di battaglia.",
+    "cue_id": "a2_s2_c237",
+    "line_id": "a2_s2_c237_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Gli altri",
+    "cue_id": "a2_s2_c237",
+    "line_id": "a2_s2_c237_l3"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Bravo.",
+    "cue_id": "a2_s2_c237",
+    "line_id": "a2_s2_c237_l4"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Un uom di quel calibro",
+    "cue_id": "a2_s2_c238",
+    "line_id": "a2_s2_c238_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "con un soffio ci sbaraglia.",
+    "cue_id": "a2_s2_c238",
+    "line_id": "a2_s2_c238_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "La mia tattica maestra",
+    "cue_id": "a2_s2_c239",
+    "line_id": "a2_s2_c239_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "le sue mosse pria registra.",
+    "cue_id": "a2_s2_c239",
+    "line_id": "a2_s2_c239_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Voi sarete l'ala destra,",
+    "cue_id": "a2_s2_c240",
+    "line_id": "a2_s2_c240_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "noi sarem l'ala sinistra,",
+    "cue_id": "a2_s2_c241",
+    "line_id": "a2_s2_c241_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "e costor con piè gagliardo",
+    "cue_id": "a2_s2_c242",
+    "line_id": "a2_s2_c242_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "sfonderanno il baluardo.",
+    "cue_id": "a2_s2_c242",
+    "line_id": "a2_s2_c242_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Tutti gli altri",
+    "cue_id": "a2_s2_c242",
+    "line_id": "a2_s2_c242_l3"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Bravo generale,",
+    "cue_id": "a2_s2_c243",
+    "line_id": "a2_s2_c243_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "aspettiamo un tuo segnale.",
+    "cue_id": "a2_s2_c243",
+    "line_id": "a2_s2_c243_l2"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Il ribaldo",
+    "cue_id": "a2_s2_c246",
+    "line_id": "a2_s2_c246_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "vorrebbe un ventaglio.",
+    "cue_id": "a2_s2_c246",
+    "line_id": "a2_s2_c246_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Un breve spiraglio,",
+    "cue_id": "a2_s2_c247",
+    "line_id": "a2_s2_c247_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "non chiedo di più.",
+    "cue_id": "a2_s2_c247",
+    "line_id": "a2_s2_c247_l2"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Ti metto il bavaglio",
+    "cue_id": "a2_s2_c248",
+    "line_id": "a2_s2_c248_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "se parli.",
+    "cue_id": "a2_s2_c248",
+    "line_id": "a2_s2_c248_l2"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Giù!",
+    "cue_id": "a2_s2_c249",
+    "line_id": "a2_s2_c249_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Mentre quei vecchi",
+    "cue_id": "a2_s2_c252",
+    "line_id": "a2_s2_c252_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "corron la giostra,",
+    "cue_id": "a2_s2_c252",
+    "line_id": "a2_s2_c252_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "noi di sottecchi",
+    "cue_id": "a2_s2_c252",
+    "line_id": "a2_s2_c252_l3"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "corriam la nostra.",
+    "cue_id": "a2_s2_c252",
+    "line_id": "a2_s2_c252_l4"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "L'amor non ode",
+    "cue_id": "a2_s2_c252",
+    "line_id": "a2_s2_c252_l5"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "tuon né bufere,",
+    "cue_id": "a2_s2_c252",
+    "line_id": "a2_s2_c252_l6"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "vola alle sfere",
+    "cue_id": "a2_s2_c252",
+    "line_id": "a2_s2_c252_l7"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "beate e gode.",
+    "cue_id": "a2_s2_c252",
+    "line_id": "a2_s2_c252_l8"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Bella! Ridente!",
+    "cue_id": "a2_s2_c253",
+    "line_id": "a2_s2_c253_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Oh! come pieghi",
+    "cue_id": "a2_s2_c253",
+    "line_id": "a2_s2_c253_l2"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "verso i miei prieghi",
+    "cue_id": "a2_s2_c253",
+    "line_id": "a2_s2_c253_l3"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "donnescamente!",
+    "cue_id": "a2_s2_c253",
+    "line_id": "a2_s2_c253_l4"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "L'attimo ancora",
+    "cue_id": "a2_s2_c254",
+    "line_id": "a2_s2_c254_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "cogliam che brilla,",
+    "cue_id": "a2_s2_c254",
+    "line_id": "a2_s2_c254_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "è la scintilla",
+    "cue_id": "a2_s2_c254",
+    "line_id": "a2_s2_c254_l3"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "viva dell'ora.",
+    "cue_id": "a2_s2_c254",
+    "line_id": "a2_s2_c254_l4"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Come ti vidi",
+    "cue_id": "a2_s2_c255",
+    "line_id": "a2_s2_c255_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "m'innamorai,",
+    "cue_id": "a2_s2_c255",
+    "line_id": "a2_s2_c255_l2"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "e tu sorridi",
+    "cue_id": "a2_s2_c255",
+    "line_id": "a2_s2_c255_l3"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "perché lo sai.",
+    "cue_id": "a2_s2_c255",
+    "line_id": "a2_s2_c255_l4"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Lo spiritello",
+    "cue_id": "a2_s2_c256",
+    "line_id": "a2_s2_c256_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "d'amor volteggia.",
+    "cue_id": "a2_s2_c256",
+    "line_id": "a2_s2_c256_l2"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Già un sogno bello",
+    "cue_id": "a2_s2_c257",
+    "line_id": "a2_s2_c257_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "d'imene albeggia.",
+    "cue_id": "a2_s2_c257",
+    "line_id": "a2_s2_c257_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Tutto delira,",
+    "cue_id": "a2_s2_c258",
+    "line_id": "a2_s2_c258_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "sospiro e riso.",
+    "cue_id": "a2_s2_c258",
+    "line_id": "a2_s2_c258_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Sorride il viso",
+    "cue_id": "a2_s2_c258",
+    "line_id": "a2_s2_c258_l3"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "e il cor sospira.",
+    "cue_id": "a2_s2_c258",
+    "line_id": "a2_s2_c258_l4"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Fra quelle ciglia",
+    "cue_id": "a2_s2_c259",
+    "line_id": "a2_s2_c259_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "vedo due fari",
+    "cue_id": "a2_s2_c259",
+    "line_id": "a2_s2_c259_l2"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "a meraviglia",
+    "cue_id": "a2_s2_c259",
+    "line_id": "a2_s2_c259_l3"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "sereni e chiari.",
+    "cue_id": "a2_s2_c259",
+    "line_id": "a2_s2_c259_l4"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Senti, accosta un po' l'orecchio!",
+    "cue_id": "a2_s2_c261",
+    "line_id": "a2_s2_c261_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Che patetici lamenti!",
+    "cue_id": "a2_s2_c261",
+    "line_id": "a2_s2_c261_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Là c'è Alice e qua c'è il vecchio",
+    "cue_id": "a2_s2_c261",
+    "line_id": "a2_s2_c261_l3"
+  },
+  {
+    "speaker": "Ford",
+    "original": "seduttore. Senti! senti!",
+    "cue_id": "a2_s2_c261",
+    "line_id": "a2_s2_c261_l4"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Essi credon d'esser soli",
+    "cue_id": "a2_s2_c261",
+    "line_id": "a2_s2_c261_l5"
+  },
+  {
+    "speaker": "Ford",
+    "original": "nel loro tenero abbandon.",
+    "cue_id": "a2_s2_c261",
+    "line_id": "a2_s2_c261_l6"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Su quel nido d'usignuoli",
+    "cue_id": "a2_s2_c261",
+    "line_id": "a2_s2_c261_l7"
+  },
+  {
+    "speaker": "Ford",
+    "original": "scoppierà fra poco il tuon.",
+    "cue_id": "a2_s2_c261",
+    "line_id": "a2_s2_c261_l8"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Sento, intendo e vedo chiaro",
+    "cue_id": "a2_s2_c262",
+    "line_id": "a2_s2_c262_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "delle femmine gl'inganni;",
+    "cue_id": "a2_s2_c262",
+    "line_id": "a2_s2_c262_l2"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "non vorrei, compare caro,",
+    "cue_id": "a2_s2_c262",
+    "line_id": "a2_s2_c262_l3"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "esser io ne' vostri panni.",
+    "cue_id": "a2_s2_c262",
+    "line_id": "a2_s2_c262_l4"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Chi non sa ridur la moglie",
+    "cue_id": "a2_s2_c262",
+    "line_id": "a2_s2_c262_l5"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "co' le buone alla ragion,",
+    "cue_id": "a2_s2_c262",
+    "line_id": "a2_s2_c262_l6"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "dovrà vincer le sue voglie",
+    "cue_id": "a2_s2_c262",
+    "line_id": "a2_s2_c262_l7"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "co' la frusta e col baston.",
+    "cue_id": "a2_s2_c262",
+    "line_id": "a2_s2_c262_l8"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Vieni qua, fatti più presso;",
+    "cue_id": "a2_s2_c263",
+    "line_id": "a2_s2_c263_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "vieni a udir gli ascosi amanti.",
+    "cue_id": "a2_s2_c263",
+    "line_id": "a2_s2_c263_l2"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "S'ode un murmure sommesso",
+    "cue_id": "a2_s2_c263",
+    "line_id": "a2_s2_c263_l3"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "qual di tortore tubanti.",
+    "cue_id": "a2_s2_c263",
+    "line_id": "a2_s2_c263_l4"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "È un fruscio che par di gonna,",
+    "cue_id": "a2_s2_c263",
+    "line_id": "a2_s2_c263_l5"
+  }
+]

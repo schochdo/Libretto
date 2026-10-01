@@ -1,0 +1,4712 @@
+[
+  {
+    "section": "a1_s1_post",
+    "act": 1,
+    "scene": 1,
+    "position": "post",
+    "cues": [
+      {
+        "id": "a1_s1_c1",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "stageDirection": "erwacht, sieht furchtsam umher",
+        "stageDirectionTranslation": "awakens, looks about fearfully",
+        "lines": [
+          {
+            "id": "a1_s1_c1_l1",
+            "original": "Wo bin ich! Ist's Fantasie, daß ich noch lebe? oder hat eine höhere Macht mich gerettet?",
+            "literal": "Where am I! Is it fantasy, that I still live? Or has a higher power me saved?",
+            "tokens": [
+              {
+                "word": "Wo",
+                "lemma": "wo",
+                "pos": "adverb",
+                "meaning": "where"
+              },
+              {
+                "word": "bin",
+                "lemma": "sein",
+                "pos": "verb",
+                "meaning": "am"
+              },
+              {
+                "word": "ich",
+                "lemma": "ich",
+                "pos": "pronoun",
+                "meaning": "I"
+              },
+              {
+                "word": "Fantasie",
+                "lemma": "Fantasie",
+                "pos": "noun",
+                "meaning": "fantasy / illusion"
+              },
+              {
+                "word": "daß",
+                "lemma": "dass",
+                "pos": "conjunction",
+                "meaning": "that",
+                "notes": "Historical spelling 'daß' for modern 'dass'."
+              },
+              {
+                "word": "noch",
+                "lemma": "noch",
+                "pos": "adverb",
+                "meaning": "still"
+              },
+              {
+                "word": "lebe",
+                "lemma": "leben",
+                "pos": "verb",
+                "meaning": "live"
+              },
+              {
+                "word": "höhere Macht",
+                "lemma": "Macht",
+                "pos": "noun",
+                "meaning": "higher power"
+              },
+              {
+                "word": "gerettet",
+                "lemma": "retten",
+                "pos": "verb",
+                "meaning": "saved / rescued"
+              }
+            ],
+            "grammarNote": "V2 word order in direct question 'Wo bin ich', followed by subordinate clause 'daß ich noch lebe' with verb-final placement."
+          }
+        ]
+      },
+      {
+        "id": "a1_s1_c2",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "stageDirection": "steht auf, sieht umher",
+        "stageDirectionTranslation": "stands up, looks around",
+        "lines": [
+          {
+            "id": "a1_s1_c2_l1",
+            "original": "Wie? – Die bösartige Schlange liegt todt zu meinen Füßen? –",
+            "literal": "How? – The malicious serpent lies dead at my feet? –",
+            "tokens": [
+              {
+                "word": "Wie",
+                "lemma": "wie",
+                "pos": "adverb",
+                "meaning": "how / what"
+              },
+              {
+                "word": "bösartige",
+                "lemma": "bösartig",
+                "pos": "adjective",
+                "meaning": "malicious / vicious"
+              },
+              {
+                "word": "Schlange",
+                "lemma": "Schlange",
+                "pos": "noun",
+                "meaning": "serpent / snake"
+              },
+              {
+                "word": "liegt",
+                "lemma": "liegen",
+                "pos": "verb",
+                "meaning": "lies"
+              },
+              {
+                "word": "todt",
+                "lemma": "tot",
+                "pos": "adjective",
+                "meaning": "dead",
+                "notes": "Historical spelling 'todt' for modern 'tot'."
+              },
+              {
+                "word": "zu meinen Füßen",
+                "lemma": "Fuß",
+                "pos": "idiom",
+                "meaning": "at my feet"
+              }
+            ],
+            "grammarNote": "Archaic spelling 'todt' (modern 'tot'). Declarative word order used as an incredulous rhetorical question."
+          }
+        ]
+      },
+      {
+        "id": "a1_s1_c3",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "stageDirection": "Man hört von fern ein Waldflötchen, worunter das Orchester piano accompagnirt. Tamino spricht unter dem Ritornell",
+        "stageDirectionTranslation": "A small woodland flute is heard from afar, under which the orchestra accompanies softly. Tamino speaks during the ritornello",
+        "lines": [
+          {
+            "id": "a1_s1_c3_l1",
+            "original": "Was hör' ich? Wo bin ich? Welch' unbekannter Ort! –",
+            "literal": "What hear I? Where am I? What unknown place! –",
+            "tokens": [
+              {
+                "word": "Was",
+                "lemma": "was",
+                "pos": "pronoun",
+                "meaning": "what"
+              },
+              {
+                "word": "hör'",
+                "lemma": "hören",
+                "pos": "verb",
+                "meaning": "hear",
+                "notes": "Apocope of -e: hör' for höre."
+              },
+              {
+                "word": "unbekannter",
+                "lemma": "unbekannt",
+                "pos": "adjective",
+                "meaning": "unknown / unfamiliar"
+              },
+              {
+                "word": "Ort",
+                "lemma": "Ort",
+                "pos": "noun",
+                "meaning": "place / location"
+              }
+            ],
+            "grammarNote": "Inversion in questions ('Was hör' ich', 'Wo bin ich'). 'Welch'' is an apocopated exclamative determiner."
+          },
+          {
+            "id": "a1_s1_c3_l2",
+            "original": "Ha, eine männliche Figur nähert sich dem Thal.",
+            "literal": "Ha, a male figure approaches the valley.",
+            "tokens": [
+              {
+                "word": "Ha",
+                "lemma": "ha",
+                "pos": "interjection",
+                "meaning": "ha / ah"
+              },
+              {
+                "word": "männliche",
+                "lemma": "männlich",
+                "pos": "adjective",
+                "meaning": "male / masculine"
+              },
+              {
+                "word": "Figur",
+                "lemma": "Figur",
+                "pos": "noun",
+                "meaning": "figure / person"
+              },
+              {
+                "word": "nähert sich",
+                "lemma": "nähern",
+                "pos": "verb",
+                "meaning": "approaches / nears"
+              },
+              {
+                "word": "dem Thal",
+                "lemma": "Tal",
+                "pos": "noun",
+                "meaning": "the valley",
+                "notes": "Archaic spelling 'Thal' for modern 'Tal'; dative singular."
+              }
+            ],
+            "grammarNote": "Reflexive verb 'sich nähern' governing the dative object 'dem Thal'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s1_c4",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "stageDirection": "versteckt sich hinter einem Baume",
+        "stageDirectionTranslation": "hides behind a tree",
+        "lines": []
+      }
+    ]
+  },
+  {
+    "section": "a1_s2_post",
+    "act": 1,
+    "scene": 2,
+    "position": "post",
+    "cues": [
+      {
+        "id": "a1_s2_c1",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "stageDirection": "nimmt ihn bey der Hand",
+        "stageDirectionTranslation": "takes him [Papageno] by the hand",
+        "lines": [
+          {
+            "id": "a1_s2_c1_l1",
+            "original": "He da!",
+            "literal": "Hey there!",
+            "tokens": [
+              {
+                "word": "He da",
+                "lemma": "he da",
+                "pos": "interjection",
+                "meaning": "hey there / hallo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c2",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c2_l1",
+            "original": "Was do!",
+            "literal": "What there!",
+            "tokens": [
+              {
+                "word": "Was",
+                "lemma": "was",
+                "pos": "pronoun",
+                "meaning": "what"
+              },
+              {
+                "word": "do",
+                "lemma": "da",
+                "pos": "adverb",
+                "meaning": "there",
+                "notes": "Dialectal Viennese form 'do' for standard 'da'."
+              }
+            ],
+            "grammarNote": "Viennese dialect coloring 'Was do!' for standard German 'Was da!'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c3",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c3_l1",
+            "original": "Sag mir, du lustiger Freund, wer du seyst?",
+            "literal": "Tell me, you merry friend, who you might-be?",
+            "tokens": [
+              {
+                "word": "Sag",
+                "lemma": "sagen",
+                "pos": "verb",
+                "meaning": "tell / say (imperative)"
+              },
+              {
+                "word": "mir",
+                "lemma": "ich",
+                "pos": "pronoun",
+                "meaning": "me (dative)"
+              },
+              {
+                "word": "lustiger",
+                "lemma": "lustig",
+                "pos": "adjective",
+                "meaning": "merry / cheerful"
+              },
+              {
+                "word": "Freund",
+                "lemma": "Freund",
+                "pos": "noun",
+                "meaning": "friend"
+              },
+              {
+                "word": "wer",
+                "lemma": "wer",
+                "pos": "pronoun",
+                "meaning": "who"
+              },
+              {
+                "word": "seyst",
+                "lemma": "sein",
+                "pos": "verb",
+                "meaning": "might be",
+                "notes": "Archaic spelling 'seyst' for modern subjunctive I 'seist'."
+              }
+            ],
+            "grammarNote": "Subjunctive I 'seyst' in indirect question with verb-final placement."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c4",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c4_l1",
+            "original": "Wer ich bin?",
+            "literal": "Who I am?",
+            "tokens": [
+              {
+                "word": "Wer",
+                "lemma": "wer",
+                "pos": "pronoun",
+                "meaning": "who"
+              },
+              {
+                "word": "ich",
+                "lemma": "ich",
+                "pos": "pronoun",
+                "meaning": "I"
+              },
+              {
+                "word": "bin",
+                "lemma": "sein",
+                "pos": "verb",
+                "meaning": "am"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c5",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "stageDirection": "für sich",
+        "stageDirectionTranslation": "aside",
+        "lines": [
+          {
+            "id": "a1_s2_c5_l1",
+            "original": "Dumme Frage!",
+            "literal": "Stupid question!",
+            "tokens": [
+              {
+                "word": "Dumme",
+                "lemma": "dumm",
+                "pos": "adjective",
+                "meaning": "stupid / silly"
+              },
+              {
+                "word": "Frage",
+                "lemma": "Frage",
+                "pos": "noun",
+                "meaning": "question"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c6",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "stageDirection": "laut",
+        "stageDirectionTranslation": "aloud",
+        "lines": [
+          {
+            "id": "a1_s2_c6_l1",
+            "original": "Ein Mensch, wie du. – Wenn ich dich nun fragte, wer du bist? –",
+            "literal": "A human, like you. – If I you now asked, who you are? –",
+            "tokens": [
+              {
+                "word": "Mensch",
+                "lemma": "Mensch",
+                "pos": "noun",
+                "meaning": "human being / person"
+              },
+              {
+                "word": "wie",
+                "lemma": "wie",
+                "pos": "conjunction",
+                "meaning": "like / as"
+              },
+              {
+                "word": "du",
+                "lemma": "du",
+                "pos": "pronoun",
+                "meaning": "you"
+              },
+              {
+                "word": "Wenn",
+                "lemma": "wenn",
+                "pos": "conjunction",
+                "meaning": "if"
+              },
+              {
+                "word": "dich",
+                "lemma": "du",
+                "pos": "pronoun",
+                "meaning": "you (accusative)"
+              },
+              {
+                "word": "fragte",
+                "lemma": "fragen",
+                "pos": "verb",
+                "meaning": "asked (subjunctive II)"
+              },
+              {
+                "word": "bist",
+                "lemma": "sein",
+                "pos": "verb",
+                "meaning": "are"
+              }
+            ],
+            "grammarNote": "Hypothetical conditional clause with subjunctive II 'fragte' and verb-final order."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c7",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c7_l1",
+            "original": "So würde ich dir antworten, daß ich aus fürstlichem Geblüte bin.",
+            "literal": "Then would I to-you answer, that I from princely blood am.",
+            "tokens": [
+              {
+                "word": "So",
+                "lemma": "so",
+                "pos": "adverb",
+                "meaning": "then / so"
+              },
+              {
+                "word": "würde",
+                "lemma": "werden",
+                "pos": "verb",
+                "meaning": "would"
+              },
+              {
+                "word": "antworten",
+                "lemma": "antworten",
+                "pos": "verb",
+                "meaning": "answer / reply"
+              },
+              {
+                "word": "fürstlichem",
+                "lemma": "fürstlich",
+                "pos": "adjective",
+                "meaning": "princely"
+              },
+              {
+                "word": "Geblüte",
+                "lemma": "Geblüt",
+                "pos": "noun",
+                "meaning": "blood / lineage",
+                "notes": "Archaic dative form 'Geblüte' for modern 'Geblüt'."
+              }
+            ],
+            "grammarNote": "V2 conditional response with 'würde ... antworten', followed by subordinate clause 'daß ich ... bin'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c8",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c8_l1",
+            "original": "Das ist mir zu hoch. – Mußt dich deutlicher erklären, wenn ich dich verstehen soll!",
+            "literal": "That is to-me too high. – Must yourself more-clearly explain, if I you understand shall!",
+            "tokens": [
+              {
+                "word": "zu hoch",
+                "lemma": "hoch",
+                "pos": "idiom",
+                "meaning": "too high / over one's head"
+              },
+              {
+                "word": "deutlicher",
+                "lemma": "deutlich",
+                "pos": "adverb",
+                "meaning": "more clearly"
+              },
+              {
+                "word": "erklären",
+                "lemma": "erklären",
+                "pos": "verb",
+                "meaning": "explain"
+              },
+              {
+                "word": "verstehen",
+                "lemma": "verstehen",
+                "pos": "verb",
+                "meaning": "understand"
+              },
+              {
+                "word": "soll",
+                "lemma": "sollen",
+                "pos": "verb",
+                "meaning": "shall / am to"
+              }
+            ],
+            "grammarNote": "Idiom 'das ist mir zu hoch' (that is beyond my comprehension). Ellipsis of pronoun 'Du' before 'Mußt'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c9",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c9_l1",
+            "original": "Mein Vater ist Fürst, der über viele Länder und Menschen herrscht; darum nennt man mich Prinz.",
+            "literal": "My father is prince [sovereign], who over many lands and people rules; therefore calls one me prince.",
+            "tokens": [
+              {
+                "word": "Fürst",
+                "lemma": "Fürst",
+                "pos": "noun",
+                "meaning": "prince / reigning monarch"
+              },
+              {
+                "word": "Länder",
+                "lemma": "Land",
+                "pos": "noun",
+                "meaning": "lands / realms"
+              },
+              {
+                "word": "Menschen",
+                "lemma": "Mensch",
+                "pos": "noun",
+                "meaning": "people / subjects"
+              },
+              {
+                "word": "herrscht",
+                "lemma": "herrschen",
+                "pos": "verb",
+                "meaning": "rules / reigns"
+              },
+              {
+                "word": "darum",
+                "lemma": "darum",
+                "pos": "adverb",
+                "meaning": "therefore"
+              },
+              {
+                "word": "Prinz",
+                "lemma": "Prinz",
+                "pos": "noun",
+                "meaning": "prince (king's son)"
+              }
+            ],
+            "grammarNote": "Distinction between 'Fürst' (sovereign ruler) and 'Prinz' (prince of the blood). Inversion after adverb 'darum'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c10",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c10_l1",
+            "original": "Länder? – Menschen? – Prinz? –",
+            "literal": "Lands? – People? – Prince? –",
+            "tokens": [
+              {
+                "word": "Länder",
+                "lemma": "Land",
+                "pos": "noun",
+                "meaning": "lands"
+              },
+              {
+                "word": "Menschen",
+                "lemma": "Mensch",
+                "pos": "noun",
+                "meaning": "people"
+              },
+              {
+                "word": "Prinz",
+                "lemma": "Prinz",
+                "pos": "noun",
+                "meaning": "prince"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c11",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c11_l1",
+            "original": "Daher frag' ich dich! –",
+            "literal": "Therefore ask I you! –",
+            "tokens": [
+              {
+                "word": "Daher",
+                "lemma": "daher",
+                "pos": "adverb",
+                "meaning": "therefore / for that reason"
+              },
+              {
+                "word": "frag'",
+                "lemma": "fragen",
+                "pos": "verb",
+                "meaning": "ask"
+              },
+              {
+                "word": "dich",
+                "lemma": "du",
+                "pos": "pronoun",
+                "meaning": "you (accusative)"
+              }
+            ],
+            "grammarNote": "Inversion after adverb 'Daher'. Apocope 'frag'' for 'frage'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c12",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c12_l1",
+            "original": "Langsam! laß mich fragen. – Sag du mir zuvor: Gibt's außer diesen Bergen auch noch Länder und Menschen?",
+            "literal": "Slowly! Let me ask. – Say you to-me first: Are-there beyond these mountains also still lands and people?",
+            "tokens": [
+              {
+                "word": "Langsam",
+                "lemma": "langsam",
+                "pos": "adverb",
+                "meaning": "slowly / gently"
+              },
+              {
+                "word": "laß",
+                "lemma": "lassen",
+                "pos": "verb",
+                "meaning": "let (imperative)"
+              },
+              {
+                "word": "zuvor",
+                "lemma": "zuvor",
+                "pos": "adverb",
+                "meaning": "first / beforehand"
+              },
+              {
+                "word": "Gibt's",
+                "lemma": "geben",
+                "pos": "verb",
+                "meaning": "are there / is there"
+              },
+              {
+                "word": "außer",
+                "lemma": "außer",
+                "pos": "preposition",
+                "meaning": "beyond / besides"
+              },
+              {
+                "word": "Bergen",
+                "lemma": "Berg",
+                "pos": "noun",
+                "meaning": "mountains (dative plural)"
+              }
+            ],
+            "grammarNote": "Contraction 'Gibt's' for 'gibt es'. Dative after preposition 'außer'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c13",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c13_l1",
+            "original": "Viele Tausende!",
+            "literal": "Many thousands!",
+            "tokens": [
+              {
+                "word": "Viele",
+                "lemma": "viel",
+                "pos": "pronoun",
+                "meaning": "many"
+              },
+              {
+                "word": "Tausende",
+                "lemma": "Tausend",
+                "pos": "noun",
+                "meaning": "thousands"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c14",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c14_l1",
+            "original": "Da ließ sich eine Speculation mit meinen Vögeln machen.",
+            "literal": "There could oneself a business-venture with my birds make.",
+            "tokens": [
+              {
+                "word": "ließ sich ... machen",
+                "lemma": "machen",
+                "pos": "idiom",
+                "meaning": "could be done / would be possible"
+              },
+              {
+                "word": "Speculation",
+                "lemma": "Spekulation",
+                "pos": "noun",
+                "meaning": "business venture / speculation",
+                "notes": "Historical spelling with 'c'."
+              },
+              {
+                "word": "Vögeln",
+                "lemma": "Vogel",
+                "pos": "noun",
+                "meaning": "birds (dative plural)"
+              }
+            ],
+            "grammarNote": "Impersonal reflexive construction 'ließ sich machen' expressing possibility. Historical spelling 'Speculation'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c15",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c15_l1",
+            "original": "Nun sag' du mir, in welcher Gegend wir sind. –",
+            "literal": "Now tell you to-me, in which region we are. –",
+            "tokens": [
+              {
+                "word": "Nun",
+                "lemma": "nun",
+                "pos": "adverb",
+                "meaning": "now"
+              },
+              {
+                "word": "sag'",
+                "lemma": "sagen",
+                "pos": "verb",
+                "meaning": "tell / say (imperative)"
+              },
+              {
+                "word": "Gegend",
+                "lemma": "Gegend",
+                "pos": "noun",
+                "meaning": "region / district"
+              },
+              {
+                "word": "sind",
+                "lemma": "sein",
+                "pos": "verb",
+                "meaning": "are"
+              }
+            ],
+            "grammarNote": "Indirect question 'in welcher Gegend wir sind' with verb-final placement."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c16",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "stageDirection": "sieht sich um",
+        "stageDirectionTranslation": "looks about",
+        "lines": [
+          {
+            "id": "a1_s2_c16_l1",
+            "original": "In welcher Gegend? Zwischen Thälern und Bergen.",
+            "literal": "In which region? Between valleys and mountains.",
+            "tokens": [
+              {
+                "word": "Zwischen",
+                "lemma": "zwischen",
+                "pos": "preposition",
+                "meaning": "between"
+              },
+              {
+                "word": "Thälern",
+                "lemma": "Tal",
+                "pos": "noun",
+                "meaning": "valleys (dative plural)",
+                "notes": "Archaic spelling 'Thälern' with 'h'."
+              },
+              {
+                "word": "Bergen",
+                "lemma": "Berg",
+                "pos": "noun",
+                "meaning": "mountains (dative plural)"
+              }
+            ],
+            "grammarNote": "Archaic spelling 'Thälern' (modern 'Tälern'). Two-way preposition 'zwischen' takes dative for location."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c17",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c17_l1",
+            "original": "Schon recht! aber wie nennt man eigentlich diese Gegend? – wer beherrscht sie?",
+            "literal": "Right enough! But how calls one actually this region? – Who rules it [this region]?",
+            "tokens": [
+              {
+                "word": "Schon recht",
+                "lemma": "recht",
+                "pos": "idiom",
+                "meaning": "right enough / fair enough"
+              },
+              {
+                "word": "eigentlich",
+                "lemma": "eigentlich",
+                "pos": "adverb",
+                "meaning": "actually / properly"
+              },
+              {
+                "word": "beherrscht",
+                "lemma": "beherrschen",
+                "pos": "verb",
+                "meaning": "rules / governs"
+              },
+              {
+                "word": "sie",
+                "lemma": "sie",
+                "pos": "pronoun",
+                "meaning": "it [this region]"
+              }
+            ],
+            "grammarNote": "Antecedent 'sie' refers to feminine noun 'diese Gegend' (resolved as 'it [this region]')."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c18",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c18_l1",
+            "original": "Das kann ich dir eben so wenig beantworten, als ich weiß, wie ich auf die Welt gekommen bin.",
+            "literal": "That can I to-you just as little answer, as I know, how I into the world come have.",
+            "tokens": [
+              {
+                "word": "beantworten",
+                "lemma": "beantworten",
+                "pos": "verb",
+                "meaning": "answer"
+              },
+              {
+                "word": "eben so wenig",
+                "lemma": "wenig",
+                "pos": "adverb",
+                "meaning": "just as little"
+              },
+              {
+                "word": "auf die Welt gekommen",
+                "lemma": "Welt",
+                "pos": "idiom",
+                "meaning": "come into the world / born"
+              }
+            ],
+            "grammarNote": "Comparative correlative 'eben so wenig ... als' (just as little as). Idiom 'auf die Welt kommen' (to be born)."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c19",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "stageDirection": "lacht",
+        "stageDirectionTranslation": "laughs",
+        "lines": [
+          {
+            "id": "a1_s2_c19_l1",
+            "original": "Wie? Du wüßtest nicht, wo du geboren, oder wer deine Ältern waren? –",
+            "literal": "How? You would-not-know, where you [were] born, or who your parents were? –",
+            "tokens": [
+              {
+                "word": "wüßtest",
+                "lemma": "wissen",
+                "pos": "verb",
+                "meaning": "would know (subjunctive II)"
+              },
+              {
+                "word": "geboren",
+                "lemma": "gebären",
+                "pos": "verb",
+                "meaning": "born"
+              },
+              {
+                "word": "Ältern",
+                "lemma": "Eltern",
+                "pos": "noun",
+                "meaning": "parents",
+                "notes": "Historical spelling 'Ältern' for modern 'Eltern'."
+              }
+            ],
+            "grammarNote": "Subjunctive II 'wüßtest' in incredulous question. Ellipsis of auxiliary 'bist/wurdest' in 'wo du geboren'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c20",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c20_l1",
+            "original": "Kein Wort! – Ich weiß nicht mehr, und nicht weniger, als daß mich ein alter, aber sehr lustiger Mann auferzogen, und ernährt hat.",
+            "literal": "Not-a word! – I know not more, and not less, than that me an old, but very jolly man raised, and nourished has.",
+            "tokens": [
+              {
+                "word": "Kein Wort",
+                "lemma": "Wort",
+                "pos": "idiom",
+                "meaning": "not a word"
+              },
+              {
+                "word": "mehr",
+                "lemma": "mehr",
+                "pos": "adverb",
+                "meaning": "more"
+              },
+              {
+                "word": "weniger",
+                "lemma": "wenig",
+                "pos": "adverb",
+                "meaning": "less"
+              },
+              {
+                "word": "auferzogen",
+                "lemma": "auferziehen",
+                "pos": "verb",
+                "meaning": "brought up / raised",
+                "notes": "Archaic past participle of auferziehen."
+              },
+              {
+                "word": "ernährt",
+                "lemma": "ernähren",
+                "pos": "verb",
+                "meaning": "nourished / sustained"
+              }
+            ],
+            "grammarNote": "Correlative formula 'nicht mehr und nicht weniger, als daß...'. Archaic verb 'auferziehen' (to raise/educate)."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c21",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c21_l1",
+            "original": "Das war vermuthlich dein Vater? –",
+            "literal": "That was presumably your father? –",
+            "tokens": [
+              {
+                "word": "vermuthlich",
+                "lemma": "vermutlich",
+                "pos": "adverb",
+                "meaning": "presumably",
+                "notes": "Historical spelling with 'th'."
+              },
+              {
+                "word": "Vater",
+                "lemma": "Vater",
+                "pos": "noun",
+                "meaning": "father"
+              }
+            ],
+            "grammarNote": "Historical spelling 'vermuthlich' (modern 'vermutlich')."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c22",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c22_l1",
+            "original": "Das weiß ich nicht.",
+            "literal": "That know I not.",
+            "tokens": [
+              {
+                "word": "weiß",
+                "lemma": "wissen",
+                "pos": "verb",
+                "meaning": "know"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c23",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c23_l1",
+            "original": "Hattest du denn deine Mutter nicht gekannt?",
+            "literal": "Had you then your mother not known?",
+            "tokens": [
+              {
+                "word": "Hattest ... gekannt",
+                "lemma": "kennen",
+                "pos": "verb",
+                "meaning": "had known (pluperfect)"
+              },
+              {
+                "word": "denn",
+                "lemma": "denn",
+                "pos": "particle",
+                "meaning": "then / after all"
+              },
+              {
+                "word": "Mutter",
+                "lemma": "Mutter",
+                "pos": "noun",
+                "meaning": "mother"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c24",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c24_l1",
+            "original": "Gekannt hab' ich sie nicht; erzählen ließ ich mir's einige Mahl, daß meine Mutter einst da in diesem verschlossenen Gebäude bey der nächtlich sternflammenden Königinn gedient hätte. –",
+            "literal": "Known have I her [my mother] not; tell let I myself-it several times, that my mother once there in this closed building under the nightly star-flaming Queen served had. –",
+            "tokens": [
+              {
+                "word": "sie",
+                "lemma": "sie",
+                "pos": "pronoun",
+                "meaning": "her [my mother]"
+              },
+              {
+                "word": "erzählen ließ ich mir's",
+                "lemma": "erzählen",
+                "pos": "idiom",
+                "meaning": "I was told / I had it told to me"
+              },
+              {
+                "word": "einige Mahl",
+                "lemma": "Mal",
+                "pos": "adverb",
+                "meaning": "several times",
+                "notes": "Historical spelling 'Mahl'."
+              },
+              {
+                "word": "verschlossenen",
+                "lemma": "verschließen",
+                "pos": "adjective",
+                "meaning": "closed / barred"
+              },
+              {
+                "word": "Gebäude",
+                "lemma": "Gebäude",
+                "pos": "noun",
+                "meaning": "building"
+              },
+              {
+                "word": "sternflammenden Königinn",
+                "lemma": "Königin",
+                "pos": "noun",
+                "meaning": "star-flaming Queen",
+                "notes": "Archaic spelling with double n."
+              },
+              {
+                "word": "gedient hätte",
+                "lemma": "dienen",
+                "pos": "verb",
+                "meaning": "had served (subjunctive II)"
+              }
+            ],
+            "grammarNote": "Topicalization of participle 'Gekannt' for emphasis. Subjunctive II 'hätte gedient' in indirect reporting. Antecedent 'sie' = 'her [my mother]'."
+          },
+          {
+            "id": "a1_s2_c24_l2",
+            "original": "Ob sie noch lebt, oder was aus ihr geworden ist, weiß ich nicht. –",
+            "literal": "Whether she [my mother] still lives, or what of her become has, know I not. –",
+            "tokens": [
+              {
+                "word": "Ob",
+                "lemma": "ob",
+                "pos": "conjunction",
+                "meaning": "whether / if"
+              },
+              {
+                "word": "sie",
+                "lemma": "sie",
+                "pos": "pronoun",
+                "meaning": "she [my mother]"
+              },
+              {
+                "word": "lebt",
+                "lemma": "leben",
+                "pos": "verb",
+                "meaning": "lives"
+              },
+              {
+                "word": "aus ihr geworden ist",
+                "lemma": "werden",
+                "pos": "idiom",
+                "meaning": "has become of her"
+              }
+            ],
+            "grammarNote": "Coordinated indirect questions functioning as the direct object of 'weiß ich nicht'."
+          },
+          {
+            "id": "a1_s2_c24_l3",
+            "original": "Ich weiß nur so viel, daß nicht weit von hier meine Strohhütte steht, die mich vor Regen und Kälte schützt.",
+            "literal": "I know only so much, that not far from here my straw-hut stands, which me from rain and cold protects.",
+            "tokens": [
+              {
+                "word": "Strohhütte",
+                "lemma": "Strohhütte",
+                "pos": "noun",
+                "meaning": "straw hut"
+              },
+              {
+                "word": "Regen",
+                "lemma": "Regen",
+                "pos": "noun",
+                "meaning": "rain"
+              },
+              {
+                "word": "Kälte",
+                "lemma": "Kälte",
+                "pos": "noun",
+                "meaning": "cold"
+              },
+              {
+                "word": "schützt",
+                "lemma": "schützen",
+                "pos": "verb",
+                "meaning": "protects / shelters"
+              }
+            ],
+            "grammarNote": "The 1791 text has 'sieht' (archaic/typesetting error for 'steht'). Relative clause 'die mich... schützt' with dative preposition 'vor'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c25",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c25_l1",
+            "original": "Aber wie lebst du?",
+            "literal": "But how live you?",
+            "tokens": [
+              {
+                "word": "lebst",
+                "lemma": "leben",
+                "pos": "verb",
+                "meaning": "live"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c26",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c26_l1",
+            "original": "Von Essen und Trinken, wie alle Menschen.",
+            "literal": "From eating and drinking, like all people.",
+            "tokens": [
+              {
+                "word": "Essen",
+                "lemma": "Essen",
+                "pos": "noun",
+                "meaning": "eating / food"
+              },
+              {
+                "word": "Trinken",
+                "lemma": "Trinken",
+                "pos": "noun",
+                "meaning": "drinking / drink"
+              },
+              {
+                "word": "Menschen",
+                "lemma": "Mensch",
+                "pos": "noun",
+                "meaning": "people"
+              }
+            ],
+            "grammarNote": "Substantivized infinitives 'Essen und Trinken' governed by preposition 'von'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c27",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c27_l1",
+            "original": "Wodurch erhältst du das?",
+            "literal": "Whereby obtain you that?",
+            "tokens": [
+              {
+                "word": "Wodurch",
+                "lemma": "wodurch",
+                "pos": "adverb",
+                "meaning": "whereby / through what"
+              },
+              {
+                "word": "erhältst",
+                "lemma": "erhalten",
+                "pos": "verb",
+                "meaning": "obtain / receive"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c28",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c28_l1",
+            "original": "Durch Tausch. – Ich fange für die sternflammende Königinn und ihre Jungfrauen verschiedene Vögel;",
+            "literal": "Through barter. – I catch for the star-flaming Queen and her maidens various birds;",
+            "tokens": [
+              {
+                "word": "Tausch",
+                "lemma": "Tausch",
+                "pos": "noun",
+                "meaning": "barter / exchange"
+              },
+              {
+                "word": "fange",
+                "lemma": "fangen",
+                "pos": "verb",
+                "meaning": "catch"
+              },
+              {
+                "word": "sternflammende Königinn",
+                "lemma": "Königin",
+                "pos": "noun",
+                "meaning": "star-flaming Queen"
+              },
+              {
+                "word": "Jungfrauen",
+                "lemma": "Jungfrau",
+                "pos": "noun",
+                "meaning": "maidens / attendants"
+              },
+              {
+                "word": "verschiedene",
+                "lemma": "verschieden",
+                "pos": "adjective",
+                "meaning": "various"
+              },
+              {
+                "word": "Vögel",
+                "lemma": "Vogel",
+                "pos": "noun",
+                "meaning": "birds"
+              }
+            ]
+          },
+          {
+            "id": "a1_s2_c28_l2",
+            "original": "dafür erhalt' ich täglich Speis' und Trank von ihr.",
+            "literal": "in-return receive I daily food and drink from her [the Queen].",
+            "tokens": [
+              {
+                "word": "dafür",
+                "lemma": "dafür",
+                "pos": "adverb",
+                "meaning": "in return / for that"
+              },
+              {
+                "word": "erhalt'",
+                "lemma": "erhalten",
+                "pos": "verb",
+                "meaning": "receive"
+              },
+              {
+                "word": "täglich",
+                "lemma": "täglich",
+                "pos": "adverb",
+                "meaning": "daily"
+              },
+              {
+                "word": "Speis' und Trank",
+                "lemma": "Speise und Trank",
+                "pos": "idiom",
+                "meaning": "food and drink"
+              },
+              {
+                "word": "von ihr",
+                "lemma": "sie",
+                "pos": "pronoun",
+                "meaning": "from her [the Queen]"
+              }
+            ],
+            "grammarNote": "Pronominal adverb 'dafür' triggers V2 inversion. Formulaic pairing 'Speis' und Trank'. Antecedent 'ihr' = 'her [the Queen]'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c29",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "stageDirection": "für sich",
+        "stageDirectionTranslation": "aside",
+        "lines": [
+          {
+            "id": "a1_s2_c29_l1",
+            "original": "Sternflammende Königinn! – Wenn es etwa gar die mächtige Herrscherin der Nacht wäre! –",
+            "literal": "Star-flaming Queen! – If it perhaps even the mighty ruler of the night were! –",
+            "tokens": [
+              {
+                "word": "Herrscherin",
+                "lemma": "Herrscherin",
+                "pos": "noun",
+                "meaning": "ruler / sovereign (feminine)"
+              },
+              {
+                "word": "Nacht",
+                "lemma": "Nacht",
+                "pos": "noun",
+                "meaning": "night"
+              },
+              {
+                "word": "etwa gar",
+                "lemma": "gar",
+                "pos": "adverb",
+                "meaning": "perhaps even"
+              }
+            ],
+            "grammarNote": "Exclamatory conditional with subjunctive II 'wäre'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c30",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c30_l1",
+            "original": "Sag mir, guter Freund! warst du schon so glücklich, diese Göttinn der Nacht zu sehen?",
+            "literal": "Tell me, good friend! Were you already so fortunate, this goddess of the night to see?",
+            "tokens": [
+              {
+                "word": "guter Freund",
+                "lemma": "Freund",
+                "pos": "noun",
+                "meaning": "good friend"
+              },
+              {
+                "word": "glücklich",
+                "lemma": "glücklich",
+                "pos": "adjective",
+                "meaning": "fortunate / lucky"
+              },
+              {
+                "word": "Göttinn",
+                "lemma": "Göttin",
+                "pos": "noun",
+                "meaning": "goddess",
+                "notes": "Archaic spelling with double n."
+              },
+              {
+                "word": "zu sehen",
+                "lemma": "sehen",
+                "pos": "verb",
+                "meaning": "to see"
+              }
+            ],
+            "grammarNote": "Infinitive clause 'zu sehen' dependent on predicate adjective 'glücklich'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c31",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "stageDirection": "der bisher öfters auf seiner Flöte geblasen",
+        "stageDirectionTranslation": "who has hitherto repeatedly blown on his flute",
+        "lines": [
+          {
+            "id": "a1_s2_c31_l1",
+            "original": "Deine letzte alberne Frage überzeugt mich, daß du aus einem fremden Lande geboren bist. –",
+            "literal": "Your last silly question convinces me, that you from a foreign land born are. –",
+            "tokens": [
+              {
+                "word": "alberne",
+                "lemma": "albern",
+                "pos": "adjective",
+                "meaning": "silly / foolish"
+              },
+              {
+                "word": "Frage",
+                "lemma": "Frage",
+                "pos": "noun",
+                "meaning": "question"
+              },
+              {
+                "word": "überzeugt",
+                "lemma": "überzeugen",
+                "pos": "verb",
+                "meaning": "convinces"
+              },
+              {
+                "word": "fremden",
+                "lemma": "fremd",
+                "pos": "adjective",
+                "meaning": "foreign / distant"
+              },
+              {
+                "word": "Lande",
+                "lemma": "Land",
+                "pos": "noun",
+                "meaning": "land / country"
+              }
+            ],
+            "grammarNote": "Subordinate clause with 'daß' and verb-final placement 'geboren bist'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c32",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c32_l1",
+            "original": "Sey darüber nicht ungehalten, lieber Freund! ich dachte nur –",
+            "literal": "Be at-that not indignant, dear friend! I thought only –",
+            "tokens": [
+              {
+                "word": "Sey",
+                "lemma": "sein",
+                "pos": "verb",
+                "meaning": "be (imperative)",
+                "notes": "Archaic spelling 'Sey' for modern 'Sei'."
+              },
+              {
+                "word": "darüber",
+                "lemma": "darüber",
+                "pos": "adverb",
+                "meaning": "about that / at that"
+              },
+              {
+                "word": "ungehalten",
+                "lemma": "ungehalten",
+                "pos": "adjective",
+                "meaning": "indignant / offended"
+              },
+              {
+                "word": "dachte",
+                "lemma": "denken",
+                "pos": "verb",
+                "meaning": "thought"
+              }
+            ],
+            "grammarNote": "Archaic spelling 'Sey' for modern 'Sei'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c33",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c33_l1",
+            "original": "Sehen? – Die sternflammende Königinn sehen? –",
+            "literal": "See? – The star-flaming Queen see? –",
+            "tokens": [
+              {
+                "word": "Sehen",
+                "lemma": "sehen",
+                "pos": "verb",
+                "meaning": "see"
+              },
+              {
+                "word": "sternflammende Königinn",
+                "lemma": "Königin",
+                "pos": "noun",
+                "meaning": "star-flaming Queen"
+              }
+            ]
+          },
+          {
+            "id": "a1_s2_c33_l2",
+            "original": "Wenn du noch mit einer solchen albernen Frage an mich kommst, so sperr' ich dich, so wahr ich Papageno heiße, wie einen Gimpel in mein Vogelhaus,",
+            "literal": "If you still with such-a silly question to me come, then lock I you, as true-as I Papageno am-named, like a bullfinch into my birdcage,",
+            "tokens": [
+              {
+                "word": "sperr'",
+                "lemma": "sperren",
+                "pos": "verb",
+                "meaning": "lock up / shut"
+              },
+              {
+                "word": "so wahr ich ... heiße",
+                "lemma": "heißen",
+                "pos": "idiom",
+                "meaning": "as truly as my name is"
+              },
+              {
+                "word": "Gimpel",
+                "lemma": "Gimpel",
+                "pos": "noun",
+                "meaning": "bullfinch / simpleton"
+              },
+              {
+                "word": "Vogelhaus",
+                "lemma": "Vogelhaus",
+                "pos": "noun",
+                "meaning": "aviary / birdcage"
+              }
+            ],
+            "grammarNote": "Formulaic oath 'so wahr ich ... heiße'. 'Gimpel' puns on the bird species and a gullible fool."
+          },
+          {
+            "id": "a1_s2_c33_l3",
+            "original": "verhandle dich dann mit meinen übrigen Vögeln an die nächtliche Königinn und ihre Jungfrauen, dann mögen sie dich meinetwegen sieden oder braten.",
+            "literal": "sell you then with my remaining birds to the nightly Queen and her maidens, then may they [the Queen and her maidens] you for-all-I-care boil or roast.",
+            "tokens": [
+              {
+                "word": "verhandle",
+                "lemma": "verhandeln",
+                "pos": "verb",
+                "meaning": "barter / sell off",
+                "notes": "Archaic sense: to sell or trade."
+              },
+              {
+                "word": "übrigen",
+                "lemma": "übrig",
+                "pos": "adjective",
+                "meaning": "remaining / other"
+              },
+              {
+                "word": "sie",
+                "lemma": "sie",
+                "pos": "pronoun",
+                "meaning": "they [the Queen and her maidens]"
+              },
+              {
+                "word": "meinetwegen",
+                "lemma": "meinetwegen",
+                "pos": "adverb",
+                "meaning": "for all I care / as far as I am concerned"
+              },
+              {
+                "word": "sieden",
+                "lemma": "sieden",
+                "pos": "verb",
+                "meaning": "boil"
+              },
+              {
+                "word": "braten",
+                "lemma": "braten",
+                "pos": "verb",
+                "meaning": "roast"
+              }
+            ],
+            "grammarNote": "Archaic usage 'verhandeln an' (to sell to). Antecedent 'sie' = 'they [the Queen and her maidens]'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c34",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "stageDirection": "für sich",
+        "stageDirectionTranslation": "aside",
+        "lines": [
+          {
+            "id": "a1_s2_c34_l1",
+            "original": "Ein wunderlicher Mann!",
+            "literal": "A whimsical man!",
+            "tokens": [
+              {
+                "word": "wunderlicher",
+                "lemma": "wunderlich",
+                "pos": "adjective",
+                "meaning": "whimsical / eccentric"
+              },
+              {
+                "word": "Mann",
+                "lemma": "Mann",
+                "pos": "noun",
+                "meaning": "man"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c35",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c35_l1",
+            "original": "Sehen? – Die sternflammende Königinn sehen? – Welcher Sterbliche kann sich rühmen, sie je gesehen zu haben? –",
+            "literal": "See? – The star-flaming Queen see? – Which mortal can oneself boast, her [the Queen] ever seen to have? –",
+            "tokens": [
+              {
+                "word": "Sterbliche",
+                "lemma": "Sterbliche",
+                "pos": "noun",
+                "meaning": "mortal (substantivized adjective)"
+              },
+              {
+                "word": "sich rühmen",
+                "lemma": "rühmen",
+                "pos": "verb",
+                "meaning": "to boast / pride oneself"
+              },
+              {
+                "word": "sie",
+                "lemma": "sie",
+                "pos": "pronoun",
+                "meaning": "her [the Queen]"
+              },
+              {
+                "word": "gesehen zu haben",
+                "lemma": "sehen",
+                "pos": "verb",
+                "meaning": "to have seen"
+              }
+            ],
+            "grammarNote": "Reflexive verb 'sich rühmen' governing perfect infinitive. Antecedent 'sie' = 'her [the Queen]'."
+          },
+          {
+            "id": "a1_s2_c35_l2",
+            "original": "Welches Menschen Auge würde durch ihren schwarz durchwebten Schleyer blicken können?",
+            "literal": "Which human's eye would through her [the Queen's] black interwoven veil gaze be-able?",
+            "tokens": [
+              {
+                "word": "Welches Menschen",
+                "lemma": "Mensch",
+                "pos": "noun",
+                "meaning": "which human's / whose (genitive)"
+              },
+              {
+                "word": "Auge",
+                "lemma": "Auge",
+                "pos": "noun",
+                "meaning": "eye"
+              },
+              {
+                "word": "ihren",
+                "lemma": "ihr",
+                "pos": "pronoun",
+                "meaning": "her [the Queen's]"
+              },
+              {
+                "word": "schwarz durchwebten",
+                "lemma": "schwarz durchwebt",
+                "pos": "adjective",
+                "meaning": "interwoven with black"
+              },
+              {
+                "word": "Schleyer",
+                "lemma": "Schleier",
+                "pos": "noun",
+                "meaning": "veil",
+                "notes": "Archaic spelling 'Schleyer'."
+              },
+              {
+                "word": "blicken",
+                "lemma": "blicken",
+                "pos": "verb",
+                "meaning": "gaze / look"
+              }
+            ],
+            "grammarNote": "Pre-nominal genitive 'Welches Menschen Auge'. Subjunctive II modal 'würde ... blicken können'. Historical spelling 'Schleyer'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c36",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "stageDirection": "für sich",
+        "stageDirectionTranslation": "aside",
+        "lines": [
+          {
+            "id": "a1_s2_c36_l1",
+            "original": "Nun ist's klar; es ist eben diese nächtliche Königinn, von der mein Vater mir so oft erzählte. –",
+            "literal": "Now is it clear; it is precisely this nightly Queen, of whom my father to-me so often told. –",
+            "tokens": [
+              {
+                "word": "klar",
+                "lemma": "klar",
+                "pos": "adjective",
+                "meaning": "clear"
+              },
+              {
+                "word": "eben",
+                "lemma": "eben",
+                "pos": "adverb",
+                "meaning": "precisely / exactly"
+              },
+              {
+                "word": "nächtliche Königinn",
+                "lemma": "Königin",
+                "pos": "noun",
+                "meaning": "nightly Queen"
+              },
+              {
+                "word": "erzählte",
+                "lemma": "erzählen",
+                "pos": "verb",
+                "meaning": "told"
+              }
+            ],
+            "grammarNote": "Relative clause 'von der mein Vater... erzählte' with dative feminine relative pronoun."
+          },
+          {
+            "id": "a1_s2_c36_l2",
+            "original": "Aber zu fassen, wie ich mich hierher verirrte, ist außer meiner Macht. – Unfehlbar ist auch dieser Mann kein gewöhnlicher Mensch. – Vieleicht einer ihrer dienstbaren Geister.",
+            "literal": "But to comprehend, how I myself hither strayed, is beyond my power. – Infallibly is also this man no ordinary human. – Perhaps one of her [the Queen's] ministering spirits.",
+            "tokens": [
+              {
+                "word": "zu fassen",
+                "lemma": "fassen",
+                "pos": "verb",
+                "meaning": "to comprehend / grasp"
+              },
+              {
+                "word": "hierher verirrte",
+                "lemma": "verirren",
+                "pos": "verb",
+                "meaning": "strayed hither / got lost here"
+              },
+              {
+                "word": "außer meiner Macht",
+                "lemma": "Macht",
+                "pos": "idiom",
+                "meaning": "beyond my power"
+              },
+              {
+                "word": "Unfehlbar",
+                "lemma": "unfehlbar",
+                "pos": "adverb",
+                "meaning": "infallibly / undoubtedly"
+              },
+              {
+                "word": "gewöhnlicher",
+                "lemma": "gewöhnlich",
+                "pos": "adjective",
+                "meaning": "ordinary"
+              },
+              {
+                "word": "dienstbaren Geister",
+                "lemma": "Geist",
+                "pos": "noun",
+                "meaning": "ministering spirits"
+              }
+            ],
+            "grammarNote": "Archaic spelling 'Vieleicht' (modern 'Vielleicht'). Antecedent 'ihrer' = 'her [the Queen's]'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c37",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "stageDirection": "für sich",
+        "stageDirectionTranslation": "aside",
+        "lines": [
+          {
+            "id": "a1_s2_c37_l1",
+            "original": "Wie er mich so starr anblickt! Bald fang' ich an, mich vor ihm zu fürchten. –",
+            "literal": "How he [Tamino] me so fixedly stares-at! Soon begin I, myself of him [Tamino] to fear. –",
+            "tokens": [
+              {
+                "word": "starr",
+                "lemma": "starr",
+                "pos": "adverb",
+                "meaning": "fixedly / rigidly"
+              },
+              {
+                "word": "anblickt",
+                "lemma": "anblicken",
+                "pos": "verb",
+                "meaning": "stares at / gazes upon"
+              },
+              {
+                "word": "fang' ... an",
+                "lemma": "anfangen",
+                "pos": "verb",
+                "meaning": "begin / start"
+              },
+              {
+                "word": "zu fürchten",
+                "lemma": "fürchten",
+                "pos": "verb",
+                "meaning": "to be afraid / fear"
+              }
+            ],
+            "grammarNote": "Separable verb 'anfangen' framing subject/inversion. Antecedents 'er' and 'ihm' = 'he/him [Tamino]'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c38",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c38_l1",
+            "original": "Warum siehst du so verdächtig und schelmisch nach mir?",
+            "literal": "Why look you so suspiciously and roguishly at me?",
+            "tokens": [
+              {
+                "word": "Warum",
+                "lemma": "warum",
+                "pos": "adverb",
+                "meaning": "why"
+              },
+              {
+                "word": "verdächtig",
+                "lemma": "verdächtig",
+                "pos": "adverb",
+                "meaning": "suspiciously"
+              },
+              {
+                "word": "schelmisch",
+                "lemma": "schelmisch",
+                "pos": "adverb",
+                "meaning": "roguishly / maliciously"
+              },
+              {
+                "word": "nach mir",
+                "lemma": "nach",
+                "pos": "preposition",
+                "meaning": "at me"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c39",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c39_l1",
+            "original": "Weil – weil ich zweifle, ob du Mensch bist. –",
+            "literal": "Because – because I doubt, whether you human are. –",
+            "tokens": [
+              {
+                "word": "Weil",
+                "lemma": "weil",
+                "pos": "conjunction",
+                "meaning": "because"
+              },
+              {
+                "word": "zweifle",
+                "lemma": "zweifeln",
+                "pos": "verb",
+                "meaning": "doubt"
+              },
+              {
+                "word": "ob",
+                "lemma": "ob",
+                "pos": "conjunction",
+                "meaning": "whether / if"
+              },
+              {
+                "word": "Mensch",
+                "lemma": "Mensch",
+                "pos": "noun",
+                "meaning": "human / man"
+              }
+            ],
+            "grammarNote": "Subordinating 'ob' clause with verb-final placement."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c40",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c40_l1",
+            "original": "Wie war das?",
+            "literal": "How was that?",
+            "tokens": [
+              {
+                "word": "Wie",
+                "lemma": "wie",
+                "pos": "adverb",
+                "meaning": "how / what"
+              },
+              {
+                "word": "war",
+                "lemma": "sein",
+                "pos": "verb",
+                "meaning": "was"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c41",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c41_l1",
+            "original": "Nach deinen Federn, die dich bedecken, halt' ich dich –",
+            "literal": "By your feathers, which you cover, take I you [to be] –",
+            "tokens": [
+              {
+                "word": "Federn",
+                "lemma": "Feder",
+                "pos": "noun",
+                "meaning": "feathers"
+              },
+              {
+                "word": "bedecken",
+                "lemma": "bedecken",
+                "pos": "verb",
+                "meaning": "cover"
+              },
+              {
+                "word": "halt' ... dich",
+                "lemma": "halten",
+                "pos": "verb",
+                "meaning": "take you [for]"
+              }
+            ],
+            "grammarNote": "Aposiopesis: sentence interrupted before completing the idiom 'halten für' (take someone for)."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c42",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "stageDirection": "geht auf ihn zu",
+        "stageDirectionTranslation": "approaches him [Papageno]",
+        "lines": []
+      },
+      {
+        "id": "a1_s2_c43",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c43_l1",
+            "original": "Doch für keinen Vogel? – Bleib zurück, sag' ich, und traue mir nicht; – denn ich habe Riesenkraft, wenn ich jemand packe. –",
+            "literal": "Surely for no bird? – Stay back, say I, and trust to-me not; – for I have giant's-strength, when I someone grab. –",
+            "tokens": [
+              {
+                "word": "Doch",
+                "lemma": "doch",
+                "pos": "particle",
+                "meaning": "surely / surely not"
+              },
+              {
+                "word": "Vogel",
+                "lemma": "Vogel",
+                "pos": "noun",
+                "meaning": "bird"
+              },
+              {
+                "word": "Bleib zurück",
+                "lemma": "zurückbleiben",
+                "pos": "verb",
+                "meaning": "stay back (imperative)"
+              },
+              {
+                "word": "traue",
+                "lemma": "trauen",
+                "pos": "verb",
+                "meaning": "trust (imperative with dative)"
+              },
+              {
+                "word": "Riesenkraft",
+                "lemma": "Riesenkraft",
+                "pos": "noun",
+                "meaning": "giant's strength"
+              },
+              {
+                "word": "packe",
+                "lemma": "packen",
+                "pos": "verb",
+                "meaning": "grab / seize"
+              }
+            ],
+            "grammarNote": "Modal particle 'doch' completing Tamino's unfinished sentence. Dative object with 'trauen' ('traue mir nicht')."
+          },
+          {
+            "id": "a1_s2_c43_l2",
+            "original": "Wenn er sich nicht bald von mir schrecken läßt, so lauf' ich davon.",
+            "literal": "If he [Tamino] himself not soon by me frighten lets, then run I away.",
+            "tokens": [
+              {
+                "word": "er",
+                "lemma": "er",
+                "pos": "pronoun",
+                "meaning": "he [Tamino]"
+              },
+              {
+                "word": "schrecken läßt",
+                "lemma": "lassen",
+                "pos": "verb",
+                "meaning": "lets [himself] be frightened"
+              },
+              {
+                "word": "lauf' ... davon",
+                "lemma": "davonlaufen",
+                "pos": "verb",
+                "meaning": "run away"
+              }
+            ],
+            "grammarNote": "Reflexive causative passive 'sich schrecken lassen'. Antecedent 'er' = 'he [Tamino]'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c44",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "stageDirection": "er sieht auf die Schlange",
+        "stageDirectionTranslation": "he looks at the serpent",
+        "lines": [
+          {
+            "id": "a1_s2_c44_l1",
+            "original": "Riesenkraft? Also warst du wohl gar mein Erretter, der diese giftige Schlange bekämpfte?",
+            "literal": "Giant's-strength? So were you perhaps even my rescuer, who this venomous serpent fought?",
+            "tokens": [
+              {
+                "word": "Riesenkraft",
+                "lemma": "Riesenkraft",
+                "pos": "noun",
+                "meaning": "giant's strength"
+              },
+              {
+                "word": "Erretter",
+                "lemma": "Erretter",
+                "pos": "noun",
+                "meaning": "rescuer / savior"
+              },
+              {
+                "word": "giftige",
+                "lemma": "giftig",
+                "pos": "adjective",
+                "meaning": "venomous / poisonous"
+              },
+              {
+                "word": "Schlange",
+                "lemma": "Schlange",
+                "pos": "noun",
+                "meaning": "serpent / snake"
+              },
+              {
+                "word": "bekämpfte",
+                "lemma": "bekämpfen",
+                "pos": "verb",
+                "meaning": "fought / defeated"
+              }
+            ],
+            "grammarNote": "Modal particles 'wohl gar' (perhaps even / indeed). Relative clause with preterite 'bekämpfte'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c45",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "stageDirection": "sieht sich um, weicht zitternd einige Schritte zurück",
+        "stageDirectionTranslation": "looks about, recoils trembling a few paces",
+        "lines": [
+          {
+            "id": "a1_s2_c45_l1",
+            "original": "Schlange! Was da! ist sie todt, oder lebendig?",
+            "literal": "Serpent! What there! Is it [the serpent] dead, or alive?",
+            "tokens": [
+              {
+                "word": "Schlange",
+                "lemma": "Schlange",
+                "pos": "noun",
+                "meaning": "serpent"
+              },
+              {
+                "word": "sie",
+                "lemma": "sie",
+                "pos": "pronoun",
+                "meaning": "it [the serpent]"
+              },
+              {
+                "word": "todt",
+                "lemma": "tot",
+                "pos": "adjective",
+                "meaning": "dead",
+                "notes": "Historical spelling 'todt'."
+              },
+              {
+                "word": "lebendig",
+                "lemma": "lebendig",
+                "pos": "adjective",
+                "meaning": "alive / living"
+              }
+            ],
+            "grammarNote": "Antecedent 'sie' refers to feminine noun 'die Schlange' (resolved as 'it [the serpent]')."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c46",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c46_l1",
+            "original": "Du willst durch deine bescheidene Frage meinen Dank ablehnen – aber ich muß dir sagen, daß ich ewig für deine so tapfere Handlung dankbar seyn werde.",
+            "literal": "You wish through your modest question my thanks to-decline – but I must to-you say, that I eternally for your so brave deed grateful be will.",
+            "tokens": [
+              {
+                "word": "bescheidene",
+                "lemma": "bescheiden",
+                "pos": "adjective",
+                "meaning": "modest / humble"
+              },
+              {
+                "word": "Dank",
+                "lemma": "Dank",
+                "pos": "noun",
+                "meaning": "thanks / gratitude"
+              },
+              {
+                "word": "ablehnen",
+                "lemma": "ablehnen",
+                "pos": "verb",
+                "meaning": "decline / reject"
+              },
+              {
+                "word": "ewig",
+                "lemma": "ewig",
+                "pos": "adverb",
+                "meaning": "eternally / forever"
+              },
+              {
+                "word": "tapfere",
+                "lemma": "tapfer",
+                "pos": "adjective",
+                "meaning": "brave / valiant"
+              },
+              {
+                "word": "Handlung",
+                "lemma": "Handlung",
+                "pos": "noun",
+                "meaning": "deed / action"
+              },
+              {
+                "word": "dankbar",
+                "lemma": "dankbar",
+                "pos": "adjective",
+                "meaning": "grateful / thankful"
+              },
+              {
+                "word": "seyn",
+                "lemma": "sein",
+                "pos": "verb",
+                "meaning": "be",
+                "notes": "Archaic spelling 'seyn'."
+              }
+            ],
+            "grammarNote": "Future tense in subordinate clause 'dankbar seyn werde' with archaic infinitive 'seyn'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c47",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c47_l1",
+            "original": "Schweigen wir davon still – Freuen wir uns, daß sie glücklich überwunden ist.",
+            "literal": "Keep we thereof quiet – Rejoice we ourselves, that it [the serpent] happily overcome is.",
+            "tokens": [
+              {
+                "word": "stillschweigen",
+                "lemma": "stillschweigen",
+                "pos": "verb",
+                "meaning": "to keep silent / be quiet about"
+              },
+              {
+                "word": "davon",
+                "lemma": "davon",
+                "pos": "adverb",
+                "meaning": "thereof / about that"
+              },
+              {
+                "word": "Freuen wir uns",
+                "lemma": "freuen",
+                "pos": "verb",
+                "meaning": "let us rejoice (reflexive)"
+              },
+              {
+                "word": "sie",
+                "lemma": "sie",
+                "pos": "pronoun",
+                "meaning": "it [the serpent]"
+              },
+              {
+                "word": "glücklich",
+                "lemma": "glücklich",
+                "pos": "adverb",
+                "meaning": "happily / safely"
+              },
+              {
+                "word": "überwunden",
+                "lemma": "überwinden",
+                "pos": "verb",
+                "meaning": "overcome / slain"
+              }
+            ],
+            "grammarNote": "Cohortative imperatives (1st person plural). Antecedent 'sie' = 'it [the serpent]'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c48",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c48_l1",
+            "original": "Aber um alles in der Welt, Freund! wie hast du dieses Ungeheuer bekämpft? – Du bist ohne Waffen.",
+            "literal": "But for everything in the world, friend! How have you this monster fought? – You are without weapons.",
+            "tokens": [
+              {
+                "word": "um alles in der Welt",
+                "lemma": "Welt",
+                "pos": "idiom",
+                "meaning": "for all the world / in heaven's name"
+              },
+              {
+                "word": "Ungeheuer",
+                "lemma": "Ungeheuer",
+                "pos": "noun",
+                "meaning": "monster"
+              },
+              {
+                "word": "bekämpft",
+                "lemma": "bekämpfen",
+                "pos": "verb",
+                "meaning": "fought"
+              },
+              {
+                "word": "Waffen",
+                "lemma": "Waffe",
+                "pos": "noun",
+                "meaning": "weapons"
+              }
+            ],
+            "grammarNote": "Idiomatic exclamation 'um alles in der Welt'. Preposition 'ohne' takes accusative."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c49",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c49_l1",
+            "original": "Brauch keine! – Bey mir ist ein starker Druck mit der Hand mehr, als Waffen.",
+            "literal": "[I] need none! – With me is a strong squeeze with the hand more, than weapons.",
+            "tokens": [
+              {
+                "word": "Brauch",
+                "lemma": "brauchen",
+                "pos": "verb",
+                "meaning": "need"
+              },
+              {
+                "word": "keine",
+                "lemma": "kein",
+                "pos": "pronoun",
+                "meaning": "none / neither"
+              },
+              {
+                "word": "starker",
+                "lemma": "stark",
+                "pos": "adjective",
+                "meaning": "strong / powerful"
+              },
+              {
+                "word": "Druck",
+                "lemma": "Druck",
+                "pos": "noun",
+                "meaning": "pressure / squeeze"
+              },
+              {
+                "word": "Hand",
+                "lemma": "Hand",
+                "pos": "noun",
+                "meaning": "hand"
+              }
+            ],
+            "grammarNote": "Colloquial omission of subject pronoun 'Ich'. Archaic preposition spelling 'Bey' for 'Bei'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c50",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c50_l1",
+            "original": "Du hast sie also erdrosselt?",
+            "literal": "You have it [the serpent] then strangled?",
+            "tokens": [
+              {
+                "word": "sie",
+                "lemma": "sie",
+                "pos": "pronoun",
+                "meaning": "it [the serpent]"
+              },
+              {
+                "word": "also",
+                "lemma": "also",
+                "pos": "adverb",
+                "meaning": "so / then"
+              },
+              {
+                "word": "erdrosselt",
+                "lemma": "erdrosseln",
+                "pos": "verb",
+                "meaning": "strangled / throttled"
+              }
+            ],
+            "grammarNote": "Antecedent 'sie' = 'it [the serpent]'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c51",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s2_c51_l1",
+            "original": "Erdrosselt!",
+            "literal": "Strangled!",
+            "tokens": [
+              {
+                "word": "Erdrosselt",
+                "lemma": "erdrosseln",
+                "pos": "verb",
+                "meaning": "strangled"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s2_c52",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "stageDirection": "für sich",
+        "stageDirectionTranslation": "aside",
+        "lines": [
+          {
+            "id": "a1_s2_c52_l1",
+            "original": "Bin in meinem Leben nicht so stark gewesen, als heute.",
+            "literal": "[I] have in my life not so strong been, as today.",
+            "tokens": [
+              {
+                "word": "Leben",
+                "lemma": "Leben",
+                "pos": "noun",
+                "meaning": "life"
+              },
+              {
+                "word": "stark",
+                "lemma": "stark",
+                "pos": "adjective",
+                "meaning": "strong"
+              },
+              {
+                "word": "gewesen",
+                "lemma": "sein",
+                "pos": "verb",
+                "meaning": "been"
+              },
+              {
+                "word": "heute",
+                "lemma": "heute",
+                "pos": "adverb",
+                "meaning": "today"
+              }
+            ],
+            "grammarNote": "Elliptical colloquial omission of subject pronoun 'Ich'. Comparative 'nicht so stark ... als' (archaic/regional for modern 'wie')."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "a1_s3_pre",
+    "act": 1,
+    "scene": 3,
+    "position": "pre",
+    "cues": [
+      {
+        "id": "a1_s3_c1",
+        "speaker": "Three Ladies",
+        "pieceTitle": "Dialog",
+        "stageDirection": "drohen und rufen zugleich",
+        "stageDirectionTranslation": "threaten and call at the same time",
+        "lines": [
+          {
+            "id": "a1_s3_c1_l1",
+            "original": "Papageno!",
+            "literal": "Papageno!",
+            "tokens": [
+              {
+                "word": "Papageno",
+                "lemma": "Papageno",
+                "pos": "noun",
+                "meaning": "Papageno"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s3_c2",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s3_c2_l1",
+            "original": "Aha! das geht mich an. – Sieh dich um, Freund!",
+            "literal": "Aha! That concerns me. – Look yourself around, friend!",
+            "tokens": [
+              {
+                "word": "Aha",
+                "lemma": "aha",
+                "pos": "interjection",
+                "meaning": "aha"
+              },
+              {
+                "word": "geht ... an",
+                "lemma": "angehen",
+                "pos": "verb",
+                "meaning": "concerns / applies to"
+              },
+              {
+                "word": "Sieh dich um",
+                "lemma": "umsehen",
+                "pos": "verb",
+                "meaning": "look around (imperative)"
+              }
+            ],
+            "grammarNote": "Idiom 'etwas geht mich an' (something concerns me). Reflexive imperative 'Sieh dich um'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s3_c3",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s3_c3_l1",
+            "original": "Wer sind diese Damen?",
+            "literal": "Who are these ladies?",
+            "tokens": [
+              {
+                "word": "Damen",
+                "lemma": "Dame",
+                "pos": "noun",
+                "meaning": "ladies"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s3_c4",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s3_c4_l1",
+            "original": "Wer sie eigentlich sind, weis ich selbst nicht. – –",
+            "literal": "Who they [the Ladies] actually are, know I myself not. – –",
+            "tokens": [
+              {
+                "word": "sie",
+                "lemma": "sie",
+                "pos": "pronoun",
+                "meaning": "they [the Ladies]"
+              },
+              {
+                "word": "eigentlich",
+                "lemma": "eigentlich",
+                "pos": "adverb",
+                "meaning": "actually / really"
+              },
+              {
+                "word": "weis",
+                "lemma": "wissen",
+                "pos": "verb",
+                "meaning": "know",
+                "notes": "Historical spelling 'weis' for modern 'weiß'."
+              },
+              {
+                "word": "selbst",
+                "lemma": "selbst",
+                "pos": "particle",
+                "meaning": "myself"
+              }
+            ],
+            "grammarNote": "Historical spelling 'weis' (modern 'weiß'). Antecedent 'sie' = 'they [the Ladies]'."
+          },
+          {
+            "id": "a1_s3_c4_l2",
+            "original": "Ich weis nur so viel, daß sie mir täglich meine Vögel abnehmen, und mir dafür Wein, Zuckerbrod, und süße Feigen bringen.",
+            "literal": "I know only so much, that they [the Ladies] from-me daily my birds take-off, and to-me in-return wine, sweet-bread, and sweet figs bring.",
+            "tokens": [
+              {
+                "word": "abnehmen",
+                "lemma": "abnehmen",
+                "pos": "verb",
+                "meaning": "take / relieve of"
+              },
+              {
+                "word": "dafür",
+                "lemma": "dafür",
+                "pos": "adverb",
+                "meaning": "in return"
+              },
+              {
+                "word": "Wein",
+                "lemma": "Wein",
+                "pos": "noun",
+                "meaning": "wine"
+              },
+              {
+                "word": "Zuckerbrod",
+                "lemma": "Zuckerbrot",
+                "pos": "noun",
+                "meaning": "sweet bread / confectionery",
+                "notes": "Historical spelling with 'd'."
+              },
+              {
+                "word": "süße",
+                "lemma": "süß",
+                "pos": "adjective",
+                "meaning": "sweet"
+              },
+              {
+                "word": "Feigen",
+                "lemma": "Feige",
+                "pos": "noun",
+                "meaning": "figs"
+              }
+            ],
+            "grammarNote": "Separable prefix verb 'abnehmen' in subordinate clause with final placement. Antecedent 'sie' = 'they [the Ladies]'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s3_c5",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s3_c5_l1",
+            "original": "Sie sind vermuthlich sehr schön?",
+            "literal": "They [the Ladies] are presumably very beautiful?",
+            "tokens": [
+              {
+                "word": "Sie",
+                "lemma": "sie",
+                "pos": "pronoun",
+                "meaning": "They [the Ladies]"
+              },
+              {
+                "word": "vermuthlich",
+                "lemma": "vermutlich",
+                "pos": "adverb",
+                "meaning": "presumably"
+              },
+              {
+                "word": "schön",
+                "lemma": "schön",
+                "pos": "adjective",
+                "meaning": "beautiful"
+              }
+            ],
+            "grammarNote": "Antecedent 'Sie' = 'They [the Ladies]'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s3_c6",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s3_c6_l1",
+            "original": "Ich denke nicht! – denn wenn sie schön wären, würden sie ihre Gesichter nicht bedecken.",
+            "literal": "I think not! – For if they [the Ladies] beautiful were, would they [the Ladies] their faces not cover.",
+            "tokens": [
+              {
+                "word": "denke",
+                "lemma": "denken",
+                "pos": "verb",
+                "meaning": "think"
+              },
+              {
+                "word": "wären",
+                "lemma": "sein",
+                "pos": "verb",
+                "meaning": "were (subjunctive II)"
+              },
+              {
+                "word": "Gesichter",
+                "lemma": "Gesicht",
+                "pos": "noun",
+                "meaning": "faces"
+              },
+              {
+                "word": "bedecken",
+                "lemma": "bedecken",
+                "pos": "verb",
+                "meaning": "cover"
+              }
+            ],
+            "grammarNote": "Unreal conditional (irrealis) with subjunctive II 'wären' and periphrastic 'würden bedecken'. Antecedent 'sie' = 'they [the Ladies]'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s3_c7",
+        "speaker": "Three Ladies",
+        "pieceTitle": "Dialog",
+        "stageDirection": "drohend",
+        "stageDirectionTranslation": "threateningly",
+        "lines": [
+          {
+            "id": "a1_s3_c7_l1",
+            "original": "Papageno! –",
+            "literal": "Papageno! –",
+            "tokens": [
+              {
+                "word": "Papageno",
+                "lemma": "Papageno",
+                "pos": "noun",
+                "meaning": "Papageno"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s3_c8",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s3_c8_l1",
+            "original": "Sey still! sie drohen mir schon. –",
+            "literal": "Be quiet! They [the Ladies] threaten to-me already. –",
+            "tokens": [
+              {
+                "word": "Sey still",
+                "lemma": "still sein",
+                "pos": "verb",
+                "meaning": "be quiet (imperative)"
+              },
+              {
+                "word": "drohen",
+                "lemma": "drohen",
+                "pos": "verb",
+                "meaning": "threaten"
+              }
+            ],
+            "grammarNote": "Archaic spelling 'Sey' for 'Sei'. 'drohen' takes dative 'mir'. Antecedent 'sie' = 'they [the Ladies]'."
+          },
+          {
+            "id": "a1_s3_c8_l2",
+            "original": "Du fragst, ob sie schön sind, und ich kann dir darauf nichts antworten, als daß ich in meinem Leben nichts Reitzenders sah. – Jetzt werden sie bald wieder gut werden. – –",
+            "literal": "You ask, whether they [the Ladies] beautiful are, and I can to-you thereto nothing answer, than that I in my life nothing more-charming saw. – Now will they [the Ladies] soon again good become. – –",
+            "tokens": [
+              {
+                "word": "Reitzenders",
+                "lemma": "reizend",
+                "pos": "adjective",
+                "meaning": "more charming / delightful",
+                "notes": "Historical spelling with 'tz'."
+              },
+              {
+                "word": "gut werden",
+                "lemma": "gut",
+                "pos": "idiom",
+                "meaning": "to calm down / become good-humored again"
+              }
+            ],
+            "grammarNote": "Substantivized neuter comparative 'nichts Reitzenders'. Idiom 'gut werden' (to calm down). Antecedent 'sie' = 'they [the Ladies]'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s3_c9",
+        "speaker": "Three Ladies",
+        "pieceTitle": "Dialog",
+        "stageDirection": "drohend",
+        "stageDirectionTranslation": "threateningly",
+        "lines": [
+          {
+            "id": "a1_s3_c9_l1",
+            "original": "Papageno!",
+            "literal": "Papageno!",
+            "tokens": [
+              {
+                "word": "Papageno",
+                "lemma": "Papageno",
+                "pos": "noun",
+                "meaning": "Papageno"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s3_c10",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s3_c10_l1",
+            "original": "Was muß ich denn heute verbrochen haben, daß sie gar so aufgebracht wider mich sind? –",
+            "literal": "What must I then today committed have, that they [the Ladies] even so enraged against me are? –",
+            "tokens": [
+              {
+                "word": "verbrochen",
+                "lemma": "verbrechen",
+                "pos": "verb",
+                "meaning": "committed / done wrong"
+              },
+              {
+                "word": "aufgebracht",
+                "lemma": "aufbringen",
+                "pos": "adjective",
+                "meaning": "enraged / angry"
+              },
+              {
+                "word": "wider",
+                "lemma": "wider",
+                "pos": "preposition",
+                "meaning": "against"
+              }
+            ],
+            "grammarNote": "Preposition 'wider' takes accusative 'mich'. Antecedent 'sie' = 'they [the Ladies]'."
+          },
+          {
+            "id": "a1_s3_c10_l2",
+            "original": "Hier, meine Schönen, übergeb' ich meine Vögel.",
+            "literal": "Here, my beauties, hand-over I my birds.",
+            "tokens": [
+              {
+                "word": "Schönen",
+                "lemma": "Schöne",
+                "pos": "noun",
+                "meaning": "fair ladies / beauties"
+              },
+              {
+                "word": "übergeb'",
+                "lemma": "übergeben",
+                "pos": "verb",
+                "meaning": "hand over / surrender"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s3_c11",
+        "speaker": "First Lady",
+        "pieceTitle": "Dialog",
+        "stageDirection": "reicht ihm eine schöne Bouteille Wasser",
+        "stageDirectionTranslation": "hands him [Papageno] a handsome bottle of water",
+        "lines": [
+          {
+            "id": "a1_s3_c11_l1",
+            "original": "Dafür schickt dir unsre Fürstinn heute zum ersten Mahl statt Wein reines helles Wasser.",
+            "literal": "In-return sends to-you our Princess today for the first time instead-of wine pure clear water.",
+            "tokens": [
+              {
+                "word": "Fürstinn",
+                "lemma": "Fürstin",
+                "pos": "noun",
+                "meaning": "Princess / Sovereign",
+                "notes": "Archaic spelling with double n."
+              },
+              {
+                "word": "zum ersten Mahl",
+                "lemma": "Mal",
+                "pos": "adverb",
+                "meaning": "for the first time",
+                "notes": "Historical spelling 'Mahl'."
+              },
+              {
+                "word": "statt",
+                "lemma": "statt",
+                "pos": "preposition",
+                "meaning": "instead of"
+              },
+              {
+                "word": "reines",
+                "lemma": "rein",
+                "pos": "adjective",
+                "meaning": "pure"
+              },
+              {
+                "word": "helles",
+                "lemma": "hell",
+                "pos": "adjective",
+                "meaning": "clear / bright"
+              }
+            ],
+            "grammarNote": "Historical spelling 'Fürstinn' and 'Mahl'. Preposition 'statt' taking uninflected noun 'Wein'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s3_c12",
+        "speaker": "Second Lady",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s3_c12_l1",
+            "original": "Und mir befahl sie, daß ich, statt Zuckerbrod, diesen Stein dir überbringen soll. –",
+            "literal": "And to-me ordered she [the Queen], that I, instead-of sweet-bread, this stone to-you deliver shall. –",
+            "tokens": [
+              {
+                "word": "befahl",
+                "lemma": "befehlen",
+                "pos": "verb",
+                "meaning": "commanded / ordered"
+              },
+              {
+                "word": "Stein",
+                "lemma": "Stein",
+                "pos": "noun",
+                "meaning": "stone"
+              },
+              {
+                "word": "überbringen",
+                "lemma": "überbringen",
+                "pos": "verb",
+                "meaning": "deliver"
+              }
+            ],
+            "grammarNote": "Antecedent 'sie' = 'she [the Queen]'."
+          },
+          {
+            "id": "a1_s3_c12_l2",
+            "original": "Ich wünsche, daß er dir wohl bekommen möge.",
+            "literal": "I wish, that it [the stone] to-you well agree may.",
+            "tokens": [
+              {
+                "word": "wohl bekommen",
+                "lemma": "bekommen",
+                "pos": "idiom",
+                "meaning": "to agree with someone / do someone good"
+              },
+              {
+                "word": "möge",
+                "lemma": "mögen",
+                "pos": "verb",
+                "meaning": "may (subjunctive I)"
+              }
+            ],
+            "grammarNote": "Subjunctive I 'möge' in a wish-clause. Idiom 'wohl bekommen'. Antecedent 'er' = 'it [the stone]' (masculine 'der Stein')."
+          }
+        ]
+      },
+      {
+        "id": "a1_s3_c13",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s3_c13_l1",
+            "original": "Was? Steine soll ich fressen?",
+            "literal": "What? Stones shall I devour?",
+            "tokens": [
+              {
+                "word": "Steine",
+                "lemma": "Stein",
+                "pos": "noun",
+                "meaning": "stones"
+              },
+              {
+                "word": "fressen",
+                "lemma": "fressen",
+                "pos": "verb",
+                "meaning": "devour / eat like a beast"
+              }
+            ],
+            "grammarNote": "Topicalization of 'Steine'. 'fressen' expresses indignation at being treated like an animal."
+          }
+        ]
+      },
+      {
+        "id": "a1_s3_c14",
+        "speaker": "Third Lady",
+        "pieceTitle": "Dialog",
+        "stageDirection": "sie schlägt ihm das Schloß vor",
+        "stageDirectionTranslation": "she fastens the padlock onto his mouth",
+        "lines": [
+          {
+            "id": "a1_s3_c14_l1",
+            "original": "Und statt der süßen Feigen hab' ich die Ehre, dir dieß goldene Schloß vor den Mund zu schlagen.",
+            "literal": "And instead-of the sweet figs have I the honor, to-you this golden lock in-front-of the mouth to strike.",
+            "tokens": [
+              {
+                "word": "die Ehre",
+                "lemma": "Ehre",
+                "pos": "noun",
+                "meaning": "the honor"
+              },
+              {
+                "word": "dieß",
+                "lemma": "dies",
+                "pos": "pronoun",
+                "meaning": "this",
+                "notes": "Archaic spelling."
+              },
+              {
+                "word": "goldene",
+                "lemma": "golden",
+                "pos": "adjective",
+                "meaning": "golden"
+              },
+              {
+                "word": "Schloß",
+                "lemma": "Schloss",
+                "pos": "noun",
+                "meaning": "padlock / lock"
+              },
+              {
+                "word": "vor den Mund schlagen",
+                "lemma": "schlagen",
+                "pos": "idiom",
+                "meaning": "to padlock / fasten a lock onto the mouth"
+              }
+            ],
+            "grammarNote": "Archaic spelling 'dieß'. Idiom 'ein Schloß vor etwas schlagen' (to padlock / lock shut)."
+          }
+        ]
+      },
+      {
+        "id": "a1_s3_c15",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "stageDirection": "hat seinen Scherz durch Geberden",
+        "stageDirectionTranslation": "makes his jokes through gestures",
+        "lines": []
+      },
+      {
+        "id": "a1_s3_c16",
+        "speaker": "First Lady",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s3_c16_l1",
+            "original": "Du willst vermuthlich wissen, warum die Fürstinn dich heute so wunderbar bestraft?",
+            "literal": "You want presumably to-know, why the Princess you today so strangely punishes?",
+            "tokens": [
+              {
+                "word": "wissen",
+                "lemma": "wissen",
+                "pos": "verb",
+                "meaning": "to know"
+              },
+              {
+                "word": "wunderbar",
+                "lemma": "wunderbar",
+                "pos": "adverb",
+                "meaning": "strangely / marvelously",
+                "notes": "18th-century usage: remarkably, extraordinarily."
+              },
+              {
+                "word": "bestraft",
+                "lemma": "bestrafen",
+                "pos": "verb",
+                "meaning": "punishes"
+              }
+            ],
+            "grammarNote": "'wunderbar' here bears its older meaning of 'strangely / extraordinarily'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s3_c17",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "stageDirection": "bejaht es",
+        "stageDirectionTranslation": "nods in assent",
+        "lines": []
+      },
+      {
+        "id": "a1_s3_c18",
+        "speaker": "Second Lady",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s3_c18_l1",
+            "original": "Damit du künftig nie mehr Fremde belügst.",
+            "literal": "So-that you in-future never more strangers lie-to.",
+            "tokens": [
+              {
+                "word": "Damit",
+                "lemma": "damit",
+                "pos": "conjunction",
+                "meaning": "so that / in order that"
+              },
+              {
+                "word": "künftig",
+                "lemma": "künftig",
+                "pos": "adverb",
+                "meaning": "in future / henceforth"
+              },
+              {
+                "word": "Fremde",
+                "lemma": "Fremde",
+                "pos": "noun",
+                "meaning": "strangers"
+              },
+              {
+                "word": "belügst",
+                "lemma": "belügen",
+                "pos": "verb",
+                "meaning": "lie to"
+              }
+            ],
+            "grammarNote": "Adverbial purpose clause introduced by 'Damit' acting as an elliptical imperative."
+          }
+        ]
+      },
+      {
+        "id": "a1_s3_c19",
+        "speaker": "Third Lady",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s3_c19_l1",
+            "original": "Und daß du nie dich der Heldenthaten rühmst, die andre vollzogen. –",
+            "literal": "And that you never yourself of heroic-deeds boast, which others accomplished. –",
+            "tokens": [
+              {
+                "word": "Heldenthaten",
+                "lemma": "Heldentat",
+                "pos": "noun",
+                "meaning": "heroic deeds / heroic exploits",
+                "notes": "Archaic spelling with 'th'."
+              },
+              {
+                "word": "rühmst",
+                "lemma": "rühmen",
+                "pos": "verb",
+                "meaning": "boast of (with genitive)"
+              },
+              {
+                "word": "andre",
+                "lemma": "anderer",
+                "pos": "pronoun",
+                "meaning": "others"
+              },
+              {
+                "word": "vollzogen",
+                "lemma": "vollziehen",
+                "pos": "verb",
+                "meaning": "performed / accomplished"
+              }
+            ],
+            "grammarNote": "Reflexive 'sich rühmen' governing genitive 'der Heldenthaten' (archaic spelling with 'th')."
+          }
+        ]
+      },
+      {
+        "id": "a1_s3_c20",
+        "speaker": "First Lady",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s3_c20_l1",
+            "original": "Sag' an! Hast du diese Schlange bekämpft?",
+            "literal": "Say on! Have you this serpent fought?",
+            "tokens": [
+              {
+                "word": "Sag' an",
+                "lemma": "ansagen",
+                "pos": "verb",
+                "meaning": "speak up / declare (imperative)"
+              },
+              {
+                "word": "bekämpft",
+                "lemma": "bekämpfen",
+                "pos": "verb",
+                "meaning": "fought"
+              }
+            ],
+            "grammarNote": "Separable imperative 'Sag' an'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s3_c21",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "stageDirection": "deutet nein",
+        "stageDirectionTranslation": "gestures no",
+        "lines": []
+      },
+      {
+        "id": "a1_s3_c22",
+        "speaker": "Second Lady",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s3_c22_l1",
+            "original": "Wer denn also?",
+            "literal": "Who then so?",
+            "tokens": [
+              {
+                "word": "Wer",
+                "lemma": "wer",
+                "pos": "pronoun",
+                "meaning": "who"
+              },
+              {
+                "word": "denn",
+                "lemma": "denn",
+                "pos": "particle",
+                "meaning": "then"
+              },
+              {
+                "word": "also",
+                "lemma": "also",
+                "pos": "adverb",
+                "meaning": "so / then"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s3_c23",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "stageDirection": "deutet, er wisse es nicht",
+        "stageDirectionTranslation": "gestures that he does not know",
+        "lines": []
+      },
+      {
+        "id": "a1_s3_c24",
+        "speaker": "Third Lady",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s3_c24_l1",
+            "original": "Wir waren's, Jüngling, die dich befreyten. – Zittre nicht! dich erwartet Freude und Entzücken. –",
+            "literal": "We were it, youth, who you liberated. – Tremble not! You awaits joy and delight. –",
+            "tokens": [
+              {
+                "word": "Jüngling",
+                "lemma": "Jüngling",
+                "pos": "noun",
+                "meaning": "youth / young man"
+              },
+              {
+                "word": "befreyten",
+                "lemma": "befreien",
+                "pos": "verb",
+                "meaning": "liberated / freed",
+                "notes": "Archaic spelling with 'y'."
+              },
+              {
+                "word": "Zittre",
+                "lemma": "zittern",
+                "pos": "verb",
+                "meaning": "tremble (imperative)"
+              },
+              {
+                "word": "erwartet",
+                "lemma": "erwarten",
+                "pos": "verb",
+                "meaning": "awaits"
+              },
+              {
+                "word": "Freude",
+                "lemma": "Freude",
+                "pos": "noun",
+                "meaning": "joy"
+              },
+              {
+                "word": "Entzücken",
+                "lemma": "Entzücken",
+                "pos": "noun",
+                "meaning": "delight / rapture"
+              }
+            ],
+            "grammarNote": "Inversion in 'dich erwartet Freude und Entzücken'. Archaic spelling 'befreyten'."
+          },
+          {
+            "id": "a1_s3_c24_l2",
+            "original": "Hier, dies Gemälde schickt dir die große Fürstinn; es ist das Bildniß ihrer Tochter –",
+            "literal": "Here, this painting sends to-you the great Princess; it is the portrait of-her [the Princess's] daughter –",
+            "tokens": [
+              {
+                "word": "Gemälde",
+                "lemma": "Gemälde",
+                "pos": "noun",
+                "meaning": "painting / portrait"
+              },
+              {
+                "word": "schickt",
+                "lemma": "schicken",
+                "pos": "verb",
+                "meaning": "sends"
+              },
+              {
+                "word": "Bildniß",
+                "lemma": "Bildnis",
+                "pos": "noun",
+                "meaning": "portrait / likeness",
+                "notes": "Historical spelling with 'ß'."
+              },
+              {
+                "word": "Tochter",
+                "lemma": "Tochter",
+                "pos": "noun",
+                "meaning": "daughter"
+              }
+            ],
+            "grammarNote": "Topicalized direct object 'dies Gemälde'. Antecedent 'ihrer' = 'her [the Princess's]'."
+          },
+          {
+            "id": "a1_s3_c24_l3",
+            "original": "findest du, sagte sie, daß diese Züge dir nicht gleichgültig sind, dann ist Glück, Ehr' und Ruhm dein Loos. – Auf Wiedersehen.",
+            "literal": "find you, said she [the Princess], that these features to-you not indifferent are, then is fortune, honor, and fame your lot. – Until we meet again.",
+            "tokens": [
+              {
+                "word": "Züge",
+                "lemma": "Zug",
+                "pos": "noun",
+                "meaning": "features / facial lines"
+              },
+              {
+                "word": "gleichgültig",
+                "lemma": "gleichgültig",
+                "pos": "adjective",
+                "meaning": "indifferent"
+              },
+              {
+                "word": "Glück",
+                "lemma": "Glück",
+                "pos": "noun",
+                "meaning": "fortune / happiness"
+              },
+              {
+                "word": "Ehr'",
+                "lemma": "Ehre",
+                "pos": "noun",
+                "meaning": "honor"
+              },
+              {
+                "word": "Ruhm",
+                "lemma": "Ruhm",
+                "pos": "noun",
+                "meaning": "glory / fame"
+              },
+              {
+                "word": "Loos",
+                "lemma": "Los",
+                "pos": "noun",
+                "meaning": "lot / destiny",
+                "notes": "Historical spelling 'Loos'."
+              },
+              {
+                "word": "Auf Wiedersehen",
+                "lemma": "auf Wiedersehen",
+                "pos": "idiom",
+                "meaning": "farewell / until we meet again"
+              }
+            ],
+            "grammarNote": "Conditional clause with inverted word order ('findest du'). Archaic spelling 'Loos'. Antecedent 'sie' = 'she [the Princess]'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s3_c25",
+        "speaker": "Third Lady",
+        "pieceTitle": "Dialog",
+        "stageDirection": "geht ab",
+        "stageDirectionTranslation": "departs",
+        "lines": []
+      },
+      {
+        "id": "a1_s3_c26",
+        "speaker": "Second Lady",
+        "pieceTitle": "Dialog",
+        "stageDirection": "geht ab",
+        "stageDirectionTranslation": "departs",
+        "lines": [
+          {
+            "id": "a1_s3_c26_l1",
+            "original": "Adieu, Monsieur Papageno!",
+            "literal": "Adieu, Monsieur Papageno!",
+            "tokens": [
+              {
+                "word": "Adieu",
+                "lemma": "adieu",
+                "pos": "interjection",
+                "meaning": "farewell / adieu"
+              },
+              {
+                "word": "Monsieur",
+                "lemma": "Monsieur",
+                "pos": "noun",
+                "meaning": "Mr. / Monsieur"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s3_c27",
+        "speaker": "First Lady",
+        "pieceTitle": "Dialog",
+        "stageDirection": "geht lachend ab",
+        "stageDirectionTranslation": "departs laughing",
+        "lines": [
+          {
+            "id": "a1_s3_c27_l1",
+            "original": "Fein nicht zu hastig getrunken!",
+            "literal": "Nicely not too hastily drunk!",
+            "tokens": [
+              {
+                "word": "Fein",
+                "lemma": "fein",
+                "pos": "particle",
+                "meaning": "nicely / take care to",
+                "notes": "Colloquial particle urging care."
+              },
+              {
+                "word": "hastig",
+                "lemma": "hastig",
+                "pos": "adverb",
+                "meaning": "hastily / fast"
+              },
+              {
+                "word": "getrunken",
+                "lemma": "trinken",
+                "pos": "verb",
+                "meaning": "drunk"
+              }
+            ],
+            "grammarNote": "Elliptical imperative formed with the past participle 'getrunken' and particle 'fein'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s3_c28",
+        "speaker": "Papageno",
+        "pieceTitle": "Dialog",
+        "stageDirection": "hat immer sein stummes Spiel gehabt",
+        "stageDirectionTranslation": "has continuously maintained his pantomime play",
+        "lines": []
+      },
+      {
+        "id": "a1_s3_c29",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "stageDirection": "ist gleich bey Empfang des Bildnisses aufmerksam geworden; seine Liebe nimmt zu, ob er gleich für alle diese Reden taub schien",
+        "stageDirectionTranslation": "has immediately become attentive upon receiving the portrait; his love increases, although he seemed deaf to all these speeches",
+        "lines": []
+      }
+    ]
+  },
+  {
+    "section": "a1_s4_pre",
+    "act": 1,
+    "scene": 4,
+    "position": "pre",
+    "cues": [
+      {
+        "id": "a1_s4_c1",
+        "speaker": "Three Ladies",
+        "pieceTitle": "Dialog",
+        "stageDirection": "Die drey Damen treten auf",
+        "stageDirectionTranslation": "The Three Ladies enter",
+        "lines": []
+      },
+      {
+        "id": "a1_s4_c2",
+        "speaker": "First Lady",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s4_c2_l1",
+            "original": "Rüste dich mit Muth und Standhaftigkeit, schöner Jüngling! – Die Fürstinn –",
+            "literal": "Arm yourself with courage and steadfastness, handsome youth! – The Princess –",
+            "tokens": [
+              {
+                "word": "Rüste dich",
+                "lemma": "rüsten",
+                "pos": "verb",
+                "meaning": "arm yourself / prepare"
+              },
+              {
+                "word": "Muth",
+                "lemma": "Mut",
+                "pos": "noun",
+                "meaning": "courage",
+                "notes": "Archaic spelling with 'th'."
+              },
+              {
+                "word": "Standhaftigkeit",
+                "lemma": "Standhaftigkeit",
+                "pos": "noun",
+                "meaning": "steadfastness / fortitude"
+              },
+              {
+                "word": "schöner",
+                "lemma": "schön",
+                "pos": "adjective",
+                "meaning": "handsome / fair"
+              },
+              {
+                "word": "Jüngling",
+                "lemma": "Jüngling",
+                "pos": "noun",
+                "meaning": "youth"
+              },
+              {
+                "word": "Fürstinn",
+                "lemma": "Fürstin",
+                "pos": "noun",
+                "meaning": "Princess / Sovereign",
+                "notes": "Archaic spelling with double n."
+              }
+            ],
+            "grammarNote": "Reflexive imperative 'Rüste dich'. Historical spelling 'Muth' and 'Fürstinn'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s4_c3",
+        "speaker": "Second Lady",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s4_c3_l1",
+            "original": "Hat mir aufgetragen, dir zu sagen –",
+            "literal": "Has to-me instructed, to-you to say –",
+            "tokens": [
+              {
+                "word": "aufgetragen",
+                "lemma": "auftragen",
+                "pos": "verb",
+                "meaning": "instructed / commissioned"
+              },
+              {
+                "word": "zu sagen",
+                "lemma": "sagen",
+                "pos": "verb",
+                "meaning": "to say"
+              }
+            ],
+            "grammarNote": "Ellipsis of subject 'Sie' [the Queen]. Separable verb 'auftragen' with dative."
+          }
+        ]
+      },
+      {
+        "id": "a1_s4_c4",
+        "speaker": "Third Lady",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s4_c4_l1",
+            "original": "Daß der Weg zu deinem künftigen Glücke nunmehr gebahnt sey.",
+            "literal": "That the path to your future happiness now paved be.",
+            "tokens": [
+              {
+                "word": "Weg",
+                "lemma": "Weg",
+                "pos": "noun",
+                "meaning": "path / way"
+              },
+              {
+                "word": "künftigen",
+                "lemma": "künftig",
+                "pos": "adjective",
+                "meaning": "future"
+              },
+              {
+                "word": "Glücke",
+                "lemma": "Glück",
+                "pos": "noun",
+                "meaning": "happiness / fortune"
+              },
+              {
+                "word": "nunmehr",
+                "lemma": "nunmehr",
+                "pos": "adverb",
+                "meaning": "now / henceforth"
+              },
+              {
+                "word": "gebahnt",
+                "lemma": "bahnen",
+                "pos": "verb",
+                "meaning": "paved / cleared"
+              },
+              {
+                "word": "sey",
+                "lemma": "sein",
+                "pos": "verb",
+                "meaning": "be (subjunctive I)",
+                "notes": "Archaic spelling 'sey' for modern 'sei'."
+              }
+            ],
+            "grammarNote": "Subjunctive I 'sey' in indirect command/promise. Idiom 'den Weg bahnen'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s4_c5",
+        "speaker": "First Lady",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s4_c5_l1",
+            "original": "Sie hat jedes deiner Worte gehört, so du sprachst; – sie hat –",
+            "literal": "She [the Queen] has each of-your words heard, which you spoke; – she [the Queen] has –",
+            "tokens": [
+              {
+                "word": "Sie",
+                "lemma": "sie",
+                "pos": "pronoun",
+                "meaning": "She [the Queen]"
+              },
+              {
+                "word": "jedes",
+                "lemma": "jeder",
+                "pos": "pronoun",
+                "meaning": "each / every"
+              },
+              {
+                "word": "Worte",
+                "lemma": "Wort",
+                "pos": "noun",
+                "meaning": "words (genitive plural)"
+              },
+              {
+                "word": "gehört",
+                "lemma": "hören",
+                "pos": "verb",
+                "meaning": "heard"
+              },
+              {
+                "word": "so",
+                "lemma": "so",
+                "pos": "pronoun",
+                "meaning": "which / that",
+                "notes": "Archaic relative pronoun."
+              },
+              {
+                "word": "sprachst",
+                "lemma": "sprechen",
+                "pos": "verb",
+                "meaning": "spoke"
+              }
+            ],
+            "grammarNote": "Archaic relative particle 'so' functioning as accusative relative pronoun. Antecedent 'Sie' = 'She [the Queen]'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s4_c6",
+        "speaker": "Second Lady",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s4_c6_l1",
+            "original": "Jeden Zug in deinem Gesichte gelesen. – Ja noch mehr, ihr mütterliches Herz –",
+            "literal": "Every feature in your face read. – Yes even more, her [the Queen's] maternal heart –",
+            "tokens": [
+              {
+                "word": "Zug",
+                "lemma": "Zug",
+                "pos": "noun",
+                "meaning": "feature / expression"
+              },
+              {
+                "word": "Gesichte",
+                "lemma": "Gesicht",
+                "pos": "noun",
+                "meaning": "face"
+              },
+              {
+                "word": "gelesen",
+                "lemma": "lesen",
+                "pos": "verb",
+                "meaning": "read"
+              },
+              {
+                "word": "mütterliches",
+                "lemma": "mütterlich",
+                "pos": "adjective",
+                "meaning": "maternal"
+              },
+              {
+                "word": "Herz",
+                "lemma": "Herz",
+                "pos": "noun",
+                "meaning": "heart"
+              }
+            ],
+            "grammarNote": "Archaic dative form 'Gesichte'. Antecedent 'ihr' = 'her [the Queen's]'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s4_c7",
+        "speaker": "Third Lady",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s4_c7_l1",
+            "original": "Hat beschlossen, dich ganz glücklich zu machen. –",
+            "literal": "[She] has decided, you entirely happy to make. –",
+            "tokens": [
+              {
+                "word": "beschlossen",
+                "lemma": "beschließen",
+                "pos": "verb",
+                "meaning": "decided / resolved"
+              },
+              {
+                "word": "glücklich",
+                "lemma": "glücklich",
+                "pos": "adjective",
+                "meaning": "happy"
+              },
+              {
+                "word": "zu machen",
+                "lemma": "machen",
+                "pos": "verb",
+                "meaning": "to make"
+              }
+            ]
+          },
+          {
+            "id": "a1_s4_c7_l2",
+            "original": "Hat dieser Jüngling, sprach sie, auch so viel Muth und Tapferkeit, als er zärtlich ist, o so ist meine Tochter ganz gewiß gerettet.",
+            "literal": "Has this youth, said she [the Queen], also as much courage and bravery, as he tender is, oh then is my daughter most certainly saved.",
+            "tokens": [
+              {
+                "word": "Tapferkeit",
+                "lemma": "Tapferkeit",
+                "pos": "noun",
+                "meaning": "bravery / valor"
+              },
+              {
+                "word": "zärtlich",
+                "lemma": "zärtlich",
+                "pos": "adjective",
+                "meaning": "tender / affectionate"
+              },
+              {
+                "word": "Tochter",
+                "lemma": "Tochter",
+                "pos": "noun",
+                "meaning": "daughter"
+              },
+              {
+                "word": "ganz gewiß",
+                "lemma": "gewiss",
+                "pos": "adverb",
+                "meaning": "most certainly / surely"
+              },
+              {
+                "word": "gerettet",
+                "lemma": "retten",
+                "pos": "verb",
+                "meaning": "saved / rescued"
+              }
+            ],
+            "grammarNote": "V1 conditional protasis ('Hat dieser Jüngling...'). Comparative correlative 'so viel ... als'. Antecedent 'sie' = 'she [the Queen]'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s4_c8",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s4_c8_l1",
+            "original": "Gerettet? O ewige Dunkelheit! was hör' ich? – Das Original? –",
+            "literal": "Saved? O eternal darkness! What hear I? – The original [Pamina herself]? –",
+            "tokens": [
+              {
+                "word": "ewige",
+                "lemma": "ewig",
+                "pos": "adjective",
+                "meaning": "eternal"
+              },
+              {
+                "word": "Dunkelheit",
+                "lemma": "Dunkelheit",
+                "pos": "noun",
+                "meaning": "darkness"
+              },
+              {
+                "word": "Original",
+                "lemma": "Original",
+                "pos": "noun",
+                "meaning": "original [the living Pamina]"
+              }
+            ],
+            "grammarNote": "'Das Original' refers back to the portrait's living subject (Pamina)."
+          }
+        ]
+      },
+      {
+        "id": "a1_s4_c9",
+        "speaker": "First Lady",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s4_c9_l1",
+            "original": "Hat ein mächtiger, böser Dämon ihr entrissen.",
+            "literal": "Has a mighty, evil demon from-her [the Queen] snatched-away.",
+            "tokens": [
+              {
+                "word": "mächtiger",
+                "lemma": "mächtig",
+                "pos": "adjective",
+                "meaning": "mighty / powerful"
+              },
+              {
+                "word": "böser",
+                "lemma": "böse",
+                "pos": "adjective",
+                "meaning": "evil / wicked"
+              },
+              {
+                "word": "Dämon",
+                "lemma": "Dämon",
+                "pos": "noun",
+                "meaning": "demon / fiend"
+              },
+              {
+                "word": "ihr",
+                "lemma": "sie",
+                "pos": "pronoun",
+                "meaning": "from her [the Queen]"
+              },
+              {
+                "word": "entrissen",
+                "lemma": "entreißen",
+                "pos": "verb",
+                "meaning": "snatched away / torn from"
+              }
+            ],
+            "grammarNote": "Dative of separation 'ihr entrissen' (torn away from her [the Queen])."
+          }
+        ]
+      },
+      {
+        "id": "a1_s4_c10",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s4_c10_l1",
+            "original": "Entrissen? – O ihr Götter! – sagt, wie konnte das geschehen?",
+            "literal": "Snatched-away? – O you gods! – Say, how could that happen?",
+            "tokens": [
+              {
+                "word": "Götter",
+                "lemma": "Gott",
+                "pos": "noun",
+                "meaning": "gods"
+              },
+              {
+                "word": "geschehen",
+                "lemma": "geschehen",
+                "pos": "verb",
+                "meaning": "happen / come to pass"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s4_c11",
+        "speaker": "First Lady",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s4_c11_l1",
+            "original": "Sie saß an einem schönen Mayentage ganz allein in dem alles belebenden Zipressenwäldchen, welches immer ihr Lieblingsaufenthalt war. –",
+            "literal": "She [Pamina] sat on a lovely May-day all alone in the all-animating cypress-grove, which always her [Pamina's] favorite-haunt was. –",
+            "tokens": [
+              {
+                "word": "Sie",
+                "lemma": "sie",
+                "pos": "pronoun",
+                "meaning": "She [Pamina]"
+              },
+              {
+                "word": "Mayentage",
+                "lemma": "Maientag",
+                "pos": "noun",
+                "meaning": "May day / spring day",
+                "notes": "Historical spelling with 'y'."
+              },
+              {
+                "word": "allein",
+                "lemma": "allein",
+                "pos": "adjective",
+                "meaning": "alone"
+              },
+              {
+                "word": "alles belebenden",
+                "lemma": "belebend",
+                "pos": "adjective",
+                "meaning": "all-animating / life-giving"
+              },
+              {
+                "word": "Zipressenwäldchen",
+                "lemma": "Zypressenwäldchen",
+                "pos": "noun",
+                "meaning": "cypress grove",
+                "notes": "Historical spelling with 'i'."
+              },
+              {
+                "word": "Lieblingsaufenthalt",
+                "lemma": "Lieblingsaufenthalt",
+                "pos": "noun",
+                "meaning": "favorite retreat / favorite haunt"
+              }
+            ],
+            "grammarNote": "Historical spellings 'Mayentage' and 'Zipressenwäldchen'. Antecedent 'Sie' and 'ihr' = 'she/her [Pamina]'."
+          },
+          {
+            "id": "a1_s4_c11_l2",
+            "original": "Der Bösewicht schlich unbemerkt hinein –",
+            "literal": "The villain crept unnoticed inside –",
+            "tokens": [
+              {
+                "word": "Bösewicht",
+                "lemma": "Bösewicht",
+                "pos": "noun",
+                "meaning": "villain / rogue"
+              },
+              {
+                "word": "schlich",
+                "lemma": "schleichen",
+                "pos": "verb",
+                "meaning": "crept / slunk"
+              },
+              {
+                "word": "unbemerkt",
+                "lemma": "unbemerkt",
+                "pos": "adverb",
+                "meaning": "unnoticed"
+              },
+              {
+                "word": "hinein",
+                "lemma": "hinein",
+                "pos": "adverb",
+                "meaning": "inside / in"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s4_c12",
+        "speaker": "Second Lady",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s4_c12_l1",
+            "original": "Belauschte sie, und –",
+            "literal": "Spied-upon her [Pamina], and –",
+            "tokens": [
+              {
+                "word": "Belauschte",
+                "lemma": "belauschen",
+                "pos": "verb",
+                "meaning": "eavesdropped on / spied upon"
+              },
+              {
+                "word": "sie",
+                "lemma": "sie",
+                "pos": "pronoun",
+                "meaning": "her [Pamina]"
+              }
+            ],
+            "grammarNote": "Antecedent 'sie' = 'her [Pamina]'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s4_c13",
+        "speaker": "Third Lady",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s4_c13_l1",
+            "original": "Er hat nebst seinem bösen Herzen auch noch die Macht, sich in jede erdenkliche Gestalt zu verwandeln; auf solche Weise hat er auch Pamina –",
+            "literal": "He [the villain] has besides his evil heart also still the power, himself into every conceivable shape to transform; in such manner has he [the villain] also Pamina –",
+            "tokens": [
+              {
+                "word": "nebst",
+                "lemma": "nebst",
+                "pos": "preposition",
+                "meaning": "besides / along with"
+              },
+              {
+                "word": "Macht",
+                "lemma": "Macht",
+                "pos": "noun",
+                "meaning": "power"
+              },
+              {
+                "word": "erdenkliche",
+                "lemma": "erdenklich",
+                "pos": "adjective",
+                "meaning": "conceivable / imaginable"
+              },
+              {
+                "word": "Gestalt",
+                "lemma": "Gestalt",
+                "pos": "noun",
+                "meaning": "shape / form"
+              },
+              {
+                "word": "zu verwandeln",
+                "lemma": "verwandeln",
+                "pos": "verb",
+                "meaning": "to transform / change"
+              },
+              {
+                "word": "Pamina",
+                "lemma": "Pamina",
+                "pos": "noun",
+                "meaning": "Pamina"
+              }
+            ],
+            "grammarNote": "Dative after preposition 'nebst'. Antecedent 'Er' = 'He [the villain / Sarastro]'. Sentence broken off before verb."
+          }
+        ]
+      },
+      {
+        "id": "a1_s4_c14",
+        "speaker": "First Lady",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s4_c14_l1",
+            "original": "Dieß ist der Name der königlichen Tochter, so ihr anbetet.",
+            "literal": "This is the name of-the royal daughter, whom you adore.",
+            "tokens": [
+              {
+                "word": "Dieß",
+                "lemma": "dies",
+                "pos": "pronoun",
+                "meaning": "this",
+                "notes": "Archaic spelling."
+              },
+              {
+                "word": "Name",
+                "lemma": "Name",
+                "pos": "noun",
+                "meaning": "name"
+              },
+              {
+                "word": "königlichen Tochter",
+                "lemma": "Tochter",
+                "pos": "noun",
+                "meaning": "royal daughter"
+              },
+              {
+                "word": "anbetet",
+                "lemma": "anbeten",
+                "pos": "verb",
+                "meaning": "adore / worship"
+              }
+            ],
+            "grammarNote": "Archaic spelling 'Dieß'. Relative particle 'so' for 'die' ('so ihr anbetet' = whom you adore)."
+          }
+        ]
+      },
+      {
+        "id": "a1_s4_c15",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s4_c15_l1",
+            "original": "O Pamina! du mir entrissen – du in der Gewalt eines üppigen Bösewichts! –",
+            "literal": "O Pamina! You from-me torn-away – you in the power of-a wanton villain! –",
+            "tokens": [
+              {
+                "word": "Pamina",
+                "lemma": "Pamina",
+                "pos": "noun",
+                "meaning": "Pamina"
+              },
+              {
+                "word": "entrissen",
+                "lemma": "entreißen",
+                "pos": "verb",
+                "meaning": "torn away / snatched"
+              },
+              {
+                "word": "Gewalt",
+                "lemma": "Gewalt",
+                "pos": "noun",
+                "meaning": "power / clutches"
+              },
+              {
+                "word": "üppigen",
+                "lemma": "üppig",
+                "pos": "adjective",
+                "meaning": "wanton / lascivious",
+                "notes": "18th-century meaning: debauched, lustful."
+              },
+              {
+                "word": "Bösewichts",
+                "lemma": "Bösewicht",
+                "pos": "noun",
+                "meaning": "villain (genitive)"
+              }
+            ],
+            "grammarNote": "'üppig' here bears the archaic meaning of 'lascivious / debauched / insolent'."
+          },
+          {
+            "id": "a1_s4_c15_l2",
+            "original": "bist vieleicht in diesem Augenblicke – schrecklicher Gedanke!",
+            "literal": "[you] are perhaps in this moment – terrible thought!",
+            "tokens": [
+              {
+                "word": "vieleicht",
+                "lemma": "vielleicht",
+                "pos": "adverb",
+                "meaning": "perhaps",
+                "notes": "Historical spelling 'vieleicht'."
+              },
+              {
+                "word": "Augenblicke",
+                "lemma": "Augenblick",
+                "pos": "noun",
+                "meaning": "moment"
+              },
+              {
+                "word": "schrecklicher",
+                "lemma": "schrecklich",
+                "pos": "adjective",
+                "meaning": "terrible / dreadful"
+              },
+              {
+                "word": "Gedanke",
+                "lemma": "Gedanke",
+                "pos": "noun",
+                "meaning": "thought"
+              }
+            ],
+            "grammarNote": "Aposiopesis: abrupt pause leaving the horrifying implication unspoken."
+          }
+        ]
+      },
+      {
+        "id": "a1_s4_c16",
+        "speaker": "Three Ladies",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s4_c16_l1",
+            "original": "Schweig, Jüngling! –",
+            "literal": "Be-silent, youth! –",
+            "tokens": [
+              {
+                "word": "Schweig",
+                "lemma": "schweigen",
+                "pos": "verb",
+                "meaning": "be silent / hush (imperative)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s4_c17",
+        "speaker": "First Lady",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s4_c17_l1",
+            "original": "Lästere der holden Schönheit Tugend nicht! – Trotz aller Pein, so die Unschuld duldet, ist sie sich immer gleich. –",
+            "literal": "Blaspheme of-the lovely beauty's virtue not! – Despite all pain, which the innocence endures, is she [Pamina] to-herself always true. –",
+            "tokens": [
+              {
+                "word": "Lästere",
+                "lemma": "lästern",
+                "pos": "verb",
+                "meaning": "blaspheme / slander (imperative)"
+              },
+              {
+                "word": "holden",
+                "lemma": "hold",
+                "pos": "adjective",
+                "meaning": "lovely / gracious"
+              },
+              {
+                "word": "Tugend",
+                "lemma": "Tugend",
+                "pos": "noun",
+                "meaning": "virtue"
+              },
+              {
+                "word": "Trotz",
+                "lemma": "trotz",
+                "pos": "preposition",
+                "meaning": "despite"
+              },
+              {
+                "word": "Pein",
+                "lemma": "Pein",
+                "pos": "noun",
+                "meaning": "torment / pain"
+              },
+              {
+                "word": "Unschuld",
+                "lemma": "Unschuld",
+                "pos": "noun",
+                "meaning": "innocence"
+              },
+              {
+                "word": "duldet",
+                "lemma": "dulden",
+                "pos": "verb",
+                "meaning": "endures / suffers"
+              },
+              {
+                "word": "sich gleich",
+                "lemma": "gleich",
+                "pos": "idiom",
+                "meaning": "true to oneself / steadfast"
+              }
+            ],
+            "grammarNote": "Pre-nominal genitive 'der holden Schönheit Tugend'. Relative 'so' = 'die'. Idiom 'sich gleich sein' (to remain steadfast). Antecedent 'sie' = 'she [Pamina]'."
+          },
+          {
+            "id": "a1_s4_c17_l2",
+            "original": "Weder Zwang, noch Schmeicheley ist vermögend, sie zum Wege des Lasters zu verführen. – –",
+            "literal": "Neither compulsion, nor flattery is capable, her [Pamina] to the path of-vice to lead-astray. – –",
+            "tokens": [
+              {
+                "word": "Weder ... noch",
+                "lemma": "weder ... noch",
+                "pos": "conjunction",
+                "meaning": "neither ... nor"
+              },
+              {
+                "word": "Zwang",
+                "lemma": "Zwang",
+                "pos": "noun",
+                "meaning": "coercion / force"
+              },
+              {
+                "word": "Schmeicheley",
+                "lemma": "Schmeichelei",
+                "pos": "noun",
+                "meaning": "flattery",
+                "notes": "Archaic spelling with 'ey'."
+              },
+              {
+                "word": "vermögend",
+                "lemma": "vermögend",
+                "pos": "adjective",
+                "meaning": "capable / able"
+              },
+              {
+                "word": "sie",
+                "lemma": "sie",
+                "pos": "pronoun",
+                "meaning": "her [Pamina]"
+              },
+              {
+                "word": "Wege des Lasters",
+                "lemma": "Laster",
+                "pos": "noun",
+                "meaning": "path of vice"
+              },
+              {
+                "word": "verführen",
+                "lemma": "verführen",
+                "pos": "verb",
+                "meaning": "seduce / corrupt"
+              }
+            ],
+            "grammarNote": "Correlative conjunction 'Weder... noch'. Historical spelling 'Schmeicheley'. Antecedent 'sie' = 'her [Pamina]'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s4_c18",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s4_c18_l1",
+            "original": "O sagt, Mädchen! sagt, wo ist des Tyrannen Aufenthalt?",
+            "literal": "O say, maidens! Say, where is the tyrant's abode?",
+            "tokens": [
+              {
+                "word": "Mädchen",
+                "lemma": "Mädchen",
+                "pos": "noun",
+                "meaning": "maidens"
+              },
+              {
+                "word": "Tyrannen",
+                "lemma": "Tyrann",
+                "pos": "noun",
+                "meaning": "tyrant (weak masculine genitive)"
+              },
+              {
+                "word": "Aufenthalt",
+                "lemma": "Aufenthalt",
+                "pos": "noun",
+                "meaning": "abode / dwelling place"
+              }
+            ],
+            "grammarNote": "Pre-nominal genitive 'des Tyrannen Aufenthalt'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s4_c19",
+        "speaker": "Second Lady",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s4_c19_l1",
+            "original": "Sehr nahe an unsern Bergen lebt er in einem angenehmen und reitzenden Thale. –",
+            "literal": "Very near to our mountains lives he [the tyrant] in a pleasant and charming valley. –",
+            "tokens": [
+              {
+                "word": "nahe",
+                "lemma": "nah",
+                "pos": "adverb",
+                "meaning": "near / close"
+              },
+              {
+                "word": "angenehmen",
+                "lemma": "angenehm",
+                "pos": "adjective",
+                "meaning": "pleasant"
+              },
+              {
+                "word": "reitzenden",
+                "lemma": "reizend",
+                "pos": "adjective",
+                "meaning": "charming / delightful",
+                "notes": "Archaic spelling."
+              },
+              {
+                "word": "Thale",
+                "lemma": "Tal",
+                "pos": "noun",
+                "meaning": "valley",
+                "notes": "Archaic spelling."
+              }
+            ],
+            "grammarNote": "Archaic spellings 'reitzenden' and 'Thale'. Antecedent 'er' = 'he [the tyrant]'."
+          },
+          {
+            "id": "a1_s4_c19_l2",
+            "original": "Seine Burg ist prachtvoll, und sorgsam bewacht.",
+            "literal": "His [the tyrant's] castle is splendid, and carefully guarded.",
+            "tokens": [
+              {
+                "word": "Burg",
+                "lemma": "Burg",
+                "pos": "noun",
+                "meaning": "castle / fortress"
+              },
+              {
+                "word": "prachtvoll",
+                "lemma": "prachtvoll",
+                "pos": "adjective",
+                "meaning": "splendid / magnificent"
+              },
+              {
+                "word": "sorgsam",
+                "lemma": "sorgsam",
+                "pos": "adverb",
+                "meaning": "carefully / vigilantly"
+              },
+              {
+                "word": "bewacht",
+                "lemma": "bewachen",
+                "pos": "verb",
+                "meaning": "guarded"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s4_c20",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s4_c20_l1",
+            "original": "Kommt, Mädchen! führt mich! – Pamina sey gerettet! –",
+            "literal": "Come, maidens! Lead me! – Pamina be saved! –",
+            "tokens": [
+              {
+                "word": "Kommt",
+                "lemma": "kommen",
+                "pos": "verb",
+                "meaning": "come (imperative)"
+              },
+              {
+                "word": "führt",
+                "lemma": "führen",
+                "pos": "verb",
+                "meaning": "lead (imperative)"
+              },
+              {
+                "word": "sey",
+                "lemma": "sein",
+                "pos": "verb",
+                "meaning": "be (subjunctive I)"
+              }
+            ],
+            "grammarNote": "Subjunctive I of wish/resolution 'Pamina sey gerettet'."
+          },
+          {
+            "id": "a1_s4_c20_l2",
+            "original": "Der Bösewicht falle von meinem Arm; das schwör ich bey meiner Liebe, bey meinem Herzen! –",
+            "literal": "The villain fall by my arm; that swear I by my love, by my heart! –",
+            "tokens": [
+              {
+                "word": "falle",
+                "lemma": "fallen",
+                "pos": "verb",
+                "meaning": "fall (jussive subjunctive)"
+              },
+              {
+                "word": "von meinem Arm",
+                "lemma": "Arm",
+                "pos": "idiom",
+                "meaning": "by my arm / by my hand"
+              },
+              {
+                "word": "schwör",
+                "lemma": "schwören",
+                "pos": "verb",
+                "meaning": "swear"
+              },
+              {
+                "word": "Liebe",
+                "lemma": "Liebe",
+                "pos": "noun",
+                "meaning": "love"
+              }
+            ],
+            "grammarNote": "3rd person jussive subjunctive 'falle' (let the villain fall). Idiom 'von jemandes Arm fallen'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s4_c21",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "stageDirection": "Sogleich wird ein heftig erschütternder Accord mit Musik gehört",
+        "stageDirectionTranslation": "At once a violently shattering chord of music is heard",
+        "lines": [
+          {
+            "id": "a1_s4_c21_l1",
+            "original": "Ihr Götter! was ist das?",
+            "literal": "You gods! What is that?",
+            "tokens": [
+              {
+                "word": "Ihr Götter",
+                "lemma": "Gott",
+                "pos": "idiom",
+                "meaning": "ye gods / good heavens"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s4_c22",
+        "speaker": "Three Ladies",
+        "pieceTitle": "Dialog",
+        "lines": [
+          {
+            "id": "a1_s4_c22_l1",
+            "original": "Fasse dich!",
+            "literal": "Compose yourself!",
+            "tokens": [
+              {
+                "word": "Fasse dich",
+                "lemma": "fassen",
+                "pos": "verb",
+                "meaning": "compose yourself (imperative)"
+              }
+            ],
+            "grammarNote": "Reflexive imperative 'Fasse dich' (pull yourself together)."
+          }
+        ]
+      },
+      {
+        "id": "a1_s4_c23",
+        "speaker": "First Lady",
+        "pieceTitle": "Dialog",
+        "stageDirection": "Donner",
+        "stageDirectionTranslation": "Thunder",
+        "lines": [
+          {
+            "id": "a1_s4_c23_l1",
+            "original": "Es verkündigt die Ankunft unserer Königinn.",
+            "literal": "It announces the arrival of-our Queen.",
+            "tokens": [
+              {
+                "word": "verkündigt",
+                "lemma": "verkündigen",
+                "pos": "verb",
+                "meaning": "announces / proclaims"
+              },
+              {
+                "word": "Ankunft",
+                "lemma": "Ankunft",
+                "pos": "noun",
+                "meaning": "arrival"
+              },
+              {
+                "word": "Königinn",
+                "lemma": "Königin",
+                "pos": "noun",
+                "meaning": "Queen"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1_s4_c24",
+        "speaker": "Three Ladies",
+        "pieceTitle": "Dialog",
+        "stageDirection": "Donner",
+        "stageDirectionTranslation": "Thunder",
+        "lines": [
+          {
+            "id": "a1_s4_c24_l1",
+            "original": "Sie kommt! – – Sie kommt! – Sie kommt! –",
+            "literal": "She [the Queen] comes! – – She [the Queen] comes! – She [the Queen] comes! –",
+            "tokens": [
+              {
+                "word": "Sie",
+                "lemma": "sie",
+                "pos": "pronoun",
+                "meaning": "She [the Queen]"
+              },
+              {
+                "word": "kommt",
+                "lemma": "kommen",
+                "pos": "verb",
+                "meaning": "comes"
+              }
+            ],
+            "grammarNote": "Antecedent 'Sie' = 'She [the Queen]'."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "a1_s5_pre",
+    "act": 1,
+    "scene": 5,
+    "position": "pre",
+    "cues": [
+      {
+        "id": "a1_s5_c1",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "stageDirection": "Das Theater verwandelt sich wieder so, wie es vorher war. Tamino nach einer Pause",
+        "stageDirectionTranslation": "The stage transforms back to how it was before. Tamino after a pause",
+        "lines": [
+          {
+            "id": "a1_s5_c1_l1",
+            "original": "Ists denn auch Wirklichkeit, was ich sah? oder betäubten mich meine Sinnen? –",
+            "literal": "Is it then also reality, what I saw? Or benumbed me my senses? –",
+            "tokens": [
+              {
+                "word": "Ists",
+                "lemma": "sein",
+                "pos": "verb",
+                "meaning": "is it",
+                "notes": "Contraction of ist es without apostrophe."
+              },
+              {
+                "word": "Wirklichkeit",
+                "lemma": "Wirklichkeit",
+                "pos": "noun",
+                "meaning": "reality"
+              },
+              {
+                "word": "sah",
+                "lemma": "sehen",
+                "pos": "verb",
+                "meaning": "saw"
+              },
+              {
+                "word": "betäubten",
+                "lemma": "betäuben",
+                "pos": "verb",
+                "meaning": "dazed / benumbed"
+              },
+              {
+                "word": "Sinnen",
+                "lemma": "Sinn",
+                "pos": "noun",
+                "meaning": "senses",
+                "notes": "Archaic weak plural 'Sinnen' for modern 'Sinne'."
+              }
+            ],
+            "grammarNote": "Archaic spelling 'Ists' without apostrophe. Archaic plural 'Sinnen' for modern 'Sinne'."
+          },
+          {
+            "id": "a1_s5_c1_l2",
+            "original": "O ihr guten Götter täuscht mich nicht! oder ich unterliege eurer Prüfung. –",
+            "literal": "O you good gods deceive me not! Or I succumb to-your trial. –",
+            "tokens": [
+              {
+                "word": "guten Götter",
+                "lemma": "Gott",
+                "pos": "noun",
+                "meaning": "good gods"
+              },
+              {
+                "word": "täuscht",
+                "lemma": "täuschen",
+                "pos": "verb",
+                "meaning": "deceive (imperative plural)"
+              },
+              {
+                "word": "unterliege",
+                "lemma": "unterliegen",
+                "pos": "verb",
+                "meaning": "succumb to / fail"
+              },
+              {
+                "word": "Prüfung",
+                "lemma": "Prüfung",
+                "pos": "noun",
+                "meaning": "trial / ordeal"
+              }
+            ],
+            "grammarNote": "Verb 'unterliegen' governs the dative 'eurer Prüfung'."
+          },
+          {
+            "id": "a1_s5_c1_l3",
+            "original": "Schützet meinen Arm, stählt meinen Muth, und Taminos Herz wird ewigen Dank euch entgegen schlagen.",
+            "literal": "Protect my arm, steel my courage, and Tamino's heart will eternal thanks to-you beat.",
+            "tokens": [
+              {
+                "word": "Schützet",
+                "lemma": "schützen",
+                "pos": "verb",
+                "meaning": "protect (imperative plural)"
+              },
+              {
+                "word": "stählt",
+                "lemma": "stählen",
+                "pos": "verb",
+                "meaning": "steel / strengthen (imperative plural)"
+              },
+              {
+                "word": "Muth",
+                "lemma": "Mut",
+                "pos": "noun",
+                "meaning": "courage",
+                "notes": "Historical spelling 'Muth'."
+              },
+              {
+                "word": "Taminos",
+                "lemma": "Tamino",
+                "pos": "noun",
+                "meaning": "Tamino's"
+              },
+              {
+                "word": "Dank entgegen schlagen",
+                "lemma": "schlagen",
+                "pos": "idiom",
+                "meaning": "to beat with gratitude towards"
+              }
+            ],
+            "grammarNote": "Imperative plurals 'Schützet' and 'stählt'. Archaic spelling 'Muth'. Idiomatic 'Dank entgegen schlagen'."
+          }
+        ]
+      },
+      {
+        "id": "a1_s5_c2",
+        "speaker": "Tamino",
+        "pieceTitle": "Dialog",
+        "stageDirection": "Er will gehen, Papageno tritt ihm in den Weg",
+        "stageDirectionTranslation": "He is about to leave; Papageno steps in his way",
+        "lines": []
+      }
+    ]
+  }
+]

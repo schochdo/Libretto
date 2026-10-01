@@ -1,0 +1,602 @@
+[
+  {
+    "speaker": "Meg Page",
+    "original": "vedremo svampar.",
+    "cue_id": "a1_s2_c57",
+    "line_id": "a1_s2_c57_l16"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Se ordisci una burla,",
+    "cue_id": "a1_s2_c58",
+    "line_id": "a1_s2_c58_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "vo' anch'io la mia parte.",
+    "cue_id": "a1_s2_c58",
+    "line_id": "a1_s2_c58_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Conviene condurla",
+    "cue_id": "a1_s2_c58",
+    "line_id": "a1_s2_c58_l3"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "con senno e con arte.",
+    "cue_id": "a1_s2_c58",
+    "line_id": "a1_s2_c58_l4"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "L'agguato ov'ei sdrucciola",
+    "cue_id": "a1_s2_c58",
+    "line_id": "a1_s2_c58_l5"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "convien ch'ei non scerna.",
+    "cue_id": "a1_s2_c58",
+    "line_id": "a1_s2_c58_l6"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Già prese una lucciola",
+    "cue_id": "a1_s2_c58",
+    "line_id": "a1_s2_c58_l7"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "per una lanterna.",
+    "cue_id": "a1_s2_c58",
+    "line_id": "a1_s2_c58_l8"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Perciò non dubito",
+    "cue_id": "a1_s2_c58",
+    "line_id": "a1_s2_c58_l9"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "che il gioco rïesca.",
+    "cue_id": "a1_s2_c58",
+    "line_id": "a1_s2_c58_l10"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Bisogna offrir l'esca,",
+    "cue_id": "a1_s2_c58",
+    "line_id": "a1_s2_c58_l11"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "poi coglierlo subito.",
+    "cue_id": "a1_s2_c58",
+    "line_id": "a1_s2_c58_l12"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "E se i scillinguagnoli",
+    "cue_id": "a1_s2_c58",
+    "line_id": "a1_s2_c58_l13"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "sapremo adoprar,",
+    "cue_id": "a1_s2_c58",
+    "line_id": "a1_s2_c58_l14"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "vedremo a rigagnoli",
+    "cue_id": "a1_s2_c58",
+    "line_id": "a1_s2_c58_l15"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "quell'orco sudar.",
+    "cue_id": "a1_s2_c58",
+    "line_id": "a1_s2_c58_l16"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Un flutto in tempesta",
+    "cue_id": "a1_s2_c59",
+    "line_id": "a1_s2_c59_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "gittò sulla rena",
+    "cue_id": "a1_s2_c59",
+    "line_id": "a1_s2_c59_l2"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "di Windsor codesta",
+    "cue_id": "a1_s2_c59",
+    "line_id": "a1_s2_c59_l3"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "vorace balena.",
+    "cue_id": "a1_s2_c59",
+    "line_id": "a1_s2_c59_l4"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Ma qui non ha spazio",
+    "cue_id": "a1_s2_c59",
+    "line_id": "a1_s2_c59_l5"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "da farsi più pingue;",
+    "cue_id": "a1_s2_c59",
+    "line_id": "a1_s2_c59_l6"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "ne fecer già strazio",
+    "cue_id": "a1_s2_c59",
+    "line_id": "a1_s2_c59_l7"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "le vostre tre lingue.",
+    "cue_id": "a1_s2_c59",
+    "line_id": "a1_s2_c59_l8"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Tre lingue più allegre",
+    "cue_id": "a1_s2_c59",
+    "line_id": "a1_s2_c59_l9"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "d'un trillo di nacchere,",
+    "cue_id": "a1_s2_c59",
+    "line_id": "a1_s2_c59_l10"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "che spargon più chiacchiere",
+    "cue_id": "a1_s2_c59",
+    "line_id": "a1_s2_c59_l11"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "di sei cingallegre.",
+    "cue_id": "a1_s2_c59",
+    "line_id": "a1_s2_c59_l12"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Tal sempre s'esilari",
+    "cue_id": "a1_s2_c59",
+    "line_id": "a1_s2_c59_l13"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "quel bel cinguettar.",
+    "cue_id": "a1_s2_c59",
+    "line_id": "a1_s2_c59_l14"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Così soglion l'ilari",
+    "cue_id": "a1_s2_c59",
+    "line_id": "a1_s2_c59_l15"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "comari ciarlar.",
+    "cue_id": "a1_s2_c59",
+    "line_id": "a1_s2_c59_l16"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Mr. Ford, Dr. Cajus, Fenton, Bardolfo, Pistola entrano da destra,",
+    "cue_id": "a1_s2_c60",
+    "line_id": "a1_s2_c60_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "mentre le Donne escono da sinistra.",
+    "cue_id": "a1_s2_c60",
+    "line_id": "a1_s2_c60_l2"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Ford nel centro, Pistola al suo fianco destro,",
+    "cue_id": "a1_s2_c60",
+    "line_id": "a1_s2_c60_l3"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Bardolfo al suo fianco sinistro, Fenton e il Dr. Cajus dietro Ford.",
+    "cue_id": "a1_s2_c60",
+    "line_id": "a1_s2_c60_l4"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Tutti in gruppo parlando a Ford a bassa voce e brontolando.",
+    "cue_id": "a1_s2_c60",
+    "line_id": "a1_s2_c60_l5"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "È un ribaldo, un furbo, un ladro,",
+    "cue_id": "a1_s2_c61",
+    "line_id": "a1_s2_c61_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "un furfante, un turco, un vandalo;",
+    "cue_id": "a1_s2_c61",
+    "line_id": "a1_s2_c61_l2"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "l'altro dì mandò a soqquadro",
+    "cue_id": "a1_s2_c61",
+    "line_id": "a1_s2_c61_l3"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "la mia casa e fu uno scandalo.",
+    "cue_id": "a1_s2_c61",
+    "line_id": "a1_s2_c61_l4"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Se un processo oggi gl'intavolo",
+    "cue_id": "a1_s2_c61",
+    "line_id": "a1_s2_c61_l5"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "sconterà le sue rapine.",
+    "cue_id": "a1_s2_c61",
+    "line_id": "a1_s2_c61_l6"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Ma la sua più degna fine",
+    "cue_id": "a1_s2_c61",
+    "line_id": "a1_s2_c61_l7"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "sia d'andare in man del diavolo.",
+    "cue_id": "a1_s2_c61",
+    "line_id": "a1_s2_c61_l8"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "E quei due che avete accanto",
+    "cue_id": "a1_s2_c61",
+    "line_id": "a1_s2_c61_l9"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "gente sono di sua tribù,",
+    "cue_id": "a1_s2_c61",
+    "line_id": "a1_s2_c61_l10"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "non son due stinchi di santo",
+    "cue_id": "a1_s2_c61",
+    "line_id": "a1_s2_c61_l11"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "né due fiori di virtù.",
+    "cue_id": "a1_s2_c61",
+    "line_id": "a1_s2_c61_l12"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Falstaff, sì ripeto, giuro,",
+    "cue_id": "a1_s2_c62",
+    "line_id": "a1_s2_c62_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "contro voi, John Falstaff rumina",
+    "cue_id": "a1_s2_c63",
+    "line_id": "a1_s2_c63_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "un progetto alquanto impuro.",
+    "cue_id": "a1_s2_c63",
+    "line_id": "a1_s2_c63_l2"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Son uom d'arme e quell'infame",
+    "cue_id": "a1_s2_c63",
+    "line_id": "a1_s2_c63_l3"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "più non vo' che v'impozzangheri.",
+    "cue_id": "a1_s2_c63",
+    "line_id": "a1_s2_c63_l4"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Non vorrei, no, escir dai gangheri",
+    "cue_id": "a1_s2_c63",
+    "line_id": "a1_s2_c63_l5"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "dell'onor per un reame!",
+    "cue_id": "a1_s2_c63",
+    "line_id": "a1_s2_c63_l6"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Messer Ford, l'uomo avvisato",
+    "cue_id": "a1_s2_c63",
+    "line_id": "a1_s2_c63_l7"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "non è salvo che a metà.",
+    "cue_id": "a1_s2_c63",
+    "line_id": "a1_s2_c63_l8"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Tocca a voi d'ordir l'agguato",
+    "cue_id": "a1_s2_c63",
+    "line_id": "a1_s2_c63_l9"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "che l'agguato stornerà.",
+    "cue_id": "a1_s2_c63",
+    "line_id": "a1_s2_c63_l10"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Se parlaste uno alla volta",
+    "cue_id": "a1_s2_c64",
+    "line_id": "a1_s2_c64_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "forse allor v'intenderò",
+    "cue_id": "a1_s2_c64",
+    "line_id": "a1_s2_c64_l2"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Sir John Falstaff già v'appresta,",
+    "cue_id": "a1_s2_c65",
+    "line_id": "a1_s2_c65_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "messer Ford, un gran pericolo.",
+    "cue_id": "a1_s2_c65",
+    "line_id": "a1_s2_c65_l2"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Già vi pende sulla testa",
+    "cue_id": "a1_s2_c65",
+    "line_id": "a1_s2_c65_l3"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "qualche cosa a perpendicolo.",
+    "cue_id": "a1_s2_c65",
+    "line_id": "a1_s2_c65_l4"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Messer Ford, fui già un armigero",
+    "cue_id": "a1_s2_c65",
+    "line_id": "a1_s2_c65_l5"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "di quell'uom dall'ampia cute;",
+    "cue_id": "a1_s2_c65",
+    "line_id": "a1_s2_c65_l6"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "or mi pento e mi morigero",
+    "cue_id": "a1_s2_c65",
+    "line_id": "a1_s2_c65_l7"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "per ragioni di salute.",
+    "cue_id": "a1_s2_c65",
+    "line_id": "a1_s2_c65_l8"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "La minaccia or v'è scoperta,",
+    "cue_id": "a1_s2_c65",
+    "line_id": "a1_s2_c65_l9"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "or v'è noto il ciurmador.",
+    "cue_id": "a1_s2_c65",
+    "line_id": "a1_s2_c65_l10"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "State all'erta, all'erta, all'erta!",
+    "cue_id": "a1_s2_c65",
+    "line_id": "a1_s2_c65_l11"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Qui si tratta dell'onor.",
+    "cue_id": "a1_s2_c65",
+    "line_id": "a1_s2_c65_l12"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Se volete io non mi perito",
+    "cue_id": "a1_s2_c66",
+    "line_id": "a1_s2_c66_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "di ridurlo alla ragione",
+    "cue_id": "a1_s2_c66",
+    "line_id": "a1_s2_c66_l2"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "co' le brusche o co' le buone,",
+    "cue_id": "a1_s2_c66",
+    "line_id": "a1_s2_c66_l3"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "e pagarlo al par del merito.",
+    "cue_id": "a1_s2_c66",
+    "line_id": "a1_s2_c66_l4"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Mi dà il cuore e mi solletica",
+    "cue_id": "a1_s2_c66",
+    "line_id": "a1_s2_c66_l5"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "di sfondar quella ventraia",
+    "cue_id": "a1_s2_c67",
+    "line_id": "a1_s2_c67_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "iperbolicoapoplettica.",
+    "cue_id": "a1_s2_c67",
+    "line_id": "a1_s2_c67_l2"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Col consiglio o co' la spada",
+    "cue_id": "a1_s2_c67",
+    "line_id": "a1_s2_c67_l3"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "se lo trovo al tu per tu,",
+    "cue_id": "a1_s2_c67",
+    "line_id": "a1_s2_c67_l4"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "o lui va per la sua strada",
+    "cue_id": "a1_s2_c67",
+    "line_id": "a1_s2_c67_l5"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "o lo assegno a Belzebù.",
+    "cue_id": "a1_s2_c67",
+    "line_id": "a1_s2_c67_l6"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Ripeti.",
+    "cue_id": "a1_s2_c68",
+    "line_id": "a1_s2_c68_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "In due parole:",
+    "cue_id": "a1_s2_c69",
+    "line_id": "a1_s2_c69_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "l'enorme Falstaff vuole",
+    "cue_id": "a1_s2_c69",
+    "line_id": "a1_s2_c69_l2"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "entrar nel vostro tetto,",
+    "cue_id": "a1_s2_c69",
+    "line_id": "a1_s2_c69_l3"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "beccarvi la consorte,",
+    "cue_id": "a1_s2_c69",
+    "line_id": "a1_s2_c69_l4"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "sfondar la cassaforte",
+    "cue_id": "a1_s2_c69",
+    "line_id": "a1_s2_c69_l5"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "e sconquassarvi il letto.",
+    "cue_id": "a1_s2_c69",
+    "line_id": "a1_s2_c69_l6"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Caspita!",
+    "cue_id": "a1_s2_c70",
+    "line_id": "a1_s2_c70_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Quanti guai!",
+    "cue_id": "a1_s2_c71",
+    "line_id": "a1_s2_c71_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Già le scrisse un biglietto...",
+    "cue_id": "a1_s2_c72",
+    "line_id": "a1_s2_c72_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Ma quel messaggio abbietto",
+    "cue_id": "a1_s2_c73",
+    "line_id": "a1_s2_c73_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "ricusai.",
+    "cue_id": "a1_s2_c73",
+    "line_id": "a1_s2_c73_l2"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Ricusai.",
+    "cue_id": "a1_s2_c74",
+    "line_id": "a1_s2_c74_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Badate a voi!",
+    "cue_id": "a1_s2_c75",
+    "line_id": "a1_s2_c75_l1"
+  }
+]

@@ -1,0 +1,512 @@
+[
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Fruga.",
+    "cue_id": "a1_s1_c66",
+    "line_id": "a1_s1_c66_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Ho frugato.",
+    "cue_id": "a1_s1_c67",
+    "line_id": "a1_s1_c67_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Fruga!",
+    "cue_id": "a1_s1_c68",
+    "line_id": "a1_s1_c68_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Qui non c'è più uno spicciolo.",
+    "cue_id": "a1_s1_c69",
+    "line_id": "a1_s1_c69_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Sei la mia distruzione!",
+    "cue_id": "a1_s1_c70",
+    "line_id": "a1_s1_c70_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Spendo ogni sette giorni dieci ghinee! Beone!",
+    "cue_id": "a1_s1_c70",
+    "line_id": "a1_s1_c70_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "So che se andiam, la notte, di taverna in taverna,",
+    "cue_id": "a1_s1_c70",
+    "line_id": "a1_s1_c70_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "quel tuo naso ardentissimo mi serve da lanterna;",
+    "cue_id": "a1_s1_c70",
+    "line_id": "a1_s1_c70_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "ma quel risparmio d'olio me lo consumi in vino.",
+    "cue_id": "a1_s1_c70",
+    "line_id": "a1_s1_c70_l5"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Son trent'anni che abbevero quel fungo porporino!",
+    "cue_id": "a1_s1_c70",
+    "line_id": "a1_s1_c70_l6"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Costi troppo.",
+    "cue_id": "a1_s1_c70",
+    "line_id": "a1_s1_c70_l7"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "E tu pure. Oste! un'altra bottiglia.",
+    "cue_id": "a1_s1_c71",
+    "line_id": "a1_s1_c71_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Mi struggete le carni! Se Falstaff s'assottiglia",
+    "cue_id": "a1_s1_c72",
+    "line_id": "a1_s1_c72_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "non è più lui, nessuno più l'ama; in questo addome",
+    "cue_id": "a1_s1_c72",
+    "line_id": "a1_s1_c72_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "c'è un migliaio di lingue che annunciano il mio nome!",
+    "cue_id": "a1_s1_c72",
+    "line_id": "a1_s1_c72_l3"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Falstaff immenso!",
+    "cue_id": "a1_s1_c73",
+    "line_id": "a1_s1_c73_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Enorme Falstaff!",
+    "cue_id": "a1_s1_c74",
+    "line_id": "a1_s1_c74_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Quest'è il mio regno.",
+    "cue_id": "a1_s1_c75",
+    "line_id": "a1_s1_c75_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Lo ingrandirò. Ma è tempo d'assottigliar l'ingegno.",
+    "cue_id": "a1_s1_c75",
+    "line_id": "a1_s1_c75_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "PISTOLA E BARDOLFO",
+    "cue_id": "a1_s1_c75",
+    "line_id": "a1_s1_c75_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Assottigliam.",
+    "cue_id": "a1_s1_c75",
+    "line_id": "a1_s1_c75_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "V'è noto un tal, qui del paese,",
+    "cue_id": "a1_s1_c77",
+    "line_id": "a1_s1_c77_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "che ha nome Ford?",
+    "cue_id": "a1_s1_c77",
+    "line_id": "a1_s1_c77_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Quell'uom è un gran borghese...",
+    "cue_id": "a1_s1_c80",
+    "line_id": "a1_s1_c80_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Più liberal d'un Creso.",
+    "cue_id": "a1_s1_c81",
+    "line_id": "a1_s1_c81_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "È un Lord!",
+    "cue_id": "a1_s1_c82",
+    "line_id": "a1_s1_c82_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Sua moglie è bella.",
+    "cue_id": "a1_s1_c83",
+    "line_id": "a1_s1_c83_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Atto primo Falstaff",
+    "cue_id": "a1_s1_c83",
+    "line_id": "a1_s1_c83_l2"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "E tien lo scrigno.",
+    "cue_id": "a1_s1_c84",
+    "line_id": "a1_s1_c84_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "È quella! O amor! Sguardo di stella!",
+    "cue_id": "a1_s1_c85",
+    "line_id": "a1_s1_c85_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Collo di cigno! e il labbro? Un fior. Un fior che ride.",
+    "cue_id": "a1_s1_c85",
+    "line_id": "a1_s1_c85_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Alice è il nome, e un giorno, come passar mi vide",
+    "cue_id": "a1_s1_c85",
+    "line_id": "a1_s1_c85_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "ne' suoi paraggi, rise. M'ardea l'estro amatorio",
+    "cue_id": "a1_s1_c85",
+    "line_id": "a1_s1_c85_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "nel cor. La dèa vibrava raggi di specchio ustorio,",
+    "cue_id": "a1_s1_c85",
+    "line_id": "a1_s1_c85_l5"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "su me, su me, sul fianco baldo, sul gran torace,",
+    "cue_id": "a1_s1_c86",
+    "line_id": "a1_s1_c86_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "sul maschio piè, sul fusto saldo, erto, capace;",
+    "cue_id": "a1_s1_c86",
+    "line_id": "a1_s1_c86_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "e il suo desir in lei fulgea sì al mio congiunto",
+    "cue_id": "a1_s1_c86",
+    "line_id": "a1_s1_c86_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "che parea dir: «Io son di Sir John Falstaff.»",
+    "cue_id": "a1_s1_c86",
+    "line_id": "a1_s1_c86_l4"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Punto.",
+    "cue_id": "a1_s1_c87",
+    "line_id": "a1_s1_c87_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "E a capo. Un'altra; e questa ha nome Margherita.",
+    "cue_id": "a1_s1_c88",
+    "line_id": "a1_s1_c88_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "La chiaman Meg.",
+    "cue_id": "a1_s1_c89",
+    "line_id": "a1_s1_c89_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "È anch'essa dei miei pregi invaghita.",
+    "cue_id": "a1_s1_c90",
+    "line_id": "a1_s1_c90_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "E anch'essa tien le chiavi dello scrigno. Costoro",
+    "cue_id": "a1_s1_c90",
+    "line_id": "a1_s1_c90_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "saran le mie Golconde e le mie Coste d'oro!",
+    "cue_id": "a1_s1_c90",
+    "line_id": "a1_s1_c90_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Guardate. Io sono ancora una piacente estate",
+    "cue_id": "a1_s1_c90",
+    "line_id": "a1_s1_c90_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "di san Martino. A voi, due lettere infuocate.",
+    "cue_id": "a1_s1_c90",
+    "line_id": "a1_s1_c90_l5"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Tu porta questa a Meg; tentiam la sua virtù.",
+    "cue_id": "a1_s1_c91",
+    "line_id": "a1_s1_c91_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Già vedo che il tuo naso arde di zelo.",
+    "cue_id": "a1_s1_c92",
+    "line_id": "a1_s1_c92_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "E tu porta questa ad Alice.",
+    "cue_id": "a1_s1_c93",
+    "line_id": "a1_s1_c93_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Porto una spada al fianco.",
+    "cue_id": "a1_s1_c94",
+    "line_id": "a1_s1_c94_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Non sono un messer Pandarus. Ricuso.",
+    "cue_id": "a1_s1_c94",
+    "line_id": "a1_s1_c94_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Saltimbanco.",
+    "cue_id": "a1_s1_c95",
+    "line_id": "a1_s1_c95_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Sir John, in questo intrigo non posso accondiscendervi,",
+    "cue_id": "a1_s1_c96",
+    "line_id": "a1_s1_c96_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "lo vieta...",
+    "cue_id": "a1_s1_c96",
+    "line_id": "a1_s1_c96_l2"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "L'onore.",
+    "cue_id": "a1_s1_c98",
+    "line_id": "a1_s1_c98_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Ehi! paggio!",
+    "cue_id": "a1_s1_c99",
+    "line_id": "a1_s1_c99_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Andate a impendervi,",
+    "cue_id": "a1_s1_c100",
+    "line_id": "a1_s1_c100_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "ma non più a me!",
+    "cue_id": "a1_s1_c100",
+    "line_id": "a1_s1_c100_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Due lettere, prendi, per due signore.",
+    "cue_id": "a1_s1_c101",
+    "line_id": "a1_s1_c101_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Consegna tosto, corri, via, lesto, va'!",
+    "cue_id": "a1_s1_c101",
+    "line_id": "a1_s1_c101_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "L'onore!",
+    "cue_id": "a1_s1_c102",
+    "line_id": "a1_s1_c102_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Ladri! Voi state ligi all'onor vostro, voi!",
+    "cue_id": "a1_s1_c102",
+    "line_id": "a1_s1_c102_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Cloache d'ignominia, quando, non sempre, noi",
+    "cue_id": "a1_s1_c102",
+    "line_id": "a1_s1_c102_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "possiam star ligi al nostro. Io stesso, sì, io, io,",
+    "cue_id": "a1_s1_c102",
+    "line_id": "a1_s1_c102_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "devo talor da un lato porre il timor di dio",
+    "cue_id": "a1_s1_c102",
+    "line_id": "a1_s1_c102_l5"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "e, per necessità, sviar l'onore e usare",
+    "cue_id": "a1_s1_c102",
+    "line_id": "a1_s1_c102_l6"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "stratagemmi ed equivoci, destreggiar, bordeggiare.",
+    "cue_id": "a1_s1_c102",
+    "line_id": "a1_s1_c102_l7"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "E voi, coi vostri cenci e coll'occhiata torta",
+    "cue_id": "a1_s1_c102",
+    "line_id": "a1_s1_c102_l8"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "da gattopardo",
+    "cue_id": "a1_s1_c102",
+    "line_id": "a1_s1_c102_l9"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "e i fetidi sghignazzi, avete a scorta",
+    "cue_id": "a1_s1_c102",
+    "line_id": "a1_s1_c102_l10"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "il vostro onor! Che onore? che onor? che onor! che ciancia!",
+    "cue_id": "a1_s1_c102",
+    "line_id": "a1_s1_c102_l11"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Che baia! Può l'onore riempirvi la pancia?",
+    "cue_id": "a1_s1_c102",
+    "line_id": "a1_s1_c102_l12"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "No. Può l'onor rimettervi uno stinco? Non può.",
+    "cue_id": "a1_s1_c102",
+    "line_id": "a1_s1_c102_l13"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Né un piede? No. Né un dito? No. Né un capello? No.",
+    "cue_id": "a1_s1_c102",
+    "line_id": "a1_s1_c102_l14"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "L'onor non è chirurgo. Ch'è dunque? Una parola.",
+    "cue_id": "a1_s1_c102",
+    "line_id": "a1_s1_c102_l15"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Che c'è in questa parola? C'è dell'aria che vola.",
+    "cue_id": "a1_s1_c102",
+    "line_id": "a1_s1_c102_l16"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Bel costrutto! L'onore lo può sentire chi è morto?",
+    "cue_id": "a1_s1_c102",
+    "line_id": "a1_s1_c102_l17"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "No. Vive sol coi vivi?... Neppure: perché a torto",
+    "cue_id": "a1_s1_c102",
+    "line_id": "a1_s1_c102_l18"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "lo gonfian le lusinghe, lo corrompe l'orgoglio,",
+    "cue_id": "a1_s1_c102",
+    "line_id": "a1_s1_c102_l19"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "l'ammorban le calunnie; e per me non ne voglio!",
+    "cue_id": "a1_s1_c102",
+    "line_id": "a1_s1_c102_l20"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Ma, per tornare a voi, furfanti, ho atteso troppo.",
+    "cue_id": "a1_s1_c102",
+    "line_id": "a1_s1_c102_l21"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "E vi discaccio.",
+    "cue_id": "a1_s1_c102",
+    "line_id": "a1_s1_c102_l22"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Olà! lesti! lesti! al galoppo!",
+    "cue_id": "a1_s1_c104",
+    "line_id": "a1_s1_c104_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "al galoppo! Il capestro assai bene vi sta.",
+    "cue_id": "a1_s1_c104",
+    "line_id": "a1_s1_c104_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Ladri! Via! Via di qua! Via di qua! Via di qua!",
+    "cue_id": "a1_s1_c104",
+    "line_id": "a1_s1_c104_l3"
+  }
+]

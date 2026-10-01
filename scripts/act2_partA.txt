@@ -1,0 +1,277 @@
+
+# Nr. 9: Marsch
+
+# Nr. 10: Arie und Chor
+# [Sarastro]
+    "O Isis und Osiris, schenket"
+    "der Weisheit Geist dem neuen Paar!"
+    "Die ihr Schritte der Wand'rer lenket,"
+    "stärkt mit Geduld sie in Gefahr."
+# [Priests]
+    "Stärkt mit Geduld sie in Gefahr."
+# [Sarastro]
+    "Laßt sie der Prüfung Früchte sehen,"
+    "doch sollten sie zu Grabe gehen,"
+    "so lohnt der Tugend kühnen Lauf,"
+    "nehmt sie in euren Wohnsitz auf!"
+# [Priests]
+    "Nehmt sie in euren Wohnsitz auf!"
+
+# Nr. 11: Duett
+# [Both Priests]
+    "Bewahret euch vor Weibertücken,"
+    "dies ist des Bundes erste Pflicht;"
+    "manch weiser Mann ließ sich berücken,"
+    "er fehlte und versah sich's nicht."
+    "Verlassen sah er sich am Ende,"
+    "vergolten seine Treu' mit Hohn! –"
+    "Vergebens rang er seine Hände,"
+    "Tod und Verzweiflung war sein Lohn."
+
+# Nr. 12: Quintett
+# [Three Ladies]
+    "Wie? wie? wie? ihr an diesem Schreckensort?"
+    "Nie! nie! nie! kommt ihr wieder glücklich fort!"
+    "Tamino! dir ist Tod geschworen!"
+    "Du Papageno! bist verloren!"
+# [Papageno]
+    "Nein, nein, nein, das wär' zuviel."
+# [Tamino]
+    "Papageno, schweige still!"
+    "Willst du dein Gelübde brechen,"
+    "nichts mit Weibern hier zu sprechen?"
+# [Papageno]
+    "Du hörst doch,"
+    "wir sind beide hin!"
+# [Tamino]
+    "Stille, sag' ich – schweige still!"
+# [Papageno]
+    "Immer still und immer still!"
+# [Three Ladies]
+    "Ganz nah ist euch die Königin,"
+    "sie drang in Tempel heimlich ein! –"
+# [Papageno]
+    "Wie? was? sie soll im Tempel sein?"
+# [Tamino]
+    "Stille sag' ich – schweige still! –"
+    "Wirst du immer so vermessen"
+    "deine Eidespflicht vergessen? –"
+# [Three Ladies]
+    "Tamino hör! du bist verloren!"
+    "Gedenke an die Königin!"
+    "Man zischelt viel sich in die Ohren"
+    "von dieser Priester falschem Sinn!"
+# [Tamino]
+    "Ein Weiser prüft und achtet nicht,"
+    "was der gemeine Pöbel spricht."
+# [Three Ladies]
+    "Man zischelt viel sich in die Ohren"
+    "von dieser Priester falschem Sinn!"
+    "Man sagt, wer ihrem Bunde schwört,"
+    "der fährt zur Höll' mit Haut und Haar."
+# [Papageno]
+    "Das wär' der Teufel! Unerhört!"
+    "Sag an, Tamino, ist das wahr?"
+# [Tamino]
+    "Geschwätz von Weibern nachgesagt,"
+    "von Heuchlern aber ausgedacht."
+# [Papageno]
+    "Doch sagt es auch die Königin!"
+# [Tamino]
+    "Sie ist ein Weib, hat Weibersinn!"
+    "Sei still, mein Wort sei dir genug,"
+    "denk deiner Pflicht, und handle klug."
+# [Three Ladies]
+    "Warum bist du mit uns so spröde?"
+    "Auch Papageno schweigt – so rede!"
+# [Papageno]
+    "Ich möchte gerne...wohl –"
+# [Tamino]
+    "Still!"
+# [Papageno]
+    "Ihr seht, daß ich nicht soll! –"
+# [Tamino]
+    "Still!"
+# [Papageno]
+    "Daß ich nicht kann das Plaudern lassen,"
+    "ist wahrlich eine Schand' für mich!"
+# [Tamino]
+    "Daß du nicht kannst das Plaudern lassen,"
+    "ist wahrlich eine Schand' für dich!"
+# [Three Ladies]
+    "Wir müssen sie mit Scham verlassen,"
+    "es plaudert keiner sicherlich."
+# [Tamino & Papageno]
+    "Sie müssen uns mit Scham verlassen,"
+    "es plaudert keiner sicherlich!"
+# [All]
+    "Von festem Geiste ist ein Mann,"
+    "er denket, was er sprechen kann!"
+# [The Initiates]
+    "Entweiht ist die heilige Schwelle!"
+    "Hinab mit den Weibern zur Hölle!"
+# [Three Ladies]
+    "O weh! O weh!"
+# [Papageno]
+    "O weh! O weh! O weh!"
+
+# Nr. 13: Arie
+# [Monostatos]
+    "Alles fühlt der Liebe Freuden,"
+    "schnäbelt, tändelt, herzet, küßt –"
+    "und ich soll die Liebe meiden,"
+    "weil ein Schwarzer häßlich ist!"
+    "Ist mir denn kein Herz gegeben,"
+    "bin ich nicht von Fleisch und Blut?"
+    "Immer ohne Weibchen leben"
+    "wäre wahrlich Höllenglut."
+    "Drum so will ich, weil ich lebe,"
+    "schnäbeln, küssen, zärtlich sein! –"
+    "Lieber, guter Mond, vergebe,"
+    "eine Weiße nahm mich ein!"
+    "Weiß ist schön – ich muß sie küssen."
+    "Mond! verstecke dich dazu! –"
+    "Sollt' es dich zu sehr verdrießen,"
+    "o, so mach die Augen zu."
+
+# Nr. 14: Arie
+# [Queen of the Night]
+    "Der Hölle Rache kocht in meinem Herzen,"
+    "Tod und Verzweiflung flammet um mich her!"
+    "Fühlt nicht durch dich Sarastro Todesschmerzen,"
+    "so bist du meine Tochter nimmermehr:"
+    "Verstoßen sei auf ewig, verlassen sei auf ewig,"
+    "zertrümmert sei'n auf ewig alle Bande der Natur,"
+    "wenn nicht durch dich Sarastro wird erblassen! –"
+    "Hört, hört, hört! Rachegötter – hört!"
+    "– der Mutter Schwur! –"
+
+# Nr. 15: Arie
+# [Sarastro]
+    "In diesen heil'gen Hallen"
+    "kennt man die Rache nicht!"
+    "Und ist ein Mensch gefallen,"
+    "führt Liebe ihn zur Pflicht."
+    "Dann wandelt er an Freundes Hand"
+    "vergnügt und froh ins bess're Land."
+    "In diesen heil'gen Mauern,"
+    "wo Mensch den Menschen liebt –"
+    "kann kein Verräter lauern,"
+    "weil man dem Feind vergibt."
+    "Wen solche Lehren nicht erfreu'n,"
+    "verdienet nicht ein Mensch zu sein."
+
+# Nr. 16: Terzett
+# [Three Boys]
+    "Seid uns zum zweiten Mal willkommen,"
+    "ihr Männer, in Sarastros Reich! –"
+    "Er schickt, was man euch abgenommen,"
+    "die Flöte und die Glöckchen euch."
+# [Three Boys]
+    "Wollt ihr Speisen nicht verschmähen,"
+    "so esset, trinket froh davon! –"
+    "Wenn wir zum dritten Mal uns sehen,"
+    "ist Freude eures Mutes Lohn!"
+    "Tamino Mut! – Nah ist das Ziel!"
+    "Du Papageno, schweige still! –"
+
+# Nr. 17: Arie
+# [Pamina]
+    "Ach, ich fühl's, es ist verschwunden!"
+    "ewig hin der Liebe Glück! –"
+    "Nimmer kommt ihr Wonnestunden"
+    "meinem Herzen mehr zurück!"
+    "Sieh Tamino! diese Tränen"
+    "fließen, Trauter, dir allein,"
+    "fühlst du nicht der Liebe Sehnen –"
+    "so wird Ruh' im Tode sein! –"
+
+# Nr. 18: Chor der Priester
+# [Chorus of Priests]
+    "O Isis und Osiris, welche Wonne!"
+    "Die düst're Nacht verscheucht der Glanz der Sonne! –"
+    "Bald fühlt der edle Jüngling neues Leben,"
+    "bald ist er unser'm Dienste ganz gegeben."
+    "Sein Geist ist kühn, sein Herz ist rein,"
+    "bald wird er unser würdig sein."
+
+# Nr. 19: Terzett
+# [Pamina]
+    "Soll ich dich, Teurer, nicht mehr seh'n? –"
+# [Sarastro]
+    "Ihr werdet froh euch wiederseh'n! –"
+# [Pamina]
+    "Dein warten tödliche Gefahren!"
+# [Tamino]
+    "Die Götter mögen mich bewahren!"
+# [Pamina]
+    "Dein warten tödliche Gefahren! –"
+# [Tamino]
+    "Die Götter mögen mich bewahren!"
+# [Sarastro]
+    "Die Götter mögen ihn bewahren!"
+# [Pamina]
+    "Du wirst dem Tode nicht entgehen,"
+    "mir flüstert dieses Ahnung ein!"
+# [Tamino]
+    "Der Götter Wille mag geschehen,"
+    "ihr Wink soll mir Gesetze sein!"
+# [Sarastro]
+    "Der Götter Wille mag geschehen,"
+    "ihr Wink soll ihm Gesetze sein."
+# [Pamina]
+    "O liebtest du, wie ich dich liebe,"
+    "du würdest nicht so ruhig sein."
+# [Tamino]
+    "Glaub mir, ich fühle gleiche Triebe,"
+    "werd' ewig dein Getreuer sein."
+# [Sarastro]
+    "Glaub mir, er fühlet gleiche Triebe,"
+    "wird ewig dein Getreuer sein."
+    "Die Stunde schlägt, nun müßt ihr scheiden!"
+# [Pamina & Tamino]
+    "Wie bitter sind der Trennung Leiden!"
+# [Sarastro]
+    "Tamino muß nun wieder fort!"
+    "Die Stunde schlägt, nun müßt ihr scheiden,"
+    "Tamino muß nun wieder fort!"
+    "Nun muß er fort!"
+# [Tamino]
+    "Pamina, ich muß wirklich fort!"
+    "Wie bitter sind der Trennung Leiden!"
+    "Pamina, ich muß wirklich fort!"
+    "Nun muß ich fort!"
+# [Pamina]
+    "Tamino muß nun wirklich fort!"
+    "Tamino! Tamino! so mußt du fort!"
+# [Tamino]
+    "Pamina! lebe wohl!"
+# [Pamina]
+    "Tamino! lebe wohl!"
+# [Sarastro]
+    "Nun eile fort! dich ruft dein Wort!"
+    "Die Stunde schlägt! Wir seh'n uns wieder!"
+# [Pamina & Tamino]
+    "O gold'ne Ruhe! kehre wieder!"
+    "Lebe wohl!"
+
+# Nr. 20: Arie
+# [Papageno]
+    "Ein Mädchen oder Weibchen"
+    "wünscht Papageno sich!"
+    "O so ein sanftes Täubchen"
+    "wär' Seligkeit für mich!"
+    "Dann schmeckte mir Trinken und Essen,"
+    "dann könnt' ich mit Fürsten mich messen,"
+    "des Lebens als Weiser mich freu'n,"
+    "und wie im Elysium sein!"
+    "Ein Mädchen, usw."
+    "Ach, kann ich denn keiner von allen"
+    "den reizenden Mädchen gefallen?"
+    "Helf' eine mir nur aus der Not,"
+    "sonst gräm' ich mich wahrlich zu Tod."
+    "Ein Mädchen, usw."
+    "Wird keine mir Liebe gewähren,"
+    "so muß mich die Flamme verzehren,"
+    "doch küßt mich ein weiblicher Mund –"
+    "so bin ich schon wieder gesund."

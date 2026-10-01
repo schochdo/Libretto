@@ -1,0 +1,602 @@
+[
+  {
+    "speaker": "Fenton",
+    "original": "Bada! la freccia",
+    "cue_id": "a1_s2_c155",
+    "line_id": "a1_s2_c155_l2"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "fatal già scocca",
+    "cue_id": "a1_s2_c155",
+    "line_id": "a1_s2_c155_l3"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "dalla mia bocca",
+    "cue_id": "a1_s2_c155",
+    "line_id": "a1_s2_c155_l4"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "sulla tua treccia.",
+    "cue_id": "a1_s2_c155",
+    "line_id": "a1_s2_c155_l5"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Eccoti avvinto.",
+    "cue_id": "a1_s2_c157",
+    "line_id": "a1_s2_c157_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Chiedo la vita!",
+    "cue_id": "a1_s2_c158",
+    "line_id": "a1_s2_c158_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Io son ferita,",
+    "cue_id": "a1_s2_c159",
+    "line_id": "a1_s2_c159_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "ma tu sei vinto.",
+    "cue_id": "a1_s2_c159",
+    "line_id": "a1_s2_c159_l2"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Pietà! Facciamo",
+    "cue_id": "a1_s2_c160",
+    "line_id": "a1_s2_c160_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "la pace e poi...",
+    "cue_id": "a1_s2_c160",
+    "line_id": "a1_s2_c160_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "E poi?",
+    "cue_id": "a1_s2_c161",
+    "line_id": "a1_s2_c161_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Se vuoi,",
+    "cue_id": "a1_s2_c162",
+    "line_id": "a1_s2_c162_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "ricominciamo.",
+    "cue_id": "a1_s2_c162",
+    "line_id": "a1_s2_c162_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Bello è quel gioco",
+    "cue_id": "a1_s2_c163",
+    "line_id": "a1_s2_c163_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "che dura poco.",
+    "cue_id": "a1_s2_c163",
+    "line_id": "a1_s2_c163_l2"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Amor mio!",
+    "cue_id": "a1_s2_c164",
+    "line_id": "a1_s2_c164_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Vien gente. Addio!",
+    "cue_id": "a1_s2_c165",
+    "line_id": "a1_s2_c165_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Rientrano dal fondo Ford, Dr. Cajus, Bardolfo, Pistola.",
+    "cue_id": "a1_s2_c168",
+    "line_id": "a1_s2_c168_l2"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Udrai quanta egli sfoggia",
+    "cue_id": "a1_s2_c170",
+    "line_id": "a1_s2_c170_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "magniloquenza altera.",
+    "cue_id": "a1_s2_c170",
+    "line_id": "a1_s2_c170_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Diceste ch'egli alloggia",
+    "cue_id": "a1_s2_c171",
+    "line_id": "a1_s2_c171_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "dove?",
+    "cue_id": "a1_s2_c171",
+    "line_id": "a1_s2_c171_l2"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Alla «Giarrettiera».",
+    "cue_id": "a1_s2_c172",
+    "line_id": "a1_s2_c172_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "FORD A lui mi annuncerete,",
+    "cue_id": "a1_s2_c172",
+    "line_id": "a1_s2_c172_l2"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "ma con un falso nome;",
+    "cue_id": "a1_s2_c172",
+    "line_id": "a1_s2_c172_l3"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "poscia vedrete come",
+    "cue_id": "a1_s2_c172",
+    "line_id": "a1_s2_c172_l4"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "lo piglio nella rete.",
+    "cue_id": "a1_s2_c172",
+    "line_id": "a1_s2_c172_l5"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Ma... non una parola.",
+    "cue_id": "a1_s2_c172",
+    "line_id": "a1_s2_c172_l6"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "In ciarle non m'ingolfo.",
+    "cue_id": "a1_s2_c173",
+    "line_id": "a1_s2_c173_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Io mi chiamo Bardolfo.",
+    "cue_id": "a1_s2_c173",
+    "line_id": "a1_s2_c173_l2"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Io mi chiamo Pistola.",
+    "cue_id": "a1_s2_c174",
+    "line_id": "a1_s2_c174_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Siam d'accordo.",
+    "cue_id": "a1_s2_c175",
+    "line_id": "a1_s2_c175_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "L'arcano",
+    "cue_id": "a1_s2_c176",
+    "line_id": "a1_s2_c176_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "custodirem.",
+    "cue_id": "a1_s2_c176",
+    "line_id": "a1_s2_c176_l2"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Son sordo",
+    "cue_id": "a1_s2_c177",
+    "line_id": "a1_s2_c177_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "e muto.",
+    "cue_id": "a1_s2_c177",
+    "line_id": "a1_s2_c177_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Siam d'accordo tutti.",
+    "cue_id": "a1_s2_c178",
+    "line_id": "a1_s2_c178_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Qua la mano.",
+    "cue_id": "a1_s2_c180",
+    "line_id": "a1_s2_c180_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Si avanzano nel fondo Alice, Nannetta, Meg, Quickly.",
+    "cue_id": "a1_s2_c180",
+    "line_id": "a1_s2_c180_l2"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Del tuo barbaro diagnostico",
+    "cue_id": "a1_s2_c181",
+    "line_id": "a1_s2_c181_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "forse il male è assai men barbaro.",
+    "cue_id": "a1_s2_c181",
+    "line_id": "a1_s2_c181_l2"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Ti convien tentar la prova",
+    "cue_id": "a1_s2_c181",
+    "line_id": "a1_s2_c181_l3"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "molestissima del ver.",
+    "cue_id": "a1_s2_c181",
+    "line_id": "a1_s2_c181_l4"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Così avvien col sapor ostico",
+    "cue_id": "a1_s2_c181",
+    "line_id": "a1_s2_c181_l5"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "del ginepro e del rabarbaro;",
+    "cue_id": "a1_s2_c181",
+    "line_id": "a1_s2_c181_l6"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "il benessere rinnova",
+    "cue_id": "a1_s2_c181",
+    "line_id": "a1_s2_c181_l7"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "l'amarissimo bicchier.",
+    "cue_id": "a1_s2_c181",
+    "line_id": "a1_s2_c181_l8"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Voi dovete empirgli il calice,",
+    "cue_id": "a1_s2_c182",
+    "line_id": "a1_s2_c182_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "tratto, tratto, interrogandolo,",
+    "cue_id": "a1_s2_c182",
+    "line_id": "a1_s2_c182_l2"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "per tentar se vi riesca",
+    "cue_id": "a1_s2_c182",
+    "line_id": "a1_s2_c182_l3"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "di trovar del nodo il bandolo.",
+    "cue_id": "a1_s2_c182",
+    "line_id": "a1_s2_c182_l4"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Come all'acqua inclina il salice.",
+    "cue_id": "a1_s2_c182",
+    "line_id": "a1_s2_c182_l5"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Così al vin quel cavalier.",
+    "cue_id": "a1_s2_c182",
+    "line_id": "a1_s2_c182_l6"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Scoverete la sua tresca,",
+    "cue_id": "a1_s2_c182",
+    "line_id": "a1_s2_c182_l7"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "scoprirete il suo pensier.",
+    "cue_id": "a1_s2_c182",
+    "line_id": "a1_s2_c182_l8"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Tu vedrai se bene adopera",
+    "cue_id": "a1_s2_c183",
+    "line_id": "a1_s2_c183_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "l'arte mia con quell'infame.",
+    "cue_id": "a1_s2_c183",
+    "line_id": "a1_s2_c183_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "E sarà prezzo dell'opera",
+    "cue_id": "a1_s2_c183",
+    "line_id": "a1_s2_c183_l3"
+  },
+  {
+    "speaker": "Ford",
+    "original": "s'io discopro le sue trame.",
+    "cue_id": "a1_s2_c183",
+    "line_id": "a1_s2_c183_l4"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Se su lui volgo il ridicolo",
+    "cue_id": "a1_s2_c183",
+    "line_id": "a1_s2_c183_l5"
+  },
+  {
+    "speaker": "Ford",
+    "original": "non avrem sudato invan.",
+    "cue_id": "a1_s2_c183",
+    "line_id": "a1_s2_c183_l6"
+  },
+  {
+    "speaker": "Ford",
+    "original": "S'io mi salvo dal pericolo,",
+    "cue_id": "a1_s2_c183",
+    "line_id": "a1_s2_c183_l7"
+  },
+  {
+    "speaker": "Ford",
+    "original": "l'angue morde il cerretan.",
+    "cue_id": "a1_s2_c183",
+    "line_id": "a1_s2_c183_l8"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Messer Ford, un infortunio",
+    "cue_id": "a1_s2_c184",
+    "line_id": "a1_s2_c184_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "marital in voi si incorpora;",
+    "cue_id": "a1_s2_c184",
+    "line_id": "a1_s2_c184_l2"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "se non siete astuto e cauto",
+    "cue_id": "a1_s2_c184",
+    "line_id": "a1_s2_c184_l3"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "quel sir John vi tradirà.",
+    "cue_id": "a1_s2_c184",
+    "line_id": "a1_s2_c184_l4"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Quel paffuto plenilunio",
+    "cue_id": "a1_s2_c184",
+    "line_id": "a1_s2_c184_l5"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "che il color del vino imporpora",
+    "cue_id": "a1_s2_c184",
+    "line_id": "a1_s2_c184_l6"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "troverebbe un pasto lauto",
+    "cue_id": "a1_s2_c184",
+    "line_id": "a1_s2_c184_l7"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "nella vostra ingenuità.",
+    "cue_id": "a1_s2_c184",
+    "line_id": "a1_s2_c184_l8"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "lo udremo strillar,",
+    "cue_id": "a1_s2_c187",
+    "line_id": "a1_s2_c187_l2"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "e allor la sua fregola",
+    "cue_id": "a1_s2_c187",
+    "line_id": "a1_s2_c187_l3"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "E se i scilinguagnoli",
+    "cue_id": "a1_s2_c188",
+    "line_id": "a1_s2_c188_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "quell'orco sudar",
+    "cue_id": "a1_s2_c188",
+    "line_id": "a1_s2_c188_l4"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "quel bel cinguettar;",
+    "cue_id": "a1_s2_c189",
+    "line_id": "a1_s2_c189_l2"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "così soglion l'ilari",
+    "cue_id": "a1_s2_c189",
+    "line_id": "a1_s2_c189_l3"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Ford, Dr. Cajus, Fenton, Bardolfo, Pistola escono.",
+    "cue_id": "a1_s2_c189",
+    "line_id": "a1_s2_c189_l5"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Qui più non si vagoli...",
+    "cue_id": "a1_s2_c190",
+    "line_id": "a1_s2_c190_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Tu corri all'ufficio",
+    "cue_id": "a1_s2_c191",
+    "line_id": "a1_s2_c191_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "tuo.",
+    "cue_id": "a1_s2_c191",
+    "line_id": "a1_s2_c191_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Vo' ch'egli miagoli",
+    "cue_id": "a1_s2_c192",
+    "line_id": "a1_s2_c192_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "d'amor come un micio.",
+    "cue_id": "a1_s2_c192",
+    "line_id": "a1_s2_c192_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "È intesa.",
+    "cue_id": "a1_s2_c193",
+    "line_id": "a1_s2_c193_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "È detta.",
+    "cue_id": "a1_s2_c195",
+    "line_id": "a1_s2_c195_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Domani.",
+    "cue_id": "a1_s2_c196",
+    "line_id": "a1_s2_c196_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Sì. Sì.",
+    "cue_id": "a1_s2_c197",
+    "line_id": "a1_s2_c197_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Buon dì, Meg.",
+    "cue_id": "a1_s2_c198",
+    "line_id": "a1_s2_c198_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Nannetta,",
+    "cue_id": "a1_s2_c199",
+    "line_id": "a1_s2_c199_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "buon dì.",
+    "cue_id": "a1_s2_c199",
+    "line_id": "a1_s2_c199_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Addio.",
+    "cue_id": "a1_s2_c200",
+    "line_id": "a1_s2_c200_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Buon dì.",
+    "cue_id": "a1_s2_c201",
+    "line_id": "a1_s2_c201_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Vedrai che quell'epa",
+    "cue_id": "a1_s2_c202",
+    "line_id": "a1_s2_c202_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "terribile e tronfia",
+    "cue_id": "a1_s2_c202",
+    "line_id": "a1_s2_c202_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "si gonfia.",
+    "cue_id": "a1_s2_c202",
+    "line_id": "a1_s2_c202_l3"
+  },
+  {
+    "speaker": "Alice & Meg",
+    "original": "Si gonfia.",
+    "cue_id": "a1_s2_c203",
+    "line_id": "a1_s2_c203_l1"
+  },
+  {
+    "speaker": "The Women",
+    "original": "Si gonfia e poi crepa.",
+    "cue_id": "a1_s2_c204",
+    "line_id": "a1_s2_c204_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "«Ma il viso mio su lui risplenderà»...",
+    "cue_id": "a1_s2_c205",
+    "line_id": "a1_s2_c205_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "...«come una stella sull'immensità.»",
+    "cue_id": "a1_s2_c205",
+    "line_id": "a1_s2_c205_l3"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Si accomiatano e s'allontanano ridendo.",
+    "cue_id": "a1_s2_c205",
+    "line_id": "a1_s2_c205_l4"
+  }
+]

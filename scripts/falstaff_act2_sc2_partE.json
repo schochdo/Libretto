@@ -1,0 +1,638 @@
+[
+  {
+    "speaker": "Bardolfo",
+    "original": "un fruscio vago e legger;",
+    "cue_id": "a2_s2_c263",
+    "line_id": "a2_s2_c263_l6"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "è la voce della donna",
+    "cue_id": "a2_s2_c263",
+    "line_id": "a2_s2_c263_l7"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "che risponde al cavalier.",
+    "cue_id": "a2_s2_c263",
+    "line_id": "a2_s2_c263_l8"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Odi come amor lo cuoce!",
+    "cue_id": "a2_s2_c264",
+    "line_id": "a2_s2_c264_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Pare Alfeo con Aretusa.",
+    "cue_id": "a2_s2_c264",
+    "line_id": "a2_s2_c264_l2"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Quella gonfia cornamusa",
+    "cue_id": "a2_s2_c264",
+    "line_id": "a2_s2_c264_l3"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "manda fuori un fil di voce.",
+    "cue_id": "a2_s2_c264",
+    "line_id": "a2_s2_c264_l4"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Ma fra poco il lieto gioco",
+    "cue_id": "a2_s2_c264",
+    "line_id": "a2_s2_c264_l5"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "turberà dura lezion.",
+    "cue_id": "a2_s2_c264",
+    "line_id": "a2_s2_c264_l6"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Egli canta, ma fra poco",
+    "cue_id": "a2_s2_c264",
+    "line_id": "a2_s2_c264_l7"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "muterà la sua canzon.",
+    "cue_id": "a2_s2_c264",
+    "line_id": "a2_s2_c264_l8"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "QUICKLY E MEG",
+    "cue_id": "a2_s2_c264",
+    "line_id": "a2_s2_c264_l9"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Sta' zitta! Se ridi,",
+    "cue_id": "a2_s2_c266",
+    "line_id": "a2_s2_c266_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "la burla è scoperta.",
+    "cue_id": "a2_s2_c266",
+    "line_id": "a2_s2_c266_l2"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Dobbiam stare all'erta.",
+    "cue_id": "a2_s2_c266",
+    "line_id": "a2_s2_c266_l3"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Tu il giuoco disguidi.",
+    "cue_id": "a2_s2_c266",
+    "line_id": "a2_s2_c266_l4"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Geloso marito,",
+    "cue_id": "a2_s2_c266",
+    "line_id": "a2_s2_c266_l5"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "compare sfacciato,",
+    "cue_id": "a2_s2_c266",
+    "line_id": "a2_s2_c266_l6"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "ciascuno è punito",
+    "cue_id": "a2_s2_c266",
+    "line_id": "a2_s2_c266_l7"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "secondo il peccato.",
+    "cue_id": "a2_s2_c266",
+    "line_id": "a2_s2_c266_l8"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Parliam sottovoce",
+    "cue_id": "a2_s2_c266",
+    "line_id": "a2_s2_c266_l9"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "guardando il messer",
+    "cue_id": "a2_s2_c266",
+    "line_id": "a2_s2_c266_l10"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "che brontola e cuoce",
+    "cue_id": "a2_s2_c266",
+    "line_id": "a2_s2_c266_l11"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "nel nostro panier.",
+    "cue_id": "a2_s2_c266",
+    "line_id": "a2_s2_c266_l12"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Stiam zitte! stiam zitte!",
+    "cue_id": "a2_s2_c267",
+    "line_id": "a2_s2_c267_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Trattieni le risa;",
+    "cue_id": "a2_s2_c267",
+    "line_id": "a2_s2_c267_l2"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "se l'altro s'avvisa",
+    "cue_id": "a2_s2_c267",
+    "line_id": "a2_s2_c267_l3"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "noi siamo sconfitte.",
+    "cue_id": "a2_s2_c267",
+    "line_id": "a2_s2_c267_l4"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Costui suda e soffia,",
+    "cue_id": "a2_s2_c267",
+    "line_id": "a2_s2_c267_l5"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "s'intrefola e tosse,",
+    "cue_id": "a2_s2_c267",
+    "line_id": "a2_s2_c267_l6"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "per gran battisoffia",
+    "cue_id": "a2_s2_c267",
+    "line_id": "a2_s2_c267_l7"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "le viscere ha scosse.",
+    "cue_id": "a2_s2_c267",
+    "line_id": "a2_s2_c267_l8"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Costui s'è infardato",
+    "cue_id": "a2_s2_c267",
+    "line_id": "a2_s2_c267_l9"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "di tanta viltà.",
+    "cue_id": "a2_s2_c267",
+    "line_id": "a2_s2_c267_l10"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Che darlo al bucato",
+    "cue_id": "a2_s2_c267",
+    "line_id": "a2_s2_c267_l11"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "è averne pietà.",
+    "cue_id": "a2_s2_c267",
+    "line_id": "a2_s2_c267_l12"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Come in sua zolla",
+    "cue_id": "a2_s2_c269",
+    "line_id": "a2_s2_c269_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "si schiude un fior,",
+    "cue_id": "a2_s2_c269",
+    "line_id": "a2_s2_c269_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "la sua corolla",
+    "cue_id": "a2_s2_c269",
+    "line_id": "a2_s2_c269_l3"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "svolve il mio cor.",
+    "cue_id": "a2_s2_c269",
+    "line_id": "a2_s2_c269_l4"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Bocca mia dolce!",
+    "cue_id": "a2_s2_c270",
+    "line_id": "a2_s2_c270_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Pupilla d'or.",
+    "cue_id": "a2_s2_c270",
+    "line_id": "a2_s2_c270_l2"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Voce che molce",
+    "cue_id": "a2_s2_c270",
+    "line_id": "a2_s2_c270_l3"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "com'arpa il cor.",
+    "cue_id": "a2_s2_c270",
+    "line_id": "a2_s2_c270_l4"
+  },
+  {
+    "speaker": "All",
+    "original": "Gente del vicinato",
+    "cue_id": "a2_s2_c271",
+    "line_id": "a2_s2_c271_l1"
+  },
+  {
+    "speaker": "All",
+    "original": "Piano, piano, a passo lento,",
+    "cue_id": "a2_s2_c271",
+    "line_id": "a2_s2_c271_l2"
+  },
+  {
+    "speaker": "All",
+    "original": "mentr'ei sta senza sospetto",
+    "cue_id": "a2_s2_c271",
+    "line_id": "a2_s2_c271_l3"
+  },
+  {
+    "speaker": "All",
+    "original": "lo cogliamo a tradimento,",
+    "cue_id": "a2_s2_c271",
+    "line_id": "a2_s2_c271_l4"
+  },
+  {
+    "speaker": "All",
+    "original": "gli facciamo lo sgambetto.",
+    "cue_id": "a2_s2_c271",
+    "line_id": "a2_s2_c271_l5"
+  },
+  {
+    "speaker": "All",
+    "original": "S'egli cade più non scappa:",
+    "cue_id": "a2_s2_c271",
+    "line_id": "a2_s2_c271_l6"
+  },
+  {
+    "speaker": "All",
+    "original": "nessuno più lo può salvar.",
+    "cue_id": "a2_s2_c271",
+    "line_id": "a2_s2_c271_l7"
+  },
+  {
+    "speaker": "All",
+    "original": "Nel tuo diavolo t'incappa;",
+    "cue_id": "a2_s2_c271",
+    "line_id": "a2_s2_c271_l8"
+  },
+  {
+    "speaker": "All",
+    "original": "che tu possa stramazzar!",
+    "cue_id": "a2_s2_c271",
+    "line_id": "a2_s2_c271_l9"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Zitto! A noi! Quest'è il momento.",
+    "cue_id": "a2_s2_c272",
+    "line_id": "a2_s2_c272_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Zitto! Attenti! Attenti a me.",
+    "cue_id": "a2_s2_c272",
+    "line_id": "a2_s2_c272_l2"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Da' il segnal.",
+    "cue_id": "a2_s2_c273",
+    "line_id": "a2_s2_c273_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Uno... Due... Tre.",
+    "cue_id": "a2_s2_c274",
+    "line_id": "a2_s2_c274_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Non è lui!",
+    "cue_id": "a2_s2_c276",
+    "line_id": "a2_s2_c276_l1"
+  },
+  {
+    "speaker": "All",
+    "original": "Sbalordimento!",
+    "cue_id": "a2_s2_c277",
+    "line_id": "a2_s2_c277_l1"
+  },
+  {
+    "speaker": "All",
+    "original": "QUICKLY, MEG, ALICE E FALSTAFF",
+    "cue_id": "a2_s2_c277",
+    "line_id": "a2_s2_c277_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Ouff!... Cesto molesto!",
+    "cue_id": "a2_s2_c279",
+    "line_id": "a2_s2_c279_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Silenzio!",
+    "cue_id": "a2_s2_c280",
+    "line_id": "a2_s2_c280_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Protesto!",
+    "cue_id": "a2_s2_c281",
+    "line_id": "a2_s2_c281_l1"
+  },
+  {
+    "speaker": "Meg & Quickly",
+    "original": "Che bestia restia!",
+    "cue_id": "a2_s2_c282",
+    "line_id": "a2_s2_c282_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Portatemi via!",
+    "cue_id": "a2_s2_c283",
+    "line_id": "a2_s2_c283_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "È matto furibondo!",
+    "cue_id": "a2_s2_c284",
+    "line_id": "a2_s2_c284_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Aiuto!",
+    "cue_id": "a2_s2_c285",
+    "line_id": "a2_s2_c285_l1"
+  },
+  {
+    "speaker": "Alice, Meg & Quickly",
+    "original": "È il finimondo!",
+    "cue_id": "a2_s2_c286",
+    "line_id": "a2_s2_c286_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Dolci richiami",
+    "cue_id": "a2_s2_c288",
+    "line_id": "a2_s2_c288_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "d'amor.",
+    "cue_id": "a2_s2_c288",
+    "line_id": "a2_s2_c288_l2"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Te bramo!",
+    "cue_id": "a2_s2_c289",
+    "line_id": "a2_s2_c289_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Dimmi se m'ami!",
+    "cue_id": "a2_s2_c289",
+    "line_id": "a2_s2_c289_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Sì, t'amo!",
+    "cue_id": "a2_s2_c290",
+    "line_id": "a2_s2_c290_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "T'amo!",
+    "cue_id": "a2_s2_c291",
+    "line_id": "a2_s2_c291_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Ancor nuove rivolte!",
+    "cue_id": "a2_s2_c293",
+    "line_id": "a2_s2_c293_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Tu va' pe' fatti tuoi!",
+    "cue_id": "a2_s2_c294",
+    "line_id": "a2_s2_c294_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "L'ho detto mille volte: «Costei non fa per voi».",
+    "cue_id": "a2_s2_c294",
+    "line_id": "a2_s2_c294_l2"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "È là! Ferma!",
+    "cue_id": "a2_s2_c296",
+    "line_id": "a2_s2_c296_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "FORD Dove?",
+    "cue_id": "a2_s2_c296",
+    "line_id": "a2_s2_c296_l2"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Là!",
+    "cue_id": "a2_s2_c297",
+    "line_id": "a2_s2_c297_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Là! sulle scale.",
+    "cue_id": "a2_s2_c298",
+    "line_id": "a2_s2_c298_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "FORD Squartatelo!",
+    "cue_id": "a2_s2_c298",
+    "line_id": "a2_s2_c298_l2"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "PISTOLA, BARDOLFO, DR. CAJUS, I COMPAGNI",
+    "cue_id": "a2_s2_c298",
+    "line_id": "a2_s2_c298_l3"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Che caccia infernale!",
+    "cue_id": "a2_s2_c299",
+    "line_id": "a2_s2_c299_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Ned! Will! Tom! Isaac! Su! presto! presto!",
+    "cue_id": "a2_s2_c301",
+    "line_id": "a2_s2_c301_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Rovesciate quel cesto",
+    "cue_id": "a2_s2_c303",
+    "line_id": "a2_s2_c303_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "dalla finestra nell'acqua del fosso.",
+    "cue_id": "a2_s2_c303",
+    "line_id": "a2_s2_c303_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Là! Presso alle giuncaie,",
+    "cue_id": "a2_s2_c303",
+    "line_id": "a2_s2_c303_l3"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "davanti al crocchio delle lavandaie.",
+    "cue_id": "a2_s2_c303",
+    "line_id": "a2_s2_c303_l4"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "TUTTE",
+    "cue_id": "a2_s2_c303",
+    "line_id": "a2_s2_c303_l5"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Sì, sì, sì, sì!",
+    "cue_id": "a2_s2_c303",
+    "line_id": "a2_s2_c303_l6"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "C'è dentro un pezzo grosso.",
+    "cue_id": "a2_s2_c304",
+    "line_id": "a2_s2_c304_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Tu chiama mio marito.",
+    "cue_id": "a2_s2_c305",
+    "line_id": "a2_s2_c305_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Gli narreremo il nostro caso pazzo.",
+    "cue_id": "a2_s2_c306",
+    "line_id": "a2_s2_c306_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Solo al vedere il cavalier nel guazzo",
+    "cue_id": "a2_s2_c306",
+    "line_id": "a2_s2_c306_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "d'ogni gelosa ubbia sarà guarito.",
+    "cue_id": "a2_s2_c306",
+    "line_id": "a2_s2_c306_l3"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Pesa!",
+    "cue_id": "a2_s2_c307",
+    "line_id": "a2_s2_c307_l1"
+  },
+  {
+    "speaker": "Alice & Meg",
+    "original": "Coraggio!",
+    "cue_id": "a2_s2_c308",
+    "line_id": "a2_s2_c308_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Il fondo ha fatto crac!",
+    "cue_id": "a2_s2_c309",
+    "line_id": "a2_s2_c309_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "NANNETTA, MEG E QUICKLY",
+    "cue_id": "a2_s2_c309",
+    "line_id": "a2_s2_c309_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Su!",
+    "cue_id": "a2_s2_c309",
+    "line_id": "a2_s2_c309_l3"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Trionfo!",
+    "cue_id": "a2_s2_c310",
+    "line_id": "a2_s2_c310_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Ah! Ah!",
+    "cue_id": "a2_s2_c310",
+    "line_id": "a2_s2_c310_l4"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Che tonfo!",
+    "cue_id": "a2_s2_c311",
+    "line_id": "a2_s2_c311_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "E MEG Che tonfo!",
+    "cue_id": "a2_s2_c312",
+    "line_id": "a2_s2_c312_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Patatrac!",
+    "cue_id": "a2_s2_c313",
+    "line_id": "a2_s2_c313_l2"
+  }
+]

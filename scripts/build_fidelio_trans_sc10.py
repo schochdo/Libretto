@@ -1,0 +1,407 @@
+import json
+
+# Act 1 Scene 10: Nr. 10 Finale I (O welche Lust! Prisoners' Chorus & confrontation with Pizarro)
+TRANS_SC10 = {
+    "O welche Lust! In freier Luft": (
+        "O what delight! In open air",
+        [
+            {"word": "welche Lust", "lemma": "Lust", "pos": "noun", "meaning": "what delight / joy"},
+            {"word": "In freier Luft", "lemma": "Luft", "pos": "noun", "meaning": "in free/open air (dative feminine)"}
+        ],
+        None
+    ),
+    "den Atem leicht zu heben!": (
+        "the breath lightly to heave [draw]!",
+        [
+            {"word": "Atem", "lemma": "Atem", "pos": "noun", "meaning": "breath (accusative masculine)"},
+            {"word": "heben", "lemma": "heben", "pos": "verb", "meaning": "raise / draw (breath)"}
+        ],
+        "Idiom 'den Atem heben' (to breathe deeply / draw breath)."
+    ),
+    "Nur hier, nur hier ist Leben,": (
+        "Only here, only here is life,",
+        [{"word": "Leben", "lemma": "Leben", "pos": "noun", "meaning": "life"}],
+        None
+    ),
+    "der Kerker eine Gruft.": (
+        "the dungeon a tomb.",
+        [
+            {"word": "Kerker", "lemma": "Kerker", "pos": "noun", "meaning": "dungeon / prison"},
+            {"word": "Gruft", "lemma": "Gruft", "pos": "noun", "meaning": "vault / tomb / grave"}
+        ],
+        "Elliptical copula: '[ist] eine Gruft'."
+    ),
+    "Wir wollen mit Vertrauen": (
+        "We want with confidence",
+        [
+            {"word": "Vertrauen", "lemma": "Vertrauen", "pos": "noun", "meaning": "trust / reliance"}
+        ],
+        None
+    ),
+    "auf Gottes Hilfe bauen!": (
+        "upon God's help to-build!",
+        [
+            {"word": "Gottes Hilfe", "lemma": "Hilfe", "pos": "noun", "meaning": "God's help"},
+            {"word": "bauen auf", "lemma": "bauen", "pos": "verb", "meaning": "rely on / build upon"}
+        ],
+        "Idiom 'auf jemanden bauen' (to place one's faith in someone)."
+    ),
+    "Die Hoffnung flüstert sanft mir zu:": (
+        "Hope whispers softly to-me to:",
+        [
+            {"word": "flüstert... zu", "lemma": "zuflüstern", "pos": "verb", "meaning": "whispers to (takes dative)"},
+            {"word": "sanft", "lemma": "sanft", "pos": "adverb", "meaning": "gently / softly"}
+        ],
+        "Separable verb 'zuflüstern'."
+    ),
+    "Wir werden frei, wir finden Ruh’!": (
+        "We will-become free, we find peace!",
+        [
+            {"word": "werden frei", "lemma": "frei", "pos": "adjective", "meaning": "become free"},
+            {"word": "Ruh'", "lemma": "Ruhe", "pos": "noun", "meaning": "rest / peace"}
+        ],
+        None
+    ),
+    "O Himmel! Rettung! Welch’ ein Glück!": (
+        "O heaven! Salvation! What a happiness!",
+        [
+            {"word": "Rettung", "lemma": "Rettung", "pos": "noun", "meaning": "rescue / deliverance"}
+        ],
+        None
+    ),
+    "O Freiheit! Kehrest du zurück?": (
+        "O freedom! Returnest you back?",
+        [
+            {"word": "Freiheit", "lemma": "Freiheit", "pos": "noun", "meaning": "freedom / liberty"},
+            {"word": "kehrest... zurück", "lemma": "zurückkehren", "pos": "verb", "meaning": "returnest back"}
+        ],
+        None
+    ),
+    "Sprecht leise! Haltet euch zurück!": (
+        "Speak softly! Hold yourselves back!",
+        [
+            {"word": "Sprecht", "lemma": "sprechen", "pos": "verb", "meaning": "speak (imperative plural)"},
+            {"word": "haltet... zurück", "lemma": "zurückhalten", "pos": "verb", "meaning": "hold back / restrain"}
+        ],
+        "Reflexive separable verb 'sich zurückhalten'."
+    ),
+    "Wir sind belauscht mit Ohr und Blick.": (
+        "We are eavesdropped with ear and glance.",
+        [
+            {"word": "belauscht", "lemma": "belauschen", "pos": "verb", "meaning": "spied upon / eavesdropped"},
+            {"word": "Ohr und Blick", "lemma": "Ohr", "pos": "phrase", "meaning": "ears and eyes"}
+        ],
+        None
+    ),
+    "Nun sprecht, wie ging’s?": (
+        "Now speak, how went it?",
+        [{"word": "wie ging's", "lemma": "gehen", "pos": "phrase", "meaning": "how did it go?"}],
+        None
+    ),
+    "Recht gut!": (
+        "Right well!",
+        [{"word": "Recht gut", "lemma": "gut", "pos": "phrase", "meaning": "very well"}],
+        None
+    ),
+    "Pizarro hat eingewilligt, daß du mich in die unterirdischen Kerker begleiten darfst.": (
+        "Pizarro has consented, that you me into the subterranean dungeons accompany may.",
+        [
+            {"word": "eingewilligt", "lemma": "einwilligen", "pos": "verb", "meaning": "consented / agreed"},
+            {"word": "unterirdischen", "lemma": "unterirdisch", "pos": "adjective", "meaning": "subterranean / underground"}
+        ],
+        None
+    ),
+    "Noch heute?": (
+        "Still today [this very day]?",
+        [{"word": "Noch heute", "lemma": "heute", "pos": "adverb", "meaning": "this very day"}],
+        None
+    ),
+    "Ja, noch heute. Wir steigen sogleich hinab.": (
+        "Yes, still today. We descend immediately down.",
+        [
+            {"word": "steigen... hinab", "lemma": "hinabsteigen", "pos": "verb", "meaning": "descend down"}
+        ],
+        None
+    ),
+    "Noch heute, noch heute? O welch ein Glück, o welche Wonne!": (
+        "Still today, still today? O what a happiness, o what bliss!",
+        [
+            {"word": "Wonne", "lemma": "Wonne", "pos": "noun", "meaning": "rapture / bliss"}
+        ],
+        None
+    ),
+    "Ich sehe deine Freude. Nur noch ein Augenblick, dann gehen wir schon beide ...": (
+        "I see your joy. Only yet a moment, then go we already both ...",
+        [
+            {"word": "beide", "lemma": "beide", "pos": "pronoun", "meaning": "both"}
+        ],
+        None
+    ),
+    "Wohin?": (
+        "Whither [where to]?",
+        [{"word": "Wohin", "lemma": "wohin", "pos": "adverb", "meaning": "where to"}],
+        None
+    ),
+    "Zu jenem Mann hinab, dem ich seit vielen Tagen die Nahrung schon geschmälert.": (
+        "To that man down, from-whom I since many days the nourishment already curtailed.",
+        [
+            {"word": "geschmälert", "lemma": "schmälern", "pos": "verb", "meaning": "curtailed / reduced (past participle)"},
+            {"word": "Nahrung", "lemma": "Nahrung", "pos": "noun", "meaning": "food / nourishment"}
+        ],
+        "Dative of separation: 'dem ich die Nahrung geschmälert'."
+    ),
+    "Wird er befreit?": (
+        "Will he be-freed?",
+        [{"word": "befreit", "lemma": "befreien", "pos": "verb", "meaning": "freed"}],
+        "Passive voice interrogative with 'werden'."
+    ),
+    "Ach nein!": (
+        "Ah no!",
+        [{"word": "Ach nein", "lemma": "nein", "pos": "phrase", "meaning": "ah no"}],
+        None
+    ),
+    "So sprich!": (
+        "So speak!",
+        [{"word": "sprich", "lemma": "sprechen", "pos": "verb", "meaning": "speak"}],
+        None
+    ),
+    "Wir müssen ihn – doch wie? – vom Leiden ganz befreien;": (
+        "We must him – but how? – from suffering completely free;",
+        [
+            {"word": "Leiden", "lemma": "Leiden", "pos": "noun", "meaning": "suffering"},
+            {"word": "befreien", "lemma": "befreien", "pos": "verb", "meaning": "to liberate / free"}
+        ],
+        None
+    ),
+    "er muß in einer Stunde begraben sein.": (
+        "he must in an hour buried be.",
+        [
+            {"word": "begraben", "lemma": "begraben", "pos": "verb", "meaning": "buried"}
+        ],
+        "Statal passive: 'begraben sein' (to be buried)."
+    ),
+    "So ist er tot?": (
+        "So is he dead?",
+        [{"word": "tot", "lemma": "tot", "pos": "adjective", "meaning": "dead"}],
+        None
+    ),
+    "Noch nicht, noch nicht!": (
+        "Not yet, not yet!",
+        [{"word": "Noch nicht", "lemma": "noch nicht", "pos": "adverb", "meaning": "not yet"}],
+        None
+    ),
+    "Ist ihm zu helfen?": (
+        "Is to-him to be-helped?",
+        [
+            {"word": "ihm zu helfen", "lemma": "helfen", "pos": "verb", "meaning": "can he be helped", "notes": "Modal passive with sein + zu-infinitive."}
+        ],
+        "Construction 'sein + zu + Infinitiv' denotes possibility or obligation."
+    ),
+    "Nein, Fidelio, nein!": (
+        "No, Fidelio, no!",
+        [{"word": "nein", "lemma": "nein", "pos": "particle", "meaning": "no"}],
+        None
+    ),
+    "Ihn töten, das ist des Gouverneurs Sache; wir müssen nur die Grube graben.": (
+        "Him to-kill, that is the Governor's affair; we must only the grave dig.",
+        [
+            {"word": "Gouverneurs Sache", "lemma": "Sache", "pos": "noun", "meaning": "Governor's affair / business"},
+            {"word": "Grube graben", "lemma": "graben", "pos": "verb", "meaning": "to dig a pit"}
+        ],
+        None
+    ),
+    "Vielleicht das Grab des Gatten graben? Was kann fürchterlicher sein!": (
+        "Perhaps the grave of-the husband to-dig? What can more-dreadful be!",
+        [
+            {"word": "des Gatten", "lemma": "Gatte", "pos": "noun", "meaning": "of the spouse / husband (genitive)"},
+            {"word": "fürchterlicher", "lemma": "fürchterlich", "pos": "adjective", "meaning": "more terrible (comparative)"}
+        ],
+        None
+    ),
+    "Ich darf ihn nicht mit Speise laben; ihm wird im Grabe besser sein.": (
+        "I may him not with food nourish; to-him will in-the grave better be.",
+        [
+            {"word": "Speise", "lemma": "Speise", "pos": "noun", "meaning": "food / nourishment"},
+            {"word": "laben", "lemma": "laben", "pos": "verb", "meaning": "refresh / sustain"}
+        ],
+        None
+    ),
+    "Wir müssen gleich zum Werke schreiten; du mußt mir helfen, mich begleiten; hart ist des Kerkermeisters Brot.": (
+        "We must immediately to-the work proceed; you must me help, me accompany; hard is of-the jailer the bread.",
+        [
+            {"word": "zum Werke schreiten", "lemma": "schreiten", "pos": "phrase", "meaning": "to set to work"},
+            {"word": "Kerkermeisters Brot", "lemma": "Brot", "pos": "noun", "meaning": "jailer's bread / livelihood"}
+        ],
+        "Metaphorical idiom: 'hart ist des Kerkermeisters Brot' (a jailer earns a grim living)."
+    ),
+    "Ich folge dir, wär’s auch zum Tod!": (
+        "I follow you, were-it even to death!",
+        [
+            {"word": "folge", "lemma": "folgen", "pos": "verb", "meaning": "follow (takes dative 'dir')"},
+            {"word": "wär's", "lemma": "sein", "pos": "phrase", "meaning": "even were it (subjunctive II)"}
+        ],
+        None
+    ),
+    "Ach, Vater, eilt!": (
+        "Ah, father, hasten!",
+        [{"word": "eilt", "lemma": "eilen", "pos": "verb", "meaning": "hasten (imperative plural)"}],
+        None
+    ),
+    "Was hast du denn?": (
+        "What have you then [what is the matter]?",
+        [{"word": "Was hast du denn", "lemma": "haben", "pos": "phrase", "meaning": "what is wrong?"}],
+        None
+    ),
+    "Nicht länger weilt!": (
+        "No longer linger!",
+        [{"word": "weilt", "lemma": "weilen", "pos": "verb", "meaning": "tarry / delay"}],
+        None
+    ),
+    "Was ist geschehen?": (
+        "What has happened?",
+        [{"word": "geschehen", "lemma": "geschehen", "pos": "verb", "meaning": "happened (past participle)"}],
+        None
+    ),
+    "Voll Zorn folgt mir Pizarro nach, er drohet dir!": (
+        "Full-of anger follows to-me Pizarro after, he threatens you!",
+        [
+            {"word": "folgt... nach", "lemma": "nachfolgen", "pos": "verb", "meaning": "follows after / pursues"},
+            {"word": "drohet", "lemma": "drohen", "pos": "verb", "meaning": "threatens (takes dative)"}
+        ],
+        None
+    ),
+    "Gemach, gemach!": (
+        "Gently, gently [easy now]!",
+        [{"word": "Gemach", "lemma": "gemach", "pos": "adverb", "meaning": "gently / easy / patience"}],
+        "Historical interjection urging calm and restraint."
+    ),
+    "So eilet fort!": (
+        "Then hasten away!",
+        [{"word": "eilet fort", "lemma": "forteilen", "pos": "verb", "meaning": "hurry off"}],
+        None
+    ),
+    "Nur noch ein Wort:": (
+        "Only yet one word:",
+        [{"word": "ein Wort", "lemma": "Wort", "pos": "noun", "meaning": "one word"}],
+        None
+    ),
+    "Weiß er es schon?": (
+        "Knows he it already?",
+        [{"word": "Weiß er", "lemma": "wissen", "pos": "verb", "meaning": "does he know"}],
+        None
+    ),
+    "Ja, er weiß es!": (
+        "Yes, he knows it!",
+        [{"word": "er weiß es", "lemma": "wissen", "pos": "clause", "meaning": "he knows it"}],
+        None
+    ),
+    "Verwegner Alter! Welche Rechte nahmst du dir? Wer gab den Befehl? Wer gab die Gefangenen frei?": (
+        "Audacious old-man! What rights took you to-yourself? Who gave the order? Who released the prisoners free?",
+        [
+            {"word": "Verwegner", "lemma": "verwegen", "pos": "adjective", "meaning": "insolent / audacious"},
+            {"word": "Rechte", "lemma": "Recht", "pos": "noun", "meaning": "rights / prerogatives"},
+            {"word": "gab... frei", "lemma": "freigeben", "pos": "verb", "meaning": "released / freed"}
+        ],
+        None
+    ),
+    "O Herr!": (
+        "O sir!",
+        [{"word": "Herr", "lemma": "Herr", "pos": "noun", "meaning": "sir / lord"}],
+        None
+    ),
+    "Wohlan!": (
+        "Well then! [Speak up!]",
+        [{"word": "Wohlan", "lemma": "wohlan", "pos": "interjection", "meaning": "come on / well then"}],
+        None
+    ),
+    "Des Frühlings Kommen, das heit’re, warme Sonnenlicht, dann ...": (
+        "Of-spring the coming, the serene, warm sunlight, then ...",
+        [
+            {"word": "Des Frühlings Kommen", "lemma": "Frühling", "pos": "noun", "meaning": "the arrival of spring (genitive)"},
+            {"word": "heit're", "lemma": "heiter", "pos": "adjective", "meaning": "cheerful / serene / bright"},
+            {"word": "Sonnenlicht", "lemma": "Sonnenlicht", "pos": "noun", "meaning": "sunlight"}
+        ],
+        None
+    ),
+    "habt ihr wohl in acht genommen, was sonst zu meinem Vorteil spricht?": (
+        "have you probably into regard taken, what otherwise in my favor speaks?",
+        [
+            {"word": "in acht nehmen", "lemma": "achten", "pos": "phrase", "meaning": "to take into account / consider"},
+            {"word": "zu meinem Vorteil", "lemma": "Vorteil", "pos": "noun", "meaning": "to my benefit / credit"}
+        ],
+        None
+    ),
+    "Des Königs Namensfest ist heute, das feiern wir auf solche Art.": (
+        "The King's nameday is today, that celebrate we in such manner.",
+        [
+            {"word": "Namensfest", "lemma": "Namensfest", "pos": "noun", "meaning": "name day (royal feast day)"},
+            {"word": "auf solche Art", "lemma": "Art", "pos": "phrase", "meaning": "in such a way"}
+        ],
+        None
+    ),
+    "Dem Manne da, dem Unterirdischen, bleibt das Grab nicht mehr erspart;": (
+        "To-the man there, to-the subterranean-one, remains the grave no longer spared;",
+        [
+            {"word": "Unterirdischen", "lemma": "unterirdisch", "pos": "noun", "meaning": "subterranean prisoner (dative)"},
+            {"word": "erspart", "lemma": "ersparen", "pos": "verb", "meaning": "spared (past participle)"}
+        ],
+        None
+    ),
+    "die andern laßt nur wieder ein!": (
+        "the others let just back in!",
+        [
+            {"word": "einlassen", "lemma": "einlassen", "pos": "verb", "meaning": "let back inside"}
+        ],
+        None
+    ),
+    "So eilet denn, schließt alle wieder ein!": (
+        "So hasten then, lock all back in!",
+        [
+            {"word": "einschließen", "lemma": "einschließen", "pos": "verb", "meaning": "lock up / enclose"}
+        ],
+        None
+    ),
+    "Leb’ wohl, du schönes Sonnenlicht!": (
+        "Fare well, you beautiful sunlight!",
+        [
+            {"word": "Leb' wohl", "lemma": "leben", "pos": "phrase", "meaning": "farewell"},
+            {"word": "Sonnenlicht", "lemma": "Sonnenlicht", "pos": "noun", "meaning": "sunlight"}
+        ],
+        None
+    ),
+    "Schnell schwindet uns der Hoffnung Schein!": (
+        "Quickly vanishes from-us of-hope the gleam!",
+        [
+            {"word": "schwindet", "lemma": "schwinden", "pos": "verb", "meaning": "dwindles / fades away"}
+        ],
+        None
+    ),
+    "Die Ander’n murmeln nieder, hier wohnt die Lust, die Freude nicht!": (
+        "The others mutter down, here dwells the pleasure, the joy not!",
+        [
+            {"word": "murmeln", "lemma": "murmeln", "pos": "verb", "meaning": "mutter / murmur"},
+            {"word": "wohnt", "lemma": "wohnen", "pos": "verb", "meaning": "dwells / abides"}
+        ],
+        None
+    ),
+    "Sie sinnen auf und nieder! Könnt’ ich versteh’n, was jeder spricht!": (
+        "They ponder up and down! Could I understand, what everyone speaks!",
+        [
+            {"word": "sinnen", "lemma": "sinnen", "pos": "verb", "meaning": "ponder / brood"},
+            {"word": "auf und nieder", "lemma": "auf und nieder", "pos": "phrase", "meaning": "back and forth / deeply"}
+        ],
+        "Idiom 'auf und nieder sinnen' (to brood and turn things over in one's mind)."
+    ),
+    "Schon sinkt die Nacht hernieder, aus der kein Morgen wieder bricht!": (
+        "Already sinks the night down, out-of which no morning again breaks!",
+        [
+            {"word": "hernieder", "lemma": "hernieder", "pos": "adverb", "meaning": "downward / down"},
+            {"word": "bricht", "lemma": "anbrechen", "pos": "verb", "meaning": "dawns / breaks (of morning)"}
+        ],
+        "Poetic metaphor: morning breaking from the darkness."
+    )
+}
+
+print(f"Scene 10 translations defined: {len(TRANS_SC10)}")
+with open('scripts/fidelio_trans_sc10.json', 'w', encoding='utf-8') as f:
+    json.dump(TRANS_SC10, f, ensure_ascii=False, indent=2)

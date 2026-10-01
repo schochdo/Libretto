@@ -1,0 +1,1731 @@
+[
+  {
+    "id": "a3_s1_c1_l1",
+    "scene": 1,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Wohl wüsst ich hier sie im Gebet zu finden,"
+  },
+  {
+    "id": "a3_s1_c1_l2",
+    "scene": 1,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "wie ich so oft sie treffe, wenn ich einsam"
+  },
+  {
+    "id": "a3_s1_c1_l3",
+    "scene": 1,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "aus wald'ger Höh mich in das Tal verirre!"
+  },
+  {
+    "id": "a3_s1_c1_l4",
+    "scene": 1,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Den Tod, den er ihr gab, im Herzen, -"
+  },
+  {
+    "id": "a3_s1_c1_l5",
+    "scene": 1,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "dahingestreckt in brünst'gen Schmerzen,"
+  },
+  {
+    "id": "a3_s1_c1_l6",
+    "scene": 1,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "fleht für sein Heil sie Tag und Nacht: -"
+  },
+  {
+    "id": "a3_s1_c1_l7",
+    "scene": 1,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "o heil'ger Liebe ew'ge Macht!"
+  },
+  {
+    "id": "a3_s1_c1_l8",
+    "scene": 1,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Von Rom zurück erwartet sie die Pilger,"
+  },
+  {
+    "id": "a3_s1_c1_l9",
+    "scene": 1,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "schon fällt das Laub, die Heimkehr steht bevor!"
+  },
+  {
+    "id": "a3_s1_c1_l10",
+    "scene": 1,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Kehrt er mit den Begnadigten zurück?"
+  },
+  {
+    "id": "a3_s1_c1_l11",
+    "scene": 1,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Dies ist ihr Fragen, dies ihr Flehen, -"
+  },
+  {
+    "id": "a3_s1_c1_l12",
+    "scene": 1,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "ihr Heil'gen, lasst erfüllt es sehen!"
+  },
+  {
+    "id": "a3_s1_c1_l13",
+    "scene": 1,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Bleibt auch die Wunde ungeheilt, -"
+  },
+  {
+    "id": "a3_s1_c1_l14",
+    "scene": 1,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "o, würd' ihr Lindrung nur erteilt!"
+  },
+  {
+    "id": "a3_s1_c3_l1",
+    "scene": 1,
+    "speaker": "Older Pilgrims",
+    "stageDirection": "aus grosser Ferne sich langsam der Bühne nähernd",
+    "original": "Beglückt darf nun dich, o Heimat, ich schauen"
+  },
+  {
+    "id": "a3_s1_c3_l2",
+    "scene": 1,
+    "speaker": "Older Pilgrims",
+    "stageDirection": "aus grosser Ferne sich langsam der Bühne nähernd",
+    "original": "und grüssen froh deine lieblichen Auen;"
+  },
+  {
+    "id": "a3_s1_c3_l3",
+    "scene": 1,
+    "speaker": "Older Pilgrims",
+    "stageDirection": "aus grosser Ferne sich langsam der Bühne nähernd",
+    "original": "nun lass ich ruhn den Wanderstab,"
+  },
+  {
+    "id": "a3_s1_c3_l4",
+    "scene": 1,
+    "speaker": "Older Pilgrims",
+    "stageDirection": "aus grosser Ferne sich langsam der Bühne nähernd",
+    "original": "weil Gott getreu ich gepilgert hab!"
+  },
+  {
+    "id": "a3_s1_c4_l1",
+    "scene": 1,
+    "speaker": "Elisabeth",
+    "stageDirection": "erhebt sich, dem Gesange lauschend",
+    "original": "Dies ist ihr Sang! Sie sind's! Sie kehren heim!"
+  },
+  {
+    "id": "a3_s1_c4_l2",
+    "scene": 1,
+    "speaker": "Elisabeth",
+    "stageDirection": "erhebt sich, dem Gesange lauschend",
+    "original": "Ihr Heil'gen, zeigt mir jetzt mein Amt,"
+  },
+  {
+    "id": "a3_s1_c4_l3",
+    "scene": 1,
+    "speaker": "Elisabeth",
+    "stageDirection": "erhebt sich, dem Gesange lauschend",
+    "original": "dass ich mit Würde es erfülle!"
+  },
+  {
+    "id": "a3_s1_c5_l1",
+    "scene": 1,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Die Pilger sind's, - es ist die fromme Weise,"
+  },
+  {
+    "id": "a3_s1_c5_l2",
+    "scene": 1,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "die der empfangnen Gnade Heil verkündet!"
+  },
+  {
+    "id": "a3_s1_c5_l3",
+    "scene": 1,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "O Himmel, stärke jetzt ihr Herz"
+  },
+  {
+    "id": "a3_s1_c5_l4",
+    "scene": 1,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "für die Entscheidung ihres Lebens!"
+  },
+  {
+    "id": "a3_s1_c6_l1",
+    "scene": 1,
+    "speaker": "Older Pilgrims",
+    "stageDirection": "allmählich der Bühne näher",
+    "original": "Durch Sühn' und Buss' hab' ich versöhnt"
+  },
+  {
+    "id": "a3_s1_c6_l2",
+    "scene": 1,
+    "speaker": "Older Pilgrims",
+    "stageDirection": "allmählich der Bühne näher",
+    "original": "den Herren, dem mein Herze fröhnt,"
+  },
+  {
+    "id": "a3_s1_c6_l3",
+    "scene": 1,
+    "speaker": "Older Pilgrims",
+    "stageDirection": "allmählich der Bühne näher",
+    "original": "der meine Reu' mit Segen krönt,"
+  },
+  {
+    "id": "a3_s1_c6_l4",
+    "scene": 1,
+    "speaker": "Older Pilgrims",
+    "stageDirection": "allmählich der Bühne näher",
+    "original": "den Herren, dem mein Lied ertönt!"
+  },
+  {
+    "id": "a3_s1_c7_l1",
+    "scene": 1,
+    "speaker": "Older Pilgrims",
+    "stageDirection": "Hier betreten die Pilger die Bühne von rechts im Vordergrunde her",
+    "original": "Der Gnade Heil ist dem Büsser beschieden,"
+  },
+  {
+    "id": "a3_s1_c7_l2",
+    "scene": 1,
+    "speaker": "Older Pilgrims",
+    "stageDirection": "Hier betreten die Pilger die Bühne von rechts im Vordergrunde her",
+    "original": "er geht einst ein in der Seligen Frieden;"
+  },
+  {
+    "id": "a3_s1_c8_l1",
+    "scene": 1,
+    "speaker": "Older Pilgrims",
+    "stageDirection": "Sie ziehen während des Folgenden an dem Bergvorsprunge vorbei langsam das Tal entlang dem Hintergrunde zu",
+    "original": "Vor Höll' und Tod ist ihm nicht bang;"
+  },
+  {
+    "id": "a3_s1_c8_l2",
+    "scene": 1,
+    "speaker": "Older Pilgrims",
+    "stageDirection": "Sie ziehen während des Folgenden an dem Bergvorsprunge vorbei langsam das Tal entlang dem Hintergrunde zu",
+    "original": "drum preis ich Gott mein Lebenlang!"
+  },
+  {
+    "id": "a3_s1_c9_l1",
+    "scene": 1,
+    "speaker": "Older Pilgrims",
+    "stageDirection": "Die Pilger haben sich hier bereits der Hintergrunde zugewendet, sich allmählich entfernend",
+    "original": "Hallelujah! Hallelujah! In Ewigkeit!"
+  },
+  {
+    "id": "a3_s1_c10_l1",
+    "scene": 1,
+    "speaker": "Elisabeth",
+    "stageDirection": "die von ihrem erhöhten Standpunkte aus mit grosser Aufregung unter den vorüberziehenden Pilgern nach Tannhäuser geforscht hat, in schmerzlicher aber ruhiger Fassung",
+    "original": "Er kehret nicht zurück!"
+  },
+  {
+    "id": "a3_s1_c11_l1",
+    "scene": 1,
+    "speaker": "Pilgrims",
+    "stageDirection": "entfernen sich unter dem Folgenden immer mehr und verschwinden endlich durch die Talöffnung nach rechts",
+    "original": "Beglückt darf nun dich, o Heimat, ich schauen,"
+  },
+  {
+    "id": "a3_s1_c11_l2",
+    "scene": 1,
+    "speaker": "Pilgrims",
+    "stageDirection": "entfernen sich unter dem Folgenden immer mehr und verschwinden endlich durch die Talöffnung nach rechts",
+    "original": "und grüssen froh deine lieblichen Auen!"
+  },
+  {
+    "id": "a3_s1_c11_l3",
+    "scene": 1,
+    "speaker": "Pilgrims",
+    "stageDirection": "entfernen sich unter dem Folgenden immer mehr und verschwinden endlich durch die Talöffnung nach rechts",
+    "original": "Nun lass ich ruhn den Wanderstab!"
+  },
+  {
+    "id": "a3_s1_c13_l1",
+    "scene": 1,
+    "speaker": "Elisabeth",
+    "stageDirection": "mit grosser Feierlichkeit sich auf die Knie senkend",
+    "original": "Allmächt'ge Jungfrau, hör mein Flehen!"
+  },
+  {
+    "id": "a3_s1_c13_l2",
+    "scene": 1,
+    "speaker": "Elisabeth",
+    "stageDirection": "mit grosser Feierlichkeit sich auf die Knie senkend",
+    "original": "Zu dir, Gepriesne, rufe ich!"
+  },
+  {
+    "id": "a3_s1_c13_l3",
+    "scene": 1,
+    "speaker": "Elisabeth",
+    "stageDirection": "mit grosser Feierlichkeit sich auf die Knie senkend",
+    "original": "Lass mich im Staub vor dir vergehen,"
+  },
+  {
+    "id": "a3_s1_c13_l4",
+    "scene": 1,
+    "speaker": "Elisabeth",
+    "stageDirection": "mit grosser Feierlichkeit sich auf die Knie senkend",
+    "original": "o, nimm von dieser Erde mich!"
+  },
+  {
+    "id": "a3_s1_c13_l5",
+    "scene": 1,
+    "speaker": "Elisabeth",
+    "stageDirection": "mit grosser Feierlichkeit sich auf die Knie senkend",
+    "original": "Mach, dass ich rein und engelgleich"
+  },
+  {
+    "id": "a3_s1_c13_l6",
+    "scene": 1,
+    "speaker": "Elisabeth",
+    "stageDirection": "mit grosser Feierlichkeit sich auf die Knie senkend",
+    "original": "eingehe in dein selig Reich!"
+  },
+  {
+    "id": "a3_s1_c13_l7",
+    "scene": 1,
+    "speaker": "Elisabeth",
+    "stageDirection": "mit grosser Feierlichkeit sich auf die Knie senkend",
+    "original": "Wenn je, in tör'gem Wahn befangen,"
+  },
+  {
+    "id": "a3_s1_c13_l8",
+    "scene": 1,
+    "speaker": "Elisabeth",
+    "stageDirection": "mit grosser Feierlichkeit sich auf die Knie senkend",
+    "original": "mein Herz sich abgewandt von dir, -"
+  },
+  {
+    "id": "a3_s1_c13_l9",
+    "scene": 1,
+    "speaker": "Elisabeth",
+    "stageDirection": "mit grosser Feierlichkeit sich auf die Knie senkend",
+    "original": "wenn je ein sündiges Verlangen,"
+  },
+  {
+    "id": "a3_s1_c13_l10",
+    "scene": 1,
+    "speaker": "Elisabeth",
+    "stageDirection": "mit grosser Feierlichkeit sich auf die Knie senkend",
+    "original": "ein weltlich Sehnen keimt' in mir: -"
+  },
+  {
+    "id": "a3_s1_c13_l11",
+    "scene": 1,
+    "speaker": "Elisabeth",
+    "stageDirection": "mit grosser Feierlichkeit sich auf die Knie senkend",
+    "original": "so rang ich unter tausend Schmerzen,"
+  },
+  {
+    "id": "a3_s1_c13_l12",
+    "scene": 1,
+    "speaker": "Elisabeth",
+    "stageDirection": "mit grosser Feierlichkeit sich auf die Knie senkend",
+    "original": "dass ich es töt' in meinem Herzen!"
+  },
+  {
+    "id": "a3_s1_c13_l13",
+    "scene": 1,
+    "speaker": "Elisabeth",
+    "stageDirection": "mit grosser Feierlichkeit sich auf die Knie senkend",
+    "original": "Doch, konnt ich jeden Fehl nicht büssen,"
+  },
+  {
+    "id": "a3_s1_c13_l14",
+    "scene": 1,
+    "speaker": "Elisabeth",
+    "stageDirection": "mit grosser Feierlichkeit sich auf die Knie senkend",
+    "original": "so nimm dich gnädig meiner an,"
+  },
+  {
+    "id": "a3_s1_c13_l15",
+    "scene": 1,
+    "speaker": "Elisabeth",
+    "stageDirection": "mit grosser Feierlichkeit sich auf die Knie senkend",
+    "original": "dass ich mit demutvollem Grüssen"
+  },
+  {
+    "id": "a3_s1_c13_l16",
+    "scene": 1,
+    "speaker": "Elisabeth",
+    "stageDirection": "mit grosser Feierlichkeit sich auf die Knie senkend",
+    "original": "als würd'ge Magd dir nahen kann,"
+  },
+  {
+    "id": "a3_s1_c13_l17",
+    "scene": 1,
+    "speaker": "Elisabeth",
+    "stageDirection": "mit grosser Feierlichkeit sich auf die Knie senkend",
+    "original": "um deiner Gnaden reichste Huld"
+  },
+  {
+    "id": "a3_s1_c13_l18",
+    "scene": 1,
+    "speaker": "Elisabeth",
+    "stageDirection": "mit grosser Feierlichkeit sich auf die Knie senkend",
+    "original": "nur anzuflehn für seine Schuld!"
+  },
+  {
+    "id": "a3_s1_c15_l1",
+    "scene": 1,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Elisabeth, dürft ich dich nicht geleiten?"
+  },
+  {
+    "id": "a3_s2_c1_l1",
+    "scene": 2,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Wie Todesahnung, Dämm'rung deckt die Lande,"
+  },
+  {
+    "id": "a3_s2_c1_l2",
+    "scene": 2,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "umhüllt das Tal mit schwärzlichem Gewande;"
+  },
+  {
+    "id": "a3_s2_c1_l3",
+    "scene": 2,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "der Seele, die nach jenen Höh'n verlangt,"
+  },
+  {
+    "id": "a3_s2_c1_l4",
+    "scene": 2,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "vor ihrem Flug durch Nacht und Grausen bangt!"
+  },
+  {
+    "id": "a3_s2_c1_l5",
+    "scene": 2,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Da scheinest du, o lieblichster der Sterne,"
+  },
+  {
+    "id": "a3_s2_c1_l6",
+    "scene": 2,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "dein sanftes Licht entsendest du der Ferne,"
+  },
+  {
+    "id": "a3_s2_c1_l7",
+    "scene": 2,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "die nächt'ge Dämmrung teilt dein lieber Strahl,"
+  },
+  {
+    "id": "a3_s2_c1_l8",
+    "scene": 2,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "und freundlich zeigst du den Weg aus dem Tal."
+  },
+  {
+    "id": "a3_s2_c1_l9",
+    "scene": 2,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "O du, mein holder Abendstern,"
+  },
+  {
+    "id": "a3_s2_c1_l10",
+    "scene": 2,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "wohl grüsst' ich immer dich so gern;"
+  },
+  {
+    "id": "a3_s2_c1_l11",
+    "scene": 2,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "vom Herzen, das sie nie verriet,"
+  },
+  {
+    "id": "a3_s2_c1_l12",
+    "scene": 2,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "grüsse sie, wenn sie vorbei dir zieht, -"
+  },
+  {
+    "id": "a3_s2_c1_l13",
+    "scene": 2,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "wenn sie entschwebt dem Tal der Erden,"
+  },
+  {
+    "id": "a3_s2_c1_l14",
+    "scene": 2,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "ein sel'ger Engel dort zu werden!"
+  },
+  {
+    "id": "a3_s3_c2_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "mit matter Stimme",
+    "original": "Ich hörte Harfenschlag,"
+  },
+  {
+    "id": "a3_s3_c2_l2",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "mit matter Stimme",
+    "original": "- wie klang er traurig! -"
+  },
+  {
+    "id": "a3_s3_c2_l3",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "mit matter Stimme",
+    "original": "Der kam wohl nicht von ihr."
+  },
+  {
+    "id": "a3_s3_c3_l1",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Wer bist du, Pilger,"
+  },
+  {
+    "id": "a3_s3_c3_l2",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "der du so einsam wanderst?"
+  },
+  {
+    "id": "a3_s3_c4_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Wer ich bin? -"
+  },
+  {
+    "id": "a3_s3_c4_l2",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Kenn ich doch dich recht gut! - Wolfram bist du,"
+  },
+  {
+    "id": "a3_s3_c5_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "höhnisch",
+    "original": "der wohlgeübte Sänger!"
+  },
+  {
+    "id": "a3_s3_c6_l1",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": "heftig auffahrend",
+    "original": "Heinrich! Du!"
+  },
+  {
+    "id": "a3_s3_c6_l2",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": "heftig auffahrend",
+    "original": "Was bringt dich her in diese Nähe? Sprich!"
+  },
+  {
+    "id": "a3_s3_c6_l3",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": "heftig auffahrend",
+    "original": "Wagst du es, unentsündigt noch den Fuss"
+  },
+  {
+    "id": "a3_s3_c6_l4",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": "heftig auffahrend",
+    "original": "nach dieser Gegend herzulenken?"
+  },
+  {
+    "id": "a3_s3_c7_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Sei ausser Sorg', mein guter Sänger!"
+  },
+  {
+    "id": "a3_s3_c7_l2",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Nicht such ich dich, noch deiner Sippschaft Einen."
+  },
+  {
+    "id": "a3_s3_c8_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "mit unheimlicher Lüsternheit",
+    "original": "Doch such ich wen, der mir den Weg wohl zeige,"
+  },
+  {
+    "id": "a3_s3_c8_l2",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "mit unheimlicher Lüsternheit",
+    "original": "den Weg, den einst so wunderleicht ich fand -"
+  },
+  {
+    "id": "a3_s3_c9_l1",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Und welchen Weg?"
+  },
+  {
+    "id": "a3_s3_c10_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Den Weg zum Venusberg!"
+  },
+  {
+    "id": "a3_s3_c11_l1",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Entsetzlicher! Entweihe nicht mein Ohr!"
+  },
+  {
+    "id": "a3_s3_c11_l2",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Treibt es dich dahin?"
+  },
+  {
+    "id": "a3_s3_c12_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "leise",
+    "original": "Kennst du wohl den Weg?"
+  },
+  {
+    "id": "a3_s3_c13_l1",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Wahnsinn'ger! Grausen fasst mich, hör ich dich!"
+  },
+  {
+    "id": "a3_s3_c13_l2",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Wo warst du?"
+  },
+  {
+    "id": "a3_s3_c13_l3",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Zogst du denn nicht nach Rom?"
+  },
+  {
+    "id": "a3_s3_c14_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "wütend",
+    "original": "Schweig mir von Rom!"
+  },
+  {
+    "id": "a3_s3_c15_l1",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Warst nicht beim heil'gen Feste?"
+  },
+  {
+    "id": "a3_s3_c16_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Schweig mir von ihm!"
+  },
+  {
+    "id": "a3_s3_c17_l1",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "So warst du nicht? Sag, ich"
+  },
+  {
+    "id": "a3_s3_c17_l2",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "beschwöre dich!"
+  },
+  {
+    "id": "a3_s3_c18_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "wie sich besinnend, mit schmerzlichem Ingrimm",
+    "original": "Wohl war auch ich in Rom!"
+  },
+  {
+    "id": "a3_s3_c19_l1",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "So sprich! Erzähle mir, Unglücklicher!"
+  },
+  {
+    "id": "a3_s3_c19_l2",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Mich fasst ein tiefes Mitleid für dich an!"
+  },
+  {
+    "id": "a3_s3_c21_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "langsam",
+    "original": "Wie sagst du, Wolfram? Bist du denn nicht mein Feind?"
+  },
+  {
+    "id": "a3_s3_c22_l1",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Nie war ich es, so lang ich fromm dich wähnte."
+  },
+  {
+    "id": "a3_s3_c22_l2",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Doch sag, du pilgertest nach Rom?"
+  },
+  {
+    "id": "a3_s3_c23_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Nun denn,"
+  },
+  {
+    "id": "a3_s3_c23_l2",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "hör an! Du, Wolfram, du sollst es erfahren."
+  },
+  {
+    "id": "a3_s3_c24_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Er setzt sich erschöpft auf Fusse des Bergvorsprunges nieder; Wolfram will sich an seiner Seite ebenfalls niederlassen",
+    "original": "Zurück von mir! Die Stätte, wo ich raste, ist verflucht!"
+  },
+  {
+    "id": "a3_s3_c25_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "Hör an, Wolfram, hör an!"
+  },
+  {
+    "id": "a3_s3_c25_l2",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "Inbrunst im Herzen, wie kein Büsser noch"
+  },
+  {
+    "id": "a3_s3_c25_l3",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "sie je gefühlt, sucht ich den Weg nach Rom."
+  },
+  {
+    "id": "a3_s3_c25_l4",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "Ein Engel hatte, ach! der Sünde Stolz"
+  },
+  {
+    "id": "a3_s3_c25_l5",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "dem Übermütigen entwunden;"
+  },
+  {
+    "id": "a3_s3_c25_l6",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "für ihn wollt'ich in Demut büssen,"
+  },
+  {
+    "id": "a3_s3_c25_l7",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "das Heil erflehn, das mir verneint,"
+  },
+  {
+    "id": "a3_s3_c25_l8",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "um ihm die Träne zu versüssen,"
+  },
+  {
+    "id": "a3_s3_c25_l9",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "die er mir Sünder einst geweint! -"
+  },
+  {
+    "id": "a3_s3_c25_l10",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "Wie neben mir der schwerstbedrückte Pilger"
+  },
+  {
+    "id": "a3_s3_c25_l11",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "die Strasse wallt', erschien mir allzuleicht: -"
+  },
+  {
+    "id": "a3_s3_c25_l12",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "betrat sein Fuss den weichen Grund der Wiesen,"
+  },
+  {
+    "id": "a3_s3_c25_l13",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "der nackten Sohle sucht ich Dorn und Stein;"
+  },
+  {
+    "id": "a3_s3_c25_l14",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "liess Labung er am Quell den Mund geniessen,"
+  },
+  {
+    "id": "a3_s3_c25_l15",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "sog ich der Sonne heisses Glühen ein;"
+  },
+  {
+    "id": "a3_s3_c25_l16",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "wenn fromm zu Himmel er Gebete schickte,"
+  },
+  {
+    "id": "a3_s3_c25_l17",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "vergoss mein Blut ich zu des Höchsten Preis;"
+  },
+  {
+    "id": "a3_s3_c25_l18",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "als im Hospiz der Müde sich erquickte,"
+  },
+  {
+    "id": "a3_s3_c25_l19",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "die Glieder bettet' ich in Schnee und Eis;"
+  },
+  {
+    "id": "a3_s3_c25_l20",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "verschlossnen Augs, ihr Wunder nicht zu schauen,"
+  },
+  {
+    "id": "a3_s3_c25_l21",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "durchzog ich blind Italiens holde Auen! -"
+  },
+  {
+    "id": "a3_s3_c25_l22",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "Ich tat's, denn in Zerknirschung wollt ich büssen,"
+  },
+  {
+    "id": "a3_s3_c25_l23",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "um meines Engels Tränen zu versüssen!"
+  },
+  {
+    "id": "a3_s3_c25_l24",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "Nach Rom gelangt ich so zur heil'gen Stelle,"
+  },
+  {
+    "id": "a3_s3_c25_l25",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "lag betend auf des Heiligtumes Schwelle."
+  },
+  {
+    "id": "a3_s3_c25_l26",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "Der Tag brach an; da läuteten die Glocken,"
+  },
+  {
+    "id": "a3_s3_c25_l27",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "hernieder tönten himmlische Gesänge;"
+  },
+  {
+    "id": "a3_s3_c25_l28",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "da jauchzt' es auf in brünstigem Frohlocken,"
+  },
+  {
+    "id": "a3_s3_c25_l29",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "denn Gnad' und Heil verhiessen sie der Menge!"
+  },
+  {
+    "id": "a3_s3_c25_l30",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "Da sah ich ihn, durch den sich Gott verkündigt,"
+  },
+  {
+    "id": "a3_s3_c25_l31",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "vor ihm all Volk im Staub sich niederliess."
+  },
+  {
+    "id": "a3_s3_c25_l32",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "Und Tausenden er Gnade gab, entsündigt"
+  },
+  {
+    "id": "a3_s3_c25_l33",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "er Tausende sich froh erheben hiess. -"
+  },
+  {
+    "id": "a3_s3_c25_l34",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "Da naht auch ich, - das Haupt gebeugt zur Erde,"
+  },
+  {
+    "id": "a3_s3_c25_l35",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "klagt ich mich an, mit jammernder Gebärde,"
+  },
+  {
+    "id": "a3_s3_c25_l36",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "der bösen Lust, die meine Sinn' empfanden,"
+  },
+  {
+    "id": "a3_s3_c25_l37",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "des Sehnens, das kein Büssen noch gekühlt;"
+  },
+  {
+    "id": "a3_s3_c25_l38",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "und um Erlösung aus den heissen Banden"
+  },
+  {
+    "id": "a3_s3_c25_l39",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "rief ich ihn an, von wildem Schmerz durchwühlt."
+  },
+  {
+    "id": "a3_s3_c25_l40",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "Und er, den so ich bat, hub an:"
+  },
+  {
+    "id": "a3_s3_c25_l41",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "\"Hast du so böse Lust geteilt,"
+  },
+  {
+    "id": "a3_s3_c25_l42",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "dich an der Hölle Glut entflammt,"
+  },
+  {
+    "id": "a3_s3_c25_l43",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "hast du im Venusberg geweilt"
+  },
+  {
+    "id": "a3_s3_c25_l44",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "so bist nun ewig du verdammt!"
+  },
+  {
+    "id": "a3_s3_c25_l45",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "Wie dieser Stab in meiner Hand"
+  },
+  {
+    "id": "a3_s3_c25_l46",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "nie mehr sich schmückt mit frischem Grün,"
+  },
+  {
+    "id": "a3_s3_c25_l47",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "kann aus der Hölle heissen Brand"
+  },
+  {
+    "id": "a3_s3_c25_l48",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "Erlösung nimmer dir erblühn!\""
+  },
+  {
+    "id": "a3_s3_c25_l49",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "Da sank ich in Vernichtung dumpf darnieder,"
+  },
+  {
+    "id": "a3_s3_c25_l50",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "die Sinne schwanden mir. Als ich erwacht',"
+  },
+  {
+    "id": "a3_s3_c25_l51",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "auf ödem Platze lagerte die Nacht,"
+  },
+  {
+    "id": "a3_s3_c25_l52",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "von fern her tönten frohe Gnadenlieder:"
+  },
+  {
+    "id": "a3_s3_c25_l53",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "Da ekelte mich der holde Sang!"
+  },
+  {
+    "id": "a3_s3_c25_l54",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "Von der Verheissung lügnerischem Klang,"
+  },
+  {
+    "id": "a3_s3_c25_l55",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "der eiseskalt mir durch die Seele schnitt,"
+  },
+  {
+    "id": "a3_s3_c25_l56",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "trieb Grausen mich hinweg mit wildem Schritt!"
+  },
+  {
+    "id": "a3_s3_c25_l57",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "Dahin zog's mich, wo ich der Wonn' und Lust"
+  },
+  {
+    "id": "a3_s3_c25_l58",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Wolfram bleibt in geringer Entfernung vor Tannhäuser stehen",
+    "original": "so viel genoss, an ihre warme Brust!"
+  },
+  {
+    "id": "a3_s3_c26_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "in grauenhafter Begeisterung",
+    "original": "Zu dir, Frau Venus, kehr ich wieder,"
+  },
+  {
+    "id": "a3_s3_c26_l2",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "in grauenhafter Begeisterung",
+    "original": "in deiner Zauber holde Nacht;"
+  },
+  {
+    "id": "a3_s3_c26_l3",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "in grauenhafter Begeisterung",
+    "original": "zu deinem Hof steig ich darnieder,"
+  },
+  {
+    "id": "a3_s3_c26_l4",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "in grauenhafter Begeisterung",
+    "original": "wo nun dein Reiz mir ewig lacht!"
+  },
+  {
+    "id": "a3_s3_c27_l1",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Halt ein! halt ein! Unsel'ger!"
+  },
+  {
+    "id": "a3_s3_c28_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Ach, lass' mich nicht vergebens suchen!"
+  },
+  {
+    "id": "a3_s3_c28_l2",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Wie leicht fand ich doch einstens dich!"
+  },
+  {
+    "id": "a3_s3_c29_l1",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Halt ein! Unsel'ger!"
+  },
+  {
+    "id": "a3_s3_c30_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Du hörst, dass mir die Menschen fluchen,"
+  },
+  {
+    "id": "a3_s3_c30_l2",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "nun, süsse Göttin, leite mich!"
+  },
+  {
+    "id": "a3_s3_c32_l1",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": "in heftigem Grausen",
+    "original": "Wahnsinniger! Wen rufst du an?"
+  },
+  {
+    "id": "a3_s3_c33_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Ha! Fühlest du nicht milde Lüfte?"
+  },
+  {
+    "id": "a3_s3_c34_l1",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Zu mir! Es ist um dich getan!"
+  },
+  {
+    "id": "a3_s3_c35_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Und atmest du nicht holde Düfte?"
+  },
+  {
+    "id": "a3_s3_c36_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "Die Nebel beginnen in rosiger Dämmerung zu erglühen",
+    "original": "Hörst du nicht jubelnde Klänge?"
+  },
+  {
+    "id": "a3_s3_c37_l1",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "In wildem Schauer bebt die Brust!"
+  },
+  {
+    "id": "a3_s3_c38_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "immer aufgeregter, je näher der Zauber kommt",
+    "original": "Das ist der Nymphen tanzende Menge!"
+  },
+  {
+    "id": "a3_s3_c38_l2",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "immer aufgeregter, je näher der Zauber kommt",
+    "original": "Herbei, herbei zu Wonn und Lust!"
+  },
+  {
+    "id": "a3_s3_c40_l1",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Weh! Böser Zauber tut sich auf!"
+  },
+  {
+    "id": "a3_s3_c40_l2",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Die Hölle naht mit wildem Lauf."
+  },
+  {
+    "id": "a3_s3_c41_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Entzücken dringt durch meine Sinne,"
+  },
+  {
+    "id": "a3_s3_c41_l2",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "gewahr ich diesen Dämmerschein!"
+  },
+  {
+    "id": "a3_s3_c41_l3",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Dies ist das Zauberreich der Minne,"
+  },
+  {
+    "id": "a3_s3_c42_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "ausser sich",
+    "original": "im Venusberg drangen wir ein!"
+  },
+  {
+    "id": "a3_s3_c44_l1",
+    "scene": 3,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "Willkommen, ungetreuer Mann!"
+  },
+  {
+    "id": "a3_s3_c44_l2",
+    "scene": 3,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "Schlug dich die Welt in Acht und Bann?"
+  },
+  {
+    "id": "a3_s3_c44_l3",
+    "scene": 3,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "Und findest nirgend du Erbarmen,"
+  },
+  {
+    "id": "a3_s3_c44_l4",
+    "scene": 3,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "suchst Liebe du in meinen Armen?"
+  },
+  {
+    "id": "a3_s3_c45_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Frau Venus, o Erbarmungsreiche!"
+  },
+  {
+    "id": "a3_s3_c45_l2",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Zu dir, zu dir zieht es mich hin!"
+  },
+  {
+    "id": "a3_s3_c46_l1",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Zauber der Hölle weiche, weiche!"
+  },
+  {
+    "id": "a3_s3_c46_l2",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Berücke nicht des Reinen Sinn!"
+  },
+  {
+    "id": "a3_s3_c47_l1",
+    "scene": 3,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "Nahst du dich wieder meiner Schwelle,"
+  },
+  {
+    "id": "a3_s3_c47_l2",
+    "scene": 3,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "sei dir dein Übermut verziehn;"
+  },
+  {
+    "id": "a3_s3_c47_l3",
+    "scene": 3,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "ewig fliesse dir der Freuden Quelle,"
+  },
+  {
+    "id": "a3_s3_c47_l4",
+    "scene": 3,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "und nimmer sollst du von mir fliehn!"
+  },
+  {
+    "id": "a3_s3_c48_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "indem er sich mit wilder Entschlossenheit von Wolfram losreisst",
+    "original": "Mein Heil, mein Heil hab ich verloren, nun sei der Hölle Lust erkoren!"
+  },
+  {
+    "id": "a3_s3_c49_l1",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Allmächt'ger! Steh dem Frommen bei!"
+  },
+  {
+    "id": "a3_s3_c50_l1",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": "Er hält Tannhäuser von neuem",
+    "original": "Heinrich! Ein Wort, es macht dich frei!"
+  },
+  {
+    "id": "a3_s3_c50_l2",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": "Er hält Tannhäuser von neuem",
+    "original": "Dein Heil - !"
+  },
+  {
+    "id": "a3_s3_c51_l1",
+    "scene": 3,
+    "speaker": "Venus",
+    "stageDirection": "in keimender Angst",
+    "original": "O komm! O komm! Auf ewig sei nun mein!"
+  },
+  {
+    "id": "a3_s3_c52_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "zu Wolfram",
+    "original": "Lass ab! Lass ab von mir!"
+  },
+  {
+    "id": "a3_s3_c53_l1",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Noch soll das Heil dir Sünder werden!"
+  },
+  {
+    "id": "a3_s3_c55_l1",
+    "scene": 3,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "O komm!"
+  },
+  {
+    "id": "a3_s3_c56_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Nie Wolfram! Nie! Ich muss dahin!"
+  },
+  {
+    "id": "a3_s3_c57_l1",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Ein Engel bat für dich auf Erden,"
+  },
+  {
+    "id": "a3_s3_c57_l2",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "bald schwebt er segnend über dir;"
+  },
+  {
+    "id": "a3_s3_c58_l1",
+    "scene": 3,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "Komm, o komm! Zu mir! Zu mir!"
+  },
+  {
+    "id": "a3_s3_c59_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Lass mich!"
+  },
+  {
+    "id": "a3_s3_c60_l1",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Elisabeth!"
+  },
+  {
+    "id": "a3_s3_c61_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "der sich soeben losgerissen, bleibt plötzlich wie an die Stelle geheftet",
+    "original": "Elisabeth!"
+  },
+  {
+    "id": "a3_s3_c63_l1",
+    "scene": 3,
+    "speaker": "Minstrels and Men's Chorus",
+    "stageDirection": null,
+    "original": "Der Seele Heil, die nun entflohn"
+  },
+  {
+    "id": "a3_s3_c63_l2",
+    "scene": 3,
+    "speaker": "Minstrels and Men's Chorus",
+    "stageDirection": null,
+    "original": "dem Leib der frommen Dulderin!"
+  },
+  {
+    "id": "a3_s3_c64_l1",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": "in erhabener Rührung",
+    "original": "Dein Engel fleht für dich an Gottes Thron,"
+  },
+  {
+    "id": "a3_s3_c64_l2",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": "in erhabener Rührung",
+    "original": "er wird erhört: - Heinrich, du bist erlöst!"
+  },
+  {
+    "id": "a3_s3_c65_l1",
+    "scene": 3,
+    "speaker": "Venus",
+    "stageDirection": "bereits unsichtbar",
+    "original": "Weh! mir verloren!"
+  },
+  {
+    "id": "a3_s3_c67_l1",
+    "scene": 3,
+    "speaker": "Minstrels and Men's Chorus",
+    "stageDirection": null,
+    "original": "Ihr ward der Engel sel'ger Lohn,"
+  },
+  {
+    "id": "a3_s3_c67_l2",
+    "scene": 3,
+    "speaker": "Minstrels and Men's Chorus",
+    "stageDirection": null,
+    "original": "himmlischer Freuden Hochgewinn!"
+  },
+  {
+    "id": "a3_s3_c68_l1",
+    "scene": 3,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": "Tannhäuser sanft umschlungen haltend",
+    "original": "Und hörst du den Gesang?"
+  },
+  {
+    "id": "a3_s3_c69_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Ich höre!"
+  },
+  {
+    "id": "a3_s3_c71_l1",
+    "scene": 3,
+    "speaker": "Men's Chorus",
+    "stageDirection": null,
+    "original": "Heilig die Reine, die nun vereint"
+  },
+  {
+    "id": "a3_s3_c71_l2",
+    "scene": 3,
+    "speaker": "Men's Chorus",
+    "stageDirection": null,
+    "original": "göttlicher Schar vor dem Ewigen steht!"
+  },
+  {
+    "id": "a3_s3_c72_l1",
+    "scene": 3,
+    "speaker": "Men's Chorus",
+    "stageDirection": "Hier macht Wolfram eine Gebärde, welche die Sänger, als sie Tannhäuser erkennen, bewegt, den Sarg niederzusetzen",
+    "original": "Selig der Sünder, dem sie geweint,"
+  },
+  {
+    "id": "a3_s3_c72_l2",
+    "scene": 3,
+    "speaker": "Men's Chorus",
+    "stageDirection": "Hier macht Wolfram eine Gebärde, welche die Sänger, als sie Tannhäuser erkennen, bewegt, den Sarg niederzusetzen",
+    "original": "dem sie des Himmels Heil erfleht!"
+  },
+  {
+    "id": "a3_s3_c74_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Heilige Elisabeth, bitte für mich!"
+  },
+  {
+    "id": "a3_s3_c76_l1",
+    "scene": 3,
+    "speaker": "Younger Pilgrims",
+    "stageDirection": "auf dem vorderen Bergvorsprunge einherziehend und in ihrer Mitte einen neu ergrünten Priesterstab tragend",
+    "original": "Heil! Heil! Der Gnade Wunder Heil!"
+  },
+  {
+    "id": "a3_s3_c76_l2",
+    "scene": 3,
+    "speaker": "Younger Pilgrims",
+    "stageDirection": "auf dem vorderen Bergvorsprunge einherziehend und in ihrer Mitte einen neu ergrünten Priesterstab tragend",
+    "original": "Erlösung ward der Welt zuteil."
+  },
+  {
+    "id": "a3_s3_c76_l3",
+    "scene": 3,
+    "speaker": "Younger Pilgrims",
+    "stageDirection": "auf dem vorderen Bergvorsprunge einherziehend und in ihrer Mitte einen neu ergrünten Priesterstab tragend",
+    "original": "Es tat in nächtlich heil'ger Stund'"
+  },
+  {
+    "id": "a3_s3_c76_l4",
+    "scene": 3,
+    "speaker": "Younger Pilgrims",
+    "stageDirection": "auf dem vorderen Bergvorsprunge einherziehend und in ihrer Mitte einen neu ergrünten Priesterstab tragend",
+    "original": "der Herr sich durch ein Wunder kund:"
+  },
+  {
+    "id": "a3_s3_c76_l5",
+    "scene": 3,
+    "speaker": "Younger Pilgrims",
+    "stageDirection": "auf dem vorderen Bergvorsprunge einherziehend und in ihrer Mitte einen neu ergrünten Priesterstab tragend",
+    "original": "den dürren Stab in Priesters Hand"
+  },
+  {
+    "id": "a3_s3_c76_l6",
+    "scene": 3,
+    "speaker": "Younger Pilgrims",
+    "stageDirection": "auf dem vorderen Bergvorsprunge einherziehend und in ihrer Mitte einen neu ergrünten Priesterstab tragend",
+    "original": "hat er geschmückt mit frischem Grün:"
+  },
+  {
+    "id": "a3_s3_c76_l7",
+    "scene": 3,
+    "speaker": "Younger Pilgrims",
+    "stageDirection": "auf dem vorderen Bergvorsprunge einherziehend und in ihrer Mitte einen neu ergrünten Priesterstab tragend",
+    "original": "dem Sünder in der Hölle Brand"
+  },
+  {
+    "id": "a3_s3_c76_l8",
+    "scene": 3,
+    "speaker": "Younger Pilgrims",
+    "stageDirection": "auf dem vorderen Bergvorsprunge einherziehend und in ihrer Mitte einen neu ergrünten Priesterstab tragend",
+    "original": "soll so Erlösung neu erblühn!"
+  },
+  {
+    "id": "a3_s3_c76_l9",
+    "scene": 3,
+    "speaker": "Younger Pilgrims",
+    "stageDirection": "auf dem vorderen Bergvorsprunge einherziehend und in ihrer Mitte einen neu ergrünten Priesterstab tragend",
+    "original": "Ruft ihm es zu durch alle Land',"
+  },
+  {
+    "id": "a3_s3_c76_l10",
+    "scene": 3,
+    "speaker": "Younger Pilgrims",
+    "stageDirection": "auf dem vorderen Bergvorsprunge einherziehend und in ihrer Mitte einen neu ergrünten Priesterstab tragend",
+    "original": "der durch dies Wunder Gnade fand!"
+  },
+  {
+    "id": "a3_s3_c76_l11",
+    "scene": 3,
+    "speaker": "Younger Pilgrims",
+    "stageDirection": "auf dem vorderen Bergvorsprunge einherziehend und in ihrer Mitte einen neu ergrünten Priesterstab tragend",
+    "original": "Hoch über aller Welt ist Gott,"
+  },
+  {
+    "id": "a3_s3_c76_l12",
+    "scene": 3,
+    "speaker": "Younger Pilgrims",
+    "stageDirection": "auf dem vorderen Bergvorsprunge einherziehend und in ihrer Mitte einen neu ergrünten Priesterstab tragend",
+    "original": "und sein Erbarmen ist kein Spott!"
+  },
+  {
+    "id": "a3_s3_c78_l1",
+    "scene": 3,
+    "speaker": "All",
+    "stageDirection": "alle in höchster Ergriffenheit",
+    "original": "Der Gnade Heil ward dem Büsser beschieden,"
+  },
+  {
+    "id": "a3_s3_c78_l2",
+    "scene": 3,
+    "speaker": "All",
+    "stageDirection": "alle in höchster Ergriffenheit",
+    "original": "nun geht er ein in der Seligen Frieden!"
+  },
+  {
+    "id": "a3_s3_c79_l1",
+    "scene": 3,
+    "speaker": "Younger Pilgrims",
+    "stageDirection": null,
+    "original": "Hallelujah! Hallelujah! Hallelujah!"
+  }
+]

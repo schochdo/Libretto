@@ -1,0 +1,644 @@
+[
+  {
+    "speaker": "Alice Ford",
+    "original": "Presenteremo un bill, per una tassa",
+    "cue_id": "a2_s2_c1",
+    "line_id": "a2_s2_c1_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "al parlamento, sulla gente grassa.",
+    "cue_id": "a2_s2_c1",
+    "line_id": "a2_s2_c1_l2"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Comari!",
+    "cue_id": "a2_s2_c2",
+    "line_id": "a2_s2_c2_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Ebben?",
+    "cue_id": "a2_s2_c4",
+    "line_id": "a2_s2_c4_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Che c'è?",
+    "cue_id": "a2_s2_c5",
+    "line_id": "a2_s2_c5_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Sarà sconfitto!",
+    "cue_id": "a2_s2_c6",
+    "line_id": "a2_s2_c6_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Brava!",
+    "cue_id": "a2_s2_c7",
+    "line_id": "a2_s2_c7_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Fra poco gli farem la festa!",
+    "cue_id": "a2_s2_c8",
+    "line_id": "a2_s2_c8_l1"
+  },
+  {
+    "speaker": "Alice & Meg",
+    "original": "Bene!",
+    "cue_id": "a2_s2_c9",
+    "line_id": "a2_s2_c9_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Piombò nel laccio a capofitto.",
+    "cue_id": "a2_s2_c10",
+    "line_id": "a2_s2_c10_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Narrami tutto, lesta.",
+    "cue_id": "a2_s2_c11",
+    "line_id": "a2_s2_c11_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Lesta.",
+    "cue_id": "a2_s2_c12",
+    "line_id": "a2_s2_c12_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Giunta all'«Albergo della Giarrettiera»",
+    "cue_id": "a2_s2_c14",
+    "line_id": "a2_s2_c14_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "chiedo d'essere ammessa alla presenza",
+    "cue_id": "a2_s2_c14",
+    "line_id": "a2_s2_c14_l2"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "del cavalier, segreta messaggera.",
+    "cue_id": "a2_s2_c14",
+    "line_id": "a2_s2_c14_l3"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Sir John si degna d'accordarmi udienza,",
+    "cue_id": "a2_s2_c14",
+    "line_id": "a2_s2_c14_l4"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "m'accoglie tronfio in furfantesca posa:",
+    "cue_id": "a2_s2_c14",
+    "line_id": "a2_s2_c14_l5"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "«Buon giorno, buona donna.»",
+    "cue_id": "a2_s2_c14",
+    "line_id": "a2_s2_c14_l6"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "«Reverenza.»",
+    "cue_id": "a2_s2_c15",
+    "line_id": "a2_s2_c15_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "A lui m'inchino molto ossequïosamente,",
+    "cue_id": "a2_s2_c15",
+    "line_id": "a2_s2_c15_l2"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "poi passo alle notizie ghiotte.",
+    "cue_id": "a2_s2_c15",
+    "line_id": "a2_s2_c15_l3"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Lui beve grosso ed ogni mia massiccia",
+    "cue_id": "a2_s2_c15",
+    "line_id": "a2_s2_c15_l4"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "frottola inghiotte.",
+    "cue_id": "a2_s2_c15",
+    "line_id": "a2_s2_c15_l5"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Infine, a farla spiccia,",
+    "cue_id": "a2_s2_c15",
+    "line_id": "a2_s2_c15_l6"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "vi crede entrambe innamorate cotte",
+    "cue_id": "a2_s2_c15",
+    "line_id": "a2_s2_c15_l7"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "delle bellezze sue.",
+    "cue_id": "a2_s2_c15",
+    "line_id": "a2_s2_c15_l8"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "E lo vedrete presto ai vostri piè.",
+    "cue_id": "a2_s2_c16",
+    "line_id": "a2_s2_c16_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Quando?",
+    "cue_id": "a2_s2_c17",
+    "line_id": "a2_s2_c17_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Oggi, qui, dalle due alle tre.",
+    "cue_id": "a2_s2_c18",
+    "line_id": "a2_s2_c18_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Dalle due alle tre.",
+    "cue_id": "a2_s2_c19",
+    "line_id": "a2_s2_c19_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Son già le due.",
+    "cue_id": "a2_s2_c20",
+    "line_id": "a2_s2_c20_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Olà! Ned Will!",
+    "cue_id": "a2_s2_c21",
+    "line_id": "a2_s2_c21_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Già tutto ho preparato.",
+    "cue_id": "a2_s2_c22",
+    "line_id": "a2_s2_c22_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Portate qui la cesta del bucato.",
+    "cue_id": "a2_s2_c23",
+    "line_id": "a2_s2_c23_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Sarà un affare gaio!",
+    "cue_id": "a2_s2_c24",
+    "line_id": "a2_s2_c24_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Nannetta, e tu non ridi? Che cos'hai?",
+    "cue_id": "a2_s2_c25",
+    "line_id": "a2_s2_c25_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Tu piangi? Che cos'hai? Dillo a tua madre.",
+    "cue_id": "a2_s2_c26",
+    "line_id": "a2_s2_c26_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Mio padre...",
+    "cue_id": "a2_s2_c27",
+    "line_id": "a2_s2_c27_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "vuole ch'io mi mariti al Dottor Cajo!",
+    "cue_id": "a2_s2_c32",
+    "line_id": "a2_s2_c32_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "A quel pedante?",
+    "cue_id": "a2_s2_c33",
+    "line_id": "a2_s2_c33_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Oibò!",
+    "cue_id": "a2_s2_c34",
+    "line_id": "a2_s2_c34_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "A quel gonzo!",
+    "cue_id": "a2_s2_c35",
+    "line_id": "a2_s2_c35_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "A quel grullo!",
+    "cue_id": "a2_s2_c36",
+    "line_id": "a2_s2_c36_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "A quel bisavolo!",
+    "cue_id": "a2_s2_c37",
+    "line_id": "a2_s2_c37_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "No! No!",
+    "cue_id": "a2_s2_c38",
+    "line_id": "a2_s2_c38_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "No! No! Piuttosto lapidata viva...",
+    "cue_id": "a2_s2_c39",
+    "line_id": "a2_s2_c39_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Da una mitraglia di torsi di cavolo.",
+    "cue_id": "a2_s2_c40",
+    "line_id": "a2_s2_c40_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Ben detto!",
+    "cue_id": "a2_s2_c41",
+    "line_id": "a2_s2_c41_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Non temer.",
+    "cue_id": "a2_s2_c43",
+    "line_id": "a2_s2_c43_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Evviva!",
+    "cue_id": "a2_s2_c44",
+    "line_id": "a2_s2_c44_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Col Dottor Cajo non mi sposerò!",
+    "cue_id": "a2_s2_c44",
+    "line_id": "a2_s2_c44_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Mettete là. Poi, quando avrò chiamato,",
+    "cue_id": "a2_s2_c46",
+    "line_id": "a2_s2_c46_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "vuoterete la cesta nel fossato.",
+    "cue_id": "a2_s2_c46",
+    "line_id": "a2_s2_c46_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Bum!",
+    "cue_id": "a2_s2_c47",
+    "line_id": "a2_s2_c47_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Taci. ~ Andate.",
+    "cue_id": "a2_s2_c48",
+    "line_id": "a2_s2_c48_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Che bombardamento!",
+    "cue_id": "a2_s2_c49",
+    "line_id": "a2_s2_c49_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Prepariamo la scena. Qua una sedia.",
+    "cue_id": "a2_s2_c50",
+    "line_id": "a2_s2_c50_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Qua il mio liuto.",
+    "cue_id": "a2_s2_c51",
+    "line_id": "a2_s2_c51_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Apriamo il paravento.",
+    "cue_id": "a2_s2_c52",
+    "line_id": "a2_s2_c52_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Bravissime! Così. Più aperto ancora.",
+    "cue_id": "a2_s2_c54",
+    "line_id": "a2_s2_c54_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Fra poco s'incomincia la commedia.",
+    "cue_id": "a2_s2_c54",
+    "line_id": "a2_s2_c54_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Gaie comari di Windsor! è l'ora!",
+    "cue_id": "a2_s2_c55",
+    "line_id": "a2_s2_c55_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "L'ora di alzar la risata sonora!",
+    "cue_id": "a2_s2_c55",
+    "line_id": "a2_s2_c55_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "L'alta risata che scoppia, che scherza,",
+    "cue_id": "a2_s2_c55",
+    "line_id": "a2_s2_c55_l3"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "che sfolgora, armata",
+    "cue_id": "a2_s2_c55",
+    "line_id": "a2_s2_c55_l4"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "di dardi e di sferza!",
+    "cue_id": "a2_s2_c55",
+    "line_id": "a2_s2_c55_l5"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Gaie comari, festosa brigata!",
+    "cue_id": "a2_s2_c55",
+    "line_id": "a2_s2_c55_l6"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Sul lieto viso",
+    "cue_id": "a2_s2_c55",
+    "line_id": "a2_s2_c55_l7"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "spunti il sorriso,",
+    "cue_id": "a2_s2_c55",
+    "line_id": "a2_s2_c55_l8"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "splenda del riso",
+    "cue_id": "a2_s2_c55",
+    "line_id": "a2_s2_c55_l9"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "l'acuto fulgor!",
+    "cue_id": "a2_s2_c55",
+    "line_id": "a2_s2_c55_l10"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Favilla incendiaria",
+    "cue_id": "a2_s2_c55",
+    "line_id": "a2_s2_c55_l11"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "di gioia nell'aria,",
+    "cue_id": "a2_s2_c55",
+    "line_id": "a2_s2_c55_l12"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "di gioia nel cor.",
+    "cue_id": "a2_s2_c55",
+    "line_id": "a2_s2_c55_l13"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "A noi!",
+    "cue_id": "a2_s2_c56",
+    "line_id": "a2_s2_c56_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Tu la parte",
+    "cue_id": "a2_s2_c57",
+    "line_id": "a2_s2_c57_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "farai che ti spetta.",
+    "cue_id": "a2_s2_c57",
+    "line_id": "a2_s2_c57_l2"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Tu corri il tuo rischio",
+    "cue_id": "a2_s2_c58",
+    "line_id": "a2_s2_c58_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "col grosso compar.",
+    "cue_id": "a2_s2_c58",
+    "line_id": "a2_s2_c58_l2"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Io sto alla vedetta.",
+    "cue_id": "a2_s2_c59",
+    "line_id": "a2_s2_c59_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Se sbagli ti fischio.",
+    "cue_id": "a2_s2_c60",
+    "line_id": "a2_s2_c60_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Io resto in disparte",
+    "cue_id": "a2_s2_c61",
+    "line_id": "a2_s2_c61_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "sull'uscio a spiar.",
+    "cue_id": "a2_s2_c61",
+    "line_id": "a2_s2_c61_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "E mostreremo all'uomo che l'allegria",
+    "cue_id": "a2_s2_c62",
+    "line_id": "a2_s2_c62_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "d'oneste donne ogni onestà comporta.",
+    "cue_id": "a2_s2_c62",
+    "line_id": "a2_s2_c62_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Fra le femmine quella è la più ria",
+    "cue_id": "a2_s2_c62",
+    "line_id": "a2_s2_c62_l3"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "che fa da gattamorta.",
+    "cue_id": "a2_s2_c62",
+    "line_id": "a2_s2_c62_l4"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Eccolo! È lui!",
+    "cue_id": "a2_s2_c63",
+    "line_id": "a2_s2_c63_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Dov'è?",
+    "cue_id": "a2_s2_c64",
+    "line_id": "a2_s2_c64_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Poco discosto.",
+    "cue_id": "a2_s2_c65",
+    "line_id": "a2_s2_c65_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Presto.",
+    "cue_id": "a2_s2_c66",
+    "line_id": "a2_s2_c66_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "A salir s'avvia.",
+    "cue_id": "a2_s2_c67",
+    "line_id": "a2_s2_c67_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Tu di qua. Tu di là!",
+    "cue_id": "a2_s2_c68",
+    "line_id": "a2_s2_c68_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Al posto!",
+    "cue_id": "a2_s2_c69",
+    "line_id": "a2_s2_c69_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Alice sola. Poi Falstaff. Poi Quickly. Poi Meg.",
+    "cue_id": "a2_s2_c70",
+    "line_id": "a2_s2_c70_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Alfin t'ho colto,",
+    "cue_id": "a2_s2_c72",
+    "line_id": "a2_s2_c72_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "raggiante fior,",
+    "cue_id": "a2_s2_c72",
+    "line_id": "a2_s2_c72_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "t'ho colto!",
+    "cue_id": "a2_s2_c72",
+    "line_id": "a2_s2_c72_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Ed or potrò morir felice.",
+    "cue_id": "a2_s2_c73",
+    "line_id": "a2_s2_c73_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Avrò vissuto molto",
+    "cue_id": "a2_s2_c73",
+    "line_id": "a2_s2_c73_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "dopo quest'ora di beato amor.",
+    "cue_id": "a2_s2_c73",
+    "line_id": "a2_s2_c73_l3"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "O soave sir John!",
+    "cue_id": "a2_s2_c74",
+    "line_id": "a2_s2_c74_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Mia bella Alice!",
+    "cue_id": "a2_s2_c75",
+    "line_id": "a2_s2_c75_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Non so far lo svenevole,",
+    "cue_id": "a2_s2_c75",
+    "line_id": "a2_s2_c75_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "né lusingar, né usar frase fiorita,",
+    "cue_id": "a2_s2_c75",
+    "line_id": "a2_s2_c75_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "ma dirò tosto un mio pensier colpevole.",
+    "cue_id": "a2_s2_c75",
+    "line_id": "a2_s2_c75_l4"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Cioè?",
+    "cue_id": "a2_s2_c76",
+    "line_id": "a2_s2_c76_l1"
+  }
+]

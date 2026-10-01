@@ -1,0 +1,1053 @@
+import json
+
+data = {
+  "Cioè: vorrei che mastro Ford": [
+    "That is to say: I would wish that Master Ford",
+    [
+      {"word": "Cioè", "lemma": "cioè", "pos": "conjunction", "meaning": "that is to say / namely"},
+      {"word": "vorrei", "lemma": "volere", "pos": "verb", "meaning": "I would wish / I would like (1st sing. conditional)"},
+      {"word": "mastro", "lemma": "mastro", "pos": "noun", "meaning": "master / craftsman (archaic title)"},
+      {"word": "che", "lemma": "che", "pos": "conjunction", "meaning": "that"}
+    ],
+    "Falstaff clarifies his brazen fantasy: he wishes Alice's husband Master Ford were dead so that he could make her his titled wife."
+  ],
+  "passasse a miglior vita...": [
+    "might pass to a better life...",
+    [
+      {"word": "passasse", "lemma": "passare", "pos": "verb", "meaning": "might pass / should pass (3rd sing. imperfect subjunctive)"},
+      {"word": "miglior", "lemma": "migliore", "pos": "adjective", "meaning": "better (apocopic form of migliore)"},
+      {"word": "vita", "lemma": "vita", "pos": "noun", "meaning": "life"},
+      {"word": "a", "lemma": "a", "pos": "preposition", "meaning": "to"}
+    ],
+    "'Passare a miglior vita' is a classic Italian euphemism for dying ('to pass to a better life'). The imperfect subjunctive 'passasse' is governed by 'vorrei che'."
+  ],
+  "Perché?": [
+    "Why?",
+    [
+      {"word": "Perché", "lemma": "perché", "pos": "adverb", "meaning": "why / for what reason (interrogative)"},
+      {"word": "perché", "lemma": "perché", "pos": "conjunction", "meaning": "because / why"}
+    ],
+    "Alice feigns innocent incomprehension with a blunt, one-word question, leading Falstaff further into his boastful trap."
+  ],
+  "Perché? Lo chiedi?": [
+    "Why? Do you ask it?",
+    [
+      {"word": "Perché", "lemma": "perché", "pos": "adverb", "meaning": "why / for what reason"},
+      {"word": "chiedi", "lemma": "chiedere", "pos": "verb", "meaning": "you ask (2nd sing. present)"},
+      {"word": "Lo", "lemma": "lo", "pos": "pronoun", "meaning": "it (direct object clitic)"}
+    ],
+    "Falstaff feigns incredulity that Alice should even ask why he wishes her husband were out of the way. Clitic 'lo' represents the proposition."
+  ],
+  "Saresti la mia lady": [
+    "You would be my lady",
+    [
+      {"word": "Saresti", "lemma": "essere", "pos": "verb", "meaning": "you would be (2nd sing. conditional)"},
+      {"word": "la mia", "lemma": "mio", "pos": "adjective", "meaning": "my (feminine possessive)"},
+      {"word": "lady", "lemma": "lady", "pos": "noun", "meaning": "lady / noblewoman (English title)"}
+    ],
+    "Falstaff tempts the bourgeois Alice with social elevation: as the wife of a knight, she would bear the aristocratic title of 'lady'."
+  ],
+  "e Falstaff il tuo lord!": [
+    "and Falstaff your lord!",
+    [
+      {"word": "Falstaff", "lemma": "Falstaff", "pos": "noun", "meaning": "Falstaff (proper name)"},
+      {"word": "il tuo", "lemma": "tuo", "pos": "adjective", "meaning": "your (masculine possessive)"},
+      {"word": "lord", "lemma": "lord", "pos": "noun", "meaning": "lord / nobleman (English title)"},
+      {"word": "e", "lemma": "e", "pos": "conjunction", "meaning": "and"}
+    ],
+    "Falstaff pairs 'lady' and 'lord' in English aristocratic terminology, grandly presenting himself as her noble partner."
+  ],
+  "Povera lady inver!": [
+    "A poor lady in truth!",
+    [
+      {"word": "Povera", "lemma": "povero", "pos": "adjective", "meaning": "poor / wretched / humble"},
+      {"word": "lady", "lemma": "lady", "pos": "noun", "meaning": "lady / noblewoman"},
+      {"word": "inver", "lemma": "invero", "pos": "adverb", "meaning": "in truth / indeed (apocopic form of invero)"}
+    ],
+    "Alice counters with mock-modest irony: 'inver' (apocope of 'invero') punctures Falstaff's pomposity."
+  ],
+  "Degna d'un re.": [
+    "Worthy of a king.",
+    [
+      {"word": "Degna", "lemma": "degno", "pos": "adjective", "meaning": "worthy / deserving"},
+      {"word": "d'un", "lemma": "di", "pos": "preposition", "meaning": "of a (di + un)"},
+      {"word": "re", "lemma": "re", "pos": "noun", "meaning": "king / monarch"}
+    ],
+    "Falstaff escalates his extravagant courtly flattery, elevating Alice from a lord's lady to someone fit for royalty itself."
+  ],
+  "T'immagino fregiata del mio stemma,": [
+    "I imagine you adorned with my coat of arms,",
+    [
+      {"word": "T'immagino", "lemma": "immaginare", "pos": "verb", "meaning": "I imagine you (ti + immagino)"},
+      {"word": "fregiata", "lemma": "fregiare", "pos": "adjective", "meaning": "adorned / decorated (past participle)"},
+      {"word": "stemma", "lemma": "stemma", "pos": "noun", "meaning": "coat of arms / crest / heraldic emblem"},
+      {"word": "del", "lemma": "di", "pos": "preposition", "meaning": "with the / of the (di + il)"}
+    ],
+    "Falstaff imagines Alice decorated with his knightly crest ('stemma'), continuing his aristocratic seduction rhetoric."
+  ],
+  "mostrar fra gemma e gemma": [
+    "displaying between gem and gem",
+    [
+      {"word": "mostrar", "lemma": "mostrare", "pos": "verb", "meaning": "to show / display (apocopic infinitive)"},
+      {"word": "fra", "lemma": "fra", "pos": "preposition", "meaning": "between / among"},
+      {"word": "gemma", "lemma": "gemma", "pos": "noun", "meaning": "gem / jewel / precious stone"}
+    ],
+    "Apocopic infinitive 'mostrar' governed by 't'immagino': Falstaff envisions Alice displaying her bosom framed by radiant gemstones."
+  ],
+  "la pompa del tuo sen.": [
+    "the splendor of your breast.",
+    [
+      {"word": "pompa", "lemma": "pompa", "pos": "noun", "meaning": "splendor / pomp / magnificence"},
+      {"word": "sen", "lemma": "seno", "pos": "noun", "meaning": "breast / bosom (apocopic form of seno)"},
+      {"word": "tuo", "lemma": "tuo", "pos": "adjective", "meaning": "your (possessive)"},
+      {"word": "del", "lemma": "di", "pos": "preposition", "meaning": "of the (di + il)"}
+    ],
+    "'Sen' is poetic apocope for 'seno'. Falstaff blends sensual admiration with courtly grandeur ('pompa')."
+  ],
+  "Nell'iri ardente e mobile dei rai": [
+    "In the fiery and shimmering rainbow of rays",
+    [
+      {"word": "Nell'iri", "lemma": "iri", "pos": "noun", "meaning": "in the iris / rainbow (in + l' + iri, poetic for iride)"},
+      {"word": "ardente", "lemma": "ardente", "pos": "adjective", "meaning": "fiery / burning / glowing"},
+      {"word": "mobile", "lemma": "mobile", "pos": "adjective", "meaning": "shimmering / mobile / shifting"},
+      {"word": "rai", "lemma": "radio", "pos": "noun", "meaning": "rays / beams of light (archaic/poetic plural)"}
+    ],
+    "Elevated poetic diction by Boito: 'iri' (rainbow/prismatic refraction, classical for iride) and 'rai' (poetic plural of raggio), describing diamond brilliance."
+  ],
+  "dell'adamante,": [
+    "of the diamond,",
+    [
+      {"word": "dell'", "lemma": "di", "pos": "preposition", "meaning": "of the (di + l')"},
+      {"word": "adamante", "lemma": "adamante", "pos": "noun", "meaning": "diamond / adamant (classical poetic term)"}
+    ],
+    "'Adamante' is classical poetic Italian for diamond (from Greek adamas), elevating Falstaff's courtly imagery to epic heights."
+  ],
+  "col picciol piè nel nobile": [
+    "with the tiny foot in the noble",
+    [
+      {"word": "col", "lemma": "con", "pos": "preposition", "meaning": "with the (con + il)"} ,
+      {"word": "picciol", "lemma": "picciolo", "pos": "adjective", "meaning": "small / tiny (archaic apocope of piccolo)"},
+      {"word": "piè", "lemma": "piede", "pos": "noun", "meaning": "foot (poetic apocope of piede)"},
+      {"word": "nobile", "lemma": "nobile", "pos": "adjective", "meaning": "noble / aristocratic"}
+    ],
+    "Poetic apocopes 'picciol' and 'piè'. Falstaff evokes Renaissance lyric tropes of feminine delicacy."
+  ],
+  "cerchio d'un guardinfante": [
+    "circle of a farthingale",
+    [
+      {"word": "cerchio", "lemma": "cerchio", "pos": "noun", "meaning": "circle / hoop / ring"},
+      {"word": "d'un", "lemma": "di", "pos": "preposition", "meaning": "of a (di + un)"},
+      {"word": "guardinfante", "lemma": "guardinfante", "pos": "noun", "meaning": "farthingale / hoop skirt"}
+    ],
+    "A 'guardinfante' (farthingale) was an Elizabethan hooped petticoat worn by aristocratic ladies to support wide skirts."
+  ],
+  "risplenderai!": [
+    "you shall shine!",
+    [
+      {"word": "risplenderai", "lemma": "risplendere", "pos": "verb", "meaning": "you shall shine / glitter (2nd sing. future)"},
+      {"word": "risplendere", "lemma": "risplendere", "pos": "verb", "meaning": "to shine / radiate / glitter"}
+    ],
+    "The 2nd person future 'risplenderai' resolves Falstaff's sweeping period ('Nell'iri ardente... col picciol piè... risplenderai!')."
+  ],
+  "Più fulgida d'un ampio arcobalen.": [
+    "More dazzling than an ample rainbow.",
+    [
+      {"word": "Più", "lemma": "più", "pos": "adverb", "meaning": "more"},
+      {"word": "fulgida", "lemma": "fulgido", "pos": "adjective", "meaning": "dazzling / radiant / brilliant"},
+      {"word": "ampio", "lemma": "ampio", "pos": "adjective", "meaning": "ample / broad / wide"},
+      {"word": "arcobalen", "lemma": "arcobaleno", "pos": "noun", "meaning": "rainbow (apocope of arcobaleno)"}
+    ],
+    "'Arcobalen' uses poetic apocope for meter and rhyme with 'sen'. Falstaff rounds off his extravagant compliment comparing Alice to a shimmering rainbow."
+  ],
+  "Ogni più bel gioiel mi nuoce e spregio": [
+    "Every finest jewel harms me and I despise",
+    [
+      {"word": "gioiel", "lemma": "gioiello", "pos": "noun", "meaning": "jewel (apocopic form of gioiello)"},
+      {"word": "nuoce", "lemma": "nuocere", "pos": "verb", "meaning": "harms / hurts / displeases (3rd sing. present)"},
+      {"word": "spregio", "lemma": "spregiare", "pos": "verb", "meaning": "I despise / scorn (1st sing. present)"},
+      {"word": "bel", "lemma": "bello", "pos": "adjective", "meaning": "fine / beautiful (apocopic form)"}
+    ],
+    "Alice counters Falstaff's aristocratic fantasies with a show of virtuous bourgeois modesty, asserting that opulent jewelry only encumbers her."
+  ],
+  "il finto idolo d'or.": [
+    "the false idol of gold.",
+    [
+      {"word": "finto", "lemma": "finto", "pos": "adjective", "meaning": "false / artificial / pretended"},
+      {"word": "idolo", "lemma": "idolo", "pos": "noun", "meaning": "idol"},
+      {"word": "d'or", "lemma": "oro", "pos": "noun", "meaning": "of gold (di + oro, apocope)"},
+      {"word": "oro", "lemma": "oro", "pos": "noun", "meaning": "gold"}
+    ],
+    "Alice scorns golden luxury as a 'finto idolo' (false idol), highlighting her deliberate contrast to Falstaff's superficial material values."
+  ],
+  "Mi basta un vel legato in croce, un fregio": [
+    "A veil tied in a cross suffices me, an ornament",
+    [
+      {"word": "basta", "lemma": "bastare", "pos": "verb", "meaning": "suffices / is enough (3rd sing. present)"},
+      {"word": "vel", "lemma": "velo", "pos": "noun", "meaning": "veil / kerchief (apocope of velo)"},
+      {"word": "legato", "lemma": "legare", "pos": "adjective", "meaning": "tied / bound (past participle)"},
+      {"word": "in croce", "lemma": "in croce", "pos": "idiom", "meaning": "criss-crossed / crosswise / in the form of a cross"},
+      {"word": "fregio", "lemma": "fregio", "pos": "noun", "meaning": "ornament / trim / frieze"}
+    ],
+    "Alice describes her simple, modest middle-class attire: a humble veil crossed over her chest ('legato in croce') instead of jewels."
+  ],
+  "al cinto e in testa un fior.": [
+    "at the waist and on my head a flower.",
+    [
+      {"word": "cinto", "lemma": "cinto", "pos": "noun", "meaning": "belt / girdle / waist"},
+      {"word": "testa", "lemma": "testa", "pos": "noun", "meaning": "head"},
+      {"word": "fior", "lemma": "fiore", "pos": "noun", "meaning": "flower (apocope of fiore)"},
+      {"word": "al", "lemma": "a", "pos": "preposition", "meaning": "at the / to the (a + il)"}
+    ],
+    "Alice completes her picture of rustic charm: a ribbon at her waist ('cinto') and a single flower in her hair ('un fior')."
+  ],
+  "Sirena!": [
+    "Siren!",
+    [
+      {"word": "Sirena", "lemma": "sirena", "pos": "noun", "meaning": "siren / enchantress"},
+      {"word": "sirena", "lemma": "sirena", "pos": "noun", "meaning": "siren (mythological seductive creature)"}
+    ],
+    "Falstaff cries out 'Sirena!', captivated by Alice's enchanting singing and her seductive display of simple innocence."
+  ],
+  "Adulator!": [
+    "Flatterer!",
+    [
+      {"word": "Adulator", "lemma": "adulatore", "pos": "noun", "meaning": "flatterer (apocopic form of adulatore)"},
+      {"word": "adulatore", "lemma": "adulatore", "pos": "noun", "meaning": "flatterer / sycophant"}
+    ],
+    "Alice delivers a teasing rebuff with poetic apocope: 'Adulator!' (flatterer), keeping Falstaff in playful suspense."
+  ],
+  "Soli noi siamo": [
+    "We are alone",
+    [
+      {"word": "Soli", "lemma": "solo", "pos": "adjective", "meaning": "alone / by ourselves (masculine plural)"},
+      {"word": "noi", "lemma": "noi", "pos": "pronoun", "meaning": "we (subject pronoun)"},
+      {"word": "siamo", "lemma": "essere", "pos": "verb", "meaning": "we are (1st plural present)"}
+    ],
+    "Inverted word order ('Soli noi siamo') gives dramatic weight to their supposed privacy as Falstaff presses closer."
+  ],
+  "e non temiamo agguato.": [
+    "and we fear no ambush.",
+    [
+      {"word": "temiamo", "lemma": "temere", "pos": "verb", "meaning": "we fear (1st plural present)"},
+      {"word": "agguato", "lemma": "agguato", "pos": "noun", "meaning": "ambush / trap / snare"},
+      {"word": "non", "lemma": "non", "pos": "adverb", "meaning": "not"},
+      {"word": "e", "lemma": "e", "pos": "conjunction", "meaning": "and"}
+    ],
+    "Falstaff reassures Alice that they are safe from surprise—a classic moment of dramatic irony since Meg and Quickly are waiting outside."
+  ],
+  "Io t'amo!": [
+    "I love you!",
+    [
+      {"word": "Io", "lemma": "io", "pos": "pronoun", "meaning": "I (emphatic subject pronoun)"},
+      {"word": "t'amo", "lemma": "amare", "pos": "verb", "meaning": "I love you (ti + amo)"},
+      {"word": "amare", "lemma": "amare", "pos": "verb", "meaning": "to love"}
+    ],
+    "Falstaff makes an emphatic declaration of love with explicit subject pronoun 'Io', stepping forward boldly."
+  ],
+  "Voi siete nel peccato!": [
+    "You are in sin!",
+    [
+      {"word": "Voi", "lemma": "voi", "pos": "pronoun", "meaning": "you (formal/plural pronoun)"},
+      {"word": "siete", "lemma": "essere", "pos": "verb", "meaning": "you are (2nd plural present)"},
+      {"word": "peccato", "lemma": "peccato", "pos": "noun", "meaning": "sin / transgression"},
+      {"word": "nel", "lemma": "in", "pos": "preposition", "meaning": "in the (in + il)"}
+    ],
+    "Alice checks Falstaff's advance with feigned pious reproach, reminding him of the sinfulness of seducing a married woman."
+  ],
+  "Sempre l'amor l'occasïone azzecca.": [
+    "Love always seizes the opportunity.",
+    [
+      {"word": "Sempre", "lemma": "sempre", "pos": "adverb", "meaning": "always"},
+      {"word": "amor", "lemma": "amore", "pos": "noun", "meaning": "love (apocope of amore)"},
+      {"word": "occasïone", "lemma": "occasione", "pos": "noun", "meaning": "opportunity / occasion (poetic diaeresis on ï)"},
+      {"word": "azzecca", "lemma": "azzeccare", "pos": "verb", "meaning": "hits upon / seizes / strikes right (3rd sing. present)"}
+    ],
+    "Boito writes 'occasïone' with a diaeresis for four poetic syllables (oc-ca-si-o-ne). 'Azzeccare' colloquially means to hit the mark or seize an opportune moment."
+  ],
+  "Sir John!": [
+    "Sir John!",
+    [
+      {"word": "Sir", "lemma": "sir", "pos": "noun", "meaning": "Sir (knightly title)"},
+      {"word": "John", "lemma": "John", "pos": "noun", "meaning": "John (proper name)"}
+    ],
+    "Alice feigns moral shock, using his full title 'Sir John' to remind him of chivalric decorum."
+  ],
+  "Chi segue vocazion non pecca.": [
+    "Whoever follows their calling does not sin.",
+    [
+      {"word": "Chi", "lemma": "chi", "pos": "pronoun", "meaning": "whoever / he who"},
+      {"word": "segue", "lemma": "seguire", "pos": "verb", "meaning": "follows (3rd sing. present)"},
+      {"word": "vocazion", "lemma": "vocazione", "pos": "noun", "meaning": "vocation / calling (apocopic form of vocazione)"},
+      {"word": "pecca", "lemma": "peccare", "pos": "verb", "meaning": "sins (3rd sing. present)"}
+    ],
+    "Boito borrows directly from Shakespeare's Henry IV Part 1: ''Tis no sin for a man to labour in his vocation.' Falstaff humorously rationalizes his lust as a divine calling."
+  ],
+  "T'amo! e non è mia colpa...": [
+    "I love you! and it is not my fault...",
+    [
+      {"word": "T'amo", "lemma": "amare", "pos": "verb", "meaning": "I love you (ti + amo)"},
+      {"word": "mia", "lemma": "mio", "pos": "adjective", "meaning": "my (possessive)"},
+      {"word": "colpa", "lemma": "colpa", "pos": "noun", "meaning": "fault / guilt / blame"},
+      {"word": "non è", "lemma": "essere", "pos": "verb", "meaning": "it is not"}
+    ],
+    "Falstaff pleads irresistible romantic compulsion: loving her is beyond his control, hence he is entirely blameless."
+  ],
+  "Se tanta avete vulnerabil polpa.": [
+    "If you have such vulnerable flesh.",
+    [
+      {"word": "tanta", "lemma": "tanto", "pos": "adjective", "meaning": "so much / so great"},
+      {"word": "avete", "lemma": "avere", "pos": "verb", "meaning": "you have (2nd plural present)"},
+      {"word": "vulnerabil", "lemma": "vulnerabile", "pos": "adjective", "meaning": "vulnerable / tender (apocope of vulnerabile)"},
+      {"word": "polpa", "lemma": "polpa", "pos": "noun", "meaning": "flesh / bulk / pulp"}
+    ],
+    "Alice delivers a hilarious double-edged retort: Falstaff's flesh ('polpa') is vulnerable not just spiritually, but because there is an enormous amount of it!"
+  ],
+  "Quand'ero paggio": [
+    "When I was a page",
+    [
+      {"word": "Quand'", "lemma": "quando", "pos": "conjunction", "meaning": "when (elision of quando)"},
+      {"word": "ero", "lemma": "essere", "pos": "verb", "meaning": "I was (1st sing. imperfect)"},
+      {"word": "paggio", "lemma": "paggio", "pos": "noun", "meaning": "page / pageboy"}
+    ],
+    "Opening of Falstaff's famous 30-second miniature arietta ('Quand'ero paggio'), one of the most celebrated moments of vocal agility and charm in late Verdi."
+  ],
+  "del duca di Norfolk ero sottile,": [
+    "to the Duke of Norfolk I was slender,",
+    [
+      {"word": "duca", "lemma": "duca", "pos": "noun", "meaning": "duke"},
+      {"word": "Norfolk", "lemma": "Norfolk", "pos": "noun", "meaning": "Norfolk (proper name)"},
+      {"word": "sottile", "lemma": "sottile", "pos": "adjective", "meaning": "slender / slim / thin"},
+      {"word": "ero", "lemma": "essere", "pos": "verb", "meaning": "I was (1st sing. imperfect)"}
+    ],
+    "Direct Shakespearean allusion to Henry IV Part 2, where Shallow recalls young Jack Falstaff serving as boy page to Thomas Mowbray, Duke of Norfolk."
+  ],
+  "ero un miraggio": [
+    "I was a mirage",
+    [
+      {"word": "ero", "lemma": "essere", "pos": "verb", "meaning": "I was (1st sing. imperfect)"},
+      {"word": "miraggio", "lemma": "miraggio", "pos": "noun", "meaning": "mirage / illusion / phantom"},
+      {"word": "un", "lemma": "un", "pos": "particle", "meaning": "a / an (indefinite article)"}
+    ],
+    "Falstaff poetically characterizes his youthful, slender form as an ethereal apparition or mirage ('miraggio')."
+  ],
+  "vago, leggero, gentile, gentile.": [
+    "graceful, light, delicate, delicate.",
+    [
+      {"word": "vago", "lemma": "vago", "pos": "adjective", "meaning": "graceful / charming / wandering"},
+      {"word": "leggero", "lemma": "leggero", "pos": "adjective", "meaning": "light / weightless"},
+      {"word": "gentile", "lemma": "gentile", "pos": "adjective", "meaning": "delicate / refined / noble"}
+    ],
+    "Verdi sets the rapid adjectives with feather-light staccato sixteenth notes; the repetition 'gentile, gentile' conveys nostalgic delight."
+  ],
+  "Quello era il tempo del mio verde aprile,": [
+    "That was the time of my green April,",
+    [
+      {"word": "Quello", "lemma": "quello", "pos": "pronoun", "meaning": "that (demonstrative pronoun)"},
+      {"word": "tempo", "lemma": "tempo", "pos": "noun", "meaning": "time / season"},
+      {"word": "verde", "lemma": "verde", "pos": "adjective", "meaning": "green / verdant / youthful"},
+      {"word": "aprile", "lemma": "aprile", "pos": "noun", "meaning": "April / springtime"}
+    ],
+    "'Verde aprile' is a classic Renaissance poetic trope symbolizing the fresh springtime of life and youthful vigor."
+  ],
+  "quello era il tempo del mio lieto maggio.": [
+    "that was the time of my joyful May.",
+    [
+      {"word": "quello", "lemma": "quello", "pos": "pronoun", "meaning": "that (demonstrative pronoun)"},
+      {"word": "tempo", "lemma": "tempo", "pos": "noun", "meaning": "time / season"},
+      {"word": "lieto", "lemma": "lieto", "pos": "adjective", "meaning": "joyful / merry / glad"},
+      {"word": "maggio", "lemma": "maggio", "pos": "noun", "meaning": "May (month of blossom and joy)"}
+    ],
+    "Falstaff pairs 'verde aprile' with 'lieto maggio'. The lowercase initial in the libretto reflects the syntactic parallel with the previous line."
+  ],
+  "Tant'ero smilzo, flessibile e snello": [
+    "I was so slim, supple and slender",
+    [
+      {"word": "Tant'", "lemma": "tanto", "pos": "adverb", "meaning": "so / so much (elision of tanto)"},
+      {"word": "smilzo", "lemma": "smilzo", "pos": "adjective", "meaning": "lean / slim / slender"},
+      {"word": "flessibile", "lemma": "flessibile", "pos": "adjective", "meaning": "supple / flexible / lithe"},
+      {"word": "snello", "lemma": "snello", "pos": "adjective", "meaning": "slender / svelte / agile"}
+    ],
+    "Falstaff piles up three synonymous terms for lithe svelteness ('smilzo, flessibile e snello'), creating an irresistible comic contrast with his massive bulk."
+  ],
+  "che avrei guizzato attraverso un anello.": [
+    "that I would have darted through a ring.",
+    [
+      {"word": "guizzato", "lemma": "guizzare", "pos": "verb", "meaning": "darted / slipped / flicked (past participle)"},
+      {"word": "avrei", "lemma": "avere", "pos": "verb", "meaning": "I would have (1st sing. conditional)"},
+      {"word": "attraverso", "lemma": "attraverso", "pos": "preposition", "meaning": "through / across"},
+      {"word": "anello", "lemma": "anello", "pos": "noun", "meaning": "ring / signet ring"}
+    ],
+    "Boito adapts Falstaff's boast from Henry IV Part 1: 'I could have crept into any alderman's thumb-ring.' 'Guizzare' evokes slipping through like an agile fish."
+  ],
+  "Voi mi celiate.": [
+    "You are teasing me.",
+    [
+      {"word": "Voi", "lemma": "voi", "pos": "pronoun", "meaning": "you (formal/plural subject pronoun)"},
+      {"word": "mi", "lemma": "mi", "pos": "pronoun", "meaning": "me (direct object clitic)"},
+      {"word": "celiate", "lemma": "celiare", "pos": "verb", "meaning": "you jest / you tease / you mock (2nd plural present)"}
+    ],
+    "'Celiare' means to banter or jest. Alice plays along coyly, pretending to suspect Falstaff is making fun of her."
+  ],
+  "Io temo i vostri inganni.": [
+    "I fear your deceptions.",
+    [
+      {"word": "Io", "lemma": "io", "pos": "pronoun", "meaning": "I (subject pronoun)"},
+      {"word": "temo", "lemma": "temere", "pos": "verb", "meaning": "I fear (1st sing. present)"},
+      {"word": "vostri", "lemma": "vostro", "pos": "adjective", "meaning": "your (possessive plural/formal)"},
+      {"word": "inganni", "lemma": "inganno", "pos": "noun", "meaning": "deceptions / tricks / wiles"}
+    ],
+    "Alice feigns apprehension that Sir John is a predatory seducer whose flattering words are calculated traps."
+  ],
+  "Temo che amiate...": [
+    "I fear that you love...",
+    [
+      {"word": "Temo", "lemma": "temere", "pos": "verb", "meaning": "I fear (1st sing. present)"},
+      {"word": "che", "lemma": "che", "pos": "conjunction", "meaning": "that"},
+      {"word": "amiate", "lemma": "amare", "pos": "verb", "meaning": "you love (2nd plural present subjunctive)"}
+    ],
+    "The present subjunctive 'amiate' is triggered by 'temo che'. Alice sets the trap, pausing suggestively before naming Meg."
+  ],
+  "Chi?": [
+    "Whom?",
+    [
+      {"word": "Chi", "lemma": "chi", "pos": "pronoun", "meaning": "who / whom (interrogative pronoun)"},
+      {"word": "chi", "lemma": "chi", "pos": "pronoun", "meaning": "who / whom"}
+    ],
+    "Falstaff is startled by the unexpected suspicion of infidelity, blurting out a quick interrogative."
+  ],
+  "Meg.": [
+    "Meg.",
+    [
+      {"word": "Meg", "lemma": "Meg", "pos": "noun", "meaning": "Meg (proper name)"},
+      {"word": "Meg", "lemma": "Meg", "pos": "noun", "meaning": "Meg Page (character)"}
+    ],
+    "Alice springs her trap, naming Meg Page—the very woman to whom Falstaff sent a carbon-copy love letter."
+  ],
+  "Colei? M'è in uggia la sua faccia.": [
+    "Her? Her face is repulsive to me.",
+    [
+      {"word": "Colei", "lemma": "colei", "pos": "pronoun", "meaning": "she / that woman (distal demonstrative, often dismissive)"},
+      {"word": "in uggia", "lemma": "in uggia", "pos": "idiom", "meaning": "loathsome / obnoxious / tiresome"},
+      {"word": "uggia", "lemma": "uggia", "pos": "noun", "meaning": "annoyance / disgust / tedium"},
+      {"word": "faccia", "lemma": "faccia", "pos": "noun", "meaning": "face / countenance"}
+    ],
+    "'Essere in uggia a qualcuno' is a vivid idiom meaning to be intensely disagreeable or loathsome. Falstaff ruthlessly denounces Meg to flatter Alice."
+  ],
+  "Non traditemi, John...": [
+    "Do not betray me, John...",
+    [
+      {"word": "Non", "lemma": "non", "pos": "adverb", "meaning": "not"},
+      {"word": "traditemi", "lemma": "tradire", "pos": "verb", "meaning": "betray me (imperative tradite + clitic mi)"},
+      {"word": "John", "lemma": "John", "pos": "noun", "meaning": "John (proper name)"}
+    ],
+    "Alice drops his formal knightly title and calls him intimately 'John...', disarming his caution and inflaming his desire."
+  ],
+  "Mi par mill'anni": [
+    "It seems a thousand years to me",
+    [
+      {"word": "Mi", "lemma": "mi", "pos": "pronoun", "meaning": "to me (indirect object clitic)"},
+      {"word": "par", "lemma": "parere", "pos": "verb", "meaning": "seems / appears (apocope of pare)"},
+      {"word": "mill'anni", "lemma": "mille anni", "pos": "idiom", "meaning": "a thousand years (idiom for intense longing/impatience)"},
+      {"word": "anni", "lemma": "anno", "pos": "noun", "meaning": "years"}
+    ],
+    "'Parere mill'anni a qualcuno' is an Italian idiom meaning to wait with unbearable longing ('I cannot wait another second')."
+  ],
+  "d'averti fra le braccia.": [
+    "to have you in my arms.",
+    [
+      {"word": "d'averti", "lemma": "avere", "pos": "verb", "meaning": "to have you (di + avere + clitic ti)"},
+      {"word": "fra", "lemma": "fra", "pos": "preposition", "meaning": "in / between / among"},
+      {"word": "braccia", "lemma": "braccio", "pos": "noun", "meaning": "arms (irregular feminine plural of braccio)"},
+      {"word": "le", "lemma": "il", "pos": "particle", "meaning": "the (feminine plural definite article)"}
+    ],
+    "'Braccia' is the irregular feminine plural of 'il braccio'. Falstaff lunges forward to sweep Alice into his embrace."
+  ],
+  "T'amo...": [
+    "I love you...",
+    [
+      {"word": "T'amo", "lemma": "amare", "pos": "verb", "meaning": "I love you (ti + amo)"},
+      {"word": "amare", "lemma": "amare", "pos": "verb", "meaning": "to love"}
+    ],
+    "Falstaff breathes out his ardent declaration as he moves to hold Alice, right before the scheduled interruption."
+  ],
+  "Per carità...": [
+    "For pity's sake...",
+    [
+      {"word": "Per", "lemma": "per", "pos": "preposition", "meaning": "for"},
+      {"word": "carità", "lemma": "carità", "pos": "noun", "meaning": "charity / mercy / pity"},
+      {"word": "per carità", "lemma": "per carità", "pos": "idiom", "meaning": "for heaven's sake / for pity's sake"}
+    ],
+    "Idiomatic plea 'Per carità' ('For heaven's sake / Have mercy'). Alice dodges his grasp exactly as the planned disruption begins."
+  ],
+  "Vieni!": [
+    "Come!",
+    [
+      {"word": "Vieni", "lemma": "venire", "pos": "verb", "meaning": "come (2nd sing. imperative)"},
+      {"word": "venire", "lemma": "venire", "pos": "verb", "meaning": "to come"}
+    ],
+    "Imperative of 'venire': Falstaff demands her compliance just as Quickly's voice rings out."
+  ],
+  "Signora Alice!": [
+    "Mistress Alice!",
+    [
+      {"word": "Signora", "lemma": "signora", "pos": "noun", "meaning": "Mistress / lady"},
+      {"word": "Alice", "lemma": "Alice", "pos": "noun", "meaning": "Alice (proper name)"}
+    ],
+    "Quickly shouts from offstage according to the women's plot, abruptly shattering the romantic rendezvous."
+  ],
+  "Chi va là?": [
+    "Who goes there?",
+    [
+      {"word": "Chi", "lemma": "chi", "pos": "pronoun", "meaning": "who"},
+      {"word": "va", "lemma": "andare", "pos": "verb", "meaning": "goes (3rd sing. present)"},
+      {"word": "là", "lemma": "là", "pos": "adverb", "meaning": "there"},
+      {"word": "chi va là", "lemma": "chi va là", "pos": "idiom", "meaning": "who goes there? (military sentinel challenge)"}
+    ],
+    "Falstaff responds with an instinctive military sentinel challenge ('Chi va là?'), startled by the sudden voice."
+  ],
+  "Mia signora!": [
+    "My lady!",
+    [
+      {"word": "Mia", "lemma": "mio", "pos": "adjective", "meaning": "my (feminine possessive)"},
+      {"word": "signora", "lemma": "signora", "pos": "noun", "meaning": "lady / mistress"}
+    ],
+    "Quickly rushes into the room displaying feigned breathless panic, playing her part in the staged intrusion."
+  ],
+  "C'è mistress Meg, e vuol parlarvi, sbuffa...": [
+    "Mistress Meg is here, and she wants to speak to you, she puffs...",
+    [
+      {"word": "C'è", "lemma": "esserci", "pos": "verb", "meaning": "there is / here is (ci + è)"},
+      {"word": "vuol", "lemma": "volere", "pos": "verb", "meaning": "wants / wishes (apocope of vuole)"},
+      {"word": "parlarvi", "lemma": "parlare", "pos": "verb", "meaning": "to speak to you (parlare + clitic vi)"},
+      {"word": "sbuffa", "lemma": "sbuffare", "pos": "verb", "meaning": "she huffs / puffs / snorts (3rd sing. present)"}
+    ],
+    "Quickly creates an alarming theatrical scene, describing Meg as snorting with rage ('sbuffa') outside the door."
+  ],
+  "strepita, s'abbaruffa...": [
+    "she rants, she brawls...",
+    [
+      {"word": "strepita", "lemma": "strepitare", "pos": "verb", "meaning": "she clamors / rants / makes an uproar (3rd sing. present)"},
+      {"word": "abbaruffa", "lemma": "abbaruffarsi", "pos": "verb", "meaning": "she brawls / scuffles / wrangles (3rd sing. present reflexive)"},
+      {"word": "s'", "lemma": "si", "pos": "pronoun", "meaning": "herself (reflexive pronoun)"}
+    ],
+    "Quickly heaps up energetic verbs: 'strepitare' (to roar noisily) and 'abbaruffarsi' (to scuffle/brawl), terrifying Falstaff with Meg's supposed fury."
+  ],
+  "Alla malora!": [
+    "To damnation!",
+    [
+      {"word": "Alla", "lemma": "a", "pos": "preposition", "meaning": "to the (a + la)"},
+      {"word": "malora", "lemma": "malora", "pos": "noun", "meaning": "ruin / damnation / curse"},
+      {"word": "alla malora", "lemma": "alla malora", "pos": "idiom", "meaning": "to the devil / to damnation (curse)"}
+    ],
+    "'Alla malora!' is a common Italian oath/curse meaning 'Curse it!' or 'To the devil with it!'."
+  ],
+  "E vuol passare e la trattengo a stento...": [
+    "And she wants to enter and I can barely hold her back...",
+    [
+      {"word": "passare", "lemma": "passare", "pos": "verb", "meaning": "to pass through / enter"},
+      {"word": "trattengo", "lemma": "trattenere", "pos": "verb", "meaning": "I hold back / restrain (1st sing. present)"},
+      {"word": "la", "lemma": "la", "pos": "pronoun", "meaning": "her (direct object clitic)"},
+      {"word": "a stento", "lemma": "a stento", "pos": "idiom", "meaning": "barely / with difficulty / hardly"}
+    ],
+    "'A stento' is an adverbial idiom meaning 'barely' or 'with great difficulty'. Quickly pretends she is barely able to physically restrain Meg."
+  ],
+  "Dove m'ascondo?": [
+    "Where do I hide myself?",
+    [
+      {"word": "Dove", "lemma": "dove", "pos": "adverb", "meaning": "where (interrogative)"},
+      {"word": "m'ascondo", "lemma": "ascondersi", "pos": "verb", "meaning": "do I hide myself (mi + ascondo)"},
+      {"word": "ascondersi", "lemma": "ascondersi", "pos": "verb", "meaning": "to hide oneself (poetic variant of nascondersi)"}
+    ],
+    "'Ascondersi' is the classical/literary equivalent of 'nascondersi'. Falstaff instantly panics at the thought of being caught by Meg."
+  ],
+  "Dietro il paravento.": [
+    "Behind the folding screen.",
+    [
+      {"word": "Dietro", "lemma": "dietro", "pos": "preposition", "meaning": "behind"},
+      {"word": "paravento", "lemma": "paravento", "pos": "noun", "meaning": "folding screen / room divider"},
+      {"word": "il", "lemma": "il", "pos": "particle", "meaning": "the (definite article)"}
+    ],
+    "Alice points Falstaff to the folding screen ('paravento'), setting the stage for one of the greatest farcical concealment scenes in opera."
+  ],
+  "Falstaff si rimpiatta dietro il paravento. Quando Falstaff è nascosto,": [
+    "Falstaff crouches behind the folding screen. When Falstaff is hidden,",
+    [
+      {"word": "rimpiatta", "lemma": "rimpiattarsi", "pos": "verb", "meaning": "crouches / conceals himself (3rd sing. present reflexive)"},
+      {"word": "dietro", "lemma": "dietro", "pos": "preposition", "meaning": "behind"},
+      {"word": "paravento", "lemma": "paravento", "pos": "noun", "meaning": "folding screen"},
+      {"word": "nascosto", "lemma": "nascondere", "pos": "adjective", "meaning": "hidden (past participle)"}
+    ],
+    "Stage direction: 'Rimpiattarsi' comically depicts Falstaff attempting to compress his massive girth behind the narrow screen."
+  ],
+  "Quickly fa cenno a Meg che sta dietro l'uscio di destra: Meg entra": [
+    "Quickly signals to Meg who is behind the right door: Meg enters",
+    [
+      {"word": "fa cenno", "lemma": "fare cenno", "pos": "idiom", "meaning": "signals / gives a sign / nods"},
+      {"word": "cenno", "lemma": "cenno", "pos": "noun", "meaning": "signal / nod / gesture"},
+      {"word": "uscio", "lemma": "uscio", "pos": "noun", "meaning": "door / doorway"},
+      {"word": "destra", "lemma": "destra", "pos": "noun", "meaning": "right"},
+      {"word": "entra", "lemma": "entrare", "pos": "verb", "meaning": "enters (3rd sing. present)"}
+    ],
+    "Stage direction showing the conspiratorial stagecraft of the women: Quickly signals Meg to enter right on cue."
+  ],
+  "fingendo d'essere agitatissima. Quickly torna ad escire.": [
+    "feigning to be extremely agitated. Quickly exits again.",
+    [
+      {"word": "fingendo", "lemma": "fingere", "pos": "verb", "meaning": "feigning / pretending (gerund)"},
+      {"word": "agitatissima", "lemma": "agitato", "pos": "adjective", "meaning": "extremely agitated (absolute superlative)"},
+      {"word": "torna", "lemma": "tornare", "pos": "verb", "meaning": "returns / turns back (3rd sing. present)"},
+      {"word": "escire", "lemma": "escire", "pos": "verb", "meaning": "to exit / go out (archaic variant of uscire)"}
+    ],
+    "Stage direction: 'Escire' is the archaic form of 'uscire'. Meg enters feigning hysterical agitation ('agitatissima')."
+  ],
+  "Alice! che spavento!": [
+    "Alice! what a fright!",
+    [
+      {"word": "spavento", "lemma": "spavento", "pos": "noun", "meaning": "fright / terror / shock"},
+      {"word": "che", "lemma": "che", "pos": "adjective", "meaning": "what / what a (exclamative)"},
+      {"word": "Alice", "lemma": "Alice", "pos": "noun", "meaning": "Alice (proper name)"}
+    ],
+    "Meg begins her theatrical performance with loud exclamations of terror for the benefit of the concealed Falstaff."
+  ],
+  "Che chiasso! Che discordia!": [
+    "What an uproar! What discord!",
+    [
+      {"word": "chiasso", "lemma": "chiasso", "pos": "noun", "meaning": "uproar / racket / noise"},
+      {"word": "discordia", "lemma": "discordia", "pos": "noun", "meaning": "discord / strife / conflict"},
+      {"word": "che", "lemma": "che", "pos": "adjective", "meaning": "what / what a (exclamative)"}
+    ],
+    "Meg escalates the tension with exclamatory pairings ('chiasso' and 'discordia') describing the imaginary riot outside."
+  ],
+  "Non perdere un momento,": [
+    "Do not lose a moment,",
+    [
+      {"word": "perdere", "lemma": "perdere", "pos": "verb", "meaning": "to lose (infinitive in negative imperative)"},
+      {"word": "momento", "lemma": "momento", "pos": "noun", "meaning": "moment"},
+      {"word": "non", "lemma": "non", "pos": "adverb", "meaning": "not"}
+    ],
+    "Negative imperative in the 2nd person singular: 'non' followed by the infinitive 'perdere'."
+  ],
+  "fuggi!...": [
+    "flee!...",
+    [
+      {"word": "fuggi", "lemma": "fuggire", "pos": "verb", "meaning": "flee / run away (2nd sing. imperative)"},
+      {"word": "fuggire", "lemma": "fuggire", "pos": "verb", "meaning": "to flee / escape"}
+    ],
+    "Urgent imperative of 'fuggire'. Meg orders Alice to run away, increasing the dramatic pressure on Falstaff."
+  ],
+  "Misericordia!": [
+    "Mercy!",
+    [
+      {"word": "Misericordia", "lemma": "misericordia", "pos": "noun", "meaning": "mercy / pity / compassion"},
+      {"word": "misericordia", "lemma": "misericordia", "pos": "interjection", "meaning": "mercy! / good heavens! (cry of alarm)"}
+    ],
+    "Alice acts her role in the charade, crying 'Misericordia!' with mock-pious distress."
+  ],
+  "Che avvenne?": [
+    "What happened?",
+    [
+      {"word": "avvenne", "lemma": "avvenire", "pos": "verb", "meaning": "happened / occurred (3rd sing. passato remoto)"},
+      {"word": "Che", "lemma": "che", "pos": "pronoun", "meaning": "what (interrogative pronoun)"}
+    ],
+    "Passato remoto of 'avvenire' ('what occurred? / what happened?'). Alice prompts Meg to deliver the alarming backstory."
+  ],
+  "Il tuo consorte": [
+    "Your husband",
+    [
+      {"word": "consorte", "lemma": "consorte", "pos": "noun", "meaning": "spouse / consort / husband"},
+      {"word": "tuo", "lemma": "tuo", "pos": "adjective", "meaning": "your (possessive)"},
+      {"word": "Il", "lemma": "il", "pos": "particle", "meaning": "the (definite article)"}
+    ],
+    "'Consorte' is formal literary Italian for spouse, adding mock-solemnity to Meg's report of Ford's fury."
+  ],
+  "vien gridando «accorr'uomo!»": [
+    "comes crying «help! help!»",
+    [
+      {"word": "vien", "lemma": "venire", "pos": "verb", "meaning": "comes (apocopic form of viene)"},
+      {"word": "gridando", "lemma": "gridare", "pos": "verb", "meaning": "shouting / crying out (gerund)"},
+      {"word": "accorr'uomo", "lemma": "accorr'uomo", "pos": "idiom", "meaning": "help! / to the rescue! (ancient hue and cry)"}
+    ],
+    "'Accorr'uomo!' (literally 'run, man!') is an ancient Italian hue and cry, summoning neighbors to stop a criminal or fire."
+  ],
+  "Dice...": [
+    "He says...",
+    [
+      {"word": "Dice", "lemma": "dire", "pos": "verb", "meaning": "he says (3rd sing. present)"},
+      {"word": "dire", "lemma": "dire", "pos": "verb", "meaning": "to say / tell"}
+    ],
+    "Meg pauses theatrically with an ellipsis, ratcheting up the suspense for the eavesdropping Falstaff."
+  ],
+  "Parla più forte.": [
+    "Speak louder.",
+    [
+      {"word": "Parla", "lemma": "parlare", "pos": "verb", "meaning": "speak (2nd sing. imperative)"},
+      {"word": "più", "lemma": "più", "pos": "adverb", "meaning": "more"},
+      {"word": "forte", "lemma": "forte", "pos": "adverb", "meaning": "loudly / strongly"}
+    ],
+    "Alice whispers an aside to Meg telling her to speak louder so Falstaff behind the screen doesn't miss a single word."
+  ],
+  "MEG Che vuol scannare un uomo!": [
+    "MEG That he wants to slaughter a man!",
+    [
+      {"word": "scannare", "lemma": "scannare", "pos": "verb", "meaning": "to slaughter / butcher / cut the throat"},
+      {"word": "vuol", "lemma": "volere", "pos": "verb", "meaning": "wants / intends (apocope of vuole)"},
+      {"word": "uomo", "lemma": "uomo", "pos": "noun", "meaning": "man"},
+      {"word": "Che", "lemma": "che", "pos": "conjunction", "meaning": "that"}
+    ],
+    "The libretto text includes the speaker label 'MEG'. 'Scannare' is a visceral verb meaning to slit someone's throat or butcher like livestock."
+  ],
+  "Non ridere.": [
+    "Do not laugh.",
+    [
+      {"word": "ridere", "lemma": "ridere", "pos": "verb", "meaning": "to laugh (infinitive in negative imperative)"},
+      {"word": "Non", "lemma": "non", "pos": "adverb", "meaning": "not"}
+    ],
+    "Alice whispers a quick aside warning Meg not to betray the trick by bursting into laughter."
+  ],
+  "Ei correva": [
+    "He was running",
+    [
+      {"word": "Ei", "lemma": "egli", "pos": "pronoun", "meaning": "he (poetic/archaic subject pronoun)"},
+      {"word": "correva", "lemma": "correre", "pos": "verb", "meaning": "was running (3rd sing. imperfect)"},
+      {"word": "correre", "lemma": "correre", "pos": "verb", "meaning": "to run"}
+    ],
+    "Meg resumes her breathless account of Ford's approach. 'Ei' is a literary/poetic truncation of 'egli' (he)."
+  ],
+  "invaso da tremendo": [
+    "seized by tremendous",
+    [
+      {"word": "invaso", "lemma": "invadere", "pos": "adjective", "meaning": "possessed / seized / overwhelmed (past participle)"},
+      {"word": "da", "lemma": "da", "pos": "preposition", "meaning": "by"},
+      {"word": "tremendo", "lemma": "tremendo", "pos": "adjective", "meaning": "tremendous / terrifying / dreadful"}
+    ],
+    "'Invaso da' denotes being possessed or overcome by an uncontrollable maniacal passion."
+  ],
+  "furor! Maledicendo": [
+    "fury! Cursing",
+    [
+      {"word": "furor", "lemma": "furore", "pos": "noun", "meaning": "fury / rage (apocopic form of furore)"},
+      {"word": "Maledicendo", "lemma": "maledire", "pos": "verb", "meaning": "cursing / execrating (present gerund)"}
+    ],
+    "'Furor' is poetic apocope for 'furore'. The gerund 'maledicendo' captures ongoing, frantic rage."
+  ],
+  "tutte le figlie d'Eva!": [
+    "all the daughters of Eve!",
+    [
+      {"word": "figlie", "lemma": "figlia", "pos": "noun", "meaning": "daughters"},
+      {"word": "Eva", "lemma": "Eva", "pos": "noun", "meaning": "Eve (the first woman)"},
+      {"word": "tutte", "lemma": "tutto", "pos": "adjective", "meaning": "all (feminine plural)"},
+      {"word": "d'Eva", "lemma": "di", "pos": "preposition", "meaning": "of Eve (di + Eva)"}
+    ],
+    "'Le figlie d'Eva' is a classic poetic/biblical idiom for all womankind, blamed by jealous men for deceit."
+  ],
+  "Dice che un tuo ganzo hai nascosto,": [
+    "He says that you have hidden a lover of yours,",
+    [
+      {"word": "ganzo", "lemma": "ganzo", "pos": "noun", "meaning": "paramour / lover / secret beau"},
+      {"word": "nascosto", "lemma": "nascondere", "pos": "verb", "meaning": "hidden (past participle)"},
+      {"word": "hai", "lemma": "avere", "pos": "verb", "meaning": "you have (2nd sing. present)"},
+      {"word": "tuo", "lemma": "tuo", "pos": "adjective", "meaning": "your (possessive)"}
+    ],
+    "'Ganzo' is a colorful, colloquial Italian term for an illicit lover, paramour, or gigolo."
+  ],
+  "lo vuole ad ogni costo scoprir...": [
+    "he wants to discover him at any cost...",
+    [
+      {"word": "vuole", "lemma": "volere", "pos": "verb", "meaning": "wants / intends (3rd sing. present)"},
+      {"word": "ad ogni costo", "lemma": "ad ogni costo", "pos": "idiom", "meaning": "at all costs / whatever it takes"},
+      {"word": "scoprir", "lemma": "scoprire", "pos": "verb", "meaning": "to uncover / discover (apocopic infinitive)"},
+      {"word": "lo", "lemma": "lo", "pos": "pronoun", "meaning": "him (direct object clitic)"}
+    ],
+    "'Ad ogni costo' is a standard Italian idiom for 'at all costs'. 'Scoprir' has apocope before the ellipsis."
+  ],
+  "Vien mastro Ford! Salvatevi!": [
+    "Master Ford is coming! Save yourselves!",
+    [
+      {"word": "Vien", "lemma": "venire", "pos": "verb", "meaning": "is coming (apocope of viene)"},
+      {"word": "mastro", "lemma": "mastro", "pos": "noun", "meaning": "master"},
+      {"word": "Salvatevi", "lemma": "salvarsi", "pos": "verb", "meaning": "save yourselves (imperative salvate + clitic vi)"}
+    ],
+    "The comic farce suddenly turns dangerous: Quickly bursts back in with genuine alarm because Ford really IS coming with an armed mob!"
+  ],
+  "È come una tempesta!": [
+    "He is like a storm!",
+    [
+      {"word": "tempesta", "lemma": "tempesta", "pos": "noun", "meaning": "tempest / storm"},
+      {"word": "come", "lemma": "come", "pos": "preposition", "meaning": "like / as"},
+      {"word": "È", "lemma": "essere", "pos": "verb", "meaning": "he is (3rd sing. present)"}
+    ],
+    "Quickly describes Ford's tempestuous approach using storm imagery ('come una tempesta')."
+  ],
+  "Strepita, tuona, fulmina,": [
+    "He rants, thunders, strikes like lightning,",
+    [
+      {"word": "Strepita", "lemma": "strepitare", "pos": "verb", "meaning": "he roars / makes a racket (3rd sing. present)"},
+      {"word": "tuona", "lemma": "tuonare", "pos": "verb", "meaning": "he thunders (3rd sing. present)"},
+      {"word": "fulmina", "lemma": "fulminare", "pos": "verb", "meaning": "he strikes like lightning / fulminates (3rd sing. present)"}
+    ],
+    "A dramatic tricolon of meteorological verbs conveying Ford's furious tempest of jealousy ('strepita, tuona, fulmina')."
+  ],
+  "si dà dei pugni in testa,": [
+    "he punches himself in the head,",
+    [
+      {"word": "pugni", "lemma": "pugno", "pos": "noun", "meaning": "punches / fists"},
+      {"word": "testa", "lemma": "testa", "pos": "noun", "meaning": "head"},
+      {"word": "dà", "lemma": "dare", "pos": "verb", "meaning": "gives (3rd sing. present)"},
+      {"word": "si dà", "lemma": "darsi", "pos": "verb", "meaning": "he gives himself (reflexive)"}
+    ],
+    "Comically vivid description of Ford beating his own head with his fists in an uncontrollable fit of fury."
+  ],
+  "scoppia in minacce ed urla...": [
+    "bursts into threats and screams...",
+    [
+      {"word": "scoppia", "lemma": "scoppiare", "pos": "verb", "meaning": "bursts / explodes (3rd sing. present)"},
+      {"word": "minacce", "lemma": "minaccia", "pos": "noun", "meaning": "threats"},
+      {"word": "urla", "lemma": "urlo", "pos": "noun", "meaning": "screams / shouts (irregular feminine plural)"},
+      {"word": "in", "lemma": "in", "pos": "preposition", "meaning": "into / in"}
+    ],
+    "'Scoppiare in' means to burst forth into. 'Urla' is the collective feminine plural of 'urlo'."
+  ],
+  "Dassenno oppur da burla?": [
+    "In earnest or as a joke?",
+    [
+      {"word": "Dassenno", "lemma": "dassenno", "pos": "adverb", "meaning": "in earnest / seriously / really"},
+      {"word": "oppur", "lemma": "oppure", "pos": "conjunction", "meaning": "or / or else (apocopic form of oppure)"},
+      {"word": "da burla", "lemma": "da burla", "pos": "idiom", "meaning": "for a joke / in jest"},
+      {"word": "burla", "lemma": "burla", "pos": "noun", "meaning": "joke / jest / prank"}
+    ],
+    "Alice asks Quickly whether Ford's arrival is real ('dassenno') or part of their joke ('da burla')."
+  ],
+  "Dassenno. Egli scavalca": [
+    "In earnest. He is leaping over",
+    [
+      {"word": "Dassenno", "lemma": "dassenno", "pos": "adverb", "meaning": "in earnest / seriously"},
+      {"word": "Egli", "lemma": "egli", "pos": "pronoun", "meaning": "he (subject pronoun)"},
+      {"word": "scavalca", "lemma": "scavallare", "pos": "verb", "meaning": "climbs over / scales / vaults (3rd sing. present)"}
+    ],
+    "Quickly confirms that this is deadly serious: Ford is literally vaulting over walls in his frenzy."
+  ],
+  "le siepi del giardino...": [
+    "the hedges of the garden...",
+    [
+      {"word": "siepi", "lemma": "siepe", "pos": "noun", "meaning": "hedges / garden fences"},
+      {"word": "giardino", "lemma": "giardino", "pos": "noun", "meaning": "garden"},
+      {"word": "del", "lemma": "di", "pos": "preposition", "meaning": "of the (di + il)"},
+      {"word": "le", "lemma": "il", "pos": "particle", "meaning": "the (feminine plural definite article)"}
+    ],
+    "Ford has abandoned the paths and is charging straight through the garden hedges ('le siepi del giardino')."
+  ],
+  "lo segue una gran calca": [
+    "a huge crowd follows him",
+    [
+      {"word": "segue", "lemma": "seguire", "pos": "verb", "meaning": "follows (3rd sing. present)"},
+      {"word": "calca", "lemma": "calca", "pos": "noun", "meaning": "throng / crowd / mob"},
+      {"word": "gran", "lemma": "grande", "pos": "adjective", "meaning": "great / large (apocopic form of grande)"},
+      {"word": "lo", "lemma": "lo", "pos": "pronoun", "meaning": "him (direct object clitic)"}
+    ],
+    "Inversion: direct object 'lo' precedes verb 'segue' and subject 'una gran calca' (a great mob of followers)."
+  ],
+  "di gente... è già vicino...": [
+    "of people... he is already near...",
+    [
+      {"word": "gente", "lemma": "gente", "pos": "noun", "meaning": "people / crowd"},
+      {"word": "già", "lemma": "già", "pos": "adverb", "meaning": "already"},
+      {"word": "vicino", "lemma": "vicino", "pos": "adverb", "meaning": "near / close by"},
+      {"word": "è", "lemma": "essere", "pos": "verb", "meaning": "he is (3rd sing. present)"}
+    ],
+    "Quickly conveys the rapid approach of the armed mob with fragmented, urgent phrasing."
+  ],
+  "Mentr'io vi parlo ei valca": [
+    "While I speak to you he crosses",
+    [
+      {"word": "Mentr'", "lemma": "mentre", "pos": "conjunction", "meaning": "while (elision of mentre)"},
+      {"word": "parlo", "lemma": "parlare", "pos": "verb", "meaning": "I speak (1st sing. present)"},
+      {"word": "ei", "lemma": "egli", "pos": "pronoun", "meaning": "he (poetic variant of egli)"},
+      {"word": "valca", "lemma": "valcare", "pos": "verb", "meaning": "crosses / steps over (3rd sing. present, poetic for varcare)"}
+    ],
+    "'Valcare' is an archaic/poetic Tuscan variant of 'varcare' (to step over a threshold), rhyming with 'scavalca' and 'calca'."
+  ],
+  "l'ingresso...": [
+    "the entrance...",
+    [
+      {"word": "ingresso", "lemma": "ingresso", "pos": "noun", "meaning": "entrance / doorway"},
+      {"word": "l'", "lemma": "il", "pos": "particle", "meaning": "the (definite article)"}
+    ],
+    "Quickly is cut off as Ford's shout suddenly echoes right from the doorway."
+  ],
+  "Malandrino!": [
+    "Scoundrel!",
+    [
+      {"word": "Malandrino", "lemma": "malandrino", "pos": "noun", "meaning": "scoundrel / rogue / highwayman"},
+      {"word": "malandrino", "lemma": "malandrino", "pos": "adjective", "meaning": "roguish / villainous"}
+    ],
+    "Ford's thunderous entrance shout: 'Malandrino!' (scoundrel/brigand), hunting for the seducer he believes is inside."
+  ],
+  "Il diavolo cavalca": [
+    "The devil rides",
+    [
+      {"word": "diavolo", "lemma": "diavolo", "pos": "noun", "meaning": "devil / demon"},
+      {"word": "cavalca", "lemma": "cavalcare", "pos": "verb", "meaning": "rides (3rd sing. present)"},
+      {"word": "Il", "lemma": "il", "pos": "particle", "meaning": "the (definite article)"}
+    ],
+    "Falstaff groans from behind the screen: this begins Boito's direct translation of Shakespeare's proverb from Henry IV Part 1."
+  ],
+  "sull'arco di un violino!": [
+    "upon the bow of a violin!",
+    [
+      {"word": "arco", "lemma": "arco", "pos": "noun", "meaning": "bow (of an instrument)"},
+      {"word": "violino", "lemma": "violino", "pos": "noun", "meaning": "violin / fiddle"},
+      {"word": "sull'", "lemma": "su", "pos": "preposition", "meaning": "upon the (su + l')"},
+      {"word": "di", "lemma": "di", "pos": "preposition", "meaning": "of"}
+    ],
+    "Falstaff completes Shakespeare's famous quip: 'The devil rides upon a fiddlestick!' (Henry IV Part 1), meaning utter chaos has erupted."
+  ],
+  "Alice, Meg, Quickly, mr. Ford, poi subito il Dr. Cajus, poi Fenton, poi": [
+    "Alice, Meg, Quickly, Mr. Ford, then immediately Dr. Caius, then Fenton, then",
+    [
+      {"word": "subito", "lemma": "subito", "pos": "adverb", "meaning": "immediately / at once"},
+      {"word": "poi", "lemma": "poi", "pos": "adverb", "meaning": "then / afterwards"},
+      {"word": "mr.", "lemma": "mister", "pos": "noun", "meaning": "Mister (English abbreviation)"},
+      {"word": "Dr.", "lemma": "dottore", "pos": "noun", "meaning": "Doctor (abbreviation)"}
+    ],
+    "Stage direction describing the cascading mass entrance into the room as Ford's search party floods in."
+  ],
+  "Bardolfo e Pistola, poi Nannetta. Falstaff sempre nascosto nel paravento.": [
+    "Bardolfo and Pistola, then Nannetta. Falstaff still hidden behind the screen.",
+    [
+      {"word": "sempre", "lemma": "sempre", "pos": "adverb", "meaning": "still / always"},
+      {"word": "nascosto", "lemma": "nascondere", "pos": "adjective", "meaning": "hidden (past participle)"},
+      {"word": "paravento", "lemma": "paravento", "pos": "noun", "meaning": "folding screen"},
+      {"word": "nel", "lemma": "in", "pos": "preposition", "meaning": "in the / behind the (in + il)"}
+    ],
+    "Stage direction establishing the ensemble layout: all principal characters fill the room while Falstaff quakes in terror behind the screen."
+  ],
+  "Chiudete le porte! Sbarrate le scale!": [
+    "Shut the doors! Bar the stairways!",
+    [
+      {"word": "Chiudete", "lemma": "chiudere", "pos": "verb", "meaning": "shut / close (2nd plural imperative)"},
+      {"word": "porte", "lemma": "porta", "pos": "noun", "meaning": "doors"},
+      {"word": "Sbarrate", "lemma": "sbarrare", "pos": "verb", "meaning": "bar / barricade (2nd plural imperative)"},
+      {"word": "scale", "lemma": "scala", "pos": "noun", "meaning": "stairs / staircases"}
+    ],
+    "Ford barks urgent military commands with imperative verbs ('Chiudete', 'Sbarrate') to seal every exit."
+  ],
+  "Seguitemi a caccia! Scoviamo il cignale!": [
+    "Follow me to the hunt! Let us flush out the boar!",
+    [
+      {"word": "Seguitemi", "lemma": "seguire", "pos": "verb", "meaning": "follow me (imperative seguite + clitic mi)"},
+      {"word": "caccia", "lemma": "caccia", "pos": "noun", "meaning": "hunt"},
+      {"word": "Scoviamo", "lemma": "scovare", "pos": "verb", "meaning": "let us flush out / unearth (1st plural imperative)"},
+      {"word": "cignale", "lemma": "cignale", "pos": "noun", "meaning": "wild boar (archaic/Tuscan form of cinghiale)"}
+    ],
+    "Ford compares hunting Falstaff to flushing out a wild boar ('cignale', archaic Tuscan for cinghiale) from the brush."
+  ],
+  "Correte sull'orme, sull'usta.": [
+    "Run on the tracks, on the scent.",
+    [
+      {"word": "Correte", "lemma": "correre", "pos": "verb", "meaning": "run (2nd plural imperative)"},
+      {"word": "orme", "lemma": "orma", "pos": "noun", "meaning": "tracks / footprints"},
+      {"word": "usta", "lemma": "usta", "pos": "noun", "meaning": "scent of wild game (hunting term)"},
+      {"word": "sull'", "lemma": "su", "pos": "preposition", "meaning": "on the (su + l')"}
+    ],
+    "'Usta' is a specialized Italian hunting term denoting the warm, lingering body scent left behind by wild game."
+  ],
+  "Tu fruga": [
+    "You, search",
+    [
+      {"word": "Tu", "lemma": "tu", "pos": "pronoun", "meaning": "you (singular subject pronoun)"},
+      {"word": "fruga", "lemma": "frugare", "pos": "verb", "meaning": "search / rummage (2nd sing. imperative)"},
+      {"word": "frugare", "lemma": "frugare", "pos": "verb", "meaning": "to search / rummage thoroughly"}
+    ],
+    "Ford barks an urgent imperative command to a follower to rummage every corner of the house."
+  ],
+  "negli anditi.": [
+    "in the passageways.",
+    [
+      {"word": "anditi", "lemma": "andito", "pos": "noun", "meaning": "passageways / corridors / hallways"},
+      {"word": "negli", "lemma": "in", "pos": "preposition", "meaning": "in the (in + gli)"}
+    ],
+    "'Anditi' refers to narrow domestic hallways or corridors connecting rooms."
+  ],
+  "A caccia!": [
+    "To the hunt!",
+    [
+      {"word": "caccia", "lemma": "caccia", "pos": "noun", "meaning": "hunt / chase"},
+      {"word": "A", "lemma": "a", "pos": "preposition", "meaning": "to / on"}
+    ],
+    "Bardolfo and Pistola eagerly echo Ford's rallying cry ('A caccia!'), joining the hunt against their former master."
+  ],
+  "Sventate la fuga!": [
+    "Thwart the escape!",
+    [
+      {"word": "Sventate", "lemma": "sventare", "pos": "verb", "meaning": "thwart / foil / prevent (2nd plural imperative)"},
+      {"word": "fuga", "lemma": "fuga", "pos": "noun", "meaning": "escape / flight"},
+      {"word": "la", "lemma": "il", "pos": "particle", "meaning": "the (definite article)"}
+    ],
+    "Ford shouts to cut off any retreat ('sventare la fuga' = to foil or prevent the escape)."
+  ],
+  "Cercate là dentro!": [
+    "Search in there!",
+    [
+      {"word": "Cercate", "lemma": "cercare", "pos": "verb", "meaning": "search / look (2nd plural imperative)"},
+      {"word": "dentro", "lemma": "dentro", "pos": "adverb", "meaning": "inside / in"},
+      {"word": "là dentro", "lemma": "là dentro", "pos": "idiom", "meaning": "in there / inside there"}
+    ],
+    "Ford gestures toward an adjacent room, ordering his posse inside as the frantic search continues."
+  ]
+}
+
+# Validation
+partB = json.load(open('scripts/falstaff_act2_sc2_partB.json'))
+orig_lines = [item['original'] for item in partB]
+
+print(f"Total lines in partB: {len(orig_lines)}")
+print(f"Total lines in curated data: {len(data)}")
+
+missing_in_curated = set(orig_lines) - set(data.keys())
+extra_in_curated = set(data.keys()) - set(orig_lines)
+
+if missing_in_curated:
+    print("ERROR: Missing lines:", missing_in_curated)
+if extra_in_curated:
+    print("ERROR: Extra lines:", extra_in_curated)
+
+allowed_pos = {"noun", "verb", "adjective", "adverb", "pronoun", "preposition", "conjunction", "interjection", "particle", "idiom"}
+
+errors = []
+for orig, val in data.items():
+    literal, tokens, note = val
+    # Check capitalization
+    first_orig_alpha = next((c for c in orig if c.isalpha()), None)
+    first_lit_alpha = next((c for c in literal if c.isalpha()), None)
+    if first_orig_alpha and first_lit_alpha:
+        if first_orig_alpha.isupper() and not first_lit_alpha.isupper():
+            errors.append(f"Capitalization mismatch: orig '{orig}' is uppercase but literal '{literal}' is not")
+    
+    # Check tokens count
+    if not (2 <= len(tokens) <= 5):
+        errors.append(f"Token count out of bounds ({len(tokens)}) for '{orig}'")
+        
+    # Check token fields and POS
+    for t in tokens:
+        for f in ['word', 'lemma', 'pos', 'meaning']:
+            if f not in t:
+                errors.append(f"Missing field '{f}' in token {t} for line '{orig}'")
+        if t.get('pos') not in allowed_pos:
+            errors.append(f"Invalid pos '{t.get('pos')}' in token {t} for line '{orig}'")
+            
+    # Check grammarNote
+    if not note or len(note.strip()) < 10:
+        errors.append(f"Grammar note missing or too short for '{orig}'")
+
+if errors:
+    print(f"Found {len(errors)} validation errors:")
+    for err in errors:
+        print(" -", err)
+    exit(1)
+else:
+    print("ALL VALIDATION CHECKS PASSED PERFECTLY!")
+
+with open('scripts/falstaff_curated_a2_sc2_partB.json', 'w', encoding='utf-8') as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
+
+print("Saved scripts/falstaff_curated_a2_sc2_partB.json successfully.")

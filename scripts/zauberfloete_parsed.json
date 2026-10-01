@@ -1,0 +1,6028 @@
+{
+  "act1": [
+    {
+      "sceneNumber": 1,
+      "title": "Nr. 1: Introduktion",
+      "cell_start": 6,
+      "cues": [
+        {
+          "id": "a1_cue_1",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 1: Introduktion",
+          "lines": [
+            {
+              "id": "a1_l_1",
+              "original": "Zu Hilfe! Zu Hilfe! sonst bin ich verloren,"
+            },
+            {
+              "id": "a1_l_2",
+              "original": "der listigen Schlange zum Opfer erkoren –"
+            },
+            {
+              "id": "a1_l_3",
+              "original": "barmherzige Götter! Schon nahet sie sich,"
+            },
+            {
+              "id": "a1_l_4",
+              "original": "ach rettet mich, ach rettet, schützet mich!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_2",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 1: Introduktion",
+          "stageDirection": "Er fällt in Ohnmacht; sogleich öffnet sich die Pforte des Tempels; drei verschleierte Damen kommen heraus, jede mit einem silbernen Wurfspieß.",
+          "lines": []
+        },
+        {
+          "id": "a1_cue_3",
+          "speaker": "Three Ladies",
+          "pieceTitle": "Nr. 1: Introduktion",
+          "lines": [
+            {
+              "id": "a1_l_5",
+              "original": "Stirb, Ungeheuer, durch uns're Macht!"
+            },
+            {
+              "id": "a1_l_6",
+              "original": "Triumph! Triumph! Sie ist vollbracht"
+            },
+            {
+              "id": "a1_l_7",
+              "original": "die Heldentat! Er ist befreit"
+            },
+            {
+              "id": "a1_l_8",
+              "original": "durch uns'res Armes Tapferkeit."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_4",
+          "speaker": "First Lady",
+          "pieceTitle": "Nr. 1: Introduktion",
+          "lines": [
+            {
+              "id": "a1_l_9",
+              "original": "Ein holder Jüngling, sanft und schön!"
+            }
+          ],
+          "stageDirection": "ihn betrachtend"
+        },
+        {
+          "id": "a1_cue_5",
+          "speaker": "Second Lady",
+          "pieceTitle": "Nr. 1: Introduktion",
+          "lines": [
+            {
+              "id": "a1_l_10",
+              "original": "So schön, als ich noch nie geseh'n."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_6",
+          "speaker": "Third Lady",
+          "pieceTitle": "Nr. 1: Introduktion",
+          "lines": [
+            {
+              "id": "a1_l_11",
+              "original": "Ja, ja, gewiß! zum Malen schön."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_7",
+          "speaker": "All Three Ladies",
+          "pieceTitle": "Nr. 1: Introduktion",
+          "lines": [
+            {
+              "id": "a1_l_12",
+              "original": "Würd' ich mein Herz der Liebe weih'n,"
+            },
+            {
+              "id": "a1_l_13",
+              "original": "so müßt' es dieser Jüngling sein."
+            },
+            {
+              "id": "a1_l_14",
+              "original": "Laßt uns zu uns'rer Fürstin eilen,"
+            },
+            {
+              "id": "a1_l_15",
+              "original": "ihr diese Nachricht zu erteilen."
+            },
+            {
+              "id": "a1_l_16",
+              "original": "Vielleicht daß dieser schöne Mann,"
+            },
+            {
+              "id": "a1_l_17",
+              "original": "die vor'ge Ruh' ihr geben kann."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_8",
+          "speaker": "First Lady",
+          "pieceTitle": "Nr. 1: Introduktion",
+          "lines": [
+            {
+              "id": "a1_l_18",
+              "original": "So geht und sagt es ihr,"
+            },
+            {
+              "id": "a1_l_19",
+              "original": "ich bleib' indessen hier. –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_9",
+          "speaker": "Second Lady",
+          "pieceTitle": "Nr. 1: Introduktion",
+          "lines": [
+            {
+              "id": "a1_l_20",
+              "original": "Nein, nein, geht ihr nur hin,"
+            },
+            {
+              "id": "a1_l_21",
+              "original": "ich wache hier für ihn!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_10",
+          "speaker": "Third Lady",
+          "pieceTitle": "Nr. 1: Introduktion",
+          "lines": [
+            {
+              "id": "a1_l_22",
+              "original": "Nein, nein, das kann nicht sein,"
+            },
+            {
+              "id": "a1_l_23",
+              "original": "ich schütze ihn allein!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_11",
+          "speaker": "First Lady",
+          "pieceTitle": "Nr. 1: Introduktion",
+          "lines": [
+            {
+              "id": "a1_l_24",
+              "original": "Ich bleib' indessen hier ..."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_12",
+          "speaker": "Second Lady",
+          "pieceTitle": "Nr. 1: Introduktion",
+          "lines": [
+            {
+              "id": "a1_l_25",
+              "original": "Ich wache hier für ihn ..."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_13",
+          "speaker": "Third Lady",
+          "pieceTitle": "Nr. 1: Introduktion",
+          "lines": [
+            {
+              "id": "a1_l_26",
+              "original": "Ich schütze ihn allein ..."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_14",
+          "speaker": "First Lady",
+          "pieceTitle": "Nr. 1: Introduktion",
+          "lines": [
+            {
+              "id": "a1_l_27",
+              "original": "... ich bleibe ..."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_15",
+          "speaker": "Second Lady",
+          "pieceTitle": "Nr. 1: Introduktion",
+          "lines": [
+            {
+              "id": "a1_l_28",
+              "original": "... ich wache ..."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_16",
+          "speaker": "Third Lady",
+          "pieceTitle": "Nr. 1: Introduktion",
+          "lines": [
+            {
+              "id": "a1_l_29",
+              "original": "... ich schütze ..."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_17",
+          "speaker": "First Lady",
+          "pieceTitle": "Nr. 1: Introduktion",
+          "lines": [
+            {
+              "id": "a1_l_30",
+              "original": "... ich!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_18",
+          "speaker": "Second Lady",
+          "pieceTitle": "Nr. 1: Introduktion",
+          "lines": [
+            {
+              "id": "a1_l_31",
+              "original": "... ich!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_19",
+          "speaker": "Third Lady",
+          "pieceTitle": "Nr. 1: Introduktion",
+          "lines": [
+            {
+              "id": "a1_l_32",
+              "original": "... ich!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_20",
+          "speaker": "All Three Ladies",
+          "pieceTitle": "Nr. 1: Introduktion",
+          "lines": [
+            {
+              "id": "a1_l_33",
+              "original": "Ich sollte fort! Ei, ei! wie fein!"
+            },
+            {
+              "id": "a1_l_34",
+              "original": "Sie wären gern bei ihm allein."
+            },
+            {
+              "id": "a1_l_35",
+              "original": "Nein, nein, das kann nicht sein!"
+            },
+            {
+              "id": "a1_l_36",
+              "original": "Was sollte ich darum nicht geben,"
+            },
+            {
+              "id": "a1_l_37",
+              "original": "könnt' ich mit diesem Jüngling leben!"
+            },
+            {
+              "id": "a1_l_38",
+              "original": "Hätt' ich ihn doch so ganz allein!"
+            },
+            {
+              "id": "a1_l_39",
+              "original": "Doch keine geht, es kann nicht sein."
+            },
+            {
+              "id": "a1_l_40",
+              "original": "Am besten ist es nun, ich geh'."
+            },
+            {
+              "id": "a1_l_41",
+              "original": "Du Jüngling schön und liebevoll,"
+            },
+            {
+              "id": "a1_l_42",
+              "original": "du trauter Jüngling, lebe wohl,"
+            },
+            {
+              "id": "a1_l_43",
+              "original": "bis ich dich wiederseh'."
+            }
+          ],
+          "stageDirection": "für sich"
+        },
+        {
+          "id": "a1_cue_21",
+          "speaker": "All Three Ladies",
+          "pieceTitle": "Nr. 1: Introduktion",
+          "stageDirection": "Die Damen gehen ab. Tamino erwacht und entdeckt die Schlange tot zu seinen Füßen. Als er jemanden kommen hört, versteckt er sich hinter einem Baum. Papageno, in einen Mantel aus Federn gehüllt, tritt auf, trägt auf dem Rücken eine große Vogelsteige und hält mit beiden Händen ein Faunenflötchen.",
+          "lines": []
+        }
+      ]
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Nr. 2: Lied",
+      "cell_start": 10,
+      "cues": [
+        {
+          "id": "a1_cue_22",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 2: Lied",
+          "lines": [
+            {
+              "id": "a1_l_44",
+              "original": "Der Vogelfänger bin ich ja –"
+            },
+            {
+              "id": "a1_l_45",
+              "original": "stets lustig heißa hopsasa!"
+            },
+            {
+              "id": "a1_l_46",
+              "original": "Ich Vogelfänger bin bekannt"
+            },
+            {
+              "id": "a1_l_47",
+              "original": "bei Alt und Jung im ganzen Land."
+            },
+            {
+              "id": "a1_l_48",
+              "original": "Weiß mit dem Locken umzugehn"
+            },
+            {
+              "id": "a1_l_49",
+              "original": "und mich aufs Pfeifen zu verstehn!"
+            },
+            {
+              "id": "a1_l_50",
+              "original": "Drum kann ich froh und lustig sein,"
+            },
+            {
+              "id": "a1_l_51",
+              "original": "denn alle Vögel sind ja mein."
+            },
+            {
+              "id": "a1_l_52",
+              "original": "Der Vogelfänger bin ich ja –"
+            },
+            {
+              "id": "a1_l_53",
+              "original": "stets lustig, heißa hopsasa!"
+            },
+            {
+              "id": "a1_l_54",
+              "original": "Ich Vogelfänger bin bekannt"
+            },
+            {
+              "id": "a1_l_55",
+              "original": "bei Alt und Jung im ganzen Land."
+            },
+            {
+              "id": "a1_l_56",
+              "original": "Ein Netz für Mädchen möchte ich,"
+            },
+            {
+              "id": "a1_l_57",
+              "original": "ich fing' sie dutzendweis' für mich."
+            },
+            {
+              "id": "a1_l_58",
+              "original": "Dann sperrte ich sie bei mir ein,"
+            },
+            {
+              "id": "a1_l_59",
+              "original": "und alle Mädchen wären mein."
+            },
+            {
+              "id": "a1_l_60",
+              "original": "Wenn alle Mädchen wären mein,"
+            },
+            {
+              "id": "a1_l_61",
+              "original": "so tauschte ich brav Zucker ein:"
+            },
+            {
+              "id": "a1_l_62",
+              "original": "die, welche mir am liebsten wär',"
+            },
+            {
+              "id": "a1_l_63",
+              "original": "der gäb' ich gleich den Zucker her."
+            },
+            {
+              "id": "a1_l_64",
+              "original": "Und küßte sie mich zärtlich dann,"
+            },
+            {
+              "id": "a1_l_65",
+              "original": "wär' sie mein Weib und ich ihr Mann."
+            },
+            {
+              "id": "a1_l_66",
+              "original": "Sie schlief' an meiner Seite ein,"
+            },
+            {
+              "id": "a1_l_67",
+              "original": "ich wiegte wie ein Kind sie ein."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_23",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 2: Lied",
+          "stageDirection": "Als Papageno seine Vogelsteige abgesetzt hat, tritt Tamino vor und erfährt, daß Papageno ein „einfacher Mensch wie du\" ist und Vögel fängt, die er bei der „sternflammenden Königin\" für Speisen und Trank eintauscht. Tamino indes ist adliger Herkunft, ein Prinz, dessen Vater Länder und Völker regierte. Papageno, beim Anblick der toten Schlange tief erschrocken, gibt sich Tamino gegenüber als deren Bezwinger aus, bis ihn die drei Damen ob seiner Lügen bestrafen. Sie reichen ihm Wasser statt Wein, einen Stein statt Zuckerbrot und schlagen ihm an Stelle der erwarteten Feigen ein goldenes Schloß vor den Mund. Dann reichen sie Tamino ein Bild der schönen Tochter ihrer Königin und versprechen ihm Seligkeit, wenn er sie liebt. Darauf verschwinden sie mit Papageno und lassen Tamino allein, der sich verliebt und fasziniert über das Bild beugt.",
+          "lines": []
+        }
+      ]
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Nr. 3: Arie",
+      "cell_start": 12,
+      "cues": [
+        {
+          "id": "a1_cue_24",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 3: Arie",
+          "lines": [
+            {
+              "id": "a1_l_68",
+              "original": "Dies Bildnis ist bezaubernd schön,"
+            },
+            {
+              "id": "a1_l_69",
+              "original": "wie noch kein Auge je geseh'n."
+            },
+            {
+              "id": "a1_l_70",
+              "original": "Ich fühl' es, wie dies Götterbild"
+            },
+            {
+              "id": "a1_l_71",
+              "original": "mein Herz mit neuer Regung füllt."
+            },
+            {
+              "id": "a1_l_72",
+              "original": "Dies Etwas kann ich zwar nicht nennen,"
+            },
+            {
+              "id": "a1_l_73",
+              "original": "doch fühl' ich's hier wie Feuer brennen;"
+            },
+            {
+              "id": "a1_l_74",
+              "original": "soll die Empfindung Liebe sein?"
+            },
+            {
+              "id": "a1_l_75",
+              "original": "Ja, ja, die Liebe ist's allein."
+            },
+            {
+              "id": "a1_l_76",
+              "original": "O wenn ich sie nur finden könnte!"
+            },
+            {
+              "id": "a1_l_77",
+              "original": "O wenn sie doch schon vor mir stünde!"
+            },
+            {
+              "id": "a1_l_78",
+              "original": "Ich würde – würde – warm und rein –"
+            },
+            {
+              "id": "a1_l_79",
+              "original": "was würde ich?"
+            },
+            {
+              "id": "a1_l_80",
+              "original": "Ich würde sie voll Entzücken"
+            },
+            {
+              "id": "a1_l_81",
+              "original": "an diesen heißen Busen drücken,"
+            },
+            {
+              "id": "a1_l_82",
+              "original": "und ewig wäre sie dann mein!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_25",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 3: Arie",
+          "stageDirection": "Er will gerade gehen, als die Damen wieder erscheinen und die Ankunft der Königin ankündigen. Diese hat das Verhalten Taminos beobachtet und veranlaßt ihn jetzt, ihre Tochter aus der Gewalt Sarastros, des Hohen Priesters von Isis und Osiris, zu befreien. Finsternis. Die Berge teilen sich unter heftigem Donner auseinander, und die Königin auf ihrem sternenverzierten Thron wird sichtbar.",
+          "lines": []
+        }
+      ]
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Nr. 4: Rezitativ und Arie",
+      "cell_start": 13,
+      "cues": [
+        {
+          "id": "a1_cue_26",
+          "speaker": "Queen of the Night",
+          "pieceTitle": "Nr. 4: Rezitativ und Arie",
+          "lines": [
+            {
+              "id": "a1_l_83",
+              "original": "O zitt're nicht, mein lieber Sohn,"
+            },
+            {
+              "id": "a1_l_84",
+              "original": "du bist unschuldig, weise, fromm –"
+            },
+            {
+              "id": "a1_l_85",
+              "original": "Ein Jüngling so wie du, vermag am besten,"
+            },
+            {
+              "id": "a1_l_86",
+              "original": "das tiefbetrübte Mutterherz zu trösten. –"
+            },
+            {
+              "id": "a1_l_87",
+              "original": "Zum Leiden bin ich auserkoren,"
+            },
+            {
+              "id": "a1_l_88",
+              "original": "denn meine Tochter fehlet mir."
+            },
+            {
+              "id": "a1_l_89",
+              "original": "Durch sie ging all mein Glück verloren,"
+            },
+            {
+              "id": "a1_l_90",
+              "original": "ein Bösewicht entfloh mit ihr."
+            },
+            {
+              "id": "a1_l_91",
+              "original": "Noch seh' ich ihr Zittern"
+            },
+            {
+              "id": "a1_l_92",
+              "original": "mit bangem Erschüttern,"
+            },
+            {
+              "id": "a1_l_93",
+              "original": "ihr ängstliches Beben,"
+            },
+            {
+              "id": "a1_l_94",
+              "original": "ihr schüchternes Streben."
+            },
+            {
+              "id": "a1_l_95",
+              "original": "Ich mußte sie mir rauben sehen,"
+            },
+            {
+              "id": "a1_l_96",
+              "original": "ach helft!, war alles was sie sprach –"
+            },
+            {
+              "id": "a1_l_97",
+              "original": "allein vergebens war ihr Flehen,"
+            },
+            {
+              "id": "a1_l_98",
+              "original": "denn meine Hilfe war zu schwach."
+            },
+            {
+              "id": "a1_l_99",
+              "original": "Du wirst sie zu befreien gehen,"
+            },
+            {
+              "id": "a1_l_100",
+              "original": "du wirst der Tochter Retter sein."
+            },
+            {
+              "id": "a1_l_101",
+              "original": "Und werd' ich dich als Sieger sehen,"
+            },
+            {
+              "id": "a1_l_102",
+              "original": "so sei sie dann auf ewig dein."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_27",
+          "speaker": "Queen of the Night",
+          "pieceTitle": "Nr. 4: Rezitativ und Arie",
+          "stageDirection": "Sie verschwindet unter Donnergrollen mit ihren Damen. Das Theater verwandelt sich wieder so, wie es vorher war. Tamino will gerade gehen, als Papageno ihm in den Weg tritt und traurig auf sein Schloß am Munde deutet.",
+          "lines": []
+        }
+      ]
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Nr. 5: Quintett",
+      "cell_start": 14,
+      "cues": [
+        {
+          "id": "a1_cue_28",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_103",
+              "original": "Hm! hm! hm! hm!"
+            }
+          ],
+          "stageDirection": "deutet traurig auf sein Schloß am Mund"
+        },
+        {
+          "id": "a1_cue_29",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_104",
+              "original": "Der Arme kann von Strafe sagen,"
+            },
+            {
+              "id": "a1_l_105",
+              "original": "denn seine Sprache ist dahin!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_30",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_106",
+              "original": "Hm! hm! hm! hm!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_31",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_107",
+              "original": "Ich kann nichts tun, als dich beklagen,"
+            },
+            {
+              "id": "a1_l_108",
+              "original": "weil ich zu schwach zu helfen bin!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_32",
+          "speaker": "First Lady",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_109",
+              "original": "Die Königin begnadigt dich,"
+            },
+            {
+              "id": "a1_l_110",
+              "original": "entläßt die Strafe dir durch mich. –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_33",
+          "speaker": "First Lady",
+          "pieceTitle": "Nr. 5: Quintett",
+          "stageDirection": "nimmt ihm das Schloß vom Mund weg",
+          "lines": []
+        },
+        {
+          "id": "a1_cue_34",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_111",
+              "original": "Nun plaudert Papageno wieder!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_35",
+          "speaker": "Second Lady",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_112",
+              "original": "Ja, plaud're – lüge nur nicht wieder!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_36",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_113",
+              "original": "Ich lüge nimmermehr, nein, nein!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_37",
+          "speaker": "Three Ladies",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_114",
+              "original": "Dies Schloß soll deine Warnung sein!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_38",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_115",
+              "original": "Dies Schloß soll meine Warnung sein!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_39",
+          "speaker": "All",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_116",
+              "original": "Bekämen doch die Lügner alle"
+            },
+            {
+              "id": "a1_l_117",
+              "original": "ein solches Schloß vor ihren Mund:"
+            },
+            {
+              "id": "a1_l_118",
+              "original": "Statt Haß, Verleumdung, schwarzer Galle"
+            },
+            {
+              "id": "a1_l_119",
+              "original": "bestünde Lieb' und Bruderbund!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_40",
+          "speaker": "First Lady",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_120",
+              "original": "O Prinz, nimm dies Geschenk von mir,"
+            },
+            {
+              "id": "a1_l_121",
+              "original": "dies sendet uns're Fürstin dir."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_41",
+          "speaker": "First Lady",
+          "pieceTitle": "Nr. 5: Quintett",
+          "stageDirection": "gibt ihm eine goldene Flöte",
+          "lines": [
+            {
+              "id": "a1_l_122",
+              "original": "Die Zauberflöte wird dich schützen,"
+            },
+            {
+              "id": "a1_l_123",
+              "original": "im größten Unglück unterstützen."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_42",
+          "speaker": "Three Ladies",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_124",
+              "original": "Hiermit kannst du allmächtig handeln,"
+            },
+            {
+              "id": "a1_l_125",
+              "original": "der Menschen Leidenschaft verwandeln,"
+            },
+            {
+              "id": "a1_l_126",
+              "original": "der Traurige wird freudig sein,"
+            },
+            {
+              "id": "a1_l_127",
+              "original": "den Hagestolz nimmt Liebe ein."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_43",
+          "speaker": "All",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_128",
+              "original": "O! so eine Flöte ist mehr"
+            },
+            {
+              "id": "a1_l_129",
+              "original": "als Gold und Kronen wert,"
+            },
+            {
+              "id": "a1_l_130",
+              "original": "denn durch sie wird Menschenglück"
+            },
+            {
+              "id": "a1_l_131",
+              "original": "und Zufriedenheit vermehrt."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_44",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_132",
+              "original": "Nun ihr schönen Frauenzimmer,"
+            },
+            {
+              "id": "a1_l_133",
+              "original": "darf ich? So empfehl' ich mich."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_45",
+          "speaker": "Three Ladies",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_134",
+              "original": "Dich empfehlen kannst du immer,"
+            },
+            {
+              "id": "a1_l_135",
+              "original": "doch bestimmt die Fürstin dich,"
+            },
+            {
+              "id": "a1_l_136",
+              "original": "mit dem Prinzen ohn' Verweilen"
+            },
+            {
+              "id": "a1_l_137",
+              "original": "nach Sarastros Burg zu eilen."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_46",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_138",
+              "original": "Nein dafür bedank' ich mich."
+            },
+            {
+              "id": "a1_l_139",
+              "original": "Von euch selbster hörte ich,"
+            },
+            {
+              "id": "a1_l_140",
+              "original": "daß er wie ein Tigertier."
+            },
+            {
+              "id": "a1_l_141",
+              "original": "Sicher ließ' ohn' alle Gnaden"
+            },
+            {
+              "id": "a1_l_142",
+              "original": "mich Sarastro rupfen, braten,"
+            },
+            {
+              "id": "a1_l_143",
+              "original": "setzte mich den Hunden für."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_47",
+          "speaker": "Three Ladies",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_144",
+              "original": "Dich schützt der Prinz, trau ihm allein,"
+            },
+            {
+              "id": "a1_l_145",
+              "original": "dafür sollst du sein Diener sein."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_48",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_146",
+              "original": "Daß doch der Prinz beim Teufel wäre."
+            },
+            {
+              "id": "a1_l_147",
+              "original": "Mein Leben ist mir lieb."
+            },
+            {
+              "id": "a1_l_148",
+              "original": "Am Ende schleicht, bei meiner Ehre,"
+            },
+            {
+              "id": "a1_l_149",
+              "original": "er von mir wie ein Dieb. –"
+            }
+          ],
+          "stageDirection": "für sich"
+        },
+        {
+          "id": "a1_cue_49",
+          "speaker": "First Lady",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_150",
+              "original": "Hier, nimm dies Kleinod, es ist dein."
+            }
+          ],
+          "stageDirection": "gibt ihm ein stahlnes Gelächter"
+        },
+        {
+          "id": "a1_cue_50",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_151",
+              "original": "Ei! ei! was mag darinnen sein? –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_51",
+          "speaker": "Three Ladies",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_152",
+              "original": "Darinnen hörst du Glöckchen tönen!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_52",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_153",
+              "original": "Werd' ich sie auch wohl spielen können?"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_53",
+          "speaker": "Three Ladies",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_154",
+              "original": "O ganz gewiß! ja ja gewiß!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_54",
+          "speaker": "All",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_155",
+              "original": "Silberglöckchen, Zauberflöten"
+            },
+            {
+              "id": "a1_l_156",
+              "original": "sind zu eurem/unserm Schutz vonnöten!"
+            },
+            {
+              "id": "a1_l_157",
+              "original": "Lebet wohl! wir wollen gehn!"
+            },
+            {
+              "id": "a1_l_158",
+              "original": "Lebet wohl – auf Wiedersehn!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_55",
+          "speaker": "All",
+          "pieceTitle": "Nr. 5: Quintett",
+          "stageDirection": "Alle wollen gehen.",
+          "lines": []
+        },
+        {
+          "id": "a1_cue_56",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_159",
+              "original": "Doch schöne Damen saget an ..."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_57",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_160",
+              "original": "... wo man die Burg wohl finden kann? –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_58",
+          "speaker": "Tamino & Papageno",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_161",
+              "original": "... wo man die Burg wohl finden kann?"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_59",
+          "speaker": "Three Ladies",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_162",
+              "original": "Drei Knäbchen, jung, schön, hold und weise"
+            },
+            {
+              "id": "a1_l_163",
+              "original": "umschweben euch auf eurer Reise."
+            },
+            {
+              "id": "a1_l_164",
+              "original": "Sie werden eure Führer sein,"
+            },
+            {
+              "id": "a1_l_165",
+              "original": "folgt ihrem Rate ganz allein."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_60",
+          "speaker": "Tamino & Papageno",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_166",
+              "original": "Drei Knäbchen, jung, schön, hold und weise"
+            },
+            {
+              "id": "a1_l_167",
+              "original": "umschweben uns auf uns'rer Reise? –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_61",
+          "speaker": "Three Ladies",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_168",
+              "original": "Sie werden eure Führer sein,"
+            },
+            {
+              "id": "a1_l_169",
+              "original": "folgt ihrem Rate ganz allein."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_62",
+          "speaker": "Tamino & Papageno",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_170",
+              "original": "So lebet wohl! wir wollen gehn;"
+            },
+            {
+              "id": "a1_l_171",
+              "original": "lebt wohl, lebt wohl, auf Wiedersehn!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_63",
+          "speaker": "All",
+          "pieceTitle": "Nr. 5: Quintett",
+          "lines": [
+            {
+              "id": "a1_l_172",
+              "original": "So lebet wohl! wir wollen gehn!"
+            },
+            {
+              "id": "a1_l_173",
+              "original": "lebt wohl, lebt wohl, auf Wiedersehn!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_64",
+          "speaker": "All",
+          "pieceTitle": "Nr. 5: Quintett",
+          "stageDirection": "Verwandlung: ein prächtiges Zimmer in ägyptischem Stil. Zwei Sklaven tragen schöne Polster nebst einem feinen türkischen Tisch herein und breiten Teppiche aus. Monostatos tritt herein, gefolgt von Pamina, die von Sklaven geführt wird.",
+          "lines": []
+        }
+      ]
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Nr. 6: Terzett",
+      "cell_start": 19,
+      "cues": [
+        {
+          "id": "a1_cue_65",
+          "speaker": "Monostatos",
+          "pieceTitle": "Nr. 6: Terzett",
+          "lines": [
+            {
+              "id": "a1_l_174",
+              "original": "Du feines Täubchen, nur herein."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_66",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 6: Terzett",
+          "lines": [
+            {
+              "id": "a1_l_175",
+              "original": "O welche Marter, welche Pein!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_67",
+          "speaker": "Monostatos",
+          "pieceTitle": "Nr. 6: Terzett",
+          "lines": [
+            {
+              "id": "a1_l_176",
+              "original": "Verloren ist dein Leben."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_68",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 6: Terzett",
+          "lines": [
+            {
+              "id": "a1_l_177",
+              "original": "Der Tod macht mich nicht beben;"
+            },
+            {
+              "id": "a1_l_178",
+              "original": "nur meine Mutter dauert mich,"
+            },
+            {
+              "id": "a1_l_179",
+              "original": "sie stirbt vor Gram ganz sicherlich."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_69",
+          "speaker": "Monostatos",
+          "pieceTitle": "Nr. 6: Terzett",
+          "lines": [
+            {
+              "id": "a1_l_180",
+              "original": "He, Sklaven, legt ihr Fesseln an;"
+            },
+            {
+              "id": "a1_l_181",
+              "original": "mein Haß soll dich verderben!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_70",
+          "speaker": "Monostatos",
+          "pieceTitle": "Nr. 6: Terzett",
+          "stageDirection": "Sie legen ihr Fesseln an.",
+          "lines": []
+        },
+        {
+          "id": "a1_cue_71",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 6: Terzett",
+          "lines": [
+            {
+              "id": "a1_l_182",
+              "original": "O laß mich lieber sterben,"
+            },
+            {
+              "id": "a1_l_183",
+              "original": "weil nichts, Barbar! dich rühren kann."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_72",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 6: Terzett",
+          "stageDirection": "sinkt in Ohnmacht auf ein Sofa",
+          "lines": []
+        },
+        {
+          "id": "a1_cue_73",
+          "speaker": "Monostatos",
+          "pieceTitle": "Nr. 6: Terzett",
+          "lines": [
+            {
+              "id": "a1_l_184",
+              "original": "Nun fort! Nun fort!"
+            },
+            {
+              "id": "a1_l_185",
+              "original": "Laßt mich bei ihr allein."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_74",
+          "speaker": "Monostatos",
+          "pieceTitle": "Nr. 6: Terzett",
+          "stageDirection": "Die Sklaven gehen ab. Papageno am Fenster von außen, ohne gleich gesehen zu werden.",
+          "lines": []
+        },
+        {
+          "id": "a1_cue_75",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 6: Terzett",
+          "lines": [
+            {
+              "id": "a1_l_186",
+              "original": "Wo bin ich wohl?! wo mag ich sein?"
+            },
+            {
+              "id": "a1_l_187",
+              "original": "Aha, da find' ich Leute, gewagt; ich geh' hinein."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_76",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 6: Terzett",
+          "stageDirection": "geht hinein",
+          "lines": [
+            {
+              "id": "a1_l_188",
+              "original": "Schön Mädchen jung und rein,"
+            },
+            {
+              "id": "a1_l_189",
+              "original": "viel weißer noch als Kreide..."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_77",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 6: Terzett",
+          "stageDirection": "Monostatos und Papageno sehen sich, – erschrickt einer über den andern.",
+          "lines": []
+        },
+        {
+          "id": "a1_cue_78",
+          "speaker": "Papageno & Monostatos",
+          "pieceTitle": "Nr. 6: Terzett",
+          "lines": [
+            {
+              "id": "a1_l_190",
+              "original": "Hu – – das ist – der Teufel sicherlich."
+            },
+            {
+              "id": "a1_l_191",
+              "original": "Hab Mitleid – verschone mich – Hu – Hu –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_79",
+          "speaker": "Papageno & Monostatos",
+          "pieceTitle": "Nr. 6: Terzett",
+          "stageDirection": "Jeder läuft in eine andere Richtung. Als Pamina sich erholt, kehrt Papageno zurück und erkennt sie. Er berichtet ihr, ein hübscher Prinz sei in sie verliebt und von ihrer Mutter zur Befreiung ausgesandt. Die überglückliche Pamina verheißt dem Vogelfänger, der sich nach einem Mädchen sehnt, bald eine Freundin.",
+          "lines": []
+        }
+      ]
+    },
+    {
+      "sceneNumber": 7,
+      "title": "Nr. 7: Duett",
+      "cell_start": 21,
+      "cues": [
+        {
+          "id": "a1_cue_80",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 7: Duett",
+          "lines": [
+            {
+              "id": "a1_l_192",
+              "original": "Bei Männern, welche Liebe fühlen,"
+            },
+            {
+              "id": "a1_l_193",
+              "original": "fehlt auch ein gutes Herze nicht."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_81",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 7: Duett",
+          "lines": [
+            {
+              "id": "a1_l_194",
+              "original": "Die süßen Triebe mitzufühlen,"
+            },
+            {
+              "id": "a1_l_195",
+              "original": "ist dann der Weiber erste Pflicht."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_82",
+          "speaker": "Both",
+          "pieceTitle": "Nr. 7: Duett",
+          "lines": [
+            {
+              "id": "a1_l_196",
+              "original": "Wir wollen uns der Liebe freu'n,"
+            },
+            {
+              "id": "a1_l_197",
+              "original": "wir leben durch die Lieb' allein."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_83",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 7: Duett",
+          "lines": [
+            {
+              "id": "a1_l_198",
+              "original": "Die Lieb' versüßet jede Plage,"
+            },
+            {
+              "id": "a1_l_199",
+              "original": "ihr opfert jede Kreatur."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_84",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 7: Duett",
+          "lines": [
+            {
+              "id": "a1_l_200",
+              "original": "Sie würzet uns're Lebenstage,"
+            },
+            {
+              "id": "a1_l_201",
+              "original": "sie wirkt im Kreise der Natur."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_85",
+          "speaker": "Both",
+          "pieceTitle": "Nr. 7: Duett",
+          "lines": [
+            {
+              "id": "a1_l_202",
+              "original": "Ihr hoher Zweck zeigt deutlich an:"
+            },
+            {
+              "id": "a1_l_203",
+              "original": "nichts Edler's sei, als Weib und Mann."
+            },
+            {
+              "id": "a1_l_204",
+              "original": "Mann und Weib, und Weib und Mann,"
+            },
+            {
+              "id": "a1_l_205",
+              "original": "reichen an die Gottheit an."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_86",
+          "speaker": "Both",
+          "pieceTitle": "Nr. 7: Duett",
+          "stageDirection": "beide ab Das Theater verwandelt sich in einen Hain. Ganz im Grunde der Bühne ist ein schöner Tempel, worauf diese Worte stehen: „Tempel der Weisheit\"; dieser Tempel führt mit Säulen zu zwei anderen Tempeln, rechts auf dem einen steht: „Tempel der Vernunft\". Links steht: „Tempel der Natur\". Drei Knaben führen den Tamino herein, jeder hat einen silbernen Palmzweig in der Hand.",
+          "lines": []
+        }
+      ]
+    },
+    {
+      "sceneNumber": 8,
+      "title": "Nr. 8: Finale",
+      "cell_start": 22,
+      "cues": [
+        {
+          "id": "a1_cue_87",
+          "speaker": "Three Boys",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_206",
+              "original": "Zum Ziele führt dich diese Bahn,"
+            },
+            {
+              "id": "a1_l_207",
+              "original": "doch mußt du Jüngling männlich siegen,"
+            },
+            {
+              "id": "a1_l_208",
+              "original": "drum höre uns're Lehre an:"
+            },
+            {
+              "id": "a1_l_209",
+              "original": "Sei standhaft, duldsam, und verschwiegen! –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_88",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_210",
+              "original": "Ihr holden Knaben sagt mir an,"
+            },
+            {
+              "id": "a1_l_211",
+              "original": "ob ich Pamina retten kann? –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_89",
+          "speaker": "Three Boys",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_212",
+              "original": "Dies kund zu tun steht uns nicht an;"
+            },
+            {
+              "id": "a1_l_213",
+              "original": "sei standhaft, duldsam und verschwiegen!"
+            },
+            {
+              "id": "a1_l_214",
+              "original": "Bedenke dies, kurz: sei ein Mann. –"
+            },
+            {
+              "id": "a1_l_215",
+              "original": "Dann Jüngling wirst du männlich siegen."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_90",
+          "speaker": "Three Boys",
+          "pieceTitle": "Nr. 8: Finale",
+          "stageDirection": "gehen ab",
+          "lines": []
+        },
+        {
+          "id": "a1_cue_91",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_216",
+              "original": "Die Weisheitslehre dieser Knaben"
+            },
+            {
+              "id": "a1_l_217",
+              "original": "sei ewig mir ins Herz gegraben."
+            },
+            {
+              "id": "a1_l_218",
+              "original": "Wo bin ich nun? – Was wird mit mir?"
+            },
+            {
+              "id": "a1_l_219",
+              "original": "Ist dies der Sitz der Götter hier? –"
+            },
+            {
+              "id": "a1_l_220",
+              "original": "Es zeigen die Pforten – es zeigen die Säulen,"
+            },
+            {
+              "id": "a1_l_221",
+              "original": "daß Klugheit, und Arbeit, und Künste hier weilen."
+            },
+            {
+              "id": "a1_l_222",
+              "original": "Wo Tätigkeit thronet und Müßiggang weicht,"
+            },
+            {
+              "id": "a1_l_223",
+              "original": "erhält seine Herrschaft das Laster nicht leicht."
+            },
+            {
+              "id": "a1_l_224",
+              "original": "Ich wage mich mutig zur Pforte hinein."
+            },
+            {
+              "id": "a1_l_225",
+              "original": "Die Absicht ist edel, und lauter, und rein."
+            },
+            {
+              "id": "a1_l_226",
+              "original": "Erzitt're feiger Bösewicht!"
+            },
+            {
+              "id": "a1_l_227",
+              "original": "Paminen retten ist mir Pflicht!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_92",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "stageDirection": "geht an die Pforte rechts, macht sie auf, und als er hinein will, hört man von fern eine Stimme",
+          "lines": []
+        },
+        {
+          "id": "a1_cue_93",
+          "speaker": "First Voice",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_228",
+              "original": "Zurück!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_94",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_229",
+              "original": "Zurück? zurück? – so wag ich hier mein Glück!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_95",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "stageDirection": "geht an die Pforte links",
+          "lines": []
+        },
+        {
+          "id": "a1_cue_96",
+          "speaker": "Second Voice",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_230",
+              "original": "Zurück!"
+            }
+          ],
+          "stageDirection": "von innen"
+        },
+        {
+          "id": "a1_cue_97",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_231",
+              "original": "Auch hier ruft man „zurück\"?"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_98",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "stageDirection": "sieht sich um",
+          "lines": [
+            {
+              "id": "a1_l_232",
+              "original": "Da seh' ich noch eine Tür."
+            },
+            {
+              "id": "a1_l_233",
+              "original": "Vielleicht find' ich den Eingang hier!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_99",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "stageDirection": "Er klopft, ein alter Priester erscheint.",
+          "lines": []
+        },
+        {
+          "id": "a1_cue_100",
+          "speaker": "Speaker",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_234",
+              "original": "Wo willst du kühner Fremdling hin?"
+            },
+            {
+              "id": "a1_l_235",
+              "original": "Was suchst du hier im Heiligtum? –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_101",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_236",
+              "original": "Der Lieb' und Tugend Eigentum."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_102",
+          "speaker": "Speaker",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_237",
+              "original": "Die Worte sind von hohem Sinn –"
+            },
+            {
+              "id": "a1_l_238",
+              "original": "allein, wie willst du diese finden?"
+            },
+            {
+              "id": "a1_l_239",
+              "original": "Dich leitet Lieb' und Tugend nicht,"
+            },
+            {
+              "id": "a1_l_240",
+              "original": "weil Tod und Rache dich entzünden."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_103",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_241",
+              "original": "Nur Rache für den Bösewicht."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_104",
+          "speaker": "Speaker",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_242",
+              "original": "Den wirst du wohl bei uns nicht finden."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_105",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_243",
+              "original": "Sarastro herrscht in diesen Gründen?"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_106",
+          "speaker": "Speaker",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_244",
+              "original": "Ja, ja, Sarastro herrschet hier."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_107",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_245",
+              "original": "Doch in der Weisheit Tempel nicht? –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_108",
+          "speaker": "Speaker",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_246",
+              "original": "Er herrscht im Weisheitstempel hier! –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_109",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_247",
+              "original": "So ist denn alles Heuchelei! –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_110",
+          "speaker": "Speaker",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_248",
+              "original": "Willst du schon wieder geh'n?"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_111",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_249",
+              "original": "Ja ich will gehen, froh, und frei –"
+            },
+            {
+              "id": "a1_l_250",
+              "original": "nie euren Tempel sehn! –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_112",
+          "speaker": "Speaker",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_251",
+              "original": "Erklär dich näher mir,"
+            },
+            {
+              "id": "a1_l_252",
+              "original": "dich täuschet ein Betrug! –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_113",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_253",
+              "original": "Sarastro wohnet hier,"
+            },
+            {
+              "id": "a1_l_254",
+              "original": "das ist mir schon genug! –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_114",
+          "speaker": "Speaker",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_255",
+              "original": "Wenn du dein Leben liebst, so rede, bleibe da! –"
+            },
+            {
+              "id": "a1_l_256",
+              "original": "Sarastro hassest du?"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_115",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_257",
+              "original": "Ich haß' ihn ewig, ja! –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_116",
+          "speaker": "Speaker",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_258",
+              "original": "So gib mir deine Gründe an! –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_117",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_259",
+              "original": "Er ist ein Unmensch, ein Tyrann! –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_118",
+          "speaker": "Speaker",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_260",
+              "original": "Ist das, was du gesagt, erwiesen?"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_119",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_261",
+              "original": "Durch ein unglücklich Weib bewiesen,"
+            },
+            {
+              "id": "a1_l_262",
+              "original": "das Gram und Jammer niederdrückt!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_120",
+          "speaker": "Speaker",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_263",
+              "original": "Ein Weib hat also dich berückt? –"
+            },
+            {
+              "id": "a1_l_264",
+              "original": "Ein Weib tut wenig, plaudert viel,"
+            },
+            {
+              "id": "a1_l_265",
+              "original": "du Jüngling glaubst dem Zungenspiel? –"
+            },
+            {
+              "id": "a1_l_266",
+              "original": "O legte doch Sarastro dir"
+            },
+            {
+              "id": "a1_l_267",
+              "original": "die Absicht seiner Handlung für. –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_121",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_268",
+              "original": "Die Absicht ist nur allzu klar!"
+            },
+            {
+              "id": "a1_l_269",
+              "original": "Riß nicht der Räuber ohn' Erbarmen"
+            },
+            {
+              "id": "a1_l_270",
+              "original": "Pamina aus der Mutter Armen? –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_122",
+          "speaker": "Speaker",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_271",
+              "original": "Ja Jüngling, was du sagst, ist wahr! –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_123",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_272",
+              "original": "Wo ist sie, die er uns geraubt?"
+            },
+            {
+              "id": "a1_l_273",
+              "original": "Man opferte vielleicht sie schon? –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_124",
+          "speaker": "Speaker",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_274",
+              "original": "Dir dies zu sagen, teurer Sohn,"
+            },
+            {
+              "id": "a1_l_275",
+              "original": "ist jetzt und mir noch nicht erlaubt. –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_125",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_276",
+              "original": "Erklär dies Rätsel, täusch mich nicht!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_126",
+          "speaker": "Speaker",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_277",
+              "original": "Die Zunge bindet Eid und Pflicht!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_127",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_278",
+              "original": "Wann also wird die Decke schwinden? –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_128",
+          "speaker": "Speaker",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_279",
+              "original": "Sobald dich führt der Freundschaft Hand"
+            },
+            {
+              "id": "a1_l_280",
+              "original": "ins Heiligtum zum ew'gen Band."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_129",
+          "speaker": "Speaker",
+          "pieceTitle": "Nr. 8: Finale",
+          "stageDirection": "geht ab",
+          "lines": []
+        },
+        {
+          "id": "a1_cue_130",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_281",
+              "original": "O ew'ge Nacht! Wann wirst du schwinden?"
+            },
+            {
+              "id": "a1_l_282",
+              "original": "Wann wird das Licht mein Auge finden? –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_131",
+          "speaker": "Priests",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_283",
+              "original": "Bald, Jüngling, oder nie!"
+            }
+          ],
+          "stageDirection": "von innen"
+        },
+        {
+          "id": "a1_cue_132",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_284",
+              "original": "Bald, sagt ihr, oder nie? –"
+            },
+            {
+              "id": "a1_l_285",
+              "original": "Ihr Unsichtbaren saget mir:"
+            },
+            {
+              "id": "a1_l_286",
+              "original": "lebt denn Pamina noch? –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_133",
+          "speaker": "Priests",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_287",
+              "original": "Pamina lebet noch!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_134",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_288",
+              "original": "Sie lebt, sie lebt!"
+            },
+            {
+              "id": "a1_l_289",
+              "original": "Ich danke euch dafür."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_135",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "stageDirection": "nimmt seine Flöte heraus",
+          "lines": [
+            {
+              "id": "a1_l_290",
+              "original": "O wenn ich doch im Stande wäre,"
+            },
+            {
+              "id": "a1_l_291",
+              "original": "Allmächtige, zu eurer Ehre,"
+            },
+            {
+              "id": "a1_l_292",
+              "original": "mit jedem Tone meinen Dank"
+            },
+            {
+              "id": "a1_l_293",
+              "original": "zu schildern, wie er hier,"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_136",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "stageDirection": "aufs Herz deutend",
+          "lines": [
+            {
+              "id": "a1_l_294",
+              "original": "hier entsprang."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_137",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "stageDirection": "Er spielt. Es kommen wilde Tiere von allen Arten hervor, ihm zuzuhören. Er hört auf, und sie fliehen. Die Vögel pfeifen dazu.",
+          "lines": [
+            {
+              "id": "a1_l_295",
+              "original": "Wie stark ist nicht dein Zauberton,"
+            },
+            {
+              "id": "a1_l_296",
+              "original": "weil holde Flöte durch dein Spielen"
+            },
+            {
+              "id": "a1_l_297",
+              "original": "selbst wilde Tiere Freude fühlen."
+            },
+            {
+              "id": "a1_l_298",
+              "original": "Doch nur Pamina bleibt davon."
+            },
+            {
+              "id": "a1_l_299",
+              "original": "Pamina! Pamina! höre, höre mich! –"
+            },
+            {
+              "id": "a1_l_300",
+              "original": "Umsonst, umsonst! –"
+            },
+            {
+              "id": "a1_l_301",
+              "original": "Wo? wo? wo? ach wo, wo find' ich dich? –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_138",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "stageDirection": "Papageno antwortet mit seinem Flötchen.",
+          "lines": [
+            {
+              "id": "a1_l_302",
+              "original": "Ha, das ist Papagenos Ton! –"
+            },
+            {
+              "id": "a1_l_303",
+              "original": "Vielleicht sah er Paminen schon! –"
+            },
+            {
+              "id": "a1_l_304",
+              "original": "Vielleicht eilt sie mit ihm zu mir! –"
+            },
+            {
+              "id": "a1_l_305",
+              "original": "Vielleicht führt mich der Ton zu ihr!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_139",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "stageDirection": "eilt ab",
+          "lines": []
+        },
+        {
+          "id": "a1_cue_140",
+          "speaker": "Pamina & Papageno",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_306",
+              "original": "Schnelle Füße, rascher Mut,"
+            },
+            {
+              "id": "a1_l_307",
+              "original": "schützt vor Feindes List und Wut."
+            },
+            {
+              "id": "a1_l_308",
+              "original": "Fänden wir Tamino doch,"
+            },
+            {
+              "id": "a1_l_309",
+              "original": "sonst erwischen sie uns noch!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_141",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_310",
+              "original": "Holder Jüngling! –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_142",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_311",
+              "original": "Stille, stille, ich kann's besser! –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_143",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 8: Finale",
+          "stageDirection": "Papageno pfeift. Tamino antwortet von innen auf seiner Flöte.",
+          "lines": []
+        },
+        {
+          "id": "a1_cue_144",
+          "speaker": "Pamina & Papageno",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_312",
+              "original": "Welche Freude ist wohl größer,"
+            },
+            {
+              "id": "a1_l_313",
+              "original": "Freund Tamino hört uns schon,"
+            },
+            {
+              "id": "a1_l_314",
+              "original": "hieher kam der Flötenton."
+            },
+            {
+              "id": "a1_l_315",
+              "original": "Welch ein Glück, wenn ich ihn finde,"
+            },
+            {
+              "id": "a1_l_316",
+              "original": "nur geschwinde, nur geschwinde!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_145",
+          "speaker": "Pamina & Papageno",
+          "pieceTitle": "Nr. 8: Finale",
+          "stageDirection": "wollen hineingehen",
+          "lines": []
+        },
+        {
+          "id": "a1_cue_146",
+          "speaker": "Monostatos",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_317",
+              "original": "Nur geschwinde, nur geschwinde..."
+            },
+            {
+              "id": "a1_l_318",
+              "original": "Ha! – hab' ich euch noch erwischt!"
+            },
+            {
+              "id": "a1_l_319",
+              "original": "Nur herbei mit Stahl und Eisen;"
+            },
+            {
+              "id": "a1_l_320",
+              "original": "wart, man wird euch Mores weisen!"
+            },
+            {
+              "id": "a1_l_321",
+              "original": "Den Monostatos berücken! –"
+            },
+            {
+              "id": "a1_l_322",
+              "original": "Nun herbei mit Band und Stricken,"
+            },
+            {
+              "id": "a1_l_323",
+              "original": "he, ihr Sklaven kommt herbei! –"
+            }
+          ],
+          "stageDirection": "ihrer spottend"
+        },
+        {
+          "id": "a1_cue_147",
+          "speaker": "Pamina & Papageno",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_324",
+              "original": "Ach! nun ist's mit uns vorbei!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_148",
+          "speaker": "Monostatos",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_325",
+              "original": "He! ihr Sklaven kommt herbei!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_149",
+          "speaker": "Monostatos",
+          "pieceTitle": "Nr. 8: Finale",
+          "stageDirection": "Die Sklaven kommen mit Fesseln.",
+          "lines": []
+        },
+        {
+          "id": "a1_cue_150",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_326",
+              "original": "Wer viel wagt, gewinnt oft viel!"
+            },
+            {
+              "id": "a1_l_327",
+              "original": "Komm, du schönes Glockenspiel,"
+            },
+            {
+              "id": "a1_l_328",
+              "original": "laß die Glöckchen klingen, klingen,"
+            },
+            {
+              "id": "a1_l_329",
+              "original": "daß die Ohren ihnen singen."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_151",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 8: Finale",
+          "stageDirection": "schlägt auf seinem Instrument",
+          "lines": []
+        },
+        {
+          "id": "a1_cue_152",
+          "speaker": "Monostatos & Slaves",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_330",
+              "original": "Das klinget so herrlich, das klinget so schön!"
+            },
+            {
+              "id": "a1_l_331",
+              "original": "La ra la la la la ra la la la la ra la."
+            },
+            {
+              "id": "a1_l_332",
+              "original": "Nie hab' ich so etwas gehört und geseh'n!"
+            },
+            {
+              "id": "a1_l_333",
+              "original": "La ra la la la la ra la la la la ra la."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_153",
+          "speaker": "Monostatos & Slaves",
+          "pieceTitle": "Nr. 8: Finale",
+          "stageDirection": "gehen marschmäßig ab",
+          "lines": []
+        },
+        {
+          "id": "a1_cue_154",
+          "speaker": "Pamina & Papageno",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_334",
+              "original": "Könnte jeder brave Mann"
+            },
+            {
+              "id": "a1_l_335",
+              "original": "solche Glöckchen finden,"
+            },
+            {
+              "id": "a1_l_336",
+              "original": "seine Feinde würden dann"
+            },
+            {
+              "id": "a1_l_337",
+              "original": "ohne Mühe schwinden."
+            },
+            {
+              "id": "a1_l_338",
+              "original": "Und er lebte ohne sie"
+            },
+            {
+              "id": "a1_l_339",
+              "original": "in der besten Harmonie!"
+            },
+            {
+              "id": "a1_l_340",
+              "original": "Nur der Freundschaft Harmonie"
+            },
+            {
+              "id": "a1_l_341",
+              "original": "mildert die Beschwerden,"
+            },
+            {
+              "id": "a1_l_342",
+              "original": "ohne diese Sympathie"
+            },
+            {
+              "id": "a1_l_343",
+              "original": "ist kein Glück auf Erden."
+            }
+          ],
+          "stageDirection": "lachen"
+        },
+        {
+          "id": "a1_cue_155",
+          "speaker": "Entourage",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_344",
+              "original": "Es lebe Sarastro! Sarastro lebe! –"
+            }
+          ],
+          "stageDirection": "von innen"
+        },
+        {
+          "id": "a1_cue_156",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_345",
+              "original": "Was soll dies bedeuten? Ich zitt're, ich bebe! –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_157",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_346",
+              "original": "O Freund! nun ist's um uns getan!"
+            },
+            {
+              "id": "a1_l_347",
+              "original": "Dies kündigt den Sarastro an!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_158",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_348",
+              "original": "O wär' ich eine Maus,"
+            },
+            {
+              "id": "a1_l_349",
+              "original": "wie wollt' ich mich verstecken,"
+            },
+            {
+              "id": "a1_l_350",
+              "original": "wär' ich so klein wie Schnecken,"
+            },
+            {
+              "id": "a1_l_351",
+              "original": "so kröch' ich in mein Haus! –"
+            },
+            {
+              "id": "a1_l_352",
+              "original": "Mein Kind, was werden wir nun sprechen? –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_159",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_353",
+              "original": "Die Wahrheit – die Wahrheit, sei sie auch Verbrechen! –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_160",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 8: Finale",
+          "stageDirection": "Ein Zug von Gefolge; zuletzt fährt Sarastro auf einem Triumphwagen heraus, der von sechs Löwen gezogen wird.",
+          "lines": []
+        },
+        {
+          "id": "a1_cue_161",
+          "speaker": "Entourage",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_354",
+              "original": "Es lebe Sarastro, Sarastro soll leben!"
+            },
+            {
+              "id": "a1_l_355",
+              "original": "Er ist es, dem wir uns mit Freuden ergeben!"
+            },
+            {
+              "id": "a1_l_356",
+              "original": "Stets mög' er des Lebens als Weiser sich freu'n. –"
+            },
+            {
+              "id": "a1_l_357",
+              "original": "Er ist unser Abgott, dem alle sich weih'n."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_162",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_358",
+              "original": "Herr, ich bin zwar Verbrecherin! –"
+            },
+            {
+              "id": "a1_l_359",
+              "original": "Ich wollte deiner Macht entfliehn. –"
+            },
+            {
+              "id": "a1_l_360",
+              "original": "Allein die Schuld ist nicht an mir!"
+            },
+            {
+              "id": "a1_l_361",
+              "original": "Der böse Mohr verlangte Liebe,"
+            },
+            {
+              "id": "a1_l_362",
+              "original": "darum, o Herr, entfloh ich dir! –"
+            }
+          ],
+          "stageDirection": "kniet"
+        },
+        {
+          "id": "a1_cue_163",
+          "speaker": "Sarastro",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_363",
+              "original": "Steh auf, erheit're dich, o Liebe,"
+            },
+            {
+              "id": "a1_l_364",
+              "original": "denn ohne erst in dich zu dringen,"
+            },
+            {
+              "id": "a1_l_365",
+              "original": "weiß ich von deinem Herzen mehr,"
+            },
+            {
+              "id": "a1_l_366",
+              "original": "du liebest einen ander'n sehr."
+            },
+            {
+              "id": "a1_l_367",
+              "original": "Zur Liebe will ich dich nicht zwingen,"
+            },
+            {
+              "id": "a1_l_368",
+              "original": "doch geb' ich dir die Freiheit nicht."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_164",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_369",
+              "original": "Mich rufet ja die Kindespflicht,"
+            },
+            {
+              "id": "a1_l_370",
+              "original": "denn meine Mutter –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_165",
+          "speaker": "Sarastro",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_371",
+              "original": "steht in meiner Macht,"
+            },
+            {
+              "id": "a1_l_372",
+              "original": "du würdest um dein Glück gebracht,"
+            },
+            {
+              "id": "a1_l_373",
+              "original": "wenn ich dich ihren Händen ließe. –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_166",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_374",
+              "original": "Mir klingt der Mutter Namen süße."
+            },
+            {
+              "id": "a1_l_375",
+              "original": "Sie ist es – sie ist es –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_167",
+          "speaker": "Sarastro",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_376",
+              "original": "und ein stolzes Weib. –"
+            },
+            {
+              "id": "a1_l_377",
+              "original": "Ein Mann muß eure Herzen leiten,"
+            },
+            {
+              "id": "a1_l_378",
+              "original": "denn ohne ihn pflegt jedes Weib"
+            },
+            {
+              "id": "a1_l_379",
+              "original": "aus ihrem Wirkungskreis zu schreiten."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_168",
+          "speaker": "Monostatos",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_380",
+              "original": "Nun, stolzer Jüngling; nur hierher!"
+            },
+            {
+              "id": "a1_l_381",
+              "original": "Hier ist Sarastro, unser Herr! –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_169",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_382",
+              "original": "Er ist's,"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_170",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_383",
+              "original": "Sie ist's,"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_171",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_384",
+              "original": "ich glaub' es kaum,"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_172",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_385",
+              "original": "sie ist's,"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_173",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_386",
+              "original": "er ist's."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_174",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_387",
+              "original": "es ist kein Traum."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_175",
+          "speaker": "Pamina & Tamino",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_388",
+              "original": "Es schling' mein Arm sich um ihn/sie her,"
+            },
+            {
+              "id": "a1_l_389",
+              "original": "und wenn es auch mein Ende wär'!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_176",
+          "speaker": "Entourage",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_390",
+              "original": "Was soll das heißen?"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_177",
+          "speaker": "Monostatos",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_391",
+              "original": "Welch eine Dreistigkeit!"
+            },
+            {
+              "id": "a1_l_392",
+              "original": "Gleich auseinander, das geht zu weit!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_178",
+          "speaker": "Monostatos",
+          "pieceTitle": "Nr. 8: Finale",
+          "stageDirection": "trennt sie, kniet",
+          "lines": [
+            {
+              "id": "a1_l_393",
+              "original": "Dein Sklave liegt zu deinen Füßen,"
+            },
+            {
+              "id": "a1_l_394",
+              "original": "laß den verweg'nen Frevler büßen."
+            },
+            {
+              "id": "a1_l_395",
+              "original": "Bedenk, wie frech der Knabe ist!"
+            },
+            {
+              "id": "a1_l_396",
+              "original": "Durch dieses selt'nen Vogels List"
+            },
+            {
+              "id": "a1_l_397",
+              "original": "wollt' er Pamina dir entführen,"
+            },
+            {
+              "id": "a1_l_398",
+              "original": "allein, ich wußt' ihn aufzuspüren."
+            },
+            {
+              "id": "a1_l_399",
+              "original": "Du kennst mich! – meine Wachsamkeit –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_179",
+          "speaker": "Sarastro",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_400",
+              "original": "verdient, daß man ihr Lorbeer streut!"
+            },
+            {
+              "id": "a1_l_401",
+              "original": "He! gebt dem Ehrenmann sogleich –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_180",
+          "speaker": "Monostatos",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_402",
+              "original": "Schon deine Gnade macht mich reich! –"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_181",
+          "speaker": "Sarastro",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_403",
+              "original": "nur sieben und siebenzig Sohlenstreich'."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_182",
+          "speaker": "Monostatos",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_404",
+              "original": "Ach Herr, den Lohn verhofft' ich nicht."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_183",
+          "speaker": "Sarastro",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_405",
+              "original": "Nicht Dank! Es ist ja meine Pflicht!"
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_184",
+          "speaker": "Sarastro",
+          "pieceTitle": "Nr. 8: Finale",
+          "stageDirection": "Monostatos wird fortgeführt.",
+          "lines": []
+        },
+        {
+          "id": "a1_cue_185",
+          "speaker": "Entourage",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_406",
+              "original": "Es lebe Sarastro, der göttliche Weise,"
+            },
+            {
+              "id": "a1_l_407",
+              "original": "er lohnet, und strafet in ähnlichem Kreise."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_186",
+          "speaker": "Sarastro",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_408",
+              "original": "Führt diese beiden Fremdlinge"
+            },
+            {
+              "id": "a1_l_409",
+              "original": "in unser'n Prüfungstempel ein,"
+            },
+            {
+              "id": "a1_l_410",
+              "original": "bedecket ihre Häupter dann –"
+            },
+            {
+              "id": "a1_l_411",
+              "original": "sie müssen erst gereinigt sein."
+            }
+          ]
+        },
+        {
+          "id": "a1_cue_187",
+          "speaker": "Sarastro",
+          "pieceTitle": "Nr. 8: Finale",
+          "stageDirection": "Zwei bringen eine Art Sack und bedecken die Häupter der beiden Fremden.",
+          "lines": []
+        },
+        {
+          "id": "a1_cue_188",
+          "speaker": "Entourage",
+          "pieceTitle": "Nr. 8: Finale",
+          "lines": [
+            {
+              "id": "a1_l_412",
+              "original": "Wenn Tugend und Gerechtigkeit"
+            },
+            {
+              "id": "a1_l_413",
+              "original": "den Großen Pfad mit Ruhm bestreu'n,"
+            },
+            {
+              "id": "a1_l_414",
+              "original": "dann ist die Erd' ein Himmelreich,"
+            },
+            {
+              "id": "a1_l_415",
+              "original": "und Sterbliche den Göttern gleich."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "act2": [
+    {
+      "sceneNumber": 1,
+      "title": "Nr. 9: Marsch",
+      "cell_start": 36,
+      "cues": [
+        {
+          "id": "a2_cue_1",
+          "speaker": "Narrator",
+          "pieceTitle": "Nr. 9: Marsch",
+          "stageDirection": "Sarastro und seine Priester kommen in feierlichem Schreiten, jeder mit einem Palmenzweig in der Hand. Ein Marsch mit Blasinstrumenten begleitet den Zug. Sarastro kündigt an, daß Tamino dazu ausersehen ist, „ins Heiligtum des größten Lichtes zu blicken\", zuvor aber in mehreren Prüfungen beweisen muß, ob er würdig ist, in den hohen Kreis der Eingeweihten aufgenommen zu werden. Als Lohn winkt Tamino die Hand der Tochter der Königin.",
+          "lines": []
+        }
+      ]
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Nr. 10: Arie und Chor",
+      "cell_start": 37,
+      "cues": [
+        {
+          "id": "a2_cue_2",
+          "speaker": "Sarastro",
+          "pieceTitle": "Nr. 10: Arie und Chor",
+          "lines": [
+            {
+              "id": "a2_l_1",
+              "original": "O Isis und Osiris, schenket"
+            },
+            {
+              "id": "a2_l_2",
+              "original": "der Weisheit Geist dem neuen Paar!"
+            },
+            {
+              "id": "a2_l_3",
+              "original": "Die ihr Schritte der Wand'rer lenket,"
+            },
+            {
+              "id": "a2_l_4",
+              "original": "stärkt mit Geduld sie in Gefahr."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_3",
+          "speaker": "Priests",
+          "pieceTitle": "Nr. 10: Arie und Chor",
+          "lines": [
+            {
+              "id": "a2_l_5",
+              "original": "Stärkt mit Geduld sie in Gefahr."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_4",
+          "speaker": "Sarastro",
+          "pieceTitle": "Nr. 10: Arie und Chor",
+          "lines": [
+            {
+              "id": "a2_l_6",
+              "original": "Laßt sie der Prüfung Früchte sehen,"
+            },
+            {
+              "id": "a2_l_7",
+              "original": "doch sollten sie zu Grabe gehen,"
+            },
+            {
+              "id": "a2_l_8",
+              "original": "so lohnt der Tugend kühnen Lauf,"
+            },
+            {
+              "id": "a2_l_9",
+              "original": "nehmt sie in euren Wohnsitz auf!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_5",
+          "speaker": "Priests",
+          "pieceTitle": "Nr. 10: Arie und Chor",
+          "lines": [
+            {
+              "id": "a2_l_10",
+              "original": "Nehmt sie in euren Wohnsitz auf!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_6",
+          "speaker": "Priests",
+          "pieceTitle": "Nr. 10: Arie und Chor",
+          "stageDirection": "Verwandlung. Nacht im Hof des nördlichen Tempels. Zwei Priester führen Tamino und Papageno herein, lösen ihnen die Säcke ab und gehen dann. Papageno ist ängstlich, worauf Tamino ihn wegen seiner Furcht schilt. Die beiden Priester kehren zurück und dringen nochmals in Tamino ein, um sich wegen seines festen Willens zu vergewissern. Tamino ist entschlossen, um Pamina zu gewinnen, jede Prüfung auf sich zu nehmen. Papageno zeigt sich zwar weniger mutig, aber auch er will, weil ihm ein Mädchen versprochen wird, „die Weisheitsliebe erkämpfen\". Beide müssen schließlich zusagen, beim Anblick ihrer Geliebten nichts zu sprechen.",
+          "lines": []
+        }
+      ]
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Nr. 11: Duett",
+      "cell_start": 39,
+      "cues": [
+        {
+          "id": "a2_cue_7",
+          "speaker": "Both Priests",
+          "pieceTitle": "Nr. 11: Duett",
+          "lines": [
+            {
+              "id": "a2_l_11",
+              "original": "Bewahret euch vor Weibertücken,"
+            },
+            {
+              "id": "a2_l_12",
+              "original": "dies ist des Bundes erste Pflicht;"
+            },
+            {
+              "id": "a2_l_13",
+              "original": "manch weiser Mann ließ sich berücken,"
+            },
+            {
+              "id": "a2_l_14",
+              "original": "er fehlte und versah sich's nicht."
+            },
+            {
+              "id": "a2_l_15",
+              "original": "Verlassen sah er sich am Ende,"
+            },
+            {
+              "id": "a2_l_16",
+              "original": "vergolten seine Treu' mit Hohn! –"
+            },
+            {
+              "id": "a2_l_17",
+              "original": "Vergebens rang er seine Hände,"
+            },
+            {
+              "id": "a2_l_18",
+              "original": "Tod und Verzweiflung war sein Lohn."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_8",
+          "speaker": "Both Priests",
+          "pieceTitle": "Nr. 11: Duett",
+          "stageDirection": "Beide Priester gehen ab. Die Bühne bleibt dunkel, bis die drei Damen der Königin aus der Versenkung erscheinen. Sie tragen Kerzen.",
+          "lines": []
+        }
+      ]
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Nr. 12: Quintett",
+      "cell_start": 40,
+      "cues": [
+        {
+          "id": "a2_cue_9",
+          "speaker": "Three Ladies",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_19",
+              "original": "Wie? wie? wie? ihr an diesem Schreckensort?"
+            },
+            {
+              "id": "a2_l_20",
+              "original": "Nie! nie! nie! kommt ihr wieder glücklich fort!"
+            },
+            {
+              "id": "a2_l_21",
+              "original": "Tamino! dir ist Tod geschworen!"
+            },
+            {
+              "id": "a2_l_22",
+              "original": "Du Papageno! bist verloren!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_10",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_23",
+              "original": "Nein, nein, nein, das wär' zuviel."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_11",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_24",
+              "original": "Papageno, schweige still!"
+            },
+            {
+              "id": "a2_l_25",
+              "original": "Willst du dein Gelübde brechen,"
+            },
+            {
+              "id": "a2_l_26",
+              "original": "nichts mit Weibern hier zu sprechen?"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_12",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_27",
+              "original": "Du hörst doch,"
+            },
+            {
+              "id": "a2_l_28",
+              "original": "wir sind beide hin!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_13",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_29",
+              "original": "Stille, sag' ich – schweige still!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_14",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_30",
+              "original": "Immer still und immer still!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_15",
+          "speaker": "Three Ladies",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_31",
+              "original": "Ganz nah ist euch die Königin,"
+            },
+            {
+              "id": "a2_l_32",
+              "original": "sie drang in Tempel heimlich ein! –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_16",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_33",
+              "original": "Wie? was? sie soll im Tempel sein?"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_17",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_34",
+              "original": "Stille sag' ich – schweige still! –"
+            },
+            {
+              "id": "a2_l_35",
+              "original": "Wirst du immer so vermessen"
+            },
+            {
+              "id": "a2_l_36",
+              "original": "deine Eidespflicht vergessen? –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_18",
+          "speaker": "Three Ladies",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_37",
+              "original": "Tamino hör! du bist verloren!"
+            },
+            {
+              "id": "a2_l_38",
+              "original": "Gedenke an die Königin!"
+            },
+            {
+              "id": "a2_l_39",
+              "original": "Man zischelt viel sich in die Ohren"
+            },
+            {
+              "id": "a2_l_40",
+              "original": "von dieser Priester falschem Sinn!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_19",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_41",
+              "original": "Ein Weiser prüft und achtet nicht,"
+            },
+            {
+              "id": "a2_l_42",
+              "original": "was der gemeine Pöbel spricht."
+            }
+          ],
+          "stageDirection": "für sich"
+        },
+        {
+          "id": "a2_cue_20",
+          "speaker": "Three Ladies",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_43",
+              "original": "Man zischelt viel sich in die Ohren"
+            },
+            {
+              "id": "a2_l_44",
+              "original": "von dieser Priester falschem Sinn!"
+            },
+            {
+              "id": "a2_l_45",
+              "original": "Man sagt, wer ihrem Bunde schwört,"
+            },
+            {
+              "id": "a2_l_46",
+              "original": "der fährt zur Höll' mit Haut und Haar."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_21",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_47",
+              "original": "Das wär' der Teufel! Unerhört!"
+            },
+            {
+              "id": "a2_l_48",
+              "original": "Sag an, Tamino, ist das wahr?"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_22",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_49",
+              "original": "Geschwätz von Weibern nachgesagt,"
+            },
+            {
+              "id": "a2_l_50",
+              "original": "von Heuchlern aber ausgedacht."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_23",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_51",
+              "original": "Doch sagt es auch die Königin!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_24",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_52",
+              "original": "Sie ist ein Weib, hat Weibersinn!"
+            },
+            {
+              "id": "a2_l_53",
+              "original": "Sei still, mein Wort sei dir genug,"
+            },
+            {
+              "id": "a2_l_54",
+              "original": "denk deiner Pflicht, und handle klug."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_25",
+          "speaker": "Three Ladies",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_55",
+              "original": "Warum bist du mit uns so spröde?"
+            },
+            {
+              "id": "a2_l_56",
+              "original": "Auch Papageno schweigt – so rede!"
+            }
+          ],
+          "stageDirection": "zu Tamino"
+        },
+        {
+          "id": "a2_cue_26",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_57",
+              "original": "Ich möchte gerne...wohl –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_27",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_58",
+              "original": "Still!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_28",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_59",
+              "original": "Ihr seht, daß ich nicht soll! –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_29",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_60",
+              "original": "Still!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_30",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_61",
+              "original": "Daß ich nicht kann das Plaudern lassen,"
+            },
+            {
+              "id": "a2_l_62",
+              "original": "ist wahrlich eine Schand' für mich!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_31",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_63",
+              "original": "Daß du nicht kannst das Plaudern lassen,"
+            },
+            {
+              "id": "a2_l_64",
+              "original": "ist wahrlich eine Schand' für dich!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_32",
+          "speaker": "Three Ladies",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_65",
+              "original": "Wir müssen sie mit Scham verlassen,"
+            },
+            {
+              "id": "a2_l_66",
+              "original": "es plaudert keiner sicherlich."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_33",
+          "speaker": "Tamino & Papageno",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_67",
+              "original": "Sie müssen uns mit Scham verlassen,"
+            },
+            {
+              "id": "a2_l_68",
+              "original": "es plaudert keiner sicherlich!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_34",
+          "speaker": "All",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_69",
+              "original": "Von festem Geiste ist ein Mann,"
+            },
+            {
+              "id": "a2_l_70",
+              "original": "er denket, was er sprechen kann!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_35",
+          "speaker": "The Initiates",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_71",
+              "original": "Entweiht ist die heilige Schwelle!"
+            },
+            {
+              "id": "a2_l_72",
+              "original": "Hinab mit den Weibern zur Hölle!"
+            }
+          ],
+          "stageDirection": "von innen"
+        },
+        {
+          "id": "a2_cue_36",
+          "speaker": "The Initiates",
+          "pieceTitle": "Nr. 12: Quintett",
+          "stageDirection": "Donner, Blitz und Schlag; zugleich starker Donner",
+          "lines": []
+        },
+        {
+          "id": "a2_cue_37",
+          "speaker": "Three Ladies",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_73",
+              "original": "O weh! O weh!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_38",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 12: Quintett",
+          "lines": [
+            {
+              "id": "a2_l_74",
+              "original": "O weh! O weh! O weh!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_39",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 12: Quintett",
+          "stageDirection": "Die Bühne wird nachtschwarz. Donner und Blitz. Die drei Damen stürzen in die Versenkung; Papageno fällt vor Schreck zu Boden. Die Priester kehren zurück, gratulieren Tamino, weil er die erste Aufgabe gut überstanden hat, und führen die beiden Männer zu ihrer nächsten. Verwandlung: Ein Garten mit Laube. Pamina liegt schlafend unter Blumen und Rosen, Monostatos beobachtet sie.",
+          "lines": []
+        }
+      ]
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Nr. 13: Arie",
+      "cell_start": 44,
+      "cues": [
+        {
+          "id": "a2_cue_40",
+          "speaker": "Monostatos",
+          "pieceTitle": "Nr. 13: Arie",
+          "lines": [
+            {
+              "id": "a2_l_75",
+              "original": "Alles fühlt der Liebe Freuden,"
+            },
+            {
+              "id": "a2_l_76",
+              "original": "schnäbelt, tändelt, herzet, küßt –"
+            },
+            {
+              "id": "a2_l_77",
+              "original": "und ich soll die Liebe meiden,"
+            },
+            {
+              "id": "a2_l_78",
+              "original": "weil ein Schwarzer häßlich ist!"
+            },
+            {
+              "id": "a2_l_79",
+              "original": "Ist mir denn kein Herz gegeben,"
+            },
+            {
+              "id": "a2_l_80",
+              "original": "bin ich nicht von Fleisch und Blut?"
+            },
+            {
+              "id": "a2_l_81",
+              "original": "Immer ohne Weibchen leben"
+            },
+            {
+              "id": "a2_l_82",
+              "original": "wäre wahrlich Höllenglut."
+            },
+            {
+              "id": "a2_l_83",
+              "original": "Drum so will ich, weil ich lebe,"
+            },
+            {
+              "id": "a2_l_84",
+              "original": "schnäbeln, küssen, zärtlich sein! –"
+            },
+            {
+              "id": "a2_l_85",
+              "original": "Lieber, guter Mond, vergebe,"
+            },
+            {
+              "id": "a2_l_86",
+              "original": "eine Weiße nahm mich ein!"
+            },
+            {
+              "id": "a2_l_87",
+              "original": "Weiß ist schön – ich muß sie küssen."
+            },
+            {
+              "id": "a2_l_88",
+              "original": "Mond! verstecke dich dazu! –"
+            },
+            {
+              "id": "a2_l_89",
+              "original": "Sollt' es dich zu sehr verdrießen,"
+            },
+            {
+              "id": "a2_l_90",
+              "original": "o, so mach die Augen zu."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_41",
+          "speaker": "Monostatos",
+          "pieceTitle": "Nr. 13: Arie",
+          "stageDirection": "Er schleicht langsam zu Pamina. Die Königin der Nacht kommt unter Donner aus der mittleren Versenkung. Monostatos zieht sich zurück, um ungestört beobachten zu können. Die Königin bietet ihrer Tochter einen Dolch an, mit dem diese Sarastro töten soll.",
+          "lines": []
+        }
+      ]
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Nr. 14: Arie",
+      "cell_start": 45,
+      "cues": [
+        {
+          "id": "a2_cue_42",
+          "speaker": "Queen of the Night",
+          "pieceTitle": "Nr. 14: Arie",
+          "lines": [
+            {
+              "id": "a2_l_91",
+              "original": "Der Hölle Rache kocht in meinem Herzen,"
+            },
+            {
+              "id": "a2_l_92",
+              "original": "Tod und Verzweiflung flammet um mich her!"
+            },
+            {
+              "id": "a2_l_93",
+              "original": "Fühlt nicht durch dich Sarastro Todesschmerzen,"
+            },
+            {
+              "id": "a2_l_94",
+              "original": "so bist du meine Tochter nimmermehr:"
+            },
+            {
+              "id": "a2_l_95",
+              "original": "Verstoßen sei auf ewig, verlassen sei auf ewig,"
+            },
+            {
+              "id": "a2_l_96",
+              "original": "zertrümmert sei'n auf ewig alle Bande der Natur,"
+            },
+            {
+              "id": "a2_l_97",
+              "original": "wenn nicht durch dich Sarastro wird erblassen! –"
+            },
+            {
+              "id": "a2_l_98",
+              "original": "Hört, hört, hört! Rachegötter – hört!"
+            },
+            {
+              "id": "a2_l_99",
+              "original": "– der Mutter Schwur! –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_43",
+          "speaker": "Queen of the Night",
+          "pieceTitle": "Nr. 14: Arie",
+          "stageDirection": "Sie versinkt unter lautem Donner. Monostatos taucht wieder auf und entreißt der überraschten Pamina den Dolch. Nur wenn sie ihm Liebe gewährt, will er ihr Leben retten. Sie weigert sich, und Monostatos hebt schon den Dolch gegen sie, als Sarastro erscheint und ihn zurückschleudert. Der Mohr eilt nun zur Königin der Nacht. Pamina bittet Sarastro um Gnade für ihre Mutter, aber Sarastro antwortet ihr, sie werde sehen, wie er sich an ihrer Mutter rächen könne.",
+          "lines": []
+        }
+      ]
+    },
+    {
+      "sceneNumber": 7,
+      "title": "Nr. 15: Arie",
+      "cell_start": 46,
+      "cues": [
+        {
+          "id": "a2_cue_44",
+          "speaker": "Sarastro",
+          "pieceTitle": "Nr. 15: Arie",
+          "lines": [
+            {
+              "id": "a2_l_100",
+              "original": "In diesen heil'gen Hallen"
+            },
+            {
+              "id": "a2_l_101",
+              "original": "kennt man die Rache nicht!"
+            },
+            {
+              "id": "a2_l_102",
+              "original": "Und ist ein Mensch gefallen,"
+            },
+            {
+              "id": "a2_l_103",
+              "original": "führt Liebe ihn zur Pflicht."
+            },
+            {
+              "id": "a2_l_104",
+              "original": "Dann wandelt er an Freundes Hand"
+            },
+            {
+              "id": "a2_l_105",
+              "original": "vergnügt und froh ins bess're Land."
+            },
+            {
+              "id": "a2_l_106",
+              "original": "In diesen heil'gen Mauern,"
+            },
+            {
+              "id": "a2_l_107",
+              "original": "wo Mensch den Menschen liebt –"
+            },
+            {
+              "id": "a2_l_108",
+              "original": "kann kein Verräter lauern,"
+            },
+            {
+              "id": "a2_l_109",
+              "original": "weil man dem Feind vergibt."
+            },
+            {
+              "id": "a2_l_110",
+              "original": "Wen solche Lehren nicht erfreu'n,"
+            },
+            {
+              "id": "a2_l_111",
+              "original": "verdienet nicht ein Mensch zu sein."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_45",
+          "speaker": "Sarastro",
+          "pieceTitle": "Nr. 15: Arie",
+          "stageDirection": "Das Theater verwandelt sich in eine Halle. Tamino und Papageno werden ohne Säcke von zwei Priestern hereingeführt, nochmals an ihr Schweigewort erinnert und dann allein gelassen. Ein häßliches, altes Weib – Papagena in Verkleidung – tritt ein und plaudert mit Papageno. Sie verrät ihm, erst achtzehn Jahre alt zu sein und einen Geliebten namens Papageno zu besitzen. Als sie gerade ihren Namen preisgeben will, vertreibt sie ein lauter Donnerschlag. Die drei Knaben bringen Flöte und Glockenspiel.",
+          "lines": []
+        }
+      ]
+    },
+    {
+      "sceneNumber": 8,
+      "title": "Nr. 16: Terzett",
+      "cell_start": 47,
+      "cues": [
+        {
+          "id": "a2_cue_46",
+          "speaker": "Three Boys",
+          "pieceTitle": "Nr. 16: Terzett",
+          "lines": [
+            {
+              "id": "a2_l_112",
+              "original": "Seid uns zum zweiten Mal willkommen,"
+            },
+            {
+              "id": "a2_l_113",
+              "original": "ihr Männer, in Sarastros Reich! –"
+            },
+            {
+              "id": "a2_l_114",
+              "original": "Er schickt, was man euch abgenommen,"
+            },
+            {
+              "id": "a2_l_115",
+              "original": "die Flöte und die Glöckchen euch."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_47",
+          "speaker": "Three Boys",
+          "pieceTitle": "Nr. 16: Terzett",
+          "stageDirection": "Ein mit Speisen und Getränken schön gedeckter Tisch erscheint aus der Versenkung.",
+          "lines": [
+            {
+              "id": "a2_l_116",
+              "original": "Wollt ihr Speisen nicht verschmähen,"
+            },
+            {
+              "id": "a2_l_117",
+              "original": "so esset, trinket froh davon! –"
+            },
+            {
+              "id": "a2_l_118",
+              "original": "Wenn wir zum dritten Mal uns sehen,"
+            },
+            {
+              "id": "a2_l_119",
+              "original": "ist Freude eures Mutes Lohn!"
+            },
+            {
+              "id": "a2_l_120",
+              "original": "Tamino Mut! – Nah ist das Ziel!"
+            },
+            {
+              "id": "a2_l_121",
+              "original": "Du Papageno, schweige still! –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_48",
+          "speaker": "Three Boys",
+          "pieceTitle": "Nr. 16: Terzett",
+          "stageDirection": "Sie übergeben Tamino und Papageno die Zauberinstrumente und ziehen sich zurück. Papageno ißt, Tamino spielt auf der Flöte. Da tritt Pamina ein, die der wunderbare Ton angelockt hat. Als sie ihren Geliebten entdeckt, überhäuft sie ihn mit quälenden Fragen, aber er verhält sich stumm und bittet sie mit Winken zu gehen. Sogar Papageno ist still, denn er hat den Mund voll.",
+          "lines": []
+        }
+      ]
+    },
+    {
+      "sceneNumber": 9,
+      "title": "Nr. 17: Arie",
+      "cell_start": 48,
+      "cues": [
+        {
+          "id": "a2_cue_49",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 17: Arie",
+          "lines": [
+            {
+              "id": "a2_l_122",
+              "original": "Ach, ich fühl's, es ist verschwunden!"
+            },
+            {
+              "id": "a2_l_123",
+              "original": "ewig hin der Liebe Glück! –"
+            },
+            {
+              "id": "a2_l_124",
+              "original": "Nimmer kommt ihr Wonnestunden"
+            },
+            {
+              "id": "a2_l_125",
+              "original": "meinem Herzen mehr zurück!"
+            },
+            {
+              "id": "a2_l_126",
+              "original": "Sieh Tamino! diese Tränen"
+            },
+            {
+              "id": "a2_l_127",
+              "original": "fließen, Trauter, dir allein,"
+            },
+            {
+              "id": "a2_l_128",
+              "original": "fühlst du nicht der Liebe Sehnen –"
+            },
+            {
+              "id": "a2_l_129",
+              "original": "so wird Ruh' im Tode sein! –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_50",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 17: Arie",
+          "stageDirection": "Langsam und traurig verläßt sie die Bühne. Papageno und Tamino vernehmen Posaunentöne, die ihnen gelten. Der Vogelfänger wird mit Gewalt von seinem Herrn mitgerissen. Verwandlung: Das Gewölbe einer Pyramide. Die Priester, von Sarastro angeführt, marschieren ein.",
+          "lines": []
+        }
+      ]
+    },
+    {
+      "sceneNumber": 10,
+      "title": "Nr. 18: Chor der Priester",
+      "cell_start": 49,
+      "cues": [
+        {
+          "id": "a2_cue_51",
+          "speaker": "Chorus of Priests",
+          "pieceTitle": "Nr. 18: Chor der Priester",
+          "lines": [
+            {
+              "id": "a2_l_130",
+              "original": "O Isis und Osiris, welche Wonne!"
+            },
+            {
+              "id": "a2_l_131",
+              "original": "Die düst're Nacht verscheucht der Glanz der Sonne! –"
+            },
+            {
+              "id": "a2_l_132",
+              "original": "Bald fühlt der edle Jüngling neues Leben,"
+            },
+            {
+              "id": "a2_l_133",
+              "original": "bald ist er unser'm Dienste ganz gegeben."
+            },
+            {
+              "id": "a2_l_134",
+              "original": "Sein Geist ist kühn, sein Herz ist rein,"
+            },
+            {
+              "id": "a2_l_135",
+              "original": "bald wird er unser würdig sein."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_52",
+          "speaker": "Chorus of Priests",
+          "pieceTitle": "Nr. 18: Chor der Priester",
+          "stageDirection": "Tamino wird hereingeführt, und Sarastro bittet ihn erneut, männlich und standhaft den Weg weiter zu gehen. Dann bringt man auch Pamina, und während Sarastro die Bande an dem sie verhüllenden Sack löst, eröffnet er ihr, Tamino erwarte sie zum letzten Lebewohl.",
+          "lines": []
+        }
+      ]
+    },
+    {
+      "sceneNumber": 11,
+      "title": "Nr. 19: Terzett",
+      "cell_start": 50,
+      "cues": [
+        {
+          "id": "a2_cue_53",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 19: Terzett",
+          "lines": [
+            {
+              "id": "a2_l_136",
+              "original": "Soll ich dich, Teurer, nicht mehr seh'n? –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_54",
+          "speaker": "Sarastro",
+          "pieceTitle": "Nr. 19: Terzett",
+          "lines": [
+            {
+              "id": "a2_l_137",
+              "original": "Ihr werdet froh euch wiederseh'n! –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_55",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 19: Terzett",
+          "lines": [
+            {
+              "id": "a2_l_138",
+              "original": "Dein warten tödliche Gefahren!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_56",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 19: Terzett",
+          "lines": [
+            {
+              "id": "a2_l_139",
+              "original": "Die Götter mögen mich bewahren!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_57",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 19: Terzett",
+          "lines": [
+            {
+              "id": "a2_l_140",
+              "original": "Dein warten tödliche Gefahren! –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_58",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 19: Terzett",
+          "lines": [
+            {
+              "id": "a2_l_141",
+              "original": "Die Götter mögen mich bewahren!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_59",
+          "speaker": "Sarastro",
+          "pieceTitle": "Nr. 19: Terzett",
+          "lines": [
+            {
+              "id": "a2_l_142",
+              "original": "Die Götter mögen ihn bewahren!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_60",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 19: Terzett",
+          "lines": [
+            {
+              "id": "a2_l_143",
+              "original": "Du wirst dem Tode nicht entgehen,"
+            },
+            {
+              "id": "a2_l_144",
+              "original": "mir flüstert dieses Ahnung ein!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_61",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 19: Terzett",
+          "lines": [
+            {
+              "id": "a2_l_145",
+              "original": "Der Götter Wille mag geschehen,"
+            },
+            {
+              "id": "a2_l_146",
+              "original": "ihr Wink soll mir Gesetze sein!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_62",
+          "speaker": "Sarastro",
+          "pieceTitle": "Nr. 19: Terzett",
+          "lines": [
+            {
+              "id": "a2_l_147",
+              "original": "Der Götter Wille mag geschehen,"
+            },
+            {
+              "id": "a2_l_148",
+              "original": "ihr Wink soll ihm Gesetze sein."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_63",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 19: Terzett",
+          "lines": [
+            {
+              "id": "a2_l_149",
+              "original": "O liebtest du, wie ich dich liebe,"
+            },
+            {
+              "id": "a2_l_150",
+              "original": "du würdest nicht so ruhig sein."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_64",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 19: Terzett",
+          "lines": [
+            {
+              "id": "a2_l_151",
+              "original": "Glaub mir, ich fühle gleiche Triebe,"
+            },
+            {
+              "id": "a2_l_152",
+              "original": "werd' ewig dein Getreuer sein."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_65",
+          "speaker": "Sarastro",
+          "pieceTitle": "Nr. 19: Terzett",
+          "lines": [
+            {
+              "id": "a2_l_153",
+              "original": "Glaub mir, er fühlet gleiche Triebe,"
+            },
+            {
+              "id": "a2_l_154",
+              "original": "wird ewig dein Getreuer sein."
+            },
+            {
+              "id": "a2_l_155",
+              "original": "Die Stunde schlägt, nun müßt ihr scheiden!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_66",
+          "speaker": "Pamina & Tamino",
+          "pieceTitle": "Nr. 19: Terzett",
+          "lines": [
+            {
+              "id": "a2_l_156",
+              "original": "Wie bitter sind der Trennung Leiden!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_67",
+          "speaker": "Sarastro",
+          "pieceTitle": "Nr. 19: Terzett",
+          "lines": [
+            {
+              "id": "a2_l_157",
+              "original": "Tamino muß nun wieder fort!"
+            },
+            {
+              "id": "a2_l_158",
+              "original": "Die Stunde schlägt, nun müßt ihr scheiden,"
+            },
+            {
+              "id": "a2_l_159",
+              "original": "Tamino muß nun wieder fort!"
+            },
+            {
+              "id": "a2_l_160",
+              "original": "Nun muß er fort!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_68",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 19: Terzett",
+          "lines": [
+            {
+              "id": "a2_l_161",
+              "original": "Pamina, ich muß wirklich fort!"
+            },
+            {
+              "id": "a2_l_162",
+              "original": "Wie bitter sind der Trennung Leiden!"
+            },
+            {
+              "id": "a2_l_163",
+              "original": "Pamina, ich muß wirklich fort!"
+            },
+            {
+              "id": "a2_l_164",
+              "original": "Nun muß ich fort!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_69",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 19: Terzett",
+          "lines": [
+            {
+              "id": "a2_l_165",
+              "original": "Tamino muß nun wirklich fort!"
+            },
+            {
+              "id": "a2_l_166",
+              "original": "Tamino! Tamino! so mußt du fort!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_70",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 19: Terzett",
+          "lines": [
+            {
+              "id": "a2_l_167",
+              "original": "Pamina! lebe wohl!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_71",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 19: Terzett",
+          "lines": [
+            {
+              "id": "a2_l_168",
+              "original": "Tamino! lebe wohl!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_72",
+          "speaker": "Sarastro",
+          "pieceTitle": "Nr. 19: Terzett",
+          "lines": [
+            {
+              "id": "a2_l_169",
+              "original": "Nun eile fort! dich ruft dein Wort!"
+            },
+            {
+              "id": "a2_l_170",
+              "original": "Die Stunde schlägt! Wir seh'n uns wieder!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_73",
+          "speaker": "Pamina & Tamino",
+          "pieceTitle": "Nr. 19: Terzett",
+          "lines": [
+            {
+              "id": "a2_l_171",
+              "original": "O gold'ne Ruhe! kehre wieder!"
+            },
+            {
+              "id": "a2_l_172",
+              "original": "Lebe wohl!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_74",
+          "speaker": "Pamina & Tamino",
+          "pieceTitle": "Nr. 19: Terzett",
+          "stageDirection": "Zwei Priester begleiten Pamina zur Pforte. Sarastro führt Tamino in die entgegengesetzte Richtung, die übrigen Priester folgen ihnen. Finsternis. Papageno tritt ein und sieht sich sofort von züngelnden Flammen umgeben. Er begehrt sehnlichst ein Glas Wein, und sofort kommt ein großer Becher mit rotem Wein angefüllt aus der Erde. Kaum hat er ihn geleert, verspürt er neue Wünsche. Er greift nach seinem Glockenspiel.",
+          "lines": []
+        }
+      ]
+    },
+    {
+      "sceneNumber": 12,
+      "title": "Nr. 20: Arie",
+      "cell_start": 53,
+      "cues": [
+        {
+          "id": "a2_cue_75",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 20: Arie",
+          "lines": [
+            {
+              "id": "a2_l_173",
+              "original": "Ein Mädchen oder Weibchen"
+            },
+            {
+              "id": "a2_l_174",
+              "original": "wünscht Papageno sich!"
+            },
+            {
+              "id": "a2_l_175",
+              "original": "O so ein sanftes Täubchen"
+            },
+            {
+              "id": "a2_l_176",
+              "original": "wär' Seligkeit für mich!"
+            },
+            {
+              "id": "a2_l_177",
+              "original": "Dann schmeckte mir Trinken und Essen,"
+            },
+            {
+              "id": "a2_l_178",
+              "original": "dann könnt' ich mit Fürsten mich messen,"
+            },
+            {
+              "id": "a2_l_179",
+              "original": "des Lebens als Weiser mich freu'n,"
+            },
+            {
+              "id": "a2_l_180",
+              "original": "und wie im Elysium sein!"
+            },
+            {
+              "id": "a2_l_181",
+              "original": "Ein Mädchen, usw."
+            },
+            {
+              "id": "a2_l_182",
+              "original": "Ach, kann ich denn keiner von allen"
+            },
+            {
+              "id": "a2_l_183",
+              "original": "den reizenden Mädchen gefallen?"
+            },
+            {
+              "id": "a2_l_184",
+              "original": "Helf' eine mir nur aus der Not,"
+            },
+            {
+              "id": "a2_l_185",
+              "original": "sonst gräm' ich mich wahrlich zu Tod."
+            },
+            {
+              "id": "a2_l_186",
+              "original": "Ein Mädchen, usw."
+            },
+            {
+              "id": "a2_l_187",
+              "original": "Wird keine mir Liebe gewähren,"
+            },
+            {
+              "id": "a2_l_188",
+              "original": "so muß mich die Flamme verzehren,"
+            },
+            {
+              "id": "a2_l_189",
+              "original": "doch küßt mich ein weiblicher Mund –"
+            },
+            {
+              "id": "a2_l_190",
+              "original": "so bin ich schon wieder gesund."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_76",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 20: Arie",
+          "stageDirection": "Die Alte tanzt hinein, während sie sich auf ihren Stock stützt. Sie versichert Papageno, daß er entweder sie lieben oder hier allein sterben müsse, und Papageno reicht ihr die Hand zum Ehebund. Da fällt die Verkleidung ab, und es erscheint ein junges Mädchen genauso gekleidet wie Papageno. Bevor sie sich umarmen können, führt der Sprecher Papagena ab, weil sich Papageno ihrer nicht als würdig erwiesen habe. Verwandlung: Ein kleiner Palmengarten, kurz vor Sonnenaufgang. Die drei Knaben beobachten Pamina aus der Ferne.",
+          "lines": []
+        }
+      ]
+    },
+    {
+      "sceneNumber": 13,
+      "title": "Nr. 21: Finale",
+      "cell_start": 54,
+      "cues": [
+        {
+          "id": "a2_cue_77",
+          "speaker": "Three Boys",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_191",
+              "original": "Bald prangt, den Morgen zu verkünden,"
+            },
+            {
+              "id": "a2_l_192",
+              "original": "die Sonn' auf gold'ner Bahn –"
+            },
+            {
+              "id": "a2_l_193",
+              "original": "bald soll der Aberglaube schwinden,"
+            },
+            {
+              "id": "a2_l_194",
+              "original": "bald siegt der weise Mann! –"
+            },
+            {
+              "id": "a2_l_195",
+              "original": "O holde Ruhe, steig hernieder,"
+            },
+            {
+              "id": "a2_l_196",
+              "original": "kehr in der Menschen Herzen wieder;"
+            },
+            {
+              "id": "a2_l_197",
+              "original": "dann ist die Erd' ein Himmelreich,"
+            },
+            {
+              "id": "a2_l_198",
+              "original": "und Sterbliche den Göttern gleich."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_78",
+          "speaker": "First Boy",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_199",
+              "original": "Doch seht, Verzweiflung quält Paminen! –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_79",
+          "speaker": "Second & Third Boys",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_200",
+              "original": "Wo ist sie denn?"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_80",
+          "speaker": "First Boy",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_201",
+              "original": "Sie ist von Sinnen! –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_81",
+          "speaker": "Three Boys",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_202",
+              "original": "Sie quält verschmähter Liebe Leiden,"
+            },
+            {
+              "id": "a2_l_203",
+              "original": "laßt uns der Armen Trost bereiten! –"
+            },
+            {
+              "id": "a2_l_204",
+              "original": "Führwahr ihr Schicksal geht uns nah!"
+            },
+            {
+              "id": "a2_l_205",
+              "original": "O wäre nur ihr Jüngling da! –"
+            },
+            {
+              "id": "a2_l_206",
+              "original": "Sie kommt, laßt uns beiseite geh'n,"
+            },
+            {
+              "id": "a2_l_207",
+              "original": "damit wir, was sie mache, seh'n."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_82",
+          "speaker": "Three Boys",
+          "pieceTitle": "Nr. 21: Finale",
+          "stageDirection": "Pamina halb wahnwitzig, mit einem Dolch",
+          "lines": []
+        },
+        {
+          "id": "a2_cue_83",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_208",
+              "original": "Du also bist mein Bräutigam –"
+            },
+            {
+              "id": "a2_l_209",
+              "original": "durch dich vollend' ich meinen Gram! –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_84",
+          "speaker": "Three Boys",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_210",
+              "original": "Welch dunkle Worte sprach sie da! –"
+            },
+            {
+              "id": "a2_l_211",
+              "original": "Die Arme ist dem Wahnsinn nah! –"
+            }
+          ],
+          "stageDirection": "beiseite"
+        },
+        {
+          "id": "a2_cue_85",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_212",
+              "original": "Geduld! mein Trauter, ich bin dein –"
+            },
+            {
+              "id": "a2_l_213",
+              "original": "bald werden wir vermählet sein!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_86",
+          "speaker": "Three Boys",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_214",
+              "original": "Wahnsinn tobt ihr im Gehirne –"
+            },
+            {
+              "id": "a2_l_215",
+              "original": "Selbstmord steht auf ihrer Stirne! –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_87",
+          "speaker": "Three Boys",
+          "pieceTitle": "Nr. 21: Finale",
+          "stageDirection": "zu Pamina",
+          "lines": [
+            {
+              "id": "a2_l_216",
+              "original": "Holdes Mädchen, sieh uns an!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_88",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_217",
+              "original": "Sterben will ich – weil der Mann,"
+            },
+            {
+              "id": "a2_l_218",
+              "original": "den ich nimmermehr kann hassen,"
+            },
+            {
+              "id": "a2_l_219",
+              "original": "seine Traute kann verlassen! –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_89",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 21: Finale",
+          "stageDirection": "auf den Dolch zeigend",
+          "lines": [
+            {
+              "id": "a2_l_220",
+              "original": "Dies gab meine Mutter mir –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_90",
+          "speaker": "Three Boys",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_221",
+              "original": "Selbstmord strafet Gott an dir! –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_91",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_222",
+              "original": "Lieber durch dies Eisen sterben,"
+            },
+            {
+              "id": "a2_l_223",
+              "original": "als durch Liebesgram verderben. –"
+            },
+            {
+              "id": "a2_l_224",
+              "original": "Mutter! durch dich leide ich,"
+            },
+            {
+              "id": "a2_l_225",
+              "original": "und dein Fluch verfolget mich!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_92",
+          "speaker": "Three Boys",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_226",
+              "original": "Mädchen! willst du mit uns geh'n?"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_93",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_227",
+              "original": "Ha! des Jammers Maß ist voll!"
+            },
+            {
+              "id": "a2_l_228",
+              "original": "Falscher Jüngling, lebe wohl!"
+            },
+            {
+              "id": "a2_l_229",
+              "original": "Sieh, Pamina stirbt durch dich!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_94",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 21: Finale",
+          "stageDirection": "will sich erstechen",
+          "lines": [
+            {
+              "id": "a2_l_230",
+              "original": "Dieses Eisen töte mich! –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_95",
+          "speaker": "Three Boys",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_231",
+              "original": "Ha! Unglückliche, halt ein!"
+            },
+            {
+              "id": "a2_l_232",
+              "original": "Sollte dies dein Jüngling sehen,"
+            },
+            {
+              "id": "a2_l_233",
+              "original": "würde er vor Gram vergehen,"
+            },
+            {
+              "id": "a2_l_234",
+              "original": "denn er liebet dich allein. –"
+            }
+          ],
+          "stageDirection": "halten ihr den Arm"
+        },
+        {
+          "id": "a2_cue_96",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_235",
+              "original": "Was? er fühlte Gegenliebe?"
+            },
+            {
+              "id": "a2_l_236",
+              "original": "und verbarg mir seine Triebe –"
+            },
+            {
+              "id": "a2_l_237",
+              "original": "wandte sein Gesicht von mir?"
+            },
+            {
+              "id": "a2_l_238",
+              "original": "Warum sprach er nicht mit mir? –"
+            }
+          ],
+          "stageDirection": "erholt sich"
+        },
+        {
+          "id": "a2_cue_97",
+          "speaker": "Three Boys",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_239",
+              "original": "Dieses müssen wir verschweigen,"
+            },
+            {
+              "id": "a2_l_240",
+              "original": "doch wir wollen ihn dir zeigen,"
+            },
+            {
+              "id": "a2_l_241",
+              "original": "und du wirst mit Staunen seh'n,"
+            },
+            {
+              "id": "a2_l_242",
+              "original": "daß er dir sein Herz geweiht,"
+            },
+            {
+              "id": "a2_l_243",
+              "original": "und den Tod für dich nicht scheut!"
+            },
+            {
+              "id": "a2_l_244",
+              "original": "Komm, wir wollen zu ihm geh'n."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_98",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_245",
+              "original": "Führt mich hin, ich möcht' ihn seh'n."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_99",
+          "speaker": "All",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_246",
+              "original": "Zwei Herzen, die von Liebe brennen,"
+            },
+            {
+              "id": "a2_l_247",
+              "original": "kann Menschenohnmacht niemals trennen. –"
+            },
+            {
+              "id": "a2_l_248",
+              "original": "Verloren ist der Feinde Müh',"
+            },
+            {
+              "id": "a2_l_249",
+              "original": "die Götter selbsten schützen sie."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_100",
+          "speaker": "All",
+          "pieceTitle": "Nr. 21: Finale",
+          "stageDirection": "gehen ab Das Theater verwandelt sich in zwei große Berge; in dem einen ist ein Wasserfall, worin man Sausen und Brausen hört; der andere speit Feuer aus; jeder Berg hat ein durchbrochenes Gitter, worin man Feuer und Wasser sieht; da, wo das Feuer brennt, muß der Horizont hellrot sein, und wo das Wasser ist, liegt schwarzer Nebel. Die Szenen sind Felsen, jede Szene schließt sich mit einer eisernen Türe. Tamino ist leicht angezogen, ohne Sandalen. Zwei schwarz geharnischte Männer führen Tamino herein. Auf ihren Helmen brennt Feuer. Sie lesen ihm die transparente Schrift vor, welche auf einer Pyramide geschrieben steht. Diese Pyramide steht in der Mitte ganz in der Höhe, nahe am Gitter.",
+          "lines": []
+        },
+        {
+          "id": "a2_cue_101",
+          "speaker": "Two Armed Men",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_250",
+              "original": "Der, welcher wandert diese Straße voll Beschwerden,"
+            },
+            {
+              "id": "a2_l_251",
+              "original": "wird rein durch Feuer, Wasser, Luft und Erden."
+            },
+            {
+              "id": "a2_l_252",
+              "original": "Wenn er des Todes Schrecken überwinden kann,"
+            },
+            {
+              "id": "a2_l_253",
+              "original": "schwingt er sich aus der Erde himmelan!"
+            },
+            {
+              "id": "a2_l_254",
+              "original": "Erleuchtet wird er dann im Stande sein,"
+            },
+            {
+              "id": "a2_l_255",
+              "original": "sich den Mysterien der Isis ganz zu weih'n."
+            }
+          ],
+          "stageDirection": "Diese Melodie ist identisch mit Luthers Choral `Ach Gott, vom Himmel sieh' darein' (Psalm 12). Luthers Gedicht wiederum liegt dem Text für Bachs Kantate BWV 2 zugrunde."
+        },
+        {
+          "id": "a2_cue_102",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_256",
+              "original": "Mich schreckt kein Tod, als Mann zu handeln,"
+            },
+            {
+              "id": "a2_l_257",
+              "original": "den Weg der Tugend fortzuwandeln! –"
+            },
+            {
+              "id": "a2_l_258",
+              "original": "Schließt mir des Schreckens Pforte auf –"
+            },
+            {
+              "id": "a2_l_259",
+              "original": "ich wage froh den kühnen Lauf. –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_103",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 21: Finale",
+          "stageDirection": "will gehen",
+          "lines": []
+        },
+        {
+          "id": "a2_cue_104",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_260",
+              "original": "Tamino halt! ich muß dich sehn!"
+            }
+          ],
+          "stageDirection": "von innen"
+        },
+        {
+          "id": "a2_cue_105",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_261",
+              "original": "Was hör' ich? Paminens Stimme? –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_106",
+          "speaker": "Two Armed Men",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_262",
+              "original": "Ja ja, das ist Paminens Stimme! –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_107",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_263",
+              "original": "Wohl mir, nun kann sie mit mir geh'n!"
+            },
+            {
+              "id": "a2_l_264",
+              "original": "Nun trennet uns kein Schicksal mehr,"
+            },
+            {
+              "id": "a2_l_265",
+              "original": "wenn auch der Tod beschieden wär'."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_108",
+          "speaker": "Two Armed Men",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_266",
+              "original": "Wohl dir, nun kann sie mit dir geh'n!"
+            },
+            {
+              "id": "a2_l_267",
+              "original": "Nun trennet euch kein Schicksal mehr,"
+            },
+            {
+              "id": "a2_l_268",
+              "original": "wenn auch der Tod beschieden wär'."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_109",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_269",
+              "original": "Ist mir erlaubt mit ihr zu sprechen? –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_110",
+          "speaker": "Two Armed Men",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_270",
+              "original": "Es ist erlaubt mit ihr zu sprechen!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_111",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_271",
+              "original": "Welch Glück, wenn wir uns wiederseh'n,"
+            },
+            {
+              "id": "a2_l_272",
+              "original": "froh Hand in Hand in Tempel geh'n."
+            },
+            {
+              "id": "a2_l_273",
+              "original": "Ein Weib, das Nacht und Tod nicht scheut,"
+            },
+            {
+              "id": "a2_l_274",
+              "original": "ist würdig, und wird eingeweiht."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_112",
+          "speaker": "Two Armed Men",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_275",
+              "original": "Welch Glück, wenn wir euch wiederseh'n,"
+            },
+            {
+              "id": "a2_l_276",
+              "original": "froh Hand in Hand in Tempel geh'n."
+            },
+            {
+              "id": "a2_l_277",
+              "original": "Ein Weib, das Nacht und Tod nicht scheut,"
+            },
+            {
+              "id": "a2_l_278",
+              "original": "ist würdig, und wird eingeweiht."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_113",
+          "speaker": "Two Armed Men",
+          "pieceTitle": "Nr. 21: Finale",
+          "stageDirection": "Die Türe wird aufgemacht, Tamino und Pamina umarmen sich.",
+          "lines": []
+        },
+        {
+          "id": "a2_cue_114",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_279",
+              "original": "Tamino mein! O welch ein Glück!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_115",
+          "speaker": "Tamino",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_280",
+              "original": "Pamina mein! O welch ein Glück!"
+            },
+            {
+              "id": "a2_l_281",
+              "original": "Hier sind die Schreckenspforten,"
+            },
+            {
+              "id": "a2_l_282",
+              "original": "die Not und Tod mir dräu'n."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_116",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_283",
+              "original": "Ich werde aller Orten"
+            },
+            {
+              "id": "a2_l_284",
+              "original": "an deiner Seite sein. –"
+            },
+            {
+              "id": "a2_l_285",
+              "original": "Ich selbsten führe dich –"
+            },
+            {
+              "id": "a2_l_286",
+              "original": "die Liebe leitet mich! –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_117",
+          "speaker": "Pamina",
+          "pieceTitle": "Nr. 21: Finale",
+          "stageDirection": "nimmt ihn bei der Hand",
+          "lines": [
+            {
+              "id": "a2_l_287",
+              "original": "Sie mag den Weg mit Rosen streu'n,"
+            },
+            {
+              "id": "a2_l_288",
+              "original": "weil Rosen stets bei Dornen sein."
+            },
+            {
+              "id": "a2_l_289",
+              "original": "Spiel du die Zauberflöte an,"
+            },
+            {
+              "id": "a2_l_290",
+              "original": "sie schütze uns auf uns'rer Bahn."
+            },
+            {
+              "id": "a2_l_291",
+              "original": "Es schnitt in einer Zauberstunde"
+            },
+            {
+              "id": "a2_l_292",
+              "original": "mein Vater sie aus tiefstem Grunde"
+            },
+            {
+              "id": "a2_l_293",
+              "original": "der tausendjähr'gen Eiche aus"
+            },
+            {
+              "id": "a2_l_294",
+              "original": "bei Blitz und Donner – Sturm und Braus. –"
+            },
+            {
+              "id": "a2_l_295",
+              "original": "Nun komm und spiel die Flöte an!"
+            },
+            {
+              "id": "a2_l_296",
+              "original": "Sie leite uns auf grauser Bahn."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_118",
+          "speaker": "Pamina & Tamino",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_297",
+              "original": "Wir wandeln durch des Tones Macht"
+            },
+            {
+              "id": "a2_l_298",
+              "original": "froh durch des Todes düst're Nacht."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_119",
+          "speaker": "Two Armed Men",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_299",
+              "original": "Ihr wandelt durch des Tones Macht"
+            },
+            {
+              "id": "a2_l_300",
+              "original": "froh durch des Todes düst're Nacht."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_120",
+          "speaker": "Two Armed Men",
+          "pieceTitle": "Nr. 21: Finale",
+          "stageDirection": "Die Türen werden nach ihnen zugeschlagen; man sieht Tamino und Pamina wandern. Tamino bläst seine Flöte. Sobald sie vom Feuer herauskommen, umarmen sie sich und bleiben in der Mitte.",
+          "lines": []
+        },
+        {
+          "id": "a2_cue_121",
+          "speaker": "Pamina & Tamino",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_301",
+              "original": "Wir wandelten durch Feuergluten,"
+            },
+            {
+              "id": "a2_l_302",
+              "original": "bekämpften mutig die Gefahr,"
+            },
+            {
+              "id": "a2_l_303",
+              "original": "dein Ton sei Schutz in Wasserfluten,"
+            },
+            {
+              "id": "a2_l_304",
+              "original": "so wie er es im Feuer war."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_122",
+          "speaker": "Pamina & Tamino",
+          "pieceTitle": "Nr. 21: Finale",
+          "stageDirection": "Tamino bläst; man sieht sie hinuntersteigen und nach einiger Zeit wieder heraufkommen; sogleich öffnet sich eine Türe; man sieht einen Eingang in einen Tempel, welcher hell beleuchtet ist.",
+          "lines": []
+        },
+        {
+          "id": "a2_cue_123",
+          "speaker": "Pamina & Tamino",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_305",
+              "original": "Ihr Götter, welch ein Augenblick!"
+            },
+            {
+              "id": "a2_l_306",
+              "original": "Gewähret ist uns Isis' Glück! –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_124",
+          "speaker": "Entourage & Priests",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_307",
+              "original": "Triumph, Triumph, Triumph, du edles Paar,"
+            },
+            {
+              "id": "a2_l_308",
+              "original": "besieget hast du die Gefahr!"
+            },
+            {
+              "id": "a2_l_309",
+              "original": "Der Isis Weihe ist nun dein!"
+            },
+            {
+              "id": "a2_l_310",
+              "original": "Kommt, kommt, tretet in den Tempel ein."
+            }
+          ],
+          "stageDirection": "von innen"
+        },
+        {
+          "id": "a2_cue_125",
+          "speaker": "Entourage & Priests",
+          "pieceTitle": "Nr. 21: Finale",
+          "stageDirection": "Das Theater verwandelt sich wieder in den vorigen Garten.",
+          "lines": []
+        },
+        {
+          "id": "a2_cue_126",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_311",
+              "original": "Papagena! Papagena! Papagena!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_127",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 21: Finale",
+          "stageDirection": "pfeift",
+          "lines": [
+            {
+              "id": "a2_l_312",
+              "original": "Weibchen! Täubchen! meine Schöne! –"
+            },
+            {
+              "id": "a2_l_313",
+              "original": "Vergebens! Ach! sie ist verloren!"
+            },
+            {
+              "id": "a2_l_314",
+              "original": "ich bin zum Unglück schon geboren! –"
+            },
+            {
+              "id": "a2_l_315",
+              "original": "Ich plauderte, und das war schlecht,"
+            },
+            {
+              "id": "a2_l_316",
+              "original": "und drum geschieht es mir schon recht! –"
+            },
+            {
+              "id": "a2_l_317",
+              "original": "Seit ich gekostet diesen Wein –"
+            },
+            {
+              "id": "a2_l_318",
+              "original": "seit ich das schöne Weibchen sah,"
+            },
+            {
+              "id": "a2_l_319",
+              "original": "so brennt's im Herzenskämmerlein,"
+            },
+            {
+              "id": "a2_l_320",
+              "original": "so zwicket's hier, so zwicket's da!"
+            },
+            {
+              "id": "a2_l_321",
+              "original": "Papagena! Herzensweibchen!"
+            },
+            {
+              "id": "a2_l_322",
+              "original": "Papagena liebes Täubchen!"
+            },
+            {
+              "id": "a2_l_323",
+              "original": "'S ist umsonst, es ist vergebens,"
+            },
+            {
+              "id": "a2_l_324",
+              "original": "müde bin ich meines Lebens!"
+            },
+            {
+              "id": "a2_l_325",
+              "original": "Sterben macht der Lieb' ein End,"
+            },
+            {
+              "id": "a2_l_326",
+              "original": "wenn's im Herzen noch so brennt."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_128",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 21: Finale",
+          "stageDirection": "nimmt einen Strick von seiner Mitte",
+          "lines": [
+            {
+              "id": "a2_l_327",
+              "original": "Diesen Baum da will ich zieren,"
+            },
+            {
+              "id": "a2_l_328",
+              "original": "mir an ihm den Hals zuschnüren,"
+            },
+            {
+              "id": "a2_l_329",
+              "original": "weil das Leben mir mißfällt,"
+            },
+            {
+              "id": "a2_l_330",
+              "original": "gute Nacht, du falsche Welt! –"
+            },
+            {
+              "id": "a2_l_331",
+              "original": "Weil du böse an mir handelst,"
+            },
+            {
+              "id": "a2_l_332",
+              "original": "mir kein schönes Kind zubandelst,"
+            },
+            {
+              "id": "a2_l_333",
+              "original": "so ist's aus, so sterbe ich."
+            },
+            {
+              "id": "a2_l_334",
+              "original": "Schöne Mädchen, denkt an mich! –"
+            },
+            {
+              "id": "a2_l_335",
+              "original": "Will sich eine um mich Armen,"
+            },
+            {
+              "id": "a2_l_336",
+              "original": "eh' ich hänge, noch erbarmen –"
+            },
+            {
+              "id": "a2_l_337",
+              "original": "wohl, so laß ich's diesmal sein!"
+            },
+            {
+              "id": "a2_l_338",
+              "original": "Rufet nur, Ja oder Nein! –"
+            },
+            {
+              "id": "a2_l_339",
+              "original": "Keine hört mich! alles stille!"
+            },
+            {
+              "id": "a2_l_340",
+              "original": "Also ist es euer Wille!"
+            },
+            {
+              "id": "a2_l_341",
+              "original": "Papageno frisch hinauf,"
+            },
+            {
+              "id": "a2_l_342",
+              "original": "ende deinen Lebenslauf."
+            },
+            {
+              "id": "a2_l_343",
+              "original": "Nun! ich warte noch! es sei –"
+            },
+            {
+              "id": "a2_l_344",
+              "original": "bis man zählet: eins, zwei, drei!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_129",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 21: Finale",
+          "stageDirection": "pfeift, sieht sich um",
+          "lines": [
+            {
+              "id": "a2_l_345",
+              "original": "eins! zwei! drei!"
+            },
+            {
+              "id": "a2_l_346",
+              "original": "Nun wohlan! es bleibt dabei!"
+            },
+            {
+              "id": "a2_l_347",
+              "original": "Weil mich nichts zurücke hält,"
+            },
+            {
+              "id": "a2_l_348",
+              "original": "gute Nacht, du falsche Welt!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_130",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 21: Finale",
+          "stageDirection": "will sich hängen",
+          "lines": []
+        },
+        {
+          "id": "a2_cue_131",
+          "speaker": "Three Boys",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_349",
+              "original": "Halt ein! o Papageno, und sei klug!"
+            },
+            {
+              "id": "a2_l_350",
+              "original": "Man lebt nur einmal, dies sei dir genug!"
+            }
+          ],
+          "stageDirection": "fahren herunter"
+        },
+        {
+          "id": "a2_cue_132",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_351",
+              "original": "Ihr habt gut reden, gut zu scherzen;"
+            },
+            {
+              "id": "a2_l_352",
+              "original": "doch brennt es euch, wie mich im Herzen,"
+            },
+            {
+              "id": "a2_l_353",
+              "original": "ihr würdet auch nach Mädchen geh'n."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_133",
+          "speaker": "Three Boys",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_354",
+              "original": "So lasse deine Glöckchen klingen,"
+            },
+            {
+              "id": "a2_l_355",
+              "original": "dies wird dein Weibchen zu dir bringen."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_134",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_356",
+              "original": "Ich Narr vergaß der Zauberdinge!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_135",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 21: Finale",
+          "stageDirection": "nimmt sein Instrument heraus",
+          "lines": [
+            {
+              "id": "a2_l_357",
+              "original": "Erklinge, Glockenspiel, erklinge,"
+            },
+            {
+              "id": "a2_l_358",
+              "original": "ich muß mein liebes Mädchen seh'n!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_136",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 21: Finale",
+          "stageDirection": "Die drei Knaben laufen zu ihrem Flugwerk und bringen das Weib heraus.",
+          "lines": [
+            {
+              "id": "a2_l_359",
+              "original": "Klinget, Glöckchen, klinget,"
+            },
+            {
+              "id": "a2_l_360",
+              "original": "schafft mein Mädchen her!"
+            },
+            {
+              "id": "a2_l_361",
+              "original": "Klinget, Glöckchen, klinget,"
+            },
+            {
+              "id": "a2_l_362",
+              "original": "bringt mein Mädchen her!"
+            },
+            {
+              "id": "a2_l_363",
+              "original": "Klinget, Glöckchen, klinget,"
+            },
+            {
+              "id": "a2_l_364",
+              "original": "bringt mein Weibchen her!"
+            },
+            {
+              "id": "a2_l_365",
+              "original": "bringt sie her!"
+            },
+            {
+              "id": "a2_l_366",
+              "original": "mein Mädchen her! mein Weibchen her!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_137",
+          "speaker": "Three Boys",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_367",
+              "original": "Nun Papageno, sieh dich um!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_138",
+          "speaker": "Three Boys",
+          "pieceTitle": "Nr. 21: Finale",
+          "stageDirection": "fahren auf. Papageno sieht sich um.",
+          "lines": []
+        },
+        {
+          "id": "a2_cue_139",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_368",
+              "original": "Pa-pa-ge-na!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_140",
+          "speaker": "Papagena",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_369",
+              "original": "Pa-pa-ge-no!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_141",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_370",
+              "original": "Bist du mir nun ganz ergeben? –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_142",
+          "speaker": "Papagena",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_371",
+              "original": "Nun bin ich dir ganz ergeben!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_143",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_372",
+              "original": "Nun so sei mein liebes Weibchen!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_144",
+          "speaker": "Papagena",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_373",
+              "original": "Nun so sei mein Herzenstäubchen!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_145",
+          "speaker": "Both",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_374",
+              "original": "Welche Freude wird das sein,"
+            },
+            {
+              "id": "a2_l_375",
+              "original": "wenn die Götter uns bedenken,"
+            },
+            {
+              "id": "a2_l_376",
+              "original": "uns'rer Liebe Kinder schenken,"
+            },
+            {
+              "id": "a2_l_377",
+              "original": "so liebe kleine Kinderlein!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_146",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_378",
+              "original": "Erst einen kleinen Papageno!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_147",
+          "speaker": "Papagena",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_379",
+              "original": "Dann eine kleine Papagena!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_148",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_380",
+              "original": "Dann wieder einen Papageno!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_149",
+          "speaker": "Papagena",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_381",
+              "original": "Dann wieder eine Papagena!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_150",
+          "speaker": "Papageno",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_382",
+              "original": "Papageno!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_151",
+          "speaker": "Papagena",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_383",
+              "original": "Papagena!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_152",
+          "speaker": "Both",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_384",
+              "original": "Es ist das höchste der Gefühle,"
+            },
+            {
+              "id": "a2_l_385",
+              "original": "wenn viele, viele Papagena/Papageno"
+            },
+            {
+              "id": "a2_l_386",
+              "original": "der Eltern Segen werden sein!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_153",
+          "speaker": "Both",
+          "pieceTitle": "Nr. 21: Finale",
+          "stageDirection": "beide ab. Der Mohr, die Königin mit allen ihren Damen kommen von beiden Versenkungen; sie tragen schwarze Fackeln in der Hand.",
+          "lines": []
+        },
+        {
+          "id": "a2_cue_154",
+          "speaker": "Monostatos",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_387",
+              "original": "Nur stille! stille! stille!"
+            },
+            {
+              "id": "a2_l_388",
+              "original": "bald dringen wir im Tempel ein!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_155",
+          "speaker": "Queen & Ladies",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_389",
+              "original": "Nur stille! stille! stille!"
+            },
+            {
+              "id": "a2_l_390",
+              "original": "bald dringen wir in Tempel ein!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_156",
+          "speaker": "Monostatos",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_391",
+              "original": "Doch Fürstin! halte Wort! erfülle!"
+            },
+            {
+              "id": "a2_l_392",
+              "original": "Dein Kind muß meine Gattin sein! –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_157",
+          "speaker": "Queen of the Night",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_393",
+              "original": "Ich halte Wort! es ist mein Wille,"
+            },
+            {
+              "id": "a2_l_394",
+              "original": "mein Kind soll deine Gattin sein!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_158",
+          "speaker": "Three Ladies",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_395",
+              "original": "Ihr Kind soll deine Gattin sein!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_159",
+          "speaker": "Three Ladies",
+          "pieceTitle": "Nr. 21: Finale",
+          "stageDirection": "Man hört dumpfen Donner und Wassergeräusch.",
+          "lines": []
+        },
+        {
+          "id": "a2_cue_160",
+          "speaker": "Monostatos",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_396",
+              "original": "Doch still, ich höre schrecklich Rauschen,"
+            },
+            {
+              "id": "a2_l_397",
+              "original": "wie Donnerton und Wasserfall. –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_161",
+          "speaker": "Queen & Ladies",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_398",
+              "original": "Ja, fürchterlich ist dieses Rauschen,"
+            },
+            {
+              "id": "a2_l_399",
+              "original": "wie fernen Donners Widerhall! –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_162",
+          "speaker": "Monostatos",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_400",
+              "original": "Nun sind sie in des Tempels Hallen."
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_163",
+          "speaker": "All",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_401",
+              "original": "Dort wollen wir sie überfallen,"
+            },
+            {
+              "id": "a2_l_402",
+              "original": "die Frömmler tilgen von der Erd'"
+            },
+            {
+              "id": "a2_l_403",
+              "original": "mit Feuersglut und mächt'gem Schwert!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_164",
+          "speaker": "Monostatos & Ladies",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_404",
+              "original": "Dir, große Königin der Nacht,"
+            },
+            {
+              "id": "a2_l_405",
+              "original": "sei uns'rer Rache Opfer gebracht!"
+            }
+          ],
+          "stageDirection": "kniend"
+        },
+        {
+          "id": "a2_cue_165",
+          "speaker": "Monostatos & Ladies",
+          "pieceTitle": "Nr. 21: Finale",
+          "stageDirection": "Donner, Blitz, Sturm",
+          "lines": []
+        },
+        {
+          "id": "a2_cue_166",
+          "speaker": "All",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_406",
+              "original": "Zerschmettert, zernichtet ist unsere Macht,"
+            },
+            {
+              "id": "a2_l_407",
+              "original": "wir alle gestürzet in ewige Nacht! –"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_167",
+          "speaker": "All",
+          "pieceTitle": "Nr. 21: Finale",
+          "stageDirection": "versinken Sogleich verwandelt sich das ganze Theater in eine Sonne. Sarastro steht erhöht; Tamino, Pamina, beide in priesterlicher Kleidung. Neben ihnen die ägyptischen Priester auf beiden Seiten. Die drei Knaben halten Blumen.",
+          "lines": []
+        },
+        {
+          "id": "a2_cue_168",
+          "speaker": "Sarastro",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_408",
+              "original": "Die Strahlen der Sonne"
+            },
+            {
+              "id": "a2_l_409",
+              "original": "vertreiben die Nacht,"
+            },
+            {
+              "id": "a2_l_410",
+              "original": "zernichten der Heuchler"
+            },
+            {
+              "id": "a2_l_411",
+              "original": "erschlichene Macht!"
+            }
+          ]
+        },
+        {
+          "id": "a2_cue_169",
+          "speaker": "Chorus",
+          "pieceTitle": "Nr. 21: Finale",
+          "lines": [
+            {
+              "id": "a2_l_412",
+              "original": "Heil sei euch Geweihten!"
+            },
+            {
+              "id": "a2_l_413",
+              "original": "Ihr dränget durch Nacht!"
+            },
+            {
+              "id": "a2_l_414",
+              "original": "Dank! sei dir Osiris!"
+            },
+            {
+              "id": "a2_l_415",
+              "original": "Dank! dir Isis gebracht!"
+            },
+            {
+              "id": "a2_l_416",
+              "original": "Es siegte die Stärke"
+            },
+            {
+              "id": "a2_l_417",
+              "original": "und krönet zum Lohn"
+            },
+            {
+              "id": "a2_l_418",
+              "original": "die Schönheit und Weisheit"
+            },
+            {
+              "id": "a2_l_419",
+              "original": "mit ewiger Kron'!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

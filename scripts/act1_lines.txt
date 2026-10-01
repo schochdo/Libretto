@@ -1,0 +1,457 @@
+
+# ===========================================
+# SCENE 1: Nr. 1: Introduktion
+# ===========================================
+    # Tamino: Zu Hilfe! Zu Hilfe! sonst bin ich verloren,
+    # Tamino: der listigen Schlange zum Opfer erkoren –
+    # Tamino: barmherzige Götter! Schon nahet sie sich,
+    # Tamino: ach rettet mich, ach rettet, schützet mich!
+    # Three Ladies: Stirb, Ungeheuer, durch uns're Macht!
+    # Three Ladies: Triumph! Triumph! Sie ist vollbracht
+    # Three Ladies: die Heldentat! Er ist befreit
+    # Three Ladies: durch uns'res Armes Tapferkeit.
+    # First Lady (ihn betrachtend): Ein holder Jüngling, sanft und schön!
+    # Second Lady: So schön, als ich noch nie geseh'n.
+    # Third Lady: Ja, ja, gewiß! zum Malen schön.
+    # All Three Ladies: Würd' ich mein Herz der Liebe weih'n,
+    # All Three Ladies: so müßt' es dieser Jüngling sein.
+    # All Three Ladies: Laßt uns zu uns'rer Fürstin eilen,
+    # All Three Ladies: ihr diese Nachricht zu erteilen.
+    # All Three Ladies: Vielleicht daß dieser schöne Mann,
+    # All Three Ladies: die vor'ge Ruh' ihr geben kann.
+    # First Lady: So geht und sagt es ihr,
+    # First Lady: ich bleib' indessen hier. –
+    # Second Lady: Nein, nein, geht ihr nur hin,
+    # Second Lady: ich wache hier für ihn!
+    # Third Lady: Nein, nein, das kann nicht sein,
+    # Third Lady: ich schütze ihn allein!
+    # First Lady: Ich bleib' indessen hier ...
+    # Second Lady: Ich wache hier für ihn ...
+    # Third Lady: Ich schütze ihn allein ...
+    # First Lady: ... ich bleibe ...
+    # Second Lady: ... ich wache ...
+    # Third Lady: ... ich schütze ...
+    # First Lady: ... ich!
+    # Second Lady: ... ich!
+    # Third Lady: ... ich!
+    # All Three Ladies (für sich): Ich sollte fort! Ei, ei! wie fein!
+    # All Three Ladies (für sich): Sie wären gern bei ihm allein.
+    # All Three Ladies (für sich): Nein, nein, das kann nicht sein!
+    # All Three Ladies (für sich): Was sollte ich darum nicht geben,
+    # All Three Ladies (für sich): könnt' ich mit diesem Jüngling leben!
+    # All Three Ladies (für sich): Hätt' ich ihn doch so ganz allein!
+    # All Three Ladies (für sich): Doch keine geht, es kann nicht sein.
+    # All Three Ladies (für sich): Am besten ist es nun, ich geh'.
+    # All Three Ladies (für sich): Du Jüngling schön und liebevoll,
+    # All Three Ladies (für sich): du trauter Jüngling, lebe wohl,
+    # All Three Ladies (für sich): bis ich dich wiederseh'.
+
+# ===========================================
+# SCENE 2: Nr. 2: Lied
+# ===========================================
+    # Papageno: Der Vogelfänger bin ich ja –
+    # Papageno: stets lustig heißa hopsasa!
+    # Papageno: Ich Vogelfänger bin bekannt
+    # Papageno: bei Alt und Jung im ganzen Land.
+    # Papageno: Weiß mit dem Locken umzugehn
+    # Papageno: und mich aufs Pfeifen zu verstehn!
+    # Papageno: Drum kann ich froh und lustig sein,
+    # Papageno: denn alle Vögel sind ja mein.
+    # Papageno: Der Vogelfänger bin ich ja –
+    # Papageno: stets lustig, heißa hopsasa!
+    # Papageno: Ich Vogelfänger bin bekannt
+    # Papageno: bei Alt und Jung im ganzen Land.
+    # Papageno: Ein Netz für Mädchen möchte ich,
+    # Papageno: ich fing' sie dutzendweis' für mich.
+    # Papageno: Dann sperrte ich sie bei mir ein,
+    # Papageno: und alle Mädchen wären mein.
+    # Papageno: Wenn alle Mädchen wären mein,
+    # Papageno: so tauschte ich brav Zucker ein:
+    # Papageno: die, welche mir am liebsten wär',
+    # Papageno: der gäb' ich gleich den Zucker her.
+    # Papageno: Und küßte sie mich zärtlich dann,
+    # Papageno: wär' sie mein Weib und ich ihr Mann.
+    # Papageno: Sie schlief' an meiner Seite ein,
+    # Papageno: ich wiegte wie ein Kind sie ein.
+
+# ===========================================
+# SCENE 3: Nr. 3: Arie
+# ===========================================
+    # Tamino: Dies Bildnis ist bezaubernd schön,
+    # Tamino: wie noch kein Auge je geseh'n.
+    # Tamino: Ich fühl' es, wie dies Götterbild
+    # Tamino: mein Herz mit neuer Regung füllt.
+    # Tamino: Dies Etwas kann ich zwar nicht nennen,
+    # Tamino: doch fühl' ich's hier wie Feuer brennen;
+    # Tamino: soll die Empfindung Liebe sein?
+    # Tamino: Ja, ja, die Liebe ist's allein.
+    # Tamino: O wenn ich sie nur finden könnte!
+    # Tamino: O wenn sie doch schon vor mir stünde!
+    # Tamino: Ich würde – würde – warm und rein –
+    # Tamino: was würde ich?
+    # Tamino: Ich würde sie voll Entzücken
+    # Tamino: an diesen heißen Busen drücken,
+    # Tamino: und ewig wäre sie dann mein!
+
+# ===========================================
+# SCENE 4: Nr. 4: Rezitativ und Arie
+# ===========================================
+    # Queen of the Night: O zitt're nicht, mein lieber Sohn,
+    # Queen of the Night: du bist unschuldig, weise, fromm –
+    # Queen of the Night: Ein Jüngling so wie du, vermag am besten,
+    # Queen of the Night: das tiefbetrübte Mutterherz zu trösten. –
+    # Queen of the Night: Zum Leiden bin ich auserkoren,
+    # Queen of the Night: denn meine Tochter fehlet mir.
+    # Queen of the Night: Durch sie ging all mein Glück verloren,
+    # Queen of the Night: ein Bösewicht entfloh mit ihr.
+    # Queen of the Night: Noch seh' ich ihr Zittern
+    # Queen of the Night: mit bangem Erschüttern,
+    # Queen of the Night: ihr ängstliches Beben,
+    # Queen of the Night: ihr schüchternes Streben.
+    # Queen of the Night: Ich mußte sie mir rauben sehen,
+    # Queen of the Night: ach helft!, war alles was sie sprach –
+    # Queen of the Night: allein vergebens war ihr Flehen,
+    # Queen of the Night: denn meine Hilfe war zu schwach.
+    # Queen of the Night: Du wirst sie zu befreien gehen,
+    # Queen of the Night: du wirst der Tochter Retter sein.
+    # Queen of the Night: Und werd' ich dich als Sieger sehen,
+    # Queen of the Night: so sei sie dann auf ewig dein.
+
+# ===========================================
+# SCENE 5: Nr. 5: Quintett
+# ===========================================
+    # Papageno (deutet traurig auf sein Schloß am Mund): Hm! hm! hm! hm!
+    # Tamino: Der Arme kann von Strafe sagen,
+    # Tamino: denn seine Sprache ist dahin!
+    # Papageno: Hm! hm! hm! hm!
+    # Tamino: Ich kann nichts tun, als dich beklagen,
+    # Tamino: weil ich zu schwach zu helfen bin!
+    # First Lady: Die Königin begnadigt dich,
+    # First Lady: entläßt die Strafe dir durch mich. –
+    # Papageno: Nun plaudert Papageno wieder!
+    # Second Lady: Ja, plaud're – lüge nur nicht wieder!
+    # Papageno: Ich lüge nimmermehr, nein, nein!
+    # Three Ladies: Dies Schloß soll deine Warnung sein!
+    # Papageno: Dies Schloß soll meine Warnung sein!
+    # All: Bekämen doch die Lügner alle
+    # All: ein solches Schloß vor ihren Mund:
+    # All: Statt Haß, Verleumdung, schwarzer Galle
+    # All: bestünde Lieb' und Bruderbund!
+    # First Lady: O Prinz, nimm dies Geschenk von mir,
+    # First Lady: dies sendet uns're Fürstin dir.
+    # First Lady (gibt ihm eine goldene Flöte): Die Zauberflöte wird dich schützen,
+    # First Lady (gibt ihm eine goldene Flöte): im größten Unglück unterstützen.
+    # Three Ladies: Hiermit kannst du allmächtig handeln,
+    # Three Ladies: der Menschen Leidenschaft verwandeln,
+    # Three Ladies: der Traurige wird freudig sein,
+    # Three Ladies: den Hagestolz nimmt Liebe ein.
+    # All: O! so eine Flöte ist mehr
+    # All: als Gold und Kronen wert,
+    # All: denn durch sie wird Menschenglück
+    # All: und Zufriedenheit vermehrt.
+    # Papageno: Nun ihr schönen Frauenzimmer,
+    # Papageno: darf ich? So empfehl' ich mich.
+    # Three Ladies: Dich empfehlen kannst du immer,
+    # Three Ladies: doch bestimmt die Fürstin dich,
+    # Three Ladies: mit dem Prinzen ohn' Verweilen
+    # Three Ladies: nach Sarastros Burg zu eilen.
+    # Papageno: Nein dafür bedank' ich mich.
+    # Papageno: Von euch selbster hörte ich,
+    # Papageno: daß er wie ein Tigertier.
+    # Papageno: Sicher ließ' ohn' alle Gnaden
+    # Papageno: mich Sarastro rupfen, braten,
+    # Papageno: setzte mich den Hunden für.
+    # Three Ladies: Dich schützt der Prinz, trau ihm allein,
+    # Three Ladies: dafür sollst du sein Diener sein.
+    # Papageno (für sich): Daß doch der Prinz beim Teufel wäre.
+    # Papageno (für sich): Mein Leben ist mir lieb.
+    # Papageno (für sich): Am Ende schleicht, bei meiner Ehre,
+    # Papageno (für sich): er von mir wie ein Dieb. –
+    # First Lady (gibt ihm ein stahlnes Gelächter): Hier, nimm dies Kleinod, es ist dein.
+    # Papageno: Ei! ei! was mag darinnen sein? –
+    # Three Ladies: Darinnen hörst du Glöckchen tönen!
+    # Papageno: Werd' ich sie auch wohl spielen können?
+    # Three Ladies: O ganz gewiß! ja ja gewiß!
+    # All: Silberglöckchen, Zauberflöten
+    # All: sind zu eurem/unserm Schutz vonnöten!
+    # All: Lebet wohl! wir wollen gehn!
+    # All: Lebet wohl – auf Wiedersehn!
+    # Tamino: Doch schöne Damen saget an ...
+    # Papageno: ... wo man die Burg wohl finden kann? –
+    # Papageno: TAMINO und PAPAGENO
+    # Papageno: ... wo man die Burg wohl finden kann?
+    # Three Ladies: Drei Knäbchen, jung, schön, hold und weise
+    # Three Ladies: umschweben euch auf eurer Reise.
+    # Three Ladies: Sie werden eure Führer sein,
+    # Three Ladies: folgt ihrem Rate ganz allein.
+    # Three Ladies: TAMINO und PAPAGENO
+    # Three Ladies: Drei Knäbchen, jung, schön, hold und weise
+    # Three Ladies: umschweben uns auf uns'rer Reise? –
+    # Three Ladies: Sie werden eure Führer sein,
+    # Three Ladies: folgt ihrem Rate ganz allein.
+    # Three Ladies: TAMINO und PAPAGENO
+    # Three Ladies: So lebet wohl! wir wollen gehn;
+    # Three Ladies: lebt wohl, lebt wohl, auf Wiedersehn!
+    # All: So lebet wohl! wir wollen gehn!
+    # All: lebt wohl, lebt wohl, auf Wiedersehn!
+
+# ===========================================
+# SCENE 6: Nr. 6: Terzett
+# ===========================================
+    # Monostatos: Du feines Täubchen, nur herein.
+    # Pamina: O welche Marter, welche Pein!
+    # Monostatos: Verloren ist dein Leben.
+    # Pamina: Der Tod macht mich nicht beben;
+    # Pamina: nur meine Mutter dauert mich,
+    # Pamina: sie stirbt vor Gram ganz sicherlich.
+    # Monostatos: He, Sklaven, legt ihr Fesseln an;
+    # Monostatos: mein Haß soll dich verderben!
+    # Pamina: O laß mich lieber sterben,
+    # Pamina: weil nichts, Barbar! dich rühren kann.
+    # Monostatos: Nun fort! Nun fort!
+    # Monostatos: Laßt mich bei ihr allein.
+    # Papageno: Wo bin ich wohl?! wo mag ich sein?
+    # Papageno: Aha, da find' ich Leute, gewagt; ich geh' hinein.
+    # Papageno (geht hinein): Schön Mädchen jung und rein,
+    # Papageno (geht hinein): viel weißer noch als Kreide...
+    # Papageno (Monostatos und Papageno sehen sich, – erschrickt einer über den andern.): PAPAGENO und MONOSTATOS
+    # Papageno (Monostatos und Papageno sehen sich, – erschrickt einer über den andern.): Hu – – das ist – der Teufel sicherlich.
+    # Papageno (Monostatos und Papageno sehen sich, – erschrickt einer über den andern.): Hab Mitleid – verschone mich – Hu – Hu –
+
+# ===========================================
+# SCENE 7: Nr. 7: Duett
+# ===========================================
+    # Pamina: Bei Männern, welche Liebe fühlen,
+    # Pamina: fehlt auch ein gutes Herze nicht.
+    # Papageno: Die süßen Triebe mitzufühlen,
+    # Papageno: ist dann der Weiber erste Pflicht.
+    # Both: Wir wollen uns der Liebe freu'n,
+    # Both: wir leben durch die Lieb' allein.
+    # Pamina: Die Lieb' versüßet jede Plage,
+    # Pamina: ihr opfert jede Kreatur.
+    # Papageno: Sie würzet uns're Lebenstage,
+    # Papageno: sie wirkt im Kreise der Natur.
+    # Both: Ihr hoher Zweck zeigt deutlich an:
+    # Both: nichts Edler's sei, als Weib und Mann.
+    # Both: Mann und Weib, und Weib und Mann,
+    # Both: reichen an die Gottheit an.
+
+# ===========================================
+# SCENE 8: Nr. 8: Finale
+# ===========================================
+    # Three Boys: Zum Ziele führt dich diese Bahn,
+    # Three Boys: doch mußt du Jüngling männlich siegen,
+    # Three Boys: drum höre uns're Lehre an:
+    # Three Boys: Sei standhaft, duldsam, und verschwiegen! –
+    # Tamino: Ihr holden Knaben sagt mir an,
+    # Tamino: ob ich Pamina retten kann? –
+    # Three Boys: Dies kund zu tun steht uns nicht an;
+    # Three Boys: sei standhaft, duldsam und verschwiegen!
+    # Three Boys: Bedenke dies, kurz: sei ein Mann. –
+    # Three Boys: Dann Jüngling wirst du männlich siegen.
+    # Tamino: Die Weisheitslehre dieser Knaben
+    # Tamino: sei ewig mir ins Herz gegraben.
+    # Tamino: Wo bin ich nun? – Was wird mit mir?
+    # Tamino: Ist dies der Sitz der Götter hier? –
+    # Tamino: Es zeigen die Pforten – es zeigen die Säulen,
+    # Tamino: daß Klugheit, und Arbeit, und Künste hier weilen.
+    # Tamino: Wo Tätigkeit thronet und Müßiggang weicht,
+    # Tamino: erhält seine Herrschaft das Laster nicht leicht.
+    # Tamino: Ich wage mich mutig zur Pforte hinein.
+    # Tamino: Die Absicht ist edel, und lauter, und rein.
+    # Tamino: Erzitt're feiger Bösewicht!
+    # Tamino: Paminen retten ist mir Pflicht!
+    # First Voice: Zurück!
+    # Tamino: Zurück? zurück? – so wag ich hier mein Glück!
+    # Second Voice (von innen): Zurück!
+    # Tamino: Auch hier ruft man „zurück"?
+    # Tamino (sieht sich um): Da seh' ich noch eine Tür.
+    # Tamino (sieht sich um): Vielleicht find' ich den Eingang hier!
+    # Speaker: Wo willst du kühner Fremdling hin?
+    # Speaker: Was suchst du hier im Heiligtum? –
+    # Tamino: Der Lieb' und Tugend Eigentum.
+    # Speaker: Die Worte sind von hohem Sinn –
+    # Speaker: allein, wie willst du diese finden?
+    # Speaker: Dich leitet Lieb' und Tugend nicht,
+    # Speaker: weil Tod und Rache dich entzünden.
+    # Tamino: Nur Rache für den Bösewicht.
+    # Speaker: Den wirst du wohl bei uns nicht finden.
+    # Tamino: Sarastro herrscht in diesen Gründen?
+    # Speaker: Ja, ja, Sarastro herrschet hier.
+    # Tamino: Doch in der Weisheit Tempel nicht? –
+    # Speaker: Er herrscht im Weisheitstempel hier! –
+    # Tamino: So ist denn alles Heuchelei! –
+    # Speaker: Willst du schon wieder geh'n?
+    # Tamino: Ja ich will gehen, froh, und frei –
+    # Tamino: nie euren Tempel sehn! –
+    # Speaker: Erklär dich näher mir,
+    # Speaker: dich täuschet ein Betrug! –
+    # Tamino: Sarastro wohnet hier,
+    # Tamino: das ist mir schon genug! –
+    # Speaker: Wenn du dein Leben liebst, so rede, bleibe da! –
+    # Speaker: Sarastro hassest du?
+    # Tamino: Ich haß' ihn ewig, ja! –
+    # Speaker: So gib mir deine Gründe an! –
+    # Tamino: Er ist ein Unmensch, ein Tyrann! –
+    # Speaker: Ist das, was du gesagt, erwiesen?
+    # Tamino: Durch ein unglücklich Weib bewiesen,
+    # Tamino: das Gram und Jammer niederdrückt!
+    # Speaker: Ein Weib hat also dich berückt? –
+    # Speaker: Ein Weib tut wenig, plaudert viel,
+    # Speaker: du Jüngling glaubst dem Zungenspiel? –
+    # Speaker: O legte doch Sarastro dir
+    # Speaker: die Absicht seiner Handlung für. –
+    # Tamino: Die Absicht ist nur allzu klar!
+    # Tamino: Riß nicht der Räuber ohn' Erbarmen
+    # Tamino: Pamina aus der Mutter Armen? –
+    # Speaker: Ja Jüngling, was du sagst, ist wahr! –
+    # Tamino: Wo ist sie, die er uns geraubt?
+    # Tamino: Man opferte vielleicht sie schon? –
+    # Speaker: Dir dies zu sagen, teurer Sohn,
+    # Speaker: ist jetzt und mir noch nicht erlaubt. –
+    # Tamino: Erklär dies Rätsel, täusch mich nicht!
+    # Speaker: Die Zunge bindet Eid und Pflicht!
+    # Tamino: Wann also wird die Decke schwinden? –
+    # Speaker: Sobald dich führt der Freundschaft Hand
+    # Speaker: ins Heiligtum zum ew'gen Band.
+    # Tamino: O ew'ge Nacht! Wann wirst du schwinden?
+    # Tamino: Wann wird das Licht mein Auge finden? –
+    # Priests (von innen): Bald, Jüngling, oder nie!
+    # Tamino: Bald, sagt ihr, oder nie? –
+    # Tamino: Ihr Unsichtbaren saget mir:
+    # Tamino: lebt denn Pamina noch? –
+    # Priests: Pamina lebet noch!
+    # Tamino: Sie lebt, sie lebt!
+    # Tamino: Ich danke euch dafür.
+    # Tamino (nimmt seine Flöte heraus): O wenn ich doch im Stande wäre,
+    # Tamino (nimmt seine Flöte heraus): Allmächtige, zu eurer Ehre,
+    # Tamino (nimmt seine Flöte heraus): mit jedem Tone meinen Dank
+    # Tamino (nimmt seine Flöte heraus): zu schildern, wie er hier,
+    # Tamino (aufs Herz deutend): hier entsprang.
+    # Tamino (Er spielt. Es kommen wilde Tiere von allen Arten hervor, ihm zuzuhören. Er hört auf, und sie fliehen. Die Vögel pfeifen dazu.): Wie stark ist nicht dein Zauberton,
+    # Tamino (Er spielt. Es kommen wilde Tiere von allen Arten hervor, ihm zuzuhören. Er hört auf, und sie fliehen. Die Vögel pfeifen dazu.): weil holde Flöte durch dein Spielen
+    # Tamino (Er spielt. Es kommen wilde Tiere von allen Arten hervor, ihm zuzuhören. Er hört auf, und sie fliehen. Die Vögel pfeifen dazu.): selbst wilde Tiere Freude fühlen.
+    # Tamino (Er spielt. Es kommen wilde Tiere von allen Arten hervor, ihm zuzuhören. Er hört auf, und sie fliehen. Die Vögel pfeifen dazu.): Doch nur Pamina bleibt davon.
+    # Tamino (Er spielt. Es kommen wilde Tiere von allen Arten hervor, ihm zuzuhören. Er hört auf, und sie fliehen. Die Vögel pfeifen dazu.): Pamina! Pamina! höre, höre mich! –
+    # Tamino (Er spielt. Es kommen wilde Tiere von allen Arten hervor, ihm zuzuhören. Er hört auf, und sie fliehen. Die Vögel pfeifen dazu.): Umsonst, umsonst! –
+    # Tamino (Er spielt. Es kommen wilde Tiere von allen Arten hervor, ihm zuzuhören. Er hört auf, und sie fliehen. Die Vögel pfeifen dazu.): Wo? wo? wo? ach wo, wo find' ich dich? –
+    # Tamino (Papageno antwortet mit seinem Flötchen.): Ha, das ist Papagenos Ton! –
+    # Tamino (Papageno antwortet mit seinem Flötchen.): Vielleicht sah er Paminen schon! –
+    # Tamino (Papageno antwortet mit seinem Flötchen.): Vielleicht eilt sie mit ihm zu mir! –
+    # Tamino (Papageno antwortet mit seinem Flötchen.): Vielleicht führt mich der Ton zu ihr!
+    # Tamino (eilt ab): PAMINA und PAPAGENO
+    # Tamino (eilt ab): Schnelle Füße, rascher Mut,
+    # Tamino (eilt ab): schützt vor Feindes List und Wut.
+    # Tamino (eilt ab): Fänden wir Tamino doch,
+    # Tamino (eilt ab): sonst erwischen sie uns noch!
+    # Pamina: Holder Jüngling! –
+    # Papageno: Stille, stille, ich kann's besser! –
+    # Papageno (Papageno pfeift. Tamino antwortet von innen auf seiner Flöte.): PAMINA und PAPAGENO
+    # Papageno (Papageno pfeift. Tamino antwortet von innen auf seiner Flöte.): Welche Freude ist wohl größer,
+    # Papageno (Papageno pfeift. Tamino antwortet von innen auf seiner Flöte.): Freund Tamino hört uns schon,
+    # Papageno (Papageno pfeift. Tamino antwortet von innen auf seiner Flöte.): hieher kam der Flötenton.
+    # Papageno (Papageno pfeift. Tamino antwortet von innen auf seiner Flöte.): Welch ein Glück, wenn ich ihn finde,
+    # Papageno (Papageno pfeift. Tamino antwortet von innen auf seiner Flöte.): nur geschwinde, nur geschwinde!
+    # Monostatos (ihrer spottend): Nur geschwinde, nur geschwinde...
+    # Monostatos (ihrer spottend): Ha! – hab' ich euch noch erwischt!
+    # Monostatos (ihrer spottend): Nur herbei mit Stahl und Eisen;
+    # Monostatos (ihrer spottend): wart, man wird euch Mores weisen!
+    # Monostatos (ihrer spottend): Den Monostatos berücken! –
+    # Monostatos (ihrer spottend): Nun herbei mit Band und Stricken,
+    # Monostatos (ihrer spottend): he, ihr Sklaven kommt herbei! –
+    # Monostatos (ihrer spottend): PAMINA und PAPAGENO
+    # Monostatos (ihrer spottend): Ach! nun ist's mit uns vorbei!
+    # Monostatos: He! ihr Sklaven kommt herbei!
+    # Papageno: Wer viel wagt, gewinnt oft viel!
+    # Papageno: Komm, du schönes Glockenspiel,
+    # Papageno: laß die Glöckchen klingen, klingen,
+    # Papageno: daß die Ohren ihnen singen.
+    # Papageno (schlägt auf seinem Instrument): MONOSTATOS und DIE SKLAVEN
+    # Papageno (schlägt auf seinem Instrument): Das klinget so herrlich, das klinget so schön!
+    # Papageno (schlägt auf seinem Instrument): La ra la la la la ra la la la la ra la.
+    # Papageno (schlägt auf seinem Instrument): Nie hab' ich so etwas gehört und geseh'n!
+    # Papageno (schlägt auf seinem Instrument): La ra la la la la ra la la la la ra la.
+    # Papageno (gehen marschmäßig ab): PAMINA und PAPAGENO (lachen)
+    # Papageno (gehen marschmäßig ab): Könnte jeder brave Mann
+    # Papageno (gehen marschmäßig ab): solche Glöckchen finden,
+    # Papageno (gehen marschmäßig ab): seine Feinde würden dann
+    # Papageno (gehen marschmäßig ab): ohne Mühe schwinden.
+    # Papageno (gehen marschmäßig ab): Und er lebte ohne sie
+    # Papageno (gehen marschmäßig ab): in der besten Harmonie!
+    # Papageno (gehen marschmäßig ab): Nur der Freundschaft Harmonie
+    # Papageno (gehen marschmäßig ab): mildert die Beschwerden,
+    # Papageno (gehen marschmäßig ab): ohne diese Sympathie
+    # Papageno (gehen marschmäßig ab): ist kein Glück auf Erden.
+    # Entourage (von innen): Es lebe Sarastro! Sarastro lebe! –
+    # Papageno: Was soll dies bedeuten? Ich zitt're, ich bebe! –
+    # Pamina: O Freund! nun ist's um uns getan!
+    # Pamina: Dies kündigt den Sarastro an!
+    # Papageno: O wär' ich eine Maus,
+    # Papageno: wie wollt' ich mich verstecken,
+    # Papageno: wär' ich so klein wie Schnecken,
+    # Papageno: so kröch' ich in mein Haus! –
+    # Papageno: Mein Kind, was werden wir nun sprechen? –
+    # Pamina: Die Wahrheit – die Wahrheit, sei sie auch Verbrechen! –
+    # Entourage: Es lebe Sarastro, Sarastro soll leben!
+    # Entourage: Er ist es, dem wir uns mit Freuden ergeben!
+    # Entourage: Stets mög' er des Lebens als Weiser sich freu'n. –
+    # Entourage: Er ist unser Abgott, dem alle sich weih'n.
+    # Pamina (kniet): Herr, ich bin zwar Verbrecherin! –
+    # Pamina (kniet): Ich wollte deiner Macht entfliehn. –
+    # Pamina (kniet): Allein die Schuld ist nicht an mir!
+    # Pamina (kniet): Der böse Mohr verlangte Liebe,
+    # Pamina (kniet): darum, o Herr, entfloh ich dir! –
+    # Sarastro: Steh auf, erheit're dich, o Liebe,
+    # Sarastro: denn ohne erst in dich zu dringen,
+    # Sarastro: weiß ich von deinem Herzen mehr,
+    # Sarastro: du liebest einen ander'n sehr.
+    # Sarastro: Zur Liebe will ich dich nicht zwingen,
+    # Sarastro: doch geb' ich dir die Freiheit nicht.
+    # Pamina: Mich rufet ja die Kindespflicht,
+    # Pamina: denn meine Mutter –
+    # Sarastro: steht in meiner Macht,
+    # Sarastro: du würdest um dein Glück gebracht,
+    # Sarastro: wenn ich dich ihren Händen ließe. –
+    # Pamina: Mir klingt der Mutter Namen süße.
+    # Pamina: Sie ist es – sie ist es –
+    # Sarastro: und ein stolzes Weib. –
+    # Sarastro: Ein Mann muß eure Herzen leiten,
+    # Sarastro: denn ohne ihn pflegt jedes Weib
+    # Sarastro: aus ihrem Wirkungskreis zu schreiten.
+    # Monostatos: Nun, stolzer Jüngling; nur hierher!
+    # Monostatos: Hier ist Sarastro, unser Herr! –
+    # Pamina: Er ist's,
+    # Tamino: Sie ist's,
+    # Pamina: ich glaub' es kaum,
+    # Tamino: sie ist's,
+    # Pamina: er ist's.
+    # Tamino: es ist kein Traum.
+    # Tamino: PAMINA und TAMINO
+    # Tamino: Es schling' mein Arm sich um ihn/sie her,
+    # Tamino: und wenn es auch mein Ende wär'!
+    # Entourage: Was soll das heißen?
+    # Monostatos: Welch eine Dreistigkeit!
+    # Monostatos: Gleich auseinander, das geht zu weit!
+    # Monostatos (trennt sie, kniet): Dein Sklave liegt zu deinen Füßen,
+    # Monostatos (trennt sie, kniet): laß den verweg'nen Frevler büßen.
+    # Monostatos (trennt sie, kniet): Bedenk, wie frech der Knabe ist!
+    # Monostatos (trennt sie, kniet): Durch dieses selt'nen Vogels List
+    # Monostatos (trennt sie, kniet): wollt' er Pamina dir entführen,
+    # Monostatos (trennt sie, kniet): allein, ich wußt' ihn aufzuspüren.
+    # Monostatos (trennt sie, kniet): Du kennst mich! – meine Wachsamkeit –
+    # Sarastro: verdient, daß man ihr Lorbeer streut!
+    # Sarastro: He! gebt dem Ehrenmann sogleich –
+    # Monostatos: Schon deine Gnade macht mich reich! –
+    # Sarastro: nur sieben und siebenzig Sohlenstreich'.
+    # Monostatos: Ach Herr, den Lohn verhofft' ich nicht.
+    # Sarastro: Nicht Dank! Es ist ja meine Pflicht!
+    # Entourage: Es lebe Sarastro, der göttliche Weise,
+    # Entourage: er lohnet, und strafet in ähnlichem Kreise.
+    # Sarastro: Führt diese beiden Fremdlinge
+    # Sarastro: in unser'n Prüfungstempel ein,
+    # Sarastro: bedecket ihre Häupter dann –
+    # Sarastro: sie müssen erst gereinigt sein.
+    # Entourage: Wenn Tugend und Gerechtigkeit
+    # Entourage: den Großen Pfad mit Ruhm bestreu'n,
+    # Entourage: dann ist die Erd' ein Himmelreich,
+    # Entourage: und Sterbliche den Göttern gleich.

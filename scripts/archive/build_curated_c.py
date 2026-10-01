@@ -1,0 +1,2239 @@
+import json
+
+# Define the curated entries for all 100 lines of Falstaff Act 1 Scene 2 Part C
+
+entries = {
+  "Badate!": [
+    "Watch out!",
+    [
+      {
+        "word": "Badate",
+        "lemma": "badare",
+        "pos": "verb",
+        "meaning": "watch out / pay attention (2nd person plural imperative)"
+      },
+      {
+        "word": "badare",
+        "lemma": "badare",
+        "pos": "verb",
+        "meaning": "to pay attention / heed / be on guard"
+      }
+    ],
+    "Bardolfo urgently warns Ford to be on guard. Second-person plural imperative of 'badare' (to heed, watch out). Having been expelled by Falstaff for refusing to carry the letters on grounds of 'honor', Bardolfo cynically betrays his master to Ford for profit."
+  ],
+  "Falstaff le occhieggia tutte,": [
+    "Falstaff ogles them all,",
+    [
+      {
+        "word": "Falstaff",
+        "lemma": "Falstaff",
+        "pos": "noun",
+        "meaning": "Falstaff (proper name)"
+      },
+      {
+        "word": "le",
+        "lemma": "le",
+        "pos": "pronoun",
+        "meaning": "them (feminine plural direct object clitic pronoun)"
+      },
+      {
+        "word": "occhieggia",
+        "lemma": "occhieggiare",
+        "pos": "verb",
+        "meaning": "ogles / casts amorous glances at (3rd person singular present)"
+      },
+      {
+        "word": "tutte",
+        "lemma": "tutto",
+        "pos": "adjective",
+        "meaning": "all / every one (feminine plural)"
+      }
+    ],
+    "Pistola chimes in to fuel Ford's anxiety. 'Occhieggiare' is a vivid frequentative verb formed from 'occhio' (eye), meaning to eye up or flirt with the eyes. The clitic 'le' refers to women in general, emphasizing Falstaff's indiscriminate lust."
+  ],
+  "che siano belle o brutte,": [
+    "whether they be fair or foul,",
+    [
+      {
+        "word": "che",
+        "lemma": "che",
+        "pos": "conjunction",
+        "meaning": "whether / that (concessive conjunction)"
+      },
+      {
+        "word": "siano",
+        "lemma": "essere",
+        "pos": "verb",
+        "meaning": "they be (present subjunctive 3rd person plural of essere)"
+      },
+      {
+        "word": "belle",
+        "lemma": "bello",
+        "pos": "adjective",
+        "meaning": "beautiful / fair (feminine plural)"
+      },
+      {
+        "word": "brutte",
+        "lemma": "brutto",
+        "pos": "adjective",
+        "meaning": "ugly / foul (feminine plural)"
+      }
+    ],
+    "Subjunctive 'siano' introduced by correlative 'che... o...' expresses an alternative condition ('whether they are... or...'). Pistola paints Falstaff as a ravenous monster who spares no woman regardless of appearance."
+  ],
+  "pulzelle o maritate.": [
+    "maidens or married women.",
+    [
+      {
+        "word": "pulzelle",
+        "lemma": "pulzella",
+        "pos": "noun",
+        "meaning": "maidens / damsels / virgins (literary feminine plural)"
+      },
+      {
+        "word": "o",
+        "lemma": "o",
+        "pos": "conjunction",
+        "meaning": "or"
+      },
+      {
+        "word": "maritate",
+        "lemma": "maritata",
+        "pos": "noun",
+        "meaning": "married women / matrons (feminine plural)"
+      }
+    ],
+    "'Pulzella' is an archaic, literary Italian word for an unmarried maiden (cognate with French 'pucelle'). 'Maritate' functions substantively for married women. The pairing underscores Falstaff's total disregard for social propriety."
+  ],
+  "La corona che adorna": [
+    "The crown that adorns",
+    [
+      {
+        "word": "corona",
+        "lemma": "corona",
+        "pos": "noun",
+        "meaning": "crown / wreath"
+      },
+      {
+        "word": "che",
+        "lemma": "che",
+        "pos": "pronoun",
+        "meaning": "that / which (relative pronoun)"
+      },
+      {
+        "word": "adorna",
+        "lemma": "adornare",
+        "pos": "verb",
+        "meaning": "adorns / decorates (3rd person singular present)"
+      }
+    ],
+    "Bardolfo begins a pompous, mythological circumlocution for cuckold's horns. Boito uses elevated poetic diction ('corona', 'chiome') in a mock-heroic vein to terrify the bourgeois Ford."
+  ],
+  "d'Atteòn l'irte chiome": [
+    "of Actaeon the bristling locks",
+    [
+      {
+        "word": "Atteòn",
+        "lemma": "Atteone",
+        "pos": "noun",
+        "meaning": "Actaeon (mythological hunter transformed into a horned stag)"
+      },
+      {
+        "word": "irte",
+        "lemma": "irto",
+        "pos": "adjective",
+        "meaning": "bristling / shaggy / rough (feminine plural)"
+      },
+      {
+        "word": "chiome",
+        "lemma": "chioma",
+        "pos": "noun",
+        "meaning": "hair / locks / mane (poetic feminine plural)"
+      }
+    ],
+    "Mythological allusion to Actaeon (Atteone), who was turned into a stag with antlers after seeing Diana bathing. Antlers are the classic Renaissance symbol of cuckoldry. 'Irte' describes the rough, bristling hair of the beast."
+  ],
+  "su voi già spunta.": [
+    "upon you already sprouts.",
+    [
+      {
+        "word": "su",
+        "lemma": "su",
+        "pos": "preposition",
+        "meaning": "upon / on"
+      },
+      {
+        "word": "voi",
+        "lemma": "voi",
+        "pos": "pronoun",
+        "meaning": "you (plural / formal)"
+      },
+      {
+        "word": "già",
+        "lemma": "già",
+        "pos": "adverb",
+        "meaning": "already"
+      },
+      {
+        "word": "spunta",
+        "lemma": "spuntare",
+        "pos": "verb",
+        "meaning": "sprouts / buds / emerges (3rd person singular present)"
+      }
+    ],
+    "Completes the sentence: 'La corona che adorna d'Atteòn l'irte chiome su voi già spunta'. 'Spuntare' evokes the physical sprouting of horns on Ford's forehead. Lowercase opening preserves the syntactic continuation."
+  ],
+  "Come": [
+    "How",
+    [
+      {
+        "word": "Come",
+        "lemma": "come",
+        "pos": "adverb",
+        "meaning": "how / in what manner (interrogative adverb)"
+      },
+      {
+        "word": "come",
+        "lemma": "come",
+        "pos": "conjunction",
+        "meaning": "how / as"
+      }
+    ],
+    "Ford, taken aback by Bardolfo's grandiose classical circumlocution, interrupts in confusion. His query carries over to the next line ('sarebbe a dir?')."
+  ],
+  "sarebbe a dir?": [
+    "would that be to say?",
+    [
+      {
+        "word": "sarebbe",
+        "lemma": "essere",
+        "pos": "verb",
+        "meaning": "would be (conditional present 3rd person singular)"
+      },
+      {
+        "word": "dir",
+        "lemma": "dire",
+        "pos": "verb",
+        "meaning": "say (apocopated infinitive of dire)"
+      },
+      {
+        "word": "sarebbe a dir",
+        "lemma": "essere a dire",
+        "pos": "idiom",
+        "meaning": "what does that mean / that is to say?"
+      }
+    ],
+    "The phrase 'sarebbe a dir' is an idiomatic expression meaning 'what is that supposed to mean?' or 'that is to say?'. 'Dir' is the standard apocope of infinitive 'dire'."
+  ],
+  "«Le corna.»": [
+    "«The horns.»",
+    [
+      {
+        "word": "corna",
+        "lemma": "corno",
+        "pos": "noun",
+        "meaning": "horns (irregular feminine plural of masculine noun corno)"
+      },
+      {
+        "word": "Le corna",
+        "lemma": "le corna",
+        "pos": "idiom",
+        "meaning": "cuckold's horns / sign of a betrayed husband"
+      }
+    ],
+    "Bardolfo drops the poetic mask and blurts out the blunt, taboo term: 'Le corna' (the horns of cuckoldry). Italian 'corno' has the irregular feminine plural 'corna' when referring to anatomical horns or cuckoldry."
+  ],
+  "Brutta parola!": [
+    "Ugly word!",
+    [
+      {
+        "word": "Brutta",
+        "lemma": "brutto",
+        "pos": "adjective",
+        "meaning": "ugly / foul / unpleasant (feminine singular)"
+      },
+      {
+        "word": "parola",
+        "lemma": "parola",
+        "pos": "noun",
+        "meaning": "word"
+      }
+    ],
+    "Ford is visibly repulsed and shocked. 'Brutta parola' expresses his horror at the vulgar accusation of cuckoldry, touching the raw nerve of his latent jealousy."
+  ],
+  "Ha voglie": [
+    "Has desires",
+    [
+      {
+        "word": "Ha",
+        "lemma": "avere",
+        "pos": "verb",
+        "meaning": "has (3rd person singular present of avere)"
+      },
+      {
+        "word": "voglie",
+        "lemma": "voglia",
+        "pos": "noun",
+        "meaning": "desires / cravings / longings (feminine plural)"
+      }
+    ],
+    "Dr. Caius interjects to stoke Ford's fury, eager to take revenge on Falstaff for the burglary and insults of Scene 1. Enjambment carries into the next line ('voraci il cavaliere')."
+  ],
+  "voraci il cavaliere.": [
+    "voracious the knight.",
+    [
+      {
+        "word": "voraci",
+        "lemma": "vorace",
+        "pos": "adjective",
+        "meaning": "voracious / ravenous (plural)"
+      },
+      {
+        "word": "cavaliere",
+        "lemma": "cavaliere",
+        "pos": "noun",
+        "meaning": "knight / gentleman"
+      }
+    ],
+    "Inverted word order ('voglie voraci il cavaliere') gives rhetorical weight to 'voraci'. Caius paints Falstaff not just as an admirer, but as a predatory glutton."
+  ],
+  "Sorveglierò la moglie.": [
+    "I will watch over my wife.",
+    [
+      {
+        "word": "Sorveglierò",
+        "lemma": "sorvegliare",
+        "pos": "verb",
+        "meaning": "I will keep under surveillance / watch over (1st person singular future)"
+      },
+      {
+        "word": "moglie",
+        "lemma": "moglie",
+        "pos": "noun",
+        "meaning": "wife"
+      }
+    ],
+    "Ford resolves to spy on his household. Note Italian syntax: 'la moglie' with definite article translates naturally into English with a possessive determiner ('my wife'). Ford's jealousy mirrors Shakespeare's Othello, but Verdi and Boito set it in a comedic, manic key."
+  ],
+  "Sorveglierò il messere.": [
+    "I will watch over the master.",
+    [
+      {
+        "word": "Sorveglierò",
+        "lemma": "sorvegliare",
+        "pos": "verb",
+        "meaning": "I will keep under surveillance / watch over (1st person singular future)"
+      },
+      {
+        "word": "messere",
+        "lemma": "messere",
+        "pos": "noun",
+        "meaning": "master / sir / gentleman (archaic honorific)"
+      }
+    ],
+    "Parallel structure with the preceding line. 'Messere' is an archaic Italian honorific (derived from French 'messire'), used here with bitter sarcasm toward Falstaff."
+  ],
+  "Salvar vo' i beni miei": [
+    "I want to save my possessions",
+    [
+      {
+        "word": "Salvar",
+        "lemma": "salvare",
+        "pos": "verb",
+        "meaning": "save / protect (apocopated infinitive)"
+      },
+      {
+        "word": "vo'",
+        "lemma": "volere",
+        "pos": "verb",
+        "meaning": "I want (apocopated poetic form of voglio)"
+      },
+      {
+        "word": "beni",
+        "lemma": "bene",
+        "pos": "noun",
+        "meaning": "goods / possessions / property (masculine plural)"
+      },
+      {
+        "word": "miei",
+        "lemma": "mio",
+        "pos": "pronoun",
+        "meaning": "my / mine (possessive adjective/pronoun, masculine plural)"
+      }
+    ],
+    "Ford characteristically treats his wife and honor as personal property ('i beni miei'). 'Vo'' is the apocopated poetic form of 'voglio' (I want). Natural Italian determiner syntax 'i beni miei' -> 'my possessions'."
+  ],
+  "dagli appetiti altrui.": [
+    "from other people's appetites.",
+    [
+      {
+        "word": "dagli",
+        "lemma": "da",
+        "pos": "preposition",
+        "meaning": "from the (articulated preposition da + gli)"
+      },
+      {
+        "word": "appetiti",
+        "lemma": "appetito",
+        "pos": "noun",
+        "meaning": "appetites / cravings (masculine plural)"
+      },
+      {
+        "word": "altrui",
+        "lemma": "altrui",
+        "pos": "adjective",
+        "meaning": "of others / other people's (invariable possessive)"
+      }
+    ],
+    "Ford sees Falstaff as an encroaching predator trying to consume his property. 'Altrui' is an invariable possessive modifier meaning 'of another' or 'other people's'."
+  ],
+  "È lui.": [
+    "It is he.",
+    [
+      {
+        "word": "È",
+        "lemma": "essere",
+        "pos": "verb",
+        "meaning": "is (3rd person singular present of essere)"
+      },
+      {
+        "word": "lui",
+        "lemma": "lui",
+        "pos": "pronoun",
+        "meaning": "he / him (3rd person masculine disjunctive pronoun)"
+      }
+    ],
+    "Alice Ford spots her husband Ford approaching in the garden. In Italian, disjunctive 'lui' after the copula 'è' serves as the predicate pronoun ('it is he')."
+  ],
+  "È lei.": [
+    "It is she.",
+    [
+      {
+        "word": "È",
+        "lemma": "essere",
+        "pos": "verb",
+        "meaning": "is (3rd person singular present of essere)"
+      },
+      {
+        "word": "lei",
+        "lemma": "lei",
+        "pos": "pronoun",
+        "meaning": "she / her (3rd person feminine disjunctive pronoun)"
+      }
+    ],
+    "Dr. Caius spots Alice Ford across the garden. The simultaneous cross-reactions of the men and women create Verdi's intricate, kinetic ensemble counterpoint."
+  ],
+  "S'egli sapesse!...": [
+    "If he only knew!...",
+    [
+      {
+        "word": "S'",
+        "lemma": "se",
+        "pos": "conjunction",
+        "meaning": "if (elided form of se before vowel)"
+      },
+      {
+        "word": "egli",
+        "lemma": "egli",
+        "pos": "pronoun",
+        "meaning": "he (literary 3rd person masculine subject pronoun)"
+      },
+      {
+        "word": "sapesse",
+        "lemma": "sapere",
+        "pos": "verb",
+        "meaning": "knew / were to know (3rd person singular imperfect subjunctive)"
+      }
+    ],
+    "Alice imagines the explosive catastrophe if Ford were to find out about Falstaff's love letter. Imperfect subjunctive 'sapesse' in an exclamatory protasis conveys apprehension of an unrealized event."
+  ],
+  "Guai!": [
+    "Trouble!",
+    [
+      {
+        "word": "Guai",
+        "lemma": "guaio",
+        "pos": "noun",
+        "meaning": "troubles / woes / disaster (plural used interjectionally)"
+      },
+      {
+        "word": "guaio",
+        "lemma": "guaio",
+        "pos": "noun",
+        "meaning": "trouble / woe / calamity"
+      }
+    ],
+    "Nannetta gasps in dread. 'Guai' (plural of 'guaio') functions as an alarming exclamation warning of ruinous consequences should Ford discover what has transpired."
+  ],
+  "Schiviamo i passi suoi.": [
+    "Let us avoid his path.",
+    [
+      {
+        "word": "Schiviamo",
+        "lemma": "schivare",
+        "pos": "verb",
+        "meaning": "let us avoid / dodge (1st person plural present/imperative)"
+      },
+      {
+        "word": "passi",
+        "lemma": "passo",
+        "pos": "noun",
+        "meaning": "steps / footsteps / path (masculine plural)"
+      },
+      {
+        "word": "suoi",
+        "lemma": "suo",
+        "pos": "adjective",
+        "meaning": "his (possessive adjective, masculine plural)"
+      }
+    ],
+    "Alice urges the women to evade Ford's approach. 'Schivare' means to dodge, sidestep, or evade. 'I passi suoi' is a poetic metonymy for his steps or path."
+  ],
+  "Ford è geloso?": [
+    "Is Ford jealous?",
+    [
+      {
+        "word": "Ford",
+        "lemma": "Ford",
+        "pos": "noun",
+        "meaning": "Ford (proper name)"
+      },
+      {
+        "word": "è",
+        "lemma": "essere",
+        "pos": "verb",
+        "meaning": "is (3rd person singular present)"
+      },
+      {
+        "word": "geloso",
+        "lemma": "geloso",
+        "pos": "adjective",
+        "meaning": "jealous (masculine singular)"
+      }
+    ],
+    "Meg Page asks Alice about Ford's temperament. Ford's jealousy is the driving engine of the comic subplot, setting up his impending disguised visit to Falstaff as 'Signor Fontana'."
+  ],
+  "Assai.": [
+    "Very much.",
+    [
+      {
+        "word": "Assai",
+        "lemma": "assai",
+        "pos": "adverb",
+        "meaning": "very / very much / exceedingly"
+      },
+      {
+        "word": "assai",
+        "lemma": "assai",
+        "pos": "adverb",
+        "meaning": "greatly / to a high degree"
+      }
+    ],
+    "Alice confirms Ford's suspicious nature with succinct, dry understatement: 'Assai' (exceedingly / very much so)."
+  ],
+  "Zitto.": [
+    "Quiet.",
+    [
+      {
+        "word": "Zitto",
+        "lemma": "zitto",
+        "pos": "interjection",
+        "meaning": "hush / quiet / silent"
+      },
+      {
+        "word": "zitto",
+        "lemma": "zitto",
+        "pos": "adjective",
+        "meaning": "silent / still"
+      }
+    ],
+    "Mistress Quickly silences the women as the male conspirators cross their path in the garden. 'Zitto' functions as an urgent interjection commanding hush."
+  ],
+  "Alice, Meg e Quickly escono da sinistra. Resta Nannetta.": [
+    "Alice, Meg, and Quickly exit from the left. Nannetta remains.",
+    [
+      {
+        "word": "escono",
+        "lemma": "uscire",
+        "pos": "verb",
+        "meaning": "they exit / go out (3rd person plural present)"
+      },
+      {
+        "word": "sinistra",
+        "lemma": "sinistra",
+        "pos": "noun",
+        "meaning": "left (stage direction)"
+      },
+      {
+        "word": "Resta",
+        "lemma": "restare",
+        "pos": "verb",
+        "meaning": "remains / stays behind (3rd person singular present)"
+      },
+      {
+        "word": "Nannetta",
+        "lemma": "Nannetta",
+        "pos": "noun",
+        "meaning": "Nannetta (proper name)"
+      }
+    ],
+    "Stage direction marking the strategic departure of the three older women, leaving young Nannetta behind in the Windsor garden."
+  ],
+  "Ford, Dr. Cajus, Bardolfo e Pistola escono da destra. Resta Fenton.": [
+    "Ford, Dr. Caius, Bardolfo, and Pistola exit from the right. Fenton remains.",
+    [
+      {
+        "word": "escono",
+        "lemma": "uscire",
+        "pos": "verb",
+        "meaning": "they exit / go out (3rd person plural present)"
+      },
+      {
+        "word": "destra",
+        "lemma": "destra",
+        "pos": "noun",
+        "meaning": "right (stage direction)"
+      },
+      {
+        "word": "Resta",
+        "lemma": "restare",
+        "pos": "verb",
+        "meaning": "remains / stays behind (3rd person singular present)"
+      },
+      {
+        "word": "Fenton",
+        "lemma": "Fenton",
+        "pos": "noun",
+        "meaning": "Fenton (proper name)"
+      }
+    ],
+    "Stage direction indicating that the male plotting faction exits stage right, leaving Fenton alone on stage with Nannetta. This sets the stage for their stolen lyric duet."
+  ],
+  "Pst, pst, Nannetta.": [
+    "Psst, psst, Nannetta.",
+    [
+      {
+        "word": "Pst",
+        "lemma": "pst",
+        "pos": "interjection",
+        "meaning": "psst (whispered call to attract attention)"
+      },
+      {
+        "word": "Nannetta",
+        "lemma": "Nannetta",
+        "pos": "noun",
+        "meaning": "Nannetta (proper name / diminutive of Anna)"
+      }
+    ],
+    "Fenton's hushed whisper as he beckons Nannetta the moment the adults leave. The whispering onomatopoeia 'pst' contrasts brilliantly with the bustling nine-part polyphony of the ensembles."
+  ],
+  "Sss.": [
+    "Shh.",
+    [
+      {
+        "word": "Sss",
+        "lemma": "sss",
+        "pos": "interjection",
+        "meaning": "shh / hush (sibilant sound urging silence)"
+      },
+      {
+        "word": "silenzio",
+        "lemma": "silenzio",
+        "pos": "noun",
+        "meaning": "silence / hush"
+      }
+    ],
+    "Nannetta's cautionary sibilant response, warning Fenton to be careful even as she yields to his presence."
+  ],
+  "Vien qua.": [
+    "Come here.",
+    [
+      {
+        "word": "Vien",
+        "lemma": "venire",
+        "pos": "verb",
+        "meaning": "come (apocopated 2nd person singular imperative of venire)"
+      },
+      {
+        "word": "qua",
+        "lemma": "qua",
+        "pos": "adverb",
+        "meaning": "here / over here"
+      }
+    ],
+    "Fenton draws Nannetta into a secluded corner of the garden. 'Vien' is the standard apocopated imperative form of 'vieni'."
+  ],
+  "Taci.": [
+    "Be quiet.",
+    [
+      {
+        "word": "Taci",
+        "lemma": "tacere",
+        "pos": "verb",
+        "meaning": "be quiet / hush (2nd person singular imperative)"
+      },
+      {
+        "word": "tacere",
+        "lemma": "tacere",
+        "pos": "verb",
+        "meaning": "to be silent / keep quiet"
+      }
+    ],
+    "Second-person singular imperative of 'tacere' (to be silent). Nannetta shushes Fenton playfully while leaning in close."
+  ],
+  "Che vuoi?": [
+    "What do you want?",
+    [
+      {
+        "word": "Che",
+        "lemma": "che",
+        "pos": "pronoun",
+        "meaning": "what (interrogative pronoun)"
+      },
+      {
+        "word": "vuoi",
+        "lemma": "volere",
+        "pos": "verb",
+        "meaning": "you want (2nd person singular present of volere)"
+      }
+    ],
+    "Nannetta feigns ignorance, prompting Fenton to declare his romantic desire. 'Vuoi' is the second-person singular present of irregular verb 'volere'."
+  ],
+  "Due baci.": [
+    "Two kisses.",
+    [
+      {
+        "word": "Due",
+        "lemma": "due",
+        "pos": "adjective",
+        "meaning": "two (cardinal numeral)"
+      },
+      {
+        "word": "baci",
+        "lemma": "bacio",
+        "pos": "noun",
+        "meaning": "kisses (masculine plural)"
+      }
+    ],
+    "Fenton's ardent, direct request: 'Due baci' (two kisses). Verdi accompanies this motif with a soaring, pure lyrical phrase in the woodwinds and strings."
+  ],
+  "In fretta.": [
+    "In haste.",
+    [
+      {
+        "word": "In",
+        "lemma": "in",
+        "pos": "preposition",
+        "meaning": "in"
+      },
+      {
+        "word": "fretta",
+        "lemma": "fretta",
+        "pos": "noun",
+        "meaning": "haste / hurry"
+      },
+      {
+        "word": "in fretta",
+        "lemma": "in fretta",
+        "pos": "idiom",
+        "meaning": "in haste / quickly / hurriedly"
+      }
+    ],
+    "Prepositional phrase 'in fretta' functioning adverbially (quickly, in haste). Nannetta agrees, but warns him of the extreme danger of discovery."
+  ],
+  "Labbra di foco!": [
+    "Lips of fire!",
+    [
+      {
+        "word": "Labbra",
+        "lemma": "labbro",
+        "pos": "noun",
+        "meaning": "lips (irregular feminine plural of masculine noun labbro)"
+      },
+      {
+        "word": "di",
+        "lemma": "di",
+        "pos": "preposition",
+        "meaning": "of"
+      },
+      {
+        "word": "foco",
+        "lemma": "fuoco",
+        "pos": "noun",
+        "meaning": "fire / flame / passion (poetic monophthong variant of fuoco)"
+      }
+    ],
+    "Nannetta begins a rapid exchange of poetic conceits. 'Foco' is the traditional Italian poetic monophthong for 'fuoco'. 'Labbra' is the irregular feminine plural of masculine 'labbro'."
+  ],
+  "Labbra di fiore!...": [
+    "Lips of flower!...",
+    [
+      {
+        "word": "Labbra",
+        "lemma": "labbro",
+        "pos": "noun",
+        "meaning": "lips (irregular feminine plural of masculine noun labbro)"
+      },
+      {
+        "word": "di",
+        "lemma": "di",
+        "pos": "preposition",
+        "meaning": "of"
+      },
+      {
+        "word": "fiore",
+        "lemma": "fiore",
+        "pos": "noun",
+        "meaning": "flower / blossom"
+      }
+    ],
+    "Fenton answers her metaphor with floral imagery ('foco' / 'fiore'), continuing their lyrical stichomythia in rhyming quinari/senari."
+  ],
+  "Che il vago gioco": [
+    "That the charming game",
+    [
+      {
+        "word": "Che",
+        "lemma": "che",
+        "pos": "pronoun",
+        "meaning": "that / which (relative pronoun referring to lips)"
+      },
+      {
+        "word": "vago",
+        "lemma": "vago",
+        "pos": "adjective",
+        "meaning": "charming / graceful / lovely / wandering"
+      },
+      {
+        "word": "gioco",
+        "lemma": "gioco",
+        "pos": "noun",
+        "meaning": "game / play"
+      }
+    ],
+    "Relative clause describing their lips. 'Vago' in Italian lyric poetry conveys grace, beauty, and elusive charm. The sentence resolves in the next line ('sanno d'amore')."
+  ],
+  "sanno d'amore.": [
+    "know of love.",
+    [
+      {
+        "word": "sanno",
+        "lemma": "sapere",
+        "pos": "verb",
+        "meaning": "know / have the flavor of (3rd person plural present of sapere)"
+      },
+      {
+        "word": "d'",
+        "lemma": "di",
+        "pos": "preposition",
+        "meaning": "of (elided form of di before vowel)"
+      },
+      {
+        "word": "amore",
+        "lemma": "amore",
+        "pos": "noun",
+        "meaning": "love"
+      }
+    ],
+    "Idiomatic construction 'sapere di' means both 'to know / have expertise in' and 'to taste / smell of' love. The lowercase opening marks the syntactic continuation from 'Che il vago gioco'."
+  ],
+  "Che spargon ciarle,": [
+    "That scatter chatter,",
+    [
+      {
+        "word": "spargon",
+        "lemma": "spargere",
+        "pos": "verb",
+        "meaning": "scatter / shed / diffuse (poetic apocope of spargono)"
+      },
+      {
+        "word": "ciarle",
+        "lemma": "ciarla",
+        "pos": "noun",
+        "meaning": "chatter / prattle / gossip (feminine plural)"
+      }
+    ],
+    "Fenton continues the praise of Nannetta's lips. 'Spargon' is the poetic truncation of 'spargono' (they scatter). 'Ciarle' denotes sweet, innocent gossip and prattle."
+  ],
+  "che mostran perle,": [
+    "that reveal pearls,",
+    [
+      {
+        "word": "mostran",
+        "lemma": "mostrare",
+        "pos": "verb",
+        "meaning": "show / reveal (poetic apocope of mostrano)"
+      },
+      {
+        "word": "perle",
+        "lemma": "perla",
+        "pos": "noun",
+        "meaning": "pearls (feminine plural; poetic metaphor for white teeth)"
+      }
+    ],
+    "Petrarchan poetic conceit where 'perle' (pearls) represents sparkling white teeth behind parted lips. 'Mostran' is apocopated from 'mostrano'."
+  ],
+  "belle a vederle,": [
+    "beautiful to behold,",
+    [
+      {
+        "word": "belle",
+        "lemma": "bello",
+        "pos": "adjective",
+        "meaning": "beautiful / lovely (feminine plural)"
+      },
+      {
+        "word": "a",
+        "lemma": "a",
+        "pos": "preposition",
+        "meaning": "to"
+      },
+      {
+        "word": "vederle",
+        "lemma": "vedere",
+        "pos": "verb",
+        "meaning": "to see them / behold them (infinitive vedere + clitic pronoun le)"
+      }
+    ],
+    "Infinitive construction with enclitic direct object pronoun 'le' (referring to 'labbra'): 'vederle' (to see them). 'Belle a vederle' balances aesthetics with romantic passion."
+  ],
+  "dolci a baciarle!": [
+    "sweet to kiss!",
+    [
+      {
+        "word": "dolci",
+        "lemma": "dolce",
+        "pos": "adjective",
+        "meaning": "sweet (plural)"
+      },
+      {
+        "word": "a",
+        "lemma": "a",
+        "pos": "preposition",
+        "meaning": "to"
+      },
+      {
+        "word": "baciarle",
+        "lemma": "baciare",
+        "pos": "verb",
+        "meaning": "to kiss them (infinitive baciare + clitic pronoun le)"
+      }
+    ],
+    "Syntactic twin to the preceding line ('belle a vederle' / 'dolci a baciarle'), moving from sight to touch. The enclitic '-le' refers back to 'labbra'."
+  ],
+  "Labbra leggiadre!": [
+    "Graceful lips!",
+    [
+      {
+        "word": "Labbra",
+        "lemma": "labbro",
+        "pos": "noun",
+        "meaning": "lips (irregular feminine plural of masculine noun labbro)"
+      },
+      {
+        "word": "leggiadre",
+        "lemma": "leggiadro",
+        "pos": "adjective",
+        "meaning": "graceful / charming / lovely / delicate (feminine plural)"
+      }
+    ],
+    "Fenton's rapturous exclamation. 'Leggiadro' is a quintessentially lyrical Italian adjective evoking elegance, courtly beauty, and lightness."
+  ],
+  "Man malandrine!": [
+    "Roguish hands!",
+    [
+      {
+        "word": "Man",
+        "lemma": "mano",
+        "pos": "noun",
+        "meaning": "hands (poetic apocope of feminine plural mani)"
+      },
+      {
+        "word": "malandrine",
+        "lemma": "malandrino",
+        "pos": "adjective",
+        "meaning": "roguish / thievish / mischievous (feminine plural)"
+      }
+    ],
+    "Nannetta gently rebukes Fenton as his hands wander. 'Man' is the poetic apocope of feminine plural 'mani'. 'Malandrine' means roguish, crafty, or thieving."
+  ],
+  "Ciglia assassine!": [
+    "Lethal eyelashes!",
+    [
+      {
+        "word": "Ciglia",
+        "lemma": "ciglio",
+        "pos": "noun",
+        "meaning": "eyelashes / brows (irregular feminine plural of masculine noun ciglio)"
+      },
+      {
+        "word": "assassine",
+        "lemma": "assassino",
+        "pos": "adjective",
+        "meaning": "murderous / lethal / heart-slaying (feminine plural)"
+      }
+    ],
+    "Fenton playfully invokes the Italian lyric trope of the lady's glance as a deadly weapon that slays the lover's heart. 'Ciglia' is an irregular feminine plural noun."
+  ],
+  "Pupille ladre!": [
+    "Thievish pupils!",
+    [
+      {
+        "word": "Pupille",
+        "lemma": "pupilla",
+        "pos": "noun",
+        "meaning": "pupils / eyes (feminine plural)"
+      },
+      {
+        "word": "ladre",
+        "lemma": "ladro",
+        "pos": "adjective",
+        "meaning": "thievish / stealing (feminine plural)"
+      }
+    ],
+    "Continuing the poetic duel of compliments: Nannetta's eyes steal his peace and heart. 'Pupille ladre' pairs rhythmically with 'ciglia assassine'."
+  ],
+  "T'amo!": [
+    "I love you!",
+    [
+      {
+        "word": "T'",
+        "lemma": "ti",
+        "pos": "pronoun",
+        "meaning": "you (elided direct object clitic pronoun)"
+      },
+      {
+        "word": "amo",
+        "lemma": "amare",
+        "pos": "verb",
+        "meaning": "I love (1st person singular present)"
+      }
+    ],
+    "Direct, ecstatic confession of love. The direct object clitic 'ti' elides before the vowel: 'T'amo' (I love you). Verdi sets this with heart-stopping tenderness."
+  ],
+  "Imprudente.": [
+    "Reckless boy.",
+    [
+      {
+        "word": "Imprudente",
+        "lemma": "imprudente",
+        "pos": "adjective",
+        "meaning": "imprudent / reckless / rash"
+      },
+      {
+        "word": "imprudente",
+        "lemma": "imprudente",
+        "pos": "noun",
+        "meaning": "reckless one / rash person"
+      }
+    ],
+    "Nannetta chides Fenton for his boldness in an open garden where her father could appear at any moment. Her tone is affectionate rather than angry."
+  ],
+  "No.": [
+    "No.",
+    [
+      {
+        "word": "No",
+        "lemma": "no",
+        "pos": "adverb",
+        "meaning": "no"
+      },
+      {
+        "word": "rifiuto",
+        "lemma": "rifiuto",
+        "pos": "noun",
+        "meaning": "refusal / denial"
+      }
+    ],
+    "Nannetta's playful refusal as Fenton leans in for another kiss, prolonging the flirtatious romantic tension."
+  ],
+  "Sì... due baci.": [
+    "Yes... two kisses.",
+    [
+      {
+        "word": "Sì",
+        "lemma": "sì",
+        "pos": "adverb",
+        "meaning": "yes"
+      },
+      {
+        "word": "due",
+        "lemma": "due",
+        "pos": "adjective",
+        "meaning": "two (cardinal numeral)"
+      },
+      {
+        "word": "baci",
+        "lemma": "bacio",
+        "pos": "noun",
+        "meaning": "kisses (masculine plural)"
+      }
+    ],
+    "Fenton insists on his prize ('due baci'), repeating his melodic plea with youthful persistence."
+  ],
+  "Basta.": [
+    "Enough.",
+    [
+      {
+        "word": "Basta",
+        "lemma": "bastare",
+        "pos": "verb",
+        "meaning": "it suffices / that is enough (3rd person singular present)"
+      },
+      {
+        "word": "bastare",
+        "lemma": "bastare",
+        "pos": "verb",
+        "meaning": "to suffice / be enough"
+      }
+    ],
+    "Third-person singular present of impersonal verb 'bastare', used as an imperative command: 'That's enough!'"
+  ],
+  "Mi piaci": [
+    "I like you",
+    [
+      {
+        "word": "Mi",
+        "lemma": "mi",
+        "pos": "pronoun",
+        "meaning": "to me (indirect object clitic pronoun)"
+      },
+      {
+        "word": "piaci",
+        "lemma": "piacere",
+        "pos": "verb",
+        "meaning": "you please / are pleasing (2nd person singular present)"
+      }
+    ],
+    "Italian indirect construction 'mi piaci' (literally 'you are pleasing to me', meaning 'I like you / I adore you'). The thought completes in the next line ('tanto!')."
+  ],
+  "tanto!": [
+    "so much!",
+    [
+      {
+        "word": "tanto",
+        "lemma": "tanto",
+        "pos": "adverb",
+        "meaning": "so much / greatly"
+      },
+      {
+        "word": "molto",
+        "lemma": "molto",
+        "pos": "adverb",
+        "meaning": "very / much"
+      }
+    ],
+    "Adverb of quantity modifying 'mi piaci' ('I like you so much!'). Lowercase reflects continuation from the previous line."
+  ],
+  "Vien gente.": [
+    "People are coming.",
+    [
+      {
+        "word": "Vien",
+        "lemma": "venire",
+        "pos": "verb",
+        "meaning": "comes / is coming (apocopated 3rd person singular present of venire)"
+      },
+      {
+        "word": "gente",
+        "lemma": "gente",
+        "pos": "noun",
+        "meaning": "people / folk (collective feminine singular noun)"
+      }
+    ],
+    "Nannetta senses footsteps approaching. 'Gente' is a collective feminine singular noun taking singular verb 'vien' (apocope of 'viene')."
+  ],
+  "Bocca baciata non perde ventura.": [
+    "A kissed mouth loses not its good fortune.",
+    [
+      {
+        "word": "Bocca",
+        "lemma": "bocca",
+        "pos": "noun",
+        "meaning": "mouth"
+      },
+      {
+        "word": "baciata",
+        "lemma": "baciato",
+        "pos": "adjective",
+        "meaning": "kissed (feminine singular past participle)"
+      },
+      {
+        "word": "perde",
+        "lemma": "perdere",
+        "pos": "verb",
+        "meaning": "loses (3rd person singular present)"
+      },
+      {
+        "word": "ventura",
+        "lemma": "ventura",
+        "pos": "noun",
+        "meaning": "fortune / luck / destiny"
+      }
+    ],
+    "Famous Tuscan proverb drawn from Boccaccio's Decameron (Day II, Novel 7): 'Bocca basciata non perde ventura, anzi rinuova come fa la luna'. Boito weaves Boccaccio's iconic lines into Fenton and Nannetta's dialogue as an antiphonal love refrain."
+  ],
+  "Anzi rinnova come fa la luna.": [
+    "Rather it renews itself as does the moon.",
+    [
+      {
+        "word": "Anzi",
+        "lemma": "anzi",
+        "pos": "adverb",
+        "meaning": "rather / on the contrary / nay"
+      },
+      {
+        "word": "rinnova",
+        "lemma": "rinnovare",
+        "pos": "verb",
+        "meaning": "renews / regenerates (3rd person singular present)"
+      },
+      {
+        "word": "fa",
+        "lemma": "fare",
+        "pos": "verb",
+        "meaning": "does / makes (3rd person singular present)"
+      },
+      {
+        "word": "luna",
+        "lemma": "luna",
+        "pos": "noun",
+        "meaning": "moon"
+      }
+    ],
+    "Nannetta finishes the Decameron proverb, completing Fenton's line. The metaphor asserts that kissing does not exhaust love or virtue; like the moon, the kissed mouth is perpetually reborn."
+  ],
+  "Falstaff m'ha canzonata.": [
+    "Falstaff has made a fool of me.",
+    [
+      {
+        "word": "Falstaff",
+        "lemma": "Falstaff",
+        "pos": "noun",
+        "meaning": "Falstaff (proper name)"
+      },
+      {
+        "word": "m'",
+        "lemma": "mi",
+        "pos": "pronoun",
+        "meaning": "me (elided direct object clitic pronoun)"
+      },
+      {
+        "word": "ha",
+        "lemma": "avere",
+        "pos": "verb",
+        "meaning": "has (auxiliary 3rd person singular)"
+      },
+      {
+        "word": "canzonata",
+        "lemma": "canzonare",
+        "pos": "verb",
+        "meaning": "mocked / ridiculed / made sport of (feminine singular past participle)"
+      }
+    ],
+    "Alice re-enters, indignant at Falstaff's insolent presumption. 'Canzonare' means to mock, ridicule, or dupe. The past participle 'canzonata' agrees in feminine singular with the preceding direct object clitic 'm''."
+  ],
+  "Merita un gran castigo.": [
+    "He deserves a great punishment.",
+    [
+      {
+        "word": "Merita",
+        "lemma": "meritare",
+        "pos": "verb",
+        "meaning": "deserves / merits (3rd person singular present)"
+      },
+      {
+        "word": "gran",
+        "lemma": "grande",
+        "pos": "adjective",
+        "meaning": "great / big (apocopated form of grande)"
+      },
+      {
+        "word": "castigo",
+        "lemma": "castigo",
+        "pos": "noun",
+        "meaning": "punishment / chastisement"
+      }
+    ],
+    "Meg agrees wholeheartedly. Falstaff's identical letters insulted both women's intelligence and dignity, requiring collective retribution."
+  ],
+  "Se gli scrivessi un rigo?...": [
+    "What if I wrote him a line?...",
+    [
+      {
+        "word": "gli",
+        "lemma": "gli",
+        "pos": "pronoun",
+        "meaning": "to him (indirect object clitic pronoun)"
+      },
+      {
+        "word": "scrivessi",
+        "lemma": "scrivere",
+        "pos": "verb",
+        "meaning": "I wrote / were to write (1st person singular imperfect subjunctive)"
+      },
+      {
+        "word": "rigo",
+        "lemma": "rigo",
+        "pos": "noun",
+        "meaning": "line (of writing) / short note"
+      }
+    ],
+    "Alice ponders baiting the trap with a letter. Imperfect subjunctive 'scrivessi' introduced by 'se' expresses a tentative suggestion ('What if I were to write him a line?')."
+  ],
+  "Val meglio un'ambasciata.": [
+    "An embassy is worth more.",
+    [
+      {
+        "word": "Val",
+        "lemma": "valere",
+        "pos": "verb",
+        "meaning": "is worth / avails (apocopated 3rd person singular present of valere)"
+      },
+      {
+        "word": "meglio",
+        "lemma": "meglio",
+        "pos": "adverb",
+        "meaning": "better / more"
+      },
+      {
+        "word": "ambasciata",
+        "lemma": "ambasciata",
+        "pos": "noun",
+        "meaning": "embassy / oral message / errand"
+      }
+    ],
+    "Nannetta astutely suggests an oral message via an emissary instead of a written note. 'Val meglio' is an idiomatic construction meaning 'it is better / more effective'. An oral message leaves no physical paper trail."
+  ],
+  "Sì.": [
+    "Yes.",
+    [
+      {
+        "word": "Sì",
+        "lemma": "sì",
+        "pos": "adverb",
+        "meaning": "yes / indeed"
+      },
+      {
+        "word": "consenso",
+        "lemma": "consenso",
+        "pos": "noun",
+        "meaning": "agreement / consent"
+      }
+    ],
+    "Alice readily embraces Nannetta's shrewd advice to send a spoken embassy."
+  ],
+  "Da quel brigante": [
+    "To that scoundrel",
+    [
+      {
+        "word": "Da",
+        "lemma": "da",
+        "pos": "preposition",
+        "meaning": "to / at (preposition denoting movement towards a person)"
+      },
+      {
+        "word": "quel",
+        "lemma": "quello",
+        "pos": "adjective",
+        "meaning": "that (demonstrative adjective)"
+      },
+      {
+        "word": "brigante",
+        "lemma": "brigante",
+        "pos": "noun",
+        "meaning": "brigand / rogue / scoundrel"
+      }
+    ],
+    "Alice turns to Mistress Quickly. Preposition 'da' with a person denotes going to someone's presence ('andare da qualcuno'). 'Brigante' characterizes Falstaff as an unscrupulous outlaw."
+  ],
+  "tu andrai. Lo adeschi all'offa": [
+    "you shall go. You entice him with the bait",
+    [
+      {
+        "word": "andrai",
+        "lemma": "andare",
+        "pos": "verb",
+        "meaning": "you will go (2nd person singular future)"
+      },
+      {
+        "word": "adeschi",
+        "lemma": "adescare",
+        "pos": "verb",
+        "meaning": "you entice / lure / bait (present subjunctive / imperative 2nd person singular)"
+      },
+      {
+        "word": "offa",
+        "lemma": "offa",
+        "pos": "noun",
+        "meaning": "morsel / bait / sop / bribe"
+      }
+    ],
+    "Alice commissions Quickly as their ambassador. 'Adescare' means to lure or hook with bait. 'Offa' is a classical literary word (from Latin 'offa', the honey-cake thrown to pacify Cerberus in Virgil and Dante), meaning a tempting bait or bribe."
+  ],
+  "d'un ritrovo galante": [
+    "of a gallant rendezvous",
+    [
+      {
+        "word": "ritrovo",
+        "lemma": "ritrovo",
+        "pos": "noun",
+        "meaning": "rendezvous / meeting / tryst"
+      },
+      {
+        "word": "galante",
+        "lemma": "galante",
+        "pos": "adjective",
+        "meaning": "gallant / amorous / courtly"
+      }
+    ],
+    "'Ritrovo galante' designates an amorous rendezvous or secret tryst, tailored to exploit Falstaff's vanity and lust."
+  ],
+  "con me.": [
+    "with me.",
+    [
+      {
+        "word": "con",
+        "lemma": "con",
+        "pos": "preposition",
+        "meaning": "with"
+      },
+      {
+        "word": "me",
+        "lemma": "me",
+        "pos": "pronoun",
+        "meaning": "me (disjunctive / tonic 1st person singular pronoun)"
+      }
+    ],
+    "Completes the invitation: 'un ritrovo galante con me'. Alice fearlessly offers herself as the decoy for the trap."
+  ],
+  "Questa è gaglioffa!": [
+    "This is a knavish trick!",
+    [
+      {
+        "word": "Questa",
+        "lemma": "questo",
+        "pos": "pronoun",
+        "meaning": "this / this thing (demonstrative pronoun, feminine singular)"
+      },
+      {
+        "word": "è",
+        "lemma": "essere",
+        "pos": "verb",
+        "meaning": "is (3rd person singular present)"
+      },
+      {
+        "word": "gaglioffa",
+        "lemma": "gaglioffo",
+        "pos": "adjective",
+        "meaning": "knavish / roguish / scurvy / comical (feminine singular)"
+      }
+    ],
+    "Mistress Quickly laughs in delight at the ruse. 'Gaglioffo' is a rich vernacular term meaning roguish, knavish, buffoonish, or rascal-like. Quickly loves the sheer cunning of the plot."
+  ],
+  "Che bella burla!": [
+    "What a splendid prank!",
+    [
+      {
+        "word": "Che",
+        "lemma": "che",
+        "pos": "adjective",
+        "meaning": "what / what a (exclamative adjective)"
+      },
+      {
+        "word": "bella",
+        "lemma": "bello",
+        "pos": "adjective",
+        "meaning": "splendid / fine / beautiful (feminine singular)"
+      },
+      {
+        "word": "burla",
+        "lemma": "burla",
+        "pos": "noun",
+        "meaning": "prank / practical joke / jest"
+      }
+    ],
+    "Nannetta cheers the plan. 'Burla' is the classic Italian literary term for a practical joke, directly evoking the merry spirit of Boccaccian novelle."
+  ],
+  "Prima,": [
+    "First,",
+    [
+      {
+        "word": "Prima",
+        "lemma": "prima",
+        "pos": "adverb",
+        "meaning": "first / first of all / beforehand"
+      },
+      {
+        "word": "dapprima",
+        "lemma": "dapprima",
+        "pos": "adverb",
+        "meaning": "initially / at first"
+      }
+    ],
+    "Alice outlines the two steps of their plan: first stroke his ego, then humble him."
+  ],
+  "per attirarlo a noi,": [
+    "to attract him to us,",
+    [
+      {
+        "word": "per",
+        "lemma": "per",
+        "pos": "preposition",
+        "meaning": "in order to / for"
+      },
+      {
+        "word": "attirarlo",
+        "lemma": "attirare",
+        "pos": "verb",
+        "meaning": "to attract him / lure him (infinitive attirare + enclitic pronoun lo)"
+      },
+      {
+        "word": "noi",
+        "lemma": "noi",
+        "pos": "pronoun",
+        "meaning": "us (disjunctive pronoun)"
+      }
+    ],
+    "Final infinitive clause of purpose: 'per attirarlo a noi'. The enclitic direct object pronoun '-lo' refers to Falstaff."
+  ],
+  "lo lusinghiamo, e poi": [
+    "we flatter him, and then",
+    [
+      {
+        "word": "lo",
+        "lemma": "lo",
+        "pos": "pronoun",
+        "meaning": "him (direct object clitic pronoun)"
+      },
+      {
+        "word": "lusinghiamo",
+        "lemma": "lusingare",
+        "pos": "verb",
+        "meaning": "we flatter / entice / cajole (1st person plural present)"
+      },
+      {
+        "word": "poi",
+        "lemma": "poi",
+        "pos": "adverb",
+        "meaning": "then / afterwards"
+      }
+    ],
+    "Alice recognizes that Falstaff's supreme vanity makes flattery ('lusingare') the perfect trap."
+  ],
+  "gliele cantiamo in rima.": [
+    "we give him a piece of our mind in rhyme.",
+    [
+      {
+        "word": "gliele",
+        "lemma": "gliele",
+        "pos": "pronoun",
+        "meaning": "them to him (combined clitic pronoun: indirect gli + feminine plural direct le)"
+      },
+      {
+        "word": "cantiamo",
+        "lemma": "cantare",
+        "pos": "verb",
+        "meaning": "we tell / sing (1st person plural present)"
+      },
+      {
+        "word": "in rima",
+        "lemma": "in rima",
+        "pos": "idiom",
+        "meaning": "in rhyme / explicitly / thoroughly / in plain terms"
+      }
+    ],
+    "Vivid Italian idiom 'cantarle a qualcuno' (literally 'to sing them to someone', meaning to speak frankly or tell someone off bluntly). Combined with 'in rima', it means to deliver a sharp rebuke in exquisite poetic form."
+  ],
+  "Non merita riguardo.": [
+    "He deserves no consideration.",
+    [
+      {
+        "word": "merita",
+        "lemma": "meritare",
+        "pos": "verb",
+        "meaning": "deserves / merits (3rd person singular present)"
+      },
+      {
+        "word": "riguardo",
+        "lemma": "riguardo",
+        "pos": "noun",
+        "meaning": "consideration / deference / respect"
+      }
+    ],
+    "Mistress Quickly declares that Falstaff's crude insolence forfeits any claim to polite deference or chivalric respect ('riguardo')."
+  ],
+  "È un bove.": [
+    "He is an ox.",
+    [
+      {
+        "word": "È",
+        "lemma": "essere",
+        "pos": "verb",
+        "meaning": "is (3rd person singular present)"
+      },
+      {
+        "word": "bove",
+        "lemma": "bove",
+        "pos": "noun",
+        "meaning": "ox / castrated bull (poetic/archaic variant of bue)"
+      }
+    ],
+    "Alice's blunt insult. 'Bove' evokes heavy, clumsy stupidity, and pointedly alludes to a horned animal, mocking the horn motif that Ford fears."
+  ],
+  "È un uomo senza fede.": [
+    "He is a man without faith.",
+    [
+      {
+        "word": "uomo",
+        "lemma": "uomo",
+        "pos": "noun",
+        "meaning": "man"
+      },
+      {
+        "word": "senza",
+        "lemma": "senza",
+        "pos": "preposition",
+        "meaning": "without"
+      },
+      {
+        "word": "fede",
+        "lemma": "fede",
+        "pos": "noun",
+        "meaning": "faith / loyalty / honor"
+      }
+    ],
+    "Meg Page condemns Falstaff's utter lack of integrity ('senza fede'), having sent the identical love declaration word-for-word to two married women at once."
+  ],
+  "È un monte di lardo.": [
+    "He is a mountain of lard.",
+    [
+      {
+        "word": "monte",
+        "lemma": "monte",
+        "pos": "noun",
+        "meaning": "mountain / heap"
+      },
+      {
+        "word": "di",
+        "lemma": "di",
+        "pos": "preposition",
+        "meaning": "of"
+      },
+      {
+        "word": "lardo",
+        "lemma": "lardo",
+        "pos": "noun",
+        "meaning": "lard / pork fat"
+      }
+    ],
+    "Alice translates Prince Hal's classic insults from Shakespeare's Henry IV Part 1 into colorful Italian: 'a mountain of mummy' / 'huge hill of flesh' -> 'un monte di lardo'."
+  ],
+  "Non merita clemenza.": [
+    "He deserves no mercy.",
+    [
+      {
+        "word": "merita",
+        "lemma": "meritare",
+        "pos": "verb",
+        "meaning": "deserves / merits (3rd person singular present)"
+      },
+      {
+        "word": "clemenza",
+        "lemma": "clemenza",
+        "pos": "noun",
+        "meaning": "clemency / mercy / leniency"
+      }
+    ],
+    "Meg reinforces the mock-judicial condemnation of Falstaff. 'Clemenza' is an elevated Latinate noun emphasizing that their prank will be merciless."
+  ],
+  "È un ghiotton che scialacqua": [
+    "He is a glutton who squanders",
+    [
+      {
+        "word": "ghiotton",
+        "lemma": "ghiottone",
+        "pos": "noun",
+        "meaning": "glutton / gourmand (apocopated form of ghiottone)"
+      },
+      {
+        "word": "che",
+        "lemma": "che",
+        "pos": "pronoun",
+        "meaning": "who / that (relative pronoun)"
+      },
+      {
+        "word": "scialacqua",
+        "lemma": "scialacquare",
+        "pos": "verb",
+        "meaning": "squanders / dissipates / wastes lavishly (3rd person singular present)"
+      }
+    ],
+    "Alice highlights Falstaff's voracious appetite. 'Ghiotton' (apocopated from 'ghiottone') means glutton; 'scialacquare' means to spend prodigally or waste assets on luxurious indulgence."
+  ],
+  "tutto il suo aver nel cuoco.": [
+    "all his wealth on the cook.",
+    [
+      {
+        "word": "tutto",
+        "lemma": "tutto",
+        "pos": "adjective",
+        "meaning": "all / entire"
+      },
+      {
+        "word": "aver",
+        "lemma": "avere",
+        "pos": "noun",
+        "meaning": "wealth / assets / possessions (substantivized infinitive of avere)"
+      },
+      {
+        "word": "cuoco",
+        "lemma": "cuoco",
+        "pos": "noun",
+        "meaning": "cook / chef"
+      }
+    ],
+    "Substantivized infinitive 'aver' (apocope of 'avere') denotes accumulated wealth or substance ('his all'). Alice scoffs that every penny he possesses is consumed by his belly."
+  ],
+  "Lo tufferem nell'acqua.": [
+    "We will dunk him into the water.",
+    [
+      {
+        "word": "Lo",
+        "lemma": "lo",
+        "pos": "pronoun",
+        "meaning": "him (direct object clitic pronoun)"
+      },
+      {
+        "word": "tufferem",
+        "lemma": "tuffare",
+        "pos": "verb",
+        "meaning": "we will plunge / dunk (poetic apocope of tufferemo)"
+      },
+      {
+        "word": "acqua",
+        "lemma": "acqua",
+        "pos": "noun",
+        "meaning": "water"
+      }
+    ],
+    "Nannetta gleefully anticipates the climax of Act 2: pitching Falstaff out the window in the laundry basket into the river Thames! 'Tufferem' is the poetic truncation of future tense 'tufferemo'."
+  ],
+  "Lo arrostiremo al fuoco.": [
+    "We will roast him at the fire.",
+    [
+      {
+        "word": "Lo",
+        "lemma": "lo",
+        "pos": "pronoun",
+        "meaning": "him (direct object clitic pronoun)"
+      },
+      {
+        "word": "arrostiremo",
+        "lemma": "arrostire",
+        "pos": "verb",
+        "meaning": "we will roast (1st person plural future)"
+      },
+      {
+        "word": "fuoco",
+        "lemma": "fuoco",
+        "pos": "noun",
+        "meaning": "fire"
+      }
+    ],
+    "Alice pairs Nannetta's water punishment with a culinary fire metaphor ('arrostiremo al fuoco'), playfully suggesting that the fat knight will be cooked like his own dinners."
+  ],
+  "Che gioia!": [
+    "What joy!",
+    [
+      {
+        "word": "Che",
+        "lemma": "che",
+        "pos": "adjective",
+        "meaning": "what / what a (exclamative adjective)"
+      },
+      {
+        "word": "gioia",
+        "lemma": "gioia",
+        "pos": "noun",
+        "meaning": "joy / delight"
+      }
+    ],
+    "Nannetta's exuberant exclamation of youthful mirth at the prospect of humiliating Falstaff."
+  ],
+  "Procaccia di far bene": [
+    "Take care to do well",
+    [
+      {
+        "word": "Procaccia",
+        "lemma": "procacciare",
+        "pos": "verb",
+        "meaning": "take care / strive / endeavor (2nd person singular imperative)"
+      },
+      {
+        "word": "far",
+        "lemma": "fare",
+        "pos": "verb",
+        "meaning": "to do / make / perform (apocopated infinitive of fare)"
+      },
+      {
+        "word": "bene",
+        "lemma": "bene",
+        "pos": "adverb",
+        "meaning": "well"
+      }
+    ],
+    "Meg cautions Quickly to play her role convincingly. 'Procacciare di' + infinitive is a formal, elegant Italian expression meaning to take diligence or strive to accomplish a task."
+  ],
+  "la tua parte.": [
+    "your part.",
+    [
+      {
+        "word": "tua",
+        "lemma": "tuo",
+        "pos": "adjective",
+        "meaning": "your (feminine singular possessive adjective)"
+      },
+      {
+        "word": "parte",
+        "lemma": "parte",
+        "pos": "noun",
+        "meaning": "part / role"
+      }
+    ],
+    "Theatrical language ('la tua parte': your role) underscoring the comedy's play-within-a-play dynamics. Lowercase maintains syntax from the preceding line."
+  ],
+  "Chi viene?": [
+    "Who is coming?",
+    [
+      {
+        "word": "Chi",
+        "lemma": "chi",
+        "pos": "pronoun",
+        "meaning": "who (interrogative pronoun)"
+      },
+      {
+        "word": "viene",
+        "lemma": "venire",
+        "pos": "verb",
+        "meaning": "comes / is coming (3rd person singular present of venire)"
+      }
+    ],
+    "Mistress Quickly sounds the alarm upon hearing footsteps approaching again in the garden."
+  ],
+  "Là c'è qualcun che spia.": [
+    "Over there is someone spying.",
+    [
+      {
+        "word": "Là",
+        "lemma": "là",
+        "pos": "adverb",
+        "meaning": "there / over there"
+      },
+      {
+        "word": "c'è",
+        "lemma": "esserci",
+        "pos": "verb",
+        "meaning": "there is (clitic ci + è)"
+      },
+      {
+        "word": "qualcun",
+        "lemma": "qualcuno",
+        "pos": "pronoun",
+        "meaning": "someone (apocopated form of qualcuno)"
+      },
+      {
+        "word": "spia",
+        "lemma": "spiare",
+        "pos": "verb",
+        "meaning": "spies / is spying (3rd person singular present)"
+      }
+    ],
+    "Meg catches sight of the men returning. 'C'è qualcun che spia' (there is someone spying) creates rapid dramatic suspense, prompting another quick exit."
+  ],
+  "Escono rapidamente da destra Alice, Meg, Quickly. Nannetta resta,": [
+    "Alice, Meg, and Quickly rapidly exit from the right. Nannetta remains,",
+    [
+      {
+        "word": "Escono",
+        "lemma": "uscire",
+        "pos": "verb",
+        "meaning": "they exit / go out (3rd person plural present of uscire)"
+      },
+      {
+        "word": "rapidamente",
+        "lemma": "rapidamente",
+        "pos": "adverb",
+        "meaning": "rapidly / swiftly"
+      },
+      {
+        "word": "destra",
+        "lemma": "destra",
+        "pos": "noun",
+        "meaning": "right (stage direction)"
+      },
+      {
+        "word": "resta",
+        "lemma": "restare",
+        "pos": "verb",
+        "meaning": "remains / stays (3rd person singular present)"
+      }
+    ],
+    "Stage direction marking the quick exit of Alice, Meg, and Quickly, intentionally leaving Nannetta behind in the Windsor garden once again."
+  ],
+  "Fenton le torna accanto.": [
+    "Fenton returns beside her.",
+    [
+      {
+        "word": "torna",
+        "lemma": "tornare",
+        "pos": "verb",
+        "meaning": "returns (3rd person singular present)"
+      },
+      {
+        "word": "accanto",
+        "lemma": "accanto",
+        "pos": "adverb",
+        "meaning": "beside / next to"
+      },
+      {
+        "word": "le",
+        "lemma": "le",
+        "pos": "pronoun",
+        "meaning": "to her (dative clitic pronoun)"
+      }
+    ],
+    "Stage direction noting Fenton instantly reappearing at Nannetta's side. The clitic 'le' functions as a dative of proximity with 'accanto' ('beside her')."
+  ],
+  "Torno all'assalto.": [
+    "I return to the assault.",
+    [
+      {
+        "word": "Torno",
+        "lemma": "tornare",
+        "pos": "verb",
+        "meaning": "I return (1st person singular present)"
+      },
+      {
+        "word": "all'",
+        "lemma": "a",
+        "pos": "preposition",
+        "meaning": "to the (articulated preposition a + l')"
+      },
+      {
+        "word": "assalto",
+        "lemma": "assalto",
+        "pos": "noun",
+        "meaning": "assault / attack / fencing bout"
+      }
+    ],
+    "Fenton reopens their flirtatious duel with a fencing metaphor. In Renaissance chivalric poetry, the assault ('assalto') is an established trope for romantic pursuit."
+  ],
+  "Torno alla gara.": [
+    "I return to the contest.",
+    [
+      {
+        "word": "Torno",
+        "lemma": "tornare",
+        "pos": "verb",
+        "meaning": "I return (1st person singular present)"
+      },
+      {
+        "word": "alla",
+        "lemma": "a",
+        "pos": "preposition",
+        "meaning": "to the (articulated preposition a + la)"
+      },
+      {
+        "word": "gara",
+        "lemma": "gara",
+        "pos": "noun",
+        "meaning": "contest / match / competition"
+      }
+    ],
+    "Nannetta matches Fenton's syntax and meter, framing their exchange as a playful 'gara' (contest of wits and kisses)."
+  ],
+  "Ferisci!": [
+    "Strike!",
+    [
+      {
+        "word": "Ferisci",
+        "lemma": "ferire",
+        "pos": "verb",
+        "meaning": "strike! / wound! (2nd person singular imperative)"
+      },
+      {
+        "word": "ferire",
+        "lemma": "ferire",
+        "pos": "verb",
+        "meaning": "to wound / strike / pierce"
+      }
+    ],
+    "Second-person singular imperative of 'ferire' (to strike or wound). Nannetta issues a spirited fencing challenge to Fenton."
+  ],
+  "Para!": [
+    "Parry!",
+    [
+      {
+        "word": "Para",
+        "lemma": "parare",
+        "pos": "verb",
+        "meaning": "parry! / ward off! (2nd person singular imperative)"
+      },
+      {
+        "word": "parare",
+        "lemma": "parare",
+        "pos": "verb",
+        "meaning": "to parry / ward off / block"
+      }
+    ],
+    "Second-person singular imperative of 'parare' (to parry in fencing). Fenton lunges in for a kiss, daring her to defend herself."
+  ],
+  "La mira è in alto.": [
+    "The aim is high.",
+    [
+      {
+        "word": "mira",
+        "lemma": "mira",
+        "pos": "noun",
+        "meaning": "aim / sight / target"
+      },
+      {
+        "word": "in alto",
+        "lemma": "in alto",
+        "pos": "idiom",
+        "meaning": "high up / aloft / aimed high"
+      }
+    ],
+    "Nannetta dodges with athletic grace: 'La mira è in alto' (the aim is high / aiming above the target), simultaneously hinting at the lofty purity of true love."
+  ],
+  "L'amor è un agile": [
+    "Love is a nimble",
+    [
+      {
+        "word": "amor",
+        "lemma": "amore",
+        "pos": "noun",
+        "meaning": "love (poetic apocope of amore)"
+      },
+      {
+        "word": "agile",
+        "lemma": "agile",
+        "pos": "adjective",
+        "meaning": "nimble / agile / quick / graceful"
+      }
+    ],
+    "Boito's lyric poetry sets this philosophical definition of love. 'Amor' is the poetic apocope of 'amore'. The metaphor continues into the following lines."
+  ],
+  "torneo, sua corte": [
+    "tournament, its court",
+    [
+      {
+        "word": "torneo",
+        "lemma": "torneo",
+        "pos": "noun",
+        "meaning": "tournament / joust"
+      },
+      {
+        "word": "sua",
+        "lemma": "suo",
+        "pos": "adjective",
+        "meaning": "its / his (possessive adjective, feminine singular)"
+      },
+      {
+        "word": "corte",
+        "lemma": "corte",
+        "pos": "noun",
+        "meaning": "court (tribunal or royal retinue)"
+      }
+    ],
+    "Love is cast as a medieval tournament governed by a chivalric court of love ('sua corte'). Lowercase opening maintains the verse structure."
+  ],
+  "vuol che il più fragile": [
+    "wills that the most fragile",
+    [
+      {
+        "word": "vuol",
+        "lemma": "volere",
+        "pos": "verb",
+        "meaning": "wills / wants (apocopated 3rd person singular present of volere)"
+      },
+      {
+        "word": "fragile",
+        "lemma": "fragile",
+        "pos": "adjective",
+        "meaning": "fragile / frail / delicate"
+      },
+      {
+        "word": "più",
+        "lemma": "più",
+        "pos": "adverb",
+        "meaning": "more / most (superlative marker)"
+      }
+    ],
+    "'Vuol che' introduces a subjunctive clause of chivalric ordinance. 'Il più fragile' represents the delicate maiden who nevertheless holds dominion in love."
+  ],
+  "vinca il più forte.": [
+    "vanquish the strongest.",
+    [
+      {
+        "word": "vinca",
+        "lemma": "vincere",
+        "pos": "verb",
+        "meaning": "vanquish / win / conquer (3rd person singular present subjunctive)"
+      },
+      {
+        "word": "forte",
+        "lemma": "forte",
+        "pos": "adjective",
+        "meaning": "strong / strongest"
+      }
+    ],
+    "Present subjunctive 'vinca' governed by 'vuol che'. Boito crafts an exquisite Petrarchan paradox: in the court of love, the frailest woman vanquishes the strongest man."
+  ],
+  "M'armo, e ti guardo.": [
+    "I arm myself, and look upon you.",
+    [
+      {
+        "word": "M'armo",
+        "lemma": "armarsi",
+        "pos": "verb",
+        "meaning": "I arm myself (reflexive verb 1st person singular present)"
+      },
+      {
+        "word": "ti",
+        "lemma": "ti",
+        "pos": "pronoun",
+        "meaning": "you (direct object clitic pronoun)"
+      },
+      {
+        "word": "guardo",
+        "lemma": "guardare",
+        "pos": "verb",
+        "meaning": "I look at / gaze upon (1st person singular present)"
+      }
+    ],
+    "Fenton accepts the challenge of the tournament. 'Armarsi' is used reflexively ('m'armo': I arm myself). Direct object clitic 'ti' precedes 'guardo' (I look at you)."
+  ],
+  "T'aspetto al varco.": [
+    "I await you at the pass.",
+    [
+      {
+        "word": "T'aspetto",
+        "lemma": "aspettare",
+        "pos": "verb",
+        "meaning": "I await you (direct object clitic ti + aspetto)"
+      },
+      {
+        "word": "varco",
+        "lemma": "varco",
+        "pos": "noun",
+        "meaning": "pass / passage / gateway"
+      },
+      {
+        "word": "aspettare al varco",
+        "lemma": "aspettare al varco",
+        "pos": "idiom",
+        "meaning": "to wait in ambush / await someone at a decisive pass"
+      }
+    ],
+    "Idiomatic expression 'aspettare al varco' (literally to wait at a narrow pass or crossing), meaning to lie in wait for someone at the crucial juncture to catch them."
+  ],
+  "Il labbro è l'arco.": [
+    "The lip is the bow.",
+    [
+      {
+        "word": "labbro",
+        "lemma": "labbro",
+        "pos": "noun",
+        "meaning": "lip"
+      },
+      {
+        "word": "arco",
+        "lemma": "arco",
+        "pos": "noun",
+        "meaning": "bow (archery / Cupid's bow)"
+      }
+    ],
+    "Classical emblem of Cupid's archery: the curving lip forms the bow ('l'arco') poised to loose the shaft of love."
+  ],
+  "E il bacio è il dardo.": [
+    "And the kiss is the dart.",
+    [
+      {
+        "word": "bacio",
+        "lemma": "bacio",
+        "pos": "noun",
+        "meaning": "kiss"
+      },
+      {
+        "word": "dardo",
+        "lemma": "dardo",
+        "pos": "noun",
+        "meaning": "dart / arrow / bolt"
+      }
+    ],
+    "Fenton completes the emblematic conceit: if the curved lip is the bow, the kiss itself is the arrow ('il dardo') that strikes home."
+  ]
+}
+
+print(f"Total curated entries defined: {len(entries)}")
+
+# Verification
+with open('scripts/falstaff_act1_sc2_partC.json', 'r', encoding='utf-8') as f:
+    source_data = json.load(f)
+
+source_lines = [item['original'] for item in source_data]
+print(f"Source lines: {len(source_lines)}")
+
+missing = [line for line in source_lines if line not in entries]
+print(f"Missing lines: {len(missing)}")
+if missing:
+    print("Missing:", missing)
+
+extra = [line for line in entries if line not in source_lines]
+print(f"Extra lines: {len(extra)}")
+if extra:
+    print("Extra:", extra)
+
+VALID_POS = {'noun', 'verb', 'adjective', 'adverb', 'pronoun', 'preposition', 'conjunction', 'interjection', 'particle', 'idiom'}
+
+errors = []
+for orig in source_lines:
+    if orig not in entries:
+        continue
+    item = entries[orig]
+    if len(item) != 3:
+        errors.append(f"Line '{orig}' does not have 3 elements: {len(item)}")
+        continue
+    lit, tokens, gnote = item
+    if not isinstance(lit, str) or not lit.strip():
+        errors.append(f"Line '{orig}' literal is empty or not string: {lit}")
+    # Capitalization check
+    orig_stripped = orig.lstrip('«"\'')
+    lit_stripped = lit.lstrip('«"\'')
+    if orig_stripped and orig_stripped[0].isupper():
+        if lit_stripped and not lit_stripped[0].isupper():
+            errors.append(f"Line '{orig}' starts uppercase but literal does not: '{lit}'")
+    # Tokens check
+    if not (2 <= len(tokens) <= 5):
+        errors.append(f"Line '{orig}' tokens count {len(tokens)} not in [2, 5]")
+    for tok in tokens:
+        for k in ['word', 'lemma', 'pos', 'meaning']:
+            if k not in tok:
+                errors.append(f"Line '{orig}' token missing key {k}: {tok}")
+        if tok.get('pos') not in VALID_POS:
+            errors.append(f"Line '{orig}' invalid pos: {tok.get('pos')}")
+    # gnote check
+    if gnote is not None and not isinstance(gnote, str):
+        errors.append(f"Line '{orig}' gnote invalid: {gnote}")
+
+if errors:
+    print(f"ERRORS FOUND ({len(errors)}):")
+    for e in errors:
+        print("  -", e)
+else:
+    print("ALL 100 ENTRIES VALIDATED PERFECTLY!")
+    with open('scripts/falstaff_curated_a1_sc2_partC.json', 'w', encoding='utf-8') as f:
+        json.dump(entries, f, ensure_ascii=False, indent=2)
+    print("Saved scripts/falstaff_curated_a1_sc2_partC.json successfully.")

@@ -1,0 +1,602 @@
+[
+  {
+    "speaker": "Bardolfo",
+    "original": "Badate!",
+    "cue_id": "a1_s2_c76",
+    "line_id": "a1_s2_c76_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Falstaff le occhieggia tutte,",
+    "cue_id": "a1_s2_c77",
+    "line_id": "a1_s2_c77_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "che siano belle o brutte,",
+    "cue_id": "a1_s2_c77",
+    "line_id": "a1_s2_c77_l2"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "pulzelle o maritate.",
+    "cue_id": "a1_s2_c77",
+    "line_id": "a1_s2_c77_l3"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "La corona che adorna",
+    "cue_id": "a1_s2_c78",
+    "line_id": "a1_s2_c78_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "d'Atteòn l'irte chiome",
+    "cue_id": "a1_s2_c78",
+    "line_id": "a1_s2_c78_l2"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "su voi già spunta.",
+    "cue_id": "a1_s2_c78",
+    "line_id": "a1_s2_c78_l3"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Come",
+    "cue_id": "a1_s2_c79",
+    "line_id": "a1_s2_c79_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "sarebbe a dir?",
+    "cue_id": "a1_s2_c79",
+    "line_id": "a1_s2_c79_l2"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "«Le corna.»",
+    "cue_id": "a1_s2_c80",
+    "line_id": "a1_s2_c80_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Brutta parola!",
+    "cue_id": "a1_s2_c81",
+    "line_id": "a1_s2_c81_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Ha voglie",
+    "cue_id": "a1_s2_c82",
+    "line_id": "a1_s2_c82_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "voraci il cavaliere.",
+    "cue_id": "a1_s2_c82",
+    "line_id": "a1_s2_c82_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Sorveglierò la moglie.",
+    "cue_id": "a1_s2_c83",
+    "line_id": "a1_s2_c83_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Sorveglierò il messere.",
+    "cue_id": "a1_s2_c83",
+    "line_id": "a1_s2_c83_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Salvar vo' i beni miei",
+    "cue_id": "a1_s2_c83",
+    "line_id": "a1_s2_c83_l3"
+  },
+  {
+    "speaker": "Ford",
+    "original": "dagli appetiti altrui.",
+    "cue_id": "a1_s2_c83",
+    "line_id": "a1_s2_c83_l4"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "È lui.",
+    "cue_id": "a1_s2_c88",
+    "line_id": "a1_s2_c88_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "È lei.",
+    "cue_id": "a1_s2_c89",
+    "line_id": "a1_s2_c89_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "S'egli sapesse!...",
+    "cue_id": "a1_s2_c91",
+    "line_id": "a1_s2_c91_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Guai!",
+    "cue_id": "a1_s2_c92",
+    "line_id": "a1_s2_c92_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Schiviamo i passi suoi.",
+    "cue_id": "a1_s2_c93",
+    "line_id": "a1_s2_c93_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Ford è geloso?",
+    "cue_id": "a1_s2_c94",
+    "line_id": "a1_s2_c94_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Assai.",
+    "cue_id": "a1_s2_c95",
+    "line_id": "a1_s2_c95_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Zitto.",
+    "cue_id": "a1_s2_c96",
+    "line_id": "a1_s2_c96_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Alice, Meg e Quickly escono da sinistra. Resta Nannetta.",
+    "cue_id": "a1_s2_c97",
+    "line_id": "a1_s2_c97_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Ford, Dr. Cajus, Bardolfo e Pistola escono da destra. Resta Fenton.",
+    "cue_id": "a1_s2_c97",
+    "line_id": "a1_s2_c97_l2"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Pst, pst, Nannetta.",
+    "cue_id": "a1_s2_c98",
+    "line_id": "a1_s2_c98_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Sss.",
+    "cue_id": "a1_s2_c99",
+    "line_id": "a1_s2_c99_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Vien qua.",
+    "cue_id": "a1_s2_c100",
+    "line_id": "a1_s2_c100_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Taci.",
+    "cue_id": "a1_s2_c101",
+    "line_id": "a1_s2_c101_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Che vuoi?",
+    "cue_id": "a1_s2_c101",
+    "line_id": "a1_s2_c101_l2"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Due baci.",
+    "cue_id": "a1_s2_c102",
+    "line_id": "a1_s2_c102_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "In fretta.",
+    "cue_id": "a1_s2_c103",
+    "line_id": "a1_s2_c103_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Labbra di foco!",
+    "cue_id": "a1_s2_c106",
+    "line_id": "a1_s2_c106_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Labbra di fiore!...",
+    "cue_id": "a1_s2_c107",
+    "line_id": "a1_s2_c107_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Che il vago gioco",
+    "cue_id": "a1_s2_c108",
+    "line_id": "a1_s2_c108_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "sanno d'amore.",
+    "cue_id": "a1_s2_c108",
+    "line_id": "a1_s2_c108_l2"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Che spargon ciarle,",
+    "cue_id": "a1_s2_c109",
+    "line_id": "a1_s2_c109_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "che mostran perle,",
+    "cue_id": "a1_s2_c109",
+    "line_id": "a1_s2_c109_l2"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "belle a vederle,",
+    "cue_id": "a1_s2_c109",
+    "line_id": "a1_s2_c109_l3"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "dolci a baciarle!",
+    "cue_id": "a1_s2_c109",
+    "line_id": "a1_s2_c109_l4"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Labbra leggiadre!",
+    "cue_id": "a1_s2_c110",
+    "line_id": "a1_s2_c110_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Man malandrine!",
+    "cue_id": "a1_s2_c111",
+    "line_id": "a1_s2_c111_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Ciglia assassine!",
+    "cue_id": "a1_s2_c112",
+    "line_id": "a1_s2_c112_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Pupille ladre!",
+    "cue_id": "a1_s2_c112",
+    "line_id": "a1_s2_c112_l2"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "T'amo!",
+    "cue_id": "a1_s2_c112",
+    "line_id": "a1_s2_c112_l3"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Imprudente.",
+    "cue_id": "a1_s2_c113",
+    "line_id": "a1_s2_c113_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "No.",
+    "cue_id": "a1_s2_c115",
+    "line_id": "a1_s2_c115_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Sì... due baci.",
+    "cue_id": "a1_s2_c116",
+    "line_id": "a1_s2_c116_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Basta.",
+    "cue_id": "a1_s2_c117",
+    "line_id": "a1_s2_c117_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Mi piaci",
+    "cue_id": "a1_s2_c118",
+    "line_id": "a1_s2_c118_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "tanto!",
+    "cue_id": "a1_s2_c118",
+    "line_id": "a1_s2_c118_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Vien gente.",
+    "cue_id": "a1_s2_c119",
+    "line_id": "a1_s2_c119_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Bocca baciata non perde ventura.",
+    "cue_id": "a1_s2_c121",
+    "line_id": "a1_s2_c121_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Anzi rinnova come fa la luna.",
+    "cue_id": "a1_s2_c122",
+    "line_id": "a1_s2_c122_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Falstaff m'ha canzonata.",
+    "cue_id": "a1_s2_c124",
+    "line_id": "a1_s2_c124_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Merita un gran castigo.",
+    "cue_id": "a1_s2_c125",
+    "line_id": "a1_s2_c125_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Se gli scrivessi un rigo?...",
+    "cue_id": "a1_s2_c126",
+    "line_id": "a1_s2_c126_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Val meglio un'ambasciata.",
+    "cue_id": "a1_s2_c127",
+    "line_id": "a1_s2_c127_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Sì.",
+    "cue_id": "a1_s2_c128",
+    "line_id": "a1_s2_c128_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Da quel brigante",
+    "cue_id": "a1_s2_c130",
+    "line_id": "a1_s2_c130_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "tu andrai. Lo adeschi all'offa",
+    "cue_id": "a1_s2_c130",
+    "line_id": "a1_s2_c130_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "d'un ritrovo galante",
+    "cue_id": "a1_s2_c130",
+    "line_id": "a1_s2_c130_l3"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "con me.",
+    "cue_id": "a1_s2_c130",
+    "line_id": "a1_s2_c130_l4"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Questa è gaglioffa!",
+    "cue_id": "a1_s2_c131",
+    "line_id": "a1_s2_c131_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Che bella burla!",
+    "cue_id": "a1_s2_c132",
+    "line_id": "a1_s2_c132_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Prima,",
+    "cue_id": "a1_s2_c133",
+    "line_id": "a1_s2_c133_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "per attirarlo a noi,",
+    "cue_id": "a1_s2_c133",
+    "line_id": "a1_s2_c133_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "lo lusinghiamo, e poi",
+    "cue_id": "a1_s2_c133",
+    "line_id": "a1_s2_c133_l3"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "gliele cantiamo in rima.",
+    "cue_id": "a1_s2_c133",
+    "line_id": "a1_s2_c133_l4"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Non merita riguardo.",
+    "cue_id": "a1_s2_c134",
+    "line_id": "a1_s2_c134_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "È un bove.",
+    "cue_id": "a1_s2_c135",
+    "line_id": "a1_s2_c135_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "È un uomo senza fede.",
+    "cue_id": "a1_s2_c136",
+    "line_id": "a1_s2_c136_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "È un monte di lardo.",
+    "cue_id": "a1_s2_c137",
+    "line_id": "a1_s2_c137_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Non merita clemenza.",
+    "cue_id": "a1_s2_c138",
+    "line_id": "a1_s2_c138_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "È un ghiotton che scialacqua",
+    "cue_id": "a1_s2_c139",
+    "line_id": "a1_s2_c139_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "tutto il suo aver nel cuoco.",
+    "cue_id": "a1_s2_c139",
+    "line_id": "a1_s2_c139_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Lo tufferem nell'acqua.",
+    "cue_id": "a1_s2_c140",
+    "line_id": "a1_s2_c140_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Lo arrostiremo al fuoco.",
+    "cue_id": "a1_s2_c141",
+    "line_id": "a1_s2_c141_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Che gioia!",
+    "cue_id": "a1_s2_c142",
+    "line_id": "a1_s2_c142_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Procaccia di far bene",
+    "cue_id": "a1_s2_c144",
+    "line_id": "a1_s2_c144_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "la tua parte.",
+    "cue_id": "a1_s2_c144",
+    "line_id": "a1_s2_c144_l2"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Chi viene?",
+    "cue_id": "a1_s2_c146",
+    "line_id": "a1_s2_c146_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Là c'è qualcun che spia.",
+    "cue_id": "a1_s2_c147",
+    "line_id": "a1_s2_c147_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Escono rapidamente da destra Alice, Meg, Quickly. Nannetta resta,",
+    "cue_id": "a1_s2_c147",
+    "line_id": "a1_s2_c147_l2"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Fenton le torna accanto.",
+    "cue_id": "a1_s2_c147",
+    "line_id": "a1_s2_c147_l3"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Torno all'assalto.",
+    "cue_id": "a1_s2_c148",
+    "line_id": "a1_s2_c148_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Torno alla gara.",
+    "cue_id": "a1_s2_c149",
+    "line_id": "a1_s2_c149_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Ferisci!",
+    "cue_id": "a1_s2_c149",
+    "line_id": "a1_s2_c149_l2"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Para!",
+    "cue_id": "a1_s2_c150",
+    "line_id": "a1_s2_c150_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "La mira è in alto.",
+    "cue_id": "a1_s2_c152",
+    "line_id": "a1_s2_c152_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "L'amor è un agile",
+    "cue_id": "a1_s2_c152",
+    "line_id": "a1_s2_c152_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "torneo, sua corte",
+    "cue_id": "a1_s2_c152",
+    "line_id": "a1_s2_c152_l3"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "vuol che il più fragile",
+    "cue_id": "a1_s2_c152",
+    "line_id": "a1_s2_c152_l4"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "vinca il più forte.",
+    "cue_id": "a1_s2_c152",
+    "line_id": "a1_s2_c152_l5"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "M'armo, e ti guardo.",
+    "cue_id": "a1_s2_c153",
+    "line_id": "a1_s2_c153_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "T'aspetto al varco.",
+    "cue_id": "a1_s2_c153",
+    "line_id": "a1_s2_c153_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Il labbro è l'arco.",
+    "cue_id": "a1_s2_c154",
+    "line_id": "a1_s2_c154_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "E il bacio è il dardo.",
+    "cue_id": "a1_s2_c155",
+    "line_id": "a1_s2_c155_l1"
+  }
+]

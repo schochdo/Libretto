@@ -1,0 +1,1012 @@
+import json
+
+curated_data = {
+    "Sei tu dissennato?": [
+        "Are you senseless?",
+        [
+            {"word": "Sei", "lemma": "essere", "pos": "verb", "meaning": "you are (2nd person singular present)"},
+            {"word": "tu", "lemma": "tu", "pos": "pronoun", "meaning": "you (subject pronoun)"},
+            {"word": "dissennato", "lemma": "dissennato", "pos": "adjective", "meaning": "senseless / mad / deranged"}
+        ],
+        "Alice feigns shock and indignation at Ford's violent intrusion, pretending his frantic jealousy is sheer madness."
+    ],
+    "Che fai?": [
+        "What are you doing?",
+        [
+            {"word": "Che", "lemma": "che", "pos": "pronoun", "meaning": "what (interrogative pronoun)"},
+            {"word": "fai", "lemma": "fare", "pos": "verb", "meaning": "you are doing / you do (2nd person singular present)"}
+        ],
+        "Alice challenges Ford as he begins barging into the room and tearing through household furniture."
+    ],
+    "Chi c'è dentro quel cesto?": [
+        "Who is inside that basket?",
+        [
+            {"word": "Chi", "lemma": "chi", "pos": "pronoun", "meaning": "who (interrogative pronoun)"},
+            {"word": "c'è", "lemma": "esserci", "pos": "verb", "meaning": "is there / there is (ci + è)"},
+            {"word": "dentro", "lemma": "dentro", "pos": "preposition", "meaning": "inside / within"},
+            {"word": "quel", "lemma": "quello", "pos": "adjective", "meaning": "that (demonstrative adjective)"},
+            {"word": "cesto", "lemma": "cesto", "pos": "noun", "meaning": "basket / hamper"}
+        ],
+        "Ford fixes his suspicious gaze directly on the giant laundry hamper, assuming Alice has hidden her paramour inside."
+    ],
+    "Il bucato.": [
+        "The laundry.",
+        [
+            {"word": "Il", "lemma": "il", "pos": "particle", "meaning": "the (masculine singular definite article)"},
+            {"word": "bucato", "lemma": "bucato", "pos": "noun", "meaning": "laundry / washing"}
+        ],
+        "Alice responds with cool domestic composure, nonchalantly explaining the dirty linen to divert Ford's manic suspicion."
+    ],
+    "Mi lavi! rea moglie!": [
+        "You wash me! wicked wife!",
+        [
+            {"word": "lavi", "lemma": "lavare", "pos": "verb", "meaning": "you wash (2nd person singular present)"},
+            {"word": "rea", "lemma": "reo", "pos": "adjective", "meaning": "wicked / guilty / criminal"},
+            {"word": "moglie", "lemma": "moglie", "pos": "noun", "meaning": "wife"}
+        ],
+        "Ford sarcastically twists Alice's word 'bucato' (laundry), bitterly accusing her of washing him clean of his honor."
+    ],
+    "Tu, piglia le chiavi,": [
+        "You, take the keys,",
+        [
+            {"word": "Tu", "lemma": "tu", "pos": "pronoun", "meaning": "you (subject pronoun)"},
+            {"word": "piglia", "lemma": "pigliare", "pos": "verb", "meaning": "take / grab (2nd person singular imperative)"},
+            {"word": "le", "lemma": "il", "pos": "particle", "meaning": "the (feminine plural definite article)"},
+            {"word": "chiavi", "lemma": "chiave", "pos": "noun", "meaning": "keys"}
+        ],
+        "Ford barks instructions to Dr. Caius to grab the household master keys in order to unlock every closet and chest."
+    ],
+    "rovista le casse, va'.": [
+        "rummage through the trunks, go.",
+        [
+            {"word": "rovista", "lemma": "rovistare", "pos": "verb", "meaning": "rummage through / search (2nd person singular imperative)"},
+            {"word": "le", "lemma": "il", "pos": "particle", "meaning": "the (feminine plural definite article)"},
+            {"word": "casse", "lemma": "cassa", "pos": "noun", "meaning": "chests / trunks / boxes"},
+            {"word": "va'", "lemma": "andare", "pos": "verb", "meaning": "go (truncated imperative of andare)"}
+        ],
+        "Ford commands his ally to ransack every container in the house, desperate to flush out Falstaff."
+    ],
+    "Ben tu mi lavi!": [
+        "Indeed you wash me!",
+        [
+            {"word": "Ben", "lemma": "bene", "pos": "adverb", "meaning": "indeed / well / truly (apocopic form of bene)"},
+            {"word": "tu", "lemma": "tu", "pos": "pronoun", "meaning": "you (subject pronoun)"},
+            {"word": "mi", "lemma": "mi", "pos": "pronoun", "meaning": "me (direct object pronoun)"},
+            {"word": "lavi", "lemma": "lavare", "pos": "verb", "meaning": "you wash (2nd person singular present)"}
+        ],
+        "Ford repeats his sneering pun on laundry, convinced that Alice is attempting to deceive and humiliate him."
+    ],
+    "Al diavolo i cenci!": [
+        "To the devil with the rags!",
+        [
+            {"word": "Al", "lemma": "a", "pos": "preposition", "meaning": "to the (articulated preposition a + il)"},
+            {"word": "diavolo", "lemma": "diavolo", "pos": "noun", "meaning": "devil"},
+            {"word": "cenci", "lemma": "cencio", "pos": "noun", "meaning": "rags / dirty clothes / tatters"}
+        ],
+        "In a fit of pique, Ford curses the mountain of soiled clothes inside the basket and begins flinging them across the room."
+    ],
+    "Sprangatemi l'uscio": [
+        "Bar for me the door",
+        [
+            {"word": "Sprangatemi", "lemma": "sprangare", "pos": "verb", "meaning": "bar for me (imperative sprangate + clitic pronoun mi)"},
+            {"word": "l'", "lemma": "il", "pos": "particle", "meaning": "the (elided definite article)"},
+            {"word": "uscio", "lemma": "uscio", "pos": "noun", "meaning": "door / doorway"}
+        ],
+        "Ford orders Bardolfo and Pistola to bolt the exterior door so the suspected intruder cannot flee the grounds."
+    ],
+    "del parco!": [
+        "of the park!",
+        [
+            {"word": "del", "lemma": "di", "pos": "preposition", "meaning": "of the (articulated preposition di + il)"},
+            {"word": "parco", "lemma": "parco", "pos": "noun", "meaning": "park / grounds"}
+        ],
+        "Continuation of Ford's command to seal Windsor Park exit, ensuring no avenue of escape remains."
+    ],
+    "Camice... gonnelle... Or ti sguscio,": [
+        "Shirts... skirts... Now I will shell you out,",
+        [
+            {"word": "Camice", "lemma": "camicia", "pos": "noun", "meaning": "shirts / chemises / smocks"},
+            {"word": "gonnelle", "lemma": "gonnella", "pos": "noun", "meaning": "skirts / petticoats"},
+            {"word": "Or", "lemma": "ora", "pos": "adverb", "meaning": "now (apocopic form of ora)"},
+            {"word": "sguscio", "lemma": "sgusciare", "pos": "verb", "meaning": "I shell out / I unhusk / I flush out (1st person singular present)"}
+        ],
+        "Ford rummages through the laundry hamper, pulling out garments one by one and threatening to shell the lover like a pea from its pod."
+    ],
+    "briccon! Strofinacci! Via! Via! Cuffie rotte!": [
+        "rogue! Dishcloths! Away! Away! Torn caps!",
+        [
+            {"word": "briccon", "lemma": "briccone", "pos": "noun", "meaning": "rogue / rascal (apocopic form of briccone)"},
+            {"word": "Strofinacci", "lemma": "strofinaccio", "pos": "noun", "meaning": "dishcloths / dusting rags"},
+            {"word": "Via", "lemma": "via", "pos": "interjection", "meaning": "away / off"},
+            {"word": "Cuffie", "lemma": "cuffia", "pos": "noun", "meaning": "caps / bonnets / nightcaps"},
+            {"word": "rotte", "lemma": "rotto", "pos": "adjective", "meaning": "torn / broken"}
+        ],
+        "Ford throws linens and cleaning cloths in all directions in a comic display of uncontrolled jealous mania."
+    ],
+    "Ti sguscio. Lenzuola... berretti da notte...": [
+        "I will shell you out. Bed sheets... nightcaps...",
+        [
+            {"word": "sguscio", "lemma": "sgusciare", "pos": "verb", "meaning": "I shell out / flush out (1st person singular present)"},
+            {"word": "Lenzuola", "lemma": "lenzuolo", "pos": "noun", "meaning": "bed sheets (irregular feminine plural)"},
+            {"word": "berretti", "lemma": "berretto", "pos": "noun", "meaning": "caps / headgear"},
+            {"word": "notte", "lemma": "notte", "pos": "noun", "meaning": "night"}
+        ],
+        "Ford digs all the way to the bottom of the hamper, muttering frantic threats as he empties every single item of linen."
+    ],
+    "Non c'è...": [
+        "He is not here...",
+        [
+            {"word": "Non", "lemma": "non", "pos": "adverb", "meaning": "not"},
+            {"word": "c'", "lemma": "ci", "pos": "pronoun", "meaning": "there (locative pronoun ci, elided)"},
+            {"word": "è", "lemma": "essere", "pos": "verb", "meaning": "is (3rd person singular present)"}
+        ],
+        "Ford pauses stunned and breathless as the empty bottom of the hamper reveals no lover hiding inside."
+    ],
+    "Che uragano!": [
+        "What a hurricane!",
+        [
+            {"word": "Che", "lemma": "che", "pos": "adjective", "meaning": "what a (exclamative determiner)"},
+            {"word": "uragano", "lemma": "uragano", "pos": "noun", "meaning": "hurricane / whirlwind / tempest"}
+        ],
+        "The women mock Ford's destructive entrance, comparing his roaring outburst to a natural disaster."
+    ],
+    "Cerchiam sotto il letto.": [
+        "Let us search under the bed.",
+        [
+            {"word": "Cerchiam", "lemma": "cercare", "pos": "verb", "meaning": "let us search (1st person plural imperative, apocopic)"},
+            {"word": "sotto", "lemma": "sotto", "pos": "preposition", "meaning": "under / beneath"},
+            {"word": "letto", "lemma": "letto", "pos": "noun", "meaning": "bed"}
+        ],
+        "Determined to find proof of his dishonor, Ford commands the search party to check beneath the bedroom furniture."
+    ],
+    "Nel forno, nel pozzo, nel bagno, sul tetto,": [
+        "In the oven, in the well, in the bathroom, on the roof,",
+        [
+            {"word": "forno", "lemma": "forno", "pos": "noun", "meaning": "oven / furnace"},
+            {"word": "pozzo", "lemma": "pozzo", "pos": "noun", "meaning": "well"},
+            {"word": "bagno", "lemma": "bagno", "pos": "noun", "meaning": "bath / bathroom"},
+            {"word": "tetto", "lemma": "tetto", "pos": "noun", "meaning": "roof"}
+        ],
+        "Ford rattles off an absurd, manic inventory of hiding places, revealing how completely suspicion has untethered his reason."
+    ],
+    "in cantina...": [
+        "in the cellar...",
+        [
+            {"word": "in", "lemma": "in", "pos": "preposition", "meaning": "in / into"},
+            {"word": "cantina", "lemma": "cantina", "pos": "noun", "meaning": "cellar / basement / wine cellar"}
+        ],
+        "Ford's voice trails off as he dashes out of the room to scour the rest of the house from cellar to garret."
+    ],
+    "È farnetico!": [
+        "He is raving mad!",
+        [
+            {"word": "È", "lemma": "essere", "pos": "verb", "meaning": "he is / is (3rd person singular present)"},
+            {"word": "farnetico", "lemma": "farnetico", "pos": "adjective", "meaning": "delirious / raving / crazed"}
+        ],
+        "Alice laughs at Ford's frantic exit, amused that his genuine paranoia has played right into their orchestrated practical joke."
+    ],
+    "Cogliam tempo.": [
+        "Let us seize the moment.",
+        [
+            {"word": "Cogliam", "lemma": "cogliere", "pos": "verb", "meaning": "let us seize / take (1st person plural imperative, apocopic)"},
+            {"word": "tempo", "lemma": "tempo", "pos": "noun", "meaning": "time / opportunity / moment"}
+        ],
+        "Quickly realizes they have only a brief window before Ford doubles back from the other rooms."
+    ],
+    "Troviamo": [
+        "Let us find",
+        [
+            {"word": "Troviamo", "lemma": "trovare", "pos": "verb", "meaning": "let us find (1st person plural imperative)"},
+            {"word": "trovare", "lemma": "trovare", "pos": "verb", "meaning": "to find / discover / devise"}
+        ],
+        "Alice urgently begins looking for a means to smuggle Falstaff out before Ford returns."
+    ],
+    "modo com'egli fugga.": [
+        "a way how he may flee.",
+        [
+            {"word": "modo", "lemma": "modo", "pos": "noun", "meaning": "way / means / manner"},
+            {"word": "com'", "lemma": "come", "pos": "conjunction", "meaning": "how / as (elided)"},
+            {"word": "egli", "lemma": "egli", "pos": "pronoun", "meaning": "he (subject pronoun)"},
+            {"word": "fugga", "lemma": "fuggire", "pos": "verb", "meaning": "he may flee (3rd person singular present subjunctive)"}
+        ],
+        "Continuation of Alice's line, seeking an escape route for the panicked knight."
+    ],
+    "Nel panier.": [
+        "In the hamper.",
+        [
+            {"word": "Nel", "lemma": "in", "pos": "preposition", "meaning": "in the (articulated preposition in + il)"},
+            {"word": "panier", "lemma": "paniere", "pos": "noun", "meaning": "hamper / basket (apocopic form of paniere)"}
+        ],
+        "Meg points to the newly emptied laundry hamper as the ideal vessel to conceal Falstaff."
+    ],
+    "No, là dentro": [
+        "No, in there",
+        [
+            {"word": "No", "lemma": "no", "pos": "adverb", "meaning": "no"},
+            {"word": "là", "lemma": "là", "pos": "adverb", "meaning": "there"},
+            {"word": "dentro", "lemma": "dentro", "pos": "adverb", "meaning": "inside / within"}
+        ],
+        "Alice feigns doubt to bait Falstaff into volunteering himself for the humiliating hiding spot."
+    ],
+    "non c'entra, è troppo grosso.": [
+        "he does not fit in there, he is too fat.",
+        [
+            {"word": "c'entra", "lemma": "entrarci", "pos": "verb", "meaning": "fits in there (ci + entra)"},
+            {"word": "troppo", "lemma": "troppo", "pos": "adverb", "meaning": "too / excessively"},
+            {"word": "grosso", "lemma": "grosso", "pos": "adjective", "meaning": "fat / big / bulky"}
+        ],
+        "Alice teases Falstaff's famous girth, knowing his desperate desire to escape will make him squeeze in regardless."
+    ],
+    "Vediam; sì, c'entro, c'entro.": [
+        "Let us see; yes, I fit, I fit.",
+        [
+            {"word": "Vediam", "lemma": "vedere", "pos": "verb", "meaning": "let us see (1st person plural imperative, apocopic)"},
+            {"word": "sì", "lemma": "sì", "pos": "adverb", "meaning": "yes"},
+            {"word": "c'entro", "lemma": "entrarci", "pos": "verb", "meaning": "I fit in there (ci + entro)"}
+        ],
+        "Emerging from behind the screen in sheer terror, Falstaff eagerly contorts his massive bulk to wedge himself into the basket."
+    ],
+    "Corro a chiamare i servi.": [
+        "I run to call the servants.",
+        [
+            {"word": "Corro", "lemma": "correre", "pos": "verb", "meaning": "I run (1st person singular present)"},
+            {"word": "chiamare", "lemma": "chiamare", "pos": "verb", "meaning": "to call / summon"},
+            {"word": "servi", "lemma": "servo", "pos": "noun", "meaning": "servants"},
+            {"word": "i", "lemma": "il", "pos": "particle", "meaning": "the (masculine plural definite article)"}
+        ],
+        "Alice slips away to order the servants to carry out the hamper and dump it into the Thames, completing the comedic punishment."
+    ],
+    "Sir John! Voi qui? Voi?": [
+        "Sir John! You here? You?",
+        [
+            {"word": "Sir", "lemma": "Sir", "pos": "noun", "meaning": "Sir (title of knighthood)"},
+            {"word": "John", "lemma": "John", "pos": "noun", "meaning": "John (proper name)"},
+            {"word": "qui", "lemma": "qui", "pos": "adverb", "meaning": "here"},
+            {"word": "Voi", "lemma": "voi", "pos": "pronoun", "meaning": "you (formal second-person pronoun)"}
+        ],
+        "Meg playfully mocks Falstaff with feigned surprise as he scrambles into the laundry hamper."
+    ],
+    "T'amo amo te sola...": [
+        "I love you I love you alone...",
+        [
+            {"word": "T'amo", "lemma": "amare", "pos": "verb", "meaning": "I love you (ti + amo)"},
+            {"word": "amo", "lemma": "amare", "pos": "verb", "meaning": "I love (1st person singular present)"},
+            {"word": "te", "lemma": "te", "pos": "pronoun", "meaning": "you (disjunctive pronoun)"},
+            {"word": "sola", "lemma": "solo", "pos": "adjective", "meaning": "alone / only"}
+        ],
+        "Even while cowering inside dirty laundry in mortal terror, Falstaff instinctively tries to woo Meg, recycling the exact falsehoods he fed Alice."
+    ],
+    "salvami! salvami!": [
+        "save me! save me!",
+        [
+            {"word": "salvami", "lemma": "salvare", "pos": "verb", "meaning": "save me (imperative salva + clitic pronoun mi)"},
+            {"word": "salvare", "lemma": "salvare", "pos": "verb", "meaning": "to save / rescue"}
+        ],
+        "Falstaff grovels in panic, begging Meg and Quickly to protect him from Ford's wrath."
+    ],
+    "Svelto!": [
+        "Quick!",
+        [
+            {"word": "Svelto", "lemma": "svelto", "pos": "adjective", "meaning": "quick / brisk / nimble"},
+            {"word": "sveltire", "lemma": "sveltire", "pos": "verb", "meaning": "to hasten / quicken"}
+        ],
+        "Quickly pushes Falstaff down into the hamper with brisk comedic urgency."
+    ],
+    "Lesto!": [
+        "Nimble!",
+        [
+            {"word": "Lesto", "lemma": "lesto", "pos": "adjective", "meaning": "nimble / quick / agile"},
+            {"word": "lestamente", "lemma": "lestamente", "pos": "adverb", "meaning": "quickly / nimbly"}
+        ],
+        "Meg urges Falstaff to fold himself completely beneath the rim of the hamper."
+    ],
+    "Ahi!... Ahi!... Ci sto... Copritemi...": [
+        "Ouch!... Ouch!... I am inside... Cover me...",
+        [
+            {"word": "Ahi", "lemma": "ahi", "pos": "interjection", "meaning": "ouch / alas (cry of pain)"},
+            {"word": "sto", "lemma": "stare", "pos": "verb", "meaning": "I stay / I fit / I am (1st person singular present)"},
+            {"word": "Copritemi", "lemma": "coprire", "pos": "verb", "meaning": "cover me (imperative coprite + clitic pronoun mi)"}
+        ],
+        "Falstaff groans as his ample body is wedged painfully into the wicker basket, pleading to be hidden."
+    ],
+    "Presto! colmiamo il cesto.": [
+        "Quick! let us heap the basket.",
+        [
+            {"word": "Presto", "lemma": "presto", "pos": "adverb", "meaning": "quick / fast"},
+            {"word": "colmiamo", "lemma": "colmare", "pos": "verb", "meaning": "let us heap / fill to the brim (1st person plural imperative)"},
+            {"word": "cesto", "lemma": "cesto", "pos": "noun", "meaning": "basket / hamper"}
+        ],
+        "Quickly directs Meg to pile dirty linen back on top of Falstaff until he is totally invisible."
+    ],
+    "Meg e Quickly attendono a nascondere Falstaff sotto la biancheria,": [
+        "Meg and Quickly attend to hiding Falstaff under the linen,",
+        [
+            {"word": "attendono", "lemma": "attendere", "pos": "verb", "meaning": "they attend / apply themselves (3rd person plural present)"},
+            {"word": "nascondere", "lemma": "nascondere", "pos": "verb", "meaning": "to hide / conceal"},
+            {"word": "sotto", "lemma": "sotto", "pos": "preposition", "meaning": "under / beneath"},
+            {"word": "biancheria", "lemma": "biancheria", "pos": "noun", "meaning": "linen / laundry"}
+        ],
+        "Stage direction detailing the farcical stage business of burying Falstaff under mounds of foul laundry."
+    ],
+    "mentre Nannetta e Fenton entrano da sinistra.": [
+        "while Nannetta and Fenton enter from the left.",
+        [
+            {"word": "mentre", "lemma": "mentre", "pos": "conjunction", "meaning": "while / as"},
+            {"word": "entrano", "lemma": "entrare", "pos": "verb", "meaning": "they enter (3rd person plural present)"},
+            {"word": "sinistra", "lemma": "sinistra", "pos": "noun", "meaning": "left (stage left)"},
+            {"word": "da", "lemma": "da", "pos": "preposition", "meaning": "from"}
+        ],
+        "Stage direction introducing the young lovers, who use the pandemonium to sneak into the room unnoticed."
+    ],
+    "Vien qua.": [
+        "Come here.",
+        [
+            {"word": "Vien", "lemma": "venire", "pos": "verb", "meaning": "come (2nd person singular imperative, apocopic form of vieni)"},
+            {"word": "qua", "lemma": "qua", "pos": "adverb", "meaning": "here"}
+        ],
+        "Nannetta quietly beckons Fenton into the room, looking for a private spot away from the commotion."
+    ],
+    "Che chiasso!": [
+        "What a racket!",
+        [
+            {"word": "Che", "lemma": "che", "pos": "adjective", "meaning": "what a (exclamative determiner)"},
+            {"word": "chiasso", "lemma": "chiasso", "pos": "noun", "meaning": "racket / uproar / clamor"}
+        ],
+        "Fenton marvels in amused disbelief at the deafening hullabaloo echoing through the house."
+    ],
+    "Quanti schiamazzi!": [
+        "So much clamor!",
+        [
+            {"word": "Quanti", "lemma": "quanto", "pos": "adjective", "meaning": "how many / so much (exclamative determiner)"},
+            {"word": "schiamazzi", "lemma": "schiamazzo", "pos": "noun", "meaning": "clamor / squawking / shrieking"}
+        ],
+        "Nannetta listens to the shouts of Ford and his men searching rooms elsewhere in the house."
+    ],
+    "Segui il mio passo.": [
+        "Follow my step.",
+        [
+            {"word": "Segui", "lemma": "seguire", "pos": "verb", "meaning": "follow (2nd person singular imperative)"},
+            {"word": "passo", "lemma": "passo", "pos": "noun", "meaning": "step / pace / footstep"},
+            {"word": "mio", "lemma": "mio", "pos": "adjective", "meaning": "my (possessive adjective)"}
+        ],
+        "Nannetta leads Fenton on tiptoe toward the folding screen."
+    ],
+    "Casa di pazzi!": [
+        "House of madmen!",
+        [
+            {"word": "Casa", "lemma": "casa", "pos": "noun", "meaning": "house / home"},
+            {"word": "pazzi", "lemma": "pazzo", "pos": "noun", "meaning": "madmen / fools"}
+        ],
+        "Fenton wryly summarizes the chaotic madness of Ford's domestic fortress."
+    ],
+    "Qui ognun delira": [
+        "Here everyone is raving",
+        [
+            {"word": "Qui", "lemma": "qui", "pos": "adverb", "meaning": "here"},
+            {"word": "ognun", "lemma": "ognuno", "pos": "pronoun", "meaning": "everyone / each one (apocopic form of ognuno)"},
+            {"word": "delira", "lemma": "delirare", "pos": "verb", "meaning": "is delirious / raves (3rd person singular present)"}
+        ],
+        "Nannetta begins the serene, lyrical strophe of their love duet amidst the comic storm."
+    ],
+    "con vario error.": [
+        "with various folly.",
+        [
+            {"word": "con", "lemma": "con", "pos": "preposition", "meaning": "with"},
+            {"word": "vario", "lemma": "vario", "pos": "adjective", "meaning": "various / diverse"},
+            {"word": "error", "lemma": "errore", "pos": "noun", "meaning": "folly / madness / error (apocopic form of errore)"}
+        ],
+        "Poetic Italian usage: 'error' signifies mental aberration, moral blindness, or folly."
+    ],
+    "Son pazzi d'ira...": [
+        "They are mad with rage...",
+        [
+            {"word": "Son", "lemma": "essere", "pos": "verb", "meaning": "they are (apocopic form of sono)"},
+            {"word": "pazzi", "lemma": "pazzo", "pos": "adjective", "meaning": "mad / crazy"},
+            {"word": "ira", "lemma": "ira", "pos": "noun", "meaning": "rage / wrath / anger"},
+            {"word": "d'", "lemma": "di", "pos": "preposition", "meaning": "with / of (elided)"}
+        ],
+        "Nannetta characterizes the frenzy of Ford and Caius as a destructive madness born of jealousy."
+    ],
+    "E noi d'amor.": [
+        "And we with love.",
+        [
+            {"word": "noi", "lemma": "noi", "pos": "pronoun", "meaning": "we (subject pronoun)"},
+            {"word": "amor", "lemma": "amore", "pos": "noun", "meaning": "love (apocopic form of amore)"},
+            {"word": "d'", "lemma": "di", "pos": "preposition", "meaning": "with / of (elided)"}
+        ],
+        "Fenton matches Nannetta's poetic meter, identifying their own sweet madness of young love."
+    ],
+    "Seguimi. Adagio.": [
+        "Follow me. Gently.",
+        [
+            {"word": "Seguimi", "lemma": "seguire", "pos": "verb", "meaning": "follow me (imperative segui + clitic pronoun mi)"},
+            {"word": "Adagio", "lemma": "adagio", "pos": "adverb", "meaning": "gently / softly / slowly"}
+        ],
+        "Nannetta cautiously ushers Fenton behind the decorative tapestry screen where Falstaff previously hid."
+    ],
+    "Nessun m'ha scorto.": [
+        "No one has noticed me.",
+        [
+            {"word": "Nessun", "lemma": "nessuno", "pos": "pronoun", "meaning": "no one / nobody (apocopic form of nessuno)"},
+            {"word": "scorto", "lemma": "scorgere", "pos": "verb", "meaning": "noticed / perceived (past participle of scorgere)"},
+            {"word": "m'", "lemma": "mi", "pos": "pronoun", "meaning": "me (elided clitic pronoun)"},
+            {"word": "ha", "lemma": "avere", "pos": "verb", "meaning": "has (auxiliary verb)"}
+        ],
+        "Fenton expresses relief that Ford, who opposes his suit to Nannetta, has not spotted him in the house."
+    ],
+    "Tocchiamo il porto.": [
+        "We reach port.",
+        [
+            {"word": "Tocchiamo", "lemma": "toccare", "pos": "verb", "meaning": "we touch / reach (1st person plural present)"},
+            {"word": "porto", "lemma": "porto", "pos": "noun", "meaning": "port / harbor / safe haven"},
+            {"word": "il", "lemma": "il", "pos": "particle", "meaning": "the (masculine singular definite article)"}
+        ],
+        "Metaphor of the safe harbor: behind the screen, the lovers have found temporary refuge from family surveillance."
+    ],
+    "Siamo a nostr'agio.": [
+        "We are at our ease.",
+        [
+            {"word": "Siamo", "lemma": "essere", "pos": "verb", "meaning": "we are (1st person plural present)"},
+            {"word": "nostr'agio", "lemma": "agio", "pos": "idiom", "meaning": "at our ease / comfortably (a nostro agio)"},
+            {"word": "agio", "lemma": "agio", "pos": "noun", "meaning": "ease / comfort / convenience"}
+        ],
+        "Fenton relishes the intimate privacy afforded by the screen amidst the surrounding chaos."
+    ],
+    "Sta' zitto e attento.": [
+        "Keep quiet and watchful.",
+        [
+            {"word": "Sta'", "lemma": "stare", "pos": "verb", "meaning": "stay / keep (truncated imperative of stare)"},
+            {"word": "zitto", "lemma": "zitto", "pos": "adjective", "meaning": "quiet / silent"},
+            {"word": "attento", "lemma": "attento", "pos": "adjective", "meaning": "attentive / watchful / alert"}
+        ],
+        "Nannetta warns Fenton to remain on guard despite their momentary seclusion."
+    ],
+    "Vien sul mio petto!": [
+        "Come to my breast!",
+        [
+            {"word": "Vien", "lemma": "venire", "pos": "verb", "meaning": "come (apocopic imperative of venire)"},
+            {"word": "sul", "lemma": "su", "pos": "preposition", "meaning": "to the / onto the (su + il)"},
+            {"word": "petto", "lemma": "petto", "pos": "noun", "meaning": "breast / chest / bosom"},
+            {"word": "mio", "lemma": "mio", "pos": "adjective", "meaning": "my"}
+        ],
+        "Fenton draws Nannetta into an impassioned embrace behind the screen."
+    ],
+    "Il paravento": [
+        "The screen",
+        [
+            {"word": "paravento", "lemma": "paravento", "pos": "noun", "meaning": "screen / folding screen"},
+            {"word": "Il", "lemma": "il", "pos": "particle", "meaning": "the (definite article)"}
+        ],
+        "Nannetta begins their rhyming couplet celebrating the folding screen that conceals their love."
+    ],
+    "sia benedetto!": [
+        "be blessed!",
+        [
+            {"word": "sia", "lemma": "essere", "pos": "verb", "meaning": "be / may it be (3rd person singular present subjunctive)"},
+            {"word": "benedetto", "lemma": "benedire", "pos": "adjective", "meaning": "blessed (past participle of benedire)"}
+        ],
+        "Nannetta invokes a mock blessing upon the folding screen for providing their clandestine shelter."
+    ],
+    "Nannetta e Fenton nascosti nel paravento.": [
+        "Nannetta and Fenton hidden behind the screen.",
+        [
+            {"word": "nascosti", "lemma": "nascondere", "pos": "adjective", "meaning": "hidden (past participle of nascondere)"},
+            {"word": "paravento", "lemma": "paravento", "pos": "noun", "meaning": "screen / folding screen"},
+            {"word": "nel", "lemma": "in", "pos": "preposition", "meaning": "behind the / in the (in + il)"}
+        ],
+        "Stage direction confirming the young couple's hidden position, setting up the comic mistaken identity to follow."
+    ],
+    "Mr. Ford ed il Dr. Cajus da sinistra,": [
+        "Mr. Ford and Dr. Caius from the left,",
+        [
+            {"word": "sinistra", "lemma": "sinistra", "pos": "noun", "meaning": "left (stage left)"},
+            {"word": "da", "lemma": "da", "pos": "preposition", "meaning": "from"},
+            {"word": "ed", "lemma": "e", "pos": "conjunction", "meaning": "and (euphonic form before vowels)"}
+        ],
+        "Stage direction describing Ford and Caius storming back into the main room from stage left."
+    ],
+    "Bardolfo e Pistola da destra con Gente del vicinato.": [
+        "Bardolfo and Pistola from the right with people of the neighborhood.",
+        [
+            {"word": "destra", "lemma": "destra", "pos": "noun", "meaning": "right (stage right)"},
+            {"word": "Gente", "lemma": "gente", "pos": "noun", "meaning": "people"},
+            {"word": "vicinato", "lemma": "vicinato", "pos": "noun", "meaning": "neighborhood"},
+            {"word": "con", "lemma": "con", "pos": "preposition", "meaning": "with"}
+        ],
+        "Stage direction depicting the armed neighbors and servants re-entering under the lead of Bardolfo and Pistola."
+    ],
+    "Quickly e Meg accanto alla cesta dove c'è Falstaff nascosto.": [
+        "Quickly and Meg beside the hamper where Falstaff is hidden.",
+        [
+            {"word": "accanto", "lemma": "accanto", "pos": "preposition", "meaning": "beside / next to"},
+            {"word": "cesta", "lemma": "cesta", "pos": "noun", "meaning": "hamper / basket"},
+            {"word": "nascosto", "lemma": "nascondere", "pos": "adjective", "meaning": "hidden (past participle)"},
+            {"word": "dove", "lemma": "dove", "pos": "adverb", "meaning": "where"}
+        ],
+        "Stage direction emphasizing the comic spatial counterpoint: Falstaff suffocates in the hamper while Nannetta and Fenton whisper behind the screen."
+    ],
+    "Poi ritornerà Alice dal fondo.": [
+        "Then Alice will return from the back.",
+        [
+            {"word": "Poi", "lemma": "poi", "pos": "adverb", "meaning": "then / afterwards"},
+            {"word": "ritornerà", "lemma": "ritornare", "pos": "verb", "meaning": "will return (3rd person singular future)"},
+            {"word": "fondo", "lemma": "fondo", "pos": "noun", "meaning": "back / upstage"},
+            {"word": "dal", "lemma": "da", "pos": "preposition", "meaning": "from the (da + il)"}
+        ],
+        "Stage direction marking Alice's imminent return from upstage after executing her scheme with the servants."
+    ],
+    "Al ladro!": [
+        "Stop thief!",
+        [
+            {"word": "Al", "lemma": "a", "pos": "preposition", "meaning": "to the (traditional hue and cry exclamation)"},
+            {"word": "ladro", "lemma": "ladro", "pos": "noun", "meaning": "thief"}
+        ],
+        "Dr. Caius enters shouting legalistic hue-and-cry formulas, conflating Falstaff's romantic intrusion with grand larceny."
+    ],
+    "Al pagliardo!": [
+        "To the lecher!",
+        [
+            {"word": "Al", "lemma": "a", "pos": "preposition", "meaning": "to the (hue and cry formula)"},
+            {"word": "pagliardo", "lemma": "pagliardo", "pos": "noun", "meaning": "lecher / villain / rascal"}
+        ],
+        "Ford bellows an archaic insult derived from Old French 'paillard', targeting Falstaff's lustful deceit."
+    ],
+    "Squartatelo!": [
+        "Quarter him!",
+        [
+            {"word": "Squartatelo", "lemma": "squartare", "pos": "verb", "meaning": "quarter him (imperative squartate + clitic pronoun lo)"},
+            {"word": "squartare", "lemma": "squartare", "pos": "verb", "meaning": "to quarter / tear to pieces"}
+        ],
+        "Dr. Caius's hysterical bloodthirstiness adds farcical exaggeration to the hunt."
+    ],
+    "C'è?": [
+        "Is he here?",
+        [
+            {"word": "c'", "lemma": "ci", "pos": "pronoun", "meaning": "there (locative pronoun ci, elided)"},
+            {"word": "è", "lemma": "essere", "pos": "verb", "meaning": "is (3rd person singular present)"}
+        ],
+        "Ford snaps out an inquiry to Bardolfo and Pistola to learn if their search yielded results."
+    ],
+    "No.": [
+        "No.",
+        [
+            {"word": "No", "lemma": "no", "pos": "adverb", "meaning": "no"},
+            {"word": "negativo", "lemma": "negativo", "pos": "adjective", "meaning": "negative / in the negative"}
+        ],
+        "Pistola bluntly reports that their sweep of the corridors produced nothing."
+    ],
+    "Non c'è, no.": [
+        "He is not here, no.",
+        [
+            {"word": "Non", "lemma": "non", "pos": "adverb", "meaning": "not"},
+            {"word": "c'è", "lemma": "esserci", "pos": "verb", "meaning": "is here / there is (ci + è)"},
+            {"word": "no", "lemma": "no", "pos": "adverb", "meaning": "no"}
+        ],
+        "Bardolfo echoes Pistola's report with redundant emphasis."
+    ],
+    "Vada a soqquadro la casa.": [
+        "Let the house be turned upside down.",
+        [
+            {"word": "Vada", "lemma": "andare", "pos": "verb", "meaning": "let it go (3rd person singular present subjunctive)"},
+            {"word": "soqquadro", "lemma": "soqquadro", "pos": "noun", "meaning": "upheaval / chaos / topsy-turvy state"},
+            {"word": "casa", "lemma": "casa", "pos": "noun", "meaning": "house"}
+        ],
+        "Frustrated by the lack of clues, Ford orders complete destruction of his own property to uncover the hidden knight."
+    ],
+    "Non trovo nessuno.": [
+        "I find no one.",
+        [
+            {"word": "Non", "lemma": "non", "pos": "adverb", "meaning": "not"},
+            {"word": "trovo", "lemma": "trovare", "pos": "verb", "meaning": "I find (1st person singular present)"},
+            {"word": "nessuno", "lemma": "nessuno", "pos": "pronoun", "meaning": "no one / nobody"}
+        ],
+        "Dr. Caius admits his own frantic inspection of wardrobes and corners has been fruitless."
+    ],
+    "Eppur giuro": [
+        "And yet I swear",
+        [
+            {"word": "Eppur", "lemma": "eppure", "pos": "conjunction", "meaning": "and yet / nevertheless (apocopic form of eppure)"},
+            {"word": "giuro", "lemma": "giurare", "pos": "verb", "meaning": "I swear (1st person singular present)"}
+        ],
+        "Ford refuses to question his informants' tips, stubbornly digging into his jealous conviction."
+    ],
+    "che l'uomo è qua dentro. Ne sono sicuro!": [
+        "that the man is in here. Of it I am sure!",
+        [
+            {"word": "uomo", "lemma": "uomo", "pos": "noun", "meaning": "man"},
+            {"word": "dentro", "lemma": "dentro", "pos": "adverb", "meaning": "inside / in here"},
+            {"word": "Ne", "lemma": "ne", "pos": "pronoun", "meaning": "of it / about it (pronominal particle ne)"},
+            {"word": "sicuro", "lemma": "sicuro", "pos": "adjective", "meaning": "sure / certain"}
+        ],
+        "Ford's monomaniacal fixation: he cannot conceive that he might have been misinformed or outmaneuvered."
+    ],
+    "sicuro! sicuro!": [
+        "sure! sure!",
+        [
+            {"word": "sicuro", "lemma": "sicuro", "pos": "adjective", "meaning": "sure / certain / confident"},
+            {"word": "sicurezza", "lemma": "sicurezza", "pos": "noun", "meaning": "certainty / assurance"}
+        ],
+        "Ford's manic repetition underscores how completely his obsession dominates his rational mind."
+    ],
+    "Sir John! Sarò gaio": [
+        "Sir John! I will be joyful",
+        [
+            {"word": "Sir", "lemma": "Sir", "pos": "noun", "meaning": "Sir (title)"},
+            {"word": "Sarò", "lemma": "essere", "pos": "verb", "meaning": "I will be (1st person singular future)"},
+            {"word": "gaio", "lemma": "gaio", "pos": "adjective", "meaning": "joyful / cheerful / merry"}
+        ],
+        "Dr. Caius gloats at the prospect of seeing his nemesis brought to the scaffold."
+    ],
+    "quel dì ch'io ti veda dar calci a rovaio!": [
+        "that day when I see you kicking the north wind!",
+        [
+            {"word": "dì", "lemma": "dì", "pos": "noun", "meaning": "day"},
+            {"word": "veda", "lemma": "vedere", "pos": "verb", "meaning": "I may see (1st person singular present subjunctive)"},
+            {"word": "calci", "lemma": "calcio", "pos": "noun", "meaning": "kicks"},
+            {"word": "rovaio", "lemma": "rovaio", "pos": "noun", "meaning": "north wind / cold tramontana"},
+            {"word": "dar calci a rovaio", "lemma": "dar calci a rovaio", "pos": "idiom", "meaning": "to kick the north wind (to hang on the gallows)"}
+        ],
+        "Boito employs the colorful Tuscan idiom 'dar calci a rovaio' (to kick the north wind), a gruesome euphemism for hanging by the neck from the gallows."
+    ],
+    "T'arrendi furfante! T'arrendi! O bombardo": [
+        "Surrender rogue! Surrender! Or I bombard",
+        [
+            {"word": "T'arrendi", "lemma": "arrendersi", "pos": "verb", "meaning": "surrender (imperative ti + arrendi)"},
+            {"word": "furfante", "lemma": "furfante", "pos": "noun", "meaning": "rogue / knave / villain"},
+            {"word": "bombardo", "lemma": "bombardare", "pos": "verb", "meaning": "I bombard / shell (1st person singular present)"}
+        ],
+        "Ford adopts military siege rhetoric, treating his own parlor as a besieged fortress."
+    ],
+    "le mura!": [
+        "the walls!",
+        [
+            {"word": "mura", "lemma": "muro", "pos": "noun", "meaning": "walls / ramparts (irregular feminine plural of muro)"},
+            {"word": "le", "lemma": "il", "pos": "particle", "meaning": "the (feminine plural definite article)"}
+        ],
+        "Conclusion of Ford's bombastic threat to reduce his own home to rubble."
+    ],
+    "T'arrendi!": [
+        "Surrender!",
+        [
+            {"word": "T'arrendi", "lemma": "arrendersi", "pos": "verb", "meaning": "surrender (imperative ti + arrendi)"},
+            {"word": "arrendere", "lemma": "arrendere", "pos": "verb", "meaning": "to surrender / yield"}
+        ],
+        "Dr. Caius seconds Ford's ultimatum with pompous fury."
+    ],
+    "Vien fuora! Codardo!": [
+        "Come out! Coward!",
+        [
+            {"word": "Vien", "lemma": "venire", "pos": "verb", "meaning": "come (apocopic imperative of venire)"},
+            {"word": "fuora", "lemma": "fuori", "pos": "adverb", "meaning": "out / outside (archaic form of fuori)"},
+            {"word": "Codardo", "lemma": "codardo", "pos": "noun", "meaning": "coward"}
+        ],
+        "Ford challenges Falstaff to step into the open and face his wrath like a man."
+    ],
+    "Sugliardo!": [
+        "Filthy swine!",
+        [
+            {"word": "Sugliardo", "lemma": "sugliardo", "pos": "noun", "meaning": "filthy swine / slob (archaic French souillard)"},
+            {"word": "sugliardo", "lemma": "sugliardo", "pos": "adjective", "meaning": "squalid / filthy / base"}
+        ],
+        "Boito revitalizes an archaic burlesque insult ('sugliardo', from Old French 'souillard'), painting Falstaff as an unclean scullion."
+    ],
+    "Nessuno!": [
+        "No one!",
+        [
+            {"word": "Nessuno", "lemma": "nessuno", "pos": "pronoun", "meaning": "no one / nobody"},
+            {"word": "nessuno", "lemma": "nessuno", "pos": "adjective", "meaning": "no / not any"}
+        ],
+        "Bardolfo and Pistola confirm from the other side of the room that their sweep found nothing."
+    ],
+    "Cercatelo ancora!": [
+        "Search for him again!",
+        [
+            {"word": "Cercatelo", "lemma": "cercare", "pos": "verb", "meaning": "search for him (imperative cercate + clitic pronoun lo)"},
+            {"word": "ancora", "lemma": "ancora", "pos": "adverb", "meaning": "again / once more"}
+        ],
+        "Unwilling to give up, Ford drives his men into a second, more frantic search."
+    ],
+    "T'arrendi! Scanfardo!": [
+        "Surrender! Scoundrel!",
+        [
+            {"word": "T'arrendi", "lemma": "arrendersi", "pos": "verb", "meaning": "surrender (imperative ti + arrendi)"},
+            {"word": "Scanfardo", "lemma": "scanfardo", "pos": "noun", "meaning": "scoundrel / gluttonous knave"}
+        ],
+        "Another rare, colorful medieval-Renaissance insult retrieved by Boito to create a rhythmic onslaught of rhymes in '-ardo'."
+    ],
+    "Non c'è!": [
+        "He is not here!",
+        [
+            {"word": "Non", "lemma": "non", "pos": "adverb", "meaning": "not"},
+            {"word": "c'è", "lemma": "esserci", "pos": "verb", "meaning": "there is / he is here (ci + è)"}
+        ],
+        "Ford howls in rage as another corner yields no trace of Falstaff."
+    ],
+    "Vieni fuori!": [
+        "Come out!",
+        [
+            {"word": "Vieni", "lemma": "venire", "pos": "verb", "meaning": "come (2nd person singular imperative)"},
+            {"word": "fuori", "lemma": "fuori", "pos": "adverb", "meaning": "out / outside"}
+        ],
+        "Dr. Caius screams into the room, brandishing his weapon at empty curtains."
+    ],
+    "Pappalardo! Beon! Bada a te!": [
+        "Glutton! Drunkard! Watch out for yourself!",
+        [
+            {"word": "Pappalardo", "lemma": "pappalardo", "pos": "noun", "meaning": "glutton / lard-eater / hypocrite"},
+            {"word": "Beon", "lemma": "beone", "pos": "noun", "meaning": "drunkard / heavy drinker (apocopic form of beone)"},
+            {"word": "Bada", "lemma": "badare", "pos": "verb", "meaning": "watch out / beware (2nd person singular imperative)"},
+            {"word": "a te", "lemma": "a te", "pos": "idiom", "meaning": "for yourself / watch your back"}
+        ],
+        "Dr. Caius insults Falstaff's voracious gluttony ('pappalardo', eater of lard) and notorious boozing ('beon')."
+    ],
+    "Scagnardo! Falsardo! Briccon!": [
+        "Mean cur! Deceiver! Rogue!",
+        [
+            {"word": "Scagnardo", "lemma": "scagnardo", "pos": "noun", "meaning": "mean dog / foul cur (from scagno/cagna)"},
+            {"word": "Falsardo", "lemma": "falsardo", "pos": "noun", "meaning": "deceiver / liar / treacherous cheat"},
+            {"word": "Briccon", "lemma": "briccone", "pos": "noun", "meaning": "rogue / scoundrel (apocopic form of briccone)"}
+        ],
+        "Ford unleashes his final pair of inventive rhyming epithets ending in '-ardo' before the sudden stillness descends."
+    ],
+    "NANNETTA E FENTON": [
+        "NANNETTA AND FENTON",
+        [
+            {"word": "Nannetta", "lemma": "Nannetta", "pos": "noun", "meaning": "Nannetta (proper name)"},
+            {"word": "Fenton", "lemma": "Fenton", "pos": "noun", "meaning": "Fenton (proper name)"},
+            {"word": "E", "lemma": "e", "pos": "conjunction", "meaning": "and"}
+        ],
+        "Character cue in the libretto identifying the lovers hidden behind the screen during the dramatic hush."
+    ],
+    "(*)!": [
+        "(*)! ",
+        [
+            {"word": "bacio", "lemma": "bacio", "pos": "noun", "meaning": "kiss (the sonic cue indicated by the asterisk)"},
+            {"word": "sonoro", "lemma": "sonoro", "pos": "adjective", "meaning": "loud / resounding"}
+        ],
+        "The asterisk indicates a loud, resounding kiss exchanged by Nannetta and Fenton, breaking the silence and electrifying Ford's attention."
+    ],
+    "C'è.": [
+        "He is here.",
+        [
+            {"word": "c'", "lemma": "ci", "pos": "pronoun", "meaning": "there (locative pronoun ci, elided)"},
+            {"word": "è", "lemma": "essere", "pos": "verb", "meaning": "is (3rd person singular present)"}
+        ],
+        "Hearing the kiss from behind the screen, Ford freezes and whispers in sinister, breathless triumph."
+    ],
+    "Insieme": [
+        "Together",
+        [
+            {"word": "Insieme", "lemma": "insieme", "pos": "adverb", "meaning": "together / simultaneously"},
+            {"word": "assieme", "lemma": "assieme", "pos": "adverb", "meaning": "together"}
+        ],
+        "Performance direction in the score marking the ensemble whispering passage between Ford, Dr. Caius, Bardolfo, and Pistola."
+    ],
+    "Se t'agguanto!": [
+        "If I grab you!",
+        [
+            {"word": "Se", "lemma": "se", "pos": "conjunction", "meaning": "if"},
+            {"word": "t'", "lemma": "ti", "pos": "pronoun", "meaning": "you (clitic direct object pronoun, elided)"},
+            {"word": "agguanto", "lemma": "agguantare", "pos": "verb", "meaning": "I grab / seize / clutch (1st person singular present)"}
+        ],
+        "Ford creeps silently toward the screen, muttering fierce conditional threats."
+    ],
+    "Se ti piglio!": [
+        "If I catch you!",
+        [
+            {"word": "Se", "lemma": "se", "pos": "conjunction", "meaning": "if"},
+            {"word": "ti", "lemma": "ti", "pos": "pronoun", "meaning": "you (clitic direct object pronoun)"},
+            {"word": "piglio", "lemma": "pigliare", "pos": "verb", "meaning": "I catch / seize / grasp (1st person singular present)"}
+        ],
+        "Dr. Caius matches Ford's stalking rhythm, whispering venomous promises of retribution."
+    ],
+    "Se t'acciuffo!": [
+        "If I collar you!",
+        [
+            {"word": "Se", "lemma": "se", "pos": "conjunction", "meaning": "if"},
+            {"word": "t'", "lemma": "ti", "pos": "pronoun", "meaning": "you (clitic direct object pronoun, elided)"},
+            {"word": "acciuffo", "lemma": "acciuffare", "pos": "verb", "meaning": "I collar / grab by the tuft or hair (1st person singular present)"}
+        ],
+        "'Acciuffare' literally means to seize by the tuft of hair ('ciuffo') or collar, emphasizing violent physical confrontation."
+    ],
+    "Se t'acceffo!": [
+        "If I smack your muzzle!",
+        [
+            {"word": "Se", "lemma": "se", "pos": "conjunction", "meaning": "if"},
+            {"word": "t'", "lemma": "ti", "pos": "pronoun", "meaning": "you (clitic direct object pronoun, elided)"},
+            {"word": "acceffo", "lemma": "acceffare", "pos": "verb", "meaning": "I strike in the face / seize by the snout (1st person singular present)"}
+        ],
+        "'Acceffare' is a Tuscan colloquialism meaning to strike someone squarely across the muzzle ('ceffo')."
+    ],
+    "Ti sconquasso!": [
+        "I will shatter you!",
+        [
+            {"word": "Ti", "lemma": "ti", "pos": "pronoun", "meaning": "you (clitic direct object pronoun)"},
+            {"word": "sconquasso", "lemma": "sconquassare", "pos": "verb", "meaning": "I shatter / smash / batter to pieces (1st person singular present)"}
+        ],
+        "Ford's whispered fury reaches a fever pitch as he stalks closer to the tapestry."
+    ],
+    "T'arronciglio": [
+        "I will claw you",
+        [
+            {"word": "T'", "lemma": "ti", "pos": "pronoun", "meaning": "you (clitic direct object pronoun, elided)"},
+            {"word": "arronciglio", "lemma": "arroncigliare", "pos": "verb", "meaning": "I hook / claw / bend like a talon (1st person singular present)"}
+        ],
+        "'Arroncigliare' evokes hooking or grappling someone with iron claws or talons ('ronciglio')."
+    ],
+    "come un can!": [
+        "like a dog!",
+        [
+            {"word": "come", "lemma": "come", "pos": "preposition", "meaning": "like / as"},
+            {"word": "un", "lemma": "un", "pos": "particle", "meaning": "a (masculine singular indefinite article)"},
+            {"word": "can", "lemma": "cane", "pos": "noun", "meaning": "dog / hound (apocopic form of cane)"}
+        ],
+        "Dr. Caius finishes his whispered threat, treating the unseen lover like an animal to be mauled."
+    ],
+    "Ti rompo il ceffo!": [
+        "I will break your ugly mug!",
+        [
+            {"word": "Ti", "lemma": "ti", "pos": "pronoun", "meaning": "to you / your (dative clitic pronoun)"},
+            {"word": "rompo", "lemma": "rompere", "pos": "verb", "meaning": "I break / smash (1st person singular present)"},
+            {"word": "ceffo", "lemma": "ceffo", "pos": "noun", "meaning": "ugly mug / snout / snout-like face"}
+        ],
+        "'Ceffo' is an animalistic term for a face, conveying Ford's visceral contempt."
+    ],
+    "Guai a te!": [
+        "Woe to you!",
+        [
+            {"word": "Guai", "lemma": "guaio", "pos": "noun", "meaning": "woe / troubles (used as an exclamation)"},
+            {"word": "a te", "lemma": "a te", "pos": "idiom", "meaning": "to you / for you"}
+        ],
+        "Caius's menacing warning as the men prepare their ambush around the screen."
+    ],
+    "Prega il tuo santo!": [
+        "Pray to your saint!",
+        [
+            {"word": "Prega", "lemma": "pregare", "pos": "verb", "meaning": "pray (2nd person singular imperative)"},
+            {"word": "il", "lemma": "il", "pos": "particle", "meaning": "the (masculine singular definite article)"},
+            {"word": "tuo", "lemma": "tuo", "pos": "adjective", "meaning": "your (possessive adjective)"},
+            {"word": "santo", "lemma": "santo", "pos": "noun", "meaning": "saint / patron saint"}
+        ],
+        "Ford tells his rival to recommend his soul to heaven, as he intends to show no mercy."
+    ],
+    "Guai se alfin con te m'azzuffo!": [
+        "Woe if at last I brawl with you!",
+        [
+            {"word": "Guai", "lemma": "guaio", "pos": "noun", "meaning": "woe / trouble"},
+            {"word": "alfin", "lemma": "alla fine", "pos": "adverb", "meaning": "at last / in the end (apocopic form of alfine)"},
+            {"word": "azzuffo", "lemma": "azzuffarsi", "pos": "verb", "meaning": "I scuffle / brawl / come to blows (1st person singular present)"},
+            {"word": "con", "lemma": "con", "pos": "preposition", "meaning": "with"}
+        ],
+        "Dr. Caius relishes the prospect of a physical brawl to settle his old grievances with the knight."
+    ],
+    "Non si trova.": [
+        "He cannot be found.",
+        [
+            {"word": "Non", "lemma": "non", "pos": "adverb", "meaning": "not"},
+            {"word": "si", "lemma": "si", "pos": "pronoun", "meaning": "oneself (impersonal/passive particle)"},
+            {"word": "trova", "lemma": "trovare", "pos": "verb", "meaning": "finds / is found (3rd person singular present)"}
+        ],
+        "Bardolfo mutters in resignation that Falstaff seems to have vanished into thin air."
+    ],
+    "Non si coglie.": [
+        "He cannot be caught.",
+        [
+            {"word": "Non", "lemma": "non", "pos": "adverb", "meaning": "not"},
+            {"word": "si", "lemma": "si", "pos": "pronoun", "meaning": "oneself (impersonal/passive particle)"},
+            {"word": "coglie", "lemma": "cogliere", "pos": "verb", "meaning": "catches / is caught (3rd person singular present)"}
+        ],
+        "Pistola matches Bardolfo's passive phrasing, baffled by their inability to trap Falstaff."
+    ],
+    "Psss... Qua tutti.": [
+        "Psss... Here, everyone.",
+        [
+            {"word": "Psss", "lemma": "psss", "pos": "interjection", "meaning": "psst / hush (whispered call for silence)"},
+            {"word": "Qua", "lemma": "qua", "pos": "adverb", "meaning": "here"},
+            {"word": "tutti", "lemma": "tutto", "pos": "pronoun", "meaning": "everyone / all"}
+        ],
+        "Ford summons his accomplices in a stage whisper, gesturing dramatically toward the screen."
+    ],
+    "L'ho trovato.": [
+        "I have found him.",
+        [
+            {"word": "L'", "lemma": "il", "pos": "pronoun", "meaning": "him (elided direct object clitic pronoun lo)"},
+            {"word": "ho", "lemma": "avere", "pos": "verb", "meaning": "I have (1st person singular present auxiliary)"},
+            {"word": "trovato", "lemma": "trovare", "pos": "verb", "meaning": "found (past participle of trovare)"}
+        ],
+        "Ford boasts of his supposed triumph, convinced he has trapped his cheating wife and her lover red-handed."
+    ],
+    "Là c'è Falstaff con mia moglie.": [
+        "There is Falstaff with my wife.",
+        [
+            {"word": "Là", "lemma": "là", "pos": "adverb", "meaning": "there"},
+            {"word": "c'è", "lemma": "esserci", "pos": "verb", "meaning": "there is (ci + è)"},
+            {"word": "Falstaff", "lemma": "Falstaff", "pos": "noun", "meaning": "Falstaff (proper name)"},
+            {"word": "con", "lemma": "con", "pos": "preposition", "meaning": "with"},
+            {"word": "moglie", "lemma": "moglie", "pos": "noun", "meaning": "wife"}
+        ],
+        "The supreme irony of the scene: Ford points triumphantly at the folding screen, mistaking Nannetta and Fenton's stolen kiss for Alice and Falstaff."
+    ],
+    "Sozzo can vituperato!": [
+        "Filthy, reviled dog!",
+        [
+            {"word": "Sozzo", "lemma": "sozzo", "pos": "adjective", "meaning": "filthy / foul / dirty"},
+            {"word": "can", "lemma": "cane", "pos": "noun", "meaning": "dog / hound (apocopic form of cane)"},
+            {"word": "vituperato", "lemma": "vituperare", "pos": "adjective", "meaning": "reviled / abused / disgraced (past participle)"}
+        ],
+        "Bardolfo curses his former master with mercenary gusto, enthusiastically egging on Ford's vengeance."
+    ],
+    "Zitto!": [
+        "Hush!",
+        [
+            {"word": "Zitto", "lemma": "zitto", "pos": "adjective", "meaning": "silent / quiet"},
+            {"word": "zittire", "lemma": "zittire", "pos": "verb", "meaning": "to hush / silence / quiet"}
+        ],
+        "Ford frantically commands silence so their stealthy surround of the screen will catch the lovers off-guard."
+    ],
+    "Pistola e Dr. Cajus": [
+        "Pistola and Dr. Caius",
+        [
+            {"word": "Pistola", "lemma": "Pistola", "pos": "noun", "meaning": "Pistola (Pistol, proper name)"},
+            {"word": "Dr.", "lemma": "dottore", "pos": "noun", "meaning": "Dr. / Doctor (title)"},
+            {"word": "Cajus", "lemma": "Cajus", "pos": "noun", "meaning": "Caius (proper name)"},
+            {"word": "e", "lemma": "e", "pos": "conjunction", "meaning": "and"}
+        ],
+        "Character speaker cue indicating Pistola and Dr. Caius whispering in unison as they advance on the screen."
+    ]
+}
+
+# Validation
+with open('scripts/falstaff_act2_sc2_partC.json') as f:
+    orig_lines = json.load(f)
+
+expected_keys = [x['original'] for x in orig_lines]
+print(f"Total expected keys: {len(expected_keys)}")
+print(f"Total curated keys: {len(curated_data)}")
+
+missing = set(expected_keys) - set(curated_data.keys())
+extra = set(curated_data.keys()) - set(expected_keys)
+if missing:
+    print("MISSING KEYS:", missing)
+if extra:
+    print("EXTRA KEYS:", extra)
+
+ALLOWED_POS = {"noun", "verb", "adjective", "adverb", "pronoun", "preposition", "conjunction", "interjection", "particle", "idiom"}
+
+errors = []
+for k in expected_keys:
+    val = curated_data.get(k)
+    if not val:
+        errors.append(f"Missing {k}")
+        continue
+    literal, tokens, note = val
+    # Check capitalization
+    first_char_orig = k[0]
+    first_char_lit = literal[0]
+    if first_char_orig.isupper() and not first_char_lit.isupper():
+        errors.append(f"Capitalization error on {k}: orig starts upper '{first_char_orig}', lit starts '{first_char_lit}'")
+    if first_char_orig.islower() and not first_char_lit.islower():
+        print(f"Warning: orig starts lower '{first_char_orig}', lit starts upper '{first_char_lit}' on {k}")
+    
+    # Check tokens count
+    if not (2 <= len(tokens) <= 5):
+        errors.append(f"Token count error on {k}: {len(tokens)} tokens")
+    
+    # Check token POS
+    for t in tokens:
+        pos = t.get('pos')
+        if pos not in ALLOWED_POS:
+            errors.append(f"Invalid POS '{pos}' in {k} for token {t}")
+        for field in ['word', 'lemma', 'pos', 'meaning']:
+            if not t.get(field):
+                errors.append(f"Missing field '{field}' in token {t} for {k}")
+
+if errors:
+    print(f"FOUND {len(errors)} ERRORS:")
+    for e in errors[:20]:
+        print(" ", e)
+else:
+    print("ALL VALIDATION CHECKS PASSED!")
+    with open('scripts/falstaff_curated_a2_sc2_partC.json', 'w', encoding='utf-8') as f:
+        json.dump(curated_data, f, indent=2, ensure_ascii=False)
+    print("Saved scripts/falstaff_curated_a2_sc2_partC.json successfully!")

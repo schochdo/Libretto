@@ -1,0 +1,348 @@
+  0 | a1_s1_c2_l1 | Scene 1 | Chorus of Sirens: Naht euch dem Strande!
+  1 | a1_s1_c2_l2 | Scene 1 | Chorus of Sirens: Naht euch dem Lande,
+  2 | a1_s1_c2_l3 | Scene 1 | Chorus of Sirens: wo in den Armen
+  3 | a1_s1_c2_l4 | Scene 1 | Chorus of Sirens: glühender Liebe
+  4 | a1_s1_c2_l5 | Scene 1 | Chorus of Sirens: selig Erbarmen
+  5 | a1_s1_c2_l6 | Scene 1 | Chorus of Sirens: still' eure Triebe!
+  6 | a1_s1_c4_l1 | Scene 1 | Chorus of Sirens: Naht euch dem Strande!
+  7 | a1_s1_c4_l2 | Scene 1 | Chorus of Sirens: Naht euch dem Lande!
+  8 | a1_s2_c2_l1 | Scene 2 | Venus: Geliebter, sag, wo weilt dein Sinn?
+  9 | a1_s2_c3_l1 | Scene 2 | Tannhäuser: Zu viel! Zu viel!
+ 10 | a1_s2_c4_l1 | Scene 2 | Tannhäuser: O, dass ich nun erwachte!
+ 11 | a1_s2_c5_l1 | Scene 2 | Venus: Sag mir, was dich mühet!
+ 12 | a1_s2_c6_l1 | Scene 2 | Tannhäuser: Im Traum war mir's als hörte ich -
+ 13 | a1_s2_c6_l2 | Scene 2 | Tannhäuser: was meinem Ohr so lange fremd! -
+ 14 | a1_s2_c6_l3 | Scene 2 | Tannhäuser: als hörte ich der Glocken frohes Geläute!
+ 15 | a1_s2_c6_l4 | Scene 2 | Tannhäuser: O sag, wie lange hört' ich's doch nicht mehr?
+ 16 | a1_s2_c7_l1 | Scene 2 | Venus: Was fasst dich an?
+ 17 | a1_s2_c7_l2 | Scene 2 | Venus: Wohin verlierst du dich?
+ 18 | a1_s2_c9_l1 | Scene 2 | Tannhäuser: Die Zeit, die hier ich verweil',
+ 19 | a1_s2_c9_l2 | Scene 2 | Tannhäuser: ich kann sie nicht ermessen:
+ 20 | a1_s2_c9_l3 | Scene 2 | Tannhäuser: Tage, Monde gibt's für mich nicht mehr;
+ 21 | a1_s2_c9_l4 | Scene 2 | Tannhäuser: denn nicht mehr sehe ich die Sonne,
+ 22 | a1_s2_c9_l5 | Scene 2 | Tannhäuser: nicht mehr des Himmels freundliche Gestirne;
+ 23 | a1_s2_c9_l6 | Scene 2 | Tannhäuser: den Halm seh' ich nicht mehr, der frisch ergrünend
+ 24 | a1_s2_c9_l7 | Scene 2 | Tannhäuser: den neuen Sommer bringt;
+ 25 | a1_s2_c9_l8 | Scene 2 | Tannhäuser: die Nachtigall hör' ich nicht mehr,
+ 26 | a1_s2_c9_l9 | Scene 2 | Tannhäuser: die mir den Lenz verkünde.
+ 27 | a1_s2_c9_l10 | Scene 2 | Tannhäuser: Hör' ich sie nie, seh' ich sie niemals mehr?
+ 28 | a1_s2_c10_l1 | Scene 2 | Venus: Ha! Was vernehm' ich? Welch' tör'ge Klagen!
+ 29 | a1_s2_c10_l2 | Scene 2 | Venus: Bist du so bald der holden Wunder müde,
+ 30 | a1_s2_c10_l3 | Scene 2 | Venus: die meine Liebe dir bereitet?
+ 31 | a1_s2_c10_l4 | Scene 2 | Venus: Oder wie? könnt'ein Gott zu sein so sehr dich reu'n?
+ 32 | a1_s2_c10_l5 | Scene 2 | Venus: Hast du so bald vergessen, wie du einst
+ 33 | a1_s2_c10_l6 | Scene 2 | Venus: gelitten, während jetzt du dich erfreust?
+ 34 | a1_s2_c11_l1 | Scene 2 | Venus: Mein Sänger, auf!
+ 35 | a1_s2_c12_l1 | Scene 2 | Venus: Auf, und ergreif' deine Harfe;
+ 36 | a1_s2_c12_l2 | Scene 2 | Venus: die Liebe fei're, die so herrlich du besingst,
+ 37 | a1_s2_c12_l3 | Scene 2 | Venus: dass du der Liebe Göttin selber dir gewannst!
+ 38 | a1_s2_c12_l4 | Scene 2 | Venus: Die Liebe fei're, da ihr höchster Preis dir ward!
+ 39 | a1_s2_c13_l1 | Scene 2 | Tannhäuser: Dir töne Lob! die Wunder sei'n gepriesen,
+ 40 | a1_s2_c13_l2 | Scene 2 | Tannhäuser: die deine Macht mir Glücklichem erschuf!
+ 41 | a1_s2_c13_l3 | Scene 2 | Tannhäuser: Die Wonnen süss, die deiner Huld entspriessen,
+ 42 | a1_s2_c13_l4 | Scene 2 | Tannhäuser: erheb' mein Lied in lautem Jubelruf!
+ 43 | a1_s2_c13_l5 | Scene 2 | Tannhäuser: Nach Freude, ach! nach herrlichem Geniessen
+ 44 | a1_s2_c13_l6 | Scene 2 | Tannhäuser: verlangt' mein Herz, es dürstete mein Sinn:
+ 45 | a1_s2_c13_l7 | Scene 2 | Tannhäuser: da, was nur Göttern einstens du erwiesen,
+ 46 | a1_s2_c13_l8 | Scene 2 | Tannhäuser: gab deine Gunst mir Sterblichem dahin.
+ 47 | a1_s2_c13_l9 | Scene 2 | Tannhäuser: Doch sterblich, ach! bin ich geblieben,
+ 48 | a1_s2_c13_l10 | Scene 2 | Tannhäuser: und übergross ist mir dein Lieben;
+ 49 | a1_s2_c13_l11 | Scene 2 | Tannhäuser: wenn stets ein Gott geniessen kann,
+ 50 | a1_s2_c13_l12 | Scene 2 | Tannhäuser: bin ich dem Wechsel untertan;
+ 51 | a1_s2_c13_l13 | Scene 2 | Tannhäuser: nicht Lust allein liegt mir am Herzen,
+ 52 | a1_s2_c13_l14 | Scene 2 | Tannhäuser: aus Freuden sehn'ich mich nach Schmerzen.
+ 53 | a1_s2_c13_l15 | Scene 2 | Tannhäuser: Aus deinem Reiche muss ich fliehn,
+ 54 | a1_s2_c13_l16 | Scene 2 | Tannhäuser: o Königin!
+ 55 | a1_s2_c13_l17 | Scene 2 | Tannhäuser: Göttin, lass' mich ziehn!
+ 56 | a1_s2_c14_l1 | Scene 2 | Venus: Was muss ich hören?
+ 57 | a1_s2_c14_l2 | Scene 2 | Venus: Welch ein Sang!
+ 58 | a1_s2_c14_l3 | Scene 2 | Venus: Welch trübem Ton verfällt dein Lied?
+ 59 | a1_s2_c14_l4 | Scene 2 | Venus: Wohin floh die Begeistrung dir,
+ 60 | a1_s2_c14_l5 | Scene 2 | Venus: die Wonnesang dir nur gebot?
+ 61 | a1_s2_c14_l6 | Scene 2 | Venus: Was ist's? Worin war meine Liebe lässig.
+ 62 | a1_s2_c14_l7 | Scene 2 | Venus: Geliebter, wessen klagest du mich an?
+ 63 | a1_s2_c15_l1 | Scene 2 | Tannhäuser: Dank deiner Huld, gepriesen sei dein Lieben!
+ 64 | a1_s2_c15_l2 | Scene 2 | Tannhäuser: Beglückt für immer, wer bei dir geweilt!
+ 65 | a1_s2_c15_l3 | Scene 2 | Tannhäuser: Ewig beneidet, wer mit warmen Trieben
+ 66 | a1_s2_c15_l4 | Scene 2 | Tannhäuser: in deinen Armen Götterglut geteilt!
+ 67 | a1_s2_c15_l5 | Scene 2 | Tannhäuser: Entzückend sind die Wunder deines Reiches,
+ 68 | a1_s2_c15_l6 | Scene 2 | Tannhäuser: die Zauber aller Wonnen atm' ich hier;
+ 69 | a1_s2_c15_l7 | Scene 2 | Tannhäuser: kein Land der weiten Erde bietet Gleiches,
+ 70 | a1_s2_c15_l8 | Scene 2 | Tannhäuser: was sie besitzt, scheint leicht entbehrlich dir.
+ 71 | a1_s2_c15_l9 | Scene 2 | Tannhäuser: Doch ich aus diesen ros'gen Düften
+ 72 | a1_s2_c15_l10 | Scene 2 | Tannhäuser: verlange nach des Waldes Lüften,
+ 73 | a1_s2_c15_l11 | Scene 2 | Tannhäuser: nach unsres Himmels klarem Blau,
+ 74 | a1_s2_c15_l12 | Scene 2 | Tannhäuser: nach unserm frischen Grün der Au',
+ 75 | a1_s2_c15_l13 | Scene 2 | Tannhäuser: nach unsrer Vöglein liebem Sange,
+ 76 | a1_s2_c15_l14 | Scene 2 | Tannhäuser: nach unsrer Glocken trautem Klange:
+ 77 | a1_s2_c15_l15 | Scene 2 | Tannhäuser: aus deinem Reiche muss ich fliehn!
+ 78 | a1_s2_c15_l16 | Scene 2 | Tannhäuser: O Königin!
+ 79 | a1_s2_c15_l17 | Scene 2 | Tannhäuser: Göttin, lass' mich ziehn!
+ 80 | a1_s2_c16_l1 | Scene 2 | Venus: Treuloser! weh! was lässest du mich hören?
+ 81 | a1_s2_c16_l2 | Scene 2 | Venus: Du wagest meine Liebe zu verhöhnen?
+ 82 | a1_s2_c16_l3 | Scene 2 | Venus: Du preisest sie, und willst sie dennoch fliehn?
+ 83 | a1_s2_c16_l4 | Scene 2 | Venus: Zum Überdruss ist dir mein Reiz gediehn?
+ 84 | a1_s2_c17_l1 | Scene 2 | Tannhäuser: Ach schöne Göttin, wolle mir nicht zürnen!
+ 85 | a1_s2_c18_l1 | Scene 2 | Venus: Zum Überdruss ist dir mein Reiz gediehn?
+ 86 | a1_s2_c19_l1 | Scene 2 | Tannhäuser: Dein übergrosser Reiz ist's, den ich fliehe!
+ 87 | a1_s2_c20_l1 | Scene 2 | Venus: Weh dir! Verräter! Heuchler! Undankbarer!
+ 88 | a1_s2_c20_l2 | Scene 2 | Venus: Ich lass' dich nicht! du darfst nicht von mir ziehen!
+ 89 | a1_s2_c21_l1 | Scene 2 | Tannhäuser: Nie war mein Lieben grösser, niemals wahrer,
+ 90 | a1_s2_c21_l2 | Scene 2 | Tannhäuser: Als jetzt, da ich für ewig dich muss fliehn!
+ 91 | a1_s2_c23_l1 | Scene 2 | Venus: Geliebter, komm! sieh dort die Grotte,
+ 92 | a1_s2_c23_l2 | Scene 2 | Venus: von ros'gen Düften mild durchwallt;
+ 93 | a1_s2_c23_l3 | Scene 2 | Venus: Entzücken böt' selbst einem Gotte
+ 94 | a1_s2_c23_l4 | Scene 2 | Venus: der süss'sten Freuden Aufenthalt!
+ 95 | a1_s2_c23_l5 | Scene 2 | Venus: Besänftigt auf dem weichsten Pfühle,
+ 96 | a1_s2_c23_l6 | Scene 2 | Venus: flieh' deine Glieder jeder Schmerz;
+ 97 | a1_s2_c23_l7 | Scene 2 | Venus: dein brennend Haupt umwehe Kühle,
+ 98 | a1_s2_c23_l8 | Scene 2 | Venus: wonnige Glut durchschwelle dein Herz!
+ 99 | a1_s2_c24_l1 | Scene 2 | Venus: Komm, süsser Freund, komm, folge mir! komm!
+100 | a1_s2_c25_l1 | Scene 2 | Chorus of Sirens: Naht euch dem Strande!
+101 | a1_s2_c26_l1 | Scene 2 | Venus: Aus holder Ferne mahnen süsse Klänge,
+102 | a1_s2_c26_l2 | Scene 2 | Venus: dass dich mein Arm in trauter Näh' umschlänge;
+103 | a1_s2_c26_l3 | Scene 2 | Venus: von meinen Lippen, aus meinen Blicken,
+104 | a1_s2_c26_l4 | Scene 2 | Venus: schlürfst du den Göttertrank,
+105 | a1_s2_c26_l5 | Scene 2 | Venus: strahlt dir der Liebesdank:
+106 | a1_s2_c26_l6 | Scene 2 | Venus: ein Freudenfest soll unsrem Bund entstehen,
+107 | a1_s2_c26_l7 | Scene 2 | Venus: der Liebe Feier lass uns froh begehen;
+108 | a1_s2_c26_l8 | Scene 2 | Venus: nicht sollst du ihr ein scheues Opfer weihn:
+109 | a1_s2_c26_l9 | Scene 2 | Venus: mit der Liebe Göttin schwelge im Verein!
+110 | a1_s2_c26_l10 | Scene 2 | Venus: Sag, holder Freund, sag, mein Geliebter:
+111 | a1_s2_c26_l11 | Scene 2 | Venus: willst du fliehn?
+112 | a1_s2_c27_l1 | Scene 2 | Tannhäuser: Stets soll nur dir, nur dir mein Lied ertönen,
+113 | a1_s2_c27_l2 | Scene 2 | Tannhäuser: gesungen laut sei nur dein Preis von mir!
+114 | a1_s2_c27_l3 | Scene 2 | Tannhäuser: Dein süsser Reiz ist Quelle alles Schönen,
+115 | a1_s2_c27_l4 | Scene 2 | Tannhäuser: und jedes holde Wunder stammt von dir.
+116 | a1_s2_c27_l5 | Scene 2 | Tannhäuser: Die Glut, die du mir in das Herz gegossen,
+117 | a1_s2_c27_l6 | Scene 2 | Tannhäuser: als Flamme lodre hell sie dir allein!
+118 | a1_s2_c27_l7 | Scene 2 | Tannhäuser: Ja, gegen alle Welt will unverdrossen
+119 | a1_s2_c27_l8 | Scene 2 | Tannhäuser: fortan ich nun dein kühner Streiter sein!
+120 | a1_s2_c27_l9 | Scene 2 | Tannhäuser: Doch hin muss ich zur Welt der Erden,
+121 | a1_s2_c27_l10 | Scene 2 | Tannhäuser: bei dir kann ich nur Sklave werden;
+122 | a1_s2_c27_l11 | Scene 2 | Tannhäuser: nach Freiheit doch verlangt es mich,
+123 | a1_s2_c27_l12 | Scene 2 | Tannhäuser: nach Freiheit, Freiheit, dürste ich;
+124 | a1_s2_c27_l13 | Scene 2 | Tannhäuser: zu Kampf und Streite will ich stehn,
+125 | a1_s2_c27_l14 | Scene 2 | Tannhäuser: sei's auch auf Tod und Untergehn! -
+126 | a1_s2_c27_l15 | Scene 2 | Tannhäuser: Drum muss aus deinem Reich ich fliehn!
+127 | a1_s2_c27_l16 | Scene 2 | Tannhäuser: O Königin!
+128 | a1_s2_c27_l17 | Scene 2 | Tannhäuser: Göttin, lass' mich ziehn!
+129 | a1_s2_c28_l1 | Scene 2 | Venus: Zieh hin! Wahnbetörter! Zieh hin!
+130 | a1_s2_c28_l2 | Scene 2 | Venus: Geh! Verräter, sieh, nicht halt ich dich!
+131 | a1_s2_c28_l3 | Scene 2 | Venus: Flieh, ich geb dich frei
+132 | a1_s2_c28_l4 | Scene 2 | Venus: Zieh hin! Betörter!
+133 | a1_s2_c28_l5 | Scene 2 | Venus: was du verlangst, das sei dein Los!
+134 | a1_s2_c28_l6 | Scene 2 | Venus: Zieh hin! zieh hin!
+135 | a1_s2_c28_l7 | Scene 2 | Venus: Hin zu den kalten Menschen flieh,
+136 | a1_s2_c28_l8 | Scene 2 | Venus: vor deren blödem, trüben Wahn
+137 | a1_s2_c28_l9 | Scene 2 | Venus: der Freude Götter wir entflohn
+138 | a1_s2_c28_l10 | Scene 2 | Venus: tief in der Erde wärmenden Schoss.
+139 | a1_s2_c28_l11 | Scene 2 | Venus: Zieh hin, Betörter! Suche dein Heil,
+140 | a1_s2_c28_l12 | Scene 2 | Venus: suche dein Heil, - und find' es nie!
+141 | a1_s2_c28_l13 | Scene 2 | Venus: Sie, die du siegend einst verlachtest,
+142 | a1_s2_c28_l14 | Scene 2 | Venus: die jauchzenden Mutes du verhöhnst,
+143 | a1_s2_c28_l15 | Scene 2 | Venus: nun fleh sie an um Gnade, wo du verachtest,
+144 | a1_s2_c28_l16 | Scene 2 | Venus: jammre nun um Hold!
+145 | a1_s2_c28_l17 | Scene 2 | Venus: Dann leuchte dein Schande,
+146 | a1_s2_c28_l18 | Scene 2 | Venus: der hellen Schmach wird dann ihr Spott!
+147 | a1_s2_c28_l19 | Scene 2 | Venus: Gebannt, verflucht, ha! wie seh' ich schon
+148 | a1_s2_c28_l20 | Scene 2 | Venus: dich mir nahn, tief das Haupt zur Erde: -
+149 | a1_s2_c28_l21 | Scene 2 | Venus: "o! fändest du sie wieder,
+150 | a1_s2_c28_l22 | Scene 2 | Venus: die einst dir gelächelt!
+151 | a1_s2_c28_l23 | Scene 2 | Venus: ach! öffnete sie dir wieder
+152 | a1_s2_c28_l24 | Scene 2 | Venus: die Tore ihrer Wonnen!"
+153 | a1_s2_c28_l25 | Scene 2 | Venus: Auf der Schwelle, sieh' da!
+154 | a1_s2_c28_l26 | Scene 2 | Venus: ausgestreckt liegt er nun,
+155 | a1_s2_c28_l27 | Scene 2 | Venus: dort wo Freude einst ihm geflossen!
+156 | a1_s2_c28_l28 | Scene 2 | Venus: Um Mitleid fleht er bettelnd, nicht um Liebe!
+157 | a1_s2_c28_l29 | Scene 2 | Venus: Zurück! Entweich, Bettler!
+158 | a1_s2_c28_l30 | Scene 2 | Venus: Knechten nie,
+159 | a1_s2_c28_l31 | Scene 2 | Venus: nur Helden öffnet sich mein Reich!
+160 | a1_s2_c29_l1 | Scene 2 | Tannhäuser: Nein! Mein Stolz soll dir den Jammer sparen,
+161 | a1_s2_c29_l2 | Scene 2 | Tannhäuser: mich entehrt je dir nah zu sehn!
+162 | a1_s2_c29_l3 | Scene 2 | Tannhäuser: Der heut von dir scheidet, o Göttin,
+163 | a1_s2_c29_l4 | Scene 2 | Tannhäuser: der kehret nie zu dir zurück!
+164 | a1_s2_c30_l1 | Scene 2 | Venus: Ha! du kehrtest nie zurück! -
+165 | a1_s2_c30_l2 | Scene 2 | Venus: Wie sagt' ich?
+166 | a1_s2_c30_l3 | Scene 2 | Venus: Ha! wie sagte er?
+167 | a1_s2_c30_l4 | Scene 2 | Venus: Nie mir zurück!
+168 | a1_s2_c30_l5 | Scene 2 | Venus: wie soll ich's denken?
+169 | a1_s2_c30_l6 | Scene 2 | Venus: Wie es erfassen!
+170 | a1_s2_c30_l7 | Scene 2 | Venus: Mein Geliebter ewig mich fliehn?
+171 | a1_s2_c31_l1 | Scene 2 | Venus: Wie hätt' ich das erworben,
+172 | a1_s2_c31_l2 | Scene 2 | Venus: wie träf' mich solch Verschulden,
+173 | a1_s2_c31_l3 | Scene 2 | Venus: das mir die Lust geraubt,
+174 | a1_s2_c31_l4 | Scene 2 | Venus: dem Trauten zu verzeihn?
+175 | a1_s2_c31_l5 | Scene 2 | Venus: Der Königin der Liebe,
+176 | a1_s2_c31_l6 | Scene 2 | Venus: der Göttin aller Hulden,
+177 | a1_s2_c31_l7 | Scene 2 | Venus: wär' einzig dies versagt,
+178 | a1_s2_c31_l8 | Scene 2 | Venus: Trost dem Freunde zu weihn?
+179 | a1_s2_c31_l9 | Scene 2 | Venus: Wie einst, lächelnd unter Tränen,
+180 | a1_s2_c31_l10 | Scene 2 | Venus: ich sehnsuchtsvoll dir lauschte,
+181 | a1_s2_c31_l11 | Scene 2 | Venus: den stolzen Sang zu hören,
+182 | a1_s2_c31_l12 | Scene 2 | Venus: der rings so lang mir verstummt;
+183 | a1_s2_c31_l13 | Scene 2 | Venus: o! Sag, wie könntest je du wohl wähnen,
+184 | a1_s2_c31_l14 | Scene 2 | Venus: dass ungerührt ich bliebe,
+185 | a1_s2_c31_l15 | Scene 2 | Venus: dräng' zu mir einst deiner Seele
+186 | a1_s2_c31_l16 | Scene 2 | Venus: Seufzen, hört' ich dein Klagen?
+187 | a1_s2_c31_l17 | Scene 2 | Venus: Dass letzte Tröstung in deinem Arm ich fand,
+188 | a1_s2_c31_l18 | Scene 2 | Venus: o, lass' des mich nicht entgelten,
+189 | a1_s2_c31_l19 | Scene 2 | Venus: verschmäh einst auch du nicht meinen Trost!
+190 | a1_s2_c32_l1 | Scene 2 | Venus: Kehrst du mir nicht zurück,
+191 | a1_s2_c32_l2 | Scene 2 | Venus: so treffe Fluch die ganze Welt!
+192 | a1_s2_c32_l3 | Scene 2 | Venus: und für ewig sei öde sie,
+193 | a1_s2_c32_l4 | Scene 2 | Venus: aus der die Göttin wich!
+194 | a1_s2_c33_l1 | Scene 2 | Venus: O kehr, kehr wieder!
+195 | a1_s2_c33_l2 | Scene 2 | Venus: Trau meiner Huld, meiner Liebe!
+196 | a1_s2_c34_l1 | Scene 2 | Tannhäuser: Wer, Göttin, dir entfliehet,
+197 | a1_s2_c34_l2 | Scene 2 | Tannhäuser: flieht ewig jeder Huld!
+198 | a1_s2_c35_l1 | Scene 2 | Venus: Nicht wehre stolz deinem Sehnen,
+199 | a1_s2_c35_l2 | Scene 2 | Venus: wenn zurück zu mir es dich zieht!
+200 | a1_s2_c36_l1 | Scene 2 | Tannhäuser: Mein Sehnen drängt zum Kampfe,
+201 | a1_s2_c36_l2 | Scene 2 | Tannhäuser: nicht such ich Wonn' und Lust!
+202 | a1_s2_c36_l3 | Scene 2 | Tannhäuser: ach, mögest du es fassen, Göttin!
+203 | a1_s2_c36_l4 | Scene 2 | Tannhäuser: Hin zum Tod, den ich suche,
+204 | a1_s2_c36_l5 | Scene 2 | Tannhäuser: zum Tode drängt es mich!
+205 | a1_s2_c37_l1 | Scene 2 | Venus: Kehr zurück, wenn der Tod selbst dich flieht,
+206 | a1_s2_c37_l2 | Scene 2 | Venus: wenn vor dir das Grab selbst sich schliesst.
+207 | a1_s2_c38_l1 | Scene 2 | Tannhäuser: Den Tod, das Grab, hier im Herzen ich trag',
+208 | a1_s2_c38_l2 | Scene 2 | Tannhäuser: durch Buss' und Sühne wohl find ich Ruh' für mich!
+209 | a1_s2_c39_l1 | Scene 2 | Venus: Nie ist Ruh' dir beschieden,
+210 | a1_s2_c39_l2 | Scene 2 | Venus: nie findest du Frieden!
+211 | a1_s2_c39_l3 | Scene 2 | Venus: kehr wieder mir,
+212 | a1_s2_c39_l4 | Scene 2 | Venus: suchst einst du dein Heil!
+213 | a1_s2_c40_l1 | Scene 2 | Tannhäuser: Göttin der Wonn' und Lust!
+214 | a1_s2_c40_l2 | Scene 2 | Tannhäuser: Nein! ach, nicht in dir find ich Frieden und Ruh'!
+215 | a1_s2_c40_l3 | Scene 2 | Tannhäuser: Mein Heil liegt in Maria!
+216 | a1_s3_c2_l1 | Scene 3 | Young Shepherd: Frau Holda kam aus dem Berg hervor,
+217 | a1_s3_c2_l2 | Scene 3 | Young Shepherd: zu ziehn durch Fluren und Auen,
+218 | a1_s3_c2_l3 | Scene 3 | Young Shepherd: gar süssen Klang vernahm da mein Ohr,
+219 | a1_s3_c2_l4 | Scene 3 | Young Shepherd: mein Auge begehrte zu schauen.
+220 | a1_s3_c3_l1 | Scene 3 | Young Shepherd: Da träumt' ich manchen holden Traum,
+221 | a1_s3_c3_l2 | Scene 3 | Young Shepherd: und als mein Aug' erschlossen kaum,
+222 | a1_s3_c3_l3 | Scene 3 | Young Shepherd: da strahlte warm die Sonnen,
+223 | a1_s3_c3_l4 | Scene 3 | Young Shepherd: der Mai, der Mai war kommen.
+224 | a1_s3_c3_l5 | Scene 3 | Young Shepherd: Nun spiel ich lustig die Schalmei,
+225 | a1_s3_c3_l6 | Scene 3 | Young Shepherd: der Mai ist da, der liebe Mai!
+226 | a1_s3_c5_l1 | Scene 3 | Older Pilgrims: Zu dir wall ich, mein Jesus Christ,
+227 | a1_s3_c5_l2 | Scene 3 | Older Pilgrims: der du des Pilgers Hoffnung bist!
+228 | a1_s3_c5_l3 | Scene 3 | Older Pilgrims: Gelobt sei, Jungfrau süss und rein,
+229 | a1_s3_c5_l4 | Scene 3 | Older Pilgrims: der Wallfahrt wolle günstig sein!
+230 | a1_s3_c6_l1 | Scene 3 | Older Pilgrims: Ach, schwer drückt mich der Sünden Last,
+231 | a1_s3_c6_l2 | Scene 3 | Older Pilgrims: kann länger sie nicht mehr ertragen!
+232 | a1_s3_c6_l3 | Scene 3 | Older Pilgrims: Drum will ich auch nicht Ruh' noch Rast,
+233 | a1_s3_c6_l4 | Scene 3 | Older Pilgrims: und wähle gern mir Müh' und Plagen.
+234 | a1_s3_c6_l5 | Scene 3 | Older Pilgrims: Am hohen Fest der Gnad' und Huld,
+235 | a1_s3_c6_l6 | Scene 3 | Older Pilgrims: in Demut sühn ich meine Schuld;
+236 | a1_s3_c6_l7 | Scene 3 | Older Pilgrims: gesegnet, wer im Glauben treu:
+237 | a1_s3_c6_l8 | Scene 3 | Older Pilgrims: er wird erlöst durch Buss' und Reu'.
+238 | a1_s3_c7_l1 | Scene 3 | Young Shepherd: Glück auf! Glück auf nach Rom!
+239 | a1_s3_c7_l2 | Scene 3 | Young Shepherd: Betet für meine arme Seele!
+240 | a1_s3_c9_l1 | Scene 3 | Tannhäuser: Allmächt'ger, dir sei Preis!
+241 | a1_s3_c9_l2 | Scene 3 | Tannhäuser: Gross sind die Wunder deiner Gnade!
+242 | a1_s3_c11_l1 | Scene 3 | Pilgrims: Zu dir wall ich, mein Jesus Christ,
+243 | a1_s3_c11_l2 | Scene 3 | Pilgrims: der du des Pilgers Hoffnung bist!
+244 | a1_s3_c12_l1 | Scene 3 | Pilgrims: Gelobt sei, Jungfrau süss und rein,
+245 | a1_s3_c12_l2 | Scene 3 | Pilgrims: der Wallfahrt wolle günstig sein!
+246 | a1_s3_c14_l1 | Scene 3 | Tannhäuser: Ach, schwer drückt mich der Sünden Last,
+247 | a1_s3_c14_l2 | Scene 3 | Tannhäuser: kann länger sie nicht mehr ertragen:
+248 | a1_s3_c14_l3 | Scene 3 | Tannhäuser: drum will ich auch nicht Ruh' noch Rast,
+249 | a1_s3_c14_l4 | Scene 3 | Tannhäuser: und wähle gern mir Müh' und Plagen.
+250 | a1_s3_c16_l1 | Scene 3 | Pilgrims: Am hohen Fest der Gnad' und Huld,
+251 | a1_s3_c16_l2 | Scene 3 | Pilgrims: in Demut sühn ich meine Schuld;
+252 | a1_s3_c17_l1 | Scene 3 | Pilgrims: gesegnet, wer im Glauben treu.
+253 | a1_s4_c1_l1 | Scene 4 | Landgraf Hermann: Wer ist der dort in brunstigem Gebete?
+254 | a1_s4_c2_l1 | Scene 4 | Walther von der Vogelweide: Ein Büsser wohl.
+255 | a1_s4_c3_l1 | Scene 4 | Biterolf: Nach seiner Tracht ein Ritter.
+256 | a1_s4_c4_l1 | Scene 4 | Wolfram von Eschenbach: Er ist es!
+257 | a1_s4_c5_l1 | Scene 4 | Minstrels: Heinrich! Heinrich! Seh' ich recht?
+258 | a1_s4_c7_l1 | Scene 4 | Landgraf Hermann: Du bist es wirklich? Kehrest in den Kreis
+259 | a1_s4_c7_l2 | Scene 4 | Landgraf Hermann: zurück, den du in Hochmut stolz verliessest?
+260 | a1_s4_c8_l1 | Scene 4 | Biterolf: Sag, was uns deine Wiederkehr bedeutet?
+261 | a1_s4_c9_l1 | Scene 4 | Landgrave and Minstrels: Sag es an!
+262 | a1_s4_c10_l1 | Scene 4 | Biterolf: Versöhnung? oder gilt's erneutem Kampf?
+263 | a1_s4_c11_l1 | Scene 4 | Walther von der Vogelweide: Nahst du als Freund uns oder Feind?
+264 | a1_s4_c12_l1 | Scene 4 | Minstrels (except Wolfram): Als Feind?
+265 | a1_s4_c13_l1 | Scene 4 | Wolfram von Eschenbach: O fraget nicht! Ist dies des Hochmuts Miene?
+266 | a1_s4_c14_l1 | Scene 4 | Wolfram von Eschenbach: Gegrüsst sei uns, du kühner Sänger,
+267 | a1_s4_c14_l2 | Scene 4 | Wolfram von Eschenbach: der ach! so lang' in unsrer Mitte fehlt!
+268 | a1_s4_c15_l1 | Scene 4 | Walther von der Vogelweide: Willkommen, wenn du friedlich nahst!
+269 | a1_s4_c16_l1 | Scene 4 | Biterolf: Gegrüsst, wenn du uns Freunde nennst!
+270 | a1_s4_c16_l2 | Scene 4 | Biterolf: Gegrüsst, gegrüsst, gegrüsst sei uns!
+271 | a1_s4_c17_l1 | Scene 4 | The Other Minstrels (except Wolfram): Gegrüsst, gegrüsst, gegrüsst sei uns!
+272 | a1_s4_c18_l1 | Scene 4 | Landgraf Hermann: So sei willkommen denn auch mir!
+273 | a1_s4_c18_l2 | Scene 4 | Landgraf Hermann: Sag' an, wo weiltest du so lang?
+274 | a1_s4_c19_l1 | Scene 4 | Tannhäuser: Ich wanderte in weiter, weiter Fern' -
+275 | a1_s4_c19_l2 | Scene 4 | Tannhäuser: da, wo ich nimmer Rast noch Ruhe fand.
+276 | a1_s4_c19_l3 | Scene 4 | Tannhäuser: Fragt nicht! Zum Kampf mit euch kam ich nicht her;
+277 | a1_s4_c19_l4 | Scene 4 | Tannhäuser: seid mir versöhnt - und lasst mich weiter ziehn!
+278 | a1_s4_c20_l1 | Scene 4 | Landgraf Hermann: Nicht doch! Der unsre bist du neu geworden.
+279 | a1_s4_c21_l1 | Scene 4 | Walther von der Vogelweide: Du darfst nicht ziehn.
+280 | a1_s4_c22_l1 | Scene 4 | Biterolf: Wir lassen dich nicht fort.
+281 | a1_s4_c23_l1 | Scene 4 | Landgrave and Minstrels (except Biterolf): Bleib bei uns!
+282 | a1_s4_c24_l1 | Scene 4 | Tannhäuser: Lasst mich! Mir frommet kein Verweilen;
+283 | a1_s4_c24_l2 | Scene 4 | Tannhäuser: und nimmer kann ich rastend stehn!
+284 | a1_s4_c24_l3 | Scene 4 | Tannhäuser: Mein Weg heisst mich nur vorwärts eilen,
+285 | a1_s4_c24_l4 | Scene 4 | Tannhäuser: und nimmer darf ich rückwärts sehn!
+286 | a1_s4_c25_l1 | Scene 4 | Landgrave and Minstrels: Oh bleib'! Bei uns sollst du verweilen,
+287 | a1_s4_c25_l2 | Scene 4 | Landgrave and Minstrels: wir lassen dich nicht von uns gehn!
+288 | a1_s4_c25_l3 | Scene 4 | Landgrave and Minstrels: Du suchtest uns, warum enteilen?
+289 | a1_s4_c25_l4 | Scene 4 | Landgrave and Minstrels: Nach solchem kurzen Wiedersehn?
+290 | a1_s4_c26_l1 | Scene 4 | Tannhäuser: Fort, fort von hier!
+291 | a1_s4_c27_l1 | Scene 4 | Minstrels: Bleib, bleib bei uns!
+292 | a1_s4_c28_l1 | Scene 4 | Wolfram von Eschenbach: Bleib bei Elisabeth!
+293 | a1_s4_c29_l1 | Scene 4 | Tannhäuser: Elisabeth! - O Macht des Himmels,
+294 | a1_s4_c29_l2 | Scene 4 | Tannhäuser: rufst du den süssen Namen mir?
+295 | a1_s4_c30_l1 | Scene 4 | Wolfram von Eschenbach: Nicht sollst du Feind mich schelten,
+296 | a1_s4_c30_l2 | Scene 4 | Wolfram von Eschenbach: dass ich ihn genannt!
+297 | a1_s4_c31_l1 | Scene 4 | Wolfram von Eschenbach: Erlaubest du mir, Herr, dass ich
+298 | a1_s4_c31_l2 | Scene 4 | Wolfram von Eschenbach: Verkünder seines Glücks ihm sei?
+299 | a1_s4_c32_l1 | Scene 4 | Landgraf Hermann: Nenn ihm den Zauber, den er ausgeübt:
+300 | a1_s4_c32_l2 | Scene 4 | Landgraf Hermann: und Gott verleih ihm Tugend,
+301 | a1_s4_c32_l3 | Scene 4 | Landgraf Hermann: dass würdig er ihn löse!
+302 | a1_s4_c33_l1 | Scene 4 | Wolfram von Eschenbach: Als du in kühnem Sange uns bestrittest,
+303 | a1_s4_c33_l2 | Scene 4 | Wolfram von Eschenbach: bald siegreich gegen unsre Lieder sangst,
+304 | a1_s4_c33_l3 | Scene 4 | Wolfram von Eschenbach: durch unsre Kunst Besiegung bald erlittest;
+305 | a1_s4_c33_l4 | Scene 4 | Wolfram von Eschenbach: ein Preis doch war's, den du allein errangst.
+306 | a1_s4_c33_l5 | Scene 4 | Wolfram von Eschenbach: War's Zauber, war es reine Macht,
+307 | a1_s4_c33_l6 | Scene 4 | Wolfram von Eschenbach: durch die solch Wunder du vollbracht,
+308 | a1_s4_c33_l7 | Scene 4 | Wolfram von Eschenbach: an deinen Sang voll Wonn' und Leid
+309 | a1_s4_c33_l8 | Scene 4 | Wolfram von Eschenbach: gebannt die tugendreichste Maid?
+310 | a1_s4_c33_l9 | Scene 4 | Wolfram von Eschenbach: Denn ach! als du uns stolz verlassen,
+311 | a1_s4_c33_l10 | Scene 4 | Wolfram von Eschenbach: verschloss ihr Herz unsrem Lied;
+312 | a1_s4_c33_l11 | Scene 4 | Wolfram von Eschenbach: wir sahen ihre Wang' erblassen,
+313 | a1_s4_c33_l12 | Scene 4 | Wolfram von Eschenbach: für immer unsern Kreis sie mied.
+314 | a1_s4_c33_l13 | Scene 4 | Wolfram von Eschenbach: O kehr zurück, du kühner Sänger,
+315 | a1_s4_c33_l14 | Scene 4 | Wolfram von Eschenbach: dem unsren sei dein Lied nicht fern!
+316 | a1_s4_c33_l15 | Scene 4 | Wolfram von Eschenbach: Den Festen fehle sie nicht länger,
+317 | a1_s4_c33_l16 | Scene 4 | Wolfram von Eschenbach: aufs neue leuchte uns ihr Stern!
+318 | a1_s4_c34_l1 | Scene 4 | Minstrels (except Wolfram): Sei unser, Heinrich, kehr uns wieder!
+319 | a1_s4_c34_l2 | Scene 4 | Minstrels (except Wolfram): Zwietracht und Streit sei abgetan!
+320 | a1_s4_c34_l3 | Scene 4 | Minstrels (except Wolfram): Vereint ertönen unsre Lieder,
+321 | a1_s4_c34_l4 | Scene 4 | Minstrels (except Wolfram): und Brüder nenne uns fortan!
+322 | a1_s4_c35_l1 | Scene 4 | Wolfram von Eschenbach: O kehr zurück, du kühner Sänger!
+323 | a1_s4_c35_l2 | Scene 4 | Wolfram von Eschenbach: O kehr zurück!
+324 | a1_s4_c35_l3 | Scene 4 | Wolfram von Eschenbach: Vereint ertönen unsre Lieder,
+325 | a1_s4_c35_l4 | Scene 4 | Wolfram von Eschenbach: und Brüder nenne uns fortan!
+326 | a1_s4_c36_l1 | Scene 4 | Landgraf Hermann: O kehr zurück, du kühner Sänger!
+327 | a1_s4_c36_l2 | Scene 4 | Landgraf Hermann: Zwietracht und Streit sei abgetan
+328 | a1_s4_c38_l1 | Scene 4 | Tannhäuser: Zu ihr! Zu ihr! Oh, führet mich zu ihr!
+329 | a1_s4_c38_l2 | Scene 4 | Tannhäuser: Ha, jetzt erkenne ich sie wieder,
+330 | a1_s4_c38_l3 | Scene 4 | Tannhäuser: die schöne Welt, der ich entrückt!
+331 | a1_s4_c38_l4 | Scene 4 | Tannhäuser: Der Himmel blickt auf mich hernieder,
+332 | a1_s4_c38_l5 | Scene 4 | Tannhäuser: die Fluren prangen reich geschmückt!
+333 | a1_s4_c38_l6 | Scene 4 | Tannhäuser: Der Lenz, der Lenz,
+334 | a1_s4_c38_l7 | Scene 4 | Tannhäuser: mit tausend holden Klängen
+335 | a1_s4_c38_l8 | Scene 4 | Tannhäuser: zog jubelnd in die Seele mir!
+336 | a1_s4_c38_l9 | Scene 4 | Tannhäuser: In süssem, ungestümen Drängen
+337 | a1_s4_c38_l10 | Scene 4 | Tannhäuser: ruft laut mein Herz:
+338 | a1_s4_c38_l11 | Scene 4 | Tannhäuser: Zu ihr! Zu ihr!
+339 | a1_s4_c38_l12 | Scene 4 | Tannhäuser: Führt mich zu ihr!
+340 | a1_s4_c40_l1 | Scene 4 | Landgrave and Minstrels: Er kehrt zurück, den wir verloren!
+341 | a1_s4_c40_l2 | Scene 4 | Landgrave and Minstrels: Ein Wunder hat ihn hergebracht!
+342 | a1_s4_c40_l3 | Scene 4 | Landgrave and Minstrels: Die ihm den Übermut beschworen,
+343 | a1_s4_c40_l4 | Scene 4 | Landgrave and Minstrels: gepriesen sei die holde Macht!
+344 | a1_s4_c40_l5 | Scene 4 | Landgrave and Minstrels: Nun lausche unsern Hochgesängen
+345 | a1_s4_c40_l6 | Scene 4 | Landgrave and Minstrels: von neuem der Gepriesnen Ohr!
+346 | a1_s4_c40_l7 | Scene 4 | Landgrave and Minstrels: Es tön in froh belebten Klängen
+347 | a1_s4_c40_l8 | Scene 4 | Landgrave and Minstrels: das Lied aus jeder Brust hervor!

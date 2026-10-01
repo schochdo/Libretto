@@ -1,0 +1,616 @@
+import json
+
+# Act 2: Scenes 1 to 3
+# Scene 1: Florestan's Dungeon Aria (Nr. 11 Introduktion und Arie) (22 lines)
+# Scene 2: Melodram und Duett (Rocco & Leonore digging grave) (96 lines)
+# Scene 3: Terzett (Euch werde Lohn in bessern Welten) (54 lines)
+
+TRANS_ACT2_SC1_3 = {
+    # --- ACT 2 SCENE 1: Nr. 11 Introduktion und Arie Florestan ---
+    "Gott! Welch Dunkel hier!": (
+        "God! What darkness here!",
+        [
+            {"word": "Dunkel", "lemma": "Dunkel", "pos": "noun", "meaning": "darkness / gloom (neuter)"}
+        ],
+        None
+    ),
+    "O grauenvolle Stille!": (
+        "O gruesome silence!",
+        [
+            {"word": "grauenvolle", "lemma": "grauenvoll", "pos": "adjective", "meaning": "dreadful / gruesome / horrifying"},
+            {"word": "Stille", "lemma": "Stille", "pos": "noun", "meaning": "silence / stillness"}
+        ],
+        None
+    ),
+    "Öd’ ist es um mich her;": (
+        "Desolate is it around me about;",
+        [
+            {"word": "Öd'", "lemma": "öde", "pos": "adjective", "meaning": "bleak / desolate / barren"},
+            {"word": "um mich her", "lemma": "umher", "pos": "phrase", "meaning": "all around me"}
+        ],
+        "Postpositional bracket 'um mich her' (all about me)."
+    ),
+    "nichts lebet außer mir.": (
+        "nothing lives except me.",
+        [
+            {"word": "nichts", "lemma": "nichts", "pos": "pronoun", "meaning": "nothing"},
+            {"word": "lebet", "lemma": "leben", "pos": "verb", "meaning": "lives", "notes": "Archaic third-person singular '-et'."},
+            {"word": "außer mir", "lemma": "außer", "pos": "preposition", "meaning": "except me (governs dative 'mir')"}
+        ],
+        None
+    ),
+    "O schwere Prüfung!": (
+        "O grievous trial!",
+        [
+            {"word": "schwere Prüfung", "lemma": "Prüfung", "pos": "noun", "meaning": "heavy ordeal / trial"}
+        ],
+        None
+    ),
+    "Doch gerecht ist Gottes Wille!": (
+        "Yet just is God's will!",
+        [
+            {"word": "gerecht", "lemma": "gerecht", "pos": "adjective", "meaning": "just / righteous"},
+            {"word": "Gottes Wille", "lemma": "Wille", "pos": "noun", "meaning": "God's will (genitive Gottes + weak masculine nominative Wille)"}
+        ],
+        "Predicate adjective fronting: 'gerecht ist Gottes Wille'."
+    ),
+    "Ich murre nicht!": (
+        "I murmur [complain] not!",
+        [
+            {"word": "murre", "lemma": "murren", "pos": "verb", "meaning": "grumble / complain / murmur"}
+        ],
+        None
+    ),
+    "Das Maß der Leiden steht bei dir.": (
+        "The measure of-the sufferings stands with you.",
+        [
+            {"word": "Maß", "lemma": "Maß", "pos": "noun", "meaning": "measure / span (neuter)"},
+            {"word": "der Leiden", "lemma": "Leiden", "pos": "noun", "meaning": "of sufferings (genitive plural)"},
+            {"word": "steht bei dir", "lemma": "stehen bei", "pos": "phrase", "meaning": "lies in your hands (with God)"}
+        ],
+        "Idiom 'bei jemandem stehen' (to rest with someone / be determined by someone)."
+    ),
+    "In des Lebens Frühlingstagen": (
+        "In of-life the spring-days",
+        [
+            {"word": "des Lebens", "lemma": "Leben", "pos": "noun", "meaning": "of life (genitive)"},
+            {"word": "Frühlingstagen", "lemma": "Frühlingstag", "pos": "noun", "meaning": "springtime days (dative plural)"}
+        ],
+        None
+    ),
+    "ist das Glück von mir gefloh’n.": (
+        "is the fortune from me fled.",
+        [
+            {"word": "Glück", "lemma": "Glück", "pos": "noun", "meaning": "happiness / fortune"},
+            {"word": "gefloh'n", "lemma": "fliehen", "pos": "verb", "meaning": "fled (past participle with auxiliary sein)"}
+        ],
+        "Perfect tense of motion verb with sein: 'ist ... geflohn'."
+    ),
+    "Wahrheit wagt’ ich kühn zu sagen,": (
+        "Truth dared I boldly to say,",
+        [
+            {"word": "Wahrheit", "lemma": "Wahrheit", "pos": "noun", "meaning": "truth (accusative)"},
+            {"word": "wagt'", "lemma": "wagen", "pos": "verb", "meaning": "dared (preterite)"},
+            {"word": "kühn", "lemma": "kühn", "pos": "adverb", "meaning": "boldly / daringly"}
+        ],
+        "Topicalization of direct object 'Wahrheit' with inversion of verb and subject."
+    ),
+    "und die Ketten sind mein Lohn.": (
+        "and the chains are my reward.",
+        [
+            {"word": "Ketten", "lemma": "Kette", "pos": "noun", "meaning": "chains / fetters"},
+            {"word": "Lohn", "lemma": "Lohn", "pos": "noun", "meaning": "wages / recompense"}
+        ],
+        None
+    ),
+    "Willig duld’ ich alle Schmerzen,": (
+        "Willingly endure I all pains,",
+        [
+            {"word": "Willig", "lemma": "willig", "pos": "adverb", "meaning": "willingly / submissively"},
+            {"word": "duld'", "lemma": "dulden", "pos": "verb", "meaning": "endure / suffer patiently"}
+        ],
+        None
+    ),
+    "ende schmählich meine Bahn;": (
+        "end ignominiously my path [course of life];",
+        [
+            {"word": "schmählich", "lemma": "schmählich", "pos": "adverb", "meaning": "ignominiously / shamefully"},
+            {"word": "Bahn", "lemma": "Bahn", "pos": "noun", "meaning": "earthly path / earthly course"}
+        ],
+        None
+    ),
+    "süßer Trost in meinem Herzen:": (
+        "sweet consolation in my heart:",
+        [
+            {"word": "süßer Trost", "lemma": "Trost", "pos": "noun", "meaning": "sweet comfort (masculine nominative)"}
+        ],
+        None
+    ),
+    "meine Pflicht hab’ ich getan!": (
+        "my duty have I done!",
+        [
+            {"word": "Pflicht", "lemma": "Pflicht", "pos": "noun", "meaning": "duty"},
+            {"word": "getan", "lemma": "tun", "pos": "verb", "meaning": "done (past participle)"}
+        ],
+        "Topicalization: direct object 'meine Pflicht' placed first for moral emphasis."
+    ),
+    "Und spür’ ich nicht linde, sanftsäuselnde Luft?": (
+        "And feel I not gentle, softly-whispering air?",
+        [
+            {"word": "spür'", "lemma": "spüren", "pos": "verb", "meaning": "feel / perceive"},
+            {"word": "linde", "lemma": "lind", "pos": "adjective", "meaning": "mild / gentle"},
+            {"word": "sanftsäuselnde", "lemma": "sanftsäuselnd", "pos": "adjective", "meaning": "softly murmuring / rustling"},
+            {"word": "Luft", "lemma": "Luft", "pos": "noun", "meaning": "air / breeze"}
+        ],
+        None
+    ),
+    "Und ist nicht mein Grab mir erhellet?": (
+        "And is not my grave to-me illuminated?",
+        [
+            {"word": "Grab", "lemma": "Grab", "pos": "noun", "meaning": "grave"},
+            {"word": "erhellet", "lemma": "erhellen", "pos": "verb", "meaning": "illuminated / lit up", "notes": "Archaic past participle suffix '-et'."}
+        ],
+        "Dative of personal experience: 'mir mein Grab erhellet'."
+    ),
+    "Ich seh’, wie ein Engel im rosigen Duft": (
+        "I see, how an angel in rosy fragrance",
+        [
+            {"word": "Engel", "lemma": "Engel", "pos": "noun", "meaning": "angel"},
+            {"word": "rosigen Duft", "lemma": "Duft", "pos": "noun", "meaning": "rosy fragrance / celestial aura"}
+        ],
+        None
+    ),
+    "sich tröstend zur Seite mir stellet.": (
+        "itself comforting to-the side to-me places.",
+        [
+            {"word": "tröstend", "lemma": "trösten", "pos": "verb", "meaning": "comforting (present participle adverbial)"},
+            {"word": "zur Seite stellen", "lemma": "stellen", "pos": "phrase", "meaning": "to stand by / step to one's side"}
+        ],
+        "Reflexive verb 'sich stellen' with dative pronoun 'mir'."
+    ),
+    "Ein Engel, Leonoren, der Gattin so gleich,": (
+        "An angel, to-Leonore, to-the wife so like,",
+        [
+            {"word": "Leonoren", "lemma": "Leonore", "pos": "noun", "meaning": "to Leonore (archaic dative feminine inflection)"},
+            {"word": "der Gattin", "lemma": "Gattin", "pos": "noun", "meaning": "to the wife (dative)"},
+            {"word": "gleich", "lemma": "gleich", "pos": "adjective", "meaning": "resembling / like (governs dative)"}
+        ],
+        "Adjective 'gleich' governing the dative noun phrases."
+    ),
+    "der führt mich zur Freiheit ins himmlische Reich!": (
+        "who leads me to freedom into-the heavenly realm!",
+        [
+            {"word": "führt", "lemma": "führen", "pos": "verb", "meaning": "leads / guides"},
+            {"word": "Freiheit", "lemma": "Freiheit", "pos": "noun", "meaning": "freedom / liberty"},
+            {"word": "himmlische Reich", "lemma": "Reich", "pos": "noun", "meaning": "heavenly kingdom"}
+        ],
+        None
+    ),
+
+    # --- ACT 2 SCENE 2: Nr. 12 Melodram und Duett Rocco & Leonore ---
+    "Wie kalt ist es in diesem unterirdischen Gewölbe!": (
+        "How cold is it in this subterranean vault!",
+        [
+            {"word": "unterirdischen", "lemma": "unterirdisch", "pos": "adjective", "meaning": "underground"},
+            {"word": "Gewölbe", "lemma": "Gewölbe", "pos": "noun", "meaning": "vault / dungeon"}
+        ],
+        None
+    ),
+    "Das ist natürlich, es ist ja tief.": (
+        "That is natural, it is indeed deep.",
+        [
+            {"word": "natürlich", "lemma": "natürlich", "pos": "adjective", "meaning": "natural"},
+            {"word": "tief", "lemma": "tief", "pos": "adjective", "meaning": "deep"}
+        ],
+        None
+    ),
+    "Ich glaubte schon, wir würden den Eingang gar nicht finden.": (
+        "I believed already, we would the entrance at-all not find.",
+        [
+            {"word": "würden... finden", "lemma": "finden", "pos": "verb", "meaning": "would find (subjunctive II)"},
+            {"word": "gar nicht", "lemma": "gar nicht", "pos": "adverb", "meaning": "not at all"}
+        ],
+        None
+    ),
+    "Hier ist er. Siehst du den Mann dort?": (
+        "Here is it. See you the man there?",
+        [{"word": "Siehst du", "lemma": "sehen", "pos": "verb", "meaning": "do you see"}],
+        None
+    ),
+    "Er scheint ganz ohne Bewegung.": (
+        "He seems entirely without movement.",
+        [
+            {"word": "ohne Bewegung", "lemma": "Bewegung", "pos": "noun", "meaning": "motionless / without movement"}
+        ],
+        None
+    ),
+    "Vielleicht ist er tot?": (
+        "Perhaps is he dead?",
+        [{"word": "tot", "lemma": "tot", "pos": "adjective", "meaning": "dead"}],
+        None
+    ),
+    "Nein, nein, er schläft. Das müssen wir benützen und frisch ans Werk gehen.": (
+        "No, no, he sleeps. That must we utilize and briskly to-the work go.",
+        [
+            {"word": "benützen", "lemma": "benützen", "pos": "verb", "meaning": "exploit / make use of"},
+            {"word": "frisch ans Werk", "lemma": "Werk", "pos": "phrase", "meaning": "briskly to work"}
+        ],
+        None
+    ),
+    "Hier hinter diesen Trümmern ist eine alte Zisterne; die müssen wir aufgraben.": (
+        "Here behind these ruins is an old cistern; that must we dig-open.",
+        [
+            {"word": "Trümmern", "lemma": "Trümmer", "pos": "noun", "meaning": "rubble / ruins (dative plural)"},
+            {"word": "aufgraben", "lemma": "aufgraben", "pos": "verb", "meaning": "dig out / excavate"}
+        ],
+        None
+    ),
+    "Nimm die Haue und du, stelle dich hierher.": (
+        "Take the pickaxe and you, place yourself here.",
+        [
+            {"word": "Haue", "lemma": "Haue", "pos": "noun", "meaning": "pickaxe / mattock"},
+            {"word": "stelle dich", "lemma": "sich stellen", "pos": "verb", "meaning": "stand / position yourself"}
+        ],
+        None
+    ),
+    "Du zitterst? Fürchtest du dich?": (
+        "You tremble? Fear you yourself [are you afraid]?",
+        [
+            {"word": "zitterst", "lemma": "zittern", "pos": "verb", "meaning": "tremble"},
+            {"word": "fürchtest du dich", "lemma": "sich fürchten", "pos": "verb", "meaning": "are you afraid"}
+        ],
+        "Reflexive verb 'sich fürchten'."
+    ),
+    "O nein, es ist nur die Kälte.": (
+        "O no, it is only the cold.",
+        [{"word": "Kälte", "lemma": "Kälte", "pos": "noun", "meaning": "cold / chill"}],
+        None
+    ),
+    "So mache fort, im Arbeiten wird dir schon warm werden.": (
+        "So make forth [hurry up], in working will to-you already warm become.",
+        [
+            {"word": "mache fort", "lemma": "fortmachen", "pos": "verb", "meaning": "hurry along / get on with it"},
+            {"word": "warm werden", "lemma": "warm", "pos": "phrase", "meaning": "to get warm (impersonal with dative 'dir')"}
+        ],
+        None
+    ),
+    "Nur spute dich, nur frisch gegraben,": (
+        "Just hurry yourself, just briskly dug,",
+        [
+            {"word": "spute dich", "lemma": "sich sputen", "pos": "verb", "meaning": "make haste / hurry (imperative)"},
+            {"word": "frisch gegraben", "lemma": "graben", "pos": "verb", "meaning": "dug with vigor", "notes": "Participle used as energetic imperative."}
+        ],
+        "Imperatival use of the past participle: 'frisch gegraben!'."
+    ),
+    "es währt nicht lang, er kommt herein.": (
+        "it lasts not long, he comes inside.",
+        [
+            {"word": "währt", "lemma": "währen", "pos": "verb", "meaning": "lasts / endures"},
+            {"word": "hereinkommen", "lemma": "hereinkommen", "pos": "verb", "meaning": "come in / enter"}
+        ],
+        None
+    ),
+    "Du wirst mir nicht zu klagen haben,": (
+        "You will to-me not to complain have,",
+        [
+            {"word": "zu klagen haben", "lemma": "klagen", "pos": "phrase", "meaning": "to have cause for complaint"}
+        ],
+        "Construction 'haben + zu + Infinitiv' (to have to / have reason to)."
+    ),
+    "denn treu will ich der Diener sein.": (
+        "for faithful want I the servant to-be.",
+        [
+            {"word": "treu", "lemma": "treu", "pos": "adjective", "meaning": "faithful / loyal"},
+            {"word": "Diener", "lemma": "Diener", "pos": "noun", "meaning": "servant"}
+        ],
+        None
+    ),
+    "Komm, hilf mir diesen Stein heben!": (
+        "Come, help to-me this stone to-lift!",
+        [
+            {"word": "hilf", "lemma": "helfen", "pos": "verb", "meaning": "help (takes dative 'mir')"},
+            {"word": "heben", "lemma": "heben", "pos": "verb", "meaning": "lift (bare infinitive with helfen)"}
+        ],
+        None
+    ),
+    "Hab’ acht, er hat ein großes Gewicht.": (
+        "Have care, it has a great weight.",
+        [
+            {"word": "Hab' acht", "lemma": "achtgeben", "pos": "phrase", "meaning": "take care / watch out"},
+            {"word": "Gewicht", "lemma": "Gewicht", "pos": "noun", "meaning": "weight"}
+        ],
+        None
+    ),
+    "Ich hebe schon mit aller Kraft,": (
+        "I lift already with all strength,",
+        [
+            {"word": "mit aller Kraft", "lemma": "Kraft", "pos": "noun", "meaning": "with all might"}
+        ],
+        None
+    ),
+    "doch geht er schwer.": (
+        "yet goes it heavily [moves with difficulty].",
+        [
+            {"word": "geht... schwer", "lemma": "schwer", "pos": "adverb", "meaning": "moves heavily / with difficulty"}
+        ],
+        None
+    ),
+    "Nur noch ein wenig mehr!": (
+        "Just yet a little more!",
+        [{"word": "ein wenig mehr", "lemma": "mehr", "pos": "phrase", "meaning": "a little more"}],
+        None
+    ),
+    "Geduld! Er rollt!": (
+        "Patience! It rolls!",
+        [{"word": "Geduld", "lemma": "Geduld", "pos": "noun", "meaning": "patience"}],
+        None
+    ),
+    "Nun laß ihn liegen.": (
+        "Now let it lie.",
+        [{"word": "liegen lassen", "lemma": "lassen", "pos": "verb", "meaning": "let lie"}],
+        None
+    ),
+    "Jetzt grabe nur, wo die Zisterne ist.": (
+        "Now dig just, where the cistern is.",
+        [{"word": "grabe", "lemma": "graben", "pos": "verb", "meaning": "dig (imperative)"}],
+        None
+    ),
+    "Ich will in meiner Tiefe graben,": (
+        "I want in my depth to-dig,",
+        [{"word": "Tiefe", "lemma": "Tiefe", "pos": "noun", "meaning": "depth"}],
+        None
+    ),
+    "und du wirf den Schutt beiseite.": (
+        "and you throw the debris aside.",
+        [
+            {"word": "wirf", "lemma": "werfen", "pos": "verb", "meaning": "throw (imperative singular)"},
+            {"word": "Schutt", "lemma": "Schutt", "pos": "noun", "meaning": "rubble / debris"},
+            {"word": "beiseite", "lemma": "beiseite", "pos": "adverb", "meaning": "aside"}
+        ],
+        None
+    ),
+    "Was zauderst du in deiner Pflicht?": (
+        "What [why] hesitate you in your duty?",
+        [
+            {"word": "zauderst", "lemma": "zaudern", "pos": "verb", "meaning": "dither / hesitate"},
+            {"word": "Pflicht", "lemma": "Pflicht", "pos": "noun", "meaning": "duty"}
+        ],
+        "Interrogative 'Was' used in the sense of 'Why' (cur / quid)."
+    ),
+    "Nein, Vater, nein, ich zaudre nicht!": (
+        "No, father, no, I hesitate not!",
+        [{"word": "zaudre nicht", "lemma": "zaudern", "pos": "verb", "meaning": "do not hesitate"}],
+        None
+    ),
+    "Wer du auch seist, ich will dich retten;": (
+        "Whoever you also be, I will you save;",
+        [
+            {"word": "seist", "lemma": "sein", "pos": "verb", "meaning": "may be (subjunctive I)"},
+            {"word": "retten", "lemma": "retten", "pos": "verb", "meaning": "rescue / save"}
+        ],
+        "Concessive relative clause with subjunctive I: 'Wer du auch seist'."
+    ),
+    "bei Gott, du sollst nicht sterben!": (
+        "by God, you shall not die!",
+        [
+            {"word": "bei Gott", "lemma": "Gott", "pos": "phrase", "meaning": "by God"},
+            {"word": "sterben", "lemma": "sterben", "pos": "verb", "meaning": "die"}
+        ],
+        None
+    ),
+    "Gott! Er ist’s!": (
+        "God! He is it! [It is he!]",
+        [{"word": "Er ist's", "lemma": "sein", "pos": "phrase", "meaning": "it is he (er + ist + es)"}],
+        None
+    ),
+    "Siehst du, er erwacht!": (
+        "See you, he awakes!",
+        [{"word": "erwacht", "lemma": "erwachen", "pos": "verb", "meaning": "awakes"}],
+        None
+    ),
+    "Wer ist hier?": (
+        "Who is here?",
+        [{"word": "Wer ist hier", "lemma": "wer", "pos": "phrase", "meaning": "who is here"}],
+        None
+    ),
+    "Er scheint sich zu erweichen.": (
+        "He seems himself to soften [be moved].",
+        [
+            {"word": "erweichen", "lemma": "sich erweichen", "pos": "verb", "meaning": "to be moved to compassion"}
+        ],
+        None
+    ),
+    "Du gibst mir keine Antwort?": (
+        "You give to-me no answer?",
+        [{"word": "Antwort", "lemma": "Antwort", "pos": "noun", "meaning": "answer"}],
+        None
+    ),
+    "Wer regiert diese Festung?": (
+        "Who governs this fortress?",
+        [
+            {"word": "regiert", "lemma": "regieren", "pos": "verb", "meaning": "rules / governs"},
+            {"word": "Festung", "lemma": "Festung", "pos": "noun", "meaning": "fortress"}
+        ],
+        None
+    ),
+    "Don Pizarro.": (
+        "Don Pizarro.",
+        [{"word": "Don Pizarro", "lemma": "Pizarro", "pos": "noun", "meaning": "Don Pizarro"}],
+        None
+    ),
+    "Pizarro! Schicke doch sogleich nach Sevilla, frage nach Leonore Florestan ...": (
+        "Pizarro! Send though immediately to Seville, inquire after Leonore Florestan ...",
+        [
+            {"word": "schicke", "lemma": "schicken", "pos": "verb", "meaning": "send (imperative)"},
+            {"word": "frage nach", "lemma": "fragen nach", "pos": "verb", "meaning": "ask for / inquire after"}
+        ],
+        None
+    ),
+    "Gott! Sie weiß nicht, wo ich schmachte!": (
+        "God! She knows not, where I languish!",
+        [{"word": "schmachte", "lemma": "schmachten", "pos": "verb", "meaning": "pine / languish"}],
+        None
+    ),
+    "Es ist unmöglich, ich darf deine Bitten nicht erfüllen.": (
+        "It is impossible, I may your requests not fulfill.",
+        [
+            {"word": "unmöglich", "lemma": "unmöglich", "pos": "adjective", "meaning": "impossible"},
+            {"word": "erfüllen", "lemma": "erfüllen", "pos": "verb", "meaning": "fulfill / grant"}
+        ],
+        None
+    ),
+    "Wenn ich verdammt bin, hier zu sterben, so laßt mich nicht so langsam verschmachten!": (
+        "If I condemned am, here to die, so let me not so slowly perish-of-thirst!",
+        [
+            {"word": "verdammt", "lemma": "verdammen", "pos": "verb", "meaning": "condemned / doomed"},
+            {"word": "verschmachten", "lemma": "verschmachten", "pos": "verb", "meaning": "die of thirst / languish unto death"}
+        ],
+        None
+    ),
+    "Gebt mir nur einen Tropfen Wasser!": (
+        "Give to-me only a drop of-water!",
+        [
+            {"word": "Gebt", "lemma": "geben", "pos": "verb", "meaning": "give (imperative plural)"},
+            {"word": "Tropfen Wasser", "lemma": "Tropfen", "pos": "noun", "meaning": "drop of water"}
+        ],
+        None
+    ),
+    "Alles, was ich dir geben kann, ist ein kleiner Rest Wein, den ich in meinem Kruge habe.": (
+        "All, that I to-you give can, is a small remainder of-wine, which I in my pitcher have.",
+        [
+            {"word": "Rest Wein", "lemma": "Rest", "pos": "noun", "meaning": "remnant of wine"},
+            {"word": "Kruge", "lemma": "Krug", "pos": "noun", "meaning": "pitcher / jug"}
+        ],
+        None
+    ),
+    "Hier ist er. Nimm!": (
+        "Here is it. Take!",
+        [{"word": "Nimm", "lemma": "nehmen", "pos": "verb", "meaning": "take (imperative singular)"}],
+        None
+    ),
+
+    # --- ACT 2 SCENE 3: Nr. 13 Terzett Florestan, Rocco, Leonore ---
+    "Euch werde Lohn in besser’n Welten,": (
+        "To-you be reward in better worlds,",
+        [
+            {"word": "Euch", "lemma": "ihr", "pos": "pronoun", "meaning": "to you (dative plural)"},
+            {"word": "werde", "lemma": "werden", "pos": "verb", "meaning": "may be granted (subjunctive I optative)"},
+            {"word": "Lohn", "lemma": "Lohn", "pos": "noun", "meaning": "reward / recompense"},
+            {"word": "in besser'n Welten", "lemma": "Welt", "pos": "noun", "meaning": "in better worlds (the hereafter)"}
+        ],
+        "Optative subjunctive I: 'werde' expresses a blessing/benediction."
+    ),
+    "der Himmel hat euch mir geschickt.": (
+        "heaven has you to-me sent.",
+        [
+            {"word": "Himmel", "lemma": "Himmel", "pos": "noun", "meaning": "heaven (subject nominative)"},
+            {"word": "euch", "lemma": "ihr", "pos": "pronoun", "meaning": "you (accusative direct object)"},
+            {"word": "mir", "lemma": "ich", "pos": "pronoun", "meaning": "to me (dative)"},
+            {"word": "geschickt", "lemma": "schicken", "pos": "verb", "meaning": "sent"}
+        ],
+        None
+    ),
+    "O Dank! Ihr habt mich süß erquickt,": (
+        "O thanks! You have me sweetly refreshed,",
+        [
+            {"word": "Dank", "lemma": "Dank", "pos": "noun", "meaning": "thanks / gratitude"},
+            {"word": "süß", "lemma": "süß", "pos": "adverb", "meaning": "sweetly / blissfully"},
+            {"word": "erquickt", "lemma": "erquicken", "pos": "verb", "meaning": "refreshed / revived"}
+        ],
+        None
+    ),
+    "ich kann die Wohltat nicht vergelten.": (
+        "I can the benefit not repay.",
+        [
+            {"word": "Wohltat", "lemma": "Wohltat", "pos": "noun", "meaning": "good deed / kindness / charity"},
+            {"word": "vergelten", "lemma": "vergelten", "pos": "verb", "meaning": "repay / recompense"}
+        ],
+        None
+    ),
+    "Der arme Mann!": (
+        "The poor man!",
+        [{"word": "arme Mann", "lemma": "Mann", "pos": "noun", "meaning": "poor man"}],
+        None
+    ),
+    "Es wogt in Freud’ und scharfem Schmerz!": (
+        "It surges in joy and sharp pain!",
+        [
+            {"word": "wogt", "lemma": "wogen", "pos": "verb", "meaning": "surges / heaves"},
+            {"word": "scharfem Schmerz", "lemma": "Schmerz", "pos": "noun", "meaning": "sharp sorrow / acute agony (dative)"}
+        ],
+        None
+    ),
+    "Gern schlag’ ich an des Mitleids Banden;": (
+        "Gladly strike I on of-pity the bonds;",
+        [
+            {"word": "Gern", "lemma": "gern", "pos": "adverb", "meaning": "gladly"},
+            {"word": "Mitleids Banden", "lemma": "Bande", "pos": "noun", "meaning": "bonds/ties of compassion (genitive Mitleids)"}
+        ],
+        None
+    ),
+    "und Rührung zeigt auch dieser Mann,": (
+        "and emotion shows also this man;",
+        [
+            {"word": "Rührung", "lemma": "Rührung", "pos": "noun", "meaning": "tender emotion / pity (accusative)"},
+            {"word": "dieser Mann", "lemma": "Mann", "pos": "noun", "meaning": "this man (referring to Rocco)"}
+        ],
+        "OVS word order: direct object 'Rührung' fronted."
+    ),
+    "die hehre, bange Stunde winkt,": (
+        "the sublime, anxious hour beckons,",
+        [
+            {"word": "hehre", "lemma": "hehr", "pos": "adjective", "meaning": "exalted / momentous / sublime"},
+            {"word": "bange", "lemma": "bange", "pos": "adjective", "meaning": "anxious / fateful"},
+            {"word": "winkt", "lemma": "winken", "pos": "verb", "meaning": "beckons / draws nigh"}
+        ],
+        None
+    ),
+    "die Tod mir oder Rettung bringt.": (
+        "which death to-me or salvation brings.",
+        [
+            {"word": "Tod", "lemma": "Tod", "pos": "noun", "meaning": "death"},
+            {"word": "Rettung", "lemma": "Rettung", "pos": "noun", "meaning": "deliverance"}
+        ],
+        None
+    ),
+    "So sei es, ja, du kannst es wagen!": (
+        "So be it, yes, you can it venture!",
+        [
+            {"word": "So sei es", "lemma": "sein", "pos": "phrase", "meaning": "so be it (subjunctive I optative)"},
+            {"word": "wagen", "lemma": "wagen", "pos": "verb", "meaning": "risk / dare"}
+        ],
+        None
+    ),
+    "Da nimm das Brot, du armer Mann!": (
+        "There take the bread, you poor man!",
+        [
+            {"word": "nimm", "lemma": "nehmen", "pos": "verb", "meaning": "take (imperative)"},
+            {"word": "Brot", "lemma": "Brot", "pos": "noun", "meaning": "bread"}
+        ],
+        None
+    ),
+    "O, meine Leonore, so soll ich dich nie wieder sehen?": (
+        "O, my Leonore, thus shall I you never again see?",
+        [
+            {"word": "nie wieder", "lemma": "wieder", "pos": "adverb", "meaning": "never again"}
+        ],
+        None
+    ),
+    "Sei ruhig, sag’ ich dir. Was du auch hören und sehen magst, bleib’ still!": (
+        "Be quiet, say I to-you. Whatever you also hear and see may, remain calm!",
+        [
+            {"word": "Sei ruhig", "lemma": "ruhig", "pos": "phrase", "meaning": "be quiet / calm down"},
+            {"word": "magst", "lemma": "mögen", "pos": "verb", "meaning": "may (concessive relative)"}
+        ],
+        None
+    ),
+    "Alles ist bereit, Herr Gouverneur.": (
+        "All is ready, Lord Governor.",
+        [{"word": "bereit", "lemma": "bereit", "pos": "adjective", "meaning": "ready"}],
+        None
+    )
+}
+
+print(f"Act 2 Scenes 1-3 translations defined: {len(TRANS_ACT2_SC1_3)}")
+with open('scripts/fidelio_trans_act2_sc1_3.json', 'w', encoding='utf-8') as f:
+    json.dump(TRANS_ACT2_SC1_3, f, ensure_ascii=False, indent=2)

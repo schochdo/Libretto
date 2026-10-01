@@ -1,0 +1,485 @@
+
+# ===========================================
+# SCENE 1: Nr. 9: Marsch
+# ===========================================
+
+# ===========================================
+# SCENE 2: Nr. 10: Arie und Chor
+# ===========================================
+    # Sarastro: O Isis und Osiris, schenket
+    # Sarastro: der Weisheit Geist dem neuen Paar!
+    # Sarastro: Die ihr Schritte der Wand'rer lenket,
+    # Sarastro: stärkt mit Geduld sie in Gefahr.
+    # Priests: Stärkt mit Geduld sie in Gefahr.
+    # Sarastro: Laßt sie der Prüfung Früchte sehen,
+    # Sarastro: doch sollten sie zu Grabe gehen,
+    # Sarastro: so lohnt der Tugend kühnen Lauf,
+    # Sarastro: nehmt sie in euren Wohnsitz auf!
+    # Priests: Nehmt sie in euren Wohnsitz auf!
+
+# ===========================================
+# SCENE 3: Nr. 11: Duett
+# ===========================================
+    # Both Priests: Bewahret euch vor Weibertücken,
+    # Both Priests: dies ist des Bundes erste Pflicht;
+    # Both Priests: manch weiser Mann ließ sich berücken,
+    # Both Priests: er fehlte und versah sich's nicht.
+    # Both Priests: Verlassen sah er sich am Ende,
+    # Both Priests: vergolten seine Treu' mit Hohn! –
+    # Both Priests: Vergebens rang er seine Hände,
+    # Both Priests: Tod und Verzweiflung war sein Lohn.
+
+# ===========================================
+# SCENE 4: Nr. 12: Quintett
+# ===========================================
+    # Three Ladies: Wie? wie? wie? ihr an diesem Schreckensort?
+    # Three Ladies: Nie! nie! nie! kommt ihr wieder glücklich fort!
+    # Three Ladies: Tamino! dir ist Tod geschworen!
+    # Three Ladies: Du Papageno! bist verloren!
+    # Papageno: Nein, nein, nein, das wär' zuviel.
+    # Tamino: Papageno, schweige still!
+    # Tamino: Willst du dein Gelübde brechen,
+    # Tamino: nichts mit Weibern hier zu sprechen?
+    # Papageno: Du hörst doch,
+    # Papageno: wir sind beide hin!
+    # Tamino: Stille, sag' ich – schweige still!
+    # Papageno: Immer still und immer still!
+    # Three Ladies: Ganz nah ist euch die Königin,
+    # Three Ladies: sie drang in Tempel heimlich ein! –
+    # Papageno: Wie? was? sie soll im Tempel sein?
+    # Tamino: Stille sag' ich – schweige still! –
+    # Tamino: Wirst du immer so vermessen
+    # Tamino: deine Eidespflicht vergessen? –
+    # Three Ladies: Tamino hör! du bist verloren!
+    # Three Ladies: Gedenke an die Königin!
+    # Three Ladies: Man zischelt viel sich in die Ohren
+    # Three Ladies: von dieser Priester falschem Sinn!
+    # Tamino (für sich): Ein Weiser prüft und achtet nicht,
+    # Tamino (für sich): was der gemeine Pöbel spricht.
+    # Three Ladies: Man zischelt viel sich in die Ohren
+    # Three Ladies: von dieser Priester falschem Sinn!
+    # Three Ladies: Man sagt, wer ihrem Bunde schwört,
+    # Three Ladies: der fährt zur Höll' mit Haut und Haar.
+    # Papageno: Das wär' der Teufel! Unerhört!
+    # Papageno: Sag an, Tamino, ist das wahr?
+    # Tamino: Geschwätz von Weibern nachgesagt,
+    # Tamino: von Heuchlern aber ausgedacht.
+    # Papageno: Doch sagt es auch die Königin!
+    # Tamino: Sie ist ein Weib, hat Weibersinn!
+    # Tamino: Sei still, mein Wort sei dir genug,
+    # Tamino: denk deiner Pflicht, und handle klug.
+    # Three Ladies (zu Tamino): Warum bist du mit uns so spröde?
+    # Three Ladies (zu Tamino): Auch Papageno schweigt – so rede!
+    # Papageno: Ich möchte gerne...wohl –
+    # Tamino: Still!
+    # Papageno: Ihr seht, daß ich nicht soll! –
+    # Tamino: Still!
+    # Papageno: Daß ich nicht kann das Plaudern lassen,
+    # Papageno: ist wahrlich eine Schand' für mich!
+    # Tamino: Daß du nicht kannst das Plaudern lassen,
+    # Tamino: ist wahrlich eine Schand' für dich!
+    # Three Ladies: Wir müssen sie mit Scham verlassen,
+    # Three Ladies: es plaudert keiner sicherlich.
+    # Three Ladies: TAMINO und PAPAGENO
+    # Three Ladies: Sie müssen uns mit Scham verlassen,
+    # Three Ladies: es plaudert keiner sicherlich!
+    # All: Von festem Geiste ist ein Mann,
+    # All: er denket, was er sprechen kann!
+    # The Initiates (von innen): Entweiht ist die heilige Schwelle!
+    # The Initiates (von innen): Hinab mit den Weibern zur Hölle!
+    # Three Ladies: O weh! O weh!
+    # Papageno: O weh! O weh! O weh!
+
+# ===========================================
+# SCENE 5: Nr. 13: Arie
+# ===========================================
+    # Monostatos: Alles fühlt der Liebe Freuden,
+    # Monostatos: schnäbelt, tändelt, herzet, küßt –
+    # Monostatos: und ich soll die Liebe meiden,
+    # Monostatos: weil ein Schwarzer häßlich ist!
+    # Monostatos: Ist mir denn kein Herz gegeben,
+    # Monostatos: bin ich nicht von Fleisch und Blut?
+    # Monostatos: Immer ohne Weibchen leben
+    # Monostatos: wäre wahrlich Höllenglut.
+    # Monostatos: Drum so will ich, weil ich lebe,
+    # Monostatos: schnäbeln, küssen, zärtlich sein! –
+    # Monostatos: Lieber, guter Mond, vergebe,
+    # Monostatos: eine Weiße nahm mich ein!
+    # Monostatos: Weiß ist schön – ich muß sie küssen.
+    # Monostatos: Mond! verstecke dich dazu! –
+    # Monostatos: Sollt' es dich zu sehr verdrießen,
+    # Monostatos: o, so mach die Augen zu.
+
+# ===========================================
+# SCENE 6: Nr. 14: Arie
+# ===========================================
+    # Queen of the Night: Der Hölle Rache kocht in meinem Herzen,
+    # Queen of the Night: Tod und Verzweiflung flammet um mich her!
+    # Queen of the Night: Fühlt nicht durch dich Sarastro Todesschmerzen,
+    # Queen of the Night: so bist du meine Tochter nimmermehr:
+    # Queen of the Night: Verstoßen sei auf ewig, verlassen sei auf ewig,
+    # Queen of the Night: zertrümmert sei'n auf ewig alle Bande der Natur,
+    # Queen of the Night: wenn nicht durch dich Sarastro wird erblassen! –
+    # Queen of the Night: Hört, hört, hört! Rachegötter – hört!
+    # Queen of the Night: – der Mutter Schwur! –
+
+# ===========================================
+# SCENE 7: Nr. 15: Arie
+# ===========================================
+    # Sarastro: In diesen heil'gen Hallen
+    # Sarastro: kennt man die Rache nicht!
+    # Sarastro: Und ist ein Mensch gefallen,
+    # Sarastro: führt Liebe ihn zur Pflicht.
+    # Sarastro: Dann wandelt er an Freundes Hand
+    # Sarastro: vergnügt und froh ins bess're Land.
+    # Sarastro: In diesen heil'gen Mauern,
+    # Sarastro: wo Mensch den Menschen liebt –
+    # Sarastro: kann kein Verräter lauern,
+    # Sarastro: weil man dem Feind vergibt.
+    # Sarastro: Wen solche Lehren nicht erfreu'n,
+    # Sarastro: verdienet nicht ein Mensch zu sein.
+
+# ===========================================
+# SCENE 8: Nr. 16: Terzett
+# ===========================================
+    # Three Boys: Seid uns zum zweiten Mal willkommen,
+    # Three Boys: ihr Männer, in Sarastros Reich! –
+    # Three Boys: Er schickt, was man euch abgenommen,
+    # Three Boys: die Flöte und die Glöckchen euch.
+    # Three Boys (Ein mit Speisen und Getränken schön gedeckter Tisch erscheint aus der Versenkung.): Wollt ihr Speisen nicht verschmähen,
+    # Three Boys (Ein mit Speisen und Getränken schön gedeckter Tisch erscheint aus der Versenkung.): so esset, trinket froh davon! –
+    # Three Boys (Ein mit Speisen und Getränken schön gedeckter Tisch erscheint aus der Versenkung.): Wenn wir zum dritten Mal uns sehen,
+    # Three Boys (Ein mit Speisen und Getränken schön gedeckter Tisch erscheint aus der Versenkung.): ist Freude eures Mutes Lohn!
+    # Three Boys (Ein mit Speisen und Getränken schön gedeckter Tisch erscheint aus der Versenkung.): Tamino Mut! – Nah ist das Ziel!
+    # Three Boys (Ein mit Speisen und Getränken schön gedeckter Tisch erscheint aus der Versenkung.): Du Papageno, schweige still! –
+
+# ===========================================
+# SCENE 9: Nr. 17: Arie
+# ===========================================
+    # Pamina: Ach, ich fühl's, es ist verschwunden!
+    # Pamina: ewig hin der Liebe Glück! –
+    # Pamina: Nimmer kommt ihr Wonnestunden
+    # Pamina: meinem Herzen mehr zurück!
+    # Pamina: Sieh Tamino! diese Tränen
+    # Pamina: fließen, Trauter, dir allein,
+    # Pamina: fühlst du nicht der Liebe Sehnen –
+    # Pamina: so wird Ruh' im Tode sein! –
+
+# ===========================================
+# SCENE 10: Nr. 18: Chor der Priester
+# ===========================================
+    # Chorus of Priests: O Isis und Osiris, welche Wonne!
+    # Chorus of Priests: Die düst're Nacht verscheucht der Glanz der Sonne! –
+    # Chorus of Priests: Bald fühlt der edle Jüngling neues Leben,
+    # Chorus of Priests: bald ist er unser'm Dienste ganz gegeben.
+    # Chorus of Priests: Sein Geist ist kühn, sein Herz ist rein,
+    # Chorus of Priests: bald wird er unser würdig sein.
+
+# ===========================================
+# SCENE 11: Nr. 19: Terzett
+# ===========================================
+    # Pamina: Soll ich dich, Teurer, nicht mehr seh'n? –
+    # Sarastro: Ihr werdet froh euch wiederseh'n! –
+    # Pamina: Dein warten tödliche Gefahren!
+    # Tamino: Die Götter mögen mich bewahren!
+    # Pamina: Dein warten tödliche Gefahren! –
+    # Tamino: Die Götter mögen mich bewahren!
+    # Sarastro: Die Götter mögen ihn bewahren!
+    # Pamina: Du wirst dem Tode nicht entgehen,
+    # Pamina: mir flüstert dieses Ahnung ein!
+    # Tamino: Der Götter Wille mag geschehen,
+    # Tamino: ihr Wink soll mir Gesetze sein!
+    # Sarastro: Der Götter Wille mag geschehen,
+    # Sarastro: ihr Wink soll ihm Gesetze sein.
+    # Pamina: O liebtest du, wie ich dich liebe,
+    # Pamina: du würdest nicht so ruhig sein.
+    # Tamino: Glaub mir, ich fühle gleiche Triebe,
+    # Tamino: werd' ewig dein Getreuer sein.
+    # Sarastro: Glaub mir, er fühlet gleiche Triebe,
+    # Sarastro: wird ewig dein Getreuer sein.
+    # Sarastro: Die Stunde schlägt, nun müßt ihr scheiden!
+    # Sarastro: PAMINA und TAMINO
+    # Sarastro: Wie bitter sind der Trennung Leiden!
+    # Sarastro: Tamino muß nun wieder fort!
+    # Sarastro: Die Stunde schlägt, nun müßt ihr scheiden,
+    # Sarastro: Tamino muß nun wieder fort!
+    # Sarastro: Nun muß er fort!
+    # Tamino: Pamina, ich muß wirklich fort!
+    # Tamino: Wie bitter sind der Trennung Leiden!
+    # Tamino: Pamina, ich muß wirklich fort!
+    # Tamino: Nun muß ich fort!
+    # Pamina: Tamino muß nun wirklich fort!
+    # Pamina: Tamino! Tamino! so mußt du fort!
+    # Tamino: Pamina! lebe wohl!
+    # Pamina: Tamino! lebe wohl!
+    # Sarastro: Nun eile fort! dich ruft dein Wort!
+    # Sarastro: Die Stunde schlägt! Wir seh'n uns wieder!
+    # Sarastro: PAMINA und TAMINO
+    # Sarastro: O gold'ne Ruhe! kehre wieder!
+    # Sarastro: Lebe wohl!
+
+# ===========================================
+# SCENE 12: Nr. 20: Arie
+# ===========================================
+    # Papageno: Ein Mädchen oder Weibchen
+    # Papageno: wünscht Papageno sich!
+    # Papageno: O so ein sanftes Täubchen
+    # Papageno: wär' Seligkeit für mich!
+    # Papageno: Dann schmeckte mir Trinken und Essen,
+    # Papageno: dann könnt' ich mit Fürsten mich messen,
+    # Papageno: des Lebens als Weiser mich freu'n,
+    # Papageno: und wie im Elysium sein!
+    # Papageno: Ein Mädchen, usw.
+    # Papageno: Ach, kann ich denn keiner von allen
+    # Papageno: den reizenden Mädchen gefallen?
+    # Papageno: Helf' eine mir nur aus der Not,
+    # Papageno: sonst gräm' ich mich wahrlich zu Tod.
+    # Papageno: Ein Mädchen, usw.
+    # Papageno: Wird keine mir Liebe gewähren,
+    # Papageno: so muß mich die Flamme verzehren,
+    # Papageno: doch küßt mich ein weiblicher Mund –
+    # Papageno: so bin ich schon wieder gesund.
+
+# ===========================================
+# SCENE 13: Nr. 21: Finale
+# ===========================================
+    # Three Boys: Bald prangt, den Morgen zu verkünden,
+    # Three Boys: die Sonn' auf gold'ner Bahn –
+    # Three Boys: bald soll der Aberglaube schwinden,
+    # Three Boys: bald siegt der weise Mann! –
+    # Three Boys: O holde Ruhe, steig hernieder,
+    # Three Boys: kehr in der Menschen Herzen wieder;
+    # Three Boys: dann ist die Erd' ein Himmelreich,
+    # Three Boys: und Sterbliche den Göttern gleich.
+    # First Boy: Doch seht, Verzweiflung quält Paminen! –
+    # First Boy: ZWEITER und DRITTER KNABE
+    # First Boy: Wo ist sie denn?
+    # First Boy: Sie ist von Sinnen! –
+    # Three Boys: Sie quält verschmähter Liebe Leiden,
+    # Three Boys: laßt uns der Armen Trost bereiten! –
+    # Three Boys: Führwahr ihr Schicksal geht uns nah!
+    # Three Boys: O wäre nur ihr Jüngling da! –
+    # Three Boys: Sie kommt, laßt uns beiseite geh'n,
+    # Three Boys: damit wir, was sie mache, seh'n.
+    # Pamina: Du also bist mein Bräutigam –
+    # Pamina: durch dich vollend' ich meinen Gram! –
+    # Three Boys (beiseite): Welch dunkle Worte sprach sie da! –
+    # Three Boys (beiseite): Die Arme ist dem Wahnsinn nah! –
+    # Pamina: Geduld! mein Trauter, ich bin dein –
+    # Pamina: bald werden wir vermählet sein!
+    # Three Boys: Wahnsinn tobt ihr im Gehirne –
+    # Three Boys: Selbstmord steht auf ihrer Stirne! –
+    # Three Boys (zu Pamina): Holdes Mädchen, sieh uns an!
+    # Pamina: Sterben will ich – weil der Mann,
+    # Pamina: den ich nimmermehr kann hassen,
+    # Pamina: seine Traute kann verlassen! –
+    # Pamina (auf den Dolch zeigend): Dies gab meine Mutter mir –
+    # Three Boys: Selbstmord strafet Gott an dir! –
+    # Pamina: Lieber durch dies Eisen sterben,
+    # Pamina: als durch Liebesgram verderben. –
+    # Pamina: Mutter! durch dich leide ich,
+    # Pamina: und dein Fluch verfolget mich!
+    # Three Boys: Mädchen! willst du mit uns geh'n?
+    # Pamina: Ha! des Jammers Maß ist voll!
+    # Pamina: Falscher Jüngling, lebe wohl!
+    # Pamina: Sieh, Pamina stirbt durch dich!
+    # Pamina (will sich erstechen): Dieses Eisen töte mich! –
+    # Three Boys (halten ihr den Arm): Ha! Unglückliche, halt ein!
+    # Three Boys (halten ihr den Arm): Sollte dies dein Jüngling sehen,
+    # Three Boys (halten ihr den Arm): würde er vor Gram vergehen,
+    # Three Boys (halten ihr den Arm): denn er liebet dich allein. –
+    # Pamina (erholt sich): Was? er fühlte Gegenliebe?
+    # Pamina (erholt sich): und verbarg mir seine Triebe –
+    # Pamina (erholt sich): wandte sein Gesicht von mir?
+    # Pamina (erholt sich): Warum sprach er nicht mit mir? –
+    # Three Boys: Dieses müssen wir verschweigen,
+    # Three Boys: doch wir wollen ihn dir zeigen,
+    # Three Boys: und du wirst mit Staunen seh'n,
+    # Three Boys: daß er dir sein Herz geweiht,
+    # Three Boys: und den Tod für dich nicht scheut!
+    # Three Boys: Komm, wir wollen zu ihm geh'n.
+    # Pamina: Führt mich hin, ich möcht' ihn seh'n.
+    # All: Zwei Herzen, die von Liebe brennen,
+    # All: kann Menschenohnmacht niemals trennen. –
+    # All: Verloren ist der Feinde Müh',
+    # All: die Götter selbsten schützen sie.
+    # Two Armed Men: (Diese Melodie ist identisch mit Luthers Choral `Ach Gott, vom Himmel sieh' darein' (Psalm 12).
+    # Two Armed Men: Luthers Gedicht wiederum liegt dem Text für Bachs
+    # Two Armed Men: Kantate BWV 2 zugrunde.)
+    # Two Armed Men: Der, welcher wandert diese Straße voll Beschwerden,
+    # Two Armed Men: wird rein durch Feuer, Wasser, Luft und Erden.
+    # Two Armed Men: Wenn er des Todes Schrecken überwinden kann,
+    # Two Armed Men: schwingt er sich aus der Erde himmelan!
+    # Two Armed Men: Erleuchtet wird er dann im Stande sein,
+    # Two Armed Men: sich den Mysterien der Isis ganz zu weih'n.
+    # Tamino: Mich schreckt kein Tod, als Mann zu handeln,
+    # Tamino: den Weg der Tugend fortzuwandeln! –
+    # Tamino: Schließt mir des Schreckens Pforte auf –
+    # Tamino: ich wage froh den kühnen Lauf. –
+    # Pamina (von innen): Tamino halt! ich muß dich sehn!
+    # Tamino: Was hör' ich? Paminens Stimme? –
+    # Two Armed Men: Ja ja, das ist Paminens Stimme! –
+    # Tamino: Wohl mir, nun kann sie mit mir geh'n!
+    # Tamino: Nun trennet uns kein Schicksal mehr,
+    # Tamino: wenn auch der Tod beschieden wär'.
+    # Two Armed Men: Wohl dir, nun kann sie mit dir geh'n!
+    # Two Armed Men: Nun trennet euch kein Schicksal mehr,
+    # Two Armed Men: wenn auch der Tod beschieden wär'.
+    # Tamino: Ist mir erlaubt mit ihr zu sprechen? –
+    # Two Armed Men: Es ist erlaubt mit ihr zu sprechen!
+    # Tamino: Welch Glück, wenn wir uns wiederseh'n,
+    # Tamino: froh Hand in Hand in Tempel geh'n.
+    # Tamino: Ein Weib, das Nacht und Tod nicht scheut,
+    # Tamino: ist würdig, und wird eingeweiht.
+    # Two Armed Men: Welch Glück, wenn wir euch wiederseh'n,
+    # Two Armed Men: froh Hand in Hand in Tempel geh'n.
+    # Two Armed Men: Ein Weib, das Nacht und Tod nicht scheut,
+    # Two Armed Men: ist würdig, und wird eingeweiht.
+    # Pamina: Tamino mein! O welch ein Glück!
+    # Tamino: Pamina mein! O welch ein Glück!
+    # Tamino: Hier sind die Schreckenspforten,
+    # Tamino: die Not und Tod mir dräu'n.
+    # Pamina: Ich werde aller Orten
+    # Pamina: an deiner Seite sein. –
+    # Pamina: Ich selbsten führe dich –
+    # Pamina: die Liebe leitet mich! –
+    # Pamina (nimmt ihn bei der Hand): Sie mag den Weg mit Rosen streu'n,
+    # Pamina (nimmt ihn bei der Hand): weil Rosen stets bei Dornen sein.
+    # Pamina (nimmt ihn bei der Hand): Spiel du die Zauberflöte an,
+    # Pamina (nimmt ihn bei der Hand): sie schütze uns auf uns'rer Bahn.
+    # Pamina (nimmt ihn bei der Hand): Es schnitt in einer Zauberstunde
+    # Pamina (nimmt ihn bei der Hand): mein Vater sie aus tiefstem Grunde
+    # Pamina (nimmt ihn bei der Hand): der tausendjähr'gen Eiche aus
+    # Pamina (nimmt ihn bei der Hand): bei Blitz und Donner – Sturm und Braus. –
+    # Pamina (nimmt ihn bei der Hand): Nun komm und spiel die Flöte an!
+    # Pamina (nimmt ihn bei der Hand): Sie leite uns auf grauser Bahn.
+    # Pamina (nimmt ihn bei der Hand): PAMINA und TAMINO
+    # Pamina (nimmt ihn bei der Hand): Wir wandeln durch des Tones Macht
+    # Pamina (nimmt ihn bei der Hand): froh durch des Todes düst're Nacht.
+    # Two Armed Men: Ihr wandelt durch des Tones Macht
+    # Two Armed Men: froh durch des Todes düst're Nacht.
+    # Two Armed Men (Die Türen werden nach ihnen zugeschlagen; man sieht Tamino und Pamina wandern. Tamino bläst seine Flöte. Sobald sie vom Feuer herauskommen, umarmen sie sich und bleiben in der Mitte.): PAMINA und TAMINO
+    # Two Armed Men (Die Türen werden nach ihnen zugeschlagen; man sieht Tamino und Pamina wandern. Tamino bläst seine Flöte. Sobald sie vom Feuer herauskommen, umarmen sie sich und bleiben in der Mitte.): Wir wandelten durch Feuergluten,
+    # Two Armed Men (Die Türen werden nach ihnen zugeschlagen; man sieht Tamino und Pamina wandern. Tamino bläst seine Flöte. Sobald sie vom Feuer herauskommen, umarmen sie sich und bleiben in der Mitte.): bekämpften mutig die Gefahr,
+    # Two Armed Men (Die Türen werden nach ihnen zugeschlagen; man sieht Tamino und Pamina wandern. Tamino bläst seine Flöte. Sobald sie vom Feuer herauskommen, umarmen sie sich und bleiben in der Mitte.): dein Ton sei Schutz in Wasserfluten,
+    # Two Armed Men (Die Türen werden nach ihnen zugeschlagen; man sieht Tamino und Pamina wandern. Tamino bläst seine Flöte. Sobald sie vom Feuer herauskommen, umarmen sie sich und bleiben in der Mitte.): so wie er es im Feuer war.
+    # Two Armed Men (Tamino bläst; man sieht sie hinuntersteigen und nach einiger Zeit wieder heraufkommen; sogleich öffnet sich eine Türe; man sieht einen Eingang in einen Tempel, welcher hell beleuchtet ist.): PAMINA und TAMINO
+    # Two Armed Men (Tamino bläst; man sieht sie hinuntersteigen und nach einiger Zeit wieder heraufkommen; sogleich öffnet sich eine Türe; man sieht einen Eingang in einen Tempel, welcher hell beleuchtet ist.): Ihr Götter, welch ein Augenblick!
+    # Two Armed Men (Tamino bläst; man sieht sie hinuntersteigen und nach einiger Zeit wieder heraufkommen; sogleich öffnet sich eine Türe; man sieht einen Eingang in einen Tempel, welcher hell beleuchtet ist.): Gewähret ist uns Isis' Glück! –
+    # Two Armed Men (Tamino bläst; man sieht sie hinuntersteigen und nach einiger Zeit wieder heraufkommen; sogleich öffnet sich eine Türe; man sieht einen Eingang in einen Tempel, welcher hell beleuchtet ist.): GEFOLGE und PRIESTER (von innen)
+    # Two Armed Men (Tamino bläst; man sieht sie hinuntersteigen und nach einiger Zeit wieder heraufkommen; sogleich öffnet sich eine Türe; man sieht einen Eingang in einen Tempel, welcher hell beleuchtet ist.): Triumph, Triumph, Triumph, du edles Paar,
+    # Two Armed Men (Tamino bläst; man sieht sie hinuntersteigen und nach einiger Zeit wieder heraufkommen; sogleich öffnet sich eine Türe; man sieht einen Eingang in einen Tempel, welcher hell beleuchtet ist.): besieget hast du die Gefahr!
+    # Two Armed Men (Tamino bläst; man sieht sie hinuntersteigen und nach einiger Zeit wieder heraufkommen; sogleich öffnet sich eine Türe; man sieht einen Eingang in einen Tempel, welcher hell beleuchtet ist.): Der Isis Weihe ist nun dein!
+    # Two Armed Men (Tamino bläst; man sieht sie hinuntersteigen und nach einiger Zeit wieder heraufkommen; sogleich öffnet sich eine Türe; man sieht einen Eingang in einen Tempel, welcher hell beleuchtet ist.): Kommt, kommt, tretet in den Tempel ein.
+    # Papageno: Papagena! Papagena! Papagena!
+    # Papageno (pfeift): Weibchen! Täubchen! meine Schöne! –
+    # Papageno (pfeift): Vergebens! Ach! sie ist verloren!
+    # Papageno (pfeift): ich bin zum Unglück schon geboren! –
+    # Papageno (pfeift): Ich plauderte, und das war schlecht,
+    # Papageno (pfeift): und drum geschieht es mir schon recht! –
+    # Papageno (pfeift): Seit ich gekostet diesen Wein –
+    # Papageno (pfeift): seit ich das schöne Weibchen sah,
+    # Papageno (pfeift): so brennt's im Herzenskämmerlein,
+    # Papageno (pfeift): so zwicket's hier, so zwicket's da!
+    # Papageno (pfeift): Papagena! Herzensweibchen!
+    # Papageno (pfeift): Papagena liebes Täubchen!
+    # Papageno (pfeift): 'S ist umsonst, es ist vergebens,
+    # Papageno (pfeift): müde bin ich meines Lebens!
+    # Papageno (pfeift): Sterben macht der Lieb' ein End,
+    # Papageno (pfeift): wenn's im Herzen noch so brennt.
+    # Papageno (nimmt einen Strick von seiner Mitte): Diesen Baum da will ich zieren,
+    # Papageno (nimmt einen Strick von seiner Mitte): mir an ihm den Hals zuschnüren,
+    # Papageno (nimmt einen Strick von seiner Mitte): weil das Leben mir mißfällt,
+    # Papageno (nimmt einen Strick von seiner Mitte): gute Nacht, du falsche Welt! –
+    # Papageno (nimmt einen Strick von seiner Mitte): Weil du böse an mir handelst,
+    # Papageno (nimmt einen Strick von seiner Mitte): mir kein schönes Kind zubandelst,
+    # Papageno (nimmt einen Strick von seiner Mitte): so ist's aus, so sterbe ich.
+    # Papageno (nimmt einen Strick von seiner Mitte): Schöne Mädchen, denkt an mich! –
+    # Papageno (nimmt einen Strick von seiner Mitte): Will sich eine um mich Armen,
+    # Papageno (nimmt einen Strick von seiner Mitte): eh' ich hänge, noch erbarmen –
+    # Papageno (nimmt einen Strick von seiner Mitte): wohl, so laß ich's diesmal sein!
+    # Papageno (nimmt einen Strick von seiner Mitte): Rufet nur, Ja oder Nein! –
+    # Papageno (nimmt einen Strick von seiner Mitte): Keine hört mich! alles stille!
+    # Papageno (nimmt einen Strick von seiner Mitte): Also ist es euer Wille!
+    # Papageno (nimmt einen Strick von seiner Mitte): Papageno frisch hinauf,
+    # Papageno (nimmt einen Strick von seiner Mitte): ende deinen Lebenslauf.
+    # Papageno (nimmt einen Strick von seiner Mitte): Nun! ich warte noch! es sei –
+    # Papageno (nimmt einen Strick von seiner Mitte): bis man zählet: eins, zwei, drei!
+    # Papageno (pfeift, sieht sich um): eins! zwei! drei!
+    # Papageno (pfeift, sieht sich um): Nun wohlan! es bleibt dabei!
+    # Papageno (pfeift, sieht sich um): Weil mich nichts zurücke hält,
+    # Papageno (pfeift, sieht sich um): gute Nacht, du falsche Welt!
+    # Three Boys (fahren herunter): Halt ein! o Papageno, und sei klug!
+    # Three Boys (fahren herunter): Man lebt nur einmal, dies sei dir genug!
+    # Papageno: Ihr habt gut reden, gut zu scherzen;
+    # Papageno: doch brennt es euch, wie mich im Herzen,
+    # Papageno: ihr würdet auch nach Mädchen geh'n.
+    # Three Boys: So lasse deine Glöckchen klingen,
+    # Three Boys: dies wird dein Weibchen zu dir bringen.
+    # Papageno: Ich Narr vergaß der Zauberdinge!
+    # Papageno (nimmt sein Instrument heraus): Erklinge, Glockenspiel, erklinge,
+    # Papageno (nimmt sein Instrument heraus): ich muß mein liebes Mädchen seh'n!
+    # Papageno (Die drei Knaben laufen zu ihrem Flugwerk und bringen das Weib heraus.): Klinget, Glöckchen, klinget,
+    # Papageno (Die drei Knaben laufen zu ihrem Flugwerk und bringen das Weib heraus.): schafft mein Mädchen her!
+    # Papageno (Die drei Knaben laufen zu ihrem Flugwerk und bringen das Weib heraus.): Klinget, Glöckchen, klinget,
+    # Papageno (Die drei Knaben laufen zu ihrem Flugwerk und bringen das Weib heraus.): bringt mein Mädchen her!
+    # Papageno (Die drei Knaben laufen zu ihrem Flugwerk und bringen das Weib heraus.): Klinget, Glöckchen, klinget,
+    # Papageno (Die drei Knaben laufen zu ihrem Flugwerk und bringen das Weib heraus.): bringt mein Weibchen her!
+    # Papageno (Die drei Knaben laufen zu ihrem Flugwerk und bringen das Weib heraus.): bringt sie her!
+    # Papageno (Die drei Knaben laufen zu ihrem Flugwerk und bringen das Weib heraus.): mein Mädchen her! mein Weibchen her!
+    # Three Boys: Nun Papageno, sieh dich um!
+    # Papageno: Pa-pa-ge-na!
+    # Papagena: Pa-pa-ge-no!
+    # Papageno: Bist du mir nun ganz ergeben? –
+    # Papagena: Nun bin ich dir ganz ergeben!
+    # Papageno: Nun so sei mein liebes Weibchen!
+    # Papagena: Nun so sei mein Herzenstäubchen!
+    # Both: Welche Freude wird das sein,
+    # Both: wenn die Götter uns bedenken,
+    # Both: uns'rer Liebe Kinder schenken,
+    # Both: so liebe kleine Kinderlein!
+    # Papageno: Erst einen kleinen Papageno!
+    # Papagena: Dann eine kleine Papagena!
+    # Papageno: Dann wieder einen Papageno!
+    # Papagena: Dann wieder eine Papagena!
+    # Papageno: Papageno!
+    # Papagena: Papagena!
+    # Both: Es ist das höchste der Gefühle,
+    # Both: wenn viele, viele Papagena/Papageno
+    # Both: der Eltern Segen werden sein!
+    # Monostatos: Nur stille! stille! stille!
+    # Monostatos: bald dringen wir im Tempel ein!
+    # Monostatos: KÖNIGIN und DAMEN
+    # Monostatos: Nur stille! stille! stille!
+    # Monostatos: bald dringen wir in Tempel ein!
+    # Monostatos: Doch Fürstin! halte Wort! erfülle!
+    # Monostatos: Dein Kind muß meine Gattin sein! –
+    # Queen of the Night: Ich halte Wort! es ist mein Wille,
+    # Queen of the Night: mein Kind soll deine Gattin sein!
+    # Three Ladies: Ihr Kind soll deine Gattin sein!
+    # Monostatos: Doch still, ich höre schrecklich Rauschen,
+    # Monostatos: wie Donnerton und Wasserfall. –
+    # Monostatos: KÖNIGIN und DAMEN
+    # Monostatos: Ja, fürchterlich ist dieses Rauschen,
+    # Monostatos: wie fernen Donners Widerhall! –
+    # Monostatos: Nun sind sie in des Tempels Hallen.
+    # All: Dort wollen wir sie überfallen,
+    # All: die Frömmler tilgen von der Erd'
+    # All: mit Feuersglut und mächt'gem Schwert!
+    # All: MONOSTATOS und DAMEN (kniend)
+    # All: Dir, große Königin der Nacht,
+    # All: sei uns'rer Rache Opfer gebracht!
+    # All: Zerschmettert, zernichtet ist unsere Macht,
+    # All: wir alle gestürzet in ewige Nacht! –
+    # Sarastro: Die Strahlen der Sonne
+    # Sarastro: vertreiben die Nacht,
+    # Sarastro: zernichten der Heuchler
+    # Sarastro: erschlichene Macht!
+    # Chorus: Heil sei euch Geweihten!
+    # Chorus: Ihr dränget durch Nacht!
+    # Chorus: Dank! sei dir Osiris!
+    # Chorus: Dank! dir Isis gebracht!
+    # Chorus: Es siegte die Stärke
+    # Chorus: und krönet zum Lohn
+    # Chorus: die Schönheit und Weisheit
+    # Chorus: mit ewiger Kron'!

@@ -1,0 +1,17 @@
+{
+  "name": "Libretto Opera Study Companion",
+  "short_name": "Libretto",
+  "description": "Interactive dual-column opera libretto study companion with linguistic inspection and speech.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#0a0202",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

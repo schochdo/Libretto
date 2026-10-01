@@ -1,0 +1,2438 @@
+[
+  {
+    "id": "a1_s1_c2_l1",
+    "scene": 1,
+    "speaker": "Chorus of Sirens",
+    "stageDirection": "unsichtbar",
+    "original": "Naht euch dem Strande!"
+  },
+  {
+    "id": "a1_s1_c2_l2",
+    "scene": 1,
+    "speaker": "Chorus of Sirens",
+    "stageDirection": "unsichtbar",
+    "original": "Naht euch dem Lande,"
+  },
+  {
+    "id": "a1_s1_c2_l3",
+    "scene": 1,
+    "speaker": "Chorus of Sirens",
+    "stageDirection": "unsichtbar",
+    "original": "wo in den Armen"
+  },
+  {
+    "id": "a1_s1_c2_l4",
+    "scene": 1,
+    "speaker": "Chorus of Sirens",
+    "stageDirection": "unsichtbar",
+    "original": "glühender Liebe"
+  },
+  {
+    "id": "a1_s1_c2_l5",
+    "scene": 1,
+    "speaker": "Chorus of Sirens",
+    "stageDirection": "unsichtbar",
+    "original": "selig Erbarmen"
+  },
+  {
+    "id": "a1_s1_c2_l6",
+    "scene": 1,
+    "speaker": "Chorus of Sirens",
+    "stageDirection": "unsichtbar",
+    "original": "still' eure Triebe!"
+  },
+  {
+    "id": "a1_s1_c4_l1",
+    "scene": 1,
+    "speaker": "Chorus of Sirens",
+    "stageDirection": null,
+    "original": "Naht euch dem Strande!"
+  },
+  {
+    "id": "a1_s1_c4_l2",
+    "scene": 1,
+    "speaker": "Chorus of Sirens",
+    "stageDirection": null,
+    "original": "Naht euch dem Lande!"
+  },
+  {
+    "id": "a1_s2_c2_l1",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "sehr ruhig",
+    "original": "Geliebter, sag, wo weilt dein Sinn?"
+  },
+  {
+    "id": "a1_s2_c3_l1",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "schnell",
+    "original": "Zu viel! Zu viel!"
+  },
+  {
+    "id": "a1_s2_c4_l1",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "langsamer und leise",
+    "original": "O, dass ich nun erwachte!"
+  },
+  {
+    "id": "a1_s2_c5_l1",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "ruhig und schmeichelnd",
+    "original": "Sag mir, was dich mühet!"
+  },
+  {
+    "id": "a1_s2_c6_l1",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Im Traum war mir's als hörte ich -"
+  },
+  {
+    "id": "a1_s2_c6_l2",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "was meinem Ohr so lange fremd! -"
+  },
+  {
+    "id": "a1_s2_c6_l3",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "als hörte ich der Glocken frohes Geläute!"
+  },
+  {
+    "id": "a1_s2_c6_l4",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "O sag, wie lange hört' ich's doch nicht mehr?"
+  },
+  {
+    "id": "a1_s2_c7_l1",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "wie vorher",
+    "original": "Was fasst dich an?"
+  },
+  {
+    "id": "a1_s2_c7_l2",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "wie vorher",
+    "original": "Wohin verlierst du dich?"
+  },
+  {
+    "id": "a1_s2_c9_l1",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "schwermütig",
+    "original": "Die Zeit, die hier ich verweil',"
+  },
+  {
+    "id": "a1_s2_c9_l2",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "schwermütig",
+    "original": "ich kann sie nicht ermessen:"
+  },
+  {
+    "id": "a1_s2_c9_l3",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "schwermütig",
+    "original": "Tage, Monde gibt's für mich nicht mehr;"
+  },
+  {
+    "id": "a1_s2_c9_l4",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "schwermütig",
+    "original": "denn nicht mehr sehe ich die Sonne,"
+  },
+  {
+    "id": "a1_s2_c9_l5",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "schwermütig",
+    "original": "nicht mehr des Himmels freundliche Gestirne;"
+  },
+  {
+    "id": "a1_s2_c9_l6",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "schwermütig",
+    "original": "den Halm seh' ich nicht mehr, der frisch ergrünend"
+  },
+  {
+    "id": "a1_s2_c9_l7",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "schwermütig",
+    "original": "den neuen Sommer bringt;"
+  },
+  {
+    "id": "a1_s2_c9_l8",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "schwermütig",
+    "original": "die Nachtigall hör' ich nicht mehr,"
+  },
+  {
+    "id": "a1_s2_c9_l9",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "schwermütig",
+    "original": "die mir den Lenz verkünde."
+  },
+  {
+    "id": "a1_s2_c9_l10",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "schwermütig",
+    "original": "Hör' ich sie nie, seh' ich sie niemals mehr?"
+  },
+  {
+    "id": "a1_s2_c10_l1",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit ruhiger Verwunderung",
+    "original": "Ha! Was vernehm' ich? Welch' tör'ge Klagen!"
+  },
+  {
+    "id": "a1_s2_c10_l2",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit ruhiger Verwunderung",
+    "original": "Bist du so bald der holden Wunder müde,"
+  },
+  {
+    "id": "a1_s2_c10_l3",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit ruhiger Verwunderung",
+    "original": "die meine Liebe dir bereitet?"
+  },
+  {
+    "id": "a1_s2_c10_l4",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit ruhiger Verwunderung",
+    "original": "Oder wie? könnt'ein Gott zu sein so sehr dich reu'n?"
+  },
+  {
+    "id": "a1_s2_c10_l5",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit ruhiger Verwunderung",
+    "original": "Hast du so bald vergessen, wie du einst"
+  },
+  {
+    "id": "a1_s2_c10_l6",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit ruhiger Verwunderung",
+    "original": "gelitten, während jetzt du dich erfreust?"
+  },
+  {
+    "id": "a1_s2_c11_l1",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "Sie erhebt sich",
+    "original": "Mein Sänger, auf!"
+  },
+  {
+    "id": "a1_s2_c12_l1",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "Sie nimmt die Harfe und hält sie ihm vor",
+    "original": "Auf, und ergreif' deine Harfe;"
+  },
+  {
+    "id": "a1_s2_c12_l2",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "Sie nimmt die Harfe und hält sie ihm vor",
+    "original": "die Liebe fei're, die so herrlich du besingst,"
+  },
+  {
+    "id": "a1_s2_c12_l3",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "Sie nimmt die Harfe und hält sie ihm vor",
+    "original": "dass du der Liebe Göttin selber dir gewannst!"
+  },
+  {
+    "id": "a1_s2_c12_l4",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "Sie nimmt die Harfe und hält sie ihm vor",
+    "original": "Die Liebe fei're, da ihr höchster Preis dir ward!"
+  },
+  {
+    "id": "a1_s2_c13_l1",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "zu einem plötzlichen Entschlusse ermannt, ergreift seine Harfe und stellt sich feierlich vor Venus hin",
+    "original": "Dir töne Lob! die Wunder sei'n gepriesen,"
+  },
+  {
+    "id": "a1_s2_c13_l2",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "zu einem plötzlichen Entschlusse ermannt, ergreift seine Harfe und stellt sich feierlich vor Venus hin",
+    "original": "die deine Macht mir Glücklichem erschuf!"
+  },
+  {
+    "id": "a1_s2_c13_l3",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "zu einem plötzlichen Entschlusse ermannt, ergreift seine Harfe und stellt sich feierlich vor Venus hin",
+    "original": "Die Wonnen süss, die deiner Huld entspriessen,"
+  },
+  {
+    "id": "a1_s2_c13_l4",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "zu einem plötzlichen Entschlusse ermannt, ergreift seine Harfe und stellt sich feierlich vor Venus hin",
+    "original": "erheb' mein Lied in lautem Jubelruf!"
+  },
+  {
+    "id": "a1_s2_c13_l5",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "zu einem plötzlichen Entschlusse ermannt, ergreift seine Harfe und stellt sich feierlich vor Venus hin",
+    "original": "Nach Freude, ach! nach herrlichem Geniessen"
+  },
+  {
+    "id": "a1_s2_c13_l6",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "zu einem plötzlichen Entschlusse ermannt, ergreift seine Harfe und stellt sich feierlich vor Venus hin",
+    "original": "verlangt' mein Herz, es dürstete mein Sinn:"
+  },
+  {
+    "id": "a1_s2_c13_l7",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "zu einem plötzlichen Entschlusse ermannt, ergreift seine Harfe und stellt sich feierlich vor Venus hin",
+    "original": "da, was nur Göttern einstens du erwiesen,"
+  },
+  {
+    "id": "a1_s2_c13_l8",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "zu einem plötzlichen Entschlusse ermannt, ergreift seine Harfe und stellt sich feierlich vor Venus hin",
+    "original": "gab deine Gunst mir Sterblichem dahin."
+  },
+  {
+    "id": "a1_s2_c13_l9",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "zu einem plötzlichen Entschlusse ermannt, ergreift seine Harfe und stellt sich feierlich vor Venus hin",
+    "original": "Doch sterblich, ach! bin ich geblieben,"
+  },
+  {
+    "id": "a1_s2_c13_l10",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "zu einem plötzlichen Entschlusse ermannt, ergreift seine Harfe und stellt sich feierlich vor Venus hin",
+    "original": "und übergross ist mir dein Lieben;"
+  },
+  {
+    "id": "a1_s2_c13_l11",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "zu einem plötzlichen Entschlusse ermannt, ergreift seine Harfe und stellt sich feierlich vor Venus hin",
+    "original": "wenn stets ein Gott geniessen kann,"
+  },
+  {
+    "id": "a1_s2_c13_l12",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "zu einem plötzlichen Entschlusse ermannt, ergreift seine Harfe und stellt sich feierlich vor Venus hin",
+    "original": "bin ich dem Wechsel untertan;"
+  },
+  {
+    "id": "a1_s2_c13_l13",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "zu einem plötzlichen Entschlusse ermannt, ergreift seine Harfe und stellt sich feierlich vor Venus hin",
+    "original": "nicht Lust allein liegt mir am Herzen,"
+  },
+  {
+    "id": "a1_s2_c13_l14",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "zu einem plötzlichen Entschlusse ermannt, ergreift seine Harfe und stellt sich feierlich vor Venus hin",
+    "original": "aus Freuden sehn'ich mich nach Schmerzen."
+  },
+  {
+    "id": "a1_s2_c13_l15",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "zu einem plötzlichen Entschlusse ermannt, ergreift seine Harfe und stellt sich feierlich vor Venus hin",
+    "original": "Aus deinem Reiche muss ich fliehn,"
+  },
+  {
+    "id": "a1_s2_c13_l16",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "zu einem plötzlichen Entschlusse ermannt, ergreift seine Harfe und stellt sich feierlich vor Venus hin",
+    "original": "o Königin!"
+  },
+  {
+    "id": "a1_s2_c13_l17",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "zu einem plötzlichen Entschlusse ermannt, ergreift seine Harfe und stellt sich feierlich vor Venus hin",
+    "original": "Göttin, lass' mich ziehn!"
+  },
+  {
+    "id": "a1_s2_c14_l1",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "wie aus einem Traume erwachend",
+    "original": "Was muss ich hören?"
+  },
+  {
+    "id": "a1_s2_c14_l2",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "wie aus einem Traume erwachend",
+    "original": "Welch ein Sang!"
+  },
+  {
+    "id": "a1_s2_c14_l3",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "wie aus einem Traume erwachend",
+    "original": "Welch trübem Ton verfällt dein Lied?"
+  },
+  {
+    "id": "a1_s2_c14_l4",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "wie aus einem Traume erwachend",
+    "original": "Wohin floh die Begeistrung dir,"
+  },
+  {
+    "id": "a1_s2_c14_l5",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "wie aus einem Traume erwachend",
+    "original": "die Wonnesang dir nur gebot?"
+  },
+  {
+    "id": "a1_s2_c14_l6",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "wie aus einem Traume erwachend",
+    "original": "Was ist's? Worin war meine Liebe lässig."
+  },
+  {
+    "id": "a1_s2_c14_l7",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "wie aus einem Traume erwachend",
+    "original": "Geliebter, wessen klagest du mich an?"
+  },
+  {
+    "id": "a1_s2_c15_l1",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Dank deiner Huld, gepriesen sei dein Lieben!"
+  },
+  {
+    "id": "a1_s2_c15_l2",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Beglückt für immer, wer bei dir geweilt!"
+  },
+  {
+    "id": "a1_s2_c15_l3",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Ewig beneidet, wer mit warmen Trieben"
+  },
+  {
+    "id": "a1_s2_c15_l4",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "in deinen Armen Götterglut geteilt!"
+  },
+  {
+    "id": "a1_s2_c15_l5",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Entzückend sind die Wunder deines Reiches,"
+  },
+  {
+    "id": "a1_s2_c15_l6",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "die Zauber aller Wonnen atm' ich hier;"
+  },
+  {
+    "id": "a1_s2_c15_l7",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "kein Land der weiten Erde bietet Gleiches,"
+  },
+  {
+    "id": "a1_s2_c15_l8",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "was sie besitzt, scheint leicht entbehrlich dir."
+  },
+  {
+    "id": "a1_s2_c15_l9",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Doch ich aus diesen ros'gen Düften"
+  },
+  {
+    "id": "a1_s2_c15_l10",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "verlange nach des Waldes Lüften,"
+  },
+  {
+    "id": "a1_s2_c15_l11",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "nach unsres Himmels klarem Blau,"
+  },
+  {
+    "id": "a1_s2_c15_l12",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "nach unserm frischen Grün der Au',"
+  },
+  {
+    "id": "a1_s2_c15_l13",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "nach unsrer Vöglein liebem Sange,"
+  },
+  {
+    "id": "a1_s2_c15_l14",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "nach unsrer Glocken trautem Klange:"
+  },
+  {
+    "id": "a1_s2_c15_l15",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "aus deinem Reiche muss ich fliehn!"
+  },
+  {
+    "id": "a1_s2_c15_l16",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "O Königin!"
+  },
+  {
+    "id": "a1_s2_c15_l17",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Göttin, lass' mich ziehn!"
+  },
+  {
+    "id": "a1_s2_c16_l1",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "von ihrem Lager aufspringend",
+    "original": "Treuloser! weh! was lässest du mich hören?"
+  },
+  {
+    "id": "a1_s2_c16_l2",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "von ihrem Lager aufspringend",
+    "original": "Du wagest meine Liebe zu verhöhnen?"
+  },
+  {
+    "id": "a1_s2_c16_l3",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "von ihrem Lager aufspringend",
+    "original": "Du preisest sie, und willst sie dennoch fliehn?"
+  },
+  {
+    "id": "a1_s2_c16_l4",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "von ihrem Lager aufspringend",
+    "original": "Zum Überdruss ist dir mein Reiz gediehn?"
+  },
+  {
+    "id": "a1_s2_c17_l1",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Ach schöne Göttin, wolle mir nicht zürnen!"
+  },
+  {
+    "id": "a1_s2_c18_l1",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "Zum Überdruss ist dir mein Reiz gediehn?"
+  },
+  {
+    "id": "a1_s2_c19_l1",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Dein übergrosser Reiz ist's, den ich fliehe!"
+  },
+  {
+    "id": "a1_s2_c20_l1",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "Weh dir! Verräter! Heuchler! Undankbarer!"
+  },
+  {
+    "id": "a1_s2_c20_l2",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "Ich lass' dich nicht! du darfst nicht von mir ziehen!"
+  },
+  {
+    "id": "a1_s2_c21_l1",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Nie war mein Lieben grösser, niemals wahrer,"
+  },
+  {
+    "id": "a1_s2_c21_l2",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Als jetzt, da ich für ewig dich muss fliehn!"
+  },
+  {
+    "id": "a1_s2_c23_l1",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit leiser Stimme beginnend",
+    "original": "Geliebter, komm! sieh dort die Grotte,"
+  },
+  {
+    "id": "a1_s2_c23_l2",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit leiser Stimme beginnend",
+    "original": "von ros'gen Düften mild durchwallt;"
+  },
+  {
+    "id": "a1_s2_c23_l3",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit leiser Stimme beginnend",
+    "original": "Entzücken böt' selbst einem Gotte"
+  },
+  {
+    "id": "a1_s2_c23_l4",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit leiser Stimme beginnend",
+    "original": "der süss'sten Freuden Aufenthalt!"
+  },
+  {
+    "id": "a1_s2_c23_l5",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit leiser Stimme beginnend",
+    "original": "Besänftigt auf dem weichsten Pfühle,"
+  },
+  {
+    "id": "a1_s2_c23_l6",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit leiser Stimme beginnend",
+    "original": "flieh' deine Glieder jeder Schmerz;"
+  },
+  {
+    "id": "a1_s2_c23_l7",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit leiser Stimme beginnend",
+    "original": "dein brennend Haupt umwehe Kühle,"
+  },
+  {
+    "id": "a1_s2_c23_l8",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit leiser Stimme beginnend",
+    "original": "wonnige Glut durchschwelle dein Herz!"
+  },
+  {
+    "id": "a1_s2_c24_l1",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "Indem sie ihn sanft nach sich zu ziehen sucht",
+    "original": "Komm, süsser Freund, komm, folge mir! komm!"
+  },
+  {
+    "id": "a1_s2_c25_l1",
+    "scene": 2,
+    "speaker": "Chorus of Sirens",
+    "stageDirection": "unsichtbar",
+    "original": "Naht euch dem Strande!"
+  },
+  {
+    "id": "a1_s2_c26_l1",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "Aus holder Ferne mahnen süsse Klänge,"
+  },
+  {
+    "id": "a1_s2_c26_l2",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "dass dich mein Arm in trauter Näh' umschlänge;"
+  },
+  {
+    "id": "a1_s2_c26_l3",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "von meinen Lippen, aus meinen Blicken,"
+  },
+  {
+    "id": "a1_s2_c26_l4",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "schlürfst du den Göttertrank,"
+  },
+  {
+    "id": "a1_s2_c26_l5",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "strahlt dir der Liebesdank:"
+  },
+  {
+    "id": "a1_s2_c26_l6",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "ein Freudenfest soll unsrem Bund entstehen,"
+  },
+  {
+    "id": "a1_s2_c26_l7",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "der Liebe Feier lass uns froh begehen;"
+  },
+  {
+    "id": "a1_s2_c26_l8",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "nicht sollst du ihr ein scheues Opfer weihn:"
+  },
+  {
+    "id": "a1_s2_c26_l9",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "mit der Liebe Göttin schwelge im Verein!"
+  },
+  {
+    "id": "a1_s2_c26_l10",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "Sag, holder Freund, sag, mein Geliebter:"
+  },
+  {
+    "id": "a1_s2_c26_l11",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "willst du fliehn?"
+  },
+  {
+    "id": "a1_s2_c27_l1",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "auf das äusserste hingerissen, nochmals die Harfe ergreifend",
+    "original": "Stets soll nur dir, nur dir mein Lied ertönen,"
+  },
+  {
+    "id": "a1_s2_c27_l2",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "auf das äusserste hingerissen, nochmals die Harfe ergreifend",
+    "original": "gesungen laut sei nur dein Preis von mir!"
+  },
+  {
+    "id": "a1_s2_c27_l3",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "auf das äusserste hingerissen, nochmals die Harfe ergreifend",
+    "original": "Dein süsser Reiz ist Quelle alles Schönen,"
+  },
+  {
+    "id": "a1_s2_c27_l4",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "auf das äusserste hingerissen, nochmals die Harfe ergreifend",
+    "original": "und jedes holde Wunder stammt von dir."
+  },
+  {
+    "id": "a1_s2_c27_l5",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "auf das äusserste hingerissen, nochmals die Harfe ergreifend",
+    "original": "Die Glut, die du mir in das Herz gegossen,"
+  },
+  {
+    "id": "a1_s2_c27_l6",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "auf das äusserste hingerissen, nochmals die Harfe ergreifend",
+    "original": "als Flamme lodre hell sie dir allein!"
+  },
+  {
+    "id": "a1_s2_c27_l7",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "auf das äusserste hingerissen, nochmals die Harfe ergreifend",
+    "original": "Ja, gegen alle Welt will unverdrossen"
+  },
+  {
+    "id": "a1_s2_c27_l8",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "auf das äusserste hingerissen, nochmals die Harfe ergreifend",
+    "original": "fortan ich nun dein kühner Streiter sein!"
+  },
+  {
+    "id": "a1_s2_c27_l9",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "auf das äusserste hingerissen, nochmals die Harfe ergreifend",
+    "original": "Doch hin muss ich zur Welt der Erden,"
+  },
+  {
+    "id": "a1_s2_c27_l10",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "auf das äusserste hingerissen, nochmals die Harfe ergreifend",
+    "original": "bei dir kann ich nur Sklave werden;"
+  },
+  {
+    "id": "a1_s2_c27_l11",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "auf das äusserste hingerissen, nochmals die Harfe ergreifend",
+    "original": "nach Freiheit doch verlangt es mich,"
+  },
+  {
+    "id": "a1_s2_c27_l12",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "auf das äusserste hingerissen, nochmals die Harfe ergreifend",
+    "original": "nach Freiheit, Freiheit, dürste ich;"
+  },
+  {
+    "id": "a1_s2_c27_l13",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "auf das äusserste hingerissen, nochmals die Harfe ergreifend",
+    "original": "zu Kampf und Streite will ich stehn,"
+  },
+  {
+    "id": "a1_s2_c27_l14",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "auf das äusserste hingerissen, nochmals die Harfe ergreifend",
+    "original": "sei's auch auf Tod und Untergehn! -"
+  },
+  {
+    "id": "a1_s2_c27_l15",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "auf das äusserste hingerissen, nochmals die Harfe ergreifend",
+    "original": "Drum muss aus deinem Reich ich fliehn!"
+  },
+  {
+    "id": "a1_s2_c27_l16",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "auf das äusserste hingerissen, nochmals die Harfe ergreifend",
+    "original": "O Königin!"
+  },
+  {
+    "id": "a1_s2_c27_l17",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": "auf das äusserste hingerissen, nochmals die Harfe ergreifend",
+    "original": "Göttin, lass' mich ziehn!"
+  },
+  {
+    "id": "a1_s2_c28_l1",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "Zieh hin! Wahnbetörter! Zieh hin!"
+  },
+  {
+    "id": "a1_s2_c28_l2",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "Geh! Verräter, sieh, nicht halt ich dich!"
+  },
+  {
+    "id": "a1_s2_c28_l3",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "Flieh, ich geb dich frei"
+  },
+  {
+    "id": "a1_s2_c28_l4",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "Zieh hin! Betörter!"
+  },
+  {
+    "id": "a1_s2_c28_l5",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "was du verlangst, das sei dein Los!"
+  },
+  {
+    "id": "a1_s2_c28_l6",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "Zieh hin! zieh hin!"
+  },
+  {
+    "id": "a1_s2_c28_l7",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "Hin zu den kalten Menschen flieh,"
+  },
+  {
+    "id": "a1_s2_c28_l8",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "vor deren blödem, trüben Wahn"
+  },
+  {
+    "id": "a1_s2_c28_l9",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "der Freude Götter wir entflohn"
+  },
+  {
+    "id": "a1_s2_c28_l10",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "tief in der Erde wärmenden Schoss."
+  },
+  {
+    "id": "a1_s2_c28_l11",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "Zieh hin, Betörter! Suche dein Heil,"
+  },
+  {
+    "id": "a1_s2_c28_l12",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "suche dein Heil, - und find' es nie!"
+  },
+  {
+    "id": "a1_s2_c28_l13",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "Sie, die du siegend einst verlachtest,"
+  },
+  {
+    "id": "a1_s2_c28_l14",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "die jauchzenden Mutes du verhöhnst,"
+  },
+  {
+    "id": "a1_s2_c28_l15",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "nun fleh sie an um Gnade, wo du verachtest,"
+  },
+  {
+    "id": "a1_s2_c28_l16",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "jammre nun um Hold!"
+  },
+  {
+    "id": "a1_s2_c28_l17",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "Dann leuchte dein Schande,"
+  },
+  {
+    "id": "a1_s2_c28_l18",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "der hellen Schmach wird dann ihr Spott!"
+  },
+  {
+    "id": "a1_s2_c28_l19",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "Gebannt, verflucht, ha! wie seh' ich schon"
+  },
+  {
+    "id": "a1_s2_c28_l20",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "dich mir nahn, tief das Haupt zur Erde: -"
+  },
+  {
+    "id": "a1_s2_c28_l21",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "\"o! fändest du sie wieder,"
+  },
+  {
+    "id": "a1_s2_c28_l22",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "die einst dir gelächelt!"
+  },
+  {
+    "id": "a1_s2_c28_l23",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "ach! öffnete sie dir wieder"
+  },
+  {
+    "id": "a1_s2_c28_l24",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "die Tore ihrer Wonnen!\""
+  },
+  {
+    "id": "a1_s2_c28_l25",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "Auf der Schwelle, sieh' da!"
+  },
+  {
+    "id": "a1_s2_c28_l26",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "ausgestreckt liegt er nun,"
+  },
+  {
+    "id": "a1_s2_c28_l27",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "dort wo Freude einst ihm geflossen!"
+  },
+  {
+    "id": "a1_s2_c28_l28",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "Um Mitleid fleht er bettelnd, nicht um Liebe!"
+  },
+  {
+    "id": "a1_s2_c28_l29",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "Zurück! Entweich, Bettler!"
+  },
+  {
+    "id": "a1_s2_c28_l30",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "Knechten nie,"
+  },
+  {
+    "id": "a1_s2_c28_l31",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "im heftigsten Zorne",
+    "original": "nur Helden öffnet sich mein Reich!"
+  },
+  {
+    "id": "a1_s2_c29_l1",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Nein! Mein Stolz soll dir den Jammer sparen,"
+  },
+  {
+    "id": "a1_s2_c29_l2",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "mich entehrt je dir nah zu sehn!"
+  },
+  {
+    "id": "a1_s2_c29_l3",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Der heut von dir scheidet, o Göttin,"
+  },
+  {
+    "id": "a1_s2_c29_l4",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "der kehret nie zu dir zurück!"
+  },
+  {
+    "id": "a1_s2_c30_l1",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit einem Schrei",
+    "original": "Ha! du kehrtest nie zurück! -"
+  },
+  {
+    "id": "a1_s2_c30_l2",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit einem Schrei",
+    "original": "Wie sagt' ich?"
+  },
+  {
+    "id": "a1_s2_c30_l3",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit einem Schrei",
+    "original": "Ha! wie sagte er?"
+  },
+  {
+    "id": "a1_s2_c30_l4",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit einem Schrei",
+    "original": "Nie mir zurück!"
+  },
+  {
+    "id": "a1_s2_c30_l5",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit einem Schrei",
+    "original": "wie soll ich's denken?"
+  },
+  {
+    "id": "a1_s2_c30_l6",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit einem Schrei",
+    "original": "Wie es erfassen!"
+  },
+  {
+    "id": "a1_s2_c30_l7",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit einem Schrei",
+    "original": "Mein Geliebter ewig mich fliehn?"
+  },
+  {
+    "id": "a1_s2_c31_l1",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit zartem Zögern",
+    "original": "Wie hätt' ich das erworben,"
+  },
+  {
+    "id": "a1_s2_c31_l2",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit zartem Zögern",
+    "original": "wie träf' mich solch Verschulden,"
+  },
+  {
+    "id": "a1_s2_c31_l3",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit zartem Zögern",
+    "original": "das mir die Lust geraubt,"
+  },
+  {
+    "id": "a1_s2_c31_l4",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit zartem Zögern",
+    "original": "dem Trauten zu verzeihn?"
+  },
+  {
+    "id": "a1_s2_c31_l5",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit zartem Zögern",
+    "original": "Der Königin der Liebe,"
+  },
+  {
+    "id": "a1_s2_c31_l6",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit zartem Zögern",
+    "original": "der Göttin aller Hulden,"
+  },
+  {
+    "id": "a1_s2_c31_l7",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit zartem Zögern",
+    "original": "wär' einzig dies versagt,"
+  },
+  {
+    "id": "a1_s2_c31_l8",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit zartem Zögern",
+    "original": "Trost dem Freunde zu weihn?"
+  },
+  {
+    "id": "a1_s2_c31_l9",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit zartem Zögern",
+    "original": "Wie einst, lächelnd unter Tränen,"
+  },
+  {
+    "id": "a1_s2_c31_l10",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit zartem Zögern",
+    "original": "ich sehnsuchtsvoll dir lauschte,"
+  },
+  {
+    "id": "a1_s2_c31_l11",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit zartem Zögern",
+    "original": "den stolzen Sang zu hören,"
+  },
+  {
+    "id": "a1_s2_c31_l12",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit zartem Zögern",
+    "original": "der rings so lang mir verstummt;"
+  },
+  {
+    "id": "a1_s2_c31_l13",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit zartem Zögern",
+    "original": "o! Sag, wie könntest je du wohl wähnen,"
+  },
+  {
+    "id": "a1_s2_c31_l14",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit zartem Zögern",
+    "original": "dass ungerührt ich bliebe,"
+  },
+  {
+    "id": "a1_s2_c31_l15",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit zartem Zögern",
+    "original": "dräng' zu mir einst deiner Seele"
+  },
+  {
+    "id": "a1_s2_c31_l16",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit zartem Zögern",
+    "original": "Seufzen, hört' ich dein Klagen?"
+  },
+  {
+    "id": "a1_s2_c31_l17",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit zartem Zögern",
+    "original": "Dass letzte Tröstung in deinem Arm ich fand,"
+  },
+  {
+    "id": "a1_s2_c31_l18",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit zartem Zögern",
+    "original": "o, lass' des mich nicht entgelten,"
+  },
+  {
+    "id": "a1_s2_c31_l19",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "mit zartem Zögern",
+    "original": "verschmäh einst auch du nicht meinen Trost!"
+  },
+  {
+    "id": "a1_s2_c32_l1",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "in Verzweiflung ausbrechend",
+    "original": "Kehrst du mir nicht zurück,"
+  },
+  {
+    "id": "a1_s2_c32_l2",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "in Verzweiflung ausbrechend",
+    "original": "so treffe Fluch die ganze Welt!"
+  },
+  {
+    "id": "a1_s2_c32_l3",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "in Verzweiflung ausbrechend",
+    "original": "und für ewig sei öde sie,"
+  },
+  {
+    "id": "a1_s2_c32_l4",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "in Verzweiflung ausbrechend",
+    "original": "aus der die Göttin wich!"
+  },
+  {
+    "id": "a1_s2_c33_l1",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "verzweiflungsvoll flehend",
+    "original": "O kehr, kehr wieder!"
+  },
+  {
+    "id": "a1_s2_c33_l2",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": "verzweiflungsvoll flehend",
+    "original": "Trau meiner Huld, meiner Liebe!"
+  },
+  {
+    "id": "a1_s2_c34_l1",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Wer, Göttin, dir entfliehet,"
+  },
+  {
+    "id": "a1_s2_c34_l2",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "flieht ewig jeder Huld!"
+  },
+  {
+    "id": "a1_s2_c35_l1",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "Nicht wehre stolz deinem Sehnen,"
+  },
+  {
+    "id": "a1_s2_c35_l2",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "wenn zurück zu mir es dich zieht!"
+  },
+  {
+    "id": "a1_s2_c36_l1",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Mein Sehnen drängt zum Kampfe,"
+  },
+  {
+    "id": "a1_s2_c36_l2",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "nicht such ich Wonn' und Lust!"
+  },
+  {
+    "id": "a1_s2_c36_l3",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "ach, mögest du es fassen, Göttin!"
+  },
+  {
+    "id": "a1_s2_c36_l4",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Hin zum Tod, den ich suche,"
+  },
+  {
+    "id": "a1_s2_c36_l5",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "zum Tode drängt es mich!"
+  },
+  {
+    "id": "a1_s2_c37_l1",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "Kehr zurück, wenn der Tod selbst dich flieht,"
+  },
+  {
+    "id": "a1_s2_c37_l2",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "wenn vor dir das Grab selbst sich schliesst."
+  },
+  {
+    "id": "a1_s2_c38_l1",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Den Tod, das Grab, hier im Herzen ich trag',"
+  },
+  {
+    "id": "a1_s2_c38_l2",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "durch Buss' und Sühne wohl find ich Ruh' für mich!"
+  },
+  {
+    "id": "a1_s2_c39_l1",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "Nie ist Ruh' dir beschieden,"
+  },
+  {
+    "id": "a1_s2_c39_l2",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "nie findest du Frieden!"
+  },
+  {
+    "id": "a1_s2_c39_l3",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "kehr wieder mir,"
+  },
+  {
+    "id": "a1_s2_c39_l4",
+    "scene": 2,
+    "speaker": "Venus",
+    "stageDirection": null,
+    "original": "suchst einst du dein Heil!"
+  },
+  {
+    "id": "a1_s2_c40_l1",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Göttin der Wonn' und Lust!"
+  },
+  {
+    "id": "a1_s2_c40_l2",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Nein! ach, nicht in dir find ich Frieden und Ruh'!"
+  },
+  {
+    "id": "a1_s2_c40_l3",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Mein Heil liegt in Maria!"
+  },
+  {
+    "id": "a1_s3_c2_l1",
+    "scene": 3,
+    "speaker": "Young Shepherd",
+    "stageDirection": null,
+    "original": "Frau Holda kam aus dem Berg hervor,"
+  },
+  {
+    "id": "a1_s3_c2_l2",
+    "scene": 3,
+    "speaker": "Young Shepherd",
+    "stageDirection": null,
+    "original": "zu ziehn durch Fluren und Auen,"
+  },
+  {
+    "id": "a1_s3_c2_l3",
+    "scene": 3,
+    "speaker": "Young Shepherd",
+    "stageDirection": null,
+    "original": "gar süssen Klang vernahm da mein Ohr,"
+  },
+  {
+    "id": "a1_s3_c2_l4",
+    "scene": 3,
+    "speaker": "Young Shepherd",
+    "stageDirection": null,
+    "original": "mein Auge begehrte zu schauen."
+  },
+  {
+    "id": "a1_s3_c3_l1",
+    "scene": 3,
+    "speaker": "Young Shepherd",
+    "stageDirection": "Er spielt",
+    "original": "Da träumt' ich manchen holden Traum,"
+  },
+  {
+    "id": "a1_s3_c3_l2",
+    "scene": 3,
+    "speaker": "Young Shepherd",
+    "stageDirection": "Er spielt",
+    "original": "und als mein Aug' erschlossen kaum,"
+  },
+  {
+    "id": "a1_s3_c3_l3",
+    "scene": 3,
+    "speaker": "Young Shepherd",
+    "stageDirection": "Er spielt",
+    "original": "da strahlte warm die Sonnen,"
+  },
+  {
+    "id": "a1_s3_c3_l4",
+    "scene": 3,
+    "speaker": "Young Shepherd",
+    "stageDirection": "Er spielt",
+    "original": "der Mai, der Mai war kommen."
+  },
+  {
+    "id": "a1_s3_c3_l5",
+    "scene": 3,
+    "speaker": "Young Shepherd",
+    "stageDirection": "Er spielt",
+    "original": "Nun spiel ich lustig die Schalmei,"
+  },
+  {
+    "id": "a1_s3_c3_l6",
+    "scene": 3,
+    "speaker": "Young Shepherd",
+    "stageDirection": "Er spielt",
+    "original": "der Mai ist da, der liebe Mai!"
+  },
+  {
+    "id": "a1_s3_c5_l1",
+    "scene": 3,
+    "speaker": "Older Pilgrims",
+    "stageDirection": null,
+    "original": "Zu dir wall ich, mein Jesus Christ,"
+  },
+  {
+    "id": "a1_s3_c5_l2",
+    "scene": 3,
+    "speaker": "Older Pilgrims",
+    "stageDirection": null,
+    "original": "der du des Pilgers Hoffnung bist!"
+  },
+  {
+    "id": "a1_s3_c5_l3",
+    "scene": 3,
+    "speaker": "Older Pilgrims",
+    "stageDirection": null,
+    "original": "Gelobt sei, Jungfrau süss und rein,"
+  },
+  {
+    "id": "a1_s3_c5_l4",
+    "scene": 3,
+    "speaker": "Older Pilgrims",
+    "stageDirection": null,
+    "original": "der Wallfahrt wolle günstig sein!"
+  },
+  {
+    "id": "a1_s3_c6_l1",
+    "scene": 3,
+    "speaker": "Older Pilgrims",
+    "stageDirection": "Der Hirt, den Gesang vernehmend, hält auf der Schalmei ein und hört andächtig zu",
+    "original": "Ach, schwer drückt mich der Sünden Last,"
+  },
+  {
+    "id": "a1_s3_c6_l2",
+    "scene": 3,
+    "speaker": "Older Pilgrims",
+    "stageDirection": "Der Hirt, den Gesang vernehmend, hält auf der Schalmei ein und hört andächtig zu",
+    "original": "kann länger sie nicht mehr ertragen!"
+  },
+  {
+    "id": "a1_s3_c6_l3",
+    "scene": 3,
+    "speaker": "Older Pilgrims",
+    "stageDirection": "Der Hirt, den Gesang vernehmend, hält auf der Schalmei ein und hört andächtig zu",
+    "original": "Drum will ich auch nicht Ruh' noch Rast,"
+  },
+  {
+    "id": "a1_s3_c6_l4",
+    "scene": 3,
+    "speaker": "Older Pilgrims",
+    "stageDirection": "Der Hirt, den Gesang vernehmend, hält auf der Schalmei ein und hört andächtig zu",
+    "original": "und wähle gern mir Müh' und Plagen."
+  },
+  {
+    "id": "a1_s3_c6_l5",
+    "scene": 3,
+    "speaker": "Older Pilgrims",
+    "stageDirection": "Der Hirt, den Gesang vernehmend, hält auf der Schalmei ein und hört andächtig zu",
+    "original": "Am hohen Fest der Gnad' und Huld,"
+  },
+  {
+    "id": "a1_s3_c6_l6",
+    "scene": 3,
+    "speaker": "Older Pilgrims",
+    "stageDirection": "Der Hirt, den Gesang vernehmend, hält auf der Schalmei ein und hört andächtig zu",
+    "original": "in Demut sühn ich meine Schuld;"
+  },
+  {
+    "id": "a1_s3_c6_l7",
+    "scene": 3,
+    "speaker": "Older Pilgrims",
+    "stageDirection": "Der Hirt, den Gesang vernehmend, hält auf der Schalmei ein und hört andächtig zu",
+    "original": "gesegnet, wer im Glauben treu:"
+  },
+  {
+    "id": "a1_s3_c6_l8",
+    "scene": 3,
+    "speaker": "Older Pilgrims",
+    "stageDirection": "Der Hirt, den Gesang vernehmend, hält auf der Schalmei ein und hört andächtig zu",
+    "original": "er wird erlöst durch Buss' und Reu'."
+  },
+  {
+    "id": "a1_s3_c7_l1",
+    "scene": 3,
+    "speaker": "Young Shepherd",
+    "stageDirection": "als die Pilger auf der ihm gegenüberliegenden Höhe angekommen sind, ruft ihnen, die Mütze schwenkend, laut zu",
+    "original": "Glück auf! Glück auf nach Rom!"
+  },
+  {
+    "id": "a1_s3_c7_l2",
+    "scene": 3,
+    "speaker": "Young Shepherd",
+    "stageDirection": "als die Pilger auf der ihm gegenüberliegenden Höhe angekommen sind, ruft ihnen, die Mütze schwenkend, laut zu",
+    "original": "Betet für meine arme Seele!"
+  },
+  {
+    "id": "a1_s3_c9_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Allmächt'ger, dir sei Preis!"
+  },
+  {
+    "id": "a1_s3_c9_l2",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Gross sind die Wunder deiner Gnade!"
+  },
+  {
+    "id": "a1_s3_c11_l1",
+    "scene": 3,
+    "speaker": "Pilgrims",
+    "stageDirection": null,
+    "original": "Zu dir wall ich, mein Jesus Christ,"
+  },
+  {
+    "id": "a1_s3_c11_l2",
+    "scene": 3,
+    "speaker": "Pilgrims",
+    "stageDirection": null,
+    "original": "der du des Pilgers Hoffnung bist!"
+  },
+  {
+    "id": "a1_s3_c12_l1",
+    "scene": 3,
+    "speaker": "Pilgrims",
+    "stageDirection": "auf dem Theater - immer entfernter",
+    "original": "Gelobt sei, Jungfrau süss und rein,"
+  },
+  {
+    "id": "a1_s3_c12_l2",
+    "scene": 3,
+    "speaker": "Pilgrims",
+    "stageDirection": "auf dem Theater - immer entfernter",
+    "original": "der Wallfahrt wolle günstig sein!"
+  },
+  {
+    "id": "a1_s3_c14_l1",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "auf den Knien, wie in brünstiges Gebet versunken",
+    "original": "Ach, schwer drückt mich der Sünden Last,"
+  },
+  {
+    "id": "a1_s3_c14_l2",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "auf den Knien, wie in brünstiges Gebet versunken",
+    "original": "kann länger sie nicht mehr ertragen:"
+  },
+  {
+    "id": "a1_s3_c14_l3",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "auf den Knien, wie in brünstiges Gebet versunken",
+    "original": "drum will ich auch nicht Ruh' noch Rast,"
+  },
+  {
+    "id": "a1_s3_c14_l4",
+    "scene": 3,
+    "speaker": "Tannhäuser",
+    "stageDirection": "auf den Knien, wie in brünstiges Gebet versunken",
+    "original": "und wähle gern mir Müh' und Plagen."
+  },
+  {
+    "id": "a1_s3_c16_l1",
+    "scene": 3,
+    "speaker": "Pilgrims",
+    "stageDirection": "sehr entfernt",
+    "original": "Am hohen Fest der Gnad' und Huld,"
+  },
+  {
+    "id": "a1_s3_c16_l2",
+    "scene": 3,
+    "speaker": "Pilgrims",
+    "stageDirection": "sehr entfernt",
+    "original": "in Demut sühn ich meine Schuld;"
+  },
+  {
+    "id": "a1_s3_c17_l1",
+    "scene": 3,
+    "speaker": "Pilgrims",
+    "stageDirection": "Waldhorn auf dem Theater, entfernt",
+    "original": "gesegnet, wer im Glauben treu."
+  },
+  {
+    "id": "a1_s4_c1_l1",
+    "scene": 4,
+    "speaker": "Landgraf Hermann",
+    "stageDirection": "auf halber Höhe Tannhäuser erblickend",
+    "original": "Wer ist der dort in brunstigem Gebete?"
+  },
+  {
+    "id": "a1_s4_c2_l1",
+    "scene": 4,
+    "speaker": "Walther von der Vogelweide",
+    "stageDirection": null,
+    "original": "Ein Büsser wohl."
+  },
+  {
+    "id": "a1_s4_c3_l1",
+    "scene": 4,
+    "speaker": "Biterolf",
+    "stageDirection": null,
+    "original": "Nach seiner Tracht ein Ritter."
+  },
+  {
+    "id": "a1_s4_c4_l1",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": "eilt zunächst auf Tannhäuser zu und erkennt ihn",
+    "original": "Er ist es!"
+  },
+  {
+    "id": "a1_s4_c5_l1",
+    "scene": 4,
+    "speaker": "Minstrels",
+    "stageDirection": null,
+    "original": "Heinrich! Heinrich! Seh' ich recht?"
+  },
+  {
+    "id": "a1_s4_c7_l1",
+    "scene": 4,
+    "speaker": "Landgraf Hermann",
+    "stageDirection": null,
+    "original": "Du bist es wirklich? Kehrest in den Kreis"
+  },
+  {
+    "id": "a1_s4_c7_l2",
+    "scene": 4,
+    "speaker": "Landgraf Hermann",
+    "stageDirection": null,
+    "original": "zurück, den du in Hochmut stolz verliessest?"
+  },
+  {
+    "id": "a1_s4_c8_l1",
+    "scene": 4,
+    "speaker": "Biterolf",
+    "stageDirection": null,
+    "original": "Sag, was uns deine Wiederkehr bedeutet?"
+  },
+  {
+    "id": "a1_s4_c9_l1",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "Sag es an!"
+  },
+  {
+    "id": "a1_s4_c10_l1",
+    "scene": 4,
+    "speaker": "Biterolf",
+    "stageDirection": null,
+    "original": "Versöhnung? oder gilt's erneutem Kampf?"
+  },
+  {
+    "id": "a1_s4_c11_l1",
+    "scene": 4,
+    "speaker": "Walther von der Vogelweide",
+    "stageDirection": null,
+    "original": "Nahst du als Freund uns oder Feind?"
+  },
+  {
+    "id": "a1_s4_c12_l1",
+    "scene": 4,
+    "speaker": "Minstrels (except Wolfram)",
+    "stageDirection": null,
+    "original": "Als Feind?"
+  },
+  {
+    "id": "a1_s4_c13_l1",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "O fraget nicht! Ist dies des Hochmuts Miene?"
+  },
+  {
+    "id": "a1_s4_c14_l1",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": "Er geht freundlich auf Tannhäuser zu",
+    "original": "Gegrüsst sei uns, du kühner Sänger,"
+  },
+  {
+    "id": "a1_s4_c14_l2",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": "Er geht freundlich auf Tannhäuser zu",
+    "original": "der ach! so lang' in unsrer Mitte fehlt!"
+  },
+  {
+    "id": "a1_s4_c15_l1",
+    "scene": 4,
+    "speaker": "Walther von der Vogelweide",
+    "stageDirection": null,
+    "original": "Willkommen, wenn du friedlich nahst!"
+  },
+  {
+    "id": "a1_s4_c16_l1",
+    "scene": 4,
+    "speaker": "Biterolf",
+    "stageDirection": null,
+    "original": "Gegrüsst, wenn du uns Freunde nennst!"
+  },
+  {
+    "id": "a1_s4_c16_l2",
+    "scene": 4,
+    "speaker": "Biterolf",
+    "stageDirection": null,
+    "original": "Gegrüsst, gegrüsst, gegrüsst sei uns!"
+  },
+  {
+    "id": "a1_s4_c17_l1",
+    "scene": 4,
+    "speaker": "The Other Minstrels (except Wolfram)",
+    "stageDirection": null,
+    "original": "Gegrüsst, gegrüsst, gegrüsst sei uns!"
+  },
+  {
+    "id": "a1_s4_c18_l1",
+    "scene": 4,
+    "speaker": "Landgraf Hermann",
+    "stageDirection": null,
+    "original": "So sei willkommen denn auch mir!"
+  },
+  {
+    "id": "a1_s4_c18_l2",
+    "scene": 4,
+    "speaker": "Landgraf Hermann",
+    "stageDirection": null,
+    "original": "Sag' an, wo weiltest du so lang?"
+  },
+  {
+    "id": "a1_s4_c19_l1",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Ich wanderte in weiter, weiter Fern' -"
+  },
+  {
+    "id": "a1_s4_c19_l2",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "da, wo ich nimmer Rast noch Ruhe fand."
+  },
+  {
+    "id": "a1_s4_c19_l3",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Fragt nicht! Zum Kampf mit euch kam ich nicht her;"
+  },
+  {
+    "id": "a1_s4_c19_l4",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "seid mir versöhnt - und lasst mich weiter ziehn!"
+  },
+  {
+    "id": "a1_s4_c20_l1",
+    "scene": 4,
+    "speaker": "Landgraf Hermann",
+    "stageDirection": null,
+    "original": "Nicht doch! Der unsre bist du neu geworden."
+  },
+  {
+    "id": "a1_s4_c21_l1",
+    "scene": 4,
+    "speaker": "Walther von der Vogelweide",
+    "stageDirection": null,
+    "original": "Du darfst nicht ziehn."
+  },
+  {
+    "id": "a1_s4_c22_l1",
+    "scene": 4,
+    "speaker": "Biterolf",
+    "stageDirection": null,
+    "original": "Wir lassen dich nicht fort."
+  },
+  {
+    "id": "a1_s4_c23_l1",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels (except Biterolf)",
+    "stageDirection": null,
+    "original": "Bleib bei uns!"
+  },
+  {
+    "id": "a1_s4_c24_l1",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Lasst mich! Mir frommet kein Verweilen;"
+  },
+  {
+    "id": "a1_s4_c24_l2",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "und nimmer kann ich rastend stehn!"
+  },
+  {
+    "id": "a1_s4_c24_l3",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Mein Weg heisst mich nur vorwärts eilen,"
+  },
+  {
+    "id": "a1_s4_c24_l4",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "und nimmer darf ich rückwärts sehn!"
+  },
+  {
+    "id": "a1_s4_c25_l1",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "Oh bleib'! Bei uns sollst du verweilen,"
+  },
+  {
+    "id": "a1_s4_c25_l2",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "wir lassen dich nicht von uns gehn!"
+  },
+  {
+    "id": "a1_s4_c25_l3",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "Du suchtest uns, warum enteilen?"
+  },
+  {
+    "id": "a1_s4_c25_l4",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "Nach solchem kurzen Wiedersehn?"
+  },
+  {
+    "id": "a1_s4_c26_l1",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": "sich losreissend",
+    "original": "Fort, fort von hier!"
+  },
+  {
+    "id": "a1_s4_c27_l1",
+    "scene": 4,
+    "speaker": "Minstrels",
+    "stageDirection": null,
+    "original": "Bleib, bleib bei uns!"
+  },
+  {
+    "id": "a1_s4_c28_l1",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": "Tannhäuser in der Weg tretend, mit erhobener Stimme",
+    "original": "Bleib bei Elisabeth!"
+  },
+  {
+    "id": "a1_s4_c29_l1",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Elisabeth! - O Macht des Himmels,"
+  },
+  {
+    "id": "a1_s4_c29_l2",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "rufst du den süssen Namen mir?"
+  },
+  {
+    "id": "a1_s4_c30_l1",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Nicht sollst du Feind mich schelten,"
+  },
+  {
+    "id": "a1_s4_c30_l2",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "dass ich ihn genannt!"
+  },
+  {
+    "id": "a1_s4_c31_l1",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": "zu dem Landgrafen",
+    "original": "Erlaubest du mir, Herr, dass ich"
+  },
+  {
+    "id": "a1_s4_c31_l2",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": "zu dem Landgrafen",
+    "original": "Verkünder seines Glücks ihm sei?"
+  },
+  {
+    "id": "a1_s4_c32_l1",
+    "scene": 4,
+    "speaker": "Landgraf Hermann",
+    "stageDirection": null,
+    "original": "Nenn ihm den Zauber, den er ausgeübt:"
+  },
+  {
+    "id": "a1_s4_c32_l2",
+    "scene": 4,
+    "speaker": "Landgraf Hermann",
+    "stageDirection": null,
+    "original": "und Gott verleih ihm Tugend,"
+  },
+  {
+    "id": "a1_s4_c32_l3",
+    "scene": 4,
+    "speaker": "Landgraf Hermann",
+    "stageDirection": null,
+    "original": "dass würdig er ihn löse!"
+  },
+  {
+    "id": "a1_s4_c33_l1",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Als du in kühnem Sange uns bestrittest,"
+  },
+  {
+    "id": "a1_s4_c33_l2",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "bald siegreich gegen unsre Lieder sangst,"
+  },
+  {
+    "id": "a1_s4_c33_l3",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "durch unsre Kunst Besiegung bald erlittest;"
+  },
+  {
+    "id": "a1_s4_c33_l4",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "ein Preis doch war's, den du allein errangst."
+  },
+  {
+    "id": "a1_s4_c33_l5",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "War's Zauber, war es reine Macht,"
+  },
+  {
+    "id": "a1_s4_c33_l6",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "durch die solch Wunder du vollbracht,"
+  },
+  {
+    "id": "a1_s4_c33_l7",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "an deinen Sang voll Wonn' und Leid"
+  },
+  {
+    "id": "a1_s4_c33_l8",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "gebannt die tugendreichste Maid?"
+  },
+  {
+    "id": "a1_s4_c33_l9",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Denn ach! als du uns stolz verlassen,"
+  },
+  {
+    "id": "a1_s4_c33_l10",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "verschloss ihr Herz unsrem Lied;"
+  },
+  {
+    "id": "a1_s4_c33_l11",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "wir sahen ihre Wang' erblassen,"
+  },
+  {
+    "id": "a1_s4_c33_l12",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "für immer unsern Kreis sie mied."
+  },
+  {
+    "id": "a1_s4_c33_l13",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "O kehr zurück, du kühner Sänger,"
+  },
+  {
+    "id": "a1_s4_c33_l14",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "dem unsren sei dein Lied nicht fern!"
+  },
+  {
+    "id": "a1_s4_c33_l15",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Den Festen fehle sie nicht länger,"
+  },
+  {
+    "id": "a1_s4_c33_l16",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "aufs neue leuchte uns ihr Stern!"
+  },
+  {
+    "id": "a1_s4_c34_l1",
+    "scene": 4,
+    "speaker": "Minstrels (except Wolfram)",
+    "stageDirection": null,
+    "original": "Sei unser, Heinrich, kehr uns wieder!"
+  },
+  {
+    "id": "a1_s4_c34_l2",
+    "scene": 4,
+    "speaker": "Minstrels (except Wolfram)",
+    "stageDirection": null,
+    "original": "Zwietracht und Streit sei abgetan!"
+  },
+  {
+    "id": "a1_s4_c34_l3",
+    "scene": 4,
+    "speaker": "Minstrels (except Wolfram)",
+    "stageDirection": null,
+    "original": "Vereint ertönen unsre Lieder,"
+  },
+  {
+    "id": "a1_s4_c34_l4",
+    "scene": 4,
+    "speaker": "Minstrels (except Wolfram)",
+    "stageDirection": null,
+    "original": "und Brüder nenne uns fortan!"
+  },
+  {
+    "id": "a1_s4_c35_l1",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "O kehr zurück, du kühner Sänger!"
+  },
+  {
+    "id": "a1_s4_c35_l2",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "O kehr zurück!"
+  },
+  {
+    "id": "a1_s4_c35_l3",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Vereint ertönen unsre Lieder,"
+  },
+  {
+    "id": "a1_s4_c35_l4",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "und Brüder nenne uns fortan!"
+  },
+  {
+    "id": "a1_s4_c36_l1",
+    "scene": 4,
+    "speaker": "Landgraf Hermann",
+    "stageDirection": null,
+    "original": "O kehr zurück, du kühner Sänger!"
+  },
+  {
+    "id": "a1_s4_c36_l2",
+    "scene": 4,
+    "speaker": "Landgraf Hermann",
+    "stageDirection": null,
+    "original": "Zwietracht und Streit sei abgetan"
+  },
+  {
+    "id": "a1_s4_c38_l1",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Zu ihr! Zu ihr! Oh, führet mich zu ihr!"
+  },
+  {
+    "id": "a1_s4_c38_l2",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Ha, jetzt erkenne ich sie wieder,"
+  },
+  {
+    "id": "a1_s4_c38_l3",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "die schöne Welt, der ich entrückt!"
+  },
+  {
+    "id": "a1_s4_c38_l4",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Der Himmel blickt auf mich hernieder,"
+  },
+  {
+    "id": "a1_s4_c38_l5",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "die Fluren prangen reich geschmückt!"
+  },
+  {
+    "id": "a1_s4_c38_l6",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Der Lenz, der Lenz,"
+  },
+  {
+    "id": "a1_s4_c38_l7",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "mit tausend holden Klängen"
+  },
+  {
+    "id": "a1_s4_c38_l8",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "zog jubelnd in die Seele mir!"
+  },
+  {
+    "id": "a1_s4_c38_l9",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "In süssem, ungestümen Drängen"
+  },
+  {
+    "id": "a1_s4_c38_l10",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "ruft laut mein Herz:"
+  },
+  {
+    "id": "a1_s4_c38_l11",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Zu ihr! Zu ihr!"
+  },
+  {
+    "id": "a1_s4_c38_l12",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Führt mich zu ihr!"
+  },
+  {
+    "id": "a1_s4_c40_l1",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "Er kehrt zurück, den wir verloren!"
+  },
+  {
+    "id": "a1_s4_c40_l2",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "Ein Wunder hat ihn hergebracht!"
+  },
+  {
+    "id": "a1_s4_c40_l3",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "Die ihm den Übermut beschworen,"
+  },
+  {
+    "id": "a1_s4_c40_l4",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "gepriesen sei die holde Macht!"
+  },
+  {
+    "id": "a1_s4_c40_l5",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "Nun lausche unsern Hochgesängen"
+  },
+  {
+    "id": "a1_s4_c40_l6",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "von neuem der Gepriesnen Ohr!"
+  },
+  {
+    "id": "a1_s4_c40_l7",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "Es tön in froh belebten Klängen"
+  },
+  {
+    "id": "a1_s4_c40_l8",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "das Lied aus jeder Brust hervor!"
+  }
+]

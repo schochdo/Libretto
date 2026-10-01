@@ -1,0 +1,98 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-serif: 'EB Garamond', Georgia, serif;
+    --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+    --font-display: 'Cinzel', serif;
+  }
+}
+
+/* Day Mode (Warm Parchment) */
+.theme-day {
+  --bg-primary: #fcfbf9;
+  --bg-secondary: #f4f1ea;
+  --bg-tertiary: #ebe5db;
+  --bg-active: #fef3c7;
+  --text-primary: #1c1917;
+  --text-secondary: #57534e;
+  --text-muted: #78716c;
+  --border-color: #e5dfd3;
+  --border-active: #d97706;
+  --accent: #b45309;
+  --accent-soft: rgba(180, 83, 9, 0.12);
+  --speaker-badge: #e8e0d1;
+  --speaker-text: #44403c;
+  --token-bg: #e6dfd1;
+  --token-hover: #d7cbba;
+}
+
+/* Night Mode (Warm OLED Obsidian) */
+.theme-night {
+  --bg-primary: #0a0b0d;
+  --bg-secondary: #14161a;
+  --bg-tertiary: #1e2127;
+  --bg-active: #231c0e;
+  --text-primary: #f1f5f9;
+  --text-secondary: #cbd5e1;
+  --text-muted: #64748b;
+  --border-color: #262930;
+  --border-active: #d97706;
+  --accent: #f59e0b;
+  --accent-soft: rgba(245, 158, 11, 0.18);
+  --speaker-badge: #1f232b;
+  --speaker-text: #fbbf24;
+  --token-bg: #1c2027;
+  --token-hover: #29303d;
+}
+
+/* Astronomy / Red Theater Mode (Scotopic Night Vision Protection) */
+.theme-astro-red {
+  --bg-primary: #000000;
+  --bg-secondary: #0a0202;
+  --bg-tertiary: #160404;
+  --bg-active: #290505;
+  --text-primary: #f87171;
+  --text-secondary: #ef4444;
+  --text-muted: #991b1b;
+  --border-color: #3f0909;
+  --border-active: #dc2626;
+  --accent: #ef4444;
+  --accent-soft: rgba(239, 68, 68, 0.22);
+  --speaker-badge: #1c0505;
+  --speaker-text: #fca5a5;
+  --token-bg: #1e0505;
+  --token-hover: #360909;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+  transition: background-color 0.2s ease, color 0.2s ease;
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-libretto {
+  font-family: var(--font-serif);
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+/* Custom smooth scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}

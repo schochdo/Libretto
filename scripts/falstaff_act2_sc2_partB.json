@@ -1,0 +1,644 @@
+[
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Cioè: vorrei che mastro Ford",
+    "cue_id": "a2_s2_c77",
+    "line_id": "a2_s2_c77_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "passasse a miglior vita...",
+    "cue_id": "a2_s2_c77",
+    "line_id": "a2_s2_c77_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Perché?",
+    "cue_id": "a2_s2_c78",
+    "line_id": "a2_s2_c78_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Perché? Lo chiedi?",
+    "cue_id": "a2_s2_c79",
+    "line_id": "a2_s2_c79_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Saresti la mia lady",
+    "cue_id": "a2_s2_c79",
+    "line_id": "a2_s2_c79_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "e Falstaff il tuo lord!",
+    "cue_id": "a2_s2_c79",
+    "line_id": "a2_s2_c79_l3"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Povera lady inver!",
+    "cue_id": "a2_s2_c80",
+    "line_id": "a2_s2_c80_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Degna d'un re.",
+    "cue_id": "a2_s2_c81",
+    "line_id": "a2_s2_c81_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "T'immagino fregiata del mio stemma,",
+    "cue_id": "a2_s2_c82",
+    "line_id": "a2_s2_c82_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "mostrar fra gemma e gemma",
+    "cue_id": "a2_s2_c82",
+    "line_id": "a2_s2_c82_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "la pompa del tuo sen.",
+    "cue_id": "a2_s2_c82",
+    "line_id": "a2_s2_c82_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Nell'iri ardente e mobile dei rai",
+    "cue_id": "a2_s2_c82",
+    "line_id": "a2_s2_c82_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "dell'adamante,",
+    "cue_id": "a2_s2_c82",
+    "line_id": "a2_s2_c82_l5"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "col picciol piè nel nobile",
+    "cue_id": "a2_s2_c82",
+    "line_id": "a2_s2_c82_l6"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "cerchio d'un guardinfante",
+    "cue_id": "a2_s2_c82",
+    "line_id": "a2_s2_c82_l7"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "risplenderai!",
+    "cue_id": "a2_s2_c82",
+    "line_id": "a2_s2_c82_l8"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Più fulgida d'un ampio arcobalen.",
+    "cue_id": "a2_s2_c82",
+    "line_id": "a2_s2_c82_l9"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Ogni più bel gioiel mi nuoce e spregio",
+    "cue_id": "a2_s2_c83",
+    "line_id": "a2_s2_c83_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "il finto idolo d'or.",
+    "cue_id": "a2_s2_c83",
+    "line_id": "a2_s2_c83_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Mi basta un vel legato in croce, un fregio",
+    "cue_id": "a2_s2_c83",
+    "line_id": "a2_s2_c83_l3"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "al cinto e in testa un fior.",
+    "cue_id": "a2_s2_c83",
+    "line_id": "a2_s2_c83_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Sirena!",
+    "cue_id": "a2_s2_c85",
+    "line_id": "a2_s2_c85_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Adulator!",
+    "cue_id": "a2_s2_c86",
+    "line_id": "a2_s2_c86_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Soli noi siamo",
+    "cue_id": "a2_s2_c87",
+    "line_id": "a2_s2_c87_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "e non temiamo agguato.",
+    "cue_id": "a2_s2_c87",
+    "line_id": "a2_s2_c87_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Io t'amo!",
+    "cue_id": "a2_s2_c89",
+    "line_id": "a2_s2_c89_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Voi siete nel peccato!",
+    "cue_id": "a2_s2_c90",
+    "line_id": "a2_s2_c90_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Sempre l'amor l'occasïone azzecca.",
+    "cue_id": "a2_s2_c91",
+    "line_id": "a2_s2_c91_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Sir John!",
+    "cue_id": "a2_s2_c92",
+    "line_id": "a2_s2_c92_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Chi segue vocazion non pecca.",
+    "cue_id": "a2_s2_c93",
+    "line_id": "a2_s2_c93_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "T'amo! e non è mia colpa...",
+    "cue_id": "a2_s2_c93",
+    "line_id": "a2_s2_c93_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Se tanta avete vulnerabil polpa.",
+    "cue_id": "a2_s2_c94",
+    "line_id": "a2_s2_c94_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Quand'ero paggio",
+    "cue_id": "a2_s2_c95",
+    "line_id": "a2_s2_c95_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "del duca di Norfolk ero sottile,",
+    "cue_id": "a2_s2_c95",
+    "line_id": "a2_s2_c95_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "ero un miraggio",
+    "cue_id": "a2_s2_c95",
+    "line_id": "a2_s2_c95_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "vago, leggero, gentile, gentile.",
+    "cue_id": "a2_s2_c95",
+    "line_id": "a2_s2_c95_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Quello era il tempo del mio verde aprile,",
+    "cue_id": "a2_s2_c95",
+    "line_id": "a2_s2_c95_l5"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "quello era il tempo del mio lieto maggio.",
+    "cue_id": "a2_s2_c95",
+    "line_id": "a2_s2_c95_l6"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Tant'ero smilzo, flessibile e snello",
+    "cue_id": "a2_s2_c95",
+    "line_id": "a2_s2_c95_l7"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "che avrei guizzato attraverso un anello.",
+    "cue_id": "a2_s2_c95",
+    "line_id": "a2_s2_c95_l8"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Voi mi celiate.",
+    "cue_id": "a2_s2_c96",
+    "line_id": "a2_s2_c96_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Io temo i vostri inganni.",
+    "cue_id": "a2_s2_c96",
+    "line_id": "a2_s2_c96_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Temo che amiate...",
+    "cue_id": "a2_s2_c96",
+    "line_id": "a2_s2_c96_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Chi?",
+    "cue_id": "a2_s2_c97",
+    "line_id": "a2_s2_c97_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Meg.",
+    "cue_id": "a2_s2_c98",
+    "line_id": "a2_s2_c98_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Colei? M'è in uggia la sua faccia.",
+    "cue_id": "a2_s2_c99",
+    "line_id": "a2_s2_c99_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Non traditemi, John...",
+    "cue_id": "a2_s2_c100",
+    "line_id": "a2_s2_c100_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Mi par mill'anni",
+    "cue_id": "a2_s2_c101",
+    "line_id": "a2_s2_c101_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "d'averti fra le braccia.",
+    "cue_id": "a2_s2_c101",
+    "line_id": "a2_s2_c101_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "T'amo...",
+    "cue_id": "a2_s2_c102",
+    "line_id": "a2_s2_c102_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Per carità...",
+    "cue_id": "a2_s2_c103",
+    "line_id": "a2_s2_c103_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Vieni!",
+    "cue_id": "a2_s2_c104",
+    "line_id": "a2_s2_c104_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Signora Alice!",
+    "cue_id": "a2_s2_c105",
+    "line_id": "a2_s2_c105_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Chi va là?",
+    "cue_id": "a2_s2_c106",
+    "line_id": "a2_s2_c106_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Mia signora!",
+    "cue_id": "a2_s2_c109",
+    "line_id": "a2_s2_c109_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "C'è mistress Meg, e vuol parlarvi, sbuffa...",
+    "cue_id": "a2_s2_c109",
+    "line_id": "a2_s2_c109_l2"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "strepita, s'abbaruffa...",
+    "cue_id": "a2_s2_c109",
+    "line_id": "a2_s2_c109_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Alla malora!",
+    "cue_id": "a2_s2_c110",
+    "line_id": "a2_s2_c110_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "E vuol passare e la trattengo a stento...",
+    "cue_id": "a2_s2_c111",
+    "line_id": "a2_s2_c111_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Dove m'ascondo?",
+    "cue_id": "a2_s2_c112",
+    "line_id": "a2_s2_c112_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Dietro il paravento.",
+    "cue_id": "a2_s2_c113",
+    "line_id": "a2_s2_c113_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Falstaff si rimpiatta dietro il paravento. Quando Falstaff è nascosto,",
+    "cue_id": "a2_s2_c113",
+    "line_id": "a2_s2_c113_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Quickly fa cenno a Meg che sta dietro l'uscio di destra: Meg entra",
+    "cue_id": "a2_s2_c113",
+    "line_id": "a2_s2_c113_l3"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "fingendo d'essere agitatissima. Quickly torna ad escire.",
+    "cue_id": "a2_s2_c113",
+    "line_id": "a2_s2_c113_l4"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Alice! che spavento!",
+    "cue_id": "a2_s2_c114",
+    "line_id": "a2_s2_c114_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Che chiasso! Che discordia!",
+    "cue_id": "a2_s2_c114",
+    "line_id": "a2_s2_c114_l2"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Non perdere un momento,",
+    "cue_id": "a2_s2_c114",
+    "line_id": "a2_s2_c114_l3"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "fuggi!...",
+    "cue_id": "a2_s2_c114",
+    "line_id": "a2_s2_c114_l4"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Misericordia!",
+    "cue_id": "a2_s2_c115",
+    "line_id": "a2_s2_c115_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Che avvenne?",
+    "cue_id": "a2_s2_c115",
+    "line_id": "a2_s2_c115_l2"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Il tuo consorte",
+    "cue_id": "a2_s2_c116",
+    "line_id": "a2_s2_c116_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "vien gridando «accorr'uomo!»",
+    "cue_id": "a2_s2_c116",
+    "line_id": "a2_s2_c116_l2"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Dice...",
+    "cue_id": "a2_s2_c116",
+    "line_id": "a2_s2_c116_l3"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Parla più forte.",
+    "cue_id": "a2_s2_c117",
+    "line_id": "a2_s2_c117_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "MEG Che vuol scannare un uomo!",
+    "cue_id": "a2_s2_c117",
+    "line_id": "a2_s2_c117_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Non ridere.",
+    "cue_id": "a2_s2_c118",
+    "line_id": "a2_s2_c118_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Ei correva",
+    "cue_id": "a2_s2_c119",
+    "line_id": "a2_s2_c119_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "invaso da tremendo",
+    "cue_id": "a2_s2_c119",
+    "line_id": "a2_s2_c119_l2"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "furor! Maledicendo",
+    "cue_id": "a2_s2_c119",
+    "line_id": "a2_s2_c119_l3"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "tutte le figlie d'Eva!",
+    "cue_id": "a2_s2_c119",
+    "line_id": "a2_s2_c119_l4"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Dice che un tuo ganzo hai nascosto,",
+    "cue_id": "a2_s2_c121",
+    "line_id": "a2_s2_c121_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "lo vuole ad ogni costo scoprir...",
+    "cue_id": "a2_s2_c121",
+    "line_id": "a2_s2_c121_l2"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Vien mastro Ford! Salvatevi!",
+    "cue_id": "a2_s2_c122",
+    "line_id": "a2_s2_c122_l2"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "È come una tempesta!",
+    "cue_id": "a2_s2_c122",
+    "line_id": "a2_s2_c122_l3"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Strepita, tuona, fulmina,",
+    "cue_id": "a2_s2_c122",
+    "line_id": "a2_s2_c122_l4"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "si dà dei pugni in testa,",
+    "cue_id": "a2_s2_c122",
+    "line_id": "a2_s2_c122_l5"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "scoppia in minacce ed urla...",
+    "cue_id": "a2_s2_c122",
+    "line_id": "a2_s2_c122_l6"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Dassenno oppur da burla?",
+    "cue_id": "a2_s2_c123",
+    "line_id": "a2_s2_c123_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Dassenno. Egli scavalca",
+    "cue_id": "a2_s2_c124",
+    "line_id": "a2_s2_c124_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "le siepi del giardino...",
+    "cue_id": "a2_s2_c124",
+    "line_id": "a2_s2_c124_l2"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "lo segue una gran calca",
+    "cue_id": "a2_s2_c124",
+    "line_id": "a2_s2_c124_l3"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "di gente... è già vicino...",
+    "cue_id": "a2_s2_c124",
+    "line_id": "a2_s2_c124_l4"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Mentr'io vi parlo ei valca",
+    "cue_id": "a2_s2_c124",
+    "line_id": "a2_s2_c124_l5"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "l'ingresso...",
+    "cue_id": "a2_s2_c124",
+    "line_id": "a2_s2_c124_l6"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Malandrino!",
+    "cue_id": "a2_s2_c125",
+    "line_id": "a2_s2_c125_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Il diavolo cavalca",
+    "cue_id": "a2_s2_c126",
+    "line_id": "a2_s2_c126_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "sull'arco di un violino!",
+    "cue_id": "a2_s2_c126",
+    "line_id": "a2_s2_c126_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Alice, Meg, Quickly, mr. Ford, poi subito il Dr. Cajus, poi Fenton, poi",
+    "cue_id": "a2_s2_c127",
+    "line_id": "a2_s2_c127_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Bardolfo e Pistola, poi Nannetta. Falstaff sempre nascosto nel paravento.",
+    "cue_id": "a2_s2_c127",
+    "line_id": "a2_s2_c127_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Chiudete le porte! Sbarrate le scale!",
+    "cue_id": "a2_s2_c128",
+    "line_id": "a2_s2_c128_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Seguitemi a caccia! Scoviamo il cignale!",
+    "cue_id": "a2_s2_c128",
+    "line_id": "a2_s2_c128_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Correte sull'orme, sull'usta.",
+    "cue_id": "a2_s2_c130",
+    "line_id": "a2_s2_c130_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Tu fruga",
+    "cue_id": "a2_s2_c131",
+    "line_id": "a2_s2_c131_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "negli anditi.",
+    "cue_id": "a2_s2_c131",
+    "line_id": "a2_s2_c131_l2"
+  },
+  {
+    "speaker": "Bardolfo & Pistola",
+    "original": "A caccia!",
+    "cue_id": "a2_s2_c132",
+    "line_id": "a2_s2_c132_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Sventate la fuga!",
+    "cue_id": "a2_s2_c133",
+    "line_id": "a2_s2_c133_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Cercate là dentro!",
+    "cue_id": "a2_s2_c133",
+    "line_id": "a2_s2_c133_l2"
+  }
+]

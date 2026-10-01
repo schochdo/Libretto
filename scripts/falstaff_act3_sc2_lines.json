@@ -1,0 +1,1994 @@
+[
+  {
+    "speaker": "Fenton",
+    "original": "Dal labbro il canto estasiato vola",
+    "cue_id": "a3_s2_c1",
+    "line_id": "a3_s2_c1_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "pe' silenzi notturni e va lontano",
+    "cue_id": "a3_s2_c1",
+    "line_id": "a3_s2_c1_l2"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "e alfin ritrova un altro labbro umano",
+    "cue_id": "a3_s2_c1",
+    "line_id": "a3_s2_c1_l3"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "che gli risponde co' la sua parola.",
+    "cue_id": "a3_s2_c1",
+    "line_id": "a3_s2_c1_l4"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Allor la nota che non è più sola",
+    "cue_id": "a3_s2_c1",
+    "line_id": "a3_s2_c1_l5"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "vibra di gioia in un accordo arcano",
+    "cue_id": "a3_s2_c1",
+    "line_id": "a3_s2_c1_l6"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "e innamorando l'aer antelucano",
+    "cue_id": "a3_s2_c1",
+    "line_id": "a3_s2_c1_l7"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "con altra voce al suo fonte rivola.",
+    "cue_id": "a3_s2_c1",
+    "line_id": "a3_s2_c1_l8"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Quivi ripiglia suon, ma la sua cura",
+    "cue_id": "a3_s2_c1",
+    "line_id": "a3_s2_c1_l9"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "tende sempre ad unir chi lo disuna.",
+    "cue_id": "a3_s2_c1",
+    "line_id": "a3_s2_c1_l10"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Così baciai la disiata bocca!",
+    "cue_id": "a3_s2_c1",
+    "line_id": "a3_s2_c1_l11"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Bocca baciata non perde ventura.",
+    "cue_id": "a3_s2_c1",
+    "line_id": "a3_s2_c1_l12"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Anzi rinnova come fa la luna.",
+    "cue_id": "a3_s2_c2",
+    "line_id": "a3_s2_c2_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Ma il canto muor nel bacio che lo tocca.",
+    "cue_id": "a3_s2_c3",
+    "line_id": "a3_s2_c3_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Nossignore! Tu indossa questa cappa.",
+    "cue_id": "a3_s2_c5",
+    "line_id": "a3_s2_c5_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Che vuol dir ciò?",
+    "cue_id": "a3_s2_c6",
+    "line_id": "a3_s2_c6_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Lasciati fare.",
+    "cue_id": "a3_s2_c7",
+    "line_id": "a3_s2_c7_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Allaccia.",
+    "cue_id": "a3_s2_c8",
+    "line_id": "a3_s2_c8_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "È un fraticel sgusciato dalla trappa.",
+    "cue_id": "a3_s2_c9",
+    "line_id": "a3_s2_c9_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Il tradimento che Ford ne minaccia",
+    "cue_id": "a3_s2_c10",
+    "line_id": "a3_s2_c10_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "tornar deve in suo scorno e in nostro aiuto.",
+    "cue_id": "a3_s2_c10",
+    "line_id": "a3_s2_c10_l2"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Spiegatevi.",
+    "cue_id": "a3_s2_c11",
+    "line_id": "a3_s2_c11_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Ubbidisci presto e muto.",
+    "cue_id": "a3_s2_c12",
+    "line_id": "a3_s2_c12_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "L'occasïone come viene scappa.",
+    "cue_id": "a3_s2_c12",
+    "line_id": "a3_s2_c12_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Chi vestirai da finta sposa?",
+    "cue_id": "a3_s2_c13",
+    "line_id": "a3_s2_c13_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Un gaio",
+    "cue_id": "a3_s2_c14",
+    "line_id": "a3_s2_c14_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "ladron nasuto che aborre il Dottor Cajo.",
+    "cue_id": "a3_s2_c14",
+    "line_id": "a3_s2_c14_l2"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Ho nascosto i folletti lungo il fosso.",
+    "cue_id": "a3_s2_c15",
+    "line_id": "a3_s2_c15_l1"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Siam pronte.",
+    "cue_id": "a3_s2_c15",
+    "line_id": "a3_s2_c15_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Zitto. Viene il pezzo grosso.",
+    "cue_id": "a3_s2_c16",
+    "line_id": "a3_s2_c16_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Via!...",
+    "cue_id": "a3_s2_c16",
+    "line_id": "a3_s2_c16_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Falstaff con due corna di cervo in testa e avviluppato in un ampio",
+    "cue_id": "a3_s2_c17",
+    "line_id": "a3_s2_c17_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "mantello. Poi Alice. Poi Meg. Mentre Falstaff entra in scena, suona la",
+    "cue_id": "a3_s2_c17",
+    "line_id": "a3_s2_c17_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "mezzanotte.",
+    "cue_id": "a3_s2_c17",
+    "line_id": "a3_s2_c17_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Una, due, tre, quattro, cinque, sei, sette botte,",
+    "cue_id": "a3_s2_c18",
+    "line_id": "a3_s2_c18_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "otto, nove, dieci, undici, dodici. Mezzanotte.",
+    "cue_id": "a3_s2_c18",
+    "line_id": "a3_s2_c18_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Questa è la quercia. Numi, proteggetemi! Giove!",
+    "cue_id": "a3_s2_c18",
+    "line_id": "a3_s2_c18_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Tu per amor d'Europa ti trasformasti in bove,",
+    "cue_id": "a3_s2_c18",
+    "line_id": "a3_s2_c18_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "portasti corna. I numi c'insegnan la modestia.",
+    "cue_id": "a3_s2_c18",
+    "line_id": "a3_s2_c18_l5"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "L'amore metamorfosa un uom in una bestia.",
+    "cue_id": "a3_s2_c18",
+    "line_id": "a3_s2_c18_l6"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Odo un soave passo!",
+    "cue_id": "a3_s2_c19",
+    "line_id": "a3_s2_c19_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Alice! Amor ti chiama!",
+    "cue_id": "a3_s2_c21",
+    "line_id": "a3_s2_c21_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Vieni! l'amor m'infiamma!",
+    "cue_id": "a3_s2_c22",
+    "line_id": "a3_s2_c22_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Sir John!",
+    "cue_id": "a3_s2_c23",
+    "line_id": "a3_s2_c23_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Sei la mia dama!",
+    "cue_id": "a3_s2_c24",
+    "line_id": "a3_s2_c24_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Sei la mia damma!",
+    "cue_id": "a3_s2_c26",
+    "line_id": "a3_s2_c26_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "O sfavillante amor!",
+    "cue_id": "a3_s2_c27",
+    "line_id": "a3_s2_c27_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Vieni! Già fremo e fervo!",
+    "cue_id": "a3_s2_c28",
+    "line_id": "a3_s2_c28_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Sono il tuo servo!",
+    "cue_id": "a3_s2_c30",
+    "line_id": "a3_s2_c30_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Sono il tuo cervo, imbizzarrito. Ed or",
+    "cue_id": "a3_s2_c30",
+    "line_id": "a3_s2_c30_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "piovan tartufi, rafani e finocchi!",
+    "cue_id": "a3_s2_c30",
+    "line_id": "a3_s2_c30_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "E sian la mia pastura!",
+    "cue_id": "a3_s2_c30",
+    "line_id": "a3_s2_c30_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "E amor trabocchi!",
+    "cue_id": "a3_s2_c30",
+    "line_id": "a3_s2_c30_l5"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Siam soli...",
+    "cue_id": "a3_s2_c30",
+    "line_id": "a3_s2_c30_l6"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "No. Qua nella selva densa",
+    "cue_id": "a3_s2_c31",
+    "line_id": "a3_s2_c31_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "mi segue Meg.",
+    "cue_id": "a3_s2_c31",
+    "line_id": "a3_s2_c31_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "FALSTAFF È doppia l'avventura!",
+    "cue_id": "a3_s2_c31",
+    "line_id": "a3_s2_c31_l3"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Venga anche lei! Squartatemi",
+    "cue_id": "a3_s2_c31",
+    "line_id": "a3_s2_c31_l4"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "come un camoscio a mensa!",
+    "cue_id": "a3_s2_c31",
+    "line_id": "a3_s2_c31_l5"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Sbranatemi! Cupido",
+    "cue_id": "a3_s2_c31",
+    "line_id": "a3_s2_c31_l6"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "alfin mi ricompensa.",
+    "cue_id": "a3_s2_c31",
+    "line_id": "a3_s2_c31_l7"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Io t'amo! t'amo!",
+    "cue_id": "a3_s2_c31",
+    "line_id": "a3_s2_c31_l8"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Aiuto!",
+    "cue_id": "a3_s2_c32",
+    "line_id": "a3_s2_c32_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Un grido!",
+    "cue_id": "a3_s2_c33",
+    "line_id": "a3_s2_c33_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Ahimè!",
+    "cue_id": "a3_s2_c33",
+    "line_id": "a3_s2_c33_l2"
+  },
+  {
+    "speaker": "Meg Page",
+    "original": "Vien la tregenda!",
+    "cue_id": "a3_s2_c34",
+    "line_id": "a3_s2_c34_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Ahimè! Fuggiamo!",
+    "cue_id": "a3_s2_c36",
+    "line_id": "a3_s2_c36_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Dove?",
+    "cue_id": "a3_s2_c37",
+    "line_id": "a3_s2_c37_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Il cielo perdoni al mio peccato!",
+    "cue_id": "a3_s2_c38",
+    "line_id": "a3_s2_c38_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Il diavol non vuol ch'io sia dannato.",
+    "cue_id": "a3_s2_c39",
+    "line_id": "a3_s2_c39_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Ninfe! Elfi! Silfi! Doridi! Sirene!",
+    "cue_id": "a3_s2_c40",
+    "line_id": "a3_s2_c40_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "L'astro degli incantesimi in cielo è sorto.",
+    "cue_id": "a3_s2_c40",
+    "line_id": "a3_s2_c40_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Sorgete! Ombre serene!",
+    "cue_id": "a3_s2_c41",
+    "line_id": "a3_s2_c41_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Sono le fate. Chi le guarda è morto.",
+    "cue_id": "a3_s2_c42",
+    "line_id": "a3_s2_c42_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Nannetta vestita da regina delle fate. Meg da ninfa verde, co' la",
+    "cue_id": "a3_s2_c42",
+    "line_id": "a3_s2_c42_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "maschera. Mrs Quickly da befana, mascherata. Alice co' la maschera.",
+    "cue_id": "a3_s2_c42",
+    "line_id": "a3_s2_c42_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Bardolfo in cappa rossa senza maschera, col cappuccio calato. Pistola da",
+    "cue_id": "a3_s2_c42",
+    "line_id": "a3_s2_c42_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "satiro. Il Dr. Cajus in cappa grigia, senza maschera. Fenton in cappa",
+    "cue_id": "a3_s2_c42",
+    "line_id": "a3_s2_c42_l5"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "nera, mascherato. Mr Ford senza cappa né maschera. Ragazzette vestite",
+    "cue_id": "a3_s2_c42",
+    "line_id": "a3_s2_c42_l6"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "da Fate bianche e da Fate azzurre. Altre Fate e Ninfe, Spiritelli, Diavoli.",
+    "cue_id": "a3_s2_c42",
+    "line_id": "a3_s2_c42_l7"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Falstaff sempre a terra, co' la faccia rivolta verso il suolo, immobile. Le",
+    "cue_id": "a3_s2_c42",
+    "line_id": "a3_s2_c42_l8"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "piccole Fate si dispongono in cerchio intorno alla loro regina. Le Fate",
+    "cue_id": "a3_s2_c42",
+    "line_id": "a3_s2_c42_l9"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "più grandi formano un secondo cerchio. Tutti gli Uomini formano un",
+    "cue_id": "a3_s2_c42",
+    "line_id": "a3_s2_c42_l10"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "crocchio a destra e le Donne un crocchio a sinistra.",
+    "cue_id": "a3_s2_c42",
+    "line_id": "a3_s2_c42_l11"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Inoltriam.",
+    "cue_id": "a3_s2_c43",
+    "line_id": "a3_s2_c43_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Egli è là.",
+    "cue_id": "a3_s2_c44",
+    "line_id": "a3_s2_c44_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Steso al suol.",
+    "cue_id": "a3_s2_c45",
+    "line_id": "a3_s2_c45_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Lo confonde",
+    "cue_id": "a3_s2_c46",
+    "line_id": "a3_s2_c46_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "il terror.",
+    "cue_id": "a3_s2_c46",
+    "line_id": "a3_s2_c46_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "FATE",
+    "cue_id": "a3_s2_c47",
+    "line_id": "a3_s2_c47_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Si nasconde!",
+    "cue_id": "a3_s2_c47",
+    "line_id": "a3_s2_c47_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Non ridiam!",
+    "cue_id": "a3_s2_c48",
+    "line_id": "a3_s2_c48_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Tutte qui, dietro a me.",
+    "cue_id": "a3_s2_c49",
+    "line_id": "a3_s2_c49_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Cominciam.",
+    "cue_id": "a3_s2_c49",
+    "line_id": "a3_s2_c49_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Tocca a te.",
+    "cue_id": "a3_s2_c49",
+    "line_id": "a3_s2_c49_l4"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Sul fil d'un soffio etesio",
+    "cue_id": "a3_s2_c51",
+    "line_id": "a3_s2_c51_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "scorrete, agili larve,",
+    "cue_id": "a3_s2_c51",
+    "line_id": "a3_s2_c51_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "fra i rami un baglior cesio",
+    "cue_id": "a3_s2_c51",
+    "line_id": "a3_s2_c51_l3"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "d'alba lunare apparve.",
+    "cue_id": "a3_s2_c51",
+    "line_id": "a3_s2_c51_l4"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Danzate! e il passo blando",
+    "cue_id": "a3_s2_c51",
+    "line_id": "a3_s2_c51_l5"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "misuri un blando suon,",
+    "cue_id": "a3_s2_c51",
+    "line_id": "a3_s2_c51_l6"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "le magiche accoppiando",
+    "cue_id": "a3_s2_c51",
+    "line_id": "a3_s2_c51_l7"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "carole alla canzon.",
+    "cue_id": "a3_s2_c51",
+    "line_id": "a3_s2_c51_l8"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "FATE La selva dorme e sperde",
+    "cue_id": "a3_s2_c51",
+    "line_id": "a3_s2_c51_l9"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "incenso ed ombra; e par",
+    "cue_id": "a3_s2_c51",
+    "line_id": "a3_s2_c51_l10"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "nell'aer denso un verde",
+    "cue_id": "a3_s2_c51",
+    "line_id": "a3_s2_c51_l11"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "asilo in fondo al mar.",
+    "cue_id": "a3_s2_c51",
+    "line_id": "a3_s2_c51_l12"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Erriam sotto la luna",
+    "cue_id": "a3_s2_c52",
+    "line_id": "a3_s2_c52_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "scegliendo fior da fiore,",
+    "cue_id": "a3_s2_c52",
+    "line_id": "a3_s2_c52_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "ogni corolla in core",
+    "cue_id": "a3_s2_c52",
+    "line_id": "a3_s2_c52_l3"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "porta la sua fortuna.",
+    "cue_id": "a3_s2_c52",
+    "line_id": "a3_s2_c52_l4"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Coi gigli e le vïole",
+    "cue_id": "a3_s2_c52",
+    "line_id": "a3_s2_c52_l5"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "scriviam dei nomi arcani,",
+    "cue_id": "a3_s2_c52",
+    "line_id": "a3_s2_c52_l6"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "dalle fatate mani",
+    "cue_id": "a3_s2_c52",
+    "line_id": "a3_s2_c52_l7"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "germoglino parole.",
+    "cue_id": "a3_s2_c52",
+    "line_id": "a3_s2_c52_l8"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Parole alluminate",
+    "cue_id": "a3_s2_c52",
+    "line_id": "a3_s2_c52_l9"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "di puro argento e d'or,",
+    "cue_id": "a3_s2_c52",
+    "line_id": "a3_s2_c52_l10"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "carmi e malie. Le fate",
+    "cue_id": "a3_s2_c52",
+    "line_id": "a3_s2_c52_l11"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "hanno per cifre i fior.",
+    "cue_id": "a3_s2_c52",
+    "line_id": "a3_s2_c52_l12"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Moviamo ad una ad una",
+    "cue_id": "a3_s2_c53",
+    "line_id": "a3_s2_c53_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "sotto il lunare albor,",
+    "cue_id": "a3_s2_c53",
+    "line_id": "a3_s2_c53_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "verso la quercia bruna",
+    "cue_id": "a3_s2_c53",
+    "line_id": "a3_s2_c53_l3"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "del nero cacciator.",
+    "cue_id": "a3_s2_c53",
+    "line_id": "a3_s2_c53_l4"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Alto là!",
+    "cue_id": "a3_s2_c55",
+    "line_id": "a3_s2_c55_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Chi va là?",
+    "cue_id": "a3_s2_c56",
+    "line_id": "a3_s2_c56_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Pietà!",
+    "cue_id": "a3_s2_c57",
+    "line_id": "a3_s2_c57_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "C'è un uom!",
+    "cue_id": "a3_s2_c58",
+    "line_id": "a3_s2_c58_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "ALICE, MEG E NANNETTA",
+    "cue_id": "a3_s2_c58",
+    "line_id": "a3_s2_c58_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Cornuto come un bue!",
+    "cue_id": "a3_s2_c59",
+    "line_id": "a3_s2_c59_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Rotondo come un pomo!",
+    "cue_id": "a3_s2_c60",
+    "line_id": "a3_s2_c60_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Grosso come una nave!",
+    "cue_id": "a3_s2_c61",
+    "line_id": "a3_s2_c61_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "PISTOLA, BARDOLFO",
+    "cue_id": "a3_s2_c61",
+    "line_id": "a3_s2_c61_l2"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Alzati, olà!",
+    "cue_id": "a3_s2_c62",
+    "line_id": "a3_s2_c62_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Portatemi una grue!",
+    "cue_id": "a3_s2_c63",
+    "line_id": "a3_s2_c63_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Non posso.",
+    "cue_id": "a3_s2_c63",
+    "line_id": "a3_s2_c63_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "È troppo grave.",
+    "cue_id": "a3_s2_c64",
+    "line_id": "a3_s2_c64_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "È corrotto!",
+    "cue_id": "a3_s2_c65",
+    "line_id": "a3_s2_c65_l1"
+  },
+  {
+    "speaker": "Alice, Meg & Nannetta",
+    "original": "È impuro!",
+    "cue_id": "a3_s2_c66",
+    "line_id": "a3_s2_c66_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Si faccia lo scongiuro!",
+    "cue_id": "a3_s2_c68",
+    "line_id": "a3_s2_c68_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Evita il tuo periglio.",
+    "cue_id": "a3_s2_c70",
+    "line_id": "a3_s2_c70_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Già il Dottor Cajo ti cerca.",
+    "cue_id": "a3_s2_c70",
+    "line_id": "a3_s2_c70_l2"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Troviamo",
+    "cue_id": "a3_s2_c71",
+    "line_id": "a3_s2_c71_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "un nascondiglio.",
+    "cue_id": "a3_s2_c71",
+    "line_id": "a3_s2_c71_l2"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Poi tornerete lesti al mio richiamo.",
+    "cue_id": "a3_s2_c73",
+    "line_id": "a3_s2_c73_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Spiritelli! Folletti!",
+    "cue_id": "a3_s2_c74",
+    "line_id": "a3_s2_c74_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Farfarelli! Vampiri! Agili insetti",
+    "cue_id": "a3_s2_c74",
+    "line_id": "a3_s2_c74_l2"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "del palude infernale! Punzecchiatelo!",
+    "cue_id": "a3_s2_c74",
+    "line_id": "a3_s2_c74_l3"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Orticheggiatelo!",
+    "cue_id": "a3_s2_c74",
+    "line_id": "a3_s2_c74_l4"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Martirizzatelo",
+    "cue_id": "a3_s2_c74",
+    "line_id": "a3_s2_c74_l5"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "coi grifi aguzzi!",
+    "cue_id": "a3_s2_c74",
+    "line_id": "a3_s2_c74_l6"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Accorrono velocissimi alcuni ragazzi vestiti da folletti,",
+    "cue_id": "a3_s2_c74",
+    "line_id": "a3_s2_c74_l7"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "e si scagliano su",
+    "cue_id": "a3_s2_c74",
+    "line_id": "a3_s2_c74_l8"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Falstaff.",
+    "cue_id": "a3_s2_c74",
+    "line_id": "a3_s2_c74_l9"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Ahimè! tu puzzi",
+    "cue_id": "a3_s2_c75",
+    "line_id": "a3_s2_c75_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "come una puzzola.",
+    "cue_id": "a3_s2_c75",
+    "line_id": "a3_s2_c75_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "FOLLETTI E DIAVOLI",
+    "cue_id": "a3_s2_c75",
+    "line_id": "a3_s2_c75_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Ruzzola, ruzzola, ruzzola, ruzzola!",
+    "cue_id": "a3_s2_c76",
+    "line_id": "a3_s2_c76_l1"
+  },
+  {
+    "speaker": "Alice, Quickly & Meg",
+    "original": "Pizzica, pizzica,",
+    "cue_id": "a3_s2_c77",
+    "line_id": "a3_s2_c77_l1"
+  },
+  {
+    "speaker": "Alice, Quickly & Meg",
+    "original": "pizzica, stuzzica,",
+    "cue_id": "a3_s2_c77",
+    "line_id": "a3_s2_c77_l2"
+  },
+  {
+    "speaker": "Alice, Quickly & Meg",
+    "original": "spizzica, spizzica,",
+    "cue_id": "a3_s2_c77",
+    "line_id": "a3_s2_c77_l3"
+  },
+  {
+    "speaker": "Alice, Quickly & Meg",
+    "original": "pungi, spilluzzica,",
+    "cue_id": "a3_s2_c77",
+    "line_id": "a3_s2_c77_l4"
+  },
+  {
+    "speaker": "Alice, Quickly & Meg",
+    "original": "finch'egli abbai!",
+    "cue_id": "a3_s2_c77",
+    "line_id": "a3_s2_c77_l5"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Ahi! Ahi! Ahi! Ahi!",
+    "cue_id": "a3_s2_c78",
+    "line_id": "a3_s2_c78_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "FOLLETTI, DIAVOLI",
+    "cue_id": "a3_s2_c78",
+    "line_id": "a3_s2_c78_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Scrolliam crepitacoli,",
+    "cue_id": "a3_s2_c78",
+    "line_id": "a3_s2_c78_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "scarandole e nacchere!",
+    "cue_id": "a3_s2_c78",
+    "line_id": "a3_s2_c78_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Di schizzi e di zacchere",
+    "cue_id": "a3_s2_c78",
+    "line_id": "a3_s2_c78_l5"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "quell'otre si macoli.",
+    "cue_id": "a3_s2_c78",
+    "line_id": "a3_s2_c78_l6"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Meniam scorribandole,",
+    "cue_id": "a3_s2_c78",
+    "line_id": "a3_s2_c78_l7"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "danziamo la tresca,",
+    "cue_id": "a3_s2_c78",
+    "line_id": "a3_s2_c78_l8"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "treschiam le farandole",
+    "cue_id": "a3_s2_c78",
+    "line_id": "a3_s2_c78_l9"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "sull'ampia ventresca.",
+    "cue_id": "a3_s2_c78",
+    "line_id": "a3_s2_c78_l10"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Zanzare ed assilli,",
+    "cue_id": "a3_s2_c78",
+    "line_id": "a3_s2_c78_l11"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "volate alla lizza",
+    "cue_id": "a3_s2_c78",
+    "line_id": "a3_s2_c78_l12"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "coi dardi e gli spilli!",
+    "cue_id": "a3_s2_c78",
+    "line_id": "a3_s2_c78_l13"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Ch'ei crepi di stizza!",
+    "cue_id": "a3_s2_c78",
+    "line_id": "a3_s2_c78_l14"
+  },
+  {
+    "speaker": "Alice, Meg & Quickly",
+    "original": "pungi, spilluzzica",
+    "cue_id": "a3_s2_c79",
+    "line_id": "a3_s2_c79_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "ALICE, MEG, QUICKLY E FATE",
+    "cue_id": "a3_s2_c80",
+    "line_id": "a3_s2_c80_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Cozzalo, aizzalo",
+    "cue_id": "a3_s2_c80",
+    "line_id": "a3_s2_c80_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "dai piè al cocuzzolo!",
+    "cue_id": "a3_s2_c80",
+    "line_id": "a3_s2_c80_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Strozzalo, strizzalo!",
+    "cue_id": "a3_s2_c80",
+    "line_id": "a3_s2_c80_l5"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Gli svampi l'uzzolo!",
+    "cue_id": "a3_s2_c80",
+    "line_id": "a3_s2_c80_l6"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Pizzica, pizzica, l'unghia rintuzzola!",
+    "cue_id": "a3_s2_c80",
+    "line_id": "a3_s2_c80_l7"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "DR. CAJUS E FORD",
+    "cue_id": "a3_s2_c81",
+    "line_id": "a3_s2_c81_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Cialtron!",
+    "cue_id": "a3_s2_c81",
+    "line_id": "a3_s2_c81_l2"
+  },
+  {
+    "speaker": "Bardolfo & Pistola",
+    "original": "Poltron!",
+    "cue_id": "a3_s2_c82",
+    "line_id": "a3_s2_c82_l1"
+  },
+  {
+    "speaker": "Bardolfo & Pistola",
+    "original": "Ghiotton!",
+    "cue_id": "a3_s2_c82",
+    "line_id": "a3_s2_c82_l2"
+  },
+  {
+    "speaker": "Bardolfo & Pistola",
+    "original": "TUTTI GLI UOMINI",
+    "cue_id": "a3_s2_c82",
+    "line_id": "a3_s2_c82_l3"
+  },
+  {
+    "speaker": "Bardolfo & Pistola",
+    "original": "Pancion!",
+    "cue_id": "a3_s2_c82",
+    "line_id": "a3_s2_c82_l4"
+  },
+  {
+    "speaker": "Bardolfo & Pistola",
+    "original": "Beon!",
+    "cue_id": "a3_s2_c82",
+    "line_id": "a3_s2_c82_l5"
+  },
+  {
+    "speaker": "Bardolfo & Pistola",
+    "original": "Briccon!",
+    "cue_id": "a3_s2_c82",
+    "line_id": "a3_s2_c82_l6"
+  },
+  {
+    "speaker": "Bardolfo & Pistola",
+    "original": "In ginocchion!",
+    "cue_id": "a3_s2_c82",
+    "line_id": "a3_s2_c82_l7"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Pancia ritronfia!",
+    "cue_id": "a3_s2_c84",
+    "line_id": "a3_s2_c84_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Guancia rigonfia!",
+    "cue_id": "a3_s2_c85",
+    "line_id": "a3_s2_c85_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Sconquassaletti!",
+    "cue_id": "a3_s2_c86",
+    "line_id": "a3_s2_c86_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Spaccafarsetti!",
+    "cue_id": "a3_s2_c87",
+    "line_id": "a3_s2_c87_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Vuotabarili!",
+    "cue_id": "a3_s2_c88",
+    "line_id": "a3_s2_c88_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Sfiancagiumenti!",
+    "cue_id": "a3_s2_c89",
+    "line_id": "a3_s2_c89_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Triplice mento!",
+    "cue_id": "a3_s2_c90",
+    "line_id": "a3_s2_c90_l1"
+  },
+  {
+    "speaker": "Bardolfo & Pistola",
+    "original": "Di' che ti penti!",
+    "cue_id": "a3_s2_c91",
+    "line_id": "a3_s2_c91_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Ahi! Ahi! mi pento!",
+    "cue_id": "a3_s2_c93",
+    "line_id": "a3_s2_c93_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Uom frodolento!",
+    "cue_id": "a3_s2_c93",
+    "line_id": "a3_s2_c93_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "GLI UOMINI",
+    "cue_id": "a3_s2_c94",
+    "line_id": "a3_s2_c94_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Uom turbolento!",
+    "cue_id": "a3_s2_c94",
+    "line_id": "a3_s2_c94_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Capron!",
+    "cue_id": "a3_s2_c95",
+    "line_id": "a3_s2_c95_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Scroccon!",
+    "cue_id": "a3_s2_c95",
+    "line_id": "a3_s2_c95_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Spaccon!",
+    "cue_id": "a3_s2_c95",
+    "line_id": "a3_s2_c95_l5"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Perdon!",
+    "cue_id": "a3_s2_c96",
+    "line_id": "a3_s2_c96_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Riforma la tua vita!",
+    "cue_id": "a3_s2_c97",
+    "line_id": "a3_s2_c97_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Tu puti d'acquavita.",
+    "cue_id": "a3_s2_c98",
+    "line_id": "a3_s2_c98_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "LE DONNE",
+    "cue_id": "a3_s2_c98",
+    "line_id": "a3_s2_c98_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Domine fallo casto!",
+    "cue_id": "a3_s2_c98",
+    "line_id": "a3_s2_c98_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Ma salvagli l'addomine.",
+    "cue_id": "a3_s2_c99",
+    "line_id": "a3_s2_c99_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Domine fallo guasto!",
+    "cue_id": "a3_s2_c99",
+    "line_id": "a3_s2_c99_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Fallo punito domine!",
+    "cue_id": "a3_s2_c100",
+    "line_id": "a3_s2_c100_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Fallo pentito domine!",
+    "cue_id": "a3_s2_c101",
+    "line_id": "a3_s2_c101_l3"
+  },
+  {
+    "speaker": "The Men",
+    "original": "Globo d'impurità, rispondi.",
+    "cue_id": "a3_s2_c103",
+    "line_id": "a3_s2_c103_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Ben mi sta.",
+    "cue_id": "a3_s2_c104",
+    "line_id": "a3_s2_c104_l1"
+  },
+  {
+    "speaker": "The Men",
+    "original": "Monte d'obesità, rispondi.",
+    "cue_id": "a3_s2_c105",
+    "line_id": "a3_s2_c105_l1"
+  },
+  {
+    "speaker": "The Men",
+    "original": "Otre di malvasia, rispondi.",
+    "cue_id": "a3_s2_c107",
+    "line_id": "a3_s2_c107_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Così sia.",
+    "cue_id": "a3_s2_c108",
+    "line_id": "a3_s2_c108_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Re dei panciuti!",
+    "cue_id": "a3_s2_c109",
+    "line_id": "a3_s2_c109_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Va' via, tu puti.",
+    "cue_id": "a3_s2_c110",
+    "line_id": "a3_s2_c110_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Re dei cornuti!",
+    "cue_id": "a3_s2_c111",
+    "line_id": "a3_s2_c111_l1"
+  },
+  {
+    "speaker": "All",
+    "original": "Furfanteria!",
+    "cue_id": "a3_s2_c114",
+    "line_id": "a3_s2_c114_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Ahi! Così sia.",
+    "cue_id": "a3_s2_c115",
+    "line_id": "a3_s2_c115_l1"
+  },
+  {
+    "speaker": "All",
+    "original": "Gagliofferia!",
+    "cue_id": "a3_s2_c116",
+    "line_id": "a3_s2_c116_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Ed or che il diavol ti porti via!",
+    "cue_id": "a3_s2_c118",
+    "line_id": "a3_s2_c118_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Atto terzo Falstaff",
+    "cue_id": "a3_s2_c119",
+    "line_id": "a3_s2_c119_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Nitro! Catrame e solfo!",
+    "cue_id": "a3_s2_c120",
+    "line_id": "a3_s2_c120_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Riconosco Bardolfo!",
+    "cue_id": "a3_s2_c120",
+    "line_id": "a3_s2_c120_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Naso vermiglio!",
+    "cue_id": "a3_s2_c121",
+    "line_id": "a3_s2_c121_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Nasobargiglio!",
+    "cue_id": "a3_s2_c121",
+    "line_id": "a3_s2_c121_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Puntuta lesina!",
+    "cue_id": "a3_s2_c121",
+    "line_id": "a3_s2_c121_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Vampa di resina!",
+    "cue_id": "a3_s2_c121",
+    "line_id": "a3_s2_c121_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Salamandra! Ignis fatuus! Vecchia alabarda! Stecca",
+    "cue_id": "a3_s2_c121",
+    "line_id": "a3_s2_c121_l5"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "di sartore! Schidion d'inferno! Aringa secca!",
+    "cue_id": "a3_s2_c121",
+    "line_id": "a3_s2_c121_l6"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Vampiro! Basilisco!",
+    "cue_id": "a3_s2_c121",
+    "line_id": "a3_s2_c121_l7"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Manigoldo! Ladrone!",
+    "cue_id": "a3_s2_c121",
+    "line_id": "a3_s2_c121_l8"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Ho detto. E se mentisco",
+    "cue_id": "a3_s2_c121",
+    "line_id": "a3_s2_c121_l9"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "voglio che mi si spacchi il cinturone!",
+    "cue_id": "a3_s2_c121",
+    "line_id": "a3_s2_c121_l10"
+  },
+  {
+    "speaker": "All",
+    "original": "Bravo!",
+    "cue_id": "a3_s2_c122",
+    "line_id": "a3_s2_c122_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Un poco di pausa. Sono stanco.",
+    "cue_id": "a3_s2_c123",
+    "line_id": "a3_s2_c123_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Vieni, Ti coprirò col velo bianco.",
+    "cue_id": "a3_s2_c124",
+    "line_id": "a3_s2_c124_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Ed or, mentre vi passa la scalmana,",
+    "cue_id": "a3_s2_c126",
+    "line_id": "a3_s2_c126_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "sir John, dite: il cornuto chi è?",
+    "cue_id": "a3_s2_c126",
+    "line_id": "a3_s2_c126_l2"
+  },
+  {
+    "speaker": "Alice & Meg",
+    "original": "Chi è?",
+    "cue_id": "a3_s2_c127",
+    "line_id": "a3_s2_c127_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Vi siete fatto muto?",
+    "cue_id": "a3_s2_c128",
+    "line_id": "a3_s2_c128_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Caro signor Fontana!",
+    "cue_id": "a3_s2_c129",
+    "line_id": "a3_s2_c129_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Sbagliate nel saluto.",
+    "cue_id": "a3_s2_c130",
+    "line_id": "a3_s2_c130_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Questi è Ford, mio marito.",
+    "cue_id": "a3_s2_c130",
+    "line_id": "a3_s2_c130_l2"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Cavaliero,",
+    "cue_id": "a3_s2_c131",
+    "line_id": "a3_s2_c131_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "voi credeste due donne così grulle,",
+    "cue_id": "a3_s2_c131",
+    "line_id": "a3_s2_c131_l2"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "così citrulle,",
+    "cue_id": "a3_s2_c131",
+    "line_id": "a3_s2_c131_l3"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "da darsi anima e corpo all'avversiero,",
+    "cue_id": "a3_s2_c131",
+    "line_id": "a3_s2_c131_l4"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "per un uom vecchio, sudicio ed obeso...",
+    "cue_id": "a3_s2_c131",
+    "line_id": "a3_s2_c131_l5"
+  },
+  {
+    "speaker": "Meg & Quickly",
+    "original": "Con quella testa calva...",
+    "cue_id": "a3_s2_c132",
+    "line_id": "a3_s2_c132_l1"
+  },
+  {
+    "speaker": "Alice, Meg & Quickly",
+    "original": "E con quel peso!",
+    "cue_id": "a3_s2_c133",
+    "line_id": "a3_s2_c133_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Parlano chiaro.",
+    "cue_id": "a3_s2_c134",
+    "line_id": "a3_s2_c134_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Incomincio ad accorgermi",
+    "cue_id": "a3_s2_c135",
+    "line_id": "a3_s2_c135_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "d'esser stato un somaro.",
+    "cue_id": "a3_s2_c135",
+    "line_id": "a3_s2_c135_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "E un cervo.",
+    "cue_id": "a3_s2_c136",
+    "line_id": "a3_s2_c136_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Un bue.",
+    "cue_id": "a3_s2_c137",
+    "line_id": "a3_s2_c137_l1"
+  },
+  {
+    "speaker": "All",
+    "original": "Ah! Ah!",
+    "cue_id": "a3_s2_c138",
+    "line_id": "a3_s2_c138_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "E un mostro raro!",
+    "cue_id": "a3_s2_c139",
+    "line_id": "a3_s2_c139_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Ogni sorta di gente dozzinale",
+    "cue_id": "a3_s2_c140",
+    "line_id": "a3_s2_c140_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "mi beffa e se ne gloria;",
+    "cue_id": "a3_s2_c140",
+    "line_id": "a3_s2_c140_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "pur, senza me, costor con tanta boria",
+    "cue_id": "a3_s2_c140",
+    "line_id": "a3_s2_c140_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "non avrebbero un briciol di sale.",
+    "cue_id": "a3_s2_c140",
+    "line_id": "a3_s2_c140_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Son io che vi fa scaltri.",
+    "cue_id": "a3_s2_c140",
+    "line_id": "a3_s2_c140_l5"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "L'arguzia mia crea l'arguzia degli altri.",
+    "cue_id": "a3_s2_c140",
+    "line_id": "a3_s2_c140_l6"
+  },
+  {
+    "speaker": "All",
+    "original": "Ma bravo!",
+    "cue_id": "a3_s2_c141",
+    "line_id": "a3_s2_c141_l1"
+  },
+  {
+    "speaker": "All",
+    "original": "FORD Per gli dèi!",
+    "cue_id": "a3_s2_c141",
+    "line_id": "a3_s2_c141_l2"
+  },
+  {
+    "speaker": "All",
+    "original": "Se non ridessi ti sconquasserei!",
+    "cue_id": "a3_s2_c141",
+    "line_id": "a3_s2_c141_l3"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Ma basta. Ed ora vo' che m'ascoltiate.",
+    "cue_id": "a3_s2_c142",
+    "line_id": "a3_s2_c142_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Coronerem la mascherata bella",
+    "cue_id": "a3_s2_c142",
+    "line_id": "a3_s2_c142_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "co' gli sponsali della",
+    "cue_id": "a3_s2_c142",
+    "line_id": "a3_s2_c142_l3"
+  },
+  {
+    "speaker": "Ford",
+    "original": "regina delle fate.",
+    "cue_id": "a3_s2_c142",
+    "line_id": "a3_s2_c142_l4"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Già s'avanza la coppia degli sposi.",
+    "cue_id": "a3_s2_c144",
+    "line_id": "a3_s2_c144_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Attenti!",
+    "cue_id": "a3_s2_c144",
+    "line_id": "a3_s2_c144_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Eccola, in bianca vesta",
+    "cue_id": "a3_s2_c146",
+    "line_id": "a3_s2_c146_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "col velo e il serto delle rose in testa",
+    "cue_id": "a3_s2_c146",
+    "line_id": "a3_s2_c146_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "e il fidanzato suo ch'io le disposi.",
+    "cue_id": "a3_s2_c146",
+    "line_id": "a3_s2_c146_l3"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Circondatela, o ninfe.",
+    "cue_id": "a3_s2_c146",
+    "line_id": "a3_s2_c146_l4"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Un'altra coppia",
+    "cue_id": "a3_s2_c148",
+    "line_id": "a3_s2_c148_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "d'amanti desïosi",
+    "cue_id": "a3_s2_c148",
+    "line_id": "a3_s2_c148_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "chiede d'essere ammessa agli augurosi",
+    "cue_id": "a3_s2_c148",
+    "line_id": "a3_s2_c148_l3"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "connubi!",
+    "cue_id": "a3_s2_c148",
+    "line_id": "a3_s2_c148_l4"
+  },
+  {
+    "speaker": "Ford",
+    "original": "E sia. Farem la festa doppia.",
+    "cue_id": "a3_s2_c149",
+    "line_id": "a3_s2_c149_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Avvicinate i lumi.",
+    "cue_id": "a3_s2_c149",
+    "line_id": "a3_s2_c149_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Il ciel v'accoppia.",
+    "cue_id": "a3_s2_c151",
+    "line_id": "a3_s2_c151_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Giù le maschere e i veli. Apoteosi!",
+    "cue_id": "a3_s2_c153",
+    "line_id": "a3_s2_c153_l1"
+  },
+  {
+    "speaker": "All",
+    "original": "Ah! Ah! Ah! Ah!",
+    "cue_id": "a3_s2_c155",
+    "line_id": "a3_s2_c155_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Spavento!",
+    "cue_id": "a3_s2_c156",
+    "line_id": "a3_s2_c156_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Tradimento!",
+    "cue_id": "a3_s2_c157",
+    "line_id": "a3_s2_c157_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "GLI ALTRI",
+    "cue_id": "a3_s2_c157",
+    "line_id": "a3_s2_c157_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Apoteosi!",
+    "cue_id": "a3_s2_c158",
+    "line_id": "a3_s2_c158_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Fenton con mia figlia!",
+    "cue_id": "a3_s2_c159",
+    "line_id": "a3_s2_c159_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Ho sposato Bardolfo!",
+    "cue_id": "a3_s2_c160",
+    "line_id": "a3_s2_c160_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Vittoria!",
+    "cue_id": "a3_s2_c162",
+    "line_id": "a3_s2_c162_l3"
+  },
+  {
+    "speaker": "All",
+    "original": "Evviva! Evviva!",
+    "cue_id": "a3_s2_c163",
+    "line_id": "a3_s2_c163_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Oh! Meraviglia!",
+    "cue_id": "a3_s2_c164",
+    "line_id": "a3_s2_c164_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "L'uom cade spesso nelle reti ordite",
+    "cue_id": "a3_s2_c165",
+    "line_id": "a3_s2_c165_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "dalle malizie sue.",
+    "cue_id": "a3_s2_c165",
+    "line_id": "a3_s2_c165_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Caro buon messer Ford, ed ora, dite:",
+    "cue_id": "a3_s2_c166",
+    "line_id": "a3_s2_c166_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "lo scornato chi è?",
+    "cue_id": "a3_s2_c166",
+    "line_id": "a3_s2_c166_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Lui.",
+    "cue_id": "a3_s2_c167",
+    "line_id": "a3_s2_c167_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Tu.",
+    "cue_id": "a3_s2_c168",
+    "line_id": "a3_s2_c168_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "No.",
+    "cue_id": "a3_s2_c169",
+    "line_id": "a3_s2_c169_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Sì.",
+    "cue_id": "a3_s2_c170",
+    "line_id": "a3_s2_c170_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Voi.",
+    "cue_id": "a3_s2_c171",
+    "line_id": "a3_s2_c171_l1"
+  },
+  {
+    "speaker": "Fenton",
+    "original": "Lor.",
+    "cue_id": "a3_s2_c172",
+    "line_id": "a3_s2_c172_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Noi.",
+    "cue_id": "a3_s2_c173",
+    "line_id": "a3_s2_c173_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Tutti e due.",
+    "cue_id": "a3_s2_c174",
+    "line_id": "a3_s2_c174_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "No. Tutti e tre.",
+    "cue_id": "a3_s2_c175",
+    "line_id": "a3_s2_c175_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "Volgiti e mira quelle ansie leggiadre.",
+    "cue_id": "a3_s2_c176",
+    "line_id": "a3_s2_c176_l1"
+  },
+  {
+    "speaker": "Nannetta",
+    "original": "Perdonateci, padre.",
+    "cue_id": "a3_s2_c177",
+    "line_id": "a3_s2_c177_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Chi schivare non può la propria noia",
+    "cue_id": "a3_s2_c178",
+    "line_id": "a3_s2_c178_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "l'accetti di buon grado.",
+    "cue_id": "a3_s2_c178",
+    "line_id": "a3_s2_c178_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Facciamo il parentado",
+    "cue_id": "a3_s2_c178",
+    "line_id": "a3_s2_c178_l3"
+  },
+  {
+    "speaker": "Ford",
+    "original": "e che il ciel vi dia gioia.",
+    "cue_id": "a3_s2_c178",
+    "line_id": "a3_s2_c178_l4"
+  },
+  {
+    "speaker": "All",
+    "original": "Evviva!",
+    "cue_id": "a3_s2_c179",
+    "line_id": "a3_s2_c179_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Un coro e terminiam la scena.",
+    "cue_id": "a3_s2_c180",
+    "line_id": "a3_s2_c180_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "E poi con sir Falstaff, tutti, andiamo a cena.",
+    "cue_id": "a3_s2_c181",
+    "line_id": "a3_s2_c181_l1"
+  },
+  {
+    "speaker": "All",
+    "original": "Tutto nel mondo è burla.",
+    "cue_id": "a3_s2_c182",
+    "line_id": "a3_s2_c182_l1"
+  },
+  {
+    "speaker": "All",
+    "original": "L'uom è nato burlone,",
+    "cue_id": "a3_s2_c182",
+    "line_id": "a3_s2_c182_l2"
+  },
+  {
+    "speaker": "All",
+    "original": "la fede in cor gli ciurla,",
+    "cue_id": "a3_s2_c182",
+    "line_id": "a3_s2_c182_l3"
+  },
+  {
+    "speaker": "All",
+    "original": "gli ciurla la ragione.",
+    "cue_id": "a3_s2_c182",
+    "line_id": "a3_s2_c182_l4"
+  },
+  {
+    "speaker": "All",
+    "original": "Tutti gabbati! Irride",
+    "cue_id": "a3_s2_c182",
+    "line_id": "a3_s2_c182_l5"
+  },
+  {
+    "speaker": "All",
+    "original": "l'un l'altro ogni mortal.",
+    "cue_id": "a3_s2_c182",
+    "line_id": "a3_s2_c182_l6"
+  },
+  {
+    "speaker": "All",
+    "original": "Ma ride ben chi ride",
+    "cue_id": "a3_s2_c182",
+    "line_id": "a3_s2_c182_l7"
+  },
+  {
+    "speaker": "All",
+    "original": "la risata final.",
+    "cue_id": "a3_s2_c182",
+    "line_id": "a3_s2_c182_l8"
+  }
+]

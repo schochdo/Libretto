@@ -1,0 +1,6281 @@
+{
+  "zu hilfe": {
+    "word": "Zu Hilfe",
+    "lemma": "Hilfe",
+    "pos": "noun",
+    "meaning": "To help / Help!",
+    "notes": "Idiomatic cry for help; dative of purpose with 'zu'."
+  },
+  "sonst": {
+    "word": "sonst",
+    "lemma": "sonst",
+    "pos": "adverb",
+    "meaning": "otherwise / else",
+    "notes": null
+  },
+  "bin": {
+    "word": "bin",
+    "lemma": "sein",
+    "pos": "verb",
+    "meaning": "am",
+    "notes": null
+  },
+  "ich": {
+    "word": "ich",
+    "lemma": "ich",
+    "pos": "pronoun",
+    "meaning": "I",
+    "notes": null
+  },
+  "verloren": {
+    "word": "verloren",
+    "lemma": "verlieren",
+    "pos": "adjective",
+    "meaning": "lost",
+    "notes": "Past participle used predicatively."
+  },
+  "der listigen schlange": {
+    "word": "der listigen Schlange",
+    "lemma": "Schlange",
+    "pos": "noun",
+    "meaning": "to the cunning serpent",
+    "notes": "Dative singular feminine with weak adjective ending '-en'."
+  },
+  "zum opfer": {
+    "word": "zum Opfer",
+    "lemma": "Opfer",
+    "pos": "noun",
+    "meaning": "as a sacrifice / victim",
+    "notes": "Contraction of 'zu dem Opfer'."
+  },
+  "erkoren": {
+    "word": "erkoren",
+    "lemma": "erkiesen",
+    "pos": "verb",
+    "meaning": "chosen / destined",
+    "notes": "Archaic past participle of erkiesen (to choose/destine)."
+  },
+  "barmherzige": {
+    "word": "barmherzige",
+    "lemma": "barmherzig",
+    "pos": "adjective",
+    "meaning": "merciful / compassionate",
+    "notes": null
+  },
+  "g\\u00f6tter": {
+    "word": "G\\u00f6tter",
+    "lemma": "Gott",
+    "pos": "noun",
+    "meaning": "gods (nominative plural)",
+    "notes": null
+  },
+  "schon": {
+    "word": "Schon",
+    "lemma": "schon",
+    "pos": "adverb",
+    "meaning": "already",
+    "notes": null
+  },
+  "nahet": {
+    "word": "nahet",
+    "lemma": "nahen",
+    "pos": "verb",
+    "meaning": "approaches / nears",
+    "notes": "Archaic third-person singular inflection '-et'."
+  },
+  "sie sich": {
+    "word": "sie sich",
+    "lemma": "sich nahen",
+    "pos": "pronoun",
+    "meaning": "it itself",
+    "notes": "Reflexive verb 'sich nahen'."
+  },
+  "rettet": {
+    "word": "rettet",
+    "lemma": "retten",
+    "pos": "verb",
+    "meaning": "save (imperative plural)",
+    "notes": null
+  },
+  "sch\\u00fctzet": {
+    "word": "sch\\u00fctzet",
+    "lemma": "sch\\u00fctzen",
+    "pos": "verb",
+    "meaning": "protect (imperative plural)",
+    "notes": null
+  },
+  "mich": {
+    "word": "mich",
+    "lemma": "ich",
+    "pos": "pronoun",
+    "meaning": "me (accusative)",
+    "notes": null
+  },
+  "stirb": {
+    "word": "Stirb",
+    "lemma": "sterben",
+    "pos": "verb",
+    "meaning": "die (imperative singular)",
+    "notes": null
+  },
+  "ungeheuer": {
+    "word": "Ungeheuer",
+    "lemma": "Ungeheuer",
+    "pos": "noun",
+    "meaning": "monster (neuter)",
+    "notes": null
+  },
+  "uns're": {
+    "word": "uns're",
+    "lemma": "unser",
+    "pos": "pronoun",
+    "meaning": "our",
+    "notes": null
+  },
+  "macht": {
+    "word": "Macht",
+    "lemma": "Macht",
+    "pos": "noun",
+    "meaning": "power / might (accusative with 'durch')",
+    "notes": null
+  },
+  "vollbracht": {
+    "word": "vollbracht",
+    "lemma": "vollbringen",
+    "pos": "verb",
+    "meaning": "accomplished / achieved",
+    "notes": "Inseparable prefix verb voll-bringen; past participle."
+  },
+  "heldentat": {
+    "word": "Heldentat",
+    "lemma": "Heldentat",
+    "pos": "noun",
+    "meaning": "heroic deed (Held + Tat)",
+    "notes": null
+  },
+  "befreit": {
+    "word": "befreit",
+    "lemma": "befreien",
+    "pos": "verb",
+    "meaning": "freed / liberated",
+    "notes": null
+  },
+  "uns'res armes": {
+    "word": "uns'res Armes",
+    "lemma": "Arm",
+    "pos": "noun",
+    "meaning": "of our arm (genitive masculine)",
+    "notes": null
+  },
+  "tapferkeit": {
+    "word": "Tapferkeit",
+    "lemma": "Tapferkeit",
+    "pos": "noun",
+    "meaning": "bravery / valor",
+    "notes": null
+  },
+  "holder": {
+    "word": "holder",
+    "lemma": "hold",
+    "pos": "adjective",
+    "meaning": "lovely / gracious / sweet",
+    "notes": null
+  },
+  "j\\u00fcngling": {
+    "word": "J\\u00fcngling",
+    "lemma": "J\\u00fcngling",
+    "pos": "noun",
+    "meaning": "youth / young man",
+    "notes": null
+  },
+  "sanft": {
+    "word": "sanft",
+    "lemma": "sanft",
+    "pos": "adjective",
+    "meaning": "gentle / soft",
+    "notes": null
+  },
+  "sch\\u00f6n": {
+    "word": "sch\\u00f6n",
+    "lemma": "sch\\u00f6n",
+    "pos": "adjective",
+    "meaning": "beautiful / handsome",
+    "notes": null
+  },
+  "noch nie": {
+    "word": "noch nie",
+    "lemma": "nie",
+    "pos": "adverb",
+    "meaning": "never yet / never before",
+    "notes": null
+  },
+  "geseh'n": {
+    "word": "geseh'n",
+    "lemma": "sehen",
+    "pos": "verb",
+    "meaning": "seen",
+    "notes": "Apocope of auxiliary 'habe' (gesehen [habe])."
+  },
+  "gewi\\u00df": {
+    "word": "gewi\\u00df",
+    "lemma": "gewiss",
+    "pos": "adverb",
+    "meaning": "certainly / surely",
+    "notes": null
+  },
+  "zum malen sch\\u00f6n": {
+    "word": "zum Malen sch\\u00f6n",
+    "lemma": "malen",
+    "pos": "idiom",
+    "meaning": "picture-perfect handsome",
+    "notes": "Literally 'handsome enough to paint'."
+  },
+  "w\\u00fcrd'": {
+    "word": "W\\u00fcrd'",
+    "lemma": "werden",
+    "pos": "verb",
+    "meaning": "would (subjunctive II)",
+    "notes": "Conditional inversion: 'W\\u00fcrde ich' = If I were to..."
+  },
+  "weih'n": {
+    "word": "weih'n",
+    "lemma": "weihen",
+    "pos": "verb",
+    "meaning": "to consecrate / dedicate",
+    "notes": null
+  },
+  "m\\u00fc\\u00dft'": {
+    "word": "m\\u00fc\\u00dft'",
+    "lemma": "m\\u00fcssen",
+    "pos": "verb",
+    "meaning": "must / would have to (subjunctive II)",
+    "notes": null
+  },
+  "dieser j\\u00fcngling": {
+    "word": "dieser J\\u00fcngling",
+    "lemma": "J\\u00fcngling",
+    "pos": "noun",
+    "meaning": "this youth (nominative predicate)",
+    "notes": null
+  },
+  "la\\u00dft uns": {
+    "word": "La\\u00dft uns",
+    "lemma": "lassen",
+    "pos": "verb",
+    "meaning": "let us (cohortative imperative)",
+    "notes": null
+  },
+  "f\\u00fcrstin": {
+    "word": "F\\u00fcrstin",
+    "lemma": "F\\u00fcrstin",
+    "pos": "noun",
+    "meaning": "princess / sovereign lady",
+    "notes": null
+  },
+  "ihr": {
+    "word": "ihr",
+    "lemma": "sie",
+    "pos": "pronoun",
+    "meaning": "to her (dative)",
+    "notes": null
+  },
+  "nachricht": {
+    "word": "Nachricht",
+    "lemma": "Nachricht",
+    "pos": "noun",
+    "meaning": "news / message",
+    "notes": null
+  },
+  "zu erteilen": {
+    "word": "zu erteilen",
+    "lemma": "erteilen",
+    "pos": "verb",
+    "meaning": "to impart / give",
+    "notes": null
+  },
+  "vielleicht": {
+    "word": "Vielleicht",
+    "lemma": "vielleicht",
+    "pos": "adverb",
+    "meaning": "perhaps / maybe",
+    "notes": null
+  },
+  "vor'ge": {
+    "word": "vor'ge",
+    "lemma": "vorig",
+    "pos": "adjective",
+    "meaning": "former / previous",
+    "notes": null
+  },
+  "ruh'": {
+    "word": "Ruh'",
+    "lemma": "Ruhe",
+    "pos": "noun",
+    "meaning": "peace / tranquility",
+    "notes": null
+  },
+  "geben kann": {
+    "word": "geben kann",
+    "lemma": "k\\u00f6nnen",
+    "pos": "verb",
+    "meaning": "can give",
+    "notes": "Verb-final in subordinate clause introduced by 'da\\u00df'."
+  },
+  "geht": {
+    "word": "geht",
+    "lemma": "gehen",
+    "pos": "verb",
+    "meaning": "go (imperative plural)",
+    "notes": null
+  },
+  "sagt": {
+    "word": "sagt",
+    "lemma": "sagen",
+    "pos": "verb",
+    "meaning": "say / tell (imperative plural)",
+    "notes": null
+  },
+  "bleib'": {
+    "word": "bleib'",
+    "lemma": "bleiben",
+    "pos": "verb",
+    "meaning": "remain / stay",
+    "notes": null
+  },
+  "indessen": {
+    "word": "indessen",
+    "lemma": "indessen",
+    "pos": "adverb",
+    "meaning": "meanwhile / in the meantime",
+    "notes": null
+  },
+  "nur hin": {
+    "word": "nur hin",
+    "lemma": "hin",
+    "pos": "particle",
+    "meaning": "just thither / along",
+    "notes": null
+  },
+  "wache": {
+    "word": "wache",
+    "lemma": "wachen",
+    "pos": "verb",
+    "meaning": "watch / keep guard",
+    "notes": null
+  },
+  "f\\u00fcr ihn": {
+    "word": "f\\u00fcr ihn",
+    "lemma": "er",
+    "pos": "pronoun",
+    "meaning": "for him (accusative with 'f\\u00fcr')",
+    "notes": null
+  },
+  "kann nicht sein": {
+    "word": "kann nicht sein",
+    "lemma": "sein",
+    "pos": "verb",
+    "meaning": "cannot be",
+    "notes": null
+  },
+  "sch\\u00fctze": {
+    "word": "sch\\u00fctze",
+    "lemma": "sch\\u00fctzen",
+    "pos": "verb",
+    "meaning": "protect",
+    "notes": null
+  },
+  "allein": {
+    "word": "allein",
+    "lemma": "allein",
+    "pos": "adverb",
+    "meaning": "alone / by myself",
+    "notes": null
+  },
+  "sollte fort": {
+    "word": "sollte fort",
+    "lemma": "fortsollen",
+    "pos": "verb",
+    "meaning": "ought to leave / go away",
+    "notes": "Modal 'sollen' with directional adverb 'fort' acting as verb."
+  },
+  "ei, ei!": {
+    "word": "Ei, ei!",
+    "lemma": "ei",
+    "pos": "interjection",
+    "meaning": "Well, well! / My, my!",
+    "notes": null
+  },
+  "w\\u00e4ren gern": {
+    "word": "w\\u00e4ren gern",
+    "lemma": "gern",
+    "pos": "adverb",
+    "meaning": "would gladly be / would like to be",
+    "notes": "Subjunctive II 'w\\u00e4ren' + adverb 'gern'."
+  },
+  "darum": {
+    "word": "darum",
+    "lemma": "darum",
+    "pos": "pronoun",
+    "meaning": "for that / therefor",
+    "notes": null
+  },
+  "k\\u00f6nnt' ich": {
+    "word": "k\\u00f6nnt' ich",
+    "lemma": "k\\u00f6nnen",
+    "pos": "verb",
+    "meaning": "could I (subjunctive II inversion)",
+    "notes": null
+  },
+  "h\\u00e4tt' ich": {
+    "word": "H\\u00e4tt' ich",
+    "lemma": "haben",
+    "pos": "verb",
+    "meaning": "had I / if only I had",
+    "notes": null
+  },
+  "doch": {
+    "word": "doch",
+    "lemma": "doch",
+    "pos": "particle",
+    "meaning": "only / indeed (modal wish particle)",
+    "notes": null
+  },
+  "keine": {
+    "word": "keine",
+    "lemma": "kein",
+    "pos": "pronoun",
+    "meaning": "none / not one (feminine singular)",
+    "notes": null
+  },
+  "am besten": {
+    "word": "Am besten",
+    "lemma": "gut",
+    "pos": "adjective",
+    "meaning": "at best / best (superlative predicate)",
+    "notes": null
+  },
+  "liebevoll": {
+    "word": "liebevoll",
+    "lemma": "liebevoll",
+    "pos": "adjective",
+    "meaning": "affectionate / full of love",
+    "notes": null
+  },
+  "trauter": {
+    "word": "trauter",
+    "lemma": "traut",
+    "pos": "adjective",
+    "meaning": "dear / beloved / intimate",
+    "notes": null
+  },
+  "lebe wohl": {
+    "word": "lebe wohl",
+    "lemma": "leben",
+    "pos": "idiom",
+    "meaning": "farewell (literally: live well)",
+    "notes": null
+  },
+  "wiederseh'": {
+    "word": "wiederseh'",
+    "lemma": "wiedersehen",
+    "pos": "verb",
+    "meaning": "see again (separable prefix verb in subordinate clause)",
+    "notes": null
+  },
+  "vogelf\\u00e4nger": {
+    "word": "Vogelf\\u00e4nger",
+    "lemma": "Vogelf\\u00e4nger",
+    "pos": "noun",
+    "meaning": "bird-catcher (Vogel + F\\u00e4nger)",
+    "notes": null
+  },
+  "bin ich": {
+    "word": "bin ich",
+    "lemma": "sein",
+    "pos": "verb",
+    "meaning": "am I (inversion)",
+    "notes": null
+  },
+  "ja": {
+    "word": "ja",
+    "lemma": "ja",
+    "pos": "particle",
+    "meaning": "indeed / as you know",
+    "notes": null
+  },
+  "stets": {
+    "word": "stets",
+    "lemma": "stets",
+    "pos": "adverb",
+    "meaning": "always / constantly",
+    "notes": null
+  },
+  "lustig": {
+    "word": "lustig",
+    "lemma": "lustig",
+    "pos": "adjective",
+    "meaning": "merry / jolly",
+    "notes": null
+  },
+  "bekannt": {
+    "word": "bekannt",
+    "lemma": "kennen",
+    "pos": "adjective",
+    "meaning": "known / renowned",
+    "notes": null
+  },
+  "bei alt und jung": {
+    "word": "bei Alt und Jung",
+    "lemma": "alt",
+    "pos": "idiom",
+    "meaning": "to young and old alike",
+    "notes": null
+  },
+  "locken": {
+    "word": "Locken",
+    "lemma": "locken",
+    "pos": "noun",
+    "meaning": "luring / bird-calling (substantivized infinitive)",
+    "notes": null
+  },
+  "umzugehn": {
+    "word": "umzugehn",
+    "lemma": "umgehen",
+    "pos": "verb",
+    "meaning": "to handle / manage (um...gehen)",
+    "notes": null
+  },
+  "aufs pfeifen": {
+    "word": "aufs Pfeifen",
+    "lemma": "Pfeifen",
+    "pos": "noun",
+    "meaning": "on whistling / piping",
+    "notes": null
+  },
+  "sich verstehen auf": {
+    "word": "sich verstehen auf",
+    "lemma": "verstehen",
+    "pos": "idiom",
+    "meaning": "to be skilled at / understand",
+    "notes": null
+  },
+  "drum": {
+    "word": "Drum",
+    "lemma": "darum",
+    "pos": "adverb",
+    "meaning": "therefore / for that reason",
+    "notes": null
+  },
+  "froh": {
+    "word": "froh",
+    "lemma": "froh",
+    "pos": "adjective",
+    "meaning": "glad / joyful",
+    "notes": null
+  },
+  "denn": {
+    "word": "denn",
+    "lemma": "denn",
+    "pos": "conjunction",
+    "meaning": "for / because (coordinating conjunction, no inversion)",
+    "notes": null
+  },
+  "mein": {
+    "word": "mein",
+    "lemma": "mein",
+    "pos": "pronoun",
+    "meaning": "mine (predicative possessive)",
+    "notes": null
+  },
+  "netz": {
+    "word": "Netz",
+    "lemma": "Netz",
+    "pos": "noun",
+    "meaning": "net (neuter)",
+    "notes": null
+  },
+  "m\\u00e4dchen": {
+    "word": "M\\u00e4dchen",
+    "lemma": "M\\u00e4dchen",
+    "pos": "noun",
+    "meaning": "maidens / girls (neuter diminutive)",
+    "notes": null
+  },
+  "m\\u00f6chte": {
+    "word": "m\\u00f6chte",
+    "lemma": "m\\u00f6gen",
+    "pos": "verb",
+    "meaning": "would like (subjunctive II)",
+    "notes": null
+  },
+  "fing'": {
+    "word": "fing'",
+    "lemma": "fangen",
+    "pos": "verb",
+    "meaning": "would catch (subjunctive II 'finge')",
+    "notes": null
+  },
+  "dutzendweis'": {
+    "word": "dutzendweis'",
+    "lemma": "dutzendweise",
+    "pos": "adverb",
+    "meaning": "by the dozen",
+    "notes": null
+  },
+  "sperrte ... ein": {
+    "word": "sperrte ... ein",
+    "lemma": "einsperren",
+    "pos": "verb",
+    "meaning": "would lock up / cage (separable prefix)",
+    "notes": null
+  },
+  "bei mir": {
+    "word": "bei mir",
+    "lemma": "ich",
+    "pos": "pronoun",
+    "meaning": "at my house / in my dwelling",
+    "notes": null
+  },
+  "w\\u00e4ren": {
+    "word": "w\\u00e4ren",
+    "lemma": "sein",
+    "pos": "verb",
+    "meaning": "would be (subjunctive II)",
+    "notes": null
+  },
+  "wenn": {
+    "word": "Wenn",
+    "lemma": "wenn",
+    "pos": "conjunction",
+    "meaning": "if",
+    "notes": null
+  },
+  "tauschte ... ein": {
+    "word": "tauschte ... ein",
+    "lemma": "eintauschen",
+    "pos": "verb",
+    "meaning": "would trade in / exchange",
+    "notes": null
+  },
+  "brav": {
+    "word": "brav",
+    "lemma": "brav",
+    "pos": "adverb",
+    "meaning": "dutifully / well-behaved",
+    "notes": null
+  },
+  "am liebsten": {
+    "word": "am liebsten",
+    "lemma": "gern",
+    "pos": "adverb",
+    "meaning": "dearest / most preferred (superlative)",
+    "notes": null
+  },
+  "der": {
+    "word": "der",
+    "lemma": "die",
+    "pos": "pronoun",
+    "meaning": "to her (demonstrative/relative dative feminine)",
+    "notes": null
+  },
+  "g\\u00e4b' ... her": {
+    "word": "g\\u00e4b' ... her",
+    "lemma": "hergeben",
+    "pos": "verb",
+    "meaning": "would hand over / give forth (subjunctive II)",
+    "notes": null
+  },
+  "gleich": {
+    "word": "gleich",
+    "lemma": "gleich",
+    "pos": "adverb",
+    "meaning": "immediately / at once",
+    "notes": null
+  },
+  "k\\u00fc\\u00dfte": {
+    "word": "k\\u00fc\\u00dfte",
+    "lemma": "k\\u00fcssen",
+    "pos": "verb",
+    "meaning": "kissed / were to kiss (subjunctive conditional inversion)",
+    "notes": null
+  },
+  "z\\u00e4rtlich": {
+    "word": "z\\u00e4rtlich",
+    "lemma": "z\\u00e4rtlich",
+    "pos": "adverb",
+    "meaning": "tenderly / affectionately",
+    "notes": null
+  },
+  "weib": {
+    "word": "Weib",
+    "lemma": "Weib",
+    "pos": "noun",
+    "meaning": "wife (traditional/historical German)",
+    "notes": null
+  },
+  "mann": {
+    "word": "Mann",
+    "lemma": "Mann",
+    "pos": "noun",
+    "meaning": "husband / man",
+    "notes": null
+  },
+  "schlief' ... ein": {
+    "word": "schlief' ... ein",
+    "lemma": "einschlafen",
+    "pos": "verb",
+    "meaning": "would fall asleep (separable verb in subjunctive II)",
+    "notes": null
+  },
+  "wiegte ... ein": {
+    "word": "wiegte ... ein",
+    "lemma": "einwiegen",
+    "pos": "verb",
+    "meaning": "would rock to sleep",
+    "notes": null
+  },
+  "dies bildnis": {
+    "word": "Dies Bildnis",
+    "lemma": "Bildnis",
+    "pos": "noun",
+    "meaning": "this portrait (neuter)",
+    "notes": null
+  },
+  "bezaubernd": {
+    "word": "bezaubernd",
+    "lemma": "bezaubern",
+    "pos": "adjective",
+    "meaning": "enchanting / bewitching (present participle)",
+    "notes": null
+  },
+  "kein auge": {
+    "word": "kein Auge",
+    "lemma": "Auge",
+    "pos": "noun",
+    "meaning": "no eye (neuter subject)",
+    "notes": null
+  },
+  "je": {
+    "word": "je",
+    "lemma": "je",
+    "pos": "adverb",
+    "meaning": "ever",
+    "notes": null
+  },
+  "g\\u00f6tterbild": {
+    "word": "G\\u00f6tterbild",
+    "lemma": "G\\u00f6tterbild",
+    "pos": "noun",
+    "meaning": "image of a goddess / divine portrait",
+    "notes": null
+  },
+  "regung": {
+    "word": "Regung",
+    "lemma": "Regung",
+    "pos": "noun",
+    "meaning": "stirring / emotion / impulse (feminine)",
+    "notes": null
+  },
+  "dies etwas": {
+    "word": "Dies Etwas",
+    "lemma": "etwas",
+    "pos": "noun",
+    "meaning": "this something / indefinable quality",
+    "notes": null
+  },
+  "zwar": {
+    "word": "zwar",
+    "lemma": "zwar",
+    "pos": "adverb",
+    "meaning": "admittedly / it is true",
+    "notes": null
+  },
+  "f\\u00fchl' ich's": {
+    "word": "f\\u00fchl' ich's",
+    "lemma": "f\\u00fchlen",
+    "pos": "verb",
+    "meaning": "feel I it (contraction: f\\u00fchle ich es)",
+    "notes": null
+  },
+  "wie feuer": {
+    "word": "wie Feuer",
+    "lemma": "Feuer",
+    "pos": "noun",
+    "meaning": "like fire",
+    "notes": null
+  },
+  "empfindung": {
+    "word": "Empfindung",
+    "lemma": "Empfindung",
+    "pos": "noun",
+    "meaning": "feeling / sensation / sentiment",
+    "notes": null
+  },
+  "liebe": {
+    "word": "Liebe",
+    "lemma": "Liebe",
+    "pos": "noun",
+    "meaning": "love",
+    "notes": null
+  },
+  "ist's allein": {
+    "word": "ist's allein",
+    "lemma": "sein",
+    "pos": "verb",
+    "meaning": "is it alone / only it",
+    "notes": null
+  },
+  "finden k\\u00f6nnte": {
+    "word": "finden k\\u00f6nnte",
+    "lemma": "k\\u00f6nnen",
+    "pos": "verb",
+    "meaning": "could find (subjunctive II modal)",
+    "notes": null
+  },
+  "st\\u00fcnde": {
+    "word": "st\\u00fcnde",
+    "lemma": "stehen",
+    "pos": "verb",
+    "meaning": "stood / were standing (subjunctive II of stehen)",
+    "notes": null
+  },
+  "w\\u00fcrde": {
+    "word": "w\\u00fcrde",
+    "lemma": "werden",
+    "pos": "verb",
+    "meaning": "would (subjunctive II auxiliary)",
+    "notes": null
+  },
+  "warm und rein": {
+    "word": "warm und rein",
+    "lemma": "rein",
+    "pos": "adjective",
+    "meaning": "warm and pure",
+    "notes": null
+  },
+  "voll entz\\u00fccken": {
+    "word": "voll Entz\\u00fccken",
+    "lemma": "Entz\\u00fccken",
+    "pos": "noun",
+    "meaning": "full of delight / ecstasy",
+    "notes": null
+  },
+  "an diesen hei\\u00dfen busen": {
+    "word": "an diesen hei\\u00dfen Busen",
+    "lemma": "Busen",
+    "pos": "noun",
+    "meaning": "against this ardent chest/bosom (accusative masculine)",
+    "notes": null
+  },
+  "dr\\u00fccken": {
+    "word": "dr\\u00fccken",
+    "lemma": "dr\\u00fccken",
+    "pos": "verb",
+    "meaning": "to press / clasp",
+    "notes": null
+  },
+  "ewig": {
+    "word": "ewig",
+    "lemma": "ewig",
+    "pos": "adverb",
+    "meaning": "eternally / forever",
+    "notes": null
+  },
+  "w\\u00e4re sie": {
+    "word": "w\\u00e4re sie",
+    "lemma": "sein",
+    "pos": "verb",
+    "meaning": "would she be (subjunctive II inversion)",
+    "notes": null
+  },
+  "zitt're": {
+    "word": "zitt're",
+    "lemma": "zittern",
+    "pos": "verb",
+    "meaning": "tremble / shake (imperative singular with syncopated 'e')",
+    "notes": null
+  },
+  "lieber sohn": {
+    "word": "lieber Sohn",
+    "lemma": "Sohn",
+    "pos": "noun",
+    "meaning": "dear son (vocative)",
+    "notes": null
+  },
+  "unschuldig": {
+    "word": "unschuldig",
+    "lemma": "unschuldig",
+    "pos": "adjective",
+    "meaning": "innocent / guiltless",
+    "notes": null
+  },
+  "fromm": {
+    "word": "fromm",
+    "lemma": "fromm",
+    "pos": "adjective",
+    "meaning": "devout / gentle / pious",
+    "notes": null
+  },
+  "vermag": {
+    "word": "vermag",
+    "lemma": "verm\\u00f6gen",
+    "pos": "verb",
+    "meaning": "is capable of / is able",
+    "notes": null
+  },
+  "tiefbetr\\u00fcbte": {
+    "word": "tiefbetr\\u00fcbte",
+    "lemma": "tiefbetr\\u00fcbt",
+    "pos": "adjective",
+    "meaning": "deeply saddened / grieving",
+    "notes": null
+  },
+  "mutterherz": {
+    "word": "Mutterherz",
+    "lemma": "Mutterherz",
+    "pos": "noun",
+    "meaning": "mother's heart (Mutter + Herz)",
+    "notes": null
+  },
+  "zu tr\\u00f6sten": {
+    "word": "zu tr\\u00f6sten",
+    "lemma": "tr\\u00f6sten",
+    "pos": "verb",
+    "meaning": "to comfort / console",
+    "notes": null
+  },
+  "zum leiden": {
+    "word": "Zum Leiden",
+    "lemma": "Leiden",
+    "pos": "noun",
+    "meaning": "for suffering (substantivized infinitive)",
+    "notes": null
+  },
+  "auserkoren": {
+    "word": "auserkoren",
+    "lemma": "auserkiesen",
+    "pos": "verb",
+    "meaning": "chosen / singled out",
+    "notes": null
+  },
+  "fehlet mir": {
+    "word": "fehlet mir",
+    "lemma": "fehlen",
+    "pos": "verb",
+    "meaning": "is missing / lacking to me",
+    "notes": "German construction: 'jemandem fehlen' = to be missed by someone."
+  },
+  "ging ... verloren": {
+    "word": "ging ... verloren",
+    "lemma": "verlorengehen",
+    "pos": "verb",
+    "meaning": "was lost / perished",
+    "notes": null
+  },
+  "b\\u00f6sewicht": {
+    "word": "B\\u00f6sewicht",
+    "lemma": "B\\u00f6sewicht",
+    "pos": "noun",
+    "meaning": "villain / rogue (b\\u00f6se + Wicht)",
+    "notes": null
+  },
+  "entfloh": {
+    "word": "entfloh",
+    "lemma": "entfliehen",
+    "pos": "verb",
+    "meaning": "fled / escaped (past tense, inseparable prefix 'ent-')",
+    "notes": null
+  },
+  "noch": {
+    "word": "Noch",
+    "lemma": "noch",
+    "pos": "adverb",
+    "meaning": "still / yet",
+    "notes": null
+  },
+  "zittern": {
+    "word": "Zittern",
+    "lemma": "Zittern",
+    "pos": "noun",
+    "meaning": "trembling / shaking",
+    "notes": null
+  },
+  "bangem": {
+    "word": "bangem",
+    "lemma": "bang",
+    "pos": "adjective",
+    "meaning": "fearful / anxious (dative neuter)",
+    "notes": null
+  },
+  "ersch\\u00fcttern": {
+    "word": "Ersch\\u00fcttern",
+    "lemma": "ersch\\u00fcttern",
+    "pos": "noun",
+    "meaning": "shuddering / agitation",
+    "notes": null
+  },
+  "\\u00e4ngstliches": {
+    "word": "\\u00e4ngstliches",
+    "lemma": "\\u00e4ngstlich",
+    "pos": "adjective",
+    "meaning": "fearful / frightened",
+    "notes": null
+  },
+  "beben": {
+    "word": "Beben",
+    "lemma": "Beben",
+    "pos": "noun",
+    "meaning": "quivering / trembling",
+    "notes": null
+  },
+  "sch\\u00fcchternes": {
+    "word": "sch\\u00fcchternes",
+    "lemma": "sch\\u00fcchtern",
+    "pos": "adjective",
+    "meaning": "timid / shy",
+    "notes": null
+  },
+  "streben": {
+    "word": "Streben",
+    "lemma": "Streben",
+    "pos": "noun",
+    "meaning": "struggling / striving",
+    "notes": null
+  },
+  "sie mir rauben sehen": {
+    "word": "sie mir rauben sehen",
+    "lemma": "sehen",
+    "pos": "idiom",
+    "meaning": "see her being stolen from me",
+    "notes": "Double infinitive construction with modal 'mu\\u00dfte'."
+  },
+  "helft": {
+    "word": "helft",
+    "lemma": "helfen",
+    "pos": "verb",
+    "meaning": "help (imperative plural)",
+    "notes": null
+  },
+  "vergebens": {
+    "word": "vergebens",
+    "lemma": "vergebens",
+    "pos": "adverb",
+    "meaning": "in vain / futilely",
+    "notes": null
+  },
+  "flehen": {
+    "word": "Flehen",
+    "lemma": "Flehen",
+    "pos": "noun",
+    "meaning": "pleading / supplication",
+    "notes": null
+  },
+  "zu schwach": {
+    "word": "zu schwach",
+    "lemma": "schwach",
+    "pos": "adjective",
+    "meaning": "too weak",
+    "notes": null
+  },
+  "wirst ... gehen": {
+    "word": "wirst ... gehen",
+    "lemma": "werden",
+    "pos": "verb",
+    "meaning": "will go (future tense)",
+    "notes": null
+  },
+  "zu befreien": {
+    "word": "zu befreien",
+    "lemma": "befreien",
+    "pos": "verb",
+    "meaning": "to liberate / free",
+    "notes": null
+  },
+  "der tochter": {
+    "word": "der Tochter",
+    "lemma": "Tochter",
+    "pos": "noun",
+    "meaning": "of the daughter (genitive feminine)",
+    "notes": null
+  },
+  "retter": {
+    "word": "Retter",
+    "lemma": "Retter",
+    "pos": "noun",
+    "meaning": "savior / rescuer",
+    "notes": null
+  },
+  "werd' ich": {
+    "word": "werd' ich",
+    "lemma": "werden",
+    "pos": "verb",
+    "meaning": "shall I / if I shall (conditional inversion)",
+    "notes": null
+  },
+  "sieger": {
+    "word": "Sieger",
+    "lemma": "Sieger",
+    "pos": "noun",
+    "meaning": "victor / conqueror",
+    "notes": null
+  },
+  "sei sie": {
+    "word": "sei sie",
+    "lemma": "sein",
+    "pos": "verb",
+    "meaning": "let her be (jussive subjunctive I)",
+    "notes": null
+  },
+  "auf ewig": {
+    "word": "auf ewig",
+    "lemma": "ewig",
+    "pos": "idiom",
+    "meaning": "for eternity / forever",
+    "notes": null
+  },
+  "der arme": {
+    "word": "Der Arme",
+    "lemma": "arm",
+    "pos": "noun",
+    "meaning": "the poor fellow (substantivized adjective)",
+    "notes": null
+  },
+  "von strafe sagen": {
+    "word": "von Strafe sagen",
+    "lemma": "Strafe",
+    "pos": "idiom",
+    "meaning": "to speak of / testify to punishment",
+    "notes": null
+  },
+  "sprache": {
+    "word": "Sprache",
+    "lemma": "Sprache",
+    "pos": "noun",
+    "meaning": "speech / ability to speak",
+    "notes": null
+  },
+  "dahin": {
+    "word": "dahin",
+    "lemma": "dahin",
+    "pos": "adverb",
+    "meaning": "gone / vanished",
+    "notes": null
+  },
+  "beklagen": {
+    "word": "beklagen",
+    "lemma": "beklagen",
+    "pos": "verb",
+    "meaning": "to pity / lament",
+    "notes": null
+  },
+  "weil": {
+    "word": "weil",
+    "lemma": "weil",
+    "pos": "conjunction",
+    "meaning": "because (subordinating conjunction)",
+    "notes": null
+  },
+  "zu helfen": {
+    "word": "zu helfen",
+    "lemma": "helfen",
+    "pos": "verb",
+    "meaning": "to help (infinitive with zu)",
+    "notes": null
+  },
+  "begnadigt": {
+    "word": "begnadigt",
+    "lemma": "begnadigen",
+    "pos": "verb",
+    "meaning": "pardons / shows mercy to",
+    "notes": null
+  },
+  "entl\\u00e4\\u00dft": {
+    "word": "entl\\u00e4\\u00dft",
+    "lemma": "entlassen",
+    "pos": "verb",
+    "meaning": "remits / waives",
+    "notes": null
+  },
+  "dir": {
+    "word": "dir",
+    "lemma": "du",
+    "pos": "pronoun",
+    "meaning": "to you (dative)",
+    "notes": null
+  },
+  "durch mich": {
+    "word": "durch mich",
+    "lemma": "ich",
+    "pos": "pronoun",
+    "meaning": "through me (accusative with durch)",
+    "notes": null
+  },
+  "plaudert": {
+    "word": "plaudert",
+    "lemma": "plaudern",
+    "pos": "verb",
+    "meaning": "chatters / talks",
+    "notes": null
+  },
+  "plaud're": {
+    "word": "plaud're",
+    "lemma": "plaudern",
+    "pos": "verb",
+    "meaning": "chatter (imperative singular)",
+    "notes": null
+  },
+  "l\\u00fcge": {
+    "word": "l\\u00fcge",
+    "lemma": "l\\u00fcgen",
+    "pos": "verb",
+    "meaning": "lie (imperative singular)",
+    "notes": null
+  },
+  "nur nicht": {
+    "word": "nur nicht",
+    "lemma": "nur",
+    "pos": "particle",
+    "meaning": "just not",
+    "notes": null
+  },
+  "nimmermehr": {
+    "word": "nimmermehr",
+    "lemma": "nimmermehr",
+    "pos": "adverb",
+    "meaning": "nevermore / never again",
+    "notes": null
+  },
+  "schlo\\u00df": {
+    "word": "Schlo\\u00df",
+    "lemma": "Schloss",
+    "pos": "noun",
+    "meaning": "padlock / lock (neuter)",
+    "notes": null
+  },
+  "warnung": {
+    "word": "Warnung",
+    "lemma": "Warnung",
+    "pos": "noun",
+    "meaning": "warning (feminine)",
+    "notes": null
+  },
+  "meine": {
+    "word": "meine",
+    "lemma": "mein",
+    "pos": "pronoun",
+    "meaning": "my (possessive)",
+    "notes": null
+  },
+  "bek\\u00e4men": {
+    "word": "Bek\\u00e4men",
+    "lemma": "bekommen",
+    "pos": "verb",
+    "meaning": "would receive (subjunctive II inversion)",
+    "notes": null
+  },
+  "l\\u00fcgner": {
+    "word": "L\\u00fcgner",
+    "lemma": "L\\u00fcgner",
+    "pos": "noun",
+    "meaning": "liars (masculine plural)",
+    "notes": null
+  },
+  "ein solches": {
+    "word": "ein solches",
+    "lemma": "solcher",
+    "pos": "pronoun",
+    "meaning": "such a",
+    "notes": null
+  },
+  "mund": {
+    "word": "Mund",
+    "lemma": "Mund",
+    "pos": "noun",
+    "meaning": "mouth (accusative with directional 'vor')",
+    "notes": null
+  },
+  "statt": {
+    "word": "Statt",
+    "lemma": "statt",
+    "pos": "preposition",
+    "meaning": "instead of (governing genitive)",
+    "notes": null
+  },
+  "ha\\u00df": {
+    "word": "Ha\\u00df",
+    "lemma": "Hass",
+    "pos": "noun",
+    "meaning": "hatred",
+    "notes": null
+  },
+  "verleumdung": {
+    "word": "Verleumdung",
+    "lemma": "Verleumdung",
+    "pos": "noun",
+    "meaning": "slander / defamation",
+    "notes": null
+  },
+  "schwarzer galle": {
+    "word": "schwarzer Galle",
+    "lemma": "Galle",
+    "pos": "noun",
+    "meaning": "black bile / malice",
+    "notes": null
+  },
+  "best\\u00fcnde": {
+    "word": "best\\u00fcnde",
+    "lemma": "bestehen",
+    "pos": "verb",
+    "meaning": "would exist / endure (subjunctive II)",
+    "notes": null
+  },
+  "bruderbund": {
+    "word": "Bruderbund",
+    "lemma": "Bruderbund",
+    "pos": "noun",
+    "meaning": "brotherly bond / fraternity",
+    "notes": null
+  },
+  "nimm": {
+    "word": "nimm",
+    "lemma": "nehmen",
+    "pos": "verb",
+    "meaning": "take (imperative singular with vowel change e -> i)",
+    "notes": null
+  },
+  "geschenk": {
+    "word": "Geschenk",
+    "lemma": "Geschenk",
+    "pos": "noun",
+    "meaning": "present / gift (neuter)",
+    "notes": null
+  },
+  "sendet": {
+    "word": "sendet",
+    "lemma": "senden",
+    "pos": "verb",
+    "meaning": "sends",
+    "notes": null
+  },
+  "zauberfl\\u00f6te": {
+    "word": "Zauberfl\\u00f6te",
+    "lemma": "Zauberfl\\u00f6te",
+    "pos": "noun",
+    "meaning": "magic flute (Zauber + Fl\\u00f6te)",
+    "notes": null
+  },
+  "sch\\u00fctzen": {
+    "word": "sch\\u00fctzen",
+    "lemma": "sch\\u00fctzen",
+    "pos": "verb",
+    "meaning": "to protect",
+    "notes": null
+  },
+  "im gr\\u00f6\\u00dften ungl\\u00fcck": {
+    "word": "im gr\\u00f6\\u00dften Ungl\\u00fcck",
+    "lemma": "Ungl\\u00fcck",
+    "pos": "noun",
+    "meaning": "in greatest misfortune (dative neuter)",
+    "notes": null
+  },
+  "unterst\\u00fctzen": {
+    "word": "unterst\\u00fctzen",
+    "lemma": "unterst\\u00fctzen",
+    "pos": "verb",
+    "meaning": "to support / aid",
+    "notes": null
+  },
+  "hiermit": {
+    "word": "Hiermit",
+    "lemma": "hiermit",
+    "pos": "adverb",
+    "meaning": "with this / herewith",
+    "notes": null
+  },
+  "allm\\u00e4chtig": {
+    "word": "allm\\u00e4chtig",
+    "lemma": "allm\\u00e4chtig",
+    "pos": "adjective",
+    "meaning": "all-powerfully",
+    "notes": null
+  },
+  "handeln": {
+    "word": "handeln",
+    "lemma": "handeln",
+    "pos": "verb",
+    "meaning": "to act / operate",
+    "notes": null
+  },
+  "der menschen": {
+    "word": "der Menschen",
+    "lemma": "Mensch",
+    "pos": "noun",
+    "meaning": "of mortals / of mankind (genitive plural)",
+    "notes": null
+  },
+  "leidenschaft": {
+    "word": "Leidenschaft",
+    "lemma": "Leidenschaft",
+    "pos": "noun",
+    "meaning": "passion",
+    "notes": null
+  },
+  "verwandeln": {
+    "word": "verwandeln",
+    "lemma": "verwandeln",
+    "pos": "verb",
+    "meaning": "to transform / change",
+    "notes": null
+  },
+  "der traurige": {
+    "word": "der Traurige",
+    "lemma": "traurig",
+    "pos": "noun",
+    "meaning": "the sad / mournful one",
+    "notes": null
+  },
+  "freudig": {
+    "word": "freudig",
+    "lemma": "freudig",
+    "pos": "adjective",
+    "meaning": "joyful / cheerful",
+    "notes": null
+  },
+  "den hagestolz": {
+    "word": "den Hagestolz",
+    "lemma": "Hagestolz",
+    "pos": "noun",
+    "meaning": "confirmed bachelor / old bachelor (accusative object)",
+    "notes": null
+  },
+  "nimmt ... ein": {
+    "word": "nimmt ... ein",
+    "lemma": "einnehmen",
+    "pos": "verb",
+    "meaning": "captivates / takes possession of",
+    "notes": null
+  },
+  "so eine": {
+    "word": "so eine",
+    "lemma": "solch",
+    "pos": "pronoun",
+    "meaning": "such a",
+    "notes": null
+  },
+  "wert": {
+    "word": "wert",
+    "lemma": "wert",
+    "pos": "adjective",
+    "meaning": "worth / of value (governs accusative/genitive)",
+    "notes": null
+  },
+  "menschengl\\u00fcck": {
+    "word": "Menschengl\\u00fcck",
+    "lemma": "Menschengl\\u00fcck",
+    "pos": "noun",
+    "meaning": "human happiness",
+    "notes": null
+  },
+  "zufriedenheit": {
+    "word": "Zufriedenheit",
+    "lemma": "Zufriedenheit",
+    "pos": "noun",
+    "meaning": "contentment / peace of mind",
+    "notes": null
+  },
+  "vermehrt": {
+    "word": "vermehrt",
+    "lemma": "vermehren",
+    "pos": "verb",
+    "meaning": "increased / multiplied (passive participle)",
+    "notes": null
+  },
+  "frauenzimmer": {
+    "word": "Frauenzimmer",
+    "lemma": "Frauenzimmer",
+    "pos": "noun",
+    "meaning": "ladies / gentlewomen (historical 18th-century polite term)",
+    "notes": null
+  },
+  "empfehl' ich mich": {
+    "word": "empfehl' ich mich",
+    "lemma": "sich empfehlen",
+    "pos": "idiom",
+    "meaning": "I take my leave / commend myself to you",
+    "notes": null
+  },
+  "dich empfehlen": {
+    "word": "Dich empfehlen",
+    "lemma": "sich empfehlen",
+    "pos": "verb",
+    "meaning": "to take leave (fronted infinitive phrase)",
+    "notes": null
+  },
+  "bestimmt": {
+    "word": "bestimmt",
+    "lemma": "bestimmen",
+    "pos": "verb",
+    "meaning": "appoints / designates / directs",
+    "notes": null
+  },
+  "ohn' verweilen": {
+    "word": "ohn' Verweilen",
+    "lemma": "Verweilen",
+    "pos": "idiom",
+    "meaning": "without delay / tarrying",
+    "notes": null
+  },
+  "burg": {
+    "word": "Burg",
+    "lemma": "Burg",
+    "pos": "noun",
+    "meaning": "castle / fortress",
+    "notes": null
+  },
+  "zu eilen": {
+    "word": "zu eilen",
+    "lemma": "eilen",
+    "pos": "verb",
+    "meaning": "to hasten / hurry",
+    "notes": null
+  },
+  "daf\\u00fcr bedank' ich mich": {
+    "word": "daf\\u00fcr bedank' ich mich",
+    "lemma": "sich bedanken",
+    "pos": "idiom",
+    "meaning": "I politely decline (ironic: no thank you!)",
+    "notes": null
+  },
+  "selbster": {
+    "word": "selbster",
+    "lemma": "selbst",
+    "pos": "pronoun",
+    "meaning": "yourselves (archaic emphatic suffix '-er')",
+    "notes": null
+  },
+  "tigertier": {
+    "word": "Tigertier",
+    "lemma": "Tigertier",
+    "pos": "noun",
+    "meaning": "tiger-beast (ferocious beast)",
+    "notes": null
+  },
+  "lie\\u00df'": {
+    "word": "lie\\u00df'",
+    "lemma": "lassen",
+    "pos": "verb",
+    "meaning": "would have / let (subjunctive II 'lie\\u00dfe')",
+    "notes": null
+  },
+  "ohn' alle gnaden": {
+    "word": "ohn' alle Gnaden",
+    "lemma": "Gnade",
+    "pos": "idiom",
+    "meaning": "without any mercy",
+    "notes": null
+  },
+  "rupfen": {
+    "word": "rupfen",
+    "lemma": "rupfen",
+    "pos": "verb",
+    "meaning": "to pluck (feathers)",
+    "notes": null
+  },
+  "braten": {
+    "word": "braten",
+    "lemma": "braten",
+    "pos": "verb",
+    "meaning": "to roast",
+    "notes": null
+  },
+  "setzte ... f\\u00fcr": {
+    "word": "setzte ... f\\u00fcr",
+    "lemma": "f\\u00fcrsetzen",
+    "pos": "verb",
+    "meaning": "set before / serve up to (separable prefix)",
+    "notes": null
+  },
+  "den hunden": {
+    "word": "den Hunden",
+    "lemma": "Hund",
+    "pos": "noun",
+    "meaning": "to the dogs (dative plural)",
+    "notes": null
+  },
+  "dich sch\\u00fctzt der prinz": {
+    "word": "Dich sch\\u00fctzt der Prinz",
+    "lemma": "sch\\u00fctzen",
+    "pos": "verb",
+    "meaning": "the prince protects you (OSV)",
+    "notes": null
+  },
+  "trau ihm": {
+    "word": "trau ihm",
+    "lemma": "trauen",
+    "pos": "verb",
+    "meaning": "trust him (governs dative 'ihm')",
+    "notes": null
+  },
+  "daf\\u00fcr": {
+    "word": "daf\\u00fcr",
+    "lemma": "daf\\u00fcr",
+    "pos": "adverb",
+    "meaning": "in exchange / in return",
+    "notes": null
+  },
+  "diener": {
+    "word": "Diener",
+    "lemma": "Diener",
+    "pos": "noun",
+    "meaning": "servant",
+    "notes": null
+  },
+  "beim teufel": {
+    "word": "beim Teufel",
+    "lemma": "Teufel",
+    "pos": "idiom",
+    "meaning": "with the devil (curse/exclamation)",
+    "notes": null
+  },
+  "lieb": {
+    "word": "lieb",
+    "lemma": "lieb",
+    "pos": "adjective",
+    "meaning": "dear / precious (governs dative 'mir')",
+    "notes": null
+  },
+  "am ende": {
+    "word": "Am Ende",
+    "lemma": "Ende",
+    "pos": "idiom",
+    "meaning": "in the end / in fact",
+    "notes": null
+  },
+  "schleicht": {
+    "word": "schleicht",
+    "lemma": "schleichen",
+    "pos": "verb",
+    "meaning": "sneaks / creeps",
+    "notes": null
+  },
+  "dieb": {
+    "word": "Dieb",
+    "lemma": "Dieb",
+    "pos": "noun",
+    "meaning": "thief",
+    "notes": null
+  },
+  "kleinod": {
+    "word": "Kleinod",
+    "lemma": "Kleinod",
+    "pos": "noun",
+    "meaning": "jewel / precious treasure (neuter)",
+    "notes": null
+  },
+  "mag ... sein": {
+    "word": "mag ... sein",
+    "lemma": "m\\u00f6gen",
+    "pos": "verb",
+    "meaning": "may be (epistemic modal)",
+    "notes": null
+  },
+  "darinnen": {
+    "word": "darinnen",
+    "lemma": "darin",
+    "pos": "adverb",
+    "meaning": "in there / therein",
+    "notes": null
+  },
+  "gl\\u00f6ckchen": {
+    "word": "Gl\\u00f6ckchen",
+    "lemma": "Glocke",
+    "pos": "noun",
+    "meaning": "little bells / chimes (diminutive)",
+    "notes": null
+  },
+  "t\\u00f6nen": {
+    "word": "t\\u00f6nen",
+    "lemma": "t\\u00f6nen",
+    "pos": "verb",
+    "meaning": "to chime / sound",
+    "notes": null
+  },
+  "wohl": {
+    "word": "wohl",
+    "lemma": "wohl",
+    "pos": "particle",
+    "meaning": "perhaps / indeed (modal particle)",
+    "notes": null
+  },
+  "spielen k\\u00f6nnen": {
+    "word": "spielen k\\u00f6nnen",
+    "lemma": "k\\u00f6nnen",
+    "pos": "verb",
+    "meaning": "be able to play (double infinitive)",
+    "notes": null
+  },
+  "silbergl\\u00f6ckchen": {
+    "word": "Silbergl\\u00f6ckchen",
+    "lemma": "Silbergl\\u00f6ckchen",
+    "pos": "noun",
+    "meaning": "silver bells",
+    "notes": null
+  },
+  "vonn\\u00f6ten": {
+    "word": "vonn\\u00f6ten",
+    "lemma": "vonn\\u00f6ten",
+    "pos": "adverb",
+    "meaning": "necessary / needful (von N\\u00f6ten)",
+    "notes": null
+  },
+  "lebet wohl": {
+    "word": "Lebet wohl",
+    "lemma": "leben",
+    "pos": "idiom",
+    "meaning": "farewell (plural imperative)",
+    "notes": null
+  },
+  "saget an": {
+    "word": "saget an",
+    "lemma": "ansagen",
+    "pos": "verb",
+    "meaning": "declare / tell (separable prefix imperative)",
+    "notes": null
+  },
+  "wo man": {
+    "word": "wo man",
+    "lemma": "man",
+    "pos": "pronoun",
+    "meaning": "where one (impersonal pronoun)",
+    "notes": null
+  },
+  "umschweben": {
+    "word": "umschweben",
+    "lemma": "umschweben",
+    "pos": "verb",
+    "meaning": "hover around / encircle",
+    "notes": null
+  },
+  "f\\u00fchrer": {
+    "word": "F\\u00fchrer",
+    "lemma": "F\\u00fchrer",
+    "pos": "noun",
+    "meaning": "guides / leaders",
+    "notes": null
+  },
+  "folgt": {
+    "word": "folgt",
+    "lemma": "folgen",
+    "pos": "verb",
+    "meaning": "follow (imperative, governs dative)",
+    "notes": null
+  },
+  "ihrem rate": {
+    "word": "ihrem Rate",
+    "lemma": "Rat",
+    "pos": "noun",
+    "meaning": "their counsel / advice (dative masculine)",
+    "notes": null
+  },
+  "feines t\\u00e4ubchen": {
+    "word": "feines T\\u00e4ubchen",
+    "lemma": "Taube",
+    "pos": "noun",
+    "meaning": "delicate little dove (diminutive)",
+    "notes": null
+  },
+  "nur herein": {
+    "word": "nur herein",
+    "lemma": "herein",
+    "pos": "adverb",
+    "meaning": "just come in (directional adverb as command)",
+    "notes": null
+  },
+  "marter": {
+    "word": "Marter",
+    "lemma": "Marter",
+    "pos": "noun",
+    "meaning": "torture / torment (feminine)",
+    "notes": null
+  },
+  "pein": {
+    "word": "Pein",
+    "lemma": "Pein",
+    "pos": "noun",
+    "meaning": "pain / anguish (feminine)",
+    "notes": null
+  },
+  "dauert mich": {
+    "word": "dauert mich",
+    "lemma": "dauern",
+    "pos": "verb",
+    "meaning": "causes me grief / makes me feel sorrow",
+    "notes": "Archaic/idiomatic: 'jemanden dauern' = to move someone to pity/sorrow."
+  },
+  "vor gram": {
+    "word": "vor Gram",
+    "lemma": "Gram",
+    "pos": "noun",
+    "meaning": "from grief / sorrow (dative cause with 'vor')",
+    "notes": null
+  },
+  "ganz sicherlich": {
+    "word": "ganz sicherlich",
+    "lemma": "sicherlich",
+    "pos": "adverb",
+    "meaning": "most surely",
+    "notes": null
+  },
+  "fesseln": {
+    "word": "Fesseln",
+    "lemma": "Fessel",
+    "pos": "noun",
+    "meaning": "chains / shackles / fetters",
+    "notes": null
+  },
+  "legt ... an": {
+    "word": "legt ... an",
+    "lemma": "anlegen",
+    "pos": "verb",
+    "meaning": "put on / bind (separable verb)",
+    "notes": null
+  },
+  "verderben": {
+    "word": "verderben",
+    "lemma": "verderben",
+    "pos": "verb",
+    "meaning": "to ruin / destroy",
+    "notes": null
+  },
+  "lieber": {
+    "word": "lieber",
+    "lemma": "gern",
+    "pos": "adverb",
+    "meaning": "rather / preferably (comparative of gern)",
+    "notes": null
+  },
+  "barbar": {
+    "word": "Barbar",
+    "lemma": "Barbar",
+    "pos": "noun",
+    "meaning": "barbarian (vocative)",
+    "notes": null
+  },
+  "r\\u00fchren": {
+    "word": "r\\u00fchren",
+    "lemma": "r\\u00fchren",
+    "pos": "verb",
+    "meaning": "to touch / move emotionally",
+    "notes": null
+  },
+  "la\\u00dft": {
+    "word": "La\\u00dft",
+    "lemma": "lassen",
+    "pos": "verb",
+    "meaning": "let / leave (imperative plural)",
+    "notes": null
+  },
+  "mag ich sein": {
+    "word": "mag ich sein",
+    "lemma": "m\\u00f6gen",
+    "pos": "verb",
+    "meaning": "might I be",
+    "notes": null
+  },
+  "gewagt": {
+    "word": "gewagt",
+    "lemma": "wagen",
+    "pos": "verb",
+    "meaning": "ventured / here goes nothing",
+    "notes": null
+  },
+  "sch\\u00f6n m\\u00e4dchen": {
+    "word": "Sch\\u00f6n M\\u00e4dchen",
+    "lemma": "M\\u00e4dchen",
+    "pos": "noun",
+    "meaning": "fair maiden (uninflected poetic adjective)",
+    "notes": null
+  },
+  "wei\\u00dfer": {
+    "word": "wei\\u00dfer",
+    "lemma": "wei\\u00df",
+    "pos": "adjective",
+    "meaning": "whiter (comparative)",
+    "notes": null
+  },
+  "kreide": {
+    "word": "Kreide",
+    "lemma": "Kreide",
+    "pos": "noun",
+    "meaning": "chalk (feminine)",
+    "notes": null
+  },
+  "teufel": {
+    "word": "Teufel",
+    "lemma": "Teufel",
+    "pos": "noun",
+    "meaning": "devil",
+    "notes": null
+  },
+  "mitleid": {
+    "word": "Mitleid",
+    "lemma": "Mitleid",
+    "pos": "noun",
+    "meaning": "pity / compassion",
+    "notes": null
+  },
+  "verschone": {
+    "word": "verschone",
+    "lemma": "verschonen",
+    "pos": "verb",
+    "meaning": "spare (imperative singular)",
+    "notes": null
+  },
+  "bei m\\u00e4nnern": {
+    "word": "Bei M\\u00e4nnern",
+    "lemma": "Mann",
+    "pos": "noun",
+    "meaning": "among men (dative plural with 'bei')",
+    "notes": null
+  },
+  "welche": {
+    "word": "welche",
+    "lemma": "welcher",
+    "pos": "pronoun",
+    "meaning": "who / which (relative pronoun)",
+    "notes": null
+  },
+  "liebe f\\u00fchlen": {
+    "word": "Liebe f\\u00fchlen",
+    "lemma": "f\\u00fchlen",
+    "pos": "verb",
+    "meaning": "feel love",
+    "notes": null
+  },
+  "fehlt ... nicht": {
+    "word": "fehlt ... nicht",
+    "lemma": "fehlen",
+    "pos": "verb",
+    "meaning": "is not lacking",
+    "notes": null
+  },
+  "herze": {
+    "word": "Herze",
+    "lemma": "Herz",
+    "pos": "noun",
+    "meaning": "heart (archaic dative/nominative form of Herz)",
+    "notes": null
+  },
+  "s\\u00fc\\u00dfen triebe": {
+    "word": "s\\u00fc\\u00dfen Triebe",
+    "lemma": "Trieb",
+    "pos": "noun",
+    "meaning": "sweet drives / desires / impulses",
+    "notes": null
+  },
+  "mitzuf\\u00fchlen": {
+    "word": "mitzuf\\u00fchlen",
+    "lemma": "mitf\\u00fchlen",
+    "pos": "verb",
+    "meaning": "to sympathize / feel in common (separable infinitive)",
+    "notes": null
+  },
+  "der weiber": {
+    "word": "der Weiber",
+    "lemma": "Weib",
+    "pos": "noun",
+    "meaning": "of women (genitive plural)",
+    "notes": null
+  },
+  "erste pflicht": {
+    "word": "erste Pflicht",
+    "lemma": "Pflicht",
+    "pos": "noun",
+    "meaning": "first / foremost duty",
+    "notes": null
+  },
+  "uns ... freu'n": {
+    "word": "uns ... freu'n",
+    "lemma": "sich freuen",
+    "pos": "verb",
+    "meaning": "rejoice / delight",
+    "notes": null
+  },
+  "der liebe": {
+    "word": "der Liebe",
+    "lemma": "Liebe",
+    "pos": "noun",
+    "meaning": "in love (genitive of object of rejoicing)",
+    "notes": null
+  },
+  "durch die lieb'": {
+    "word": "durch die Lieb'",
+    "lemma": "Liebe",
+    "pos": "noun",
+    "meaning": "through love (accusative with 'durch')",
+    "notes": null
+  },
+  "vers\\u00fc\\u00dfet": {
+    "word": "vers\\u00fc\\u00dfet",
+    "lemma": "vers\\u00fc\\u00dfen",
+    "pos": "verb",
+    "meaning": "sweetens (archaic -et ending)",
+    "notes": null
+  },
+  "plage": {
+    "word": "Plage",
+    "lemma": "Plage",
+    "pos": "noun",
+    "meaning": "torment / hardship / plague",
+    "notes": null
+  },
+  "opfert": {
+    "word": "opfert",
+    "lemma": "opfern",
+    "pos": "verb",
+    "meaning": "sacrifices",
+    "notes": null
+  },
+  "jede kreatur": {
+    "word": "jede Kreatur",
+    "lemma": "Kreatur",
+    "pos": "noun",
+    "meaning": "every creature (nominative subject)",
+    "notes": null
+  },
+  "w\\u00fcrzet": {
+    "word": "w\\u00fcrzet",
+    "lemma": "w\\u00fcrzen",
+    "pos": "verb",
+    "meaning": "seasons / spices / enriches",
+    "notes": null
+  },
+  "lebenstage": {
+    "word": "Lebenstage",
+    "lemma": "Lebenstag",
+    "pos": "noun",
+    "meaning": "days of one's life",
+    "notes": null
+  },
+  "wirkt": {
+    "word": "wirkt",
+    "lemma": "wirken",
+    "pos": "verb",
+    "meaning": "acts / works / has effect",
+    "notes": null
+  },
+  "im kreise": {
+    "word": "im Kreise",
+    "lemma": "Kreis",
+    "pos": "noun",
+    "meaning": "in the sphere / cycle",
+    "notes": null
+  },
+  "der natur": {
+    "word": "der Natur",
+    "lemma": "Natur",
+    "pos": "noun",
+    "meaning": "of nature (genitive feminine)",
+    "notes": null
+  },
+  "zweck": {
+    "word": "Zweck",
+    "lemma": "Zweck",
+    "pos": "noun",
+    "meaning": "purpose / goal (masculine)",
+    "notes": null
+  },
+  "deutlich": {
+    "word": "deutlich",
+    "lemma": "deutlich",
+    "pos": "adverb",
+    "meaning": "clearly / plainly",
+    "notes": null
+  },
+  "zeigt ... an": {
+    "word": "zeigt ... an",
+    "lemma": "anzeigen",
+    "pos": "verb",
+    "meaning": "indicates / demonstrates (separable verb)",
+    "notes": null
+  },
+  "edler's": {
+    "word": "Edler's",
+    "lemma": "edel",
+    "pos": "adjective",
+    "meaning": "nobler (comparative substantivized neuter)",
+    "notes": null
+  },
+  "sei": {
+    "word": "sei",
+    "lemma": "sein",
+    "pos": "verb",
+    "meaning": "be (subjunctive I indirect discourse)",
+    "notes": null
+  },
+  "reichen ... an": {
+    "word": "reichen ... an",
+    "lemma": "anreichen",
+    "pos": "verb",
+    "meaning": "reach up to / approach",
+    "notes": null
+  },
+  "an die gottheit": {
+    "word": "an die Gottheit",
+    "lemma": "Gottheit",
+    "pos": "noun",
+    "meaning": "unto the divinity / godhead",
+    "notes": null
+  },
+  "zum ziele": {
+    "word": "Zum Ziele",
+    "lemma": "Ziel",
+    "pos": "noun",
+    "meaning": "to the goal / destination (zu + dem)",
+    "notes": null
+  },
+  "f\\u00fchrt": {
+    "word": "f\\u00fchrt",
+    "lemma": "f\\u00fchren",
+    "pos": "verb",
+    "meaning": "leads / guides",
+    "notes": null
+  },
+  "bahn": {
+    "word": "Bahn",
+    "lemma": "Bahn",
+    "pos": "noun",
+    "meaning": "path / course / track (feminine)",
+    "notes": null
+  },
+  "m\\u00e4nnlich": {
+    "word": "m\\u00e4nnlich",
+    "lemma": "m\\u00e4nnlich",
+    "pos": "adverb",
+    "meaning": "manfully / valiantly",
+    "notes": null
+  },
+  "siegen": {
+    "word": "siegen",
+    "lemma": "siegen",
+    "pos": "verb",
+    "meaning": "to conquer / triumph",
+    "notes": null
+  },
+  "h\\u00f6re ... an": {
+    "word": "h\\u00f6re ... an",
+    "lemma": "anh\\u00f6ren",
+    "pos": "verb",
+    "meaning": "listen to / heed (separable verb imperative)",
+    "notes": null
+  },
+  "lehre": {
+    "word": "Lehre",
+    "lemma": "Lehre",
+    "pos": "noun",
+    "meaning": "teaching / precept (feminine)",
+    "notes": null
+  },
+  "standhaft": {
+    "word": "standhaft",
+    "lemma": "standhaft",
+    "pos": "adjective",
+    "meaning": "steadfast / resolute",
+    "notes": null
+  },
+  "duldsam": {
+    "word": "duldsam",
+    "lemma": "duldsam",
+    "pos": "adjective",
+    "meaning": "patient / forbearing",
+    "notes": null
+  },
+  "verschwiegen": {
+    "word": "verschwiegen",
+    "lemma": "verschwiegen",
+    "pos": "adjective",
+    "meaning": "discreet / secretive / silent",
+    "notes": null
+  },
+  "sagt ... an": {
+    "word": "sagt ... an",
+    "lemma": "ansagen",
+    "pos": "verb",
+    "meaning": "declare / tell (plural imperative)",
+    "notes": null
+  },
+  "mir": {
+    "word": "mir",
+    "lemma": "ich",
+    "pos": "pronoun",
+    "meaning": "to me (dative)",
+    "notes": null
+  },
+  "ob": {
+    "word": "ob",
+    "lemma": "ob",
+    "pos": "conjunction",
+    "meaning": "whether / if (indirect question)",
+    "notes": null
+  },
+  "retten kann": {
+    "word": "retten kann",
+    "lemma": "k\\u00f6nnen",
+    "pos": "verb",
+    "meaning": "can rescue",
+    "notes": null
+  },
+  "kund zu tun": {
+    "word": "kund zu tun",
+    "lemma": "kundtun",
+    "pos": "verb",
+    "meaning": "to make known / disclose (separable infinitive with zu)",
+    "notes": null
+  },
+  "anstehen": {
+    "word": "anstehen",
+    "lemma": "anstehen",
+    "pos": "idiom",
+    "meaning": "to be fitting / be incumbent upon (governs dative 'uns')",
+    "notes": null
+  },
+  "bedenke": {
+    "word": "Bedenke",
+    "lemma": "bedenken",
+    "pos": "verb",
+    "meaning": "consider / reflect upon (imperative singular)",
+    "notes": null
+  },
+  "kurz": {
+    "word": "kurz",
+    "lemma": "kurz",
+    "pos": "adverb",
+    "meaning": "in short / briefly",
+    "notes": null
+  },
+  "dann": {
+    "word": "Dann",
+    "lemma": "dann",
+    "pos": "adverb",
+    "meaning": "then / in that case",
+    "notes": null
+  },
+  "wirst du ... siegen": {
+    "word": "wirst du ... siegen",
+    "lemma": "siegen",
+    "pos": "verb",
+    "meaning": "you will conquer (future tense inversion)",
+    "notes": null
+  },
+  "weisheitslehre": {
+    "word": "Weisheitslehre",
+    "lemma": "Weisheitslehre",
+    "pos": "noun",
+    "meaning": "teaching of wisdom (Weisheit + Lehre)",
+    "notes": null
+  },
+  "dieser knaben": {
+    "word": "dieser Knaben",
+    "lemma": "Knabe",
+    "pos": "noun",
+    "meaning": "of these boys (genitive plural weak noun ending -n)",
+    "notes": null
+  },
+  "sei ... gegraben": {
+    "word": "sei ... gegraben",
+    "lemma": "graben",
+    "pos": "verb",
+    "meaning": "be engraved (jussive subjunctive I passive)",
+    "notes": null
+  },
+  "ins herz": {
+    "word": "ins Herz",
+    "lemma": "Herz",
+    "pos": "noun",
+    "meaning": "into the heart (in + das Herz)",
+    "notes": null
+  },
+  "was wird mit mir": {
+    "word": "Was wird mit mir",
+    "lemma": "werden",
+    "pos": "idiom",
+    "meaning": "what will become of me",
+    "notes": null
+  },
+  "sitz": {
+    "word": "Sitz",
+    "lemma": "Sitz",
+    "pos": "noun",
+    "meaning": "seat / dwelling / abode (masculine)",
+    "notes": null
+  },
+  "der g\\u00f6tter": {
+    "word": "der G\\u00f6tter",
+    "lemma": "Gott",
+    "pos": "noun",
+    "meaning": "of the gods (genitive plural)",
+    "notes": null
+  },
+  "pforten": {
+    "word": "Pforten",
+    "lemma": "Pforte",
+    "pos": "noun",
+    "meaning": "portals / gates",
+    "notes": null
+  },
+  "s\\u00e4ulen": {
+    "word": "S\\u00e4ulen",
+    "lemma": "S\\u00e4ule",
+    "pos": "noun",
+    "meaning": "columns / pillars",
+    "notes": null
+  },
+  "klugheit": {
+    "word": "Klugheit",
+    "lemma": "Klugheit",
+    "pos": "noun",
+    "meaning": "prudence / wisdom (feminine)",
+    "notes": null
+  },
+  "arbeit": {
+    "word": "Arbeit",
+    "lemma": "Arbeit",
+    "pos": "noun",
+    "meaning": "work / labor / industry",
+    "notes": null
+  },
+  "k\\u00fcnste": {
+    "word": "K\\u00fcnste",
+    "lemma": "Kunst",
+    "pos": "noun",
+    "meaning": "arts (plural)",
+    "notes": null
+  },
+  "weilen": {
+    "word": "weilen",
+    "lemma": "weilen",
+    "pos": "verb",
+    "meaning": "dwell / abide / tarry",
+    "notes": null
+  },
+  "t\\u00e4tigkeit": {
+    "word": "T\\u00e4tigkeit",
+    "lemma": "T\\u00e4tigkeit",
+    "pos": "noun",
+    "meaning": "activity / industry / diligence",
+    "notes": null
+  },
+  "thronet": {
+    "word": "thronet",
+    "lemma": "thronen",
+    "pos": "verb",
+    "meaning": "is enthroned / reigns",
+    "notes": null
+  },
+  "m\\u00fc\\u00dfiggang": {
+    "word": "M\\u00fc\\u00dfiggang",
+    "lemma": "M\\u00fc\\u00dfiggang",
+    "pos": "noun",
+    "meaning": "idleness / sloth (m\\u00fc\\u00dfig + Gang)",
+    "notes": null
+  },
+  "weicht": {
+    "word": "weicht",
+    "lemma": "weichen",
+    "pos": "verb",
+    "meaning": "yields / retreats / gives way",
+    "notes": null
+  },
+  "erh\\u00e4lt": {
+    "word": "erh\\u00e4lt",
+    "lemma": "erhalten",
+    "pos": "verb",
+    "meaning": "maintains / preserves",
+    "notes": null
+  },
+  "herrschaft": {
+    "word": "Herrschaft",
+    "lemma": "Herrschaft",
+    "pos": "noun",
+    "meaning": "rule / dominion / control",
+    "notes": null
+  },
+  "das laster": {
+    "word": "das Laster",
+    "lemma": "Laster",
+    "pos": "noun",
+    "meaning": "vice (neuter nominative subject)",
+    "notes": null
+  },
+  "leicht": {
+    "word": "leicht",
+    "lemma": "leicht",
+    "pos": "adverb",
+    "meaning": "easily",
+    "notes": null
+  },
+  "ich wage mich": {
+    "word": "Ich wage mich",
+    "lemma": "sich wagen",
+    "pos": "verb",
+    "meaning": "I venture / dare to enter (reflexive)",
+    "notes": null
+  },
+  "mutig": {
+    "word": "mutig",
+    "lemma": "mutig",
+    "pos": "adverb",
+    "meaning": "boldly / courageously",
+    "notes": null
+  },
+  "hinein": {
+    "word": "hinein",
+    "lemma": "hinein",
+    "pos": "adverb",
+    "meaning": "inside (directional away from speaker)",
+    "notes": null
+  },
+  "absicht": {
+    "word": "Absicht",
+    "lemma": "Absicht",
+    "pos": "noun",
+    "meaning": "intention / purpose (feminine)",
+    "notes": null
+  },
+  "edel": {
+    "word": "edel",
+    "lemma": "edel",
+    "pos": "adjective",
+    "meaning": "noble",
+    "notes": null
+  },
+  "lauter": {
+    "word": "lauter",
+    "lemma": "lauter",
+    "pos": "adjective",
+    "meaning": "unblemished / pure / upright",
+    "notes": null
+  },
+  "rein": {
+    "word": "rein",
+    "lemma": "rein",
+    "pos": "adjective",
+    "meaning": "pure / spotless",
+    "notes": null
+  },
+  "erzitt're": {
+    "word": "Erzitt're",
+    "lemma": "erzittern",
+    "pos": "verb",
+    "meaning": "tremble / shudder (imperative singular with inchoative prefix er-)",
+    "notes": null
+  },
+  "feiger": {
+    "word": "feiger",
+    "lemma": "feig",
+    "pos": "adjective",
+    "meaning": "cowardly (vocative masculine)",
+    "notes": null
+  },
+  "paminen": {
+    "word": "Paminen",
+    "lemma": "Pamina",
+    "pos": "noun",
+    "meaning": "Pamina (accusative with classical feminine ending -en)",
+    "notes": null
+  },
+  "retten": {
+    "word": "retten",
+    "lemma": "retten",
+    "pos": "verb",
+    "meaning": "to rescue (infinitive subject)",
+    "notes": null
+  },
+  "mir pflicht": {
+    "word": "mir Pflicht",
+    "lemma": "Pflicht",
+    "pos": "idiom",
+    "meaning": "my duty / incumbent upon me",
+    "notes": null
+  },
+  "wag ich": {
+    "word": "wag ich",
+    "lemma": "wagen",
+    "pos": "verb",
+    "meaning": "dare I / venture I (inversion)",
+    "notes": null
+  },
+  "mein gl\\u00fcck": {
+    "word": "mein Gl\\u00fcck",
+    "lemma": "Gl\\u00fcck",
+    "pos": "noun",
+    "meaning": "my fortune / luck",
+    "notes": null
+  },
+  "ruft man": {
+    "word": "ruft man",
+    "lemma": "rufen",
+    "pos": "verb",
+    "meaning": "calls one / do they call",
+    "notes": null
+  },
+  "noch eine": {
+    "word": "noch eine",
+    "lemma": "noch",
+    "pos": "idiom",
+    "meaning": "yet another / one more",
+    "notes": null
+  },
+  "eingang": {
+    "word": "Eingang",
+    "lemma": "Eingang",
+    "pos": "noun",
+    "meaning": "entrance / entryway (masculine)",
+    "notes": null
+  },
+  "k\\u00fchner fremdling": {
+    "word": "k\\u00fchner Fremdling",
+    "lemma": "Fremdling",
+    "pos": "noun",
+    "meaning": "bold stranger (vocative)",
+    "notes": null
+  },
+  "hin": {
+    "word": "hin",
+    "lemma": "hin",
+    "pos": "adverb",
+    "meaning": "thither / to what place",
+    "notes": null
+  },
+  "suchst du": {
+    "word": "suchst du",
+    "lemma": "suchen",
+    "pos": "verb",
+    "meaning": "seek you / are you looking for",
+    "notes": null
+  },
+  "heiligtum": {
+    "word": "Heiligtum",
+    "lemma": "Heiligtum",
+    "pos": "noun",
+    "meaning": "sanctuary / holy shrine (neuter)",
+    "notes": null
+  },
+  "der lieb' und tugend": {
+    "word": "Der Lieb' und Tugend",
+    "lemma": "Liebe",
+    "pos": "noun",
+    "meaning": "of love and virtue (genitive)",
+    "notes": null
+  },
+  "eigentum": {
+    "word": "Eigentum",
+    "lemma": "Eigentum",
+    "pos": "noun",
+    "meaning": "property / rightful domain (neuter)",
+    "notes": null
+  },
+  "von hohem sinn": {
+    "word": "von hohem Sinn",
+    "lemma": "Sinn",
+    "pos": "noun",
+    "meaning": "of lofty meaning / high sense (dative masculine)",
+    "notes": null
+  },
+  "diese": {
+    "word": "diese",
+    "lemma": "dieser",
+    "pos": "pronoun",
+    "meaning": "these (accusative plural)",
+    "notes": null
+  },
+  "dich": {
+    "word": "Dich",
+    "lemma": "du",
+    "pos": "pronoun",
+    "meaning": "you (accusative direct object)",
+    "notes": null
+  },
+  "leitet": {
+    "word": "leitet",
+    "lemma": "leiten",
+    "pos": "verb",
+    "meaning": "guides / leads",
+    "notes": null
+  },
+  "rache": {
+    "word": "Rache",
+    "lemma": "Rache",
+    "pos": "noun",
+    "meaning": "revenge / vengeance (feminine)",
+    "notes": null
+  },
+  "entz\\u00fcnden": {
+    "word": "entz\\u00fcnden",
+    "lemma": "entz\\u00fcnden",
+    "pos": "verb",
+    "meaning": "inflame / kindle",
+    "notes": null
+  },
+  "nur rache": {
+    "word": "Nur Rache",
+    "lemma": "Rache",
+    "pos": "noun",
+    "meaning": "only vengeance",
+    "notes": null
+  },
+  "den": {
+    "word": "Den",
+    "lemma": "der",
+    "pos": "pronoun",
+    "meaning": "that one / him (demonstrative accusative)",
+    "notes": null
+  },
+  "herrscht": {
+    "word": "herrscht",
+    "lemma": "herrschen",
+    "pos": "verb",
+    "meaning": "rules / reigns",
+    "notes": null
+  },
+  "gr\\u00fcnden": {
+    "word": "Gr\\u00fcnden",
+    "lemma": "Grund",
+    "pos": "noun",
+    "meaning": "grounds / lands / valley (dative plural)",
+    "notes": null
+  },
+  "herrschet": {
+    "word": "herrschet",
+    "lemma": "herrschen",
+    "pos": "verb",
+    "meaning": "rules (archaic -et suffix)",
+    "notes": null
+  },
+  "der weisheit tempel": {
+    "word": "der Weisheit Tempel",
+    "lemma": "Tempel",
+    "pos": "noun",
+    "meaning": "wisdom's temple (pre-nominal genitive)",
+    "notes": null
+  },
+  "weisheitstempel": {
+    "word": "Weisheitstempel",
+    "lemma": "Weisheitstempel",
+    "pos": "noun",
+    "meaning": "temple of wisdom",
+    "notes": null
+  },
+  "heuchelei": {
+    "word": "Heuchelei",
+    "lemma": "Heuchelei",
+    "pos": "noun",
+    "meaning": "hypocrisy / deceit (feminine)",
+    "notes": null
+  },
+  "schon wieder": {
+    "word": "schon wieder",
+    "lemma": "schon",
+    "pos": "adverb",
+    "meaning": "already again",
+    "notes": null
+  },
+  "froh, und frei": {
+    "word": "froh, und frei",
+    "lemma": "frei",
+    "pos": "adjective",
+    "meaning": "glad and free",
+    "notes": null
+  },
+  "nie": {
+    "word": "nie",
+    "lemma": "nie",
+    "pos": "adverb",
+    "meaning": "never",
+    "notes": null
+  },
+  "erkl\\u00e4r dich": {
+    "word": "Erkl\\u00e4r dich",
+    "lemma": "sich erkl\\u00e4ren",
+    "pos": "verb",
+    "meaning": "explain yourself (imperative)",
+    "notes": null
+  },
+  "n\\u00e4her": {
+    "word": "n\\u00e4her",
+    "lemma": "nah",
+    "pos": "adverb",
+    "meaning": "more closely / in more detail (comparative)",
+    "notes": null
+  },
+  "t\\u00e4uschet": {
+    "word": "t\\u00e4uschet",
+    "lemma": "t\\u00e4uschen",
+    "pos": "verb",
+    "meaning": "deceives / misleads",
+    "notes": null
+  },
+  "betrug": {
+    "word": "Betrug",
+    "lemma": "Betrug",
+    "pos": "noun",
+    "meaning": "deception / deceit (masculine nominative subject)",
+    "notes": null
+  },
+  "wohnet": {
+    "word": "wohnet",
+    "lemma": "wohnen",
+    "pos": "verb",
+    "meaning": "dwells / resides (archaic -et)",
+    "notes": null
+  },
+  "genug": {
+    "word": "genug",
+    "lemma": "genug",
+    "pos": "adverb",
+    "meaning": "enough / sufficient",
+    "notes": null
+  },
+  "bleibe da": {
+    "word": "bleibe da",
+    "lemma": "dableiben",
+    "pos": "verb",
+    "meaning": "stay there / remain (imperative)",
+    "notes": null
+  },
+  "hassest": {
+    "word": "hassest",
+    "lemma": "hassen",
+    "pos": "verb",
+    "meaning": "hate (second person singular)",
+    "notes": null
+  },
+  "gib ... an": {
+    "word": "gib ... an",
+    "lemma": "angeben",
+    "pos": "verb",
+    "meaning": "state / provide (separable verb imperative)",
+    "notes": null
+  },
+  "gr\\u00fcnde": {
+    "word": "Gr\\u00fcnde",
+    "lemma": "Grund",
+    "pos": "noun",
+    "meaning": "reasons / grounds (masculine plural)",
+    "notes": null
+  },
+  "unmensch": {
+    "word": "Unmensch",
+    "lemma": "Unmensch",
+    "pos": "noun",
+    "meaning": "monster / brute / inhuman being (un- + Mensch)",
+    "notes": null
+  },
+  "tyrann": {
+    "word": "Tyrann",
+    "lemma": "Tyrann",
+    "pos": "noun",
+    "meaning": "tyrant",
+    "notes": null
+  },
+  "erwiesen": {
+    "word": "erwiesen",
+    "lemma": "erweisen",
+    "pos": "verb",
+    "meaning": "proven / demonstrated (past participle)",
+    "notes": null
+  },
+  "ungl\\u00fccklich weib": {
+    "word": "ungl\\u00fccklich Weib",
+    "lemma": "Weib",
+    "pos": "noun",
+    "meaning": "unfortunate woman (uninflected poetic adjective)",
+    "notes": null
+  },
+  "bewiesen": {
+    "word": "bewiesen",
+    "lemma": "beweisen",
+    "pos": "verb",
+    "meaning": "proven",
+    "notes": null
+  },
+  "das": {
+    "word": "das",
+    "lemma": "das",
+    "pos": "pronoun",
+    "meaning": "whom / which (relative pronoun referring to Weib)",
+    "notes": null
+  },
+  "jammer": {
+    "word": "Jammer",
+    "lemma": "Jammer",
+    "pos": "noun",
+    "meaning": "misery / sorrow (masculine)",
+    "notes": null
+  },
+  "niederdr\\u00fcckt": {
+    "word": "niederdr\\u00fcckt",
+    "lemma": "niederdr\\u00fccken",
+    "pos": "verb",
+    "meaning": "weighs down / oppresses",
+    "notes": null
+  },
+  "ber\\u00fcckt": {
+    "word": "ber\\u00fcckt",
+    "lemma": "ber\\u00fccken",
+    "pos": "verb",
+    "meaning": "beguiled / enchanted / deluded",
+    "notes": null
+  },
+  "plaudert viel": {
+    "word": "plaudert viel",
+    "lemma": "plaudern",
+    "pos": "verb",
+    "meaning": "chats / talks much",
+    "notes": null
+  },
+  "zungenspiel": {
+    "word": "Zungenspiel",
+    "lemma": "Zungenspiel",
+    "pos": "noun",
+    "meaning": "tongue-play / chatter / babble (dative neuter)",
+    "notes": null
+  },
+  "legte ... vor": {
+    "word": "legte ... vor",
+    "lemma": "vorlegen",
+    "pos": "verb",
+    "meaning": "would set forth / explain (subjunctive II inversion)",
+    "notes": null
+  },
+  "seiner handlung": {
+    "word": "seiner Handlung",
+    "lemma": "Handlung",
+    "pos": "noun",
+    "meaning": "of his action (genitive feminine)",
+    "notes": null
+  },
+  "f\\u00fcr": {
+    "word": "f\\u00fcr",
+    "lemma": "f\\u00fcrlegen",
+    "pos": "verb",
+    "meaning": "separable prefix equivalent to 'vor' (archaic/regional)",
+    "notes": null
+  },
+  "allzu klar": {
+    "word": "allzu klar",
+    "lemma": "klar",
+    "pos": "adverb",
+    "meaning": "all too clear",
+    "notes": null
+  },
+  "ri\\u00df": {
+    "word": "Ri\\u00df",
+    "lemma": "rei\\u00dfen",
+    "pos": "verb",
+    "meaning": "tore / snatched (past tense)",
+    "notes": null
+  },
+  "r\\u00e4uber": {
+    "word": "R\\u00e4uber",
+    "lemma": "R\\u00e4uber",
+    "pos": "noun",
+    "meaning": "robber / captor",
+    "notes": null
+  },
+  "ohn' erbarmen": {
+    "word": "ohn' Erbarmen",
+    "lemma": "Erbarmen",
+    "pos": "idiom",
+    "meaning": "mercilessly / without pity",
+    "notes": null
+  },
+  "der mutter armen": {
+    "word": "der Mutter Armen",
+    "lemma": "Arm",
+    "pos": "noun",
+    "meaning": "the mother's arms (dative plural with 'aus')",
+    "notes": null
+  },
+  "wahr": {
+    "word": "wahr",
+    "lemma": "wahr",
+    "pos": "adjective",
+    "meaning": "true",
+    "notes": null
+  },
+  "geraubt": {
+    "word": "geraubt",
+    "lemma": "rauben",
+    "pos": "verb",
+    "meaning": "robbed / abducted (past participle with ellipsis of 'hat')",
+    "notes": null
+  },
+  "opferte": {
+    "word": "opferte",
+    "lemma": "opfern",
+    "pos": "verb",
+    "meaning": "sacrificed",
+    "notes": null
+  },
+  "dies": {
+    "word": "dies",
+    "lemma": "dies",
+    "pos": "pronoun",
+    "meaning": "this (accusative)",
+    "notes": null
+  },
+  "erlaubt": {
+    "word": "erlaubt",
+    "lemma": "erlauben",
+    "pos": "verb",
+    "meaning": "permitted / allowed (governs dative 'mir')",
+    "notes": null
+  },
+  "r\\u00e4tsel": {
+    "word": "R\\u00e4tsel",
+    "lemma": "R\\u00e4tsel",
+    "pos": "noun",
+    "meaning": "riddle / mystery (neuter)",
+    "notes": null
+  },
+  "t\\u00e4usch": {
+    "word": "t\\u00e4usch",
+    "lemma": "t\\u00e4uschen",
+    "pos": "verb",
+    "meaning": "deceive / fool (imperative singular)",
+    "notes": null
+  },
+  "die zunge": {
+    "word": "Die Zunge",
+    "lemma": "Zunge",
+    "pos": "noun",
+    "meaning": "the tongue (accusative object)",
+    "notes": null
+  },
+  "eid": {
+    "word": "Eid",
+    "lemma": "Eid",
+    "pos": "noun",
+    "meaning": "oath (masculine)",
+    "notes": null
+  },
+  "pflicht": {
+    "word": "Pflicht",
+    "lemma": "Pflicht",
+    "pos": "noun",
+    "meaning": "duty",
+    "notes": null
+  },
+  "decke": {
+    "word": "Decke",
+    "lemma": "Decke",
+    "pos": "noun",
+    "meaning": "covering / veil / shroud",
+    "notes": null
+  },
+  "schwinden": {
+    "word": "schwinden",
+    "lemma": "schwinden",
+    "pos": "verb",
+    "meaning": "vanish / disappear",
+    "notes": null
+  },
+  "sobald": {
+    "word": "Sobald",
+    "lemma": "sobald",
+    "pos": "conjunction",
+    "meaning": "as soon as",
+    "notes": null
+  },
+  "der freundschaft hand": {
+    "word": "der Freundschaft Hand",
+    "lemma": "Hand",
+    "pos": "noun",
+    "meaning": "hand of friendship (pre-nominal genitive)",
+    "notes": null
+  },
+  "ew'gen band": {
+    "word": "ew'gen Band",
+    "lemma": "Band",
+    "pos": "noun",
+    "meaning": "eternal bond / tie (dative neuter)",
+    "notes": null
+  },
+  "ew'ge nacht": {
+    "word": "ew'ge Nacht",
+    "lemma": "Nacht",
+    "pos": "noun",
+    "meaning": "eternal night (feminine vocative)",
+    "notes": null
+  },
+  "licht": {
+    "word": "Licht",
+    "lemma": "Licht",
+    "pos": "noun",
+    "meaning": "light (neuter subject)",
+    "notes": null
+  },
+  "ihr unsichtbaren": {
+    "word": "Ihr Unsichtbaren",
+    "lemma": "unsichtbar",
+    "pos": "noun",
+    "meaning": "you invisible ones (substantivized plural adjective)",
+    "notes": null
+  },
+  "lebt ... noch": {
+    "word": "lebt ... noch",
+    "lemma": "leben",
+    "pos": "verb",
+    "meaning": "is still alive",
+    "notes": null
+  },
+  "lebet": {
+    "word": "lebet",
+    "lemma": "leben",
+    "pos": "verb",
+    "meaning": "lives (archaic -et)",
+    "notes": null
+  },
+  "euch": {
+    "word": "euch",
+    "lemma": "ihr",
+    "pos": "pronoun",
+    "meaning": "you (dative plural with 'danken')",
+    "notes": null
+  },
+  "im stande w\\u00e4re": {
+    "word": "im Stande w\\u00e4re",
+    "lemma": "imstande",
+    "pos": "idiom",
+    "meaning": "were capable / in a position to (subjunctive II of sein)",
+    "notes": null
+  },
+  "allm\\u00e4chtige": {
+    "word": "Allm\\u00e4chtige",
+    "lemma": "Allm\\u00e4chtige",
+    "pos": "noun",
+    "meaning": "Almighty gods (vocative plural)",
+    "notes": null
+  },
+  "zu eurer ehre": {
+    "word": "zu eurer Ehre",
+    "lemma": "Ehre",
+    "pos": "idiom",
+    "meaning": "in your honor",
+    "notes": null
+  },
+  "mit jedem tone": {
+    "word": "mit jedem Tone",
+    "lemma": "Ton",
+    "pos": "noun",
+    "meaning": "with every tone / note (dative masculine)",
+    "notes": null
+  },
+  "meinen dank": {
+    "word": "meinen Dank",
+    "lemma": "Dank",
+    "pos": "noun",
+    "meaning": "my thanks / gratitude (accusative masculine)",
+    "notes": null
+  },
+  "zu schildern": {
+    "word": "zu schildern",
+    "lemma": "schildern",
+    "pos": "verb",
+    "meaning": "to depict / portray",
+    "notes": null
+  },
+  "entsprang": {
+    "word": "entsprang",
+    "lemma": "entspringen",
+    "pos": "verb",
+    "meaning": "originated / sprang forth (past tense)",
+    "notes": null
+  },
+  "zauberton": {
+    "word": "Zauberton",
+    "lemma": "Zauberton",
+    "pos": "noun",
+    "meaning": "magical sound / enchanted tone",
+    "notes": null
+  },
+  "holde fl\\u00f6te": {
+    "word": "holde Fl\\u00f6te",
+    "lemma": "Fl\\u00f6te",
+    "pos": "noun",
+    "meaning": "lovely/gracious flute (vocative)",
+    "notes": null
+  },
+  "spielen": {
+    "word": "Spielen",
+    "lemma": "spielen",
+    "pos": "noun",
+    "meaning": "playing (substantivized neuter)",
+    "notes": null
+  },
+  "selbst": {
+    "word": "selbst",
+    "lemma": "selbst",
+    "pos": "particle",
+    "meaning": "even",
+    "notes": null
+  },
+  "wilde tiere": {
+    "word": "wilde Tiere",
+    "lemma": "Tier",
+    "pos": "noun",
+    "meaning": "wild animals (nominative plural)",
+    "notes": null
+  },
+  "freude f\\u00fchlen": {
+    "word": "Freude f\\u00fchlen",
+    "lemma": "f\\u00fchlen",
+    "pos": "verb",
+    "meaning": "feel joy",
+    "notes": null
+  },
+  "bleibt davon": {
+    "word": "bleibt davon",
+    "lemma": "bleiben",
+    "pos": "verb",
+    "meaning": "remains unaffected / absent from it",
+    "notes": null
+  },
+  "umsonst": {
+    "word": "Umsonst",
+    "lemma": "umsonst",
+    "pos": "adverb",
+    "meaning": "in vain / futilely",
+    "notes": null
+  },
+  "papagenos ton": {
+    "word": "Papagenos Ton",
+    "lemma": "Ton",
+    "pos": "noun",
+    "meaning": "Papageno's panpipe call",
+    "notes": null
+  },
+  "sah er": {
+    "word": "sah er",
+    "lemma": "sehen",
+    "pos": "verb",
+    "meaning": "saw he (inversion after vielleicht)",
+    "notes": null
+  },
+  "eilt sie": {
+    "word": "eilt sie",
+    "lemma": "eilen",
+    "pos": "verb",
+    "meaning": "hurries she (inversion)",
+    "notes": null
+  },
+  "f\\u00fchrt mich der ton": {
+    "word": "f\\u00fchrt mich der Ton",
+    "lemma": "f\\u00fchren",
+    "pos": "verb",
+    "meaning": "leads me the tone (V2 inversion: verb - object - subject)",
+    "notes": null
+  },
+  "schnelle f\\u00fc\\u00dfe": {
+    "word": "Schnelle F\\u00fc\\u00dfe",
+    "lemma": "Fu\\u00df",
+    "pos": "noun",
+    "meaning": "swift feet (nominative plural)",
+    "notes": null
+  },
+  "rascher mut": {
+    "word": "rascher Mut",
+    "lemma": "Mut",
+    "pos": "noun",
+    "meaning": "quick / resolute courage (masculine)",
+    "notes": null
+  },
+  "feindes": {
+    "word": "Feindes",
+    "lemma": "Feind",
+    "pos": "noun",
+    "meaning": "of the enemy (genitive masculine)",
+    "notes": null
+  },
+  "list": {
+    "word": "List",
+    "lemma": "List",
+    "pos": "noun",
+    "meaning": "cunning / deceit (feminine)",
+    "notes": null
+  },
+  "wut": {
+    "word": "Wut",
+    "lemma": "Wut",
+    "pos": "noun",
+    "meaning": "rage / fury",
+    "notes": null
+  },
+  "f\\u00e4nden wir": {
+    "word": "F\\u00e4nden wir",
+    "lemma": "finden",
+    "pos": "verb",
+    "meaning": "would we find / if we found (subjunctive II inversion)",
+    "notes": null
+  },
+  "erwischen": {
+    "word": "erwischen",
+    "lemma": "erwischen",
+    "pos": "verb",
+    "meaning": "to catch / seize / apprehend",
+    "notes": null
+  },
+  "stille": {
+    "word": "Stille",
+    "lemma": "still",
+    "pos": "adverb",
+    "meaning": "quietly / hush",
+    "notes": null
+  },
+  "kann's besser": {
+    "word": "kann's besser",
+    "lemma": "k\\u00f6nnen",
+    "pos": "idiom",
+    "meaning": "can do it better",
+    "notes": null
+  },
+  "gr\\u00f6\\u00dfer": {
+    "word": "gr\\u00f6\\u00dfer",
+    "lemma": "gro\\u00df",
+    "pos": "adjective",
+    "meaning": "greater (comparative)",
+    "notes": null
+  },
+  "freund": {
+    "word": "Freund",
+    "lemma": "Freund",
+    "pos": "noun",
+    "meaning": "friend (vocative)",
+    "notes": null
+  },
+  "hieher": {
+    "word": "hieher",
+    "lemma": "hierher",
+    "pos": "adverb",
+    "meaning": "hither / towards here",
+    "notes": null
+  },
+  "fl\\u00f6tenton": {
+    "word": "Fl\\u00f6tenton",
+    "lemma": "Fl\\u00f6tenton",
+    "pos": "noun",
+    "meaning": "flute sound",
+    "notes": null
+  },
+  "welch ein gl\\u00fcck": {
+    "word": "Welch ein Gl\\u00fcck",
+    "lemma": "Gl\\u00fcck",
+    "pos": "noun",
+    "meaning": "what happiness / what good luck",
+    "notes": null
+  },
+  "geschwinde": {
+    "word": "geschwinde",
+    "lemma": "geschwind",
+    "pos": "adverb",
+    "meaning": "swiftly / quickly",
+    "notes": null
+  },
+  "hab' ich ... erwischt": {
+    "word": "hab' ich ... erwischt",
+    "lemma": "erwischen",
+    "pos": "verb",
+    "meaning": "have I caught you (perfect tense)",
+    "notes": null
+  },
+  "herbei": {
+    "word": "herbei",
+    "lemma": "herbei",
+    "pos": "adverb",
+    "meaning": "hither / bring forth",
+    "notes": null
+  },
+  "stahl und eisen": {
+    "word": "Stahl und Eisen",
+    "lemma": "Stahl",
+    "pos": "noun",
+    "meaning": "steel and iron (shackles)",
+    "notes": null
+  },
+  "mores weisen": {
+    "word": "Mores weisen",
+    "lemma": "Mores",
+    "pos": "idiom",
+    "meaning": "to teach someone manners / discipline (Latin mores)",
+    "notes": "Historical idiom from Latin 'mores' (customs/morals)."
+  },
+  "den monostatos": {
+    "word": "Den Monostatos",
+    "lemma": "Monostatos",
+    "pos": "noun",
+    "meaning": "Monostatos (accusative object)",
+    "notes": null
+  },
+  "ber\\u00fccken": {
+    "word": "ber\\u00fccken",
+    "lemma": "ber\\u00fccken",
+    "pos": "verb",
+    "meaning": "to outwit / fool / trick",
+    "notes": null
+  },
+  "band": {
+    "word": "Band",
+    "lemma": "Band",
+    "pos": "noun",
+    "meaning": "bonds / cords (neuter)",
+    "notes": null
+  },
+  "stricken": {
+    "word": "Stricken",
+    "lemma": "Strick",
+    "pos": "noun",
+    "meaning": "ropes / cords (dative plural)",
+    "notes": null
+  },
+  "kommt herbei": {
+    "word": "kommt herbei",
+    "lemma": "herbeikommen",
+    "pos": "verb",
+    "meaning": "come hither / gather round",
+    "notes": null
+  },
+  "vorbei": {
+    "word": "vorbei",
+    "lemma": "vorbei",
+    "pos": "adverb",
+    "meaning": "over / finished",
+    "notes": null
+  },
+  "wagt": {
+    "word": "wagt",
+    "lemma": "wagen",
+    "pos": "verb",
+    "meaning": "dares / ventures",
+    "notes": null
+  },
+  "gewinnt": {
+    "word": "gewinnt",
+    "lemma": "gewinnen",
+    "pos": "verb",
+    "meaning": "wins / gains",
+    "notes": null
+  },
+  "glockenspiel": {
+    "word": "Glockenspiel",
+    "lemma": "Glockenspiel",
+    "pos": "noun",
+    "meaning": "glockenspiel / carillon / chime (neuter)",
+    "notes": null
+  },
+  "klingen": {
+    "word": "klingen",
+    "lemma": "klingen",
+    "pos": "verb",
+    "meaning": "to ring / chime",
+    "notes": null
+  },
+  "da\\u00df": {
+    "word": "da\\u00df",
+    "lemma": "dass",
+    "pos": "conjunction",
+    "meaning": "so that (consecutive clause)",
+    "notes": null
+  },
+  "die ohren ihnen singen": {
+    "word": "die Ohren ihnen singen",
+    "lemma": "singen",
+    "pos": "idiom",
+    "meaning": "their ears ring",
+    "notes": null
+  },
+  "klinget": {
+    "word": "klinget",
+    "lemma": "klingen",
+    "pos": "verb",
+    "meaning": "chimes / sounds (archaic -et)",
+    "notes": null
+  },
+  "herrlich": {
+    "word": "herrlich",
+    "lemma": "herrlich",
+    "pos": "adjective",
+    "meaning": "magnificently / wonderfully",
+    "notes": null
+  },
+  "so etwas": {
+    "word": "so etwas",
+    "lemma": "etwas",
+    "pos": "pronoun",
+    "meaning": "such a thing",
+    "notes": null
+  },
+  "geh\\u00f6rt und geseh'n": {
+    "word": "geh\\u00f6rt und geseh'n",
+    "lemma": "h\\u00f6ren",
+    "pos": "verb",
+    "meaning": "heard and seen (perfect participles)",
+    "notes": null
+  },
+  "k\\u00f6nnte": {
+    "word": "K\\u00f6nnte",
+    "lemma": "k\\u00f6nnen",
+    "pos": "verb",
+    "meaning": "could (subjunctive II inversion)",
+    "notes": null
+  },
+  "brave mann": {
+    "word": "brave Mann",
+    "lemma": "brav",
+    "pos": "noun",
+    "meaning": "honest / upright man (masculine)",
+    "notes": null
+  },
+  "solche": {
+    "word": "solche",
+    "lemma": "solcher",
+    "pos": "pronoun",
+    "meaning": "such (accusative plural)",
+    "notes": null
+  },
+  "seine feinde": {
+    "word": "seine Feinde",
+    "lemma": "Feind",
+    "pos": "noun",
+    "meaning": "his enemies (nominative plural)",
+    "notes": null
+  },
+  "w\\u00fcrden": {
+    "word": "w\\u00fcrden",
+    "lemma": "werden",
+    "pos": "verb",
+    "meaning": "would (subjunctive II auxiliary)",
+    "notes": null
+  },
+  "ohne m\\u00fche": {
+    "word": "ohne M\\u00fche",
+    "lemma": "M\\u00fche",
+    "pos": "noun",
+    "meaning": "effortlessly / without trouble",
+    "notes": null
+  },
+  "lebte": {
+    "word": "lebte",
+    "lemma": "leben",
+    "pos": "verb",
+    "meaning": "would live (subjunctive II)",
+    "notes": null
+  },
+  "ohne sie": {
+    "word": "ohne sie",
+    "lemma": "sie",
+    "pos": "pronoun",
+    "meaning": "without them (accusative with ohne)",
+    "notes": null
+  },
+  "besten harmonie": {
+    "word": "besten Harmonie",
+    "lemma": "Harmonie",
+    "pos": "noun",
+    "meaning": "best harmony (dative feminine superlative)",
+    "notes": null
+  },
+  "der freundschaft": {
+    "word": "der Freundschaft",
+    "lemma": "Freundschaft",
+    "pos": "noun",
+    "meaning": "of friendship (pre-nominal genitive)",
+    "notes": null
+  },
+  "mildert": {
+    "word": "mildert",
+    "lemma": "mildern",
+    "pos": "verb",
+    "meaning": "softens / mitigates / alleviates",
+    "notes": null
+  },
+  "beschwerden": {
+    "word": "Beschwerden",
+    "lemma": "Beschwerde",
+    "pos": "noun",
+    "meaning": "grievances / hardships / burdens (plural)",
+    "notes": null
+  },
+  "sympathie": {
+    "word": "Sympathie",
+    "lemma": "Sympathie",
+    "pos": "noun",
+    "meaning": "mutual affinity / sympathy (in the Greek sense: feeling together)",
+    "notes": null
+  },
+  "auf erden": {
+    "word": "auf Erden",
+    "lemma": "Erde",
+    "pos": "noun",
+    "meaning": "on earth (archaic dative singular ending in -n)",
+    "notes": null
+  },
+  "es lebe": {
+    "word": "Es lebe",
+    "lemma": "leben",
+    "pos": "verb",
+    "meaning": "long live (third-person subjunctive I optative)",
+    "notes": null
+  },
+  "bedeuten": {
+    "word": "bedeuten",
+    "lemma": "bedeuten",
+    "pos": "verb",
+    "meaning": "to signify / mean",
+    "notes": null
+  },
+  "um uns getan": {
+    "word": "um uns getan",
+    "lemma": "tun",
+    "pos": "idiom",
+    "meaning": "all over for us / done for",
+    "notes": null
+  },
+  "k\\u00fcndigt ... an": {
+    "word": "k\\u00fcndigt ... an",
+    "lemma": "ank\\u00fcndigen",
+    "pos": "verb",
+    "meaning": "announces / proclaims (separable verb)",
+    "notes": null
+  },
+  "den sarastro": {
+    "word": "den Sarastro",
+    "lemma": "Sarastro",
+    "pos": "noun",
+    "meaning": "Sarastro (accusative with definite article in colloquial/regional German)",
+    "notes": null
+  },
+  "w\\u00e4r' ich": {
+    "word": "w\\u00e4r' ich",
+    "lemma": "sein",
+    "pos": "verb",
+    "meaning": "were I (subjunctive II wish)",
+    "notes": null
+  },
+  "maus": {
+    "word": "Maus",
+    "lemma": "Maus",
+    "pos": "noun",
+    "meaning": "mouse (feminine)",
+    "notes": null
+  },
+  "wollt' ich": {
+    "word": "wollt' ich",
+    "lemma": "wollen",
+    "pos": "verb",
+    "meaning": "would I (subjunctive II inversion)",
+    "notes": null
+  },
+  "mich verstecken": {
+    "word": "mich verstecken",
+    "lemma": "sich verstecken",
+    "pos": "verb",
+    "meaning": "hide myself (reflexive)",
+    "notes": null
+  },
+  "schnecken": {
+    "word": "Schnecken",
+    "lemma": "Schnecke",
+    "pos": "noun",
+    "meaning": "snails (plural)",
+    "notes": null
+  },
+  "kr\\u00f6ch'": {
+    "word": "kr\\u00f6ch'",
+    "lemma": "kriechen",
+    "pos": "verb",
+    "meaning": "would creep / crawl (subjunctive II of kriechen)",
+    "notes": null
+  },
+  "sprechen": {
+    "word": "sprechen",
+    "lemma": "sprechen",
+    "pos": "verb",
+    "meaning": "to speak / say",
+    "notes": null
+  },
+  "wahrheit": {
+    "word": "Wahrheit",
+    "lemma": "Wahrheit",
+    "pos": "noun",
+    "meaning": "truth (feminine)",
+    "notes": null
+  },
+  "sei sie auch": {
+    "word": "sei sie auch",
+    "lemma": "sein",
+    "pos": "idiom",
+    "meaning": "even though it be / even if it were (concessive subjunctive I)",
+    "notes": null
+  },
+  "verbrechen": {
+    "word": "Verbrechen",
+    "lemma": "Verbrechen",
+    "pos": "noun",
+    "meaning": "crime (neuter)",
+    "notes": null
+  },
+  "soll leben": {
+    "word": "soll leben",
+    "lemma": "sollen",
+    "pos": "verb",
+    "meaning": "shall live / long life to him",
+    "notes": null
+  },
+  "dem": {
+    "word": "dem",
+    "lemma": "der",
+    "pos": "pronoun",
+    "meaning": "to whom (dative relative pronoun)",
+    "notes": null
+  },
+  "mit freuden": {
+    "word": "mit Freuden",
+    "lemma": "Freude",
+    "pos": "noun",
+    "meaning": "with joy (archaic dative plural)",
+    "notes": null
+  },
+  "uns ergeben": {
+    "word": "uns ergeben",
+    "lemma": "sich ergeben",
+    "pos": "verb",
+    "meaning": "devote / surrender ourselves (governs dative 'dem')",
+    "notes": null
+  },
+  "m\\u00f6g' er": {
+    "word": "m\\u00f6g' er",
+    "lemma": "m\\u00f6gen",
+    "pos": "verb",
+    "meaning": "may he (optative subjunctive I)",
+    "notes": null
+  },
+  "des lebens": {
+    "word": "des Lebens",
+    "lemma": "Leben",
+    "pos": "noun",
+    "meaning": "in life (genitive object with 'sich freuen')",
+    "notes": null
+  },
+  "als weiser": {
+    "word": "als Weiser",
+    "lemma": "Weise",
+    "pos": "noun",
+    "meaning": "as a wise man / sage",
+    "notes": null
+  },
+  "abgott": {
+    "word": "Abgott",
+    "lemma": "Abgott",
+    "pos": "noun",
+    "meaning": "idol / revered leader (masculine)",
+    "notes": null
+  },
+  "verbrecherin": {
+    "word": "Verbrecherin",
+    "lemma": "Verbrecherin",
+    "pos": "noun",
+    "meaning": "female criminal / wrongdoer (feminine suffix -in)",
+    "notes": null
+  },
+  "deiner macht": {
+    "word": "deiner Macht",
+    "lemma": "Macht",
+    "pos": "noun",
+    "meaning": "your power (dative with 'entfliehen')",
+    "notes": null
+  },
+  "entfliehn": {
+    "word": "entfliehn",
+    "lemma": "entfliehen",
+    "pos": "verb",
+    "meaning": "to escape / flee from",
+    "notes": null
+  },
+  "die schuld ist an mir": {
+    "word": "die Schuld ist an mir",
+    "lemma": "Schuld",
+    "pos": "idiom",
+    "meaning": "the blame lies with me",
+    "notes": null
+  },
+  "b\\u00f6se mohr": {
+    "word": "b\\u00f6se Mohr",
+    "lemma": "Mohr",
+    "pos": "noun",
+    "meaning": "wicked Moor (historical 18th-century term for Monostatos)",
+    "notes": null
+  },
+  "verlangte": {
+    "word": "verlangte",
+    "lemma": "verlangen",
+    "pos": "verb",
+    "meaning": "demanded / required",
+    "notes": null
+  },
+  "entfloh ich dir": {
+    "word": "entfloh ich dir",
+    "lemma": "entfliehen",
+    "pos": "verb",
+    "meaning": "fled I from you (inversion with dative 'dir')",
+    "notes": null
+  },
+  "steh auf": {
+    "word": "Steh auf",
+    "lemma": "aufstehen",
+    "pos": "verb",
+    "meaning": "stand up (separable verb imperative)",
+    "notes": null
+  },
+  "erheit're dich": {
+    "word": "erheit're dich",
+    "lemma": "sich erheitern",
+    "pos": "verb",
+    "meaning": "cheer up / brighten (reflexive imperative)",
+    "notes": null
+  },
+  "ohne ... zu dringen": {
+    "word": "ohne ... zu dringen",
+    "lemma": "dringen",
+    "pos": "verb",
+    "meaning": "without pressing / prying into (infinitive with zu)",
+    "notes": null
+  },
+  "wei\\u00df ich": {
+    "word": "wei\\u00df ich",
+    "lemma": "wissen",
+    "pos": "verb",
+    "meaning": "know I (inversion)",
+    "notes": null
+  },
+  "liebest": {
+    "word": "liebest",
+    "lemma": "lieben",
+    "pos": "verb",
+    "meaning": "love (second person singular ending -est)",
+    "notes": null
+  },
+  "einen ander'n": {
+    "word": "einen ander'n",
+    "lemma": "anderer",
+    "pos": "pronoun",
+    "meaning": "another [man] (accusative masculine)",
+    "notes": null
+  },
+  "zur liebe": {
+    "word": "Zur Liebe",
+    "lemma": "Liebe",
+    "pos": "noun",
+    "meaning": "to love (dative with zu)",
+    "notes": null
+  },
+  "zwingen": {
+    "word": "zwingen",
+    "lemma": "zwingen",
+    "pos": "verb",
+    "meaning": "to compel / force",
+    "notes": null
+  },
+  "geb' ich dir": {
+    "word": "geb' ich dir",
+    "lemma": "geben",
+    "pos": "verb",
+    "meaning": "give I to you (dative pronoun 'dir')",
+    "notes": null
+  },
+  "freiheit": {
+    "word": "Freiheit",
+    "lemma": "Freiheit",
+    "pos": "noun",
+    "meaning": "freedom (accusative)",
+    "notes": null
+  },
+  "rufet": {
+    "word": "rufet",
+    "lemma": "rufen",
+    "pos": "verb",
+    "meaning": "calls (archaic -et)",
+    "notes": null
+  },
+  "kindespflicht": {
+    "word": "Kindespflicht",
+    "lemma": "Kindespflicht",
+    "pos": "noun",
+    "meaning": "filial duty / duty of a child (Kind + Pflicht)",
+    "notes": null
+  },
+  "in meiner macht": {
+    "word": "in meiner Macht",
+    "lemma": "Macht",
+    "pos": "idiom",
+    "meaning": "in my power / jurisdiction",
+    "notes": null
+  },
+  "um etwas bringen": {
+    "word": "um etwas bringen",
+    "lemma": "bringen",
+    "pos": "idiom",
+    "meaning": "to deprive someone of something",
+    "notes": "Passive subjunctive II: 'w\\u00fcrdest um dein Gl\\u00fcck gebracht' = would be cheated of your happiness."
+  },
+  "ihren h\\u00e4nden": {
+    "word": "ihren H\\u00e4nden",
+    "lemma": "Hand",
+    "pos": "noun",
+    "meaning": "to her hands (dative plural)",
+    "notes": null
+  },
+  "lie\\u00dfe": {
+    "word": "lie\\u00dfe",
+    "lemma": "lassen",
+    "pos": "verb",
+    "meaning": "left / surrendered (subjunctive II of lassen)",
+    "notes": null
+  },
+  "der mutter namen": {
+    "word": "der Mutter Namen",
+    "lemma": "Name",
+    "pos": "noun",
+    "meaning": "the mother's name (weak masculine noun 'Name' with -n in nominative/accusative in older German)",
+    "notes": null
+  },
+  "s\\u00fc\\u00dfe": {
+    "word": "s\\u00fc\\u00dfe",
+    "lemma": "s\\u00fc\\u00df",
+    "pos": "adverb",
+    "meaning": "sweetly (archaic adverbial ending -e)",
+    "notes": null
+  },
+  "stolzes weib": {
+    "word": "stolzes Weib",
+    "lemma": "Weib",
+    "pos": "noun",
+    "meaning": "proud / arrogant woman",
+    "notes": null
+  },
+  "leiten": {
+    "word": "leiten",
+    "lemma": "leiten",
+    "pos": "verb",
+    "meaning": "to guide / lead / direct",
+    "notes": null
+  },
+  "pflegt": {
+    "word": "pflegt",
+    "lemma": "pflegen",
+    "pos": "verb",
+    "meaning": "is accustomed / tends to (pflegen + zu + Inf.)",
+    "notes": null
+  },
+  "aus ihrem wirkungskreis": {
+    "word": "aus ihrem Wirkungskreis",
+    "lemma": "Wirkungskreis",
+    "pos": "noun",
+    "meaning": "out of her sphere of influence (dative masculine)",
+    "notes": null
+  },
+  "zu schreiten": {
+    "word": "zu schreiten",
+    "lemma": "schreiten",
+    "pos": "verb",
+    "meaning": "to step / tread",
+    "notes": null
+  },
+  "stolzer j\\u00fcngling": {
+    "word": "stolzer J\\u00fcngling",
+    "lemma": "J\\u00fcngling",
+    "pos": "noun",
+    "meaning": "proud youth (vocative)",
+    "notes": null
+  },
+  "unser herr": {
+    "word": "unser Herr",
+    "lemma": "Herr",
+    "pos": "noun",
+    "meaning": "our master / lord",
+    "notes": null
+  },
+  "kaum": {
+    "word": "kaum",
+    "lemma": "kaum",
+    "pos": "adverb",
+    "meaning": "hardly / scarcely",
+    "notes": null
+  },
+  "schling' ... her": {
+    "word": "schling' ... her",
+    "lemma": "herschlingen",
+    "pos": "verb",
+    "meaning": "entwine around / clasp (optative subjunctive I)",
+    "notes": null
+  },
+  "mein arm": {
+    "word": "mein Arm",
+    "lemma": "Arm",
+    "pos": "noun",
+    "meaning": "my arm (nominative subject)",
+    "notes": null
+  },
+  "wenn ... auch": {
+    "word": "wenn ... auch",
+    "lemma": "wenn",
+    "pos": "conjunction",
+    "meaning": "even if / although",
+    "notes": null
+  },
+  "mein ende w\\u00e4r'": {
+    "word": "mein Ende w\\u00e4r'",
+    "lemma": "sein",
+    "pos": "verb",
+    "meaning": "were my end (subjunctive II)",
+    "notes": null
+  },
+  "was soll das hei\\u00dfen": {
+    "word": "Was soll das hei\\u00dfen",
+    "lemma": "hei\\u00dfen",
+    "pos": "idiom",
+    "meaning": "what is the meaning of this",
+    "notes": null
+  },
+  "dreistigkeit": {
+    "word": "Dreistigkeit",
+    "lemma": "Dreistigkeit",
+    "pos": "noun",
+    "meaning": "audacity / brazenness / insolence (feminine)",
+    "notes": null
+  },
+  "auseinander": {
+    "word": "auseinander",
+    "lemma": "auseinander",
+    "pos": "adverb",
+    "meaning": "apart / separate from each other",
+    "notes": null
+  },
+  "das geht zu weit": {
+    "word": "das geht zu weit",
+    "lemma": "gehen",
+    "pos": "idiom",
+    "meaning": "that goes too far",
+    "notes": null
+  },
+  "zu deinen f\\u00fc\\u00dfen": {
+    "word": "zu deinen F\\u00fc\\u00dfen",
+    "lemma": "Fu\\u00df",
+    "pos": "noun",
+    "meaning": "at your feet (dative plural)",
+    "notes": null
+  },
+  "verweg'nen": {
+    "word": "verweg'nen",
+    "lemma": "verwegen",
+    "pos": "adjective",
+    "meaning": "audacious / insolent / daring",
+    "notes": null
+  },
+  "frevler": {
+    "word": "Frevler",
+    "lemma": "Frevler",
+    "pos": "noun",
+    "meaning": "culprit / transgressor / blasphemer",
+    "notes": null
+  },
+  "b\\u00fc\\u00dfen": {
+    "word": "b\\u00fc\\u00dfen",
+    "lemma": "b\\u00fc\\u00dfen",
+    "pos": "verb",
+    "meaning": "to atone / pay the penalty",
+    "notes": null
+  },
+  "frech": {
+    "word": "frech",
+    "lemma": "frech",
+    "pos": "adjective",
+    "meaning": "insolent / impudent / brazen",
+    "notes": null
+  },
+  "dieses selt'nen vogels": {
+    "word": "dieses selt'nen Vogels",
+    "lemma": "Vogel",
+    "pos": "noun",
+    "meaning": "of this rare bird (genitive masculine)",
+    "notes": null
+  },
+  "dir entf\\u00fchren": {
+    "word": "dir entf\\u00fchren",
+    "lemma": "entf\\u00fchren",
+    "pos": "verb",
+    "meaning": "abduct from you (dative of disadvantage 'dir')",
+    "notes": null
+  },
+  "wu\\u00dft'": {
+    "word": "wu\\u00dft'",
+    "lemma": "wissen",
+    "pos": "verb",
+    "meaning": "knew how (past tense)",
+    "notes": null
+  },
+  "aufzusp\\u00fcren": {
+    "word": "aufzusp\\u00fcren",
+    "lemma": "aufsp\\u00fcren",
+    "pos": "verb",
+    "meaning": "to track down / detect (separable infinitive with zu)",
+    "notes": null
+  },
+  "wachsamkeit": {
+    "word": "Wachsamkeit",
+    "lemma": "Wachsamkeit",
+    "pos": "noun",
+    "meaning": "vigilance / alertness (feminine)",
+    "notes": null
+  },
+  "lorbeer": {
+    "word": "Lorbeer",
+    "lemma": "Lorbeer",
+    "pos": "noun",
+    "meaning": "laurel (masculine)",
+    "notes": null
+  },
+  "streut": {
+    "word": "streut",
+    "lemma": "streuen",
+    "pos": "verb",
+    "meaning": "scatters / strews",
+    "notes": null
+  },
+  "dem ehrenmann": {
+    "word": "dem Ehrenmann",
+    "lemma": "Ehrenmann",
+    "pos": "noun",
+    "meaning": "to the honorable man (ironic dative)",
+    "notes": null
+  },
+  "deine gnade": {
+    "word": "deine Gnade",
+    "lemma": "Gnade",
+    "pos": "noun",
+    "meaning": "your mercy / favor",
+    "notes": null
+  },
+  "sieben und siebenzig": {
+    "word": "sieben und siebenzig",
+    "lemma": "siebenundsiebzig",
+    "pos": "noun",
+    "meaning": "seventy-seven",
+    "notes": null
+  },
+  "sohlenstreich'": {
+    "word": "Sohlenstreich'",
+    "lemma": "Sohlenstreich",
+    "pos": "noun",
+    "meaning": "strokes on the soles of the feet (bastinado punishment)",
+    "notes": null
+  },
+  "lohn": {
+    "word": "Lohn",
+    "lemma": "Lohn",
+    "pos": "noun",
+    "meaning": "reward / wages (accusative masculine)",
+    "notes": null
+  },
+  "verhofft'": {
+    "word": "verhofft'",
+    "lemma": "verhoffen",
+    "pos": "verb",
+    "meaning": "expected / hoped for",
+    "notes": null
+  },
+  "nicht dank": {
+    "word": "Nicht Dank",
+    "lemma": "Dank",
+    "pos": "noun",
+    "meaning": "no thanks [are needed]",
+    "notes": null
+  },
+  "g\\u00f6ttliche weise": {
+    "word": "g\\u00f6ttliche Weise",
+    "lemma": "Weise",
+    "pos": "noun",
+    "meaning": "divine wise man",
+    "notes": null
+  },
+  "lohnet": {
+    "word": "lohnet",
+    "lemma": "lohnen",
+    "pos": "verb",
+    "meaning": "rewards / recompenses",
+    "notes": null
+  },
+  "strafet": {
+    "word": "strafet",
+    "lemma": "strafen",
+    "pos": "verb",
+    "meaning": "punishes / chastises",
+    "notes": null
+  },
+  "in \\u00e4hnlichem kreise": {
+    "word": "in \\u00e4hnlichem Kreise",
+    "lemma": "Kreis",
+    "pos": "idiom",
+    "meaning": "with equal justice / in like proportion",
+    "notes": null
+  },
+  "fremdlinge": {
+    "word": "Fremdlinge",
+    "lemma": "Fremdling",
+    "pos": "noun",
+    "meaning": "strangers / foreigners (accusative plural)",
+    "notes": null
+  },
+  "einf\\u00fchren in": {
+    "word": "einf\\u00fchren in",
+    "lemma": "einf\\u00fchren",
+    "pos": "verb",
+    "meaning": "lead into / introduce / usher in",
+    "notes": null
+  },
+  "pr\\u00fcfungstempel": {
+    "word": "Pr\\u00fcfungstempel",
+    "lemma": "Pr\\u00fcfungstempel",
+    "pos": "noun",
+    "meaning": "temple of trials / probation",
+    "notes": null
+  },
+  "bedecket": {
+    "word": "bedecket",
+    "lemma": "bedecken",
+    "pos": "verb",
+    "meaning": "cover / veil (imperative plural)",
+    "notes": null
+  },
+  "h\\u00e4upter": {
+    "word": "H\\u00e4upter",
+    "lemma": "Haupt",
+    "pos": "noun",
+    "meaning": "heads (elevated/poetic plural of Haupt)",
+    "notes": null
+  },
+  "erst": {
+    "word": "erst",
+    "lemma": "erst",
+    "pos": "adverb",
+    "meaning": "first / beforehand",
+    "notes": null
+  },
+  "gereinigt sein": {
+    "word": "gereinigt sein",
+    "lemma": "reinigen",
+    "pos": "verb",
+    "meaning": "be purified (stative passive)",
+    "notes": null
+  },
+  "tugend": {
+    "word": "Tugend",
+    "lemma": "Tugend",
+    "pos": "noun",
+    "meaning": "virtue (feminine)",
+    "notes": null
+  },
+  "gerechtigkeit": {
+    "word": "Gerechtigkeit",
+    "lemma": "Gerechtigkeit",
+    "pos": "noun",
+    "meaning": "justice / righteousness (feminine)",
+    "notes": null
+  },
+  "den gro\\u00dfen pfad": {
+    "word": "den Gro\\u00dfen Pfad",
+    "lemma": "Pfad",
+    "pos": "noun",
+    "meaning": "the great path (accusative masculine)",
+    "notes": null
+  },
+  "ruhm": {
+    "word": "Ruhm",
+    "lemma": "Ruhm",
+    "pos": "noun",
+    "meaning": "glory / fame (masculine)",
+    "notes": null
+  },
+  "bestreu'n": {
+    "word": "bestreu'n",
+    "lemma": "bestreuen",
+    "pos": "verb",
+    "meaning": "to strew / scatter over",
+    "notes": null
+  },
+  "erd'": {
+    "word": "Erd'",
+    "lemma": "Erde",
+    "pos": "noun",
+    "meaning": "earth (feminine)",
+    "notes": null
+  },
+  "himmelreich": {
+    "word": "Himmelreich",
+    "lemma": "Himmelreich",
+    "pos": "noun",
+    "meaning": "kingdom of heaven (Himmel + Reich)",
+    "notes": null
+  },
+  "sterbliche": {
+    "word": "Sterbliche",
+    "lemma": "sterblich",
+    "pos": "noun",
+    "meaning": "mortals (substantivized adjective plural)",
+    "notes": null
+  },
+  "den g\\u00f6ttern": {
+    "word": "den G\\u00f6ttern",
+    "lemma": "Gott",
+    "pos": "noun",
+    "meaning": "to the gods (dative plural with 'gleich')",
+    "notes": null
+  },
+  "schenket": {
+    "word": "schenket",
+    "lemma": "schenken",
+    "pos": "verb",
+    "meaning": "grant / bestow (elevated plural imperative with -et)",
+    "notes": null
+  },
+  "der weisheit": {
+    "word": "der Weisheit",
+    "lemma": "Weisheit",
+    "pos": "noun",
+    "meaning": "of wisdom (genitive feminine)",
+    "notes": null
+  },
+  "geist": {
+    "word": "Geist",
+    "lemma": "Geist",
+    "pos": "noun",
+    "meaning": "spirit / mind (accusative masculine)",
+    "notes": null
+  },
+  "dem neuen paar": {
+    "word": "dem neuen Paar",
+    "lemma": "Paar",
+    "pos": "noun",
+    "meaning": "to the new couple (dative neuter)",
+    "notes": null
+  },
+  "die ihr": {
+    "word": "Die ihr",
+    "lemma": "der",
+    "pos": "pronoun",
+    "meaning": "you who (relative pronoun with personal pronoun in vocative/doxological address)",
+    "notes": null
+  },
+  "schritte": {
+    "word": "Schritte",
+    "lemma": "Schritt",
+    "pos": "noun",
+    "meaning": "steps (accusative plural)",
+    "notes": null
+  },
+  "der wand'rer": {
+    "word": "der Wand'rer",
+    "lemma": "Wanderer",
+    "pos": "noun",
+    "meaning": "of the wanderers / seekers (genitive plural)",
+    "notes": null
+  },
+  "lenket": {
+    "word": "lenket",
+    "lemma": "lenken",
+    "pos": "verb",
+    "meaning": "guide / steer (second person plural -et)",
+    "notes": null
+  },
+  "st\\u00e4rkt": {
+    "word": "st\\u00e4rkt",
+    "lemma": "st\\u00e4rken",
+    "pos": "verb",
+    "meaning": "strengthen (imperative plural)",
+    "notes": null
+  },
+  "mit geduld": {
+    "word": "mit Geduld",
+    "lemma": "Geduld",
+    "pos": "noun",
+    "meaning": "with patience (dative feminine)",
+    "notes": null
+  },
+  "gefahr": {
+    "word": "Gefahr",
+    "lemma": "Gefahr",
+    "pos": "noun",
+    "meaning": "danger",
+    "notes": null
+  },
+  "der pr\\u00fcfung fr\\u00fcchte": {
+    "word": "der Pr\\u00fcfung Fr\\u00fcchte",
+    "lemma": "Frucht",
+    "pos": "noun",
+    "meaning": "the fruits of the trial (pre-nominal genitive)",
+    "notes": null
+  },
+  "sollten sie": {
+    "word": "sollten sie",
+    "lemma": "sollen",
+    "pos": "verb",
+    "meaning": "should they (conditional inversion)",
+    "notes": null
+  },
+  "zu grabe gehen": {
+    "word": "zu Grabe gehen",
+    "lemma": "Grab",
+    "pos": "idiom",
+    "meaning": "go to the grave / perish",
+    "notes": null
+  },
+  "lohnt": {
+    "word": "lohnt",
+    "lemma": "lohnen",
+    "pos": "verb",
+    "meaning": "reward / recompense (imperative)",
+    "notes": null
+  },
+  "der tugend k\\u00fchnen lauf": {
+    "word": "der Tugend k\\u00fchnen Lauf",
+    "lemma": "Lauf",
+    "pos": "noun",
+    "meaning": "virtue's bold course (pre-nominal genitive)",
+    "notes": null
+  },
+  "aufnehmen in": {
+    "word": "aufnehmen in",
+    "lemma": "aufnehmen",
+    "pos": "verb",
+    "meaning": "admit / receive into (separable verb imperative)",
+    "notes": null
+  },
+  "wohnsitz": {
+    "word": "Wohnsitz",
+    "lemma": "Wohnsitz",
+    "pos": "noun",
+    "meaning": "dwelling / abode (masculine)",
+    "notes": null
+  },
+  "bewahret euch": {
+    "word": "Bewahret euch",
+    "lemma": "sich bewahren",
+    "pos": "verb",
+    "meaning": "guard yourselves (reflexive imperative)",
+    "notes": null
+  },
+  "vor weibert\\u00fccken": {
+    "word": "vor Weibert\\u00fccken",
+    "lemma": "Weibert\\u00fccke",
+    "pos": "noun",
+    "meaning": "against women's malice / wiles (dative plural with 'vor')",
+    "notes": null
+  },
+  "des bundes": {
+    "word": "des Bundes",
+    "lemma": "Bund",
+    "pos": "noun",
+    "meaning": "of the covenant / brotherhood (genitive masculine)",
+    "notes": null
+  },
+  "manch weiser mann": {
+    "word": "manch weiser Mann",
+    "lemma": "Mann",
+    "pos": "noun",
+    "meaning": "many a wise man (uninflected 'manch' + weak adjective)",
+    "notes": null
+  },
+  "fehlte": {
+    "word": "fehlte",
+    "lemma": "fehlen",
+    "pos": "verb",
+    "meaning": "erred / went astray",
+    "notes": null
+  },
+  "sich versehen": {
+    "word": "sich versehen",
+    "lemma": "sich versehen",
+    "pos": "idiom",
+    "meaning": "to expect / be aware of (ehe man sich's versieht)",
+    "notes": null
+  },
+  "verlassen": {
+    "word": "Verlassen",
+    "lemma": "verlassen",
+    "pos": "adjective",
+    "meaning": "abandoned / deserted (past participle fronted)",
+    "notes": null
+  },
+  "vergolten": {
+    "word": "vergolten",
+    "lemma": "vergelten",
+    "pos": "verb",
+    "meaning": "repaid / requited (past participle with ellipsis of 'war')",
+    "notes": null
+  },
+  "treu'": {
+    "word": "Treu'",
+    "lemma": "Treue",
+    "pos": "noun",
+    "meaning": "faithfulness / fidelity",
+    "notes": null
+  },
+  "hohn": {
+    "word": "Hohn",
+    "lemma": "Hohn",
+    "pos": "noun",
+    "meaning": "scorn / mockery",
+    "notes": null
+  },
+  "rang": {
+    "word": "rang",
+    "lemma": "ringen",
+    "pos": "verb",
+    "meaning": "wrung (past tense of ringen)",
+    "notes": null
+  },
+  "verzweiflung": {
+    "word": "Verzweiflung",
+    "lemma": "Verzweiflung",
+    "pos": "noun",
+    "meaning": "despair (feminine)",
+    "notes": null
+  },
+  "schreckensort": {
+    "word": "Schreckensort",
+    "lemma": "Schreckensort",
+    "pos": "noun",
+    "meaning": "place of dread / horror (Schrecken + Ort)",
+    "notes": null
+  },
+  "fortkommen": {
+    "word": "fortkommen",
+    "lemma": "fortkommen",
+    "pos": "verb",
+    "meaning": "get away / escape (separable verb)",
+    "notes": null
+  },
+  "gl\\u00fccklich": {
+    "word": "gl\\u00fccklich",
+    "lemma": "gl\\u00fccklich",
+    "pos": "adverb",
+    "meaning": "safely / successfully",
+    "notes": null
+  },
+  "geschworen": {
+    "word": "geschworen",
+    "lemma": "schw\\u00f6ren",
+    "pos": "verb",
+    "meaning": "sworn (passive participle)",
+    "notes": null
+  },
+  "w\\u00e4r'": {
+    "word": "w\\u00e4r'",
+    "lemma": "sein",
+    "pos": "verb",
+    "meaning": "would be (subjunctive II)",
+    "notes": null
+  },
+  "zuviel": {
+    "word": "zuviel",
+    "lemma": "zu viel",
+    "pos": "adverb",
+    "meaning": "too much",
+    "notes": null
+  },
+  "schweige still": {
+    "word": "schweige still",
+    "lemma": "stillschweigen",
+    "pos": "verb",
+    "meaning": "be silent / hold your tongue (imperative)",
+    "notes": null
+  },
+  "gel\\u00fcbde": {
+    "word": "Gel\\u00fcbde",
+    "lemma": "Gel\\u00fcbde",
+    "pos": "noun",
+    "meaning": "solemn vow (neuter)",
+    "notes": null
+  },
+  "brechen": {
+    "word": "brechen",
+    "lemma": "brechen",
+    "pos": "verb",
+    "meaning": "to break",
+    "notes": null
+  },
+  "mit weibern": {
+    "word": "mit Weibern",
+    "lemma": "Weib",
+    "pos": "noun",
+    "meaning": "with women (dative plural with -ern)",
+    "notes": null
+  },
+  "sie soll ... sein": {
+    "word": "sie soll ... sein",
+    "lemma": "sollen",
+    "pos": "verb",
+    "meaning": "she is said / reported to be (hearsay modal)",
+    "notes": null
+  },
+  "vermessen": {
+    "word": "vermessen",
+    "lemma": "vermessen",
+    "pos": "adjective",
+    "meaning": "presumptuous / reckless / audacious",
+    "notes": null
+  },
+  "eidespflicht": {
+    "word": "Eidespflicht",
+    "lemma": "Eidespflicht",
+    "pos": "noun",
+    "meaning": "duty bound by oath",
+    "notes": null
+  },
+  "gedenke an": {
+    "word": "Gedenke an",
+    "lemma": "gedenken",
+    "pos": "verb",
+    "meaning": "remember / call to mind (imperative with an + Akk.)",
+    "notes": null
+  },
+  "zischelt": {
+    "word": "zischelt",
+    "lemma": "zischeln",
+    "pos": "verb",
+    "meaning": "whispers / hisses",
+    "notes": null
+  },
+  "dieser priester": {
+    "word": "dieser Priester",
+    "lemma": "Priester",
+    "pos": "noun",
+    "meaning": "of these priests (genitive plural)",
+    "notes": null
+  },
+  "falschem sinn": {
+    "word": "falschem Sinn",
+    "lemma": "Sinn",
+    "pos": "noun",
+    "meaning": "deceitful intention / treachery (dative masculine with 'von')",
+    "notes": null
+  },
+  "pr\\u00fcft": {
+    "word": "pr\\u00fcft",
+    "lemma": "pr\\u00fcfen",
+    "pos": "verb",
+    "meaning": "examines / tests",
+    "notes": null
+  },
+  "achtet nicht": {
+    "word": "achtet nicht",
+    "lemma": "achten",
+    "pos": "verb",
+    "meaning": "pays no heed (governs auf/genitive)",
+    "notes": null
+  },
+  "gemeine p\\u00f6bel": {
+    "word": "gemeine P\\u00f6bel",
+    "lemma": "P\\u00f6bel",
+    "pos": "noun",
+    "meaning": "vulgar mob / common rabble (masculine)",
+    "notes": null
+  },
+  "unerh\\u00f6rt": {
+    "word": "Unerh\\u00f6rt",
+    "lemma": "unerh\\u00f6rt",
+    "pos": "adjective",
+    "meaning": "scandalous / unheard of",
+    "notes": null
+  },
+  "geschw\\u00e4tz": {
+    "word": "Geschw\\u00e4tz",
+    "lemma": "Geschw\\u00e4tz",
+    "pos": "noun",
+    "meaning": "idle talk / gossip / chatter (neuter)",
+    "notes": null
+  },
+  "weibersinn": {
+    "word": "Weibersinn",
+    "lemma": "Weibersinn",
+    "pos": "noun",
+    "meaning": "woman's fickle disposition (Weib + Sinn)",
+    "notes": null
+  },
+  "sei dir genug": {
+    "word": "sei dir genug",
+    "lemma": "sein",
+    "pos": "verb",
+    "meaning": "let it be enough for you (subjunctive I jussive)",
+    "notes": null
+  },
+  "spr\\u00f6de": {
+    "word": "spr\\u00f6de",
+    "lemma": "spr\\u00f6de",
+    "pos": "adjective",
+    "meaning": "aloof / cold / unyielding",
+    "notes": null
+  },
+  "plaudern": {
+    "word": "Plaudern",
+    "lemma": "plaudern",
+    "pos": "noun",
+    "meaning": "chattering / babbling (substantivized neuter)",
+    "notes": null
+  },
+  "lassen": {
+    "word": "lassen",
+    "lemma": "lassen",
+    "pos": "verb",
+    "meaning": "to cease / refrain from",
+    "notes": null
+  },
+  "schand'": {
+    "word": "Schand'",
+    "lemma": "Schande",
+    "pos": "noun",
+    "meaning": "disgrace / shame (feminine)",
+    "notes": null
+  },
+  "scham": {
+    "word": "Scham",
+    "lemma": "Scham",
+    "pos": "noun",
+    "meaning": "shame / mortification (feminine)",
+    "notes": null
+  },
+  "keiner": {
+    "word": "keiner",
+    "lemma": "kein",
+    "pos": "pronoun",
+    "meaning": "none / not one",
+    "notes": null
+  },
+  "festem geiste": {
+    "word": "festem Geiste",
+    "lemma": "Geist",
+    "pos": "noun",
+    "meaning": "resolute / firm spirit (dative masculine with 'von')",
+    "notes": null
+  },
+  "denket": {
+    "word": "denket",
+    "lemma": "denken",
+    "pos": "verb",
+    "meaning": "thinks / deliberates (archaic -et)",
+    "notes": null
+  },
+  "entweiht": {
+    "word": "Entweiht",
+    "lemma": "entweihen",
+    "pos": "verb",
+    "meaning": "desecrated / profaned (past participle fronted)",
+    "notes": null
+  },
+  "schwelle": {
+    "word": "Schwelle",
+    "lemma": "Schwelle",
+    "pos": "noun",
+    "meaning": "threshold (feminine subject)",
+    "notes": null
+  },
+  "hinab": {
+    "word": "Hinab",
+    "lemma": "hinab",
+    "pos": "adverb",
+    "meaning": "down / downward",
+    "notes": null
+  },
+  "alles": {
+    "word": "Alles",
+    "lemma": "alles",
+    "pos": "pronoun",
+    "meaning": "everything / all beings (nominative neuter subject)",
+    "notes": null
+  },
+  "der liebe freuden": {
+    "word": "der Liebe Freuden",
+    "lemma": "Freude",
+    "pos": "noun",
+    "meaning": "joys of love (pre-nominal genitive)",
+    "notes": null
+  },
+  "ein schwarzer": {
+    "word": "ein Schwarzer",
+    "lemma": "schwarz",
+    "pos": "noun",
+    "meaning": "a black man (substantivized adjective)",
+    "notes": null
+  },
+  "h\\u00e4\\u00dflich": {
+    "word": "h\\u00e4\\u00dflich",
+    "lemma": "h\\u00e4sslich",
+    "pos": "adjective",
+    "meaning": "ugly",
+    "notes": null
+  },
+  "weil ich lebe": {
+    "word": "weil ich lebe",
+    "lemma": "leben",
+    "pos": "verb",
+    "meaning": "because I live / as long as I live",
+    "notes": null
+  },
+  "verdrie\\u00dfen": {
+    "word": "verdrie\\u00dfen",
+    "lemma": "verdrie\\u00dfen",
+    "pos": "verb",
+    "meaning": "to vex / displease / annoy (governs accusative 'dich')",
+    "notes": null
+  },
+  "zumachen": {
+    "word": "zumachen",
+    "lemma": "zumachen",
+    "pos": "verb",
+    "meaning": "to close / shut (separable imperative: 'mach ... zu')",
+    "notes": null
+  },
+  "der h\\u00f6lle rache": {
+    "word": "Der H\\u00f6lle Rache",
+    "lemma": "Rache",
+    "pos": "noun",
+    "meaning": "hell's vengeance (pre-nominal genitive feminine)",
+    "notes": null
+  },
+  "kocht": {
+    "word": "kocht",
+    "lemma": "kochen",
+    "pos": "verb",
+    "meaning": "boils / seethes",
+    "notes": null
+  },
+  "in meinem herzen": {
+    "word": "in meinem Herzen",
+    "lemma": "Herz",
+    "pos": "noun",
+    "meaning": "in my heart (dative neuter)",
+    "notes": null
+  },
+  "flammet": {
+    "word": "flammet",
+    "lemma": "flammen",
+    "pos": "verb",
+    "meaning": "blazes / burns",
+    "notes": null
+  },
+  "um mich her": {
+    "word": "um mich her",
+    "lemma": "umher",
+    "pos": "adverb",
+    "meaning": "all around me",
+    "notes": null
+  },
+  "f\\u00fchlt nicht": {
+    "word": "F\\u00fchlt nicht",
+    "lemma": "f\\u00fchlen",
+    "pos": "verb",
+    "meaning": "feels not (conditional inversion)",
+    "notes": null
+  },
+  "todesschmerzen": {
+    "word": "Todesschmerzen",
+    "lemma": "Todesschmerz",
+    "pos": "noun",
+    "meaning": "pangs of death / agony of death (plural)",
+    "notes": null
+  },
+  "versto\\u00dfen sei": {
+    "word": "Versto\\u00dfen sei",
+    "lemma": "versto\\u00dfen",
+    "pos": "verb",
+    "meaning": "be cast off / repudiated (subjunctive I passive imperative)",
+    "notes": null
+  },
+  "verlassen sei": {
+    "word": "verlassen sei",
+    "lemma": "verlassen",
+    "pos": "verb",
+    "meaning": "be abandoned",
+    "notes": null
+  },
+  "zertr\\u00fcmmert": {
+    "word": "zertr\\u00fcmmert",
+    "lemma": "zertr\\u00fcmmern",
+    "pos": "verb",
+    "meaning": "shattered / smashed to pieces (prefix zer- denotes destructive dispersion)",
+    "notes": null
+  },
+  "alle bande": {
+    "word": "alle Bande",
+    "lemma": "Band",
+    "pos": "noun",
+    "meaning": "all bonds / ties (nominative plural)",
+    "notes": null
+  },
+  "heil'gen hallen": {
+    "word": "heil'gen Hallen",
+    "lemma": "Halle",
+    "pos": "noun",
+    "meaning": "sacred halls (dative plural with 'in')",
+    "notes": null
+  },
+  "kennt man ... nicht": {
+    "word": "kennt man ... nicht",
+    "lemma": "kennen",
+    "pos": "verb",
+    "meaning": "one does not know / is unfamiliar with",
+    "notes": null
+  },
+  "gefallen": {
+    "word": "gefallen",
+    "lemma": "fallen",
+    "pos": "verb",
+    "meaning": "fallen / stumbled into error (past participle)",
+    "notes": null
+  },
+  "zur pflicht": {
+    "word": "zur Pflicht",
+    "lemma": "Pflicht",
+    "pos": "noun",
+    "meaning": "to duty",
+    "notes": null
+  },
+  "wandelt": {
+    "word": "wandelt",
+    "lemma": "wandeln",
+    "pos": "verb",
+    "meaning": "walks / wanders (elevated/poetic)",
+    "notes": null
+  },
+  "an freundes hand": {
+    "word": "an Freundes Hand",
+    "lemma": "Freund",
+    "pos": "noun",
+    "meaning": "guided by a friend's hand (genitive singular without article)",
+    "notes": null
+  },
+  "heil'gen mauern": {
+    "word": "heil'gen Mauern",
+    "lemma": "Mauer",
+    "pos": "noun",
+    "meaning": "sacred walls",
+    "notes": null
+  },
+  "verr\\u00e4ter": {
+    "word": "Verr\\u00e4ter",
+    "lemma": "Verr\\u00e4ter",
+    "pos": "noun",
+    "meaning": "traitor / betrayer",
+    "notes": null
+  },
+  "lauern": {
+    "word": "lauern",
+    "lemma": "lauern",
+    "pos": "verb",
+    "meaning": "to lurk / lie in wait",
+    "notes": null
+  },
+  "dem feind": {
+    "word": "dem Feind",
+    "lemma": "Feind",
+    "pos": "noun",
+    "meaning": "the enemy (dative with 'vergeben')",
+    "notes": null
+  },
+  "vergibt": {
+    "word": "vergibt",
+    "lemma": "vergeben",
+    "pos": "verb",
+    "meaning": "forgives (verb-final with weil)",
+    "notes": null
+  },
+  "verdienet": {
+    "word": "verdienet",
+    "lemma": "verdienen",
+    "pos": "verb",
+    "meaning": "deserves (archaic -et)",
+    "notes": null
+  },
+  "ein mensch zu sein": {
+    "word": "ein Mensch zu sein",
+    "lemma": "Mensch",
+    "pos": "noun",
+    "meaning": "to be a human being",
+    "notes": null
+  },
+  "seid": {
+    "word": "Seid",
+    "lemma": "sein",
+    "pos": "verb",
+    "meaning": "be (plural imperative)",
+    "notes": null
+  },
+  "zum zweiten mal": {
+    "word": "zum zweiten Mal",
+    "lemma": "Mal",
+    "pos": "idiom",
+    "meaning": "for the second time",
+    "notes": null
+  },
+  "willkommen": {
+    "word": "willkommen",
+    "lemma": "willkommen",
+    "pos": "adjective",
+    "meaning": "welcome",
+    "notes": null
+  },
+  "abgenommen": {
+    "word": "abgenommen",
+    "lemma": "abnehmen",
+    "pos": "verb",
+    "meaning": "took away / confiscated (governs dative 'euch')",
+    "notes": null
+  },
+  "die fl\\u00f6te": {
+    "word": "die Fl\\u00f6te",
+    "lemma": "Fl\\u00f6te",
+    "pos": "noun",
+    "meaning": "the flute",
+    "notes": null
+  },
+  "die gl\\u00f6ckchen": {
+    "word": "die Gl\\u00f6ckchen",
+    "lemma": "Gl\\u00f6ckchen",
+    "pos": "noun",
+    "meaning": "the bells",
+    "notes": null
+  },
+  "verschm\\u00e4hen": {
+    "word": "verschm\\u00e4hen",
+    "lemma": "verschm\\u00e4hen",
+    "pos": "verb",
+    "meaning": "to disdain / spurn",
+    "notes": null
+  },
+  "esset, trinket": {
+    "word": "esset, trinket",
+    "lemma": "essen",
+    "pos": "verb",
+    "meaning": "eat, drink (plural imperative with -et)",
+    "notes": null
+  },
+  "eures mutes": {
+    "word": "eures Mutes",
+    "lemma": "Mut",
+    "pos": "noun",
+    "meaning": "of your courage (genitive masculine)",
+    "notes": null
+  },
+  "mut": {
+    "word": "Mut",
+    "lemma": "Mut",
+    "pos": "noun",
+    "meaning": "courage (exclamation)",
+    "notes": null
+  },
+  "nah ist das ziel": {
+    "word": "Nah ist das Ziel",
+    "lemma": "Ziel",
+    "pos": "noun",
+    "meaning": "the goal is near (inversion)",
+    "notes": null
+  },
+  "f\\u00fchl's": {
+    "word": "f\\u00fchl's",
+    "lemma": "f\\u00fchlen",
+    "pos": "verb",
+    "meaning": "feel it (f\\u00fchle es)",
+    "notes": null
+  },
+  "verschwunden": {
+    "word": "verschwunden",
+    "lemma": "verschwinden",
+    "pos": "verb",
+    "meaning": "disappeared / vanished (past participle)",
+    "notes": null
+  },
+  "zur\\u00fcckkommen": {
+    "word": "zur\\u00fcckkommen",
+    "lemma": "zur\\u00fcckkommen",
+    "pos": "verb",
+    "meaning": "to return (separable verb)",
+    "notes": null
+  },
+  "meinem herzen": {
+    "word": "meinem Herzen",
+    "lemma": "Herz",
+    "pos": "noun",
+    "meaning": "to my heart (dative)",
+    "notes": null
+  },
+  "sieh": {
+    "word": "Sieh",
+    "lemma": "sehen",
+    "pos": "verb",
+    "meaning": "see / behold (imperative singular e -> ie)",
+    "notes": null
+  },
+  "diese tr\\u00e4nen": {
+    "word": "diese Tr\\u00e4nen",
+    "lemma": "Tr\\u00e4ne",
+    "pos": "noun",
+    "meaning": "these tears (accusative plural)",
+    "notes": null
+  },
+  "im tode": {
+    "word": "im Tode",
+    "lemma": "Tod",
+    "pos": "noun",
+    "meaning": "in death",
+    "notes": null
+  },
+  "welche wonne": {
+    "word": "welche Wonne",
+    "lemma": "Wonne",
+    "pos": "noun",
+    "meaning": "what bliss / delight (exclamation)",
+    "notes": null
+  },
+  "edle j\\u00fcngling": {
+    "word": "edle J\\u00fcngling",
+    "lemma": "J\\u00fcngling",
+    "pos": "noun",
+    "meaning": "noble youth (nominative subject)",
+    "notes": null
+  },
+  "neues leben": {
+    "word": "neues Leben",
+    "lemma": "Leben",
+    "pos": "noun",
+    "meaning": "new life (accusative object)",
+    "notes": null
+  },
+  "k\\u00fchn": {
+    "word": "k\\u00fchn",
+    "lemma": "k\\u00fchn",
+    "pos": "adjective",
+    "meaning": "bold / brave / daring",
+    "notes": null
+  },
+  "unser": {
+    "word": "unser",
+    "lemma": "wir",
+    "pos": "pronoun",
+    "meaning": "of us (genitive plural pronoun with 'w\\u00fcrdig')",
+    "notes": null
+  },
+  "w\\u00fcrdig": {
+    "word": "w\\u00fcrdig",
+    "lemma": "w\\u00fcrdig",
+    "pos": "adjective",
+    "meaning": "worthy (governs genitive)",
+    "notes": null
+  },
+  "teurer": {
+    "word": "Teurer",
+    "lemma": "teuer",
+    "pos": "noun",
+    "meaning": "beloved / dear one (substantivized adjective vocative)",
+    "notes": null
+  },
+  "nicht mehr": {
+    "word": "nicht mehr",
+    "lemma": "mehr",
+    "pos": "adverb",
+    "meaning": "no more / no longer",
+    "notes": null
+  },
+  "dein": {
+    "word": "Dein",
+    "lemma": "du",
+    "pos": "pronoun",
+    "meaning": "for you (archaic genitive pronoun with 'warten')",
+    "notes": null
+  },
+  "warten": {
+    "word": "warten",
+    "lemma": "warten",
+    "pos": "verb",
+    "meaning": "await (archaic syntax: jemandes warten = to await someone)",
+    "notes": null
+  },
+  "t\\u00f6dliche gefahren": {
+    "word": "t\\u00f6dliche Gefahren",
+    "lemma": "Gefahr",
+    "pos": "noun",
+    "meaning": "deadly dangers (nominative plural subject)",
+    "notes": null
+  },
+  "einfl\\u00fcstern": {
+    "word": "einfl\\u00fcstern",
+    "lemma": "einfl\\u00fcstern",
+    "pos": "verb",
+    "meaning": "whisper / prompt internally",
+    "notes": null
+  },
+  "gesetze": {
+    "word": "Gesetze",
+    "lemma": "Gesetz",
+    "pos": "noun",
+    "meaning": "law (archaic/poetic singular/plural)",
+    "notes": null
+  },
+  "liebtest du": {
+    "word": "liebtest du",
+    "lemma": "lieben",
+    "pos": "verb",
+    "meaning": "if you loved (conditional inversion)",
+    "notes": null
+  },
+  "ruhig": {
+    "word": "ruhig",
+    "lemma": "ruhig",
+    "pos": "adjective",
+    "meaning": "calm / composed",
+    "notes": null
+  },
+  "gleiche triebe": {
+    "word": "gleiche Triebe",
+    "lemma": "Trieb",
+    "pos": "noun",
+    "meaning": "the same desires / reciprocal impulses",
+    "notes": null
+  },
+  "getreuer": {
+    "word": "Getreuer",
+    "lemma": "getreu",
+    "pos": "noun",
+    "meaning": "faithful lover / devotee (substantivized adjective)",
+    "notes": null
+  },
+  "scheiden": {
+    "word": "scheiden",
+    "lemma": "scheiden",
+    "pos": "verb",
+    "meaning": "to part / separate",
+    "notes": null
+  },
+  "der trennung leiden": {
+    "word": "der Trennung Leiden",
+    "lemma": "Leiden",
+    "pos": "noun",
+    "meaning": "sufferings of parting (pre-nominal genitive)",
+    "notes": null
+  },
+  "fort": {
+    "word": "fort",
+    "lemma": "fort",
+    "pos": "adverb",
+    "meaning": "away / depart (modal + directional adverb)",
+    "notes": null
+  },
+  "wirklich": {
+    "word": "wirklich",
+    "lemma": "wirklich",
+    "pos": "adverb",
+    "meaning": "truly / really",
+    "notes": null
+  },
+  "dich ruft dein wort": {
+    "word": "dich ruft dein Wort",
+    "lemma": "rufen",
+    "pos": "verb",
+    "meaning": "your word summons you (OVS)",
+    "notes": null
+  },
+  "gold'ne ruhe": {
+    "word": "gold'ne Ruhe",
+    "lemma": "Ruhe",
+    "pos": "noun",
+    "meaning": "golden tranquility (vocative)",
+    "notes": null
+  },
+  "kehre wieder": {
+    "word": "kehre wieder",
+    "lemma": "wiederkehren",
+    "pos": "verb",
+    "meaning": "return / come back (imperative)",
+    "notes": null
+  },
+  "weibchen": {
+    "word": "Weibchen",
+    "lemma": "Weibchen",
+    "pos": "noun",
+    "meaning": "little wife (diminutive)",
+    "notes": null
+  },
+  "w\\u00fcnscht ... sich": {
+    "word": "w\\u00fcnscht ... sich",
+    "lemma": "sich w\\u00fcnschen",
+    "pos": "verb",
+    "meaning": "wishes for oneself (reflexive with dative 'sich')",
+    "notes": null
+  },
+  "sanftes t\\u00e4ubchen": {
+    "word": "sanftes T\\u00e4ubchen",
+    "lemma": "Taube",
+    "pos": "noun",
+    "meaning": "gentle little dove (diminutive)",
+    "notes": null
+  },
+  "seligkeit": {
+    "word": "Seligkeit",
+    "lemma": "Seligkeit",
+    "pos": "noun",
+    "meaning": "blessedness / supreme bliss (feminine)",
+    "notes": null
+  },
+  "schmeckte mir": {
+    "word": "schmeckte mir",
+    "lemma": "schmecken",
+    "pos": "verb",
+    "meaning": "would taste good to me (governs dative 'mir')",
+    "notes": null
+  },
+  "trinken und essen": {
+    "word": "Trinken und Essen",
+    "lemma": "Trinken",
+    "pos": "noun",
+    "meaning": "eating and drinking (substantivized infinitives)",
+    "notes": null
+  },
+  "mich messen mit": {
+    "word": "mich messen mit",
+    "lemma": "sich messen",
+    "pos": "verb",
+    "meaning": "measure myself against / rival (reflexive)",
+    "notes": null
+  },
+  "f\\u00fcrsten": {
+    "word": "F\\u00fcrsten",
+    "lemma": "F\\u00fcrst",
+    "pos": "noun",
+    "meaning": "princes (dative plural weak noun)",
+    "notes": null
+  },
+  "elysium": {
+    "word": "Elysium",
+    "lemma": "Elysium",
+    "pos": "noun",
+    "meaning": "Elysian fields / paradise",
+    "notes": null
+  },
+  "reizenden": {
+    "word": "reizenden",
+    "lemma": "reizend",
+    "pos": "adjective",
+    "meaning": "charming / lovely",
+    "notes": null
+  },
+  "gr\\u00e4m' ich mich": {
+    "word": "gr\\u00e4m' ich mich",
+    "lemma": "sich gr\\u00e4men",
+    "pos": "verb",
+    "meaning": "I grieve / pine away (reflexive)",
+    "notes": null
+  },
+  "zu tod": {
+    "word": "zu Tod",
+    "lemma": "Tod",
+    "pos": "idiom",
+    "meaning": "to death",
+    "notes": null
+  },
+  "gew\\u00e4hren": {
+    "word": "gew\\u00e4hren",
+    "lemma": "gew\\u00e4hren",
+    "pos": "verb",
+    "meaning": "grant / accord (governs dative person, accusative thing)",
+    "notes": null
+  },
+  "gesund": {
+    "word": "gesund",
+    "lemma": "gesund",
+    "pos": "adjective",
+    "meaning": "healthy / cured",
+    "notes": null
+  },
+  "prangt": {
+    "word": "prangt",
+    "lemma": "prangen",
+    "pos": "verb",
+    "meaning": "shines resplendently / glows",
+    "notes": null
+  },
+  "den morgen zu verk\\u00fcnden": {
+    "word": "den Morgen zu verk\\u00fcnden",
+    "lemma": "verk\\u00fcnden",
+    "pos": "verb",
+    "meaning": "to proclaim / herald the morning",
+    "notes": null
+  },
+  "sonn'": {
+    "word": "Sonn'",
+    "lemma": "Sonne",
+    "pos": "noun",
+    "meaning": "sun (feminine)",
+    "notes": null
+  },
+  "gold'ner bahn": {
+    "word": "gold'ner Bahn",
+    "lemma": "Bahn",
+    "pos": "noun",
+    "meaning": "golden course / track",
+    "notes": null
+  },
+  "aberglaube": {
+    "word": "Aberglaube",
+    "lemma": "Aberglaube",
+    "pos": "noun",
+    "meaning": "superstition (aber + Glaube, weak masculine noun)",
+    "notes": null
+  },
+  "siegt": {
+    "word": "siegt",
+    "lemma": "siegen",
+    "pos": "verb",
+    "meaning": "conquers / prevails / triumphs",
+    "notes": null
+  },
+  "weise mann": {
+    "word": "weise Mann",
+    "lemma": "Mann",
+    "pos": "noun",
+    "meaning": "wise man (sage)",
+    "notes": null
+  },
+  "holde ruhe": {
+    "word": "holde Ruhe",
+    "lemma": "Ruhe",
+    "pos": "noun",
+    "meaning": "gentle / sweet peace (vocative)",
+    "notes": null
+  },
+  "steig hernieder": {
+    "word": "steig hernieder",
+    "lemma": "herniedersteigen",
+    "pos": "verb",
+    "meaning": "descend / come down (imperative)",
+    "notes": null
+  },
+  "kehr ... wieder": {
+    "word": "kehr ... wieder",
+    "lemma": "wiederkehren",
+    "pos": "verb",
+    "meaning": "return (imperative)",
+    "notes": null
+  },
+  "der menschen herzen": {
+    "word": "der Menschen Herzen",
+    "lemma": "Herz",
+    "pos": "noun",
+    "meaning": "the hearts of men (pre-nominal genitive plural)",
+    "notes": null
+  },
+  "den g\\u00f6ttern gleich": {
+    "word": "den G\\u00f6ttern gleich",
+    "lemma": "gleich",
+    "pos": "adjective",
+    "meaning": "equal to the gods (dative)",
+    "notes": null
+  },
+  "seht": {
+    "word": "seht",
+    "lemma": "sehen",
+    "pos": "verb",
+    "meaning": "see / look (imperative plural)",
+    "notes": null
+  },
+  "qu\\u00e4lt": {
+    "word": "qu\\u00e4lt",
+    "lemma": "qu\\u00e4len",
+    "pos": "verb",
+    "meaning": "torments / agonizes",
+    "notes": null
+  },
+  "von sinnen": {
+    "word": "von Sinnen",
+    "lemma": "Sinn",
+    "pos": "idiom",
+    "meaning": "out of one's mind / mad (dative plural with von)",
+    "notes": null
+  },
+  "verschm\\u00e4hter liebe": {
+    "word": "verschm\\u00e4hter Liebe",
+    "lemma": "Liebe",
+    "pos": "noun",
+    "meaning": "spurned / rejected love (genitive feminine)",
+    "notes": null
+  },
+  "leiden": {
+    "word": "Leiden",
+    "lemma": "Leiden",
+    "pos": "noun",
+    "meaning": "suffering / pain (nominative subject)",
+    "notes": null
+  },
+  "der armen": {
+    "word": "der Armen",
+    "lemma": "arm",
+    "pos": "noun",
+    "meaning": "to the poor girl (dative feminine substantivized adjective)",
+    "notes": null
+  },
+  "trost bereiten": {
+    "word": "Trost bereiten",
+    "lemma": "Trost",
+    "pos": "idiom",
+    "meaning": "provide comfort / console",
+    "notes": null
+  },
+  "f\\u00fchrwahr": {
+    "word": "F\\u00fchrwahr",
+    "lemma": "f\\u00fcrwahr",
+    "pos": "adverb",
+    "meaning": "truly / indeed",
+    "notes": null
+  },
+  "schicksal": {
+    "word": "Schicksal",
+    "lemma": "Schicksal",
+    "pos": "noun",
+    "meaning": "destiny / fate (neuter)",
+    "notes": null
+  },
+  "nahegehen": {
+    "word": "nahegehen",
+    "lemma": "nahegehen",
+    "pos": "verb",
+    "meaning": "touch emotionally / move (governs dative/accusative)",
+    "notes": null
+  },
+  "w\\u00e4re nur": {
+    "word": "w\\u00e4re nur",
+    "lemma": "sein",
+    "pos": "verb",
+    "meaning": "if only were (subjunctive II wish inversion)",
+    "notes": null
+  },
+  "beiseite": {
+    "word": "beiseite",
+    "lemma": "beiseite",
+    "pos": "adverb",
+    "meaning": "aside / to one side",
+    "notes": null
+  },
+  "damit": {
+    "word": "damit",
+    "lemma": "damit",
+    "pos": "conjunction",
+    "meaning": "in order that / so that",
+    "notes": null
+  },
+  "was sie mache": {
+    "word": "was sie mache",
+    "lemma": "machen",
+    "pos": "verb",
+    "meaning": "what she is doing (subjunctive I indirect question)",
+    "notes": null
+  },
+  "seh'n": {
+    "word": "seh'n",
+    "lemma": "sehen",
+    "pos": "verb",
+    "meaning": "see (verb-final with damit)",
+    "notes": null
+  },
+  "br\\u00e4utigam": {
+    "word": "Br\\u00e4utigam",
+    "lemma": "Br\\u00e4utigam",
+    "pos": "noun",
+    "meaning": "bridegroom (masculine)",
+    "notes": null
+  },
+  "vollend'": {
+    "word": "vollend'",
+    "lemma": "vollenden",
+    "pos": "verb",
+    "meaning": "bring to an end / complete",
+    "notes": null
+  },
+  "gram": {
+    "word": "Gram",
+    "lemma": "Gram",
+    "pos": "noun",
+    "meaning": "sorrow / grief (masculine)",
+    "notes": null
+  },
+  "dunkle worte": {
+    "word": "dunkle Worte",
+    "lemma": "Wort",
+    "pos": "noun",
+    "meaning": "dark words / ominous speech",
+    "notes": null
+  },
+  "dem wahnsinn nah": {
+    "word": "dem Wahnsinn nah",
+    "lemma": "Wahnsinn",
+    "pos": "noun",
+    "meaning": "near to madness (dative masculine)",
+    "notes": null
+  },
+  "geduld": {
+    "word": "Geduld",
+    "lemma": "Geduld",
+    "pos": "noun",
+    "meaning": "patience (interjection)",
+    "notes": null
+  },
+  "verm\\u00e4hlet sein": {
+    "word": "verm\\u00e4hlet sein",
+    "lemma": "verm\\u00e4hlen",
+    "pos": "verb",
+    "meaning": "be united in marriage (stative passive)",
+    "notes": null
+  },
+  "wahnsinn": {
+    "word": "Wahnsinn",
+    "lemma": "Wahnsinn",
+    "pos": "noun",
+    "meaning": "madness / frenzy",
+    "notes": null
+  },
+  "tobt": {
+    "word": "tobt",
+    "lemma": "toben",
+    "pos": "verb",
+    "meaning": "rages / storms",
+    "notes": null
+  },
+  "gehirne": {
+    "word": "Gehirne",
+    "lemma": "Gehirn",
+    "pos": "noun",
+    "meaning": "brain / mind (dative neuter)",
+    "notes": null
+  },
+  "selbstmord": {
+    "word": "Selbstmord",
+    "lemma": "Selbstmord",
+    "pos": "noun",
+    "meaning": "suicide (selbst + Mord)",
+    "notes": null
+  },
+  "stirne": {
+    "word": "Stirne",
+    "lemma": "Stirn",
+    "pos": "noun",
+    "meaning": "forehead / brow (feminine)",
+    "notes": null
+  },
+  "sieh ... an": {
+    "word": "sieh ... an",
+    "lemma": "ansehen",
+    "pos": "verb",
+    "meaning": "look at / gaze upon (separable imperative)",
+    "notes": null
+  },
+  "sterben will ich": {
+    "word": "Sterben will ich",
+    "lemma": "sterben",
+    "pos": "verb",
+    "meaning": "I want to die (topicalized infinitive)",
+    "notes": null
+  },
+  "hassen": {
+    "word": "hassen",
+    "lemma": "hassen",
+    "pos": "verb",
+    "meaning": "to hate",
+    "notes": null
+  },
+  "seine traute": {
+    "word": "seine Traute",
+    "lemma": "traut",
+    "pos": "noun",
+    "meaning": "his beloved / betrothed (substantivized feminine)",
+    "notes": null
+  },
+  "dies gab": {
+    "word": "Dies gab",
+    "lemma": "geben",
+    "pos": "verb",
+    "meaning": "this gave (fronted object triggering inversion)",
+    "notes": null
+  },
+  "strafet ... an": {
+    "word": "strafet ... an",
+    "lemma": "strafen",
+    "pos": "verb",
+    "meaning": "punishes / avenges in",
+    "notes": null
+  },
+  "dies eisen": {
+    "word": "dies Eisen",
+    "lemma": "Eisen",
+    "pos": "noun",
+    "meaning": "this blade / iron (metonymy for dagger)",
+    "notes": null
+  },
+  "liebesgram": {
+    "word": "Liebesgram",
+    "lemma": "Liebesgram",
+    "pos": "noun",
+    "meaning": "sorrow of love (Liebe + Gram)",
+    "notes": null
+  },
+  "leide ich": {
+    "word": "leide ich",
+    "lemma": "leiden",
+    "pos": "verb",
+    "meaning": "suffer I (inversion)",
+    "notes": null
+  },
+  "fluch": {
+    "word": "Fluch",
+    "lemma": "Fluch",
+    "pos": "noun",
+    "meaning": "curse / malediction (masculine)",
+    "notes": null
+  },
+  "verfolget": {
+    "word": "verfolget",
+    "lemma": "verfolgen",
+    "pos": "verb",
+    "meaning": "pursues / haunts",
+    "notes": null
+  },
+  "des jammers ma\\u00df": {
+    "word": "des Jammers Ma\\u00df",
+    "lemma": "Ma\\u00df",
+    "pos": "noun",
+    "meaning": "the measure of misery (pre-nominal genitive)",
+    "notes": null
+  },
+  "falscher j\\u00fcngling": {
+    "word": "Falscher J\\u00fcngling",
+    "lemma": "falsch",
+    "pos": "noun",
+    "meaning": "faithless / treacherous youth (vocative)",
+    "notes": null
+  },
+  "dieses eisen": {
+    "word": "Dieses Eisen",
+    "lemma": "Eisen",
+    "pos": "noun",
+    "meaning": "this iron blade (nominative subject)",
+    "notes": null
+  },
+  "t\\u00f6te": {
+    "word": "t\\u00f6te",
+    "lemma": "t\\u00f6ten",
+    "pos": "verb",
+    "meaning": "may it kill (optative subjunctive I)",
+    "notes": null
+  },
+  "sollte ... sehen": {
+    "word": "Sollte ... sehen",
+    "lemma": "sehen",
+    "pos": "verb",
+    "meaning": "should see (conditional inversion)",
+    "notes": null
+  },
+  "vor gram vergehen": {
+    "word": "vor Gram vergehen",
+    "lemma": "vergehen",
+    "pos": "idiom",
+    "meaning": "perish / waste away from sorrow",
+    "notes": null
+  },
+  "liebet": {
+    "word": "liebet",
+    "lemma": "lieben",
+    "pos": "verb",
+    "meaning": "loves (archaic -et)",
+    "notes": null
+  },
+  "gegenliebe": {
+    "word": "Gegenliebe",
+    "lemma": "Gegenliebe",
+    "pos": "noun",
+    "meaning": "mutual / reciprocal love (gegen + Liebe)",
+    "notes": null
+  },
+  "verbarg": {
+    "word": "verbarg",
+    "lemma": "verbergen",
+    "pos": "verb",
+    "meaning": "concealed / hid (governs dative 'mir')",
+    "notes": null
+  },
+  "wandte": {
+    "word": "wandte",
+    "lemma": "wenden",
+    "pos": "verb",
+    "meaning": "turned (past tense)",
+    "notes": null
+  },
+  "verschweigen": {
+    "word": "verschweigen",
+    "lemma": "verschweigen",
+    "pos": "verb",
+    "meaning": "to keep secret / keep silent about",
+    "notes": null
+  },
+  "dir zeigen": {
+    "word": "dir zeigen",
+    "lemma": "zeigen",
+    "pos": "verb",
+    "meaning": "show to you",
+    "notes": null
+  },
+  "mit staunen": {
+    "word": "mit Staunen",
+    "lemma": "Staunen",
+    "pos": "noun",
+    "meaning": "with wonder / astonishment",
+    "notes": null
+  },
+  "geweiht": {
+    "word": "geweiht",
+    "lemma": "weihen",
+    "pos": "verb",
+    "meaning": "consecrated / dedicated (past participle with ellipsis of 'hat')",
+    "notes": null
+  },
+  "scheut": {
+    "word": "scheut",
+    "lemma": "scheuen",
+    "pos": "verb",
+    "meaning": "fears / shuns",
+    "notes": null
+  },
+  "m\\u00f6cht' ihn seh'n": {
+    "word": "m\\u00f6cht' ihn seh'n",
+    "lemma": "m\\u00f6gen",
+    "pos": "verb",
+    "meaning": "would like to see him",
+    "notes": null
+  },
+  "brennen von": {
+    "word": "brennen von",
+    "lemma": "brennen",
+    "pos": "verb",
+    "meaning": "burn with",
+    "notes": null
+  },
+  "der feinde m\\u00fch'": {
+    "word": "der Feinde M\\u00fch'",
+    "lemma": "M\\u00fche",
+    "pos": "noun",
+    "meaning": "the enemies' exertion (pre-nominal genitive plural)",
+    "notes": null
+  },
+  "selbsten": {
+    "word": "selbsten",
+    "lemma": "selbst",
+    "pos": "pronoun",
+    "meaning": "themselves (archaic emphatic form)",
+    "notes": null
+  },
+  "der, welcher": {
+    "word": "Der, welcher",
+    "lemma": "derjenige",
+    "pos": "pronoun",
+    "meaning": "he who / the one who",
+    "notes": null
+  },
+  "wandert": {
+    "word": "wandert",
+    "lemma": "wandern",
+    "pos": "verb",
+    "meaning": "walks / traverses (governs accusative in elevated poetry)",
+    "notes": null
+  },
+  "voll beschwerden": {
+    "word": "voll Beschwerden",
+    "lemma": "Beschwerde",
+    "pos": "noun",
+    "meaning": "full of tribulations / hardships",
+    "notes": null
+  },
+  "erleuchtet": {
+    "word": "Erleuchtet",
+    "lemma": "erleuchten",
+    "pos": "verb",
+    "meaning": "enlightened / illuminated (fronted past participle)",
+    "notes": null
+  },
+  "im stande sein": {
+    "word": "im Stande sein",
+    "lemma": "imstande",
+    "pos": "idiom",
+    "meaning": "be capable / in a state to",
+    "notes": null
+  },
+  "mysterien": {
+    "word": "Mysterien",
+    "lemma": "Mysterium",
+    "pos": "noun",
+    "meaning": "sacred mysteries (dative plural)",
+    "notes": null
+  },
+  "zu weih'n": {
+    "word": "zu weih'n",
+    "lemma": "weihen",
+    "pos": "verb",
+    "meaning": "to dedicate / consecrate",
+    "notes": null
+  },
+  "mich schreckt kein tod": {
+    "word": "Mich schreckt kein Tod",
+    "lemma": "schrecken",
+    "pos": "verb",
+    "meaning": "no death frightens me (OSV)",
+    "notes": null
+  },
+  "des schreckens pforte": {
+    "word": "des Schreckens Pforte",
+    "lemma": "Pforte",
+    "pos": "noun",
+    "meaning": "the portal of terror (pre-nominal genitive)",
+    "notes": null
+  },
+  "paminens": {
+    "word": "Paminens",
+    "lemma": "Pamina",
+    "pos": "noun",
+    "meaning": "Pamina's (classical feminine genitive with -ns)",
+    "notes": null
+  },
+  "wohl mir": {
+    "word": "Wohl mir",
+    "lemma": "wohl",
+    "pos": "idiom",
+    "meaning": "happy am I / good for me (dative of interest)",
+    "notes": null
+  },
+  "trennet": {
+    "word": "trennet",
+    "lemma": "trennen",
+    "pos": "verb",
+    "meaning": "parts / separates",
+    "notes": null
+  },
+  "kein schicksal mehr": {
+    "word": "kein Schicksal mehr",
+    "lemma": "Schicksal",
+    "pos": "noun",
+    "meaning": "no fate anymore",
+    "notes": null
+  },
+  "wohl dir": {
+    "word": "Wohl dir",
+    "lemma": "wohl",
+    "pos": "idiom",
+    "meaning": "blessed are you / joy to you (dative 'dir')",
+    "notes": null
+  },
+  "schreckenspforten": {
+    "word": "Schreckenspforten",
+    "lemma": "Schreckenspforte",
+    "pos": "noun",
+    "meaning": "portals of terror",
+    "notes": null
+  },
+  "dr\\u00e4u'n": {
+    "word": "dr\\u00e4u'n",
+    "lemma": "drohen",
+    "pos": "verb",
+    "meaning": "threaten (archaic poetic variant of drohen)",
+    "notes": null
+  },
+  "aller orten": {
+    "word": "aller Orten",
+    "lemma": "Ort",
+    "pos": "idiom",
+    "meaning": "everywhere / in all places (archaic genitive)",
+    "notes": null
+  },
+  "mit rosen streu'n": {
+    "word": "mit Rosen streu'n",
+    "lemma": "streuen",
+    "pos": "verb",
+    "meaning": "strew with roses",
+    "notes": null
+  },
+  "stets bei dornen": {
+    "word": "stets bei Dornen",
+    "lemma": "Dorn",
+    "pos": "noun",
+    "meaning": "always among thorns (dative plural)",
+    "notes": null
+  },
+  "sein": {
+    "word": "sein",
+    "lemma": "sein",
+    "pos": "verb",
+    "meaning": "are (archaic plural indicative ending)",
+    "notes": null
+  },
+  "anspielen": {
+    "word": "anspielen",
+    "lemma": "anspielen",
+    "pos": "verb",
+    "meaning": "start playing / sound (separable imperative)",
+    "notes": null
+  },
+  "schnitt": {
+    "word": "schnitt",
+    "lemma": "schneiden",
+    "pos": "verb",
+    "meaning": "carved / cut (past tense)",
+    "notes": null
+  },
+  "zauberstunde": {
+    "word": "Zauberstunde",
+    "lemma": "Zauberstunde",
+    "pos": "noun",
+    "meaning": "enchanted hour (Zauber + Stunde)",
+    "notes": null
+  },
+  "aus tiefstem grunde": {
+    "word": "aus tiefstem Grunde",
+    "lemma": "Grund",
+    "pos": "noun",
+    "meaning": "from the deepest core / roots (dative masculine)",
+    "notes": null
+  },
+  "des tones macht": {
+    "word": "des Tones Macht",
+    "lemma": "Macht",
+    "pos": "noun",
+    "meaning": "the power of sound (pre-nominal genitive)",
+    "notes": null
+  },
+  "des todes d\\u00fcst're nacht": {
+    "word": "des Todes d\\u00fcst're Nacht",
+    "lemma": "Nacht",
+    "pos": "noun",
+    "meaning": "death's gloomy night",
+    "notes": null
+  },
+  "wandelten": {
+    "word": "wandelten",
+    "lemma": "wandeln",
+    "pos": "verb",
+    "meaning": "walked (past tense)",
+    "notes": null
+  },
+  "feuergluten": {
+    "word": "Feuergluten",
+    "lemma": "Feuerglut",
+    "pos": "noun",
+    "meaning": "glowing fires / flames (plural)",
+    "notes": null
+  },
+  "sei schutz": {
+    "word": "sei Schutz",
+    "lemma": "sein",
+    "pos": "verb",
+    "meaning": "may it be protection (subjunctive I)",
+    "notes": null
+  },
+  "gew\\u00e4hret ist": {
+    "word": "Gew\\u00e4hret ist",
+    "lemma": "gew\\u00e4hren",
+    "pos": "verb",
+    "meaning": "granted / bestowed is",
+    "notes": null
+  },
+  "der isis weihe": {
+    "word": "Der Isis Weihe",
+    "lemma": "Weihe",
+    "pos": "noun",
+    "meaning": "consecration of Isis (pre-nominal genitive)",
+    "notes": null
+  },
+  "plauderte": {
+    "word": "plauderte",
+    "lemma": "plaudern",
+    "pos": "verb",
+    "meaning": "chattered / blabbed",
+    "notes": null
+  },
+  "sah": {
+    "word": "sah",
+    "lemma": "sehen",
+    "pos": "verb",
+    "meaning": "saw (past tense)",
+    "notes": null
+  },
+  "herzensk\\u00e4mmerlein": {
+    "word": "Herzensk\\u00e4mmerlein",
+    "lemma": "K\\u00e4mmerlein",
+    "pos": "noun",
+    "meaning": "little chamber of the heart (diminutive)",
+    "notes": null
+  },
+  "zwicket's": {
+    "word": "zwicket's",
+    "lemma": "zwicken",
+    "pos": "verb",
+    "meaning": "it pinches / twinges",
+    "notes": null
+  },
+  "sterben": {
+    "word": "Sterben",
+    "lemma": "sterben",
+    "pos": "noun",
+    "meaning": "dying / death (substantivized neuter)",
+    "notes": null
+  },
+  "der lieb' ein end": {
+    "word": "der Lieb' ein End",
+    "lemma": "Ende",
+    "pos": "idiom",
+    "meaning": "an end to love (dative 'der Lieb'')",
+    "notes": null
+  },
+  "noch so": {
+    "word": "noch so",
+    "lemma": "noch",
+    "pos": "adverb",
+    "meaning": "ever so much / no matter how",
+    "notes": null
+  },
+  "zieren": {
+    "word": "zieren",
+    "lemma": "zieren",
+    "pos": "verb",
+    "meaning": "adorn / decorate (ironic euphemism for hanging)",
+    "notes": null
+  },
+  "zuschn\\u00fcren": {
+    "word": "zuschn\\u00fcren",
+    "lemma": "zuschn\\u00fcren",
+    "pos": "verb",
+    "meaning": "tie shut / constrict / strangle",
+    "notes": null
+  },
+  "handeln an": {
+    "word": "handeln an",
+    "lemma": "handeln",
+    "pos": "verb",
+    "meaning": "treat / deal with",
+    "notes": null
+  },
+  "zubandeln": {
+    "word": "zubandeln",
+    "lemma": "anbandeln",
+    "pos": "verb",
+    "meaning": "procure / match up with (Austrian/Viennese dialect)",
+    "notes": null
+  },
+  "um mich armen": {
+    "word": "um mich Armen",
+    "lemma": "arm",
+    "pos": "noun",
+    "meaning": "upon me poor wretch",
+    "notes": null
+  },
+  "eh'": {
+    "word": "eh'",
+    "lemma": "ehe",
+    "pos": "conjunction",
+    "meaning": "before",
+    "notes": null
+  },
+  "h\\u00e4nge": {
+    "word": "h\\u00e4nge",
+    "lemma": "h\\u00e4ngen",
+    "pos": "verb",
+    "meaning": "hang (from the gallows/tree)",
+    "notes": null
+  },
+  "sich erbarmen": {
+    "word": "sich erbarmen",
+    "lemma": "sich erbarmen",
+    "pos": "verb",
+    "meaning": "have mercy / take pity (governs \\u00fcber/um)",
+    "notes": null
+  },
+  "sein lassen": {
+    "word": "sein lassen",
+    "lemma": "lassen",
+    "pos": "idiom",
+    "meaning": "to let be / refrain from doing",
+    "notes": null
+  },
+  "also": {
+    "word": "Also",
+    "lemma": "also",
+    "pos": "adverb",
+    "meaning": "so / consequently",
+    "notes": null
+  },
+  "frisch hinauf": {
+    "word": "frisch hinauf",
+    "lemma": "frisch",
+    "pos": "adverb",
+    "meaning": "briskly / boldly upwards",
+    "notes": null
+  },
+  "lasse ... klingen": {
+    "word": "lasse ... klingen",
+    "lemma": "lassen",
+    "pos": "verb",
+    "meaning": "let chime / ring",
+    "notes": null
+  },
+  "ich narr": {
+    "word": "Ich Narr",
+    "lemma": "Narr",
+    "pos": "noun",
+    "meaning": "I fool (apposition)",
+    "notes": null
+  },
+  "verga\\u00df der zauberdinge": {
+    "word": "verga\\u00df der Zauberdinge",
+    "lemma": "Zauberding",
+    "pos": "noun",
+    "meaning": "forgot the magical items (governs genitive)",
+    "notes": null
+  },
+  "herschaffen": {
+    "word": "herschaffen",
+    "lemma": "herschaffen",
+    "pos": "verb",
+    "meaning": "procure / bring hither",
+    "notes": null
+  },
+  "sieh dich um": {
+    "word": "sieh dich um",
+    "lemma": "sich umsehen",
+    "pos": "verb",
+    "meaning": "look around / turn around (reflexive imperative)",
+    "notes": null
+  },
+  "ergeben": {
+    "word": "ergeben",
+    "lemma": "ergeben",
+    "pos": "adjective",
+    "meaning": "devoted / faithful (governs dative 'dir')",
+    "notes": null
+  },
+  "welche freude": {
+    "word": "Welche Freude",
+    "lemma": "Freude",
+    "pos": "noun",
+    "meaning": "what joy (exclamation)",
+    "notes": null
+  },
+  "bedenken": {
+    "word": "bedenken",
+    "lemma": "bedenken",
+    "pos": "verb",
+    "meaning": "bestow blessings upon / remember with gifts",
+    "notes": null
+  },
+  "uns'rer liebe": {
+    "word": "uns'rer Liebe",
+    "lemma": "Liebe",
+    "pos": "noun",
+    "meaning": "upon our love (dative feminine)",
+    "notes": null
+  },
+  "kinder schenken": {
+    "word": "Kinder schenken",
+    "lemma": "schenken",
+    "pos": "verb",
+    "meaning": "bestow children",
+    "notes": null
+  },
+  "kinderlein": {
+    "word": "Kinderlein",
+    "lemma": "Kind",
+    "pos": "noun",
+    "meaning": "little children (double diminutive)",
+    "notes": null
+  },
+  "h\\u00f6chste der gef\\u00fchle": {
+    "word": "h\\u00f6chste der Gef\\u00fchle",
+    "lemma": "Gef\\u00fchl",
+    "pos": "idiom",
+    "meaning": "the pinnacle of emotions / supreme bliss",
+    "notes": null
+  },
+  "viele": {
+    "word": "viele",
+    "lemma": "viel",
+    "pos": "pronoun",
+    "meaning": "many",
+    "notes": null
+  },
+  "schrecklich rauschen": {
+    "word": "schrecklich Rauschen",
+    "lemma": "Rauschen",
+    "pos": "noun",
+    "meaning": "terrible rushing sound / roar of thunder (uninflected poetic adjective)",
+    "notes": null
+  },
+  "f\\u00fcrchterlich": {
+    "word": "f\\u00fcrchterlich",
+    "lemma": "f\\u00fcrchterlich",
+    "pos": "adjective",
+    "meaning": "frightful / dreadful",
+    "notes": null
+  },
+  "des tempels hallen": {
+    "word": "des Tempels Hallen",
+    "lemma": "Halle",
+    "pos": "noun",
+    "meaning": "the halls of the temple (pre-nominal genitive)",
+    "notes": null
+  },
+  "\\u00fcberfallen": {
+    "word": "\\u00fcberfallen",
+    "lemma": "\\u00fcberfallen",
+    "pos": "verb",
+    "meaning": "to ambush / attack by surprise",
+    "notes": null
+  },
+  "fr\\u00f6mmler": {
+    "word": "Fr\\u00f6mmler",
+    "lemma": "Fr\\u00f6mmler",
+    "pos": "noun",
+    "meaning": "pious hypocrites / bigots / sanctimonious ones",
+    "notes": null
+  },
+  "tilgen": {
+    "word": "tilgen",
+    "lemma": "tilgen",
+    "pos": "verb",
+    "meaning": "to blot out / eradicate / destroy",
+    "notes": null
+  },
+  "zerschmettert": {
+    "word": "Zerschmettert",
+    "lemma": "zerschmettern",
+    "pos": "verb",
+    "meaning": "smashed / shattered to pieces",
+    "notes": null
+  },
+  "zernichtet": {
+    "word": "zernichtet",
+    "lemma": "zernichten",
+    "pos": "verb",
+    "meaning": "reduced to nothing / annihilated (zer- + nicht)",
+    "notes": null
+  }
+}

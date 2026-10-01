@@ -1,0 +1,494 @@
+[
+  {
+    "speaker": "Dr. Caius",
+    "original": "Falstaff!",
+    "cue_id": "a1_s1_c1",
+    "line_id": "a1_s1_c1_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Olà!",
+    "cue_id": "a1_s1_c2",
+    "line_id": "a1_s1_c2_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Sir John Falstaff!",
+    "cue_id": "a1_s1_c3",
+    "line_id": "a1_s1_c3_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Oh! che vi piglia?",
+    "cue_id": "a1_s1_c4",
+    "line_id": "a1_s1_c4_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Hai battuto i miei servi!...",
+    "cue_id": "a1_s1_c5",
+    "line_id": "a1_s1_c5_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Oste! un'altra bottiglia di Xeres.",
+    "cue_id": "a1_s1_c6",
+    "line_id": "a1_s1_c6_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Hai fiaccata la mia giumenta baia,",
+    "cue_id": "a1_s1_c7",
+    "line_id": "a1_s1_c7_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "sforzata la mia casa.",
+    "cue_id": "a1_s1_c7",
+    "line_id": "a1_s1_c7_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Ma non la tua massaia.",
+    "cue_id": "a1_s1_c8",
+    "line_id": "a1_s1_c8_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Troppa grazia! Una vecchia cisposa. Ampio messere,",
+    "cue_id": "a1_s1_c9",
+    "line_id": "a1_s1_c9_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "se foste venti volte John Falstaff cavaliere,",
+    "cue_id": "a1_s1_c9",
+    "line_id": "a1_s1_c9_l2"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "v'obbligherò a rispondermi.",
+    "cue_id": "a1_s1_c9",
+    "line_id": "a1_s1_c9_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Ecco la mia risposta:",
+    "cue_id": "a1_s1_c10",
+    "line_id": "a1_s1_c10_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "ho fatto ciò che hai detto.",
+    "cue_id": "a1_s1_c10",
+    "line_id": "a1_s1_c10_l2"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "E poi?",
+    "cue_id": "a1_s1_c11",
+    "line_id": "a1_s1_c11_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "L'ho fatto apposta.",
+    "cue_id": "a1_s1_c12",
+    "line_id": "a1_s1_c12_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "M'appellerò al consiglio real.",
+    "cue_id": "a1_s1_c13",
+    "line_id": "a1_s1_c13_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Vatti con dio.",
+    "cue_id": "a1_s1_c14",
+    "line_id": "a1_s1_c14_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Sta' zitto o avrai le beffe; quest'è il consiglio mio.",
+    "cue_id": "a1_s1_c14",
+    "line_id": "a1_s1_c14_l2"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Non è finita!",
+    "cue_id": "a1_s1_c15",
+    "line_id": "a1_s1_c15_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Al diavolo!",
+    "cue_id": "a1_s1_c16",
+    "line_id": "a1_s1_c16_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Bardolfo!",
+    "cue_id": "a1_s1_c17",
+    "line_id": "a1_s1_c17_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Ser Dottore.",
+    "cue_id": "a1_s1_c18",
+    "line_id": "a1_s1_c18_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Tu, ier, m'hai fatto bere.",
+    "cue_id": "a1_s1_c19",
+    "line_id": "a1_s1_c19_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Pur troppo! e che dolore!...",
+    "cue_id": "a1_s1_c20",
+    "line_id": "a1_s1_c20_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Sto mal. D'un tuo pronostico m'assisti. Ho l'intestino",
+    "cue_id": "a1_s1_c21",
+    "line_id": "a1_s1_c21_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "guasto. Malanno agli osti che dan la calce al vino!",
+    "cue_id": "a1_s1_c21",
+    "line_id": "a1_s1_c21_l2"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Vedi questa meteora?",
+    "cue_id": "a1_s1_c22",
+    "line_id": "a1_s1_c22_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "La vedo.",
+    "cue_id": "a1_s1_c23",
+    "line_id": "a1_s1_c23_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Essa si corca",
+    "cue_id": "a1_s1_c24",
+    "line_id": "a1_s1_c24_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "rossa così ogni notte.",
+    "cue_id": "a1_s1_c24",
+    "line_id": "a1_s1_c24_l2"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Pronostico di forca!",
+    "cue_id": "a1_s1_c25",
+    "line_id": "a1_s1_c25_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "M'hai fatto ber, furfante, con lui, narrando frasche;",
+    "cue_id": "a1_s1_c26",
+    "line_id": "a1_s1_c26_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "poi, quando fui ben ciùschero, m'hai vuotato le tasche.",
+    "cue_id": "a1_s1_c26",
+    "line_id": "a1_s1_c26_l2"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Non io.",
+    "cue_id": "a1_s1_c27",
+    "line_id": "a1_s1_c27_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Chi fu?",
+    "cue_id": "a1_s1_c28",
+    "line_id": "a1_s1_c28_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Pistola!",
+    "cue_id": "a1_s1_c29",
+    "line_id": "a1_s1_c29_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Padrone.",
+    "cue_id": "a1_s1_c30",
+    "line_id": "a1_s1_c30_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Hai tu vuotate",
+    "cue_id": "a1_s1_c31",
+    "line_id": "a1_s1_c31_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "le tasche a quel messere?",
+    "cue_id": "a1_s1_c31",
+    "line_id": "a1_s1_c31_l2"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Certo fu lui. Guardate.",
+    "cue_id": "a1_s1_c32",
+    "line_id": "a1_s1_c32_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Come s'atteggia al niego quel ceffo da bugiardo!",
+    "cue_id": "a1_s1_c32",
+    "line_id": "a1_s1_c32_l2"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Qui c'eran due scellini del regno d'Edoardo",
+    "cue_id": "a1_s1_c33",
+    "line_id": "a1_s1_c33_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "e sei mezzecorone.",
+    "cue_id": "a1_s1_c33",
+    "line_id": "a1_s1_c33_l2"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Non ne riman più segno.",
+    "cue_id": "a1_s1_c33",
+    "line_id": "a1_s1_c33_l3"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Padron, chiedo di battermi con quest'arma di legno.",
+    "cue_id": "a1_s1_c34",
+    "line_id": "a1_s1_c34_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Vi smentisco!",
+    "cue_id": "a1_s1_c35",
+    "line_id": "a1_s1_c35_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Bifolco! tu parli a un gentiluomo!",
+    "cue_id": "a1_s1_c36",
+    "line_id": "a1_s1_c36_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Gonzo!",
+    "cue_id": "a1_s1_c37",
+    "line_id": "a1_s1_c37_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Pezzente!",
+    "cue_id": "a1_s1_c38",
+    "line_id": "a1_s1_c38_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Bestia!",
+    "cue_id": "a1_s1_c39",
+    "line_id": "a1_s1_c39_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Can!",
+    "cue_id": "a1_s1_c40",
+    "line_id": "a1_s1_c40_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Vil!",
+    "cue_id": "a1_s1_c41",
+    "line_id": "a1_s1_c41_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Spauracchio!",
+    "cue_id": "a1_s1_c42",
+    "line_id": "a1_s1_c42_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Gnomo!",
+    "cue_id": "a1_s1_c43",
+    "line_id": "a1_s1_c43_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Germoglio di mandragora!",
+    "cue_id": "a1_s1_c44",
+    "line_id": "a1_s1_c44_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Chi?",
+    "cue_id": "a1_s1_c45",
+    "line_id": "a1_s1_c45_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Tu.",
+    "cue_id": "a1_s1_c46",
+    "line_id": "a1_s1_c46_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Ripeti!",
+    "cue_id": "a1_s1_c47",
+    "line_id": "a1_s1_c47_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Sì.",
+    "cue_id": "a1_s1_c48",
+    "line_id": "a1_s1_c48_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Saette!",
+    "cue_id": "a1_s1_c49",
+    "line_id": "a1_s1_c49_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Ehi là! Pistola!",
+    "cue_id": "a1_s1_c50",
+    "line_id": "a1_s1_c50_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Non scaricarti qui!",
+    "cue_id": "a1_s1_c51",
+    "line_id": "a1_s1_c51_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Bardolfo! Chi ha vuotato le tasche a quel messere?",
+    "cue_id": "a1_s1_c52",
+    "line_id": "a1_s1_c52_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Fu l'un dei due.",
+    "cue_id": "a1_s1_c53",
+    "line_id": "a1_s1_c53_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Costui beve, poi pe 'l gran bere",
+    "cue_id": "a1_s1_c54",
+    "line_id": "a1_s1_c54_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "perde i suoi cinque sensi, poi ti narra una favola",
+    "cue_id": "a1_s1_c54",
+    "line_id": "a1_s1_c54_l2"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "ch'egli ha sognato mentre dormì sotto la tavola.",
+    "cue_id": "a1_s1_c54",
+    "line_id": "a1_s1_c54_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "L'odi? Se ti capaciti, del ver tu sei sicuro.",
+    "cue_id": "a1_s1_c55",
+    "line_id": "a1_s1_c55_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "I fatti son negati. Vattene in pace.",
+    "cue_id": "a1_s1_c55",
+    "line_id": "a1_s1_c55_l2"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "Giuro",
+    "cue_id": "a1_s1_c56",
+    "line_id": "a1_s1_c56_l1"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "che se mai mi ubriaco ancora all'osteria",
+    "cue_id": "a1_s1_c56",
+    "line_id": "a1_s1_c56_l2"
+  },
+  {
+    "speaker": "Dr. Caius",
+    "original": "sarà fra gente onesta, sobria, civile e pia.",
+    "cue_id": "a1_s1_c56",
+    "line_id": "a1_s1_c56_l3"
+  },
+  {
+    "speaker": "Bardolfo & Pistola",
+    "original": "Amen.",
+    "cue_id": "a1_s1_c58",
+    "line_id": "a1_s1_c58_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Cessi l'antifona. La urlate in contrattempo.",
+    "cue_id": "a1_s1_c59",
+    "line_id": "a1_s1_c59_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "L'arte sta in questa massima: «rubar con garbo e a tempo».",
+    "cue_id": "a1_s1_c61",
+    "line_id": "a1_s1_c61_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Siete dei rozzi artisti.",
+    "cue_id": "a1_s1_c61",
+    "line_id": "a1_s1_c61_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "«Sei polli: sei scellini,",
+    "cue_id": "a1_s1_c62",
+    "line_id": "a1_s1_c62_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "trenta giarre di Xeres: due lire; tre tacchini...»",
+    "cue_id": "a1_s1_c62",
+    "line_id": "a1_s1_c62_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Fruga nella mia borsa.",
+    "cue_id": "a1_s1_c63",
+    "line_id": "a1_s1_c63_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "«Due fagiani, un'acciuga.»",
+    "cue_id": "a1_s1_c64",
+    "line_id": "a1_s1_c64_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Un mark, un mark, un penny.",
+    "cue_id": "a1_s1_c65",
+    "line_id": "a1_s1_c65_l1"
+  }
+]

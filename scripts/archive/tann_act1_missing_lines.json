@@ -1,0 +1,653 @@
+[
+  {
+    "id": "a1_s2_c15_l1",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Dank deiner Huld, gepriesen sei dein Lieben!"
+  },
+  {
+    "id": "a1_s2_c15_l16",
+    "scene": 2,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "O Königin!"
+  },
+  {
+    "id": "a1_s4_c1_l1",
+    "scene": 4,
+    "speaker": "Landgraf Hermann",
+    "stageDirection": "auf halber Höhe Tannhäuser erblickend",
+    "original": "Wer ist der dort in brunstigem Gebete?"
+  },
+  {
+    "id": "a1_s4_c2_l1",
+    "scene": 4,
+    "speaker": "Walther von der Vogelweide",
+    "stageDirection": null,
+    "original": "Ein Büsser wohl."
+  },
+  {
+    "id": "a1_s4_c3_l1",
+    "scene": 4,
+    "speaker": "Biterolf",
+    "stageDirection": null,
+    "original": "Nach seiner Tracht ein Ritter."
+  },
+  {
+    "id": "a1_s4_c4_l1",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": "eilt zunächst auf Tannhäuser zu und erkennt ihn",
+    "original": "Er ist es!"
+  },
+  {
+    "id": "a1_s4_c5_l1",
+    "scene": 4,
+    "speaker": "Minstrels",
+    "stageDirection": null,
+    "original": "Heinrich! Heinrich! Seh' ich recht?"
+  },
+  {
+    "id": "a1_s4_c7_l1",
+    "scene": 4,
+    "speaker": "Landgraf Hermann",
+    "stageDirection": null,
+    "original": "Du bist es wirklich? Kehrest in den Kreis"
+  },
+  {
+    "id": "a1_s4_c7_l2",
+    "scene": 4,
+    "speaker": "Landgraf Hermann",
+    "stageDirection": null,
+    "original": "zurück, den du in Hochmut stolz verliessest?"
+  },
+  {
+    "id": "a1_s4_c8_l1",
+    "scene": 4,
+    "speaker": "Biterolf",
+    "stageDirection": null,
+    "original": "Sag, was uns deine Wiederkehr bedeutet?"
+  },
+  {
+    "id": "a1_s4_c9_l1",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "Sag es an!"
+  },
+  {
+    "id": "a1_s4_c10_l1",
+    "scene": 4,
+    "speaker": "Biterolf",
+    "stageDirection": null,
+    "original": "Versöhnung? oder gilt's erneutem Kampf?"
+  },
+  {
+    "id": "a1_s4_c11_l1",
+    "scene": 4,
+    "speaker": "Walther von der Vogelweide",
+    "stageDirection": null,
+    "original": "Nahst du als Freund uns oder Feind?"
+  },
+  {
+    "id": "a1_s4_c12_l1",
+    "scene": 4,
+    "speaker": "Minstrels (except Wolfram)",
+    "stageDirection": null,
+    "original": "Als Feind?"
+  },
+  {
+    "id": "a1_s4_c13_l1",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "O fraget nicht! Ist dies des Hochmuts Miene?"
+  },
+  {
+    "id": "a1_s4_c14_l1",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": "Er geht freundlich auf Tannhäuser zu",
+    "original": "Gegrüsst sei uns, du kühner Sänger,"
+  },
+  {
+    "id": "a1_s4_c14_l2",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": "Er geht freundlich auf Tannhäuser zu",
+    "original": "der ach! so lang' in unsrer Mitte fehlt!"
+  },
+  {
+    "id": "a1_s4_c15_l1",
+    "scene": 4,
+    "speaker": "Walther von der Vogelweide",
+    "stageDirection": null,
+    "original": "Willkommen, wenn du friedlich nahst!"
+  },
+  {
+    "id": "a1_s4_c16_l1",
+    "scene": 4,
+    "speaker": "Biterolf",
+    "stageDirection": null,
+    "original": "Gegrüsst, wenn du uns Freunde nennst!"
+  },
+  {
+    "id": "a1_s4_c16_l2",
+    "scene": 4,
+    "speaker": "Biterolf",
+    "stageDirection": null,
+    "original": "Gegrüsst, gegrüsst, gegrüsst sei uns!"
+  },
+  {
+    "id": "a1_s4_c18_l1",
+    "scene": 4,
+    "speaker": "Landgraf Hermann",
+    "stageDirection": null,
+    "original": "So sei willkommen denn auch mir!"
+  },
+  {
+    "id": "a1_s4_c18_l2",
+    "scene": 4,
+    "speaker": "Landgraf Hermann",
+    "stageDirection": null,
+    "original": "Sag' an, wo weiltest du so lang?"
+  },
+  {
+    "id": "a1_s4_c19_l1",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Ich wanderte in weiter, weiter Fern' -"
+  },
+  {
+    "id": "a1_s4_c19_l2",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "da, wo ich nimmer Rast noch Ruhe fand."
+  },
+  {
+    "id": "a1_s4_c19_l3",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Fragt nicht! Zum Kampf mit euch kam ich nicht her;"
+  },
+  {
+    "id": "a1_s4_c19_l4",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "seid mir versöhnt - und lasst mich weiter ziehn!"
+  },
+  {
+    "id": "a1_s4_c20_l1",
+    "scene": 4,
+    "speaker": "Landgraf Hermann",
+    "stageDirection": null,
+    "original": "Nicht doch! Der unsre bist du neu geworden."
+  },
+  {
+    "id": "a1_s4_c21_l1",
+    "scene": 4,
+    "speaker": "Walther von der Vogelweide",
+    "stageDirection": null,
+    "original": "Du darfst nicht ziehn."
+  },
+  {
+    "id": "a1_s4_c22_l1",
+    "scene": 4,
+    "speaker": "Biterolf",
+    "stageDirection": null,
+    "original": "Wir lassen dich nicht fort."
+  },
+  {
+    "id": "a1_s4_c23_l1",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels (except Biterolf)",
+    "stageDirection": null,
+    "original": "Bleib bei uns!"
+  },
+  {
+    "id": "a1_s4_c24_l1",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Lasst mich! Mir frommet kein Verweilen;"
+  },
+  {
+    "id": "a1_s4_c24_l2",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "und nimmer kann ich rastend stehn!"
+  },
+  {
+    "id": "a1_s4_c24_l3",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Mein Weg heisst mich nur vorwärts eilen,"
+  },
+  {
+    "id": "a1_s4_c24_l4",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "und nimmer darf ich rückwärts sehn!"
+  },
+  {
+    "id": "a1_s4_c25_l1",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "Oh bleib'! Bei uns sollst du verweilen,"
+  },
+  {
+    "id": "a1_s4_c25_l2",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "wir lassen dich nicht von uns gehn!"
+  },
+  {
+    "id": "a1_s4_c25_l3",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "Du suchtest uns, warum enteilen?"
+  },
+  {
+    "id": "a1_s4_c25_l4",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "Nach solchem kurzen Wiedersehn?"
+  },
+  {
+    "id": "a1_s4_c26_l1",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": "sich losreissend",
+    "original": "Fort, fort von hier!"
+  },
+  {
+    "id": "a1_s4_c27_l1",
+    "scene": 4,
+    "speaker": "Minstrels",
+    "stageDirection": null,
+    "original": "Bleib, bleib bei uns!"
+  },
+  {
+    "id": "a1_s4_c28_l1",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": "Tannhäuser in der Weg tretend, mit erhobener Stimme",
+    "original": "Bleib bei Elisabeth!"
+  },
+  {
+    "id": "a1_s4_c29_l1",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Elisabeth! - O Macht des Himmels,"
+  },
+  {
+    "id": "a1_s4_c29_l2",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "rufst du den süssen Namen mir?"
+  },
+  {
+    "id": "a1_s4_c30_l1",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Nicht sollst du Feind mich schelten,"
+  },
+  {
+    "id": "a1_s4_c30_l2",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "dass ich ihn genannt!"
+  },
+  {
+    "id": "a1_s4_c31_l1",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": "zu dem Landgrafen",
+    "original": "Erlaubest du mir, Herr, dass ich"
+  },
+  {
+    "id": "a1_s4_c31_l2",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": "zu dem Landgrafen",
+    "original": "Verkünder seines Glücks ihm sei?"
+  },
+  {
+    "id": "a1_s4_c32_l1",
+    "scene": 4,
+    "speaker": "Landgraf Hermann",
+    "stageDirection": null,
+    "original": "Nenn ihm den Zauber, den er ausgeübt:"
+  },
+  {
+    "id": "a1_s4_c32_l2",
+    "scene": 4,
+    "speaker": "Landgraf Hermann",
+    "stageDirection": null,
+    "original": "und Gott verleih ihm Tugend,"
+  },
+  {
+    "id": "a1_s4_c32_l3",
+    "scene": 4,
+    "speaker": "Landgraf Hermann",
+    "stageDirection": null,
+    "original": "dass würdig er ihn löse!"
+  },
+  {
+    "id": "a1_s4_c33_l1",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Als du in kühnem Sange uns bestrittest,"
+  },
+  {
+    "id": "a1_s4_c33_l2",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "bald siegreich gegen unsre Lieder sangst,"
+  },
+  {
+    "id": "a1_s4_c33_l3",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "durch unsre Kunst Besiegung bald erlittest;"
+  },
+  {
+    "id": "a1_s4_c33_l4",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "ein Preis doch war's, den du allein errangst."
+  },
+  {
+    "id": "a1_s4_c33_l5",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "War's Zauber, war es reine Macht,"
+  },
+  {
+    "id": "a1_s4_c33_l6",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "durch die solch Wunder du vollbracht,"
+  },
+  {
+    "id": "a1_s4_c33_l7",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "an deinen Sang voll Wonn' und Leid"
+  },
+  {
+    "id": "a1_s4_c33_l8",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "gebannt die tugendreichste Maid?"
+  },
+  {
+    "id": "a1_s4_c33_l9",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Denn ach! als du uns stolz verlassen,"
+  },
+  {
+    "id": "a1_s4_c33_l10",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "verschloss ihr Herz unsrem Lied;"
+  },
+  {
+    "id": "a1_s4_c33_l11",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "wir sahen ihre Wang' erblassen,"
+  },
+  {
+    "id": "a1_s4_c33_l12",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "für immer unsern Kreis sie mied."
+  },
+  {
+    "id": "a1_s4_c33_l13",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "O kehr zurück, du kühner Sänger,"
+  },
+  {
+    "id": "a1_s4_c33_l14",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "dem unsren sei dein Lied nicht fern!"
+  },
+  {
+    "id": "a1_s4_c33_l15",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "Den Festen fehle sie nicht länger,"
+  },
+  {
+    "id": "a1_s4_c33_l16",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "aufs neue leuchte uns ihr Stern!"
+  },
+  {
+    "id": "a1_s4_c34_l1",
+    "scene": 4,
+    "speaker": "Minstrels (except Wolfram)",
+    "stageDirection": null,
+    "original": "Sei unser, Heinrich, kehr uns wieder!"
+  },
+  {
+    "id": "a1_s4_c34_l2",
+    "scene": 4,
+    "speaker": "Minstrels (except Wolfram)",
+    "stageDirection": null,
+    "original": "Zwietracht und Streit sei abgetan!"
+  },
+  {
+    "id": "a1_s4_c34_l3",
+    "scene": 4,
+    "speaker": "Minstrels (except Wolfram)",
+    "stageDirection": null,
+    "original": "Vereint ertönen unsre Lieder,"
+  },
+  {
+    "id": "a1_s4_c34_l4",
+    "scene": 4,
+    "speaker": "Minstrels (except Wolfram)",
+    "stageDirection": null,
+    "original": "und Brüder nenne uns fortan!"
+  },
+  {
+    "id": "a1_s4_c35_l1",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "O kehr zurück, du kühner Sänger!"
+  },
+  {
+    "id": "a1_s4_c35_l2",
+    "scene": 4,
+    "speaker": "Wolfram von Eschenbach",
+    "stageDirection": null,
+    "original": "O kehr zurück!"
+  },
+  {
+    "id": "a1_s4_c36_l2",
+    "scene": 4,
+    "speaker": "Landgraf Hermann",
+    "stageDirection": null,
+    "original": "Zwietracht und Streit sei abgetan"
+  },
+  {
+    "id": "a1_s4_c38_l1",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Zu ihr! Zu ihr! Oh, führet mich zu ihr!"
+  },
+  {
+    "id": "a1_s4_c38_l2",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Ha, jetzt erkenne ich sie wieder,"
+  },
+  {
+    "id": "a1_s4_c38_l3",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "die schöne Welt, der ich entrückt!"
+  },
+  {
+    "id": "a1_s4_c38_l4",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Der Himmel blickt auf mich hernieder,"
+  },
+  {
+    "id": "a1_s4_c38_l5",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "die Fluren prangen reich geschmückt!"
+  },
+  {
+    "id": "a1_s4_c38_l6",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Der Lenz, der Lenz,"
+  },
+  {
+    "id": "a1_s4_c38_l7",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "mit tausend holden Klängen"
+  },
+  {
+    "id": "a1_s4_c38_l8",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "zog jubelnd in die Seele mir!"
+  },
+  {
+    "id": "a1_s4_c38_l9",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "In süssem, ungestümen Drängen"
+  },
+  {
+    "id": "a1_s4_c38_l10",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "ruft laut mein Herz:"
+  },
+  {
+    "id": "a1_s4_c38_l11",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Zu ihr! Zu ihr!"
+  },
+  {
+    "id": "a1_s4_c38_l12",
+    "scene": 4,
+    "speaker": "Tannhäuser",
+    "stageDirection": null,
+    "original": "Führt mich zu ihr!"
+  },
+  {
+    "id": "a1_s4_c40_l1",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "Er kehrt zurück, den wir verloren!"
+  },
+  {
+    "id": "a1_s4_c40_l2",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "Ein Wunder hat ihn hergebracht!"
+  },
+  {
+    "id": "a1_s4_c40_l3",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "Die ihm den Übermut beschworen,"
+  },
+  {
+    "id": "a1_s4_c40_l4",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "gepriesen sei die holde Macht!"
+  },
+  {
+    "id": "a1_s4_c40_l5",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "Nun lausche unsern Hochgesängen"
+  },
+  {
+    "id": "a1_s4_c40_l6",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "von neuem der Gepriesnen Ohr!"
+  },
+  {
+    "id": "a1_s4_c40_l7",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "Es tön in froh belebten Klängen"
+  },
+  {
+    "id": "a1_s4_c40_l8",
+    "scene": 4,
+    "speaker": "Landgrave and Minstrels",
+    "stageDirection": null,
+    "original": "das Lied aus jeder Brust hervor!"
+  }
+]

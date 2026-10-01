@@ -1,0 +1,1208 @@
+[
+  {
+    "speaker": "Bardolfo & Pistola",
+    "original": "Siam pentiti e contriti.",
+    "cue_id": "a2_s1_c1",
+    "line_id": "a2_s1_c1_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "L'uomo ritorna al vizio,",
+    "cue_id": "a2_s1_c2",
+    "line_id": "a2_s1_c2_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "la gatta al lardo...",
+    "cue_id": "a2_s1_c2",
+    "line_id": "a2_s1_c2_l2"
+  },
+  {
+    "speaker": "Bardolfo & Pistola",
+    "original": "E noi, torniamo al tuo servizio.",
+    "cue_id": "a2_s1_c3",
+    "line_id": "a2_s1_c3_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Padron, là c'è una donna che alla vostra presenza",
+    "cue_id": "a2_s1_c4",
+    "line_id": "a2_s1_c4_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "chiede d'essere ammessa.",
+    "cue_id": "a2_s1_c4",
+    "line_id": "a2_s1_c4_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "S'inoltri.",
+    "cue_id": "a2_s1_c5",
+    "line_id": "a2_s1_c5_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Reverenza!",
+    "cue_id": "a2_s1_c7",
+    "line_id": "a2_s1_c7_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Buon giorno, buona donna.",
+    "cue_id": "a2_s1_c8",
+    "line_id": "a2_s1_c8_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Se vostra grazia vuole,",
+    "cue_id": "a2_s1_c9",
+    "line_id": "a2_s1_c9_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "vorrei, segretamente, dirle quattro parole.",
+    "cue_id": "a2_s1_c9",
+    "line_id": "a2_s1_c9_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "T'accordo udienza.",
+    "cue_id": "a2_s1_c10",
+    "line_id": "a2_s1_c10_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Escite.",
+    "cue_id": "a2_s1_c11",
+    "line_id": "a2_s1_c11_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Madonna",
+    "cue_id": "a2_s1_c14",
+    "line_id": "a2_s1_c14_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Alice Ford...",
+    "cue_id": "a2_s1_c14",
+    "line_id": "a2_s1_c14_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Ebben?",
+    "cue_id": "a2_s1_c15",
+    "line_id": "a2_s1_c15_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Ahimè! Povera donna!",
+    "cue_id": "a2_s1_c16",
+    "line_id": "a2_s1_c16_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Siete un gran seduttore!",
+    "cue_id": "a2_s1_c16",
+    "line_id": "a2_s1_c16_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Lo so. Continua.",
+    "cue_id": "a2_s1_c17",
+    "line_id": "a2_s1_c17_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "sta in gran agitazione d'amor per voi; vi dice",
+    "cue_id": "a2_s1_c19",
+    "line_id": "a2_s1_c19_l1"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "ch'ebbe la vostra lettera, che vi ringrazia e che",
+    "cue_id": "a2_s1_c19",
+    "line_id": "a2_s1_c19_l2"
+  },
+  {
+    "speaker": "Alice Ford",
+    "original": "suo marito esce sempre dalle due alle tre.",
+    "cue_id": "a2_s1_c19",
+    "line_id": "a2_s1_c19_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Dalle due alle tre.",
+    "cue_id": "a2_s1_c20",
+    "line_id": "a2_s1_c20_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Vostra grazia a quell'ora",
+    "cue_id": "a2_s1_c21",
+    "line_id": "a2_s1_c21_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "potrà liberamente salir ove dimora",
+    "cue_id": "a2_s1_c21",
+    "line_id": "a2_s1_c21_l2"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "la bella Alice! Povera donna! le angosce sue",
+    "cue_id": "a2_s1_c21",
+    "line_id": "a2_s1_c21_l3"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "son crudeli! ha un marito geloso!",
+    "cue_id": "a2_s1_c21",
+    "line_id": "a2_s1_c21_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Le dirai che impazïente aspetto quell'ora.",
+    "cue_id": "a2_s1_c23",
+    "line_id": "a2_s1_c23_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Al mio dovere non mancherò.",
+    "cue_id": "a2_s1_c23",
+    "line_id": "a2_s1_c23_l2"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Ben detto.",
+    "cue_id": "a2_s1_c24",
+    "line_id": "a2_s1_c24_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Ma c'è un'altra ambasciata per vostra grazia.",
+    "cue_id": "a2_s1_c24",
+    "line_id": "a2_s1_c24_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Parla.",
+    "cue_id": "a2_s1_c25",
+    "line_id": "a2_s1_c25_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "La bella Meg",
+    "cue_id": "a2_s1_c26",
+    "line_id": "a2_s1_c26_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "anch'essa vi saluta molto amorosamente;",
+    "cue_id": "a2_s1_c27",
+    "line_id": "a2_s1_c27_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "dice che suo marito è assai di rado assente.",
+    "cue_id": "a2_s1_c27",
+    "line_id": "a2_s1_c27_l2"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Povera donna! un giglio di candore e di fé!",
+    "cue_id": "a2_s1_c27",
+    "line_id": "a2_s1_c27_l3"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Voi le stregate tutte.",
+    "cue_id": "a2_s1_c27",
+    "line_id": "a2_s1_c27_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Stregoneria non c'è,",
+    "cue_id": "a2_s1_c28",
+    "line_id": "a2_s1_c28_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "ma un certo qual mio fascino personal... Dimmi: l'altra",
+    "cue_id": "a2_s1_c28",
+    "line_id": "a2_s1_c28_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "sa di quest'altra?",
+    "cue_id": "a2_s1_c28",
+    "line_id": "a2_s1_c28_l3"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Oibò!",
+    "cue_id": "a2_s1_c29",
+    "line_id": "a2_s1_c29_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "La donna nasce scaltra.",
+    "cue_id": "a2_s1_c29",
+    "line_id": "a2_s1_c29_l2"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Non temete.",
+    "cue_id": "a2_s1_c29",
+    "line_id": "a2_s1_c29_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Or ti vo' remunerar...",
+    "cue_id": "a2_s1_c30",
+    "line_id": "a2_s1_c30_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Chi semina grazie,",
+    "cue_id": "a2_s1_c31",
+    "line_id": "a2_s1_c31_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "raccoglie amore.",
+    "cue_id": "a2_s1_c31",
+    "line_id": "a2_s1_c31_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Prendi, Mercuriofemina.",
+    "cue_id": "a2_s1_c32",
+    "line_id": "a2_s1_c32_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Saluta le tue dame.",
+    "cue_id": "a2_s1_c33",
+    "line_id": "a2_s1_c33_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "M'inchino.",
+    "cue_id": "a2_s1_c34",
+    "line_id": "a2_s1_c34_l1"
+  },
+  {
+    "speaker": "Mrs. Quickly",
+    "original": "Falstaff solo, poi Bardolfo, poi mr. Ford, poi Pistola.",
+    "cue_id": "a2_s1_c35",
+    "line_id": "a2_s1_c35_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Alice è mia!",
+    "cue_id": "a2_s1_c36",
+    "line_id": "a2_s1_c36_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Va', vecchio John, va', va' per la tua via.",
+    "cue_id": "a2_s1_c37",
+    "line_id": "a2_s1_c37_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Questa tua vecchia carne ancora spreme",
+    "cue_id": "a2_s1_c37",
+    "line_id": "a2_s1_c37_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "qualche dolcezza a te.",
+    "cue_id": "a2_s1_c37",
+    "line_id": "a2_s1_c37_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Tutte le donne ammutinate insieme",
+    "cue_id": "a2_s1_c37",
+    "line_id": "a2_s1_c37_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "si dannano per me!",
+    "cue_id": "a2_s1_c37",
+    "line_id": "a2_s1_c37_l5"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Buon corpo di sir John, ch'io nutro e sazio,",
+    "cue_id": "a2_s1_c37",
+    "line_id": "a2_s1_c37_l6"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "va', ti ringrazio.",
+    "cue_id": "a2_s1_c37",
+    "line_id": "a2_s1_c37_l7"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Padron, di là c'è un certo messer mastro Fontana",
+    "cue_id": "a2_s1_c38",
+    "line_id": "a2_s1_c38_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "che anela di conoscervi; offre una damigiana",
+    "cue_id": "a2_s1_c38",
+    "line_id": "a2_s1_c38_l2"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "di Cipro per l'asciolvere di vostra signoria.",
+    "cue_id": "a2_s1_c38",
+    "line_id": "a2_s1_c38_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Il suo nome è Fontana?",
+    "cue_id": "a2_s1_c39",
+    "line_id": "a2_s1_c39_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Sì.",
+    "cue_id": "a2_s1_c40",
+    "line_id": "a2_s1_c40_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Bene accolta sia",
+    "cue_id": "a2_s1_c41",
+    "line_id": "a2_s1_c41_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "la fontana che spande un simile liquore!",
+    "cue_id": "a2_s1_c41",
+    "line_id": "a2_s1_c41_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Entri.",
+    "cue_id": "a2_s1_c41",
+    "line_id": "a2_s1_c41_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Va', vecchio John, per la tua via.",
+    "cue_id": "a2_s1_c43",
+    "line_id": "a2_s1_c43_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Ford travestito entra da sinistra, preceduto da Bardolfo che si ferma",
+    "cue_id": "a2_s1_c43",
+    "line_id": "a2_s1_c43_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "all'uscio e s'inchina al suo passaggio e seguìto da Pistola, il quale tiene",
+    "cue_id": "a2_s1_c43",
+    "line_id": "a2_s1_c43_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "una damigiana che depone sul tavolo.",
+    "cue_id": "a2_s1_c43",
+    "line_id": "a2_s1_c43_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Pistola e Bardolfo restano nel fondo. Ford tiene un sacchetto in mano.",
+    "cue_id": "a2_s1_c43",
+    "line_id": "a2_s1_c43_l5"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Signore,",
+    "cue_id": "a2_s1_c44",
+    "line_id": "a2_s1_c44_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "v'assista il cielo!",
+    "cue_id": "a2_s1_c44",
+    "line_id": "a2_s1_c44_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Assista voi pur, signore.",
+    "cue_id": "a2_s1_c45",
+    "line_id": "a2_s1_c45_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Io sono,",
+    "cue_id": "a2_s1_c46",
+    "line_id": "a2_s1_c46_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "davver, molto indiscreto, e vi chiedo perdono,",
+    "cue_id": "a2_s1_c46",
+    "line_id": "a2_s1_c46_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "se, senza cerimonie, qui vengo e sprovveduto",
+    "cue_id": "a2_s1_c46",
+    "line_id": "a2_s1_c46_l3"
+  },
+  {
+    "speaker": "Ford",
+    "original": "di più lunghi preamboli.",
+    "cue_id": "a2_s1_c46",
+    "line_id": "a2_s1_c46_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Voi siete il benvenuto.",
+    "cue_id": "a2_s1_c47",
+    "line_id": "a2_s1_c47_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "In me vedete un uomo ch'ha un'abbondanza grande",
+    "cue_id": "a2_s1_c48",
+    "line_id": "a2_s1_c48_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "degli agi della vita; un uom che spende e spande",
+    "cue_id": "a2_s1_c48",
+    "line_id": "a2_s1_c48_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "come più gli talenta pur di passar mattana.",
+    "cue_id": "a2_s1_c48",
+    "line_id": "a2_s1_c48_l3"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Io mi chiamo Fontana!",
+    "cue_id": "a2_s1_c48",
+    "line_id": "a2_s1_c48_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Caro signor Fontana!",
+    "cue_id": "a2_s1_c49",
+    "line_id": "a2_s1_c49_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Voglio fare con voi più ampia conoscenza.",
+    "cue_id": "a2_s1_c49",
+    "line_id": "a2_s1_c49_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Caro sir John, desidero parlarvi in confidenza.",
+    "cue_id": "a2_s1_c50",
+    "line_id": "a2_s1_c50_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Attento!",
+    "cue_id": "a2_s1_c51",
+    "line_id": "a2_s1_c51_l1"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Zitto!",
+    "cue_id": "a2_s1_c52",
+    "line_id": "a2_s1_c52_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "Guarda! Scommetto! Egli va dritto",
+    "cue_id": "a2_s1_c53",
+    "line_id": "a2_s1_c53_l1"
+  },
+  {
+    "speaker": "Bardolfo",
+    "original": "nel trabocchetto.",
+    "cue_id": "a2_s1_c53",
+    "line_id": "a2_s1_c53_l2"
+  },
+  {
+    "speaker": "Pistola",
+    "original": "Ford se lo intrappola...",
+    "cue_id": "a2_s1_c54",
+    "line_id": "a2_s1_c54_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Che fate là?",
+    "cue_id": "a2_s1_c56",
+    "line_id": "a2_s1_c56_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "V'ascolto.",
+    "cue_id": "a2_s1_c58",
+    "line_id": "a2_s1_c58_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Sir John, m'infonde ardire",
+    "cue_id": "a2_s1_c59",
+    "line_id": "a2_s1_c59_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "un ben noto proverbio popolar: si suol dire",
+    "cue_id": "a2_s1_c59",
+    "line_id": "a2_s1_c59_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "che l'oro apre ogni porta, che l'oro è un talismano,",
+    "cue_id": "a2_s1_c59",
+    "line_id": "a2_s1_c59_l3"
+  },
+  {
+    "speaker": "Ford",
+    "original": "che l'oro vince tutto.",
+    "cue_id": "a2_s1_c59",
+    "line_id": "a2_s1_c59_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "L'oro è un buon capitano",
+    "cue_id": "a2_s1_c60",
+    "line_id": "a2_s1_c60_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "che marcia avanti.",
+    "cue_id": "a2_s1_c60",
+    "line_id": "a2_s1_c60_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Ebbene. Ho un sacco di monete",
+    "cue_id": "a2_s1_c61",
+    "line_id": "a2_s1_c61_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "qua, che mi pesa assai. Sir John, se voi volete",
+    "cue_id": "a2_s1_c61",
+    "line_id": "a2_s1_c61_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "aiutarmi a portarlo...",
+    "cue_id": "a2_s1_c61",
+    "line_id": "a2_s1_c61_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Con gran piacer... non so,",
+    "cue_id": "a2_s1_c62",
+    "line_id": "a2_s1_c62_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "davver, per qual mio merito, messer...",
+    "cue_id": "a2_s1_c62",
+    "line_id": "a2_s1_c62_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Ve lo dirò.",
+    "cue_id": "a2_s1_c63",
+    "line_id": "a2_s1_c63_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "C'è a Windsor, una dama, bella e leggiadra molto.",
+    "cue_id": "a2_s1_c64",
+    "line_id": "a2_s1_c64_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Si chiama Alice; è moglie di un certo Ford.",
+    "cue_id": "a2_s1_c64",
+    "line_id": "a2_s1_c64_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Io l'amo e lei non m'ama; le scrivo, non risponde;",
+    "cue_id": "a2_s1_c66",
+    "line_id": "a2_s1_c66_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "la guardo, non mi guarda; la cerco e si nasconde.",
+    "cue_id": "a2_s1_c66",
+    "line_id": "a2_s1_c66_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Per lei sprecai tesori, gittai doni su doni,",
+    "cue_id": "a2_s1_c66",
+    "line_id": "a2_s1_c66_l3"
+  },
+  {
+    "speaker": "Ford",
+    "original": "escogitai, tremando, il vol delle occasioni.",
+    "cue_id": "a2_s1_c66",
+    "line_id": "a2_s1_c66_l4"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Ahimè! tutto fu vano! Rimasi sulle scale,",
+    "cue_id": "a2_s1_c66",
+    "line_id": "a2_s1_c66_l5"
+  },
+  {
+    "speaker": "Ford",
+    "original": "negletto, a bocca asciutta, cantando un madrigale.",
+    "cue_id": "a2_s1_c66",
+    "line_id": "a2_s1_c66_l6"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "L'amor, l'amor che non ci dà mai tregue",
+    "cue_id": "a2_s1_c67",
+    "line_id": "a2_s1_c67_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "finché la vita strugge",
+    "cue_id": "a2_s1_c67",
+    "line_id": "a2_s1_c67_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "è come l'ombra...",
+    "cue_id": "a2_s1_c67",
+    "line_id": "a2_s1_c67_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "FORD ...che chi fugge...",
+    "cue_id": "a2_s1_c67",
+    "line_id": "a2_s1_c67_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "...insegue...",
+    "cue_id": "a2_s1_c68",
+    "line_id": "a2_s1_c68_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "...e chi l'insegue...",
+    "cue_id": "a2_s1_c69",
+    "line_id": "a2_s1_c69_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "...fugge...",
+    "cue_id": "a2_s1_c70",
+    "line_id": "a2_s1_c70_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "FORD E FALSTAFF",
+    "cue_id": "a2_s1_c70",
+    "line_id": "a2_s1_c70_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "...l'amor, l'amor!...",
+    "cue_id": "a2_s1_c70",
+    "line_id": "a2_s1_c70_l3"
+  },
+  {
+    "speaker": "Ford",
+    "original": "E questo madrigale l'ho appreso a prezzo d'or.",
+    "cue_id": "a2_s1_c71",
+    "line_id": "a2_s1_c71_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Quest'è il destin fatale del misero amator.",
+    "cue_id": "a2_s1_c72",
+    "line_id": "a2_s1_c72_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Essa non vi diè mai luogo a lusinghe?",
+    "cue_id": "a2_s1_c73",
+    "line_id": "a2_s1_c73_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "No.",
+    "cue_id": "a2_s1_c74",
+    "line_id": "a2_s1_c74_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "FALSTAFF Ma infin, perché v'aprite a me?",
+    "cue_id": "a2_s1_c74",
+    "line_id": "a2_s1_c74_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Ve lo dirò:",
+    "cue_id": "a2_s1_c75",
+    "line_id": "a2_s1_c75_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "voi siete un gentiluomo prode, arguto, facondo,",
+    "cue_id": "a2_s1_c75",
+    "line_id": "a2_s1_c75_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "voi siete un uom di guerra, voi siete un uom di mondo...",
+    "cue_id": "a2_s1_c75",
+    "line_id": "a2_s1_c75_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Oh!...",
+    "cue_id": "a2_s1_c76",
+    "line_id": "a2_s1_c76_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Non vi adulo, e quello è un sacco di monete:",
+    "cue_id": "a2_s1_c77",
+    "line_id": "a2_s1_c77_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "spendetele! spendetele! sì, spendete e spandete",
+    "cue_id": "a2_s1_c77",
+    "line_id": "a2_s1_c77_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "tutto il mio patrimonio! Siate ricco e felice!",
+    "cue_id": "a2_s1_c77",
+    "line_id": "a2_s1_c77_l3"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Ma, in contraccambio, chiedo che conquistiate Alice!",
+    "cue_id": "a2_s1_c77",
+    "line_id": "a2_s1_c77_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Strana ingiunzion!",
+    "cue_id": "a2_s1_c78",
+    "line_id": "a2_s1_c78_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Mi spiego: quella crudel beltà",
+    "cue_id": "a2_s1_c79",
+    "line_id": "a2_s1_c79_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "sempre è vissuta in grande fede di castità.",
+    "cue_id": "a2_s1_c79",
+    "line_id": "a2_s1_c79_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "La sua virtù importuna m'abbarbagliava gli occhi,",
+    "cue_id": "a2_s1_c79",
+    "line_id": "a2_s1_c79_l3"
+  },
+  {
+    "speaker": "Ford",
+    "original": "la bella inespugnabile dicea: «Guai se mi tocchi!»",
+    "cue_id": "a2_s1_c79",
+    "line_id": "a2_s1_c79_l4"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Ma se voi l'espugnate, poi, posso anch'io sperar:",
+    "cue_id": "a2_s1_c79",
+    "line_id": "a2_s1_c79_l5"
+  },
+  {
+    "speaker": "Ford",
+    "original": "da fallo nasce fallo e allor... Che ve ne par?",
+    "cue_id": "a2_s1_c79",
+    "line_id": "a2_s1_c79_l6"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Prima di tutto, senza complimenti, messere,",
+    "cue_id": "a2_s1_c80",
+    "line_id": "a2_s1_c80_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "accetto il sacco. E poi (fede di cavaliere:",
+    "cue_id": "a2_s1_c80",
+    "line_id": "a2_s1_c80_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "qua la mano!) farò le vostre brame sazie.",
+    "cue_id": "a2_s1_c80",
+    "line_id": "a2_s1_c80_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Voi, la moglie di Ford possederete.",
+    "cue_id": "a2_s1_c81",
+    "line_id": "a2_s1_c81_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Grazie!",
+    "cue_id": "a2_s1_c82",
+    "line_id": "a2_s1_c82_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Io son già molto innanzi",
+    "cue_id": "a2_s1_c83",
+    "line_id": "a2_s1_c83_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "(non c'è ragion ch'io taccia con voi) : fra una mezz'ora sarà nelle mie braccia.",
+    "cue_id": "a2_s1_c83",
+    "line_id": "a2_s1_c83_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Chi?...",
+    "cue_id": "a2_s1_c84",
+    "line_id": "a2_s1_c84_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Alice. Essa mandò dianzi una... confidente",
+    "cue_id": "a2_s1_c85",
+    "line_id": "a2_s1_c85_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "per dirmi che quel tanghero di suo marito è assente",
+    "cue_id": "a2_s1_c85",
+    "line_id": "a2_s1_c85_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "dalle due alle tre.",
+    "cue_id": "a2_s1_c85",
+    "line_id": "a2_s1_c85_l3"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Lo conoscete?",
+    "cue_id": "a2_s1_c86",
+    "line_id": "a2_s1_c86_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Il diavolo",
+    "cue_id": "a2_s1_c87",
+    "line_id": "a2_s1_c87_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "se lo porti all'inferno con Menelao suo avolo!",
+    "cue_id": "a2_s1_c87",
+    "line_id": "a2_s1_c87_l2"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Vedrai! Te lo cornifico netto! se mi frastorna",
+    "cue_id": "a2_s1_c87",
+    "line_id": "a2_s1_c87_l3"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "gli sparo una girandola di botte sulle corna!",
+    "cue_id": "a2_s1_c87",
+    "line_id": "a2_s1_c87_l4"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Quel messer Ford è un bue! Un bue! Te lo corbello,",
+    "cue_id": "a2_s1_c87",
+    "line_id": "a2_s1_c87_l5"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "vedrai! Ma è tardi. Aspettami qua. Vado a farmi bello.",
+    "cue_id": "a2_s1_c87",
+    "line_id": "a2_s1_c87_l6"
+  },
+  {
+    "speaker": "Ford",
+    "original": "È sogno o realtà?... Due rami enormi",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "crescon sulla mia testa.",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "È un sogno? Mastro Ford! Mastro Ford! Dormi?",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l3"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Svegliati! Su! Ti desta!",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l4"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Tua moglie sgarra e mette in mal assetto",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l5"
+  },
+  {
+    "speaker": "Ford",
+    "original": "l'onore tuo, la tua casa ed il tuo letto!",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l6"
+  },
+  {
+    "speaker": "Ford",
+    "original": "L'ora è fissata, tramato l'inganno;",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l7"
+  },
+  {
+    "speaker": "Ford",
+    "original": "sei gabbato e truffato!...",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l8"
+  },
+  {
+    "speaker": "Ford",
+    "original": "E poi diranno",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l9"
+  },
+  {
+    "speaker": "Ford",
+    "original": "che un marito geloso è un insensato!",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l10"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Già dietro a me nomi d'infame conio",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l11"
+  },
+  {
+    "speaker": "Ford",
+    "original": "fischian passando; mormora lo scherno.",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l12"
+  },
+  {
+    "speaker": "Ford",
+    "original": "O matrimonio, inferno!",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l13"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Donna: demonio!",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l14"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Nella lor moglie abbian fede i babbei!",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l15"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Affiderei",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l16"
+  },
+  {
+    "speaker": "Ford",
+    "original": "la mia birra a un tedesco,",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l17"
+  },
+  {
+    "speaker": "Ford",
+    "original": "tutto il mio desco",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l18"
+  },
+  {
+    "speaker": "Ford",
+    "original": "a un olandese lurco,",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l19"
+  },
+  {
+    "speaker": "Ford",
+    "original": "la mia bottiglia d'acquavite a un turco,",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l20"
+  },
+  {
+    "speaker": "Ford",
+    "original": "non mia moglie a sé stessa. O laida sorte!",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l21"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Quella brutta parola in cor mi torna:",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l22"
+  },
+  {
+    "speaker": "Ford",
+    "original": "«Le corna!» Bue! Capron! le fusa torte!",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l23"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Ah! «le corna! le corna!»",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l24"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Ma non mi sfuggirai! no! sozzo, reo,",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l25"
+  },
+  {
+    "speaker": "Ford",
+    "original": "dannato epicureo!",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l26"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Prima li accoppio",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l27"
+  },
+  {
+    "speaker": "Ford",
+    "original": "e poi li colgo. Io scoppio!",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l28"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Vendicherò l'affronto!",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l29"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Laudata sempre sia",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l30"
+  },
+  {
+    "speaker": "Ford",
+    "original": "nel fondo del mio cor la gelosia.",
+    "cue_id": "a2_s1_c89",
+    "line_id": "a2_s1_c89_l31"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Eccomi qua. Son pronto.",
+    "cue_id": "a2_s1_c90",
+    "line_id": "a2_s1_c90_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "M'accompagnate un tratto?",
+    "cue_id": "a2_s1_c90",
+    "line_id": "a2_s1_c90_l2"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Vi metto sulla via.",
+    "cue_id": "a2_s1_c91",
+    "line_id": "a2_s1_c91_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Prima voi.",
+    "cue_id": "a2_s1_c93",
+    "line_id": "a2_s1_c93_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "No, sono in casa mia.",
+    "cue_id": "a2_s1_c95",
+    "line_id": "a2_s1_c95_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Passate.",
+    "cue_id": "a2_s1_c96",
+    "line_id": "a2_s1_c96_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Prego...",
+    "cue_id": "a2_s1_c97",
+    "line_id": "a2_s1_c97_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "È tardi. L'appuntamento preme.",
+    "cue_id": "a2_s1_c98",
+    "line_id": "a2_s1_c98_l1"
+  },
+  {
+    "speaker": "Ford",
+    "original": "Non fate complimenti...",
+    "cue_id": "a2_s1_c99",
+    "line_id": "a2_s1_c99_l1"
+  },
+  {
+    "speaker": "Sir John Falstaff",
+    "original": "Ebben; passiamo insieme.",
+    "cue_id": "a2_s1_c100",
+    "line_id": "a2_s1_c100_l1"
+  }
+]
