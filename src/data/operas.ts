@@ -1,14 +1,14 @@
 import { Opera } from '../types/libretto';
-import { dieZauberfloete } from './dieZauberfloete';
 import { fidelio } from './fidelio';
-import { tannhaeuser } from './tannhaeuser';
+import { dieZauberfloete } from './dieZauberfloete';
 import { falstaff } from './falstaff';
+import { tannhaeuser } from './tannhaeuser';
 
 export const OPERA_CATALOG: Opera[] = [
-  dieZauberfloete,
-  fidelio,
-  tannhaeuser,
-  falstaff
+  fidelio,          // Beethoven
+  dieZauberfloete,  // Mozart
+  falstaff,         // Verdi
+  tannhaeuser       // Wagner
 ];
 
 export const getOperaById = (id: string): Opera => {

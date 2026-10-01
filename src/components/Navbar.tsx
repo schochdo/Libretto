@@ -153,7 +153,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             <select
               value={currentOpera.id}
               onChange={(e) => onSelectOpera(e.target.value)}
-              className="appearance-none font-medium text-xs sm:text-sm py-1.5 pl-2.5 pr-8 rounded-lg border cursor-pointer focus:outline-none focus:ring-1 transition-colors max-w-[260px] sm:max-w-xs md:max-w-sm truncate"
+              className="appearance-none font-medium text-xs sm:text-sm py-1.5 pl-2.5 pr-8 rounded-lg border cursor-pointer focus:outline-none focus:ring-1 transition-colors max-w-[280px] sm:max-w-xs md:max-w-md truncate"
               style={{
                 backgroundColor: 'var(--bg-tertiary)',
                 borderColor: 'var(--border-color)',
@@ -162,9 +162,10 @@ export const Navbar: React.FC<NavbarProps> = ({
             >
               {catalog.map((op) => {
                 const composerLast = op.composer.split(' ').pop() || op.composer;
-                const label = op.id === 'die-zauberfloete'
-                  ? `${composerLast}: Die Zauberflöte (The Magic Flute)`
-                  : `${composerLast}: ${op.title}`;
+                const title = op.id === 'die-zauberfloete'
+                  ? 'Die Zauberflöte (The Magic Flute)'
+                  : op.title;
+                const label = `${composerLast}: ${title} [${op.languageLabel}]`;
                 return (
                   <option key={op.id} value={op.id}>
                     {label}
