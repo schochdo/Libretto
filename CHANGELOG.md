@@ -4,6 +4,24 @@ All notable changes to the **Libretto** project are documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.2.0] - 2026-10-04
+
+### Added
+- **Universal, Format-Agnostic Libretto Importer (`scripts/import_opera.py`)**:
+  - Source-agnostic ingestion supporting local files, remote web URLs (`http://`, `https://`), bilingual parallel text/TSV (`--format parallel`), HTML, and pre-structured JSON.
+  - Built-in German compound verb and past-participle recognition (`is_german_participle`, auxiliary verb awareness for *sein*, *haben*, *werden*).
+  - Comprehensive closed-class word catalog (articles, prepositions, pronouns, conjunctions, adverbs) in heuristic POS tagger for German and Italian, preventing false verb classifications.
+  - Automated translation smoothing rules preventing awkward hyphenated dative calques in imported libretti.
+  - Included reference parallel fixtures: `scripts/samples/sample_bilingual_parallel.tsv` and `scripts/samples/sample_german_perfekt.tsv`.
+
+### Changed
+- **Corpus Standardization & Grammar Alignment Across All Works**:
+  - Brought all existing operas (*Die Zauberflöte*, *Fidelio*, *Tannhäuser*, *Falstaff*) to the exact same high linguistic standard.
+  - **German Compound Verbs & Perfect Tense (*Perfekt*)**: Corrected past participle classification across *Die Zauberflöte*, *Fidelio*, and *Tannhäuser*. Predicate participles governed by auxiliary verbs (e.g. *Ich bin gegangen*) are now correctly tagged as `verb` (with Partizip II verbal predicate annotations) instead of being mislabeled as adjectives.
+  - **Fidelio Translation Overhaul**: Repaired all 124 defective translation lines in Acts 1 and 2 where raw German text had leaked into literal translations. Reduced residual German fragments from 218 down to **0**.
+  - **Fidelio Libretto Integrity**: Removed stray librettist credit lines embedded in dramatic dialogue (Act 2 Scene 6).
+  - **Die Zauberflöte Translation Smoothing**: Normalized 124 hyphenated pronoun calques (`to-me`, `to-you` -> `to me`, `to you`) and smoothed rigid SOV German word orders into clear, syntax-transparent English.
+
 ---
 
 ## [1.1.0] - 2026-10-04

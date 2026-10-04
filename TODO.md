@@ -44,19 +44,25 @@ This document tracks identified shortcomings, in-progress enhancements, and futu
 ---
 
 ## 4. Pipeline & Developer Tooling
+ 
+ ### [x] COMPLETED (v1.2.0): Universal Source-Agnostic Importer Tool (`scripts/import_opera.py`)
+ - Source-agnostic ingestion engine supporting local text, HTML, JSON, remote HTTP/HTTPS URLs, and bilingual parallel streams (`--format parallel`).
+ - Linguistic tokenization powered by German (`german_master_lexicon.json`) and Italian (`falstaff_master_lexicon.json`, `large_italian_vocab.json`) lemma databases.
+ - Accurate compound-verb & German *Perfekt* auxiliary participle handling (`is_german_participle`, auxiliary awareness).
+ - Robust POS heuristic tagger with comprehensive closed-class word dictionaries (particles, pronouns, prepositions, conjunctions, adverbs) for German and Italian.
+ - Automated translation smoothing and registration (`--register`) in `src/data/operas.ts`.
 
-### [x] COMPLETED (v1.1.0): Unified CLI Importer Tool (`scripts/import_opera.py`)
-- Standardized CLI tool supporting text, HTML, and structured JSON input.
-- Automatic integration with German (`german_master_lexicon.json`) and Italian (`falstaff_master_lexicon.json`, `large_italian_vocab.json`) lexicons.
-- Heuristic fallback tagging for unknown parts of speech.
-- Generates fully typed `act[N].ts` and `index.ts` files.
-- Supports `--dry-run` and `--register` flags for automated registration in `src/data/operas.ts`.
+ ### [x] COMPLETED (v1.2.0): Corpus Standardization & Grammar Alignment
+ - Uniform high standard applied across all master operas (*Die Zauberflöte*, *Fidelio*, *Tannhäuser*, *Falstaff*).
+ - Reclassified German predicate past participles with auxiliary verbs from adjective to verb.
+ - Replaced 100% of defective translations in *Fidelio* (reduced residual German words in literal translations from 218 to 0).
+ - Normalized hyphenated pronoun calques and smoothed rigid word-order inversions in *Die Zauberflöte*.
 
-### [x] COMPLETED (v1.1.0): Dynamic Code-Splitting & On-Demand Chunk Loading
-- Decoupled `OPERA_CATALOG` into lightweight `OperaSummary` metadata and async dynamic loaders (`OPERA_LOADERS`).
-- Opera libretti loaded on-demand with caching (`loadOperaById`) and loading spinner fallback.
-- Reduced initial core bundle size from **2,698 kB** (700 kB gzip) down to **298 kB** (89 kB gzip) — an **89% initial payload reduction**.
-- Configured Vite build output to split each opera into its own chunk (`opera-[name]-[hash].js`), eliminating all chunk size build warnings.
+ ### [x] COMPLETED (v1.1.0): Dynamic Code-Splitting & On-Demand Chunk Loading
+ - Decoupled `OPERA_CATALOG` into lightweight `OperaSummary` metadata and async dynamic loaders (`OPERA_LOADERS`).
+ - Opera libretti loaded on-demand with caching (`loadOperaById`) and loading spinner fallback.
+ - Reduced initial core bundle size from **2,698 kB** (700 kB gzip) down to **298 kB** (89 kB gzip) — an **89% initial payload reduction**.
+ - Configured Vite build output to split each opera into its own chunk (`opera-[name]-[hash].js`), eliminating all chunk size build warnings.
 
 ---
 

@@ -21,7 +21,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s1_c1_l1",
               "original": "Zu Hilfe! Zu Hilfe! sonst bin ich verloren,",
-              "literal": "To help! To help! Otherwise am I lost,",
+              "literal": "Help! Help! Otherwise I am lost,",
               "tokens": [
                 {
                   "word": "Zu Hilfe",
@@ -51,9 +51,9 @@ export const dieZauberfloeteAct1: Act = {
                 {
                   "word": "verloren",
                   "lemma": "verlieren",
-                  "pos": "adjective",
+                  "pos": "verb",
                   "meaning": "lost",
-                  "notes": "Past participle used predicatively."
+                  "notes": "Past participle used predicatively. (Partizip II / verbal predicate)"
                 }
               ],
               "grammarNote": "V2 word order triggered by the initial adverb 'sonst' (sonst bin ich...)."
@@ -328,7 +328,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s1_c6_l1",
               "original": "Ja, ja, gewiß! zum Malen schön.",
-              "literal": "Yes, yes, certainly! for painting handsome.",
+              "literal": "Yes, yes, certainly! handsome as a picture.",
               "tokens": [
                 {
                   "word": "gewiß",
@@ -355,7 +355,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s1_c7_l1",
               "original": "Würd' ich mein Herz der Liebe weih'n,",
-              "literal": "Would I my heart to love consecrate,",
+              "literal": "Were I to consecrate my heart to love,",
               "tokens": [
                 {
                   "word": "Würd'",
@@ -376,7 +376,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s1_c7_l2",
               "original": "so müßt' es dieser Jüngling sein.",
-              "literal": "so must it this youth be.",
+              "literal": "it would have to be this young man.",
               "tokens": [
                 {
                   "word": "müßt'",
@@ -414,7 +414,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s1_c7_l4",
               "original": "ihr diese Nachricht zu erteilen.",
-              "literal": "to-her this news to impart.",
+              "literal": "to deliver this news to her.",
               "tokens": [
                 {
                   "word": "ihr",
@@ -453,7 +453,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s1_c7_l6",
               "original": "die vor'ge Ruh' ihr geben kann.",
-              "literal": "the former peace to-her give can.",
+              "literal": "can restore her former peace to her.",
               "tokens": [
                 {
                   "word": "vor'ge",
@@ -493,7 +493,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s1_c8_l1",
               "original": "So geht und sagt es ihr,",
-              "literal": "So go and say it to-her,",
+              "literal": "So go and say it to her,",
               "tokens": [
                 {
                   "word": "geht",
@@ -1122,7 +1122,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s2_c1_l1",
               "original": "Der Vogelfänger bin ich ja –",
-              "literal": "The bird-catcher am I indeed –",
+              "literal": "The bird-catcher am I, indeed—",
               "tokens": [
                 {
                   "word": "Vogelfänger",
@@ -1180,7 +1180,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s2_c1_l4",
               "original": "bei Alt und Jung im ganzen Land.",
-              "literal": "to old and young in-the whole land.",
+              "literal": "to old and young in the whole land.",
               "tokens": [
                 {
                   "word": "bei Alt und Jung",
@@ -1233,7 +1233,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s2_c1_l7",
               "original": "Drum kann ich froh und lustig sein,",
-              "literal": "Therefore can I glad and merry be,",
+              "literal": "Therefore can I be glad and merry,",
               "tokens": [
                 {
                   "word": "Drum",
@@ -1272,7 +1272,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s2_c1_l9",
               "original": "Der Vogelfänger bin ich ja –",
-              "literal": "The bird-catcher am I indeed –",
+              "literal": "The bird-catcher am I, indeed—",
               "tokens": [
                 {
                   "word": "Vogelfänger",
@@ -1316,7 +1316,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s2_c1_l12",
               "original": "bei Alt und Jung im ganzen Land.",
-              "literal": "to old and young in-the whole land.",
+              "literal": "to old and young in the whole land.",
               "tokens": [
                 {
                   "word": "bei Alt und Jung",
@@ -1439,7 +1439,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s2_c1_l19",
               "original": "die, welche mir am liebsten wär',",
-              "literal": "she, who to-me dearest would-be,",
+              "literal": "she, who to me dearest would-be,",
               "tokens": [
                 {
                   "word": "am liebsten",
@@ -1453,7 +1453,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s2_c1_l20",
               "original": "der gäb' ich gleich den Zucker her.",
-              "literal": "to-her would-give I at-once the sugar forth.",
+              "literal": "to her would-give I at-once the sugar forth.",
               "tokens": [
                 {
                   "word": "der",
@@ -1771,7 +1771,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s2_c8_l1",
               "original": "So würde ich dir antworten, daß ich aus fürstlichem Geblüte bin.",
-              "literal": "Then would I to-you answer, that I from princely blood am.",
+              "literal": "Then would I to you answer, that I from princely blood am.",
               "tokens": [
                 {
                   "word": "So",
@@ -1817,7 +1817,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s2_c9_l1",
               "original": "Das ist mir zu hoch. – Mußt dich deutlicher erklären, wenn ich dich verstehen soll!",
-              "literal": "That is to-me too high. – Must yourself more-clearly explain, if I you understand shall!",
+              "literal": "That is to me too high. – Must yourself more-clearly explain, if I you understand shall!",
               "tokens": [
                 {
                   "word": "zu hoch",
@@ -1978,7 +1978,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s2_c13_l1",
               "original": "Langsam! laß mich fragen. – Sag du mir zuvor: Gibt's außer diesen Bergen auch noch Länder und Menschen?",
-              "literal": "Slowly! Let me ask. – Say you to-me first: Are-there beyond these mountains also still lands and people?",
+              "literal": "Slowly! Let me ask. – Say you to me first: Are-there beyond these mountains also still lands and people?",
               "tokens": [
                 {
                   "word": "Langsam",
@@ -2089,7 +2089,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s2_c16_l1",
               "original": "Nun sag' du mir, in welcher Gegend wir sind. –",
-              "literal": "Now tell you to-me, in which region we are. –",
+              "literal": "Now tell you to me, in which region we are. –",
               "tokens": [
                 {
                   "word": "Nun",
@@ -2203,7 +2203,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s2_c19_l1",
               "original": "Das kann ich dir eben so wenig beantworten, als ich weiß, wie ich auf die Welt gekommen bin.",
-              "literal": "That can I to-you just as little answer, as I know, how I into the world come have.",
+              "literal": "That can I to you just as little answer, as I know, how I into the world come have.",
               "tokens": [
                 {
                   "word": "beantworten",
@@ -3067,7 +3067,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s2_c37_l1",
               "original": "Nun ist's klar; es ist eben diese nächtliche Königinn, von der mein Vater mir so oft erzählte. –",
-              "literal": "Now is it clear; it is precisely this nightly Queen, of whom my father to-me so often told. –",
+              "literal": "Now is it clear; it is precisely this nightly Queen, of whom my father to me so often told. –",
               "tokens": [
                 {
                   "word": "klar",
@@ -3335,7 +3335,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s2_c44_l1",
               "original": "Doch für keinen Vogel? – Bleib zurück, sag' ich, und traue mir nicht; – denn ich habe Riesenkraft, wenn ich jemand packe. –",
-              "literal": "Surely for no bird? – Stay back, say I, and trust to-me not; – for I have giant's-strength, when I someone grab. –",
+              "literal": "Surely for no bird? – Stay back, say I, and trust to me not; – for I have giant's-strength, when I someone grab. –",
               "tokens": [
                 {
                   "word": "Doch",
@@ -3501,7 +3501,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s2_c47_l1",
               "original": "Du willst durch deine bescheidene Frage meinen Dank ablehnen – aber ich muß dir sagen, daß ich ewig für deine so tapfere Handlung dankbar seyn werde.",
-              "literal": "You wish through your modest question my thanks to-decline – but I must to-you say, that I eternally for your so brave deed grateful be will.",
+              "literal": "You wish through your modest question my thanks to-decline – but I must to you say, that I eternally for your so brave deed grateful be will.",
               "tokens": [
                 {
                   "word": "bescheidene",
@@ -3911,7 +3911,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s3_c4_l2",
               "original": "Ich weis nur so viel, daß sie mir täglich meine Vögel abnehmen, und mir dafür Wein, Zuckerbrod, und süße Feigen bringen.",
-              "literal": "I know only so much, that they [the Ladies] from-me daily my birds take-off, and to-me in-return wine, sweet-bread, and sweet figs bring.",
+              "literal": "I know only so much, that they [the Ladies] from-me daily my birds take-off, and to me in-return wine, sweet-bread, and sweet figs bring.",
               "tokens": [
                 {
                   "word": "abnehmen",
@@ -4057,7 +4057,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s3_c8_l1",
               "original": "Sey still! sie drohen mir schon. –",
-              "literal": "Be quiet! They [the Ladies] threaten to-me already. –",
+              "literal": "Be quiet! They [the Ladies] threaten to me already. –",
               "tokens": [
                 {
                   "word": "Sey still",
@@ -4077,7 +4077,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s3_c8_l2",
               "original": "Du fragst, ob sie schön sind, und ich kann dir darauf nichts antworten, als daß ich in meinem Leben nichts Reitzenders sah. – Jetzt werden sie bald wieder gut werden. – –",
-              "literal": "You ask, whether they [the Ladies] beautiful are, and I can to-you thereto nothing answer, than that I in my life nothing more-charming saw. – Now will they [the Ladies] soon again good become. – –",
+              "literal": "You ask, whether they [the Ladies] beautiful are, and I can to you thereto nothing answer, than that I in my life nothing more-charming saw. – Now will they [the Ladies] soon again good become. – –",
               "tokens": [
                 {
                   "word": "Reitzenders",
@@ -4138,8 +4138,9 @@ export const dieZauberfloeteAct1: Act = {
                 {
                   "word": "aufgebracht",
                   "lemma": "aufbringen",
-                  "pos": "adjective",
-                  "meaning": "enraged / angry"
+                  "pos": "verb",
+                  "meaning": "enraged / angry",
+                  "notes": "Past participle (Partizip II) in verbal predicate."
                 },
                 {
                   "word": "wider",
@@ -4181,7 +4182,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s3_c11_l1",
               "original": "Dafür schickt dir unsre Fürstinn heute zum ersten Mahl statt Wein reines helles Wasser.",
-              "literal": "In-return sends to-you our Princess today for the first time instead-of wine pure clear water.",
+              "literal": "In-return sends to you our Princess today for the first time instead-of wine pure clear water.",
               "tokens": [
                 {
                   "word": "Fürstinn",
@@ -4228,7 +4229,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s3_c12_l1",
               "original": "Und mir befahl sie, daß ich, statt Zuckerbrod, diesen Stein dir überbringen soll. –",
-              "literal": "And to-me ordered she [the Queen], that I, instead-of sweet-bread, this stone to-you deliver shall. –",
+              "literal": "And to me ordered she [the Queen], that I, instead-of sweet-bread, this stone to you deliver shall. –",
               "tokens": [
                 {
                   "word": "befahl",
@@ -4254,7 +4255,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s3_c12_l2",
               "original": "Ich wünsche, daß er dir wohl bekommen möge.",
-              "literal": "I wish, that it [the stone] to-you well agree may.",
+              "literal": "I wish, that it [the stone] to you well agree may.",
               "tokens": [
                 {
                   "word": "wohl bekommen",
@@ -4310,7 +4311,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s3_c14_l1",
               "original": "Und statt der süßen Feigen hab' ich die Ehre, dir dieß goldene Schloß vor den Mund zu schlagen.",
-              "literal": "And instead-of the sweet figs have I the honor, to-you this golden lock in-front-of the mouth to strike.",
+              "literal": "And instead-of the sweet figs have I the honor, to you this golden lock in-front-of the mouth to strike.",
               "tokens": [
                 {
                   "word": "die Ehre",
@@ -4605,7 +4606,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s3_c24_l2",
               "original": "Hier, dies Gemälde schickt dir die große Fürstinn; es ist das Bildniß ihrer Tochter –",
-              "literal": "Here, this painting sends to-you the great Princess; it is the portrait of-her [the Princess's] daughter –",
+              "literal": "Here, this painting sends to you the great Princess; it is the portrait of-her [the Princess's] daughter –",
               "tokens": [
                 {
                   "word": "Gemälde",
@@ -4638,7 +4639,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s3_c24_l3",
               "original": "findest du, sagte sie, daß diese Züge dir nicht gleichgültig sind, dann ist Glück, Ehr' und Ruhm dein Loos. – Auf Wiedersehen.",
-              "literal": "find you, said she [the Princess], that these features to-you not indifferent are, then is fortune, honor, and fame your lot. – Until we meet again.",
+              "literal": "find you, said she [the Princess], that these features to you not indifferent are, then is fortune, honor, and fame your lot. – Until we meet again.",
               "tokens": [
                 {
                   "word": "Züge",
@@ -5108,7 +5109,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s4_c3_l1",
               "original": "Hat mir aufgetragen, dir zu sagen –",
-              "literal": "Has to-me instructed, to-you to say –",
+              "literal": "Has to me instructed, to you to say –",
               "tokens": [
                 {
                   "word": "aufgetragen",
@@ -5620,7 +5621,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s4_c14_l1",
               "original": "Dieß ist der Name der königlichen Tochter, so ihr anbetet.",
-              "literal": "This is the name of-the royal daughter, whom you adore.",
+              "literal": "This is the name of the royal daughter, whom you adore.",
               "tokens": [
                 {
                   "word": "Dieß",
@@ -5759,7 +5760,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s4_c17_l1",
               "original": "Lästere der holden Schönheit Tugend nicht! – Trotz aller Pein, so die Unschuld duldet, ist sie sich immer gleich. –",
-              "literal": "Blaspheme of-the lovely beauty's virtue not! – Despite all pain, which the innocence endures, is she [Pamina] to-herself always true. –",
+              "literal": "Blaspheme of the lovely beauty's virtue not! – Despite all pain, which the innocence endures, is she [Pamina] to-herself always true. –",
               "tokens": [
                 {
                   "word": "Lästere",
@@ -6088,7 +6089,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s4_c23_l1",
               "original": "Es verkündigt die Ankunft unserer Königinn.",
-              "literal": "It announces the arrival of-our Queen.",
+              "literal": "It announces the arrival of our Queen.",
               "tokens": [
                 {
                   "word": "verkündigt",
@@ -6246,7 +6247,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s4_c25_l6",
               "original": "denn meine Tochter fehlet mir.",
-              "literal": "for my daughter is-missing to-me.",
+              "literal": "for my daughter is-missing to me.",
               "tokens": [
                 {
                   "word": "fehlet mir",
@@ -6606,7 +6607,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s5_c1_l3",
               "original": "Schützet meinen Arm, stählt meinen Muth, und Taminos Herz wird ewigen Dank euch entgegen schlagen.",
-              "literal": "Protect my arm, steel my courage, and Tamino's heart will eternal thanks to-you beat.",
+              "literal": "Protect my arm, steel my courage, and Tamino's heart will eternal thanks to you beat.",
               "tokens": [
                 {
                   "word": "Schützet",
@@ -6784,7 +6785,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s5_c7_l2",
               "original": "entläßt die Strafe dir durch mich. –",
-              "literal": "remits the punishment to-you through me. –",
+              "literal": "remits the punishment to you through me. –",
               "tokens": [
                 {
                   "word": "entläßt",
@@ -7058,7 +7059,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s5_c15_l2",
               "original": "dies sendet uns're Fürstin dir.",
-              "literal": "this sends our sovereign-lady to-you.",
+              "literal": "this sends our sovereign-lady to you.",
               "tokens": [
                 {
                   "word": "sendet",
@@ -7106,7 +7107,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s5_c16_l2",
               "original": "im größten Unglück unterstützen.",
-              "literal": "in-the greatest misfortune support [you].",
+              "literal": "in the greatest misfortune support [you].",
               "tokens": [
                 {
                   "word": "im größten Unglück",
@@ -7479,7 +7480,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s5_c21_l6",
               "original": "setzte mich den Hunden für.",
-              "literal": "would-set me to-the dogs before [cast me to the dogs].",
+              "literal": "would-set me to the dogs before [cast me to the dogs].",
               "tokens": [
                 {
                   "word": "setzte ... für",
@@ -7553,7 +7554,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s5_c23_l1",
               "original": "Daß doch der Prinz beim Teufel wäre.",
-              "literal": "That only the prince with-the devil were!",
+              "literal": "That only the prince with the devil were!",
               "tokens": [
                 {
                   "word": "beim Teufel",
@@ -7567,7 +7568,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s5_c23_l2",
               "original": "Mein Leben ist mir lieb.",
-              "literal": "My life is to-me dear.",
+              "literal": "My life is to me dear.",
               "tokens": [
                 {
                   "word": "lieb",
@@ -8090,8 +8091,9 @@ export const dieZauberfloeteAct1: Act = {
                 {
                   "word": "alles belauschende",
                   "lemma": "belauschen",
-                  "pos": "adjective",
-                  "meaning": "all-eavesdropping / spying on everything"
+                  "pos": "verb",
+                  "meaning": "all-eavesdropping / spying on everything",
+                  "notes": "Past participle (Partizip II) in verbal predicate."
                 },
                 {
                   "word": "Mohr",
@@ -8322,7 +8324,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s6_c12_l1",
               "original": "O Dank euch ihr guten Götter! ihr habt meine Bitte erhört.",
-              "literal": "O thanks to-you you good gods! You have heard my plea.",
+              "literal": "O thanks to you you good gods! You have heard my plea.",
               "tokens": [
                 {
                   "word": "Dank euch",
@@ -8366,7 +8368,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s6_c13_l1",
               "original": "Sagt' ich euch nicht immer, es wird doch ein Tag für uns scheinen,",
-              "literal": "Said I to-you not always, it will surely a day for us shine,",
+              "literal": "Said I to you not always, it will surely a day for us shine,",
               "tokens": [
                 {
                   "word": "Sagt'",
@@ -8532,7 +8534,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s6_c16_l2",
               "original": "Wie mir einige Brüder erzählten, die im Garten arbeiteten, und von weitem sahen und hörten, so ist der Mohr nicht mehr zu retten;",
-              "literal": "As to-me some brothers told, who in-the garden worked, and from afar saw and heard, so is the Moor [Monostatos] no more to save;",
+              "literal": "As to me some brothers told, who in the garden worked, and from afar saw and heard, so is the Moor [Monostatos] no more to save;",
               "tokens": [
                 {
                   "word": "Brüder",
@@ -8723,7 +8725,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s6_c19_l1",
               "original": "O wie wird das schüchterne Reh mit Todesangst dem Pallaste ihrer zärtlichen Mutter zueilen.",
-              "literal": "O how will the timid deer [Pamina] with mortal-dread to-the palace of-her tender mother [Queen of the Night] hurry-towards.",
+              "literal": "O how will the timid deer [Pamina] with mortal-dread to the palace of-her tender mother [Queen of the Night] hurry-towards.",
               "tokens": [
                 {
                   "word": "schüchterne",
@@ -9115,8 +9117,9 @@ export const dieZauberfloeteAct1: Act = {
                 {
                   "word": "Verloren",
                   "lemma": "verlieren",
-                  "pos": "adjective",
-                  "meaning": "lost / doomed / forfeit"
+                  "pos": "verb",
+                  "meaning": "lost / doomed / forfeit",
+                  "notes": "Past participle (Partizip II) in verbal predicate."
                 }
               ],
               "grammarNote": "Fronted predicate adjective causing inversion: 'Verloren ist dein Leben'."
@@ -9780,7 +9783,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s7_c5_l3",
               "original": "Ah, sieh da! hier ist das schöne Fräulenbild noch. – Du Tochter der nächtlichen Königinn!",
-              "literal": "Ah, look there! Here is the beautiful maiden [Pamina] still. – You daughter of-the nocturnal Queen [Queen of the Night]!",
+              "literal": "Ah, look there! Here is the beautiful maiden [Pamina] still. – You daughter of the nocturnal Queen [Queen of the Night]!",
               "tokens": [
                 {
                   "word": "sieh da",
@@ -9851,7 +9854,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s7_c7_l1",
               "original": "Ein Abgesandter der sternflammenden Königinn.",
-              "literal": "An envoy of-the star-blazing Queen [Queen of the Night].",
+              "literal": "An envoy of the star-blazing Queen [Queen of the Night].",
               "tokens": [
                 {
                   "word": "Abgesandter",
@@ -10018,7 +10021,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s7_c13_l1",
               "original": "Wenn du die Tochter der nächtlichen Königinn bist – ja!",
-              "literal": "If you the daughter of-the nocturnal Queen [Queen of the Night] are – yes!",
+              "literal": "If you the daughter of the nocturnal Queen [Queen of the Night] are – yes!",
               "tokens": [
                 {
                   "word": "Tochter",
@@ -10337,7 +10340,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s7_c21_l1",
               "original": "Ich muß dir das umständlicher erzählen. –",
-              "literal": "I must to-you that more-circumstantially tell. –",
+              "literal": "I must to you that more-circumstantially tell. –",
               "tokens": [
                 {
                   "word": "umständlicher",
@@ -10446,7 +10449,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s7_c23_l2",
               "original": "Eben als ich im Begriff war, meine Vögel abzugeben, sah ich einen Menschen vor mir, der sich Prinz nennen läßt.",
-              "literal": "Just when I in-the notion was, my birds to-hand-over, saw I a person before me, who himself Prince calls.",
+              "literal": "Just when I in the notion was, my birds to-hand-over, saw I a person before me, who himself Prince calls.",
               "tokens": [
                 {
                   "word": "im Begriff war",
@@ -10472,7 +10475,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s7_c23_l3",
               "original": "Dieser Prinz hat deine Mutter so eingenommen, daß sie ihm dein Bildniß schenkte, und ihm befahl, dich zu befreyen. – Sein Entschluß war so schnell, als seine Liebe zu dir.",
-              "literal": "This Prince [Tamino] has your mother [Queen of the Night] so captivated, that she to-him your portrait gave, and commanded him to liberate you [Pamina]. – His decision was as swift as his love for you [Pamina].",
+              "literal": "This Prince [Tamino] has your mother [Queen of the Night] so captivated, that she to him your portrait gave, and commanded him to liberate you [Pamina]. – His decision was as swift as his love for you [Pamina].",
               "tokens": [
                 {
                   "word": "eingenommen",
@@ -10543,7 +10546,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s7_c24_l2",
               "original": "O sage mir das noch ein Mahl, ich höre das Wort Liebe gar zu gerne.",
-              "literal": "O tell to-me that yet once more, I hear the word love all too gladly.",
+              "literal": "O tell to me that yet once more, I hear the word love all too gladly.",
               "tokens": [
                 {
                   "word": "noch ein Mahl",
@@ -10673,7 +10676,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s7_c27_l3",
               "original": "nun sind wir hier, dir tausend schöne und angenehme Sachen zu sagen; dich in unsre Arme zu nehmen, und wenn es möglich ist, eben so schnell, wo nicht schneller als hierher, in den Pallast deiner Mutter zu eilen.",
-              "literal": "now are we here, to-you a-thousand beautiful and pleasant things to say; you into our arms to take, and if it possible is, just as swiftly, if not more-swiftly than hither, into the palace of-your mother [Queen of the Night] to hasten.",
+              "literal": "now are we here, to you a-thousand beautiful and pleasant things to say; you into our arms to take, and if it possible is, just as swiftly, if not more-swiftly than hither, into the palace of-your mother [Queen of the Night] to hasten.",
               "tokens": [
                 {
                   "word": "angenehme",
@@ -10877,7 +10880,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s7_c31_l2",
               "original": "Zur Sicherheit also war der Prinz so fein, mich voraus zu schicken, um dir unsre Ankunft anzukündigen. –",
-              "literal": "For safety therefore was the Prince [Tamino] so clever, me in-advance to send, in-order to-you our arrival to-announce. –",
+              "literal": "For safety therefore was the Prince [Tamino] so clever, me in-advance to send, in-order to you our arrival to-announce. –",
               "tokens": [
                 {
                   "word": "Zur Sicherheit",
@@ -10959,7 +10962,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s7_c33_l1",
               "original": "So wird mir meine Rückreise erspart – Das kann ich mir denken.",
-              "literal": "Then will to-me my return-journey [be] spared – That can I to-myself imagine.",
+              "literal": "Then will to me my return-journey [be] spared – That can I to-myself imagine.",
               "tokens": [
                 {
                   "word": "Rückreise",
@@ -11356,7 +11359,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s7_c43_l1",
               "original": "Schön's Fräulenbild, wenn dir wieder ein so böser Verdacht aufsteigen sollte, daß ich dich betrügen wollte,",
-              "literal": "Fair maiden, if to-you again such [an] evil suspicion arise should, that I you deceive wanted,",
+              "literal": "Fair maiden, if to you again such [an] evil suspicion arise should, that I you deceive wanted,",
               "tokens": [
                 {
                   "word": "Schön's",
@@ -11573,8 +11576,9 @@ export const dieZauberfloeteAct1: Act = {
                 {
                   "word": "betrübt",
                   "lemma": "betrüben",
-                  "pos": "adjective",
-                  "meaning": "sorrowful / depressing / sad"
+                  "pos": "verb",
+                  "meaning": "sorrowful / depressing / sad",
+                  "notes": "Past participle (Partizip II) in verbal predicate."
                 }
               ],
               "grammarNote": "Archaic spelling 'einmahl' for modern 'einmal'."
@@ -11658,7 +11662,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s7_c48_l2",
               "original": "er wird dir eine Freundinn schicken, ehe du dir's vermuthest. –",
-              "literal": "it [Heaven] will to-you a female-friend send, before you to-yourself it expect. –",
+              "literal": "it [Heaven] will to you a female-friend send, before you to-yourself it expect. –",
               "tokens": [
                 {
                   "word": "Freundinn",
@@ -11828,7 +11832,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s7_c52_l1",
               "original": "Wir wollen uns der Liebe freu'n,",
-              "literal": "We will ourselves in-the love rejoice,",
+              "literal": "We will ourselves in the love rejoice,",
               "tokens": [
                 {
                   "word": "uns ... freu'n",
@@ -11887,7 +11891,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s7_c53_l2",
               "original": "ihr opfert jede Kreatur.",
-              "literal": "to-her sacrifices every creature.",
+              "literal": "to her sacrifices every creature.",
               "tokens": [
                 {
                   "word": "ihr",
@@ -11939,7 +11943,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s7_c54_l2",
               "original": "sie wirkt im Kreise der Natur.",
-              "literal": "she works in-the cycle of nature.",
+              "literal": "she works in the cycle of nature.",
               "tokens": [
                 {
                   "word": "wirkt",
@@ -12166,7 +12170,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c2_l1",
               "original": "Ihr holden Knaben sagt mir an,",
-              "literal": "You gracious boys tell to-me on [tell me],",
+              "literal": "You gracious boys tell to me on [tell me],",
               "tokens": [
                 {
                   "word": "sagt ... an",
@@ -12212,7 +12216,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c3_l1",
               "original": "Dies kund zu tun steht uns nicht an;",
-              "literal": "This known to make stands to-us not on [is not fitting for us to disclose];",
+              "literal": "This known to make stands to us not on [is not fitting for us to disclose];",
               "tokens": [
                 {
                   "word": "kund zu tun",
@@ -12309,7 +12313,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c5_l2",
               "original": "sei ewig mir ins Herz gegraben.",
-              "literal": "be forever to-me into-the heart engraved.",
+              "literal": "be forever to me into-the heart engraved.",
               "tokens": [
                 {
                   "word": "sei ... gegraben",
@@ -12342,7 +12346,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c5_l4",
               "original": "Ist dies der Sitz der Götter hier? –",
-              "literal": "Is this the seat of-the gods here? –",
+              "literal": "Is this the seat of the gods here? –",
               "tokens": [
                 {
                   "word": "Sitz",
@@ -12476,7 +12480,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c5_l9",
               "original": "Ich wage mich mutig zur Pforte hinein.",
-              "literal": "I venture myself boldly to-the portal inside.",
+              "literal": "I venture myself boldly to the portal inside.",
               "tokens": [
                 {
                   "word": "Ich wage mich",
@@ -12551,7 +12555,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c5_l12",
               "original": "Paminen retten ist mir Pflicht!",
-              "literal": "Pamina to-rescue is to-me duty!",
+              "literal": "Pamina to-rescue is to me duty!",
               "tokens": [
                 {
                   "word": "Paminen",
@@ -12735,7 +12739,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c14_l2",
               "original": "Was suchst du hier im Heiligtum? –",
-              "literal": "What seek you here in-the sanctuary? –",
+              "literal": "What seek you here in the sanctuary? –",
               "tokens": [
                 {
                   "word": "suchst du",
@@ -12978,7 +12982,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c22_l1",
               "original": "Er herrscht im Weisheitstempel hier! –",
-              "literal": "He rules in-the temple of wisdom here! –",
+              "literal": "He rules in the temple of wisdom here! –",
               "tokens": [
                 {
                   "word": "Weisheitstempel",
@@ -13077,7 +13081,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c26_l1",
               "original": "Erklär dich näher mir,",
-              "literal": "Explain yourself more-closely to-me,",
+              "literal": "Explain yourself more-closely to me,",
               "tokens": [
                 {
                   "word": "Erklär dich",
@@ -13136,7 +13140,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c27_l2",
               "original": "das ist mir schon genug! –",
-              "literal": "that is to-me already enough! –",
+              "literal": "that is to me already enough! –",
               "tokens": [
                 {
                   "word": "genug",
@@ -13216,7 +13220,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c30_l1",
               "original": "So gib mir deine Gründe an! –",
-              "literal": "So give to-me your reasons on [state your reasons]! –",
+              "literal": "So give to me your reasons on [state your reasons]! –",
               "tokens": [
                 {
                   "word": "gib ... an",
@@ -13381,7 +13385,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c34_l4",
               "original": "O legte doch Sarastro dir",
-              "literal": "O laid only Sarastro to-you",
+              "literal": "O laid only Sarastro to you",
               "tokens": [
                 {
                   "word": "legte ... vor",
@@ -13459,7 +13463,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c35_l3",
               "original": "Pamina aus der Mutter Armen? –",
-              "literal": "Pamina out of-the mother's arms? –",
+              "literal": "Pamina out of the mother's arms? –",
               "tokens": [
                 {
                   "word": "der Mutter Armen",
@@ -13552,7 +13556,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c38_l2",
               "original": "ist jetzt und mir noch nicht erlaubt. –",
-              "literal": "is now and to-me not yet permitted. –",
+              "literal": "is now and to me not yet permitted. –",
               "tokens": [
                 {
                   "word": "erlaubt",
@@ -13678,7 +13682,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c42_l2",
               "original": "ins Heiligtum zum ew'gen Band.",
-              "literal": "into-the sanctuary to-the eternal bond.",
+              "literal": "into-the sanctuary to the eternal bond.",
               "tokens": [
                 {
                   "word": "ew'gen Band",
@@ -13758,7 +13762,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c46_l2",
               "original": "Ihr Unsichtbaren saget mir:",
-              "literal": "You invisible-ones tell to-me:",
+              "literal": "You invisible-ones tell to me:",
               "tokens": [
                 {
                   "word": "Ihr Unsichtbaren",
@@ -13846,7 +13850,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c49_l1",
               "original": "O wenn ich doch im Stande wäre,",
-              "literal": "O if I only in-the position were [were able],",
+              "literal": "O if I only in the position were [were able],",
               "tokens": [
                 {
                   "word": "im Stande wäre",
@@ -14368,7 +14372,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c60_l4",
               "original": "wart, man wird euch Mores weisen!",
-              "literal": "wait, one will to-you manners show [we'll teach you manners]!",
+              "literal": "wait, one will to you manners show [we'll teach you manners]!",
               "tokens": [
                 {
                   "word": "Mores weisen",
@@ -14528,7 +14532,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c64_l4",
               "original": "daß die Ohren ihnen singen.",
-              "literal": "so-that the ears to-them sing [their ears ring].",
+              "literal": "so-that the ears to them sing [their ears ring].",
               "tokens": [
                 {
                   "word": "daß",
@@ -15274,7 +15278,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c77_l6",
               "original": "doch geb' ich dir die Freiheit nicht.",
-              "literal": "yet give I to-you freedom not [yet I do not grant you freedom].",
+              "literal": "yet give I to you freedom not [yet I do not grant you freedom].",
               "tokens": [
                 {
                   "word": "geb' ich dir",
@@ -15366,7 +15370,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c79_l3",
               "original": "wenn ich dich ihren Händen ließe. –",
-              "literal": "if I you to-her hands left. –",
+              "literal": "if I you to her hands left. –",
               "tokens": [
                 {
                   "word": "ihren Händen",
@@ -15853,7 +15857,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c93_l2",
               "original": "He! gebt dem Ehrenmann sogleich –",
-              "literal": "Hey! Give to-the man-of-honor immediately –",
+              "literal": "Hey! Give to the man-of-honor immediately –",
               "tokens": [
                 {
                   "word": "dem Ehrenmann",
@@ -16177,7 +16181,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c102_l4",
               "original": "und Sterbliche den Göttern gleich.",
-              "literal": "and mortals to-the gods equal.",
+              "literal": "and mortals to the gods equal.",
               "tokens": [
                 {
                   "word": "Sterbliche",
@@ -16206,3 +16210,5 @@ export const dieZauberfloeteAct1: Act = {
     }
   ]
 };
+
+export default dieZauberfloeteAct1;
