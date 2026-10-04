@@ -36,3 +36,6 @@ export const dieZauberfloete: Opera = {
     dieZauberfloeteAct2
   ]
 };
+
+export default dieZauberfloete;
+

@@ -35,3 +35,6 @@ export const tannhaeuser: Opera = {
     tannhaeuserAct3
   ]
 };
+
+export default tannhaeuser;
+

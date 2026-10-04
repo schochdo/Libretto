@@ -6,6 +6,29 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ---
 
+## [1.1.0] - 2026-10-04
+
+### Added
+- **Unified CLI Libretto Importer Tool (`scripts/import_opera.py`)**:
+  - Full CLI utility supporting raw text, HTML, and structured JSON libretto ingestion.
+  - Native integration with Libretto's master German and Italian lemma dictionaries for morphological tokenization.
+  - Automatic Part of Speech heuristic inference for unknown words.
+  - Automated generation of typed TypeScript act files (`act[1-N].ts`) and `index.ts`.
+  - Automatic registration in `src/data/operas.ts` via `--register` flag.
+  - Provided test libretto fixture in `scripts/samples/sample_don_giovanni.txt`.
+
+### Changed
+- **Dynamic Code-Splitting & Modular Bundle Architecture**:
+  - Refactored `src/data/operas.ts` to separate lightweight catalog summaries (`OperaSummary`) from full libretto data.
+  - Implemented on-demand asynchronous dynamic loading (`loadOperaById`) with in-memory caching.
+  - Reader shell displays a sleek loading state while fetching libretto modules.
+  - Cut core initial application bundle from **2.7 MB** down to **298 kB** (from 700 kB gzip down to 89 kB gzip), achieving an **89% initial payload reduction**.
+  - Configured Vite build output to split each opera into dedicated chunks (`opera-[name]-[hash].js`), eliminating all chunk size warning thresholds.
+- **Roadmap Streamlining**:
+  - Removed in-browser importer and IPA transcription from active backlog.
+
+---
+
 ## [1.0.0] - 2026-10-01
 
 ### Added

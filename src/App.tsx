@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useMemo, useCallback, useRef } from 'react';
-import { OPERA_CATALOG, getOperaById } from './data/operas';
-import { Line, Token, Cue, ThemeMode } from './types/libretto';
+import { OPERA_CATALOG, loadOperaById, getOperaSummaryById, getCachedOpera } from './data/operas';
+import { Opera, Line, Token, Cue, ThemeMode } from './types/libretto';
 import { Navbar } from './components/Navbar';
 import { DualColumnReader } from './components/DualColumnReader';
 import { LinguisticInspector } from './components/LinguisticInspector';
@@ -27,6 +27,41 @@ export const App: React.FC = () => {
     return saved ? parseFloat(saved) : 1.0;
   });
 
+  const [currentOpera, setCurrentOpera] = useState<Opera | null>(() => {
+    return getCachedOpera(currentOperaId) || null;
+  });
+  const [isLoadingOpera, setIsLoadingOpera] = useState<boolean>(!currentOpera);
+
+  useEffect(() => {
+    let isCancelled = false;
+    const cached = getCachedOpera(currentOperaId);
+    if (cached) {
+      setCurrentOpera(cached);
+      setIsLoadingOpera(false);
+      return;
+    }
+
+    setIsLoadingOpera(true);
+    loadOperaById(currentOperaId)
+      .then((opera) => {
+        if (!isCancelled) {
+          setCurrentOpera(opera);
+          setIsLoadingOpera(false);
+        }
+      })
+      .catch((err) => {
+        console.error('Failed to load opera', err);
+        if (!isCancelled) {
+          setIsLoadingOpera(false);
+        }
+      });
+
+    return () => {
+      isCancelled = true;
+    };
+  }, [currentOperaId]);
+
+  const currentSummary = useMemo(() => getOperaSummaryById(currentOperaId), [currentOperaId]);
 
   const [currentActIndex, setCurrentActIndex] = useState<number>(0);
   const [currentSceneIndex, setCurrentSceneIndex] = useState<number>(0);
@@ -41,9 +76,8 @@ export const App: React.FC = () => {
   const [isScenePickerOpen, setIsScenePickerOpen] = useState<boolean>(false);
   const [voiceVersion, setVoiceVersion] = useState<number>(0);
 
-  const currentOpera = useMemo(() => getOperaById(currentOperaId), [currentOperaId]);
-  const currentAct = currentOpera.acts[currentActIndex] || currentOpera.acts[0];
-  const currentScene = currentAct?.scenes[currentSceneIndex] || currentAct?.scenes[0];
+  const currentAct = currentOpera ? (currentOpera.acts[currentActIndex] || currentOpera.acts[0]) : null;
+  const currentScene = currentAct ? (currentAct.scenes[currentSceneIndex] || currentAct.scenes[0]) : null;
 
   // Scroll reader pane to top when opera, act, or scene changes
   useEffect(() => {
@@ -53,9 +87,10 @@ export const App: React.FC = () => {
   }, [currentOperaId, currentActIndex, currentSceneIndex]);
 
   const activeVoiceName = useMemo(() => {
-    const v = getBestVoiceForLanguage(currentOpera.language);
+    const lang = currentOpera ? currentOpera.language : currentSummary.language;
+    const v = getBestVoiceForLanguage(lang);
     return v ? v.name : '';
-  }, [currentOpera.language, voiceVersion]);
+  }, [currentOpera, currentSummary.language, voiceVersion]);
 
   // Apply theme class to document body and update browser tab color
   useEffect(() => {
@@ -139,6 +174,7 @@ export const App: React.FC = () => {
 
   // Opera switch
   const handleSelectOpera = (id: string) => {
+    if (id === currentOperaId) return;
     setCurrentOperaId(id);
     setCurrentActIndex(0);
     setCurrentSceneIndex(0);
@@ -146,6 +182,7 @@ export const App: React.FC = () => {
     setActiveLine(null);
     setActiveCue(null);
     setSelectedToken(null);
+    setSearchQuery('');
   };
 
   // Scene switch
@@ -158,11 +195,14 @@ export const App: React.FC = () => {
     setSelectedToken(null);
   };
 
-  const hasPrevScene = currentActIndex > 0 || currentSceneIndex > 0;
-  const hasNextScene = currentActIndex < currentOpera.acts.length - 1 || 
-                       (currentAct && currentSceneIndex < currentAct.scenes.length - 1);
+  const hasPrevScene = currentOpera ? (currentActIndex > 0 || currentSceneIndex > 0) : false;
+  const hasNextScene = currentOpera ? (
+    currentActIndex < currentOpera.acts.length - 1 || 
+    (Boolean(currentAct) && currentSceneIndex < (currentAct?.scenes.length ?? 0) - 1)
+  ) : false;
 
   const handlePrevScene = () => {
+    if (!currentOpera) return;
     if (currentSceneIndex > 0) {
       handleSelectActScene(currentActIndex, currentSceneIndex - 1);
     } else if (currentActIndex > 0) {
@@ -172,6 +212,7 @@ export const App: React.FC = () => {
   };
 
   const handleNextScene = () => {
+    if (!currentOpera) return;
     if (currentAct && currentSceneIndex < currentAct.scenes.length - 1) {
       handleSelectActScene(currentActIndex, currentSceneIndex + 1);
     } else if (currentActIndex < currentOpera.acts.length - 1) {
@@ -184,9 +225,9 @@ export const App: React.FC = () => {
     setFontSizeMultiplier(prev => Math.min(1.5, Math.max(0.8, parseFloat((prev + delta).toFixed(2)))));
   };
 
-
   // Navigate directly to line from global search
   const handleNavigateToLine = useCallback((actIndex: number, sceneIndex: number, lineId: string) => {
+    if (!currentOpera) return;
     setCurrentActIndex(actIndex);
     setCurrentSceneIndex(sceneIndex);
     setActiveLineId(lineId);
@@ -254,6 +295,7 @@ export const App: React.FC = () => {
       <Navbar
         catalog={OPERA_CATALOG}
         currentOpera={currentOpera}
+        currentOperaId={currentOperaId}
         onSelectOpera={handleSelectOpera}
         theme={theme}
         onSelectTheme={setTheme}
@@ -272,7 +314,7 @@ export const App: React.FC = () => {
         {/* Main Reader Column */}
         <section className="flex-1 flex flex-col overflow-hidden min-w-0">
           {/* Pinned Top Scene Navigation Bar - cleanly positioned above the scroll container */}
-          {displayedScene && (
+          {displayedScene && currentOpera && (
             <div 
               className="px-4 sm:px-6 py-2.5 border-b shadow-xs flex items-center justify-between gap-3 shrink-0 transition-colors"
               style={{ 
@@ -351,7 +393,7 @@ export const App: React.FC = () => {
                                 className={`w-full text-left px-3 py-2 rounded-lg text-xs sm:text-sm border transition-all flex items-start justify-between gap-2 cursor-pointer ${
                                   isCurrent ? 'ring-1 font-semibold' : 'hover:opacity-85'
                                 }`}
-                                style={{
+                                style={{ 
                                   backgroundColor: isCurrent ? 'var(--bg-active)' : 'var(--bg-primary)',
                                   borderColor: isCurrent ? 'var(--border-active)' : 'var(--border-color)',
                                   color: 'var(--text-primary)'
@@ -407,7 +449,17 @@ export const App: React.FC = () => {
             style={{ backgroundColor: 'var(--bg-primary)' }}
           >
             <div className="flex-1">
-              {displayedScene ? (
+              {isLoadingOpera || !currentOpera ? (
+                <div className="flex flex-col items-center justify-center py-32 px-4 gap-4 opacity-80">
+                  <div className="w-9 h-9 border-3 border-current border-t-transparent rounded-full animate-spin" style={{ color: 'var(--accent)' }} />
+                  <div className="text-center space-y-1">
+                    <h3 className="text-base font-semibold" style={{ color: 'var(--text-primary)' }}>
+                      Loading {currentSummary.title}...
+                    </h3>
+                    <p className="text-xs opacity-60">Preparing libretto, linguistic tokens, and lexicon...</p>
+                  </div>
+                </div>
+              ) : displayedScene ? (
                 <DualColumnReader
                   key={`reader-${voiceVersion}`}
                   scene={displayedScene}
@@ -430,7 +482,7 @@ export const App: React.FC = () => {
         </section>
 
         {/* Linguistic Deep Dive Inspector Side Panel */}
-        {activeLine && (
+        {activeLine && currentOpera && (
           <aside 
             className="w-full sm:w-[24rem] md:w-[28rem] lg:w-[32rem] shrink-0 border-l shadow-2xl flex flex-col z-20" 
             style={{ backgroundColor: 'var(--bg-secondary)', borderColor: 'var(--border-color)' }}
@@ -455,11 +507,13 @@ export const App: React.FC = () => {
       </div>
 
       {/* Synopsis & Cast Modal */}
-      <TableOfContentsModal
-        isOpen={isTocOpen}
-        onClose={() => setIsTocOpen(false)}
-        opera={currentOpera}
-      />
+      {currentOpera && (
+        <TableOfContentsModal
+          isOpen={isTocOpen}
+          onClose={() => setIsTocOpen(false)}
+          opera={currentOpera}
+        />
+      )}
 
       {/* About & Shortcuts Modal */}
       <AboutModal
@@ -471,8 +525,8 @@ export const App: React.FC = () => {
       <VoiceSettingsModal
         isOpen={isVoiceSettingsOpen}
         onClose={() => setIsVoiceSettingsOpen(false)}
-        language={currentOpera.language}
-        languageLabel={currentOpera.languageLabel}
+        language={currentOpera?.language || currentSummary.language}
+        languageLabel={currentOpera?.languageLabel || currentSummary.languageLabel}
         onVoiceChanged={() => setVoiceVersion(v => v + 1)}
       />
 

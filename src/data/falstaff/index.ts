@@ -35,3 +35,6 @@ export const falstaff: Opera = {
     falstaffAct3
   ]
 };
+
+export default falstaff;
+

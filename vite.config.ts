@@ -8,4 +8,19 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
+  build: {
+    chunkSizeWarningLimit: 1200,
+    rollupOptions: {
+      output: {
+        chunkFileNames: (chunkInfo) => {
+          const parts = chunkInfo.facadeModuleId ? chunkInfo.facadeModuleId.split('/') : [];
+          const dir = parts[parts.length - 2];
+          if (dir && ['fidelio', 'dieZauberfloete', 'falstaff', 'tannhaeuser'].includes(dir)) {
+            return `assets/opera-${dir}-[hash].js`;
+          }
+          return 'assets/[name]-[hash].js';
+        }
+      }
+    }
+  }
 })

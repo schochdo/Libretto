@@ -1,5 +1,5 @@
 import React from 'react';
-import { Opera, ThemeMode } from '../types/libretto';
+import { Opera, OperaSummary, ThemeMode } from '../types/libretto';
 import { 
   Sun, 
   Moon, 
@@ -14,8 +14,9 @@ import {
 } from 'lucide-react';
 
 interface NavbarProps {
-  catalog: Opera[];
-  currentOpera: Opera;
+  catalog: OperaSummary[];
+  currentOpera: Opera | null;
+  currentOperaId: string;
   onSelectOpera: (id: string) => void;
   theme: ThemeMode;
   onSelectTheme: (t: ThemeMode) => void;
@@ -33,6 +34,7 @@ interface NavbarProps {
 export const Navbar: React.FC<NavbarProps> = ({
   catalog,
   currentOpera,
+  currentOperaId,
   onSelectOpera,
   theme,
   onSelectTheme,
@@ -61,7 +63,7 @@ export const Navbar: React.FC<NavbarProps> = ({
   }, []);
 
   const searchResults = React.useMemo(() => {
-    if (!searchQuery || searchQuery.trim().length < 2) return [];
+    if (!currentOpera || !searchQuery || searchQuery.trim().length < 2) return [];
     const q = searchQuery.toLowerCase().trim();
     const results: Array<{
       actIndex: number;
@@ -151,7 +153,7 @@ export const Navbar: React.FC<NavbarProps> = ({
           {/* Opera Dropdown */}
           <div className="relative shrink-0">
             <select
-              value={currentOpera.id}
+              value={currentOperaId}
               onChange={(e) => onSelectOpera(e.target.value)}
               className="appearance-none font-medium text-xs sm:text-sm py-1.5 pl-2.5 pr-8 rounded-lg border cursor-pointer focus:outline-none focus:ring-1 transition-colors max-w-[280px] sm:max-w-xs md:max-w-md truncate"
               style={{
@@ -179,7 +181,8 @@ export const Navbar: React.FC<NavbarProps> = ({
           {/* Synopsis & Cast Button */}
           <button
             onClick={onOpenToc}
-            className="flex items-center gap-1.5 text-xs sm:text-sm py-1.5 px-2.5 rounded-lg border transition-colors hover:opacity-80"
+            disabled={!currentOpera}
+            className="flex items-center gap-1.5 text-xs sm:text-sm py-1.5 px-2.5 rounded-lg border transition-colors hover:opacity-80 disabled:opacity-40 disabled:cursor-not-allowed"
             style={{
               backgroundColor: 'var(--bg-tertiary)',
               borderColor: 'var(--border-color)',
@@ -197,7 +200,7 @@ export const Navbar: React.FC<NavbarProps> = ({
           <Search className="w-3.5 h-3.5 absolute left-3 top-1/2 -translate-y-1/2 opacity-50" />
           <input
             type="text"
-            placeholder={`Search lines, tokens, characters in ${currentOpera.title}...`}
+            placeholder={currentOpera ? `Search lines, tokens, characters in ${currentOpera.title}...` : 'Search lines, tokens, characters...'}
             value={searchQuery}
             onFocus={() => setIsSearchFocused(true)}
             onChange={(e) => {
@@ -241,7 +244,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                 className="px-2 py-1.5 border-b flex items-center justify-between font-semibold tracking-wider text-[11px] opacity-75"
                 style={{ borderColor: 'var(--border-color)' }}
               >
-                <span>Matches across {currentOpera.title}</span>
+                <span>Matches across {currentOpera?.title || 'Opera'}</span>
                 <span className="text-[10px] px-1.5 py-0.5 rounded-full bg-black/10 dark:bg-white/10 font-bold">
                   {searchResults.length} {searchResults.length === 1 ? 'match' : 'matches'}{searchResults.length >= 25 ? '+' : ''}
                 </span>

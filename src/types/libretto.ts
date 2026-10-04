@@ -50,7 +50,7 @@ export interface Character {
   description: string;
 }
 
-export interface Opera {
+export interface OperaSummary {
   id: string;
   title: string;
   originalTitle?: string;
@@ -59,6 +59,9 @@ export interface Opera {
   language: SupportedLanguage;
   languageLabel: string;
   year: number;
+}
+
+export interface Opera extends OperaSummary {
   synopsis: string;
   characters: Character[];
   acts: Act[];

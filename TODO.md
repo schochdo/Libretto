@@ -45,35 +45,18 @@ This document tracks identified shortcomings, in-progress enhancements, and futu
 
 ## 4. Pipeline & Developer Tooling
 
-### 4.1 Unified CLI Importer Tool (`scripts/import_opera.py`)
-- **Current State**: Adding new operas currently relies on custom Python scripts (`parse_falstaff_full.py`, `build_fidelio_word_lexicon.py`, etc.).
-- **Proposed Solution**: Create a standardized CLI tool:
-  ```bash
-  python3 scripts/import_opera.py \
-    --source "scripts/don_giovanni_raw.html" \
-    --language "it" \
-    --id "don-giovanni" \
-    --title "Don Giovanni" \
-    --composer "Wolfgang Amadeus Mozart" \
-    --year 1787
-  ```
-  - Automatically identifies character speech patterns.
-  - Automatically queries the master lemma dictionary.
-  - Generates `src/data/donGiovanni/index.ts` and `act[1-2].ts`.
+### [x] COMPLETED (v1.1.0): Unified CLI Importer Tool (`scripts/import_opera.py`)
+- Standardized CLI tool supporting text, HTML, and structured JSON input.
+- Automatic integration with German (`german_master_lexicon.json`) and Italian (`falstaff_master_lexicon.json`, `large_italian_vocab.json`) lexicons.
+- Heuristic fallback tagging for unknown parts of speech.
+- Generates fully typed `act[N].ts` and `index.ts` files.
+- Supports `--dry-run` and `--register` flags for automated registration in `src/data/operas.ts`.
 
-### 4.2 Dynamic Code-Splitting (`React.lazy` / Dynamic `import()`)
-- **Current State**: All 4 operas (~5,100 lines and 45,000+ tokens) are compiled into the main bundle (`index-*.js`, ~700 kB gzip). Vite displays a build-time chunk warning.
-- **Proposed Solution**:
-  - Split each opera into an on-demand async module:
-    ```typescript
-    const OPERA_LOADERS: Record<string, () => Promise<{ default: Opera }>> = {
-      'die-zauberfloete': () => import('./dieZauberfloete'),
-      'falstaff': () => import('./falstaff'),
-      'tannhaeuser': () => import('./tannhaeuser'),
-      'fidelio': () => import('./fidelio')
-    };
-    ```
-  - This reduces the initial bundle size from 700 kB down to ~150 kB, downloading each opera only when selected by the user.
+### [x] COMPLETED (v1.1.0): Dynamic Code-Splitting & On-Demand Chunk Loading
+- Decoupled `OPERA_CATALOG` into lightweight `OperaSummary` metadata and async dynamic loaders (`OPERA_LOADERS`).
+- Opera libretti loaded on-demand with caching (`loadOperaById`) and loading spinner fallback.
+- Reduced initial core bundle size from **2,698 kB** (700 kB gzip) down to **298 kB** (89 kB gzip) — an **89% initial payload reduction**.
+- Configured Vite build output to split each opera into its own chunk (`opera-[name]-[hash].js`), eliminating all chunk size build warnings.
 
 ---
 

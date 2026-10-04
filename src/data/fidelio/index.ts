@@ -32,3 +32,6 @@ export const fidelio: Opera = {
     fidelioAct2
   ]
 };
+
+export default fidelio;
+
