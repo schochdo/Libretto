@@ -23,7 +23,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c1_l1",
               "original": "Jetzt, Schätzchen, jetzt sind wir allein,",
-              "literal": "Now, little-treasure, now are we alone,",
+              "literal": "Now, darling, now are we alone,",
               "tokens": [
                 {
                   "word": "Jetzt",
@@ -176,7 +176,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c3_l1",
               "original": "Ein Wörtchen, du Trotzige, du!",
-              "literal": "One little-word, you defiant-girl, you!",
+              "literal": "One single word, you stubborn girl, you!",
               "tokens": [
                 {
                   "word": "Ein Wörtchen",
@@ -243,7 +243,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c5_l1",
               "original": "Wenn du mir nicht freundlicher blickest,",
-              "literal": "If you at-me not more-friendly look,",
+              "literal": "If you at me not more friendly look,",
               "tokens": [
                 {
                   "word": "Wenn",
@@ -277,7 +277,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c5_l2",
               "original": "so bring' ich kein Wörtchen hervor.",
-              "literal": "so bring I no little-word forth.",
+              "literal": "so bring I no single word forth.",
               "tokens": [
                 {
                   "word": "bring'... hervor",
@@ -324,7 +324,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c6_l2",
               "original": "verstopf' ich mir vollends das Ohr.",
-              "literal": "plug I for-myself completely the ear.",
+              "literal": "plug I for myself completely the ear.",
               "tokens": [
                 {
                   "word": "verstopf'",
@@ -402,7 +402,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c7_l1",
               "original": "Ein Weilchen nur höre mir zu,",
-              "literal": "A little-while only listen to-me to,",
+              "literal": "A little while only listen to me to,",
               "tokens": [
                 {
                   "word": "Ein Weilchen",
@@ -513,7 +513,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c8_l1",
               "original": "Das ist ja doch klar.",
-              "literal": "That is indeed after-all clear.",
+              "literal": "That is indeed after all clear.",
               "tokens": [
                 {
                   "word": "klar",
@@ -533,7 +533,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c9_l1",
               "original": "Und wenn mir dein Jawort nicht fehlet,",
-              "literal": "And if to-me your consent not lacks,",
+              "literal": "And if to me your consent not lacks,",
               "tokens": [
                 {
                   "word": "Jawort",
@@ -647,7 +647,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c13_l1",
               "original": "Zum Henker das ewige Pochen!",
-              "literal": "To-the executioner the eternal knocking!",
+              "literal": "To the executioner the eternal knocking!",
               "tokens": [
                 {
                   "word": "Zum Henker",
@@ -694,7 +694,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c13_l3",
               "original": "und immer entwischt mir der Fang.",
-              "literal": "and always escapes from-me the catch.",
+              "literal": "and always escapes from me the catch.",
               "tokens": [
                 {
                   "word": "entwischt",
@@ -740,7 +740,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c14_l2",
               "original": "Wie macht seine Liebe mir bang,",
-              "literal": "How makes his love to-me anxious,",
+              "literal": "How makes his love to me anxious,",
               "tokens": [
                 {
                   "word": "Liebe",
@@ -760,7 +760,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c14_l3",
               "original": "und wie werden die Stunden mir lang.",
-              "literal": "and how become the hours to-me long.",
+              "literal": "and how become the hours to me long.",
               "tokens": [
                 {
                   "word": "werden",
@@ -815,7 +815,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c15_l2",
               "original": "es tut mir so leid auch um ihn!",
-              "literal": "it does to-me so sorry also for him!",
+              "literal": "it does to me so sorry also for him!",
               "tokens": [
                 {
                   "word": "tut... leid",
@@ -931,7 +931,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c18_l1",
               "original": "Wann wirst du das Jawort mir geben?",
-              "literal": "When will you the consent to-me give?",
+              "literal": "When will you the consent to me give?",
               "tokens": [
                 {
                   "word": "wirst",
@@ -1205,7 +1205,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c25_l2",
               "original": "Dich anzusehen, willst du mir wehren?",
-              "literal": "You to-look-at, want you from-me to-forbid?",
+              "literal": "You to-look-at, want you from me to-forbid?",
               "tokens": [
                 {
                   "word": "anzusehen",
@@ -1266,7 +1266,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c27_l1",
               "original": "Du hast mir so oft doch versprochen ...",
-              "literal": "You have to-me so often though promised ...",
+              "literal": "You have to me so often though promised ...",
               "tokens": [
                 {
                   "word": "versprochen",
@@ -1320,7 +1320,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c29_l1",
               "original": "Zum Henker das ewige Pochen!",
-              "literal": "To-the executioner the eternal knocking!",
+              "literal": "To the executioner the eternal knocking!",
               "tokens": [
                 {
                   "word": "Zum Henker",
@@ -1392,7 +1392,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c30_l3",
               "original": "es wurde zu Tode mir bang.",
-              "literal": "it became to death to-me fearful.",
+              "literal": "it became to death to me fearful.",
               "tokens": [
                 {
                   "word": "zu Tode",
@@ -1419,7 +1419,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c31_l1",
               "original": "Es ward ihr im Ernste schon bang,",
-              "literal": "It was to-her in earnest already fearful,",
+              "literal": "It was to her in earnest already fearful,",
               "tokens": [
                 {
                   "word": "ward",
@@ -1439,7 +1439,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c31_l2",
               "original": "wer weiß, ob es mir gelang.",
-              "literal": "who knows, whether it to-me succeeded.",
+              "literal": "who knows, whether it to me succeeded.",
               "tokens": [
                 {
                   "word": "gelang",
@@ -1494,7 +1494,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c32_l2",
               "original": "aber ändern? Ich war ihm sonst recht gut, da kam",
-              "literal": "but to change? I was to-him formerly / otherwise right / quite good, there came",
+              "literal": "but to change? I was to him formerly / otherwise right / quite good, there came",
               "tokens": [
                 {
                   "word": "aber",
@@ -1562,7 +1562,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c32_l4",
               "original": "mir und um mich verändert.",
-              "literal": "to-me and around me changed.",
+              "literal": "to me and around me changed.",
               "tokens": [
                 {
                   "word": "mir",
@@ -1706,7 +1706,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s2_c1_l4",
               "original": "zur Hälfte nur bekennen.",
-              "literal": "to-the half only to-confess.",
+              "literal": "to the half only to-confess.",
               "tokens": [
                 {
                   "word": "zur Hälfte",
@@ -2599,7 +2599,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s2_c10_l1",
               "original": "Gut! Brav!",
-              "literal": "Good! Brav!",
+              "literal": "Good! Well done!",
               "tokens": [
                 {
                   "word": "Gut",
@@ -2621,7 +2621,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s2_c11_l1",
               "original": "Der Schelm gibt sich alle Mühe, offenbar meiner",
-              "literal": "The Schelm gives itself all toil, offenbar of-my",
+              "literal": "The Schelm gives itself all toil, offenbar of my",
               "tokens": [
                 {
                   "word": "Der",
@@ -2709,8 +2709,8 @@ export const fidelioAct1: Act = {
           "lines": [
             {
               "id": "a1_s2_c13_l1",
-              "original": "Ja, ja, du bist brav. Man kann nicht eifriger, nicht ver-",
-              "literal": "Yes, yes, you are brav. Man can not eifriger, not ver-",
+              "original": "Ja, ja, du bist brav; man kann nicht eifriger, nicht verständiger sein.",
+              "literal": "Yes, yes, you are good; one cannot be more diligent, more sensible.",
               "tokens": [
                 {
                   "word": "Ja",
@@ -2740,8 +2740,8 @@ export const fidelioAct1: Act = {
             },
             {
               "id": "a1_s2_c13_l2",
-              "original": "ständiger sein. Ich habe dich aber auch mit jedem",
-              "literal": "be more steadfast. But with every day I have also",
+              "original": "Ich habe dich aber auch mit jedem Tage lieber;",
+              "literal": "And I grow fonder of you with every passing day;",
               "tokens": [
                 {
                   "word": "sein",
@@ -2771,8 +2771,8 @@ export const fidelioAct1: Act = {
             },
             {
               "id": "a1_s2_c13_l3",
-              "original": "Tage lieber; und sei versichert, dein Lohn soll auch",
-              "literal": "Days rather; and be versichert, your reward shall also",
+              "original": "und sei versichert, dein Lohn soll auch nicht ausbleiben.",
+              "literal": "and rest assured, your reward shall not fail to come.",
               "tokens": [
                 {
                   "word": "Tage",
@@ -2799,19 +2799,6 @@ export const fidelioAct1: Act = {
                   "meaning": "be (subjunctive I)"
                 }
               ]
-            },
-            {
-              "id": "a1_s2_c13_l4",
-              "original": "nicht ausbleiben.",
-              "literal": "not ausbleiben.",
-              "tokens": [
-                {
-                  "word": "nicht",
-                  "lemma": "nicht",
-                  "pos": "particle",
-                  "meaning": "not"
-                }
-              ]
             }
           ]
         },
@@ -2822,8 +2809,8 @@ export const fidelioAct1: Act = {
           "lines": [
             {
               "id": "a1_s2_c14_l1",
-              "original": "O glaubt nicht, daß ich meine Schuldigkeit nur des",
-              "literal": "O believes not, that I my duty / obligation only of-the",
+              "original": "O glaubt nicht, daß ich meine Schuldigkeit nur des Lohnes wegen tue ...",
+              "literal": "O do not believe that I do my duty only for the sake of the reward ...",
               "tokens": [
                 {
                   "word": "glaubt",
@@ -2850,19 +2837,6 @@ export const fidelioAct1: Act = {
                   "meaning": "I"
                 }
               ]
-            },
-            {
-              "id": "a1_s2_c14_l2",
-              "original": "Lohnes wegen ...",
-              "literal": "Lohnes on-account-of ...",
-              "tokens": [
-                {
-                  "word": "wegen",
-                  "lemma": "wegen",
-                  "pos": "preposition",
-                  "meaning": "on-account-of / because-of"
-                }
-              ]
             }
           ]
         },
@@ -2874,7 +2848,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s2_c15_l1",
               "original": "Still! Meinst du, ich könne dir nicht ins Herz sehen?",
-              "literal": "Hush! Think you, I could to-you into-the heart see?",
+              "literal": "Hush! Think you, I could to you into the heart see?",
               "tokens": [
                 {
                   "word": "könne",
@@ -2912,7 +2886,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s3_c1_l1",
               "original": "Mir ist so wunderbar,",
-              "literal": "To-me is so wonderful,",
+              "literal": "To me is so wonderful,",
               "tokens": [
                 {
                   "word": "Mir",
@@ -2932,7 +2906,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s3_c1_l2",
               "original": "es engt das Herz mir ein;",
-              "literal": "it constricts the heart to-me in;",
+              "literal": "it constricts the heart to me in;",
               "tokens": [
                 {
                   "word": "engt... ein",
@@ -3292,7 +3266,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s3_c4_l3",
               "original": "mir wird so wunderbar,",
-              "literal": "to-me becomes so wunderbar,",
+              "literal": "to me becomes so wunderbar,",
               "tokens": [
                 {
                   "word": "mir",
@@ -3317,7 +3291,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s3_c4_l4",
               "original": "mir fällt kein Mittel ein!",
-              "literal": "to-me falls no Mittel a!",
+              "literal": "to me falls no Mittel a!",
               "tokens": [
                 {
                   "word": "mir",
@@ -3679,7 +3653,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s4_c1_l7",
               "original": "und Macht und Liebe verschafft dir das Gold",
-              "literal": "and makes and love procures to-you the gold",
+              "literal": "and makes and love procures to you the gold",
               "tokens": [
                 {
                   "word": "und",
@@ -4163,8 +4137,8 @@ export const fidelioAct1: Act = {
             },
             {
               "id": "a1_s4_c2_l2",
-              "original": "ich behaupte, daß die Vereinigung zweier gleichges-",
-              "literal": "I behaupte, that the vereinig-ing zweier gleichges-",
+              "original": "ich behaupte, daß die Vereinigung zweier gleichgestimmter Herzen",
+              "literal": "I maintain that the union of two like-minded hearts",
               "tokens": [
                 {
                   "word": "ich",
@@ -4188,8 +4162,8 @@ export const fidelioAct1: Act = {
             },
             {
               "id": "a1_s4_c2_l3",
-              "original": "timmter Herzen die Quelle des wahren ehelichen",
-              "literal": "timmter heart the Quelle of-the wahren ehelichen",
+              "original": "die Quelle des wahren ehelichen Glücks ist.",
+              "literal": "is the source of true marital happiness.",
               "tokens": [
                 {
                   "word": "Herzen",
@@ -4239,7 +4213,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s4_c2_l5",
               "original": "auf Erden sein! Freilich gibt es noch etwas, das mir",
-              "literal": "on Erden to be! admittedly / to be sure gives it still something, the to-me",
+              "literal": "on Erden to be! admittedly / to be sure gives it still something, the to me",
               "tokens": [
                 {
                   "word": "auf",
@@ -4307,7 +4281,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s4_c2_l7",
               "original": "ich, daß ich es trotz aller meiner Bemühungen nicht",
-              "literal": "I, that I it despite of-all of-my efforts not",
+              "literal": "I, that I it despite of-all of my efforts not",
               "tokens": [
                 {
                   "word": "ich",
@@ -4408,7 +4382,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s4_c4_l1",
               "original": "Euer Vertrauen! Verzeiht mir diesen kleinen Vorwurf,",
-              "literal": "Your Vertrauen! Verzeiht to-me this kleinen Vorwurf,",
+              "literal": "Your Vertrauen! Verzeiht to me this kleinen Vorwurf,",
               "tokens": [
                 {
                   "word": "Euer",
@@ -4514,7 +4488,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s4_c4_l5",
               "original": "nicht, Euch dahin zu begleiten? Es wäre mir so lieb,",
-              "literal": "not, you dahin too begleiten? it were / would be to-me so lieb,",
+              "literal": "not, you dahin too begleiten? it were / would be to me so lieb,",
               "tokens": [
                 {
                   "word": "nicht",
@@ -4694,8 +4668,8 @@ export const fidelioAct1: Act = {
             },
             {
               "id": "a1_s4_c5_l4",
-              "original": "Gewölbe, in das ich dich wohl nie werde führen dür-",
-              "literal": "vault into which I shall probably never be allowed to lead you—",
+              "original": "Gewölbe, in das ich dich wohl nie werde führen dürfen,",
+              "literal": "vault into which I shall probably never be allowed to lead you,",
               "tokens": [
                 {
                   "word": "in",
@@ -4725,8 +4699,8 @@ export const fidelioAct1: Act = {
             },
             {
               "id": "a1_s4_c5_l5",
-              "original": "fen, obschon ich mich ganz auf dich verlassen kann.",
-              "literal": "fen, although I me quite on you verlassen can.",
+              "original": "obschon ich mich ganz auf dich verlassen kann.",
+              "literal": "although I can rely on you completely.",
               "tokens": [
                 {
                   "word": "obschon",
@@ -4763,8 +4737,8 @@ export const fidelioAct1: Act = {
           "lines": [
             {
               "id": "a1_s4_c6_l1",
-              "original": "Vermutlich, wo der Gefangene sitzt, von dem du",
-              "literal": "Vermutlich, where the Gefangene sits, from to-the you",
+              "original": "Vermutlich, wo der Gefangene sitzt, von dem du schon einigemale gesprochen hast.",
+              "literal": "Presumably where the prisoner sits of whom you have already spoken several times.",
               "tokens": [
                 {
                   "word": "wo",
@@ -4785,31 +4759,6 @@ export const fidelioAct1: Act = {
                   "meaning": "sits"
                 }
               ]
-            },
-            {
-              "id": "a1_s4_c6_l2",
-              "original": "schon einigemale gesprochen hast.",
-              "literal": "already einigemale spoken have.",
-              "tokens": [
-                {
-                  "word": "schon",
-                  "lemma": "schon",
-                  "pos": "adverb",
-                  "meaning": "already"
-                },
-                {
-                  "word": "gesprochen",
-                  "lemma": "sprechen",
-                  "pos": "verb",
-                  "meaning": "spoken"
-                },
-                {
-                  "word": "hast",
-                  "lemma": "haben",
-                  "pos": "verb",
-                  "meaning": "have"
-                }
-              ]
             }
           ]
         },
@@ -4821,7 +4770,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s4_c7_l1",
               "original": "Du hast's erraten, Marzelline.",
-              "literal": "You have's erraten, Marzelline.",
+              "literal": "You have guessed it, Marzelline.",
               "tokens": [
                 {
                   "word": "Du",
@@ -4985,8 +4934,8 @@ export const fidelioAct1: Act = {
           "lines": [
             {
               "id": "a1_s4_c11_l1",
-              "original": "Oder er muß große Feinde haben, das kommt unge-",
-              "literal": "Or he must have great enemies; that amounts",
+              "original": "Oder er muß große Feinde haben, das kommt ungefähr auf eins heraus.",
+              "literal": "Or he must have great enemies; that amounts to roughly the same thing.",
               "tokens": [
                 {
                   "word": "Oder",
@@ -5010,8 +4959,8 @@ export const fidelioAct1: Act = {
             },
             {
               "id": "a1_s4_c11_l2",
-              "original": "fähr auf eins heraus. Nun, er wird mich nicht lange",
-              "literal": "to roughly the same thing. Well, he will not torment me",
+              "original": "Nun, er wird mich nicht lange mehr peinigen; er kann nicht mehr lange leben.",
+              "literal": "Well, he will not torment me much longer; he cannot live much longer.",
               "tokens": [
                 {
                   "word": "auf",
@@ -5024,37 +4973,6 @@ export const fidelioAct1: Act = {
                   "lemma": "nun",
                   "pos": "adverb",
                   "meaning": "now"
-                }
-              ]
-            },
-            {
-              "id": "a1_s4_c11_l3",
-              "original": "mehr quälen. Es kann nicht mehr lange mit ihm",
-              "literal": "much longer. It cannot last much longer with him—",
-              "tokens": [
-                {
-                  "word": "mehr",
-                  "lemma": "mehr",
-                  "pos": "adverb",
-                  "meaning": "more"
-                },
-                {
-                  "word": "Es",
-                  "lemma": "es",
-                  "pos": "pronoun",
-                  "meaning": "it"
-                },
-                {
-                  "word": "kann",
-                  "lemma": "können",
-                  "pos": "verb",
-                  "meaning": "can"
-                },
-                {
-                  "word": "nicht",
-                  "lemma": "nicht",
-                  "pos": "particle",
-                  "meaning": "not"
                 }
               ]
             },
@@ -5300,7 +5218,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s4_c15_l1",
               "original": "O lieber Vater, führe Fidelio ja nicht zu ihm! Diesen",
-              "literal": "O rather father, lead Fidelio yes not too to-him! this",
+              "literal": "O rather father, lead Fidelio yes not too to him! this",
               "tokens": [
                 {
                   "word": "lieber",
@@ -5418,7 +5336,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s5_c1_l3",
               "original": "dann wird's dir auch gelingen;",
-              "literal": "then will-it to-you also succeed;",
+              "literal": "then will-it to you also succeed;",
               "tokens": [
                 {
                   "word": "gelingen",
@@ -5739,7 +5657,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s5_c3_l4",
               "original": "dann kehrt zurück",
-              "literal": "then kehrt back",
+              "literal": "then return",
               "tokens": [
                 {
                   "word": "dann",
@@ -5897,7 +5815,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s5_c6_l1",
               "original": "Du darfst mir auch in's Auge schauen:",
-              "literal": "You may to-me also in's eye schauen:",
+              "literal": "You may to me also in's eye schauen:",
               "tokens": [
                 {
                   "word": "Du",
@@ -6128,7 +6046,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s5_c8_l4",
               "original": "daß du mit mir die Arbeit teilst.",
-              "literal": "that you with to-me the work teilst.",
+              "literal": "that you with to me the work teilst.",
               "tokens": [
                 {
                   "word": "daß",
@@ -6172,7 +6090,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s5_c9_l1",
               "original": "Du wirst mir alle Ruhe rauben,",
-              "literal": "You will from-me all peace rob,",
+              "literal": "You will from me all peace rob,",
               "tokens": [
                 {
                   "word": "wirst... rauben",
@@ -6244,7 +6162,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s5_c11_l1",
               "original": "Ich bin ja bald des Grabes Beute,",
-              "literal": "I am indeed soon of-the grave prey,",
+              "literal": "I am indeed soon of the grave prey,",
               "tokens": [
                 {
                   "word": "des Grabes Beute",
@@ -6291,7 +6209,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s5_c12_l1",
               "original": "Wie lang' bin ich des Kummers Beute!",
-              "literal": "How long' am I of-the Kummers Beute!",
+              "literal": "How long' am I of the Kummers Beute!",
               "tokens": [
                 {
                   "word": "Wie",
@@ -6328,7 +6246,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s5_c12_l2",
               "original": "Du, Hoffnung, reichst mir Labung dar.",
-              "literal": "You, hope, reichst to-me lab-ing dar.",
+              "literal": "You, hope, reichst to me lab-ing dar.",
               "tokens": [
                 {
                   "word": "Du",
@@ -6543,7 +6461,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s5_c16_l1",
               "original": "Ihr seid so gut, ihr macht mir Mut,",
-              "literal": "You are so good, you makes to-me courage,",
+              "literal": "You are so good, you makes to me courage,",
               "tokens": [
                 {
                   "word": "Ihr",
@@ -6671,7 +6589,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s5_c18_l1",
               "original": "Ich gab die Hand zum süßen Band,",
-              "literal": "I gave the hand to-the sweet bond,",
+              "literal": "I gave the hand to the sweet bond,",
               "tokens": [
                 {
                   "word": "Ich",
@@ -7030,7 +6948,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s6_c4_l9",
               "original": "Gott, wenn er entdeckte, daß ich diesen Florestan in",
-              "literal": "God, if he entdeckte, that I this Florestan in",
+              "literal": "God, if he discovered that I keep this Florestan in",
               "tokens": [
                 {
                   "word": "Gott",
@@ -7322,7 +7240,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s7_c1_l7",
               "original": "dem lauten Spott zum Raube,",
-              "literal": "to-the lauten Spott to-the Raube,",
+              "literal": "to the lauten Spott to the Raube,",
               "tokens": [
                 {
                   "word": "dem",
@@ -7360,7 +7278,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s7_c1_l9",
               "original": "Nun ist es mir geworden,",
-              "literal": "Now is it to-me become,",
+              "literal": "Now is it to me become,",
               "tokens": [
                 {
                   "word": "Nun",
@@ -7496,7 +7414,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s7_c1_l13",
               "original": "ihm noch ins Ohr zu schrei'n:",
-              "literal": "to-him still into-the ear too schrei'n:",
+              "literal": "to him still into the ear too schrei'n:",
               "tokens": [
                 {
                   "word": "ihm",
@@ -7724,7 +7642,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s7_c3_l3",
               "original": "ha! Nun ist es mir geworden,",
-              "literal": "ha! now is it to-me become,",
+              "literal": "ha! now is it to me become,",
               "tokens": [
                 {
                   "word": "Nun",
@@ -8226,7 +8144,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s8_c1_l2",
               "original": "Dir wird ein Glück zu Teile,",
-              "literal": "To-you becomes a good-fortune apportioned,",
+              "literal": "To you becomes a good-fortune apportioned,",
               "tokens": [
                 {
                   "word": "Glück",
@@ -8604,7 +8522,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s8_c8_l4",
               "original": "dem Staate liegt daran,",
-              "literal": "to-the Staate lies daran,",
+              "literal": "to the Staate lies daran,",
               "tokens": [
                 {
                   "word": "dem",
@@ -9049,7 +8967,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s8_c13_l2",
               "original": "wenn dir's an Mut gebricht.",
-              "literal": "if to-you's at courage lacks.",
+              "literal": "if to you's at courage lacks.",
               "tokens": [
                 {
                   "word": "wenn",
@@ -9213,7 +9131,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s8_c15_l1",
               "original": "Zu dem, zu dem hinab!",
-              "literal": "Too to-the, too to-the downward!",
+              "literal": "Too to the, too to the downward!",
               "tokens": [
                 {
                   "word": "Zu",
@@ -9250,7 +9168,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s8_c15_l2",
               "original": "Ich wart' in kleiner Ferne,",
-              "literal": "I wart' in small Ferne,",
+              "literal": "I wait at a little distance,",
               "tokens": [
                 {
                   "word": "Ich",
@@ -9413,7 +9331,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s8_c17_l2",
               "original": "mich in den Kerker schleichen:",
-              "literal": "me in the dungeon schleichen:",
+              "literal": "creep into the dungeon:",
               "tokens": [
                 {
                   "word": "mich",
@@ -9504,7 +9422,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s8_c19_l1",
               "original": "Verhungernd in den Ketten,",
-              "literal": "Verhungernd in the chains,",
+              "literal": "Starving in chains,",
               "tokens": [
                 {
                   "word": "in",
@@ -9623,7 +9541,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s8_c20_l1",
               "original": "Er sterb' in seinen Ketten,",
-              "literal": "He sterb' in his chains,",
+              "literal": "Let him die in his chains,",
               "tokens": [
                 {
                   "word": "Er",
@@ -9854,7 +9772,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s8_c20_l9",
               "original": "mich in den Kerker schleichen;",
-              "literal": "me in the dungeon schleichen;",
+              "literal": "creep into the dungeon;",
               "tokens": [
                 {
                   "word": "mich",
@@ -9923,7 +9841,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s8_c21_l1",
               "original": "Verhungernd in den Ketten,",
-              "literal": "Verhungernd in the chains,",
+              "literal": "Starving in chains,",
               "tokens": [
                 {
                   "word": "in",
@@ -10042,7 +9960,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s8_c22_l1",
               "original": "Er sterb' in seinen Ketten,",
-              "literal": "He sterb' in his chains,",
+              "literal": "Let him die in his chains,",
               "tokens": [
                 {
                   "word": "Er",
@@ -10244,7 +10162,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s9_c1_l3",
               "original": "Des Mitleids Ruf, der Menschen Stimme,",
-              "literal": "Of-the of pity Ruf, the Menschen voice,",
+              "literal": "Of the of pity Ruf, the Menschen voice,",
               "tokens": [
                 {
                   "word": "Des",
@@ -10319,7 +10237,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s9_c1_l6",
               "original": "dir in der Seele Zorn und Wut,",
-              "literal": "to-you in the soul anger and rage,",
+              "literal": "to you in the soul anger and rage,",
               "tokens": [
                 {
                   "word": "in der Seele",
@@ -10338,7 +10256,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s9_c1_l7",
               "original": "so leuchtet mir ein Farbenbogen,",
-              "literal": "so shines to-me a rainbow,",
+              "literal": "so shines to me a rainbow,",
               "tokens": [
                 {
                   "word": "leuchtet",
@@ -10483,7 +10401,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s9_c1_l13",
               "original": "der Müden nicht erbleichen!",
-              "literal": "of-the weary-one not turn-pale!",
+              "literal": "of the weary-one not turn-pale!",
               "tokens": [
                 {
                   "word": "der Müden",
@@ -10547,7 +10465,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s9_c1_l17",
               "original": "Ich folg' dem inner'n Triebe,",
-              "literal": "I folg' to-the inner'n Triebe,",
+              "literal": "I folg' to the inner'n Triebe,",
               "tokens": [
                 {
                   "word": "Ich",
@@ -10636,7 +10554,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s9_c1_l22",
               "original": "könnt' ich zur Stelle dringen,",
-              "literal": "could I to-the place penetrate,",
+              "literal": "could I to the place penetrate,",
               "tokens": [
                 {
                   "word": "zur Stelle",
@@ -10686,7 +10604,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s9_c1_l24",
               "original": "und süßen Trost dir bringen!",
-              "literal": "and sweet consolation to-you bring!",
+              "literal": "and sweet consolation to you bring!",
               "tokens": [
                 {
                   "word": "süßen Trost",
@@ -10699,7 +10617,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s9_c1_l25",
               "original": "Ich folg' dem inner'n Triebe,",
-              "literal": "I folg' to-the inner'n Triebe,",
+              "literal": "I folg' to the inner'n Triebe,",
               "tokens": [
                 {
                   "word": "Ich",
@@ -10777,7 +10695,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s9_c2_l1",
               "original": "Rocco, Ihr verspracht mir so oft, die armen",
-              "literal": "Rocco, you verspracht to-me so often, the armen",
+              "literal": "Rocco, you verspracht to me so often, the armen",
               "tokens": [
                 {
                   "word": "Ihr",
@@ -10802,7 +10720,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s9_c2_l2",
               "original": "Gefangenen, die über der Erde wohnen, in unseren",
-              "literal": "Prisoners, the over the earth wohnen, in unseren",
+              "literal": "prisoners who live above ground into our",
               "tokens": [
                 {
                   "word": "Gefangenen",
@@ -10920,7 +10838,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s9_c3_l1",
               "original": "O ja! Ich bitte mit ihm!",
-              "literal": "O yes! I bitte with to-him!",
+              "literal": "O yes! I bitte with to him!",
               "tokens": [
                 {
                   "word": "ja",
@@ -10952,7 +10870,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s9_c4_l1",
               "original": "Kinder, ohne Erlaubnis des Gouverneurs?",
-              "literal": "Children, without Erlaubnis of-the Gouverneurs?",
+              "literal": "Children, without Erlaubnis of the Gouverneurs?",
               "tokens": [
                 {
                   "word": "Kinder",
@@ -10984,7 +10902,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s9_c5_l1",
               "original": "Aber er sprach so lange mit dir. Vielleicht sollst du",
-              "literal": "But he spoke so long with to-you. perhaps shall you",
+              "literal": "But he spoke so long with to you. perhaps shall you",
               "tokens": [
                 {
                   "word": "Aber",
@@ -11021,7 +10939,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s9_c5_l2",
               "original": "ihm einen Gefallen tun, und dann wird er es so",
-              "literal": "to-him a fallen to do, and then becomes he it so",
+              "literal": "to him a fallen to do, and then becomes he it so",
               "tokens": [
                 {
                   "word": "ihm",
@@ -11368,7 +11286,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c2_l3",
               "original": "Die Hoffnung flüstert sanft mir zu:",
-              "literal": "Hope whispers softly to-me to:",
+              "literal": "Hope whispers softly to me to:",
               "tokens": [
                 {
                   "word": "flüstert... zu",
@@ -11877,7 +11795,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c8_l3",
               "original": "und trug ihm alles vor,",
-              "literal": "and carried to-him everything before,",
+              "literal": "and carried to him everything before,",
               "tokens": [
                 {
                   "word": "und",
@@ -11933,7 +11851,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c8_l5",
               "original": "was er zur Antwort mir gab?",
-              "literal": "what he to-the Antwort to-me gave?",
+              "literal": "what he to the Antwort to me gave?",
               "tokens": [
                 {
                   "word": "was",
@@ -11964,7 +11882,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c8_l6",
               "original": "Die Heirat und daß du mir hilfst, will er erlauben,",
-              "literal": "The Heirat and that you to-me helpest, want he erlauben,",
+              "literal": "The Heirat and that you to me helpest, want he erlauben,",
               "tokens": [
                 {
                   "word": "Die",
@@ -12253,7 +12171,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c12_l2",
               "original": "dem ich seit vielen Wochen",
-              "literal": "to-the I since vielen Wochen",
+              "literal": "to the I since vielen Wochen",
               "tokens": [
                 {
                   "word": "dem",
@@ -12451,7 +12369,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c16_l4",
               "original": "den Finger auf dem Munde –",
-              "literal": "the Finger on to-the Munde –",
+              "literal": "the Finger on to the Munde –",
               "tokens": [
                 {
                   "word": "den",
@@ -12617,7 +12535,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c20_l2",
               "original": "Zum Morden dingt sich Rocco nicht.",
-              "literal": "To-the to murder dingt itself Rocco not.",
+              "literal": "To the to murder dingt itself Rocco not.",
               "tokens": [
                 {
                   "word": "Zum",
@@ -12725,7 +12643,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c21_l1",
               "original": "Vielleicht das Grab des Gatten graben?",
-              "literal": "Perhaps the grave of-the of-the-husband to dig?",
+              "literal": "Perhaps the grave of the of the-husband to dig?",
               "tokens": [
                 {
                   "word": "Vielleicht",
@@ -12831,7 +12749,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c22_l2",
               "original": "ihm wird im Grabe besser sein.",
-              "literal": "to-him becomes in-the grave besser to be.",
+              "literal": "he will be better off in the grave.",
               "tokens": [
                 {
                   "word": "ihm",
@@ -12862,7 +12780,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c22_l3",
               "original": "Wir müssen gleich zum Werke schreiten;",
-              "literal": "We must immediately to-the Werke schreiten;",
+              "literal": "We must immediately to the Werke schreiten;",
               "tokens": [
                 {
                   "word": "Wir",
@@ -12893,7 +12811,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c22_l4",
               "original": "du mußt mir helfen, mich begleiten;",
-              "literal": "you must to-me to help, me begleiten;",
+              "literal": "you must to me to help, me begleiten;",
               "tokens": [
                 {
                   "word": "du",
@@ -12930,7 +12848,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c22_l5",
               "original": "hart ist des Kerkermeisters Brot.",
-              "literal": "hard is of-the Kerkermeisters bread.",
+              "literal": "hard is of the Kerkermeisters bread.",
               "tokens": [
                 {
                   "word": "hart",
@@ -13062,7 +12980,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c24_l3",
               "original": "ich tu' es, glaube mir, nicht gerne,",
-              "literal": "I tu' it, believe to-me, not gladly,",
+              "literal": "I tu' it, believe to me, not gladly,",
               "tokens": [
                 {
                   "word": "ich",
@@ -13093,7 +13011,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c24_l4",
               "original": "auch dir ist schaurig, wie mich deucht.",
-              "literal": "also to-you is schaurig, how me deucht.",
+              "literal": "also to you is schaurig, how me deucht.",
               "tokens": [
                 {
                   "word": "auch",
@@ -13206,7 +13124,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c26_l2",
               "original": "doch wird es mir allein zu schwer,",
-              "literal": "yet becomes it to-me alone too heavy,",
+              "literal": "yet becomes it to me alone too heavy,",
               "tokens": [
                 {
                   "word": "doch",
@@ -13317,7 +13235,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c28_l1",
               "original": "Mir scheint, er weine.",
-              "literal": "To-me seems, he weine.",
+              "literal": "To me seems, he weine.",
               "tokens": [
                 {
                   "word": "Mir",
@@ -13659,7 +13577,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c37_l1",
               "original": "Voll Zorn folgt mir Pizarro nach,",
-              "literal": "Full wrath follows to-me Pizarro after,",
+              "literal": "Full wrath follows to me Pizarro after,",
               "tokens": [
                 {
                   "word": "Voll",
@@ -13690,7 +13608,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c37_l2",
               "original": "er drohet dir!",
-              "literal": "he drohet to-you!",
+              "literal": "he drohet to you!",
               "tokens": [
                 {
                   "word": "er",
@@ -13864,7 +13782,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c42_l1",
               "original": "Der Offizier sagt' ihm was wir",
-              "literal": "The Offizier says' to-him what we",
+              "literal": "The Offizier says' to him what we",
               "tokens": [
                 {
                   "word": "Der",
@@ -14179,7 +14097,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c48_l2",
               "original": "legst du dir frevelnd selber bei?",
-              "literal": "legst you to-you frevelnd selber at?",
+              "literal": "legst you to you frevelnd selber at?",
               "tokens": [
                 {
                   "word": "du",
@@ -14198,7 +14116,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c48_l3",
               "original": "Und ziemt es dem gedung'nen Knechte,",
-              "literal": "And ziemt it to-the gedung'nen Knechte,",
+              "literal": "And ziemt it to the gedung'nen Knechte,",
               "tokens": [
                 {
                   "word": "Und",
@@ -14431,7 +14349,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c52_l3",
               "original": "Des Königs Namensfest ist heute,",
-              "literal": "Of-the of-the-king Namensfest is today,",
+              "literal": "Of the of the-king Namensfest is today,",
               "tokens": [
                 {
                   "word": "Des",
@@ -14596,7 +14514,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c54_l1",
               "original": "So eile, ihm sein Grab zu graben,",
-              "literal": "So haste / hurry, to-him to be grave too to dig,",
+              "literal": "So haste / hurry, to him to be grave too to dig,",
               "tokens": [
                 {
                   "word": "So",
@@ -14796,7 +14714,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c56_l1",
               "original": "Wie eilten sie zum Sonnenlicht,",
-              "literal": "How eilten she to-the sunlight,",
+              "literal": "How eilten she to the sunlight,",
               "tokens": [
                 {
                   "word": "Wie",
@@ -14895,7 +14813,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c56_l5",
               "original": "kehrt in den Kerker wieder!",
-              "literal": "kehrt in the dungeon again!",
+              "literal": "return into the dungeon again!",
               "tokens": [
                 {
                   "word": "in",
@@ -14958,7 +14876,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c57_l2",
               "original": "steig in den Kerker nieder.",
-              "literal": "steig in the dungeon down.",
+              "literal": "descend into the dungeon.",
               "tokens": [
                 {
                   "word": "in",
@@ -15402,5 +15320,3 @@ export const fidelioAct1: Act = {
     }
   ]
 };
-
-export default fidelioAct1;

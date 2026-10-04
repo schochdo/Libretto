@@ -120,8 +120,8 @@ export const tannhaeuserAct3: Act = {
             },
             {
               "id": "a3_s1_c1_l4",
-              "original": "Den Tod, den er ihr gab, im Herzen, -",
-              "literal": "The death that he gave her, in her heart, -",
+              "original": "Den Tod, den er ihr gab, im Herzen,",
+              "literal": "The death that he gave her, in her heart,",
               "tokens": [
                 {
                   "word": "Tod",
@@ -183,8 +183,8 @@ export const tannhaeuserAct3: Act = {
             },
             {
               "id": "a3_s1_c1_l6",
-              "original": "fleht für sein Heil sie Tag und Nacht: -",
-              "literal": "she implores for his salvation day and night: -",
+              "original": "fleht für sein Heil sie Tag und Nacht:",
+              "literal": "she implores for his salvation day and night:",
               "tokens": [
                 {
                   "word": "fleht",
@@ -342,8 +342,8 @@ export const tannhaeuserAct3: Act = {
             },
             {
               "id": "a3_s1_c1_l11",
-              "original": "Dies ist ihr Fragen, dies ihr Flehen, -",
-              "literal": "This is her question, this her pleading, -",
+              "original": "Dies ist ihr Fragen, dies ihr Flehen,",
+              "literal": "This is her question, this her pleading,",
               "tokens": [
                 {
                   "word": "Dies",
@@ -400,8 +400,8 @@ export const tannhaeuserAct3: Act = {
             },
             {
               "id": "a3_s1_c1_l13",
-              "original": "Bleibt auch die Wunde ungeheilt, -",
-              "literal": "Even if the wound remains unhealed, -",
+              "original": "Bleibt auch die Wunde ungeheilt,",
+              "literal": "Even if the wound remains unhealed,",
               "tokens": [
                 {
                   "word": "Bleibt",
@@ -1376,8 +1376,8 @@ export const tannhaeuserAct3: Act = {
             },
             {
               "id": "a3_s1_c13_l8",
-              "original": "mein Herz sich abgewandt von dir, -",
-              "literal": "my heart turned away from thee, -",
+              "original": "mein Herz sich abgewandt von dir,",
+              "literal": "my heart turned away from thee,",
               "tokens": [
                 {
                   "word": "Herz",
@@ -1421,8 +1421,8 @@ export const tannhaeuserAct3: Act = {
             },
             {
               "id": "a3_s1_c13_l10",
-              "original": "ein weltlich Sehnen keimt' in mir: -",
-              "literal": "an earthly longing sprouted in me: -",
+              "original": "ein weltlich Sehnen keimt' in mir:",
+              "literal": "an earthly longing sprouted in me:",
               "tokens": [
                 {
                   "word": "weltlich",
@@ -2029,8 +2029,8 @@ export const tannhaeuserAct3: Act = {
             },
             {
               "id": "a3_s2_c1_l12",
-              "original": "grüsse sie, wenn sie vorbei dir zieht, -",
-              "literal": "greet her, when she passes by thee, -",
+              "original": "grüsse sie, wenn sie vorbei dir zieht,",
+              "literal": "greet her, when she passes by thee,",
               "tokens": [
                 {
                   "word": "grüsse",
@@ -2164,8 +2164,8 @@ export const tannhaeuserAct3: Act = {
             },
             {
               "id": "a3_s3_c2_l2",
-              "original": "- wie klang er traurig! -",
-              "literal": "- how mournful it sounded! -",
+              "original": "- wie klang er traurig!",
+              "literal": "- how mournful it sounded!",
               "tokens": [
                 {
                   "word": "klang",
@@ -2273,8 +2273,8 @@ export const tannhaeuserAct3: Act = {
           "lines": [
             {
               "id": "a3_s3_c4_l1",
-              "original": "Wer ich bin? -",
-              "literal": "Who I am? -",
+              "original": "Wer ich bin?",
+              "literal": "Who I am?",
               "tokens": [
                 {
                   "word": "Wer",
@@ -2542,8 +2542,8 @@ export const tannhaeuserAct3: Act = {
             },
             {
               "id": "a3_s3_c8_l2",
-              "original": "den Weg, den einst so wunderleicht ich fand -",
-              "literal": "the way that once so wondrously easy I found -",
+              "original": "den Weg, den einst so wunderleicht ich fand",
+              "literal": "the way that once so wondrously easy I found",
               "tokens": [
                 {
                   "word": "einst",
@@ -3375,8 +3375,8 @@ export const tannhaeuserAct3: Act = {
             },
             {
               "id": "a3_s3_c25_l9",
-              "original": "die er mir Sünder einst geweint! -",
-              "literal": "that she once wept for me, a sinner! -",
+              "original": "die er mir Sünder einst geweint!",
+              "literal": "that she once wept for me, a sinner!",
               "tokens": [
                 {
                   "word": "die",
@@ -3427,8 +3427,8 @@ export const tannhaeuserAct3: Act = {
             },
             {
               "id": "a3_s3_c25_l11",
-              "original": "die Strasse wallt', erschien mir allzuleicht: -",
-              "literal": "trod the road, it seemed to me all too easy: -",
+              "original": "die Strasse wallt', erschien mir allzuleicht:",
+              "literal": "trod the road, it seemed to me all too easy:",
               "tokens": [
                 {
                   "word": "Strasse",
@@ -3739,8 +3739,8 @@ export const tannhaeuserAct3: Act = {
             },
             {
               "id": "a3_s3_c25_l21",
-              "original": "durchzog ich blind Italiens holde Auen! -",
-              "literal": "blindly traversed I Italy's fair meadows! -",
+              "original": "durchzog ich blind Italiens holde Auen!",
+              "literal": "blindly traversed I Italy's fair meadows!",
               "tokens": [
                 {
                   "word": "durchzog",
@@ -4068,8 +4068,8 @@ export const tannhaeuserAct3: Act = {
             },
             {
               "id": "a3_s3_c25_l33",
-              "original": "er Tausende sich froh erheben hiess. -",
-              "literal": "he bade thousands rise up in joy. -",
+              "original": "er Tausende sich froh erheben hiess.",
+              "literal": "he bade thousands rise up in joy.",
               "tokens": [
                 {
                   "word": "Tausende",
@@ -7026,5 +7026,3 @@ export const tannhaeuserAct3: Act = {
     }
   ]
 };
-
-export default tannhaeuserAct3;

@@ -7,20 +7,32 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 ## [1.2.0] - 2026-10-04
 
 ### Added
+- **Interactive Scene Setting & Stage Direction Translation Assistant (`SceneSettingCard.tsx`)**:
+  - Replaces static "walls of text" in stage descriptions with an interactive bilingual guide.
+  - **Sentence-by-Sentence Alignment**: Proportional bilingual sentence pairing displaying numbered bilingual cards side-by-side.
+  - **Synchronized Bilingual Hover Highlighting**: Hovering over any sentence in the original language (or English translation) immediately highlights the corresponding counterpart across both columns.
+  - **Audio Pronunciation per Sentence**: Independent `Volume2` audio playback for every individual stage direction sentence in German/Italian.
+  - **Movement Segmentation**: Multi-paragraph stage descriptions (such as the massive 4-movement Wagnerian Bacchanale in *Tannhäuser* Act I) are cleanly segmented into titled movements (*Stage Setting*, *Choreography & Bacchanale*, *Intervention of the Graces*, *Europa Vision*).
+  - **Dual Display Modes**: Toggle seamlessly between `[Aligned Sentences]` (breakdown cards) and `[Paragraph Flow]` (continuous narrative with hover sync).
+  - **Enhanced Opening Act Setting**: Opening scenes feature a dedicated, audio-equipped general act setting card.
 - **Universal, Format-Agnostic Libretto Importer (`scripts/import_opera.py`)**:
   - Source-agnostic ingestion supporting local files, remote web URLs (`http://`, `https://`), bilingual parallel text/TSV (`--format parallel`), HTML, and pre-structured JSON.
   - Built-in German compound verb and past-participle recognition (`is_german_participle`, auxiliary verb awareness for *sein*, *haben*, *werden*).
   - Comprehensive closed-class word catalog (articles, prepositions, pronouns, conjunctions, adverbs) in heuristic POS tagger for German and Italian, preventing false verb classifications.
   - Automated translation smoothing rules preventing awkward hyphenated dative calques in imported libretti.
+  - Integrated `clean_trailing_hyphens` preventing overhanging ASCII dashes or split-word hyphens from entering the corpus.
   - Included reference parallel fixtures: `scripts/samples/sample_bilingual_parallel.tsv` and `scripts/samples/sample_german_perfekt.tsv`.
 
 ### Changed
+- **Formatting, Line Breaks & Overhanging Hyphen Cleanups**:
+  - **Healed Split Words**: Repaired OCR-induced split-word hyphenation across lines in *Fidelio* (e.g., `ver-ständiger` $\rightarrow$ `verständiger`, `gleichges-timmter` $\rightarrow$ `gleichgestimmter`, `dür-fen` $\rightarrow$ `dürfen`, `unge-fähr` $\rightarrow$ `ungefähr`, `ver-lieren` $\rightarrow$ `verlieren`, `har-therziger` $\rightarrow$ `hartherziger`, `entdeck-en` $\rightarrow$ `entdecken`).
+  - **Eliminated Overhanging Hyphens**: Purged all trailing hanging hyphens (`: -`, `, -`, `! -`, `? -`, `. -`, `; -`, ` -`) from poetic verses and translations across *Tannhäuser* (Acts 1–3).
+  - **Smoothed 400+ Hyphenated Calques**: Normalized mechanical hyphenated grammatical chains (`to-the`, `to-me`, `to-you`, `in-order`, `out-of`, `for-that`, `as-soon-as`, `by-the-dozen`, `would-be`, etc.) into clean, fluent, syntax-transparent English across *Die Zauberflöte* and *Fidelio*.
 - **Corpus Standardization & Grammar Alignment Across All Works**:
   - Brought all existing operas (*Die Zauberflöte*, *Fidelio*, *Tannhäuser*, *Falstaff*) to the exact same high linguistic standard.
   - **German Compound Verbs & Perfect Tense (*Perfekt*)**: Corrected past participle classification across *Die Zauberflöte*, *Fidelio*, and *Tannhäuser*. Predicate participles governed by auxiliary verbs (e.g. *Ich bin gegangen*) are now correctly tagged as `verb` (with Partizip II verbal predicate annotations) instead of being mislabeled as adjectives.
-  - **Fidelio Translation Overhaul**: Repaired all 124 defective translation lines in Acts 1 and 2 where raw German text had leaked into literal translations. Reduced residual German fragments from 218 down to **0**.
+  - **Fidelio Translation Overhaul**: Repaired all defective translation lines in Acts 1 and 2 where raw German text had leaked into literal translations. Reduced residual German fragments down to **0**.
   - **Fidelio Libretto Integrity**: Removed stray librettist credit lines embedded in dramatic dialogue (Act 2 Scene 6).
-  - **Die Zauberflöte Translation Smoothing**: Normalized 124 hyphenated pronoun calques (`to-me`, `to-you` -> `to me`, `to you`) and smoothed rigid SOV German word orders into clear, syntax-transparent English.
 
 ---
 

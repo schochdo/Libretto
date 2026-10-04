@@ -3,6 +3,8 @@ import { Scene, Line, Token, Cue, SupportedLanguage, Character } from '../types/
 import { Volume2, Sparkles } from 'lucide-react';
 import { speakText, getGenderForSpeaker } from '../utils/speech';
 
+import { SceneSettingCard } from './SceneSettingCard';
+
 interface DualColumnReaderProps {
   scene: Scene;
   actTitle: string;
@@ -56,7 +58,7 @@ export const DualColumnReader: React.FC<DualColumnReaderProps> = ({
     <div className="max-w-5xl mx-auto px-4 sm:px-8 py-8 pb-24">
       
       {/* Act & Scene Title (Poetic & Minimal) */}
-      <header className="mb-10 text-center space-y-3">
+      <header className="mb-8 text-center space-y-3">
         <span className="text-xs sm:text-sm tracking-widest uppercase font-semibold opacity-75 block">
           {actTitle}
         </span>
@@ -69,53 +71,15 @@ export const DualColumnReader: React.FC<DualColumnReaderProps> = ({
           </p>
         )}
 
-        {/* Setting (Overarching stage location - only on opening scene to prevent duplication) */}
-        {scene.sceneNumber === 1 && (actOriginalSetting || actSetting) && (
-          <div className="pt-2 max-w-2xl mx-auto space-y-1.5 leading-relaxed">
-            {actOriginalSetting && (
-              <p className="font-libretto italic opacity-95 text-lg sm:text-xl">
-                {actOriginalSetting}
-              </p>
-            )}
-            {actSetting && (
-              <p className="opacity-90 italic text-base sm:text-lg">
-                ({actSetting})
-              </p>
-            )}
-          </div>
-        )}
-
-        {/* Scene Action & Stage Directions (Dual-column layout) */}
-        {(scene.originalDescription || scene.description) && (
-          <div 
-            className="grid grid-cols-1 md:grid-cols-2 gap-8 pt-4 pb-4 px-5 my-4 rounded-lg border text-sm sm:text-base leading-relaxed text-left transition-colors"
-            style={{
-              borderColor: 'var(--border-color)',
-              backgroundColor: 'rgba(var(--accent-rgb, 180, 140, 60), 0.03)'
-            }}
-          >
-            <div>
-              <span className="font-semibold uppercase tracking-wider text-xs block mb-2 opacity-75" style={{ color: 'var(--accent)' }}>
-                Scene Setting & Action
-              </span>
-              {scene.originalDescription && (
-                <div className="font-libretto italic text-base sm:text-lg opacity-95 whitespace-pre-line space-y-2">
-                  {scene.originalDescription}
-                </div>
-              )}
-            </div>
-            <div>
-              <span className="font-semibold uppercase tracking-wider text-xs block mb-2 opacity-75" style={{ color: 'var(--accent)' }}>
-                Setting Translation
-              </span>
-              {scene.description && (
-                <div className="text-sm sm:text-base opacity-90 whitespace-pre-line space-y-2">
-                  {scene.description}
-                </div>
-              )}
-            </div>
-          </div>
-        )}
+        {/* Enhanced Interactive Scene Setting & Stage Direction Assistant */}
+        <SceneSettingCard
+          originalDescription={scene.originalDescription}
+          description={scene.description}
+          language={language}
+          actOriginalSetting={actOriginalSetting}
+          actSetting={actSetting}
+          isOpeningScene={scene.sceneNumber === 1}
+        />
       </header>
 
       {/* Column Guide (Minimalist) */}

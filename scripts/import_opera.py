@@ -264,20 +264,31 @@ def tokenize_line(original: str, literal: str, lexicon: LexiconManager, language
         tokens.append(token)
     return tokens
 
+def clean_trailing_hyphens(text: str) -> str:
+    """Strips trailing overhanging hyphens and ASCII dashes after punctuation."""
+    if not text:
+        return text
+    text = re.sub(r'[:;,!?.]\s*-\s*$', lambda m: m.group(0)[0], text)
+    text = re.sub(r'\s+-\s*$', '', text)
+    return text.strip()
+
 def smooth_literal_translation(lit: str) -> str:
-    """Removes awkward mechanical hyphenated dative calques from English literal translations."""
-    lit = re.sub(r'\bto-me\b', 'to me', lit)
-    lit = re.sub(r'\bto-you\b', 'to you', lit)
-    lit = re.sub(r'\bto-her\b', 'to her', lit)
-    lit = re.sub(r'\bto-him\b', 'to him', lit)
-    lit = re.sub(r'\bto-us\b', 'to us', lit)
-    lit = re.sub(r'\bto-them\b', 'to them', lit)
-    lit = re.sub(r'\bof-the\b', 'of the', lit)
-    lit = re.sub(r'\bof-our\b', 'of our', lit)
-    lit = re.sub(r'\bin-the\b', 'in the', lit)
-    lit = re.sub(r'\bto-the\b', 'to the', lit)
-    lit = re.sub(r'\bfrom-the\b', 'from the', lit)
-    lit = re.sub(r'\bwith-the\b', 'with the', lit)
+    """Removes awkward mechanical hyphenated calques and trailing hyphens from English literal translations."""
+    calques = [
+        (r'\bto-me\b', 'to me'), (r'\bto-you\b', 'to you'), (r'\bto-her\b', 'to her'),
+        (r'\bto-him\b', 'to him'), (r'\bto-us\b', 'to us'), (r'\bto-them\b', 'to them'),
+        (r'\bto-the\b', 'to the'), (r'\bof-the\b', 'of the'), (r'\bin-the\b', 'in the'),
+        (r'\bfrom-the\b', 'from the'), (r'\bwith-the\b', 'with the'), (r'\binto-the\b', 'into the'),
+        (r'\bon-the\b', 'on the'), (r'\bat-the\b', 'at the'), (r'\bby-the\b', 'by the'),
+        (r'\bfor-the\b', 'for the'), (r'\bout-of\b', 'out of'), (r'\bfor-that\b', 'for that'),
+        (r'\bin-order\b', 'in order'), (r'\bas-soon-as\b', 'as soon as'), (r'\bat-least\b', 'at least'),
+        (r'\bwould-be\b', 'would be'), (r'\bwould-like\b', 'would like'), (r'\bwould-catch\b', 'would catch'),
+        (r'\bwould-lock\b', 'would lock'), (r'\bsee-again\b', 'see again'), (r'\bafter-all\b', 'after all'),
+        (r'\bby-the-dozen\b', 'by the dozen')
+    ]
+    for pat, rep in calques:
+        lit = re.sub(pat, rep, lit, flags=re.IGNORECASE)
+    lit = clean_trailing_hyphens(lit)
     return lit.strip()
 
 class UniversalLibrettoParser:
@@ -402,6 +413,8 @@ class UniversalLibrettoParser:
                 current_scene['cues'].append(current_cue)
 
                 if dialogue_orig:
+                    dialogue_orig = clean_trailing_hyphens(dialogue_orig)
+                    dialogue_lit = smooth_literal_translation(dialogue_lit)
                     line_counter += 1
                     tokens = tokenize_line(dialogue_orig, dialogue_lit, self.lexicon, self.language)
                     current_cue['lines'].append({
@@ -418,6 +431,8 @@ class UniversalLibrettoParser:
                     current_cue['stageDirection'] = orig_text.strip('()')
                     continue
 
+                orig_text = clean_trailing_hyphens(orig_text)
+                lit_text = smooth_literal_translation(lit_text)
                 line_counter += 1
                 tokens = tokenize_line(orig_text, lit_text, self.lexicon, self.language)
                 current_cue['lines'].append({

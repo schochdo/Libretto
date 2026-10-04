@@ -1618,7 +1618,7 @@ export const tannhaeuserAct2: Act = {
             },
             {
               "id": "a2_s2_c13_l23",
-              "original": "mein Wachen ward trübsel'ger Wahn; -",
+              "original": "mein Wachen ward trübsel'ger Wahn;",
               "literal": "my waking became mournful delusion; —",
               "tokens": [
                 {
@@ -1644,7 +1644,7 @@ export const tannhaeuserAct2: Act = {
             },
             {
               "id": "a2_s2_c13_l24",
-              "original": "die Freude zog aus meinem Herzen: -",
+              "original": "die Freude zog aus meinem Herzen:",
               "literal": "joy departed from my heart: —",
               "tokens": [
                 {
@@ -3959,7 +3959,7 @@ export const tannhaeuserAct2: Act = {
             },
             {
               "id": "a2_s4_c11_l4",
-              "original": "ein stolzer Eichwald, herrlich, frisch und grün; -",
+              "original": "ein stolzer Eichwald, herrlich, frisch und grün;",
               "literal": "a proud oak forest, magnificent, fresh, and green; —",
               "tokens": [
                 {
@@ -4127,7 +4127,7 @@ export const tannhaeuserAct2: Act = {
             },
             {
               "id": "a2_s4_c11_l10",
-              "original": "der an dem Himmel, der mich blendet, steht: -",
+              "original": "der an dem Himmel, der mich blendet, steht:",
               "literal": "that stands in the heaven that dazzles me: —",
               "tokens": [
                 {
@@ -5432,7 +5432,7 @@ export const tannhaeuserAct2: Act = {
             },
             {
               "id": "a2_s4_c19_l6",
-              "original": "Dein Leben war nicht liebereich, -",
+              "original": "Dein Leben war nicht liebereich,",
               "literal": "Thy life was not rich in love, —",
               "tokens": [
                 {
@@ -10365,5 +10365,3 @@ export const tannhaeuserAct2: Act = {
     }
   ]
 };
-
-export default tannhaeuserAct2;

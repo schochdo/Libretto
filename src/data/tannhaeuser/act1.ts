@@ -365,7 +365,7 @@ export const tannhaeuserAct1: Act = {
           "lines": [
             {
               "id": "a1_s2_c6_l1",
-              "original": "Im Traum war mir's als hörte ich -",
+              "original": "Im Traum war mir's als hörte ich",
               "literal": "In a dream it seemed to me as though I heard —",
               "tokens": [
                 {
@@ -391,7 +391,7 @@ export const tannhaeuserAct1: Act = {
             },
             {
               "id": "a1_s2_c6_l2",
-              "original": "was meinem Ohr so lange fremd! -",
+              "original": "was meinem Ohr so lange fremd!",
               "literal": "what has so long been strange to my ear! —",
               "tokens": [
                 {
@@ -3822,7 +3822,7 @@ export const tannhaeuserAct1: Act = {
             },
             {
               "id": "a1_s2_c27_l14",
-              "original": "sei's auch auf Tod und Untergehn! -",
+              "original": "sei's auch auf Tod und Untergehn!",
               "literal": "be it even unto death and ruin! —",
               "tokens": [
                 {
@@ -4462,7 +4462,7 @@ export const tannhaeuserAct1: Act = {
             },
             {
               "id": "a1_s2_c28_l20",
-              "original": "dich mir nahn, tief das Haupt zur Erde: -",
+              "original": "dich mir nahn, tief das Haupt zur Erde:",
               "literal": "you approaching me, your head bowed low to the earth: —",
               "tokens": [
                 {
@@ -4935,7 +4935,7 @@ export const tannhaeuserAct1: Act = {
           "lines": [
             {
               "id": "a1_s2_c30_l1",
-              "original": "Ha! du kehrtest nie zurück! -",
+              "original": "Ha! du kehrtest nie zurück!",
               "literal": "Ha! You would never return! —",
               "tokens": [
                 {
@@ -8362,8 +8362,8 @@ export const tannhaeuserAct1: Act = {
           "lines": [
             {
               "id": "a1_s4_c19_l1",
-              "original": "Ich wanderte in weiter, weiter Fern' -",
-              "literal": "I wandered in far, far distance -",
+              "original": "Ich wanderte in weiter, weiter Fern'",
+              "literal": "I wandered in far, far distance",
               "tokens": [
                 {
                   "word": "Ich wanderte",
@@ -10698,5 +10698,3 @@ export const tannhaeuserAct1: Act = {
     }
   ]
 };
-
-export default tannhaeuserAct1;

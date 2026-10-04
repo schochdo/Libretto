@@ -45,6 +45,20 @@ This document tracks identified shortcomings, in-progress enhancements, and futu
 
 ## 4. Pipeline & Developer Tooling
  
+ ### [x] COMPLETED (v1.2.0): Interactive Scene Setting & Stage Direction Assistant
+ - Replaced static "walls of text" in stage directions with `SceneSettingCard.tsx`.
+ - Sentence-by-sentence proportional alignment with numbered bilingual cards.
+ - Synchronized bilingual hover highlighting between original and English.
+ - Line-level audio pronunciation (`Volume2`) for stage directions via Web Speech API.
+ - Movement/thematic section segmentation for multi-paragraph scene descriptions (e.g. Tannhäuser Bacchanal).
+ - Dual display modes: `[Aligned Sentences]` and `[Paragraph Flow]`.
+ - Overarching general Act Setting card on opening scenes with audio.
+
+ ### [x] COMPLETED (v1.2.0): Formatting, Line Breaks & Overhanging Hyphen Cleanups
+ - Healed OCR-induced split-word hyphenation across lines in *Fidelio* (`verständiger`, `gleichgestimmter`, `dürfen`, `ungefähr`, `verlieren`, `hartherziger`, `entdecken`).
+ - Eliminated all trailing hanging hyphens (`: -`, `, -`, `! -`, `? -`, `. -`, ` -`) across *Tannhäuser* verses.
+ - Smoothed 400+ hyphenated grammatical calques across *Die Zauberflöte* and *Fidelio*.
+
  ### [x] COMPLETED (v1.2.0): Universal Source-Agnostic Importer Tool (`scripts/import_opera.py`)
  - Source-agnostic ingestion engine supporting local text, HTML, JSON, remote HTTP/HTTPS URLs, and bilingual parallel streams (`--format parallel`).
  - Linguistic tokenization powered by German (`german_master_lexicon.json`) and Italian (`falstaff_master_lexicon.json`, `large_italian_vocab.json`) lemma databases.
