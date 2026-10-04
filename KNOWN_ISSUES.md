@@ -82,7 +82,6 @@ Future releases will expand the library to cover canonical works across the prim
 
 ## 5. Diction & Pedagogical Enhancements
 
-- [ ] **International Phonetic Alphabet (IPA)**:
-  - Add standardized classical singing IPA transcriptions (following Castel/Moriarty conventions) for every line and token.
 - [ ] **Audio Synchronization Timestamps**:
   - Support for syncing line highlights to specific public domain recordings (e.g., Internet Archive recordings).
+

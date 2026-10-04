@@ -35,13 +35,7 @@ This document tracks identified shortcomings, in-progress enhancements, and futu
 - **Proposed Feature**: A toggle switch (`All Dialogue` vs. `Arias & Musical Numbers Only`).
   - When in *Arias Only* mode, spoken dialogue scenes are collapsed or dimmed, allowing users to seamlessly follow along with audio recordings.
 
-### 3.2 International Phonetic Alphabet (IPA) Transcription
-- **Background**: Classical singers and vocal coaches rely heavily on standardized IPA transcriptions (following the methodology of Nico Castel and John Moriarty) to master vowel purity, open vs. closed vowels, and German glottal stops.
-- **Proposed Feature**:
-  - Add an optional `ipa` field to every line and token.
-  - Add an "IPA" toggle in the reader that renders the phonetic pronunciation directly below the original foreign line.
-
-### 3.3 Public Domain Audio Synchronization
+### 3.2 Public Domain Audio Synchronization
 - **Background**: Currently, audio is synthesized on the fly via the browser's Web Speech API (TTS). While helpful for pronunciation, TTS lacks operatic singing and orchestral accompaniment.
 - **Proposed Feature**:
   - Link public domain historic recordings (from the Internet Archive and Musopen).
@@ -80,21 +74,6 @@ This document tracks identified shortcomings, in-progress enhancements, and futu
     };
     ```
   - This reduces the initial bundle size from 700 kB down to ~150 kB, downloading each opera only when selected by the user.
-
-### 4.3 Web App Self-Service Importer ("Add Opera in Browser")
-- **The Vision**: Allow end-users visiting the web app to add custom operas without needing Python, a terminal, or Antigravity.
-- **Architecture Without a Backend**:
-  1. **Client-Side Storage (`IndexedDB`)**:
-     - The browser has a built-in persistent storage engine (`IndexedDB`) capable of storing hundreds of megabytes of JSON locally.
-     - Custom imported operas are loaded alongside `OPERA_CATALOG` in React state.
-  2. **Tier 1: Drag-and-Drop / Paste JSON**:
-     - A simple modal where users upload an `opera.json` file conforming to our `Opera` schema.
-     - Validates and immediately adds the opera to their local library.
-  3. **Tier 2: In-Browser AI Translation (Bring-Your-Own-Key / BYOK)**:
-     - The user enters a free Google Gemini API key or OpenAI key (stored in `localStorage`).
-     - The user pastes raw libretto text, enters title/composer/language.
-     - The browser calls the Gemini Flash API directly from JavaScript using `fetch()`, parsing cues and generating tokens in chunks.
-     - The resulting opera is saved to `IndexedDB` and ready to read instantly, with a "Download JSON" button to share with others.
 
 ---
 
