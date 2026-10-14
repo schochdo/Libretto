@@ -11,7 +11,7 @@ export const tannhaeuserAct3: Act = {
       "title": "Wohl wußt' ich hier sie im Gebet zu finden (Wolfram und Elisabeth)",
       "titleTranslation": "Well knew I here her in prayer to find (Wolfram and Elisabeth)",
       "originalDescription": "Tal vor der Wartburg gegen Abend. Elisabeth betet vor dem Marienbild. Der Zug der aus Rom begnadigt heimkehrenden Pilger zieht vorüber, doch Heinrich ist nicht unter ihnen. Elisabeth weiht ihr Leben der Jungfrau Maria.",
-      "description": "At twilight in the valley, Elisabeth kneels before a shrine of the Virgin. Returning pilgrims pass by, but Heinrich is not among them. Broken-hearted, Elisabeth offers her life for his soul.",
+      "description": "Valley before the Wartburg toward evening. Elisabeth prays before the image of the Virgin Mary. The procession of pilgrims returning pardoned from Rome passes by, but Heinrich is not among them. Elisabeth consecrates her life to the Virgin Mary.",
       "cues": [
         {
           "id": "a3_s1_c1",
@@ -2127,7 +2127,7 @@ export const tannhaeuserAct3: Act = {
       "title": "Ich hörte Harfenschlag, wie klang er traurig! (Romerzählung und Erlösung)",
       "titleTranslation": "I heard harp-strumming, how sounded it mournful! (Rome Narrative and Redemption)",
       "originalDescription": "Tannhäuser erscheint in zerlumptem Pilgergewande, berichtet von der Verdammnis durch den Papst und ruft verzweifelt Venus zurück. Wolfram nennt Elisabeths Namen; der Leichenzug Elisabeths naht, Tannhäuser sinkt sterbend nieder, und junge Pilger verkünden das Wunder des ergrünten Stabes.",
-      "description": "A ragged Tannhäuser returns from Rome, recounting the Pope's curse. As Venus re-emerges to reclaim him, Wolfram invokes Elisabeth. Heinrich falls dying beside Elisabeth's bier as young pilgrims arrive bearing the Pope's miraculously blooming staff.",
+      "description": "Tannhäuser appears in ragged pilgrim's garments, reports his damnation by the Pope, and despairingly summons Venus back. Wolfram speaks Elisabeth's name; Elisabeth's funeral cortege approaches, Tannhäuser sinks down dying, and young pilgrims announce the miracle of the sprouting staff.",
       "cues": [
         {
           "id": "a3_s3_c1",

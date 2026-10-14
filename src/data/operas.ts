@@ -12,6 +12,16 @@ export const OPERA_CATALOG: OperaSummary[] = [
     year: 1814
   },
   {
+    id: 'carmen',
+    title: 'Carmen',
+    originalTitle: 'Carmen',
+    composer: 'Georges Bizet',
+    librettists: ['Henri Meilhac', 'Ludovic Halévy'],
+    language: 'fr',
+    languageLabel: 'French',
+    year: 1875
+  },
+  {
     id: 'die-zauberfloete',
     title: 'The Magic Flute',
     originalTitle: 'Die Zauberflöte',
@@ -20,6 +30,16 @@ export const OPERA_CATALOG: OperaSummary[] = [
     language: 'de',
     languageLabel: 'German',
     year: 1791
+  },
+  {
+    id: 'la-boheme',
+    title: 'La Bohème',
+    originalTitle: 'La Bohème',
+    composer: 'Giacomo Puccini',
+    librettists: ['Luigi Illica', 'Giuseppe Giacosa'],
+    language: 'it',
+    languageLabel: 'Italian',
+    year: 1896
   },
   {
     id: 'falstaff',
@@ -50,10 +70,12 @@ export const getOperaSummaryById = (id: string): OperaSummary => {
 
 const OPERA_LOADERS: Record<string, () => Promise<{ default: Opera }>> = {
   'fidelio': () => import('./fidelio'),
+  'carmen': () => import('./carmen'),
   'die-zauberfloete': () => import('./dieZauberfloete'),
   'magic-flute': () => import('./dieZauberfloete'),
+  'la-boheme': () => import('./laBoheme'),
   'falstaff': () => import('./falstaff'),
-  'tannhaeuser': () => import('./tannhaeuser')
+  'tannhaeuser': () => import('./tannhaeuser'),
 };
 
 const operaCache = new Map<string, Opera>();

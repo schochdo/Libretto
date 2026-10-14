@@ -1,0 +1,1666 @@
+[
+  {
+    "speaker": "Venditori",
+    "direction": "sul limitare delle loro botteghe, altri aggirandosi tra la folla ed offrendo la propria merce",
+    "lines": [
+      "Aranci, datteri! Caldi i marroni!",
+      "Ninnoli, croci. Torroni! Panna montata!",
+      "Caramelle! La crostata! Fringuelli",
+      "passeri! Fiori alle belle!"
+    ]
+  },
+  {
+    "speaker": "Coro",
+    "direction": "studenti, sartine, borghesi e popolo; gridando e chiamando i Camerieri che vanno e vengono affaccendati",
+    "lines": [
+      "Quanta folla! Su, corriam! Che chiasso!",
+      "Stringiti a me. Date il passo.",
+      "DAL CAFFE",
+      "Presto qua! Camerier! Un bicchier!",
+      "Corri! Birra! Da ber! Un caffè!"
+    ]
+  },
+  {
+    "speaker": "Venditori",
+    "direction": null,
+    "lines": [
+      "Latte di cocco! Giubbe! Carote!"
+    ]
+  },
+  {
+    "speaker": "Coro",
+    "direction": "allontanandosi",
+    "lines": [
+      "Quanta folla, su, partiam!"
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": "dopo aver soffiato nel corno che ha contrattato a lungo con un venditore di ferravecchi; Paga .",
+    "lines": [
+      "Falso questo Re!",
+      "Pipa e corno quant'è?"
+    ]
+  },
+  {
+    "speaker": "Colline",
+    "direction": "presso la rappezzatrice che gli ha cucito la falda di uno zimarrone; Paga, poi distribuisce con giusto equilibrio i libri dei quali è carico nelle molte tasche dello zimarrone .",
+    "lines": [
+      "un poco usato...",
+      "ma è serio e a buon mercato..."
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": "A braccio con Mimì, attraversa la folla avviato al negozio della modista.",
+    "lines": [
+      "Andiamo."
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Andiamo per la cuffietta?"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Tienti al mio braccio stretta..."
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": "Entrano in una Bottega di modista.",
+    "lines": [
+      "A te mi stringo...",
+      "Andiamo !"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "tutto solo in mezzo alla folla, con un involto sotto il braccio, occhieggiando le donnine che la folla gli getta quasi fra le braccia",
+    "lines": [
+      "Io pur mi sento in vena di gridar:",
+      "Chi vuol, donnine allegre, un po' d'amor!",
+      "Facciamo insieme a vendere e a comprar!"
+    ]
+  },
+  {
+    "speaker": "Venditori",
+    "direction": "Entra un gruppo di venditrici.",
+    "lines": [
+      "Prugne di Tours!"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "La ragazza si allontana ridendo.",
+    "lines": [
+      "Io dò ad un soldo il vergine mio cuor!"
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": "Va a gironzolare avanti al caffè Momus aspettandovi gli amici: intanto armato della enorme pipa e del corno da caccia guarda curiosamente la folla.",
+    "lines": [
+      "Fra spintoni e testate accorrendo",
+      "affretta la folla e si diletta",
+      "nel provar gioie matte... insoddisfatte..."
+    ]
+  },
+  {
+    "speaker": "Venditori",
+    "direction": null,
+    "lines": [
+      "Ninnoli, spillette!",
+      "Datteri e caramelle!"
+    ]
+  },
+  {
+    "speaker": "Venditori",
+    "direction": null,
+    "lines": [
+      "Fiori alle belle!"
+    ]
+  },
+  {
+    "speaker": "Colline",
+    "direction": "se ne viene al ritrovo, agitando trionfalmente un vecchio libro.",
+    "lines": [
+      "Copia rara, anzi unica:",
+      "la grammatica Runica!"
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": null,
+    "lines": [
+      "Uomo onesto!"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "Arrivando al caffè Momus grida a Schaunard e Colline:",
+    "lines": [
+      "A cena!"
+    ]
+  },
+  {
+    "speaker": "Schaunard e Colline",
+    "direction": null,
+    "lines": [
+      "Rodolfo?"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Entrò da una modista."
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": "uscendo dalla modista insieme a Mimì",
+    "lines": [
+      "Vieni, gli amici aspettano."
+    ]
+  },
+  {
+    "speaker": "Venditori",
+    "direction": "alcuni",
+    "lines": [
+      "Panna montata!"
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": "accennando ad una cuffietta che porta graziosamente; Marcello, Schaunard e Colline cercano se vi fosse un tavolo libero fuori del caffè all'aria aperta, ma ve n'è uno solo ed è occupato da onesti borghesi. I tre amici li fulminano con occhiate sprezzanti, poi entrano nel caffè.",
+    "lines": [
+      "Mi sta bene questa cuffietta rosa?"
+    ]
+  },
+  {
+    "speaker": "Ragazzi",
+    "direction": "alcuni",
+    "lines": [
+      "Latte di cocco!"
+    ]
+  },
+  {
+    "speaker": "Venditori",
+    "direction": null,
+    "lines": [
+      "Oh, la crostata!",
+      "Panna montata!",
+      "DAL CAFFE",
+      "Camerier!",
+      "Un bicchier!",
+      "Presto, olà!",
+      "Ratafià!"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": "a Mimì",
+    "lines": [
+      "Sei bruna e quel color ti dona."
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": "ammirando la bacheca di una bottega",
+    "lines": [
+      "Bel vezzo di corallo!"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": "Rodolfo e Mimì, in dolce colloquio, si avviano verso il fondo della scena e si perdono nella folla. Ad una bottega del fondo un venditore monta su di una seggiola, con grandi gesti offre in vendita delle maglierie, dei berretti da notte, ecc. Un gruppo di ragazzi accorre intorno alla bottega e scoppia in allegre risate.",
+    "lines": [
+      "Ho uno zio milionario. Se fa senno il buon Dio,",
+      "voglio comprarti un vezzo assai più bel!"
+    ]
+  },
+  {
+    "speaker": "Ragazzi",
+    "direction": "ridendo",
+    "lines": [
+      "Ah! Ah! Ah! Ah!"
+    ]
+  },
+  {
+    "speaker": "Studenti e Sartine",
+    "direction": "accorrendo nel fondo presso i monelli ridendo",
+    "lines": [
+      "Ah! Ah! Ah!..."
+    ]
+  },
+  {
+    "speaker": "Borghesi",
+    "direction": "Entrano nel Caffè .",
+    "lines": [
+      "Facciam coda alla gente!",
+      "Ragazze, state attente!",
+      "Che chiasso! Quanta folla!",
+      "Pigliam via Mazzarino!",
+      "Io soffoco, partiamo!",
+      "Vedi il Caffè è vicin!",
+      "Andiamo là da Momus!"
+    ]
+  },
+  {
+    "speaker": "Venditori",
+    "direction": "Molta gente entra da ogni parte e si aggira per il piazzale, poi si raduna nel fondo. Colline, Schaunard e Marcello escono dal caffè portando fuori una tavola; li segue un cameriere colle seggiole; i borghesi al tavolo vicino, infastiditi dal baccano che fanno i tre amici, dopo un po' di tempo s'alzano e se ne vanno. S'avanzano di nuovo Rodolfo e Mimì, questa osserva un gruppo di studenti.",
+    "lines": [
+      "Aranci, datteri, ninnoli, fior!"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": "con dolce rimprovero, a Mimì",
+    "lines": [
+      "Chi guardi?"
+    ]
+  },
+  {
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Odio il profano volgo al par d'Orazio."
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": "a Rodolfo",
+    "lines": [
+      "Sei geloso?"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "All'uom felice sta il sospetto accanto."
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": null,
+    "lines": [
+      "Ed io, quando mi sazio,",
+      "vo' abbondanza di spazio..."
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": "a Rodolfo",
+    "lines": [
+      "Sei felice?"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "al cameriere",
+    "lines": [
+      "Vogliamo una cena prelibata."
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": "appassionato a Mimì",
+    "lines": [
+      "Ah, sì, tanto!",
+      "E tu?"
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Sì, tanto!"
+    ]
+  },
+  {
+    "speaker": "Studenti e Sartine",
+    "direction": "alcuni; Entrano nel caffè.",
+    "lines": [
+      "Là da Momus!",
+      "Andiamo!"
+    ]
+  },
+  {
+    "speaker": "Tutti",
+    "direction": "al cameriere, che corre frettoloso entro al Caffè, mentre un altro ne esce con tutto l'occorrente per preparare la tavola; Rodolfo e Mimì s'avviano al Caffè Momus",
+    "lines": [
+      "Lesto !"
+    ]
+  },
+  {
+    "speaker": "Parpignol",
+    "direction": "interno, lontano",
+    "lines": [
+      "Ecco i giocattoli di Parpignol!"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": "Si unisce agli amici e presenta loro Mimì .",
+    "lines": [
+      "Due posti."
+    ]
+  },
+  {
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Finalmente !"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Eccoci qui",
+      "Questa è Mimì,",
+      "gaia fioraia.",
+      "Il suo venir completa",
+      "la bella compagnia,",
+      "perché son io il poeta,",
+      "essa la poesia.",
+      "Dal mio cervel sbocciano i canti,",
+      "dalle sue dita sbocciano i fior;",
+      "dall'anime esultanti",
+      "sboccia l'amor."
+    ]
+  },
+  {
+    "speaker": "Tutti",
+    "direction": "ridendo",
+    "lines": [
+      "Ah! Ah! Ah! Ah!"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "ironico",
+    "lines": [
+      "Dio, che concetti rari!"
+    ]
+  },
+  {
+    "speaker": "Colline",
+    "direction": "solenne, accennando a Mimì",
+    "lines": [
+      "Digna est intrari."
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": "con autorità comica",
+    "lines": [
+      "Ingrediat si necessit."
+    ]
+  },
+  {
+    "speaker": "Colline",
+    "direction": "Tutti siedono intorno al tavolo, mentre il cameriere ritorna.",
+    "lines": [
+      "Io non dò che un accessit!"
+    ]
+  },
+  {
+    "speaker": "Parpignol",
+    "direction": "vicinissimo",
+    "lines": [
+      "Ecco i giocattoli di Parpignol!"
+    ]
+  },
+  {
+    "speaker": "Colline",
+    "direction": "Vedendo il cameriere gli grida con enfasi:; Il cameriere presenta la lista delle vivande, che passa nelle mani dei quattro amici, guardata con una specie di ammirazione e analizzata profondamente Da via Delfino sbocca un carretto tutto a fronzoli e fiori, illuminato a palloncini: chi lo spinge è Parpignol, il popolare venditore di giocattoli; una turba di ragazzi lo segue saltellando allegramente e circonda il carretto ammirandone i giocattoli.",
+    "lines": [
+      "Salame!"
+    ]
+  },
+  {
+    "speaker": "Ragazzi",
+    "direction": "interno; in scena",
+    "lines": [
+      "Parpignol, Parpignol!",
+      "Ecco Parpignol, Parpignol!",
+      "Col carretto tutto fior!",
+      "Ecco Parpignol, Parpignol!",
+      "Voglio la tromba, il cavallin,",
+      "il tambur, tamburel...",
+      "Voglio il cannon, voglio il frustin,",
+      "... dei soldati il drappel."
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": null,
+    "lines": [
+      "Cervo arrosto!"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "esaminando la carta ed ordinando ad alta voce al cameriere",
+    "lines": [
+      "Un tacchino!"
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": null,
+    "lines": [
+      "Vin del Reno!"
+    ]
+  },
+  {
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Vin da tavola!"
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": "Bambine e ragazzi, attorniato il carretto di Parpignol, gesticolano con gran vivacità; un gruppo di mamme accorre in cerca dei ragazzi e, trovandoli intorno a Parpignol, si mettono a sgridarli; l'una prende il figliolo per una mano, un'altra vuole condur via la propria bambina, chi minaccia, chi sgrida, ma inutilmente, ché bambine e ragazzi non vogliono andarsene.",
+    "lines": [
+      "Aragosta senza crosta!"
+    ]
+  },
+  {
+    "speaker": "Mamme",
+    "direction": "strillanti e minaccianti; Una mamma prende per un orecchio un ragazzo il quale si mette a piagnucolare.",
+    "lines": [
+      "Ah! razza di furfanti indemoniati,",
+      "che ci venite a fare in questo loco?",
+      "A casa, a letto! Via, brutti sguaiati,",
+      "gli scappellotti vi parranno poco!",
+      "A casa, a letto,",
+      "razza di furfanti, a letto!"
+    ]
+  },
+  {
+    "speaker": "Ragazzi",
+    "direction": "piagnucolando; Le mamme, intenerite, si decidono a comperare da Parpignol, i ragazzi saltano di gioia, impossessandosi dei giocattoli. Parpignol prende giù per via Commedia. I ragazzi e le bambine allegramente lo seguono, marciando e fingendo di suonare gli strumenti infantili acquistati loro.",
+    "lines": [
+      "Vo' la tromba, il cavallin!..."
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "E tu, Mimì, che vuoi?"
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "La crema."
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": "con somma importanza al cameriere, che prende nota di quanto gli viene ordinato",
+    "lines": [
+      "E gran sfarzo. C'è una dama!"
+    ]
+  },
+  {
+    "speaker": "Ragazzi",
+    "direction": "interno; più lontano",
+    "lines": [
+      "Viva Parpignol, Parpignol!",
+      "Il tambur! Tamburel!",
+      "Dei soldati il drappel!"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "come continuando il discorso",
+    "lines": [
+      "Signorina Mimì, che dono raro",
+      "le ha fatto il suo Rodolfo?"
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": "mostrando una cuffietta che toglie da un involto",
+    "lines": [
+      "Una cuffietta",
+      "a pizzi, tutta rosa, ricamata;",
+      "coi miei capelli bruni ben si fonde.",
+      "Da tanto tempo tal cuffietta è cosa desiata!...",
+      "Egli ha letto quel che il core asconde...",
+      "Ora colui che legge dentro a un cuore",
+      "sa l'amore ed è... lettore."
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": null,
+    "lines": [
+      "Esperto professore..."
+    ]
+  },
+  {
+    "speaker": "Colline",
+    "direction": "seguitando l'idea di Schaunard",
+    "lines": [
+      "... che ha già diplomi e non son armi prime",
+      "le sue rime..."
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": "interrompendo",
+    "lines": [
+      "... tanto che sembra ver ciò ch'egli esprime!..."
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "guardando Mimì",
+    "lines": [
+      "O bella età d'inganni e d'utopie!",
+      "Si crede, spera, e tutto bello appare!"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "La più divina delle poesie",
+      "è quella, amico, che c'insegna amare!"
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Amare è dolce ancora più del miele..."
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "stizzito",
+    "lines": [
+      "... secondo il palato è miele, o fiele!..."
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": "sorpresa, a Rodolfo",
+    "lines": [
+      "O Dio! ... l'ho offeso!"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "È in lutto, o mia Mimì."
+    ]
+  },
+  {
+    "speaker": "Schaunard e Colline",
+    "direction": "per cambiare discorso",
+    "lines": [
+      "Allegri, e un toast!..."
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "al cameriere",
+    "lines": [
+      "Qua del liquor!..."
+    ]
+  },
+  {
+    "speaker": "Tutti",
+    "direction": "alzandosi",
+    "lines": [
+      "E via i pensier, alti i bicchier!",
+      "Beviam!"
+    ]
+  },
+  {
+    "speaker": "Tutti",
+    "direction": null,
+    "lines": [
+      "Beviam !"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "interrompendo, perché ha veduto da lontano Musetta; Si lascia cadere sulla sedia. All'angolo di via Mazzarino appare una bellissima signora dal fare civettuolo ed allegro, dal sorriso provocante. Le vien dietro un signore pomposo, pieno di pretensione negli abiti, nei modi, nella persona.",
+    "lines": [
+      "Ch'io beva del tossico!"
+    ]
+  },
+  {
+    "speaker": "Tutti",
+    "direction": "con sorpresa, vedendo Musetta",
+    "lines": [
+      "Oh!"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Essa !"
+    ]
+  },
+  {
+    "speaker": "Tutti",
+    "direction": null,
+    "lines": [
+      "Musetta !"
+    ]
+  },
+  {
+    "speaker": "Borghesi",
+    "direction": "vedendo Musetta",
+    "lines": [
+      "To' ! - Lei ! - Sì ! - To' ! - Lei ! - Musetta !",
+      "Siamo in auge! - Che toeletta!"
+    ]
+  },
+  {
+    "speaker": "Alcindoro",
+    "direction": "trafelato",
+    "lines": [
+      "Come un facchino...",
+      "correr di qua... di là...",
+      "No! No! non ci sta...",
+      "non ne posso più!"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": "con passi rapidi, guardando qua e là come in cerca di qualcuno, mentre Alcindoro la segue, sbuffando e stizzito chiamandolo come un cagnolino",
+    "lines": [
+      "Vien, Lulù!",
+      "Vien, Lulù!"
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": "Musetta vede la tavolata degli amici innanzi al Caffè Momus ed indica ad Alcindoro di sedersi al tavolo lasciato libero poco prima dai borghesi.",
+    "lines": [
+      "Quel brutto coso",
+      "mi par che sudi!"
+    ]
+  },
+  {
+    "speaker": "Alcindoro",
+    "direction": "a Musetta",
+    "lines": [
+      "Come! qui fuori?",
+      "Qui?"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": null,
+    "lines": [
+      "Siedi, Lulù!"
+    ]
+  },
+  {
+    "speaker": "Alcindoro",
+    "direction": "Siede irritato, alzando il bavero del suo pastrano e borbottando.; Un cameriere si avvicina e prepara la tavola.",
+    "lines": [
+      "Tali nomignoli,",
+      "prego, serbateli",
+      "al tu per tu!"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": "Siede anch'essa al tavolo rivolta verso il caffè.",
+    "lines": [
+      "Non farmi il Barbablù!"
+    ]
+  },
+  {
+    "speaker": "Colline",
+    "direction": "esaminando il vecchio",
+    "lines": [
+      "È il vizio contegnoso..."
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "con disprezzo",
+    "lines": [
+      "Colla casta Susanna!"
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": "a Rodolfo",
+    "lines": [
+      "È pur ben vestita!"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Gli angeli vanno nudi."
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": "con curiosità",
+    "lines": [
+      "La conosci! Chi è?"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "a Mimì",
+    "lines": [
+      "Domandatelo a me.",
+      "Il suo nome è Musetta;",
+      "cognome: Tentazione!",
+      "Per sua vocazione",
+      "fa la Rosa dei venti;",
+      "gira e muta soventi",
+      "e d'amanti e d'amore.",
+      "E come la civetta",
+      "è uccello sanguinario;",
+      "il suo cibo ordinario",
+      "è il cuore... Mangia il cuore!...",
+      "Per questo io non ne ho più...",
+      "Passatemi il ragù!"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": "colpita nel vedere che gli amici non la guardano; sempre più stizzita; gridando; Il cameriere accorre: Musetta prende un piatto e lo fiuta.; Getta il piatto a terra con forza, il cameriere si affretta a raccogliere i cocci.",
+    "lines": [
+      "(Marcello mi vide...",
+      "Non mi guarda, il vile!",
+      "Quel Schaunard che ride!",
+      "Mi fan tutti una bile!",
+      "Se potessi picchiar,",
+      "se potessi graffiar!",
+      "Ma non ho sottomano",
+      "che questo pellican!",
+      "Aspetta ! )",
+      "Ehi! Camerier!",
+      "Cameriere! Questo piatto",
+      "ha una puzza di rifritto!"
+    ]
+  },
+  {
+    "speaker": "Alcindoro",
+    "direction": "frenandola",
+    "lines": [
+      "No, Musetta...",
+      "Zitta zitta!"
+    ]
+  },
+  {
+    "speaker": "Alcindoro",
+    "direction": "con comica disperazione",
+    "lines": [
+      "Zitta! zitta! zitta!",
+      "Modi, garbo!"
+    ]
+  },
+  {
+    "speaker": "Alcindoro",
+    "direction": null,
+    "lines": [
+      "A chi parli?..."
+    ]
+  },
+  {
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Questo pollo è un poema!"
+    ]
+  },
+  {
+    "speaker": "Alcindoro",
+    "direction": null,
+    "lines": [
+      "Con chi parli?..."
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": null,
+    "lines": [
+      "Il vino è prelibato."
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": "seccata",
+    "lines": [
+      "Al cameriere!",
+      "Non seccar!",
+      "Voglio fare il mio piacere...."
+    ]
+  },
+  {
+    "speaker": "Alcindoro",
+    "direction": "Prende la nota del cameriere e si mette ad ordinare la cena.",
+    "lines": [
+      "Parla pian",
+      "parla pian!"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": null,
+    "lines": [
+      "... vo' far quel che mi pare!",
+      "Non seccar."
+    ]
+  },
+  {
+    "speaker": "Sartine",
+    "direction": "Attraversando la scena, si arrestano un momento vedendo Musetta.",
+    "lines": [
+      "Guarda, guarda chi si vede,",
+      "proprio lei, Musetta!"
+    ]
+  },
+  {
+    "speaker": "Studenti",
+    "direction": "attraversando la scena",
+    "lines": [
+      "Con quel vecchio che balbetta..."
+    ]
+  },
+  {
+    "speaker": "Studenti e Sartine",
+    "direction": "ridendo",
+    "lines": [
+      "... proprio lei, Musetta!",
+      "Ah, ah, ah, ah!"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": null,
+    "lines": [
+      "(Che sia geloso",
+      "di questa mummia?)"
+    ]
+  },
+  {
+    "speaker": "Alcindoro",
+    "direction": "interrompendo le sue ordinazioni, per calmare Musetta che continua ad agitarsi",
+    "lines": [
+      "La convenienza...",
+      "il grado... la virtù..."
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": null,
+    "lines": [
+      "...(Vediam se mi resta",
+      "tanto poter su lui da farlo cedere!)"
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": null,
+    "lines": [
+      "La commedia è stupenda!"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": "guardando Marcello, a voce alta",
+    "lines": [
+      "Tu non mi guardi!"
+    ]
+  },
+  {
+    "speaker": "Alcindoro",
+    "direction": "Credendo che Musetta gli abbia rivolto la parola, se ne compiace e le risponde gravemente:",
+    "lines": [
+      "Vedi bene che ordino!..."
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": null,
+    "lines": [
+      "La commedia è stupenda!"
+    ]
+  },
+  {
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Stupenda !"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": "a Mimì",
+    "lines": [
+      "Sappi per tuo governo",
+      "che non darei perdono in sempiterno."
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": null,
+    "lines": [
+      "Essa all'un parla",
+      "perché l'altro intenda."
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": "a Rodolfo",
+    "lines": [
+      "Io t'amo tanto,",
+      "e son tutta tua!...",
+      "Ché mi parli di perdono?"
+    ]
+  },
+  {
+    "speaker": "Colline",
+    "direction": "a Schaunard",
+    "lines": [
+      "E l'altro invan crudel...",
+      "finge di non capir, ma sugge miel!..."
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": "come sopra",
+    "lines": [
+      "Ma il tuo cuore martella!"
+    ]
+  },
+  {
+    "speaker": "Alcindoro",
+    "direction": null,
+    "lines": [
+      "Parla piano."
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": "sempre seduta dirigendosi intenzionalmente a Marcello, il quale comincia ad agitarsi",
+    "lines": [
+      "Quando men vo soletta per la via,",
+      "la gente sosta e mira",
+      "e la bellezza mia tutta ricerca in me",
+      "da capo a pie'..."
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "agli amici, con voce soffocata",
+    "lines": [
+      "Legatemi alla seggiola!"
+    ]
+  },
+  {
+    "speaker": "Alcindoro",
+    "direction": "sulle spine",
+    "lines": [
+      "Quella gente che dirà?"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": null,
+    "lines": [
+      "... ed assaporo allor la bramosia",
+      "sottil, che da gli occhi traspira",
+      "e dai palesi vezzi intender sa",
+      "alle occulte beltà.",
+      "Così l'effluvio del desìo tutta m'aggira,",
+      "felice mi fa!"
+    ]
+  },
+  {
+    "speaker": "Alcindoro",
+    "direction": "Si avvicina a Musetta, cercando di farla tacere.",
+    "lines": [
+      "(Quel canto scurrile",
+      "mi muove la bile!)"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": null,
+    "lines": [
+      "E tu che sai, che memori e ti struggi",
+      "da me tanto rifuggi?",
+      "So ben: le angoscie tue non le vuoi dir,",
+      "ma ti senti morir!"
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": "a Rodolfo; Schaunard e Colline si alzano e si portano da un lato, osservando la scena con curiosità, mentre Rodolfo e Mimì rimangon soli, seduti, parlandosi con tenerezza. Marcello, sempre più nervoso ha lasciato il suo posto, vorrebbe andarsene, ma non sa resistere alla voce di Musetta.",
+    "lines": [
+      "Io vedo ben...",
+      "che quella poveretta,",
+      "tutta invaghita di Marcel,",
+      "tutta invaghita ell'è!"
+    ]
+  },
+  {
+    "speaker": "Alcindoro",
+    "direction": null,
+    "lines": [
+      "Quella gente che dirà?"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": "a Mimì",
+    "lines": [
+      "Marcello un dì l'amò."
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": null,
+    "lines": [
+      "Ah, Marcello cederà!"
+    ]
+  },
+  {
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Chi sa mai quel che avverrà!"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": "a Mimì; Alcindoro tenta inutilmente di persuadere Musetta a riprendere posto alla tavola, ove la cena è già pronta.",
+    "lines": [
+      "La fraschetta l'abbandonò",
+      "per poi darsi a miglior vita."
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": null,
+    "lines": [
+      "Trovan dolce al pari il laccio..."
+    ]
+  },
+  {
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Santi numi, in simil briga..."
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": null,
+    "lines": [
+      "... chi lo tende e chi ci dà."
+    ]
+  },
+  {
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "... mai Colline intopperà!"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": null,
+    "lines": [
+      "(Ah! Marcello smania..."
+    ]
+  },
+  {
+    "speaker": "Alcindoro",
+    "direction": null,
+    "lines": [
+      "Parla pian!",
+      "Zitta, zitta!"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": null,
+    "lines": [
+      "Marcello è vinto!)",
+      "Sò ben le angoscie tue",
+      "non le vuoi dir.",
+      "Ah! ma ti senti morir."
+    ]
+  },
+  {
+    "speaker": "Alcindoro",
+    "direction": null,
+    "lines": [
+      "Modi, garbo!",
+      "Zitta, zitta!"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": "ad Alcindoro, ribellandosi",
+    "lines": [
+      "Io voglio fare il mio piacere!",
+      "Voglio far quel che mi par,",
+      "non seccar! non seccar!"
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Quell'infelice",
+      "mi muove a pietà!"
+    ]
+  },
+  {
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "(Essa è bella, io non son cieco,",
+      "ma piaccionmi assai più",
+      "una pipa e un testo greco!)"
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": "stringendosi a Rodolfo",
+    "lines": [
+      "T'amo!",
+      "Quell'infelice mi muove a pietà!",
+      "L'amor ingeneroso è tristo amor!",
+      "Quell'infelice mi muove a pietà!"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": "cingendo Mimì alla vita",
+    "lines": [
+      "Mimì !",
+      "È fiacco amor quel che le offese",
+      "vendicar non sa!",
+      "Non risorge spento amor!"
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": "a Colline",
+    "lines": [
+      "(Quel bravaccio a momenti cederà!",
+      "Stupenda è la commedia!",
+      "Marcello cederà!)",
+      "Se tal vaga persona,",
+      "ti trattasse a tu per tu,",
+      "la tua scienza brontolona",
+      "manderesti a Belzebù!"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": "Or convien liberarsi del vecchio!; Simulando un forte dolore ad un piede, va di nuovo a sedersi.",
+    "lines": [
+      "Ahi!"
+    ]
+  },
+  {
+    "speaker": "Alcindoro",
+    "direction": null,
+    "lines": [
+      "Che c'è?"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": null,
+    "lines": [
+      "Qual dolore, qual bruciore!"
+    ]
+  },
+  {
+    "speaker": "Alcindoro",
+    "direction": "Si china per slacciare la scarpa a Musetta.",
+    "lines": [
+      "Dove?"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": "mostrando il piede con civetteria",
+    "lines": [
+      "Al pie'!"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": null,
+    "lines": [
+      "Sciogli, slaccia, rompi, straccia!",
+      "Te ne imploro...",
+      "Laggiù c'è un calzolaio."
+    ]
+  },
+  {
+    "speaker": "Alcindoro",
+    "direction": null,
+    "lines": [
+      "Imprudente !"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "commosso sommamente, avanzandosi",
+    "lines": [
+      "Gioventù mia,",
+      "tu non sei morta,",
+      "né di te morto è il sovvenir!",
+      "SCHAUNARD e COLLINE, poi RODOLFO",
+      "La commedia è stupenda!"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Se tu battessi alla mia porta,",
+      "t'andrebbe il mio core ad aprir!"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": null,
+    "lines": [
+      "Corri presto!",
+      "Ne vòglio un altro paio.",
+      "Ahi! che fitta,",
+      "maledetta scarpa stretta!"
+    ]
+  },
+  {
+    "speaker": "Alcindoro",
+    "direction": null,
+    "lines": [
+      "Quella gente che dirà?"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": "Si leva la scarpa e la pone sul tavolo.",
+    "lines": [
+      "Or la levo..."
+    ]
+  },
+  {
+    "speaker": "Alcindoro",
+    "direction": "cercando di trattenere Musetta",
+    "lines": [
+      "Ma il mio grado!"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": null,
+    "lines": [
+      "Eccola qua."
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Io vedo ben",
+      "ell'è invaghita di Marcello!"
+    ]
+  },
+  {
+    "speaker": "Alcindoro",
+    "direction": "Nasconde prontamente nel gilet la scarpa di Musetta, poi si abbottona l'abito.",
+    "lines": [
+      "Vuoi ch'io comprometta?",
+      "Aspetta ! Musetta! Vo'."
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": "impazientandosi; Alcindoro va via frettolosamente. Musetta e Marcello si abbracciano con grande entusiasmo.",
+    "lines": [
+      "Corri, va, corri.",
+      "Presto, va! va!"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": null,
+    "lines": [
+      "Marcello!"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Sirena!"
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": "Un cameriere porta il conto.",
+    "lines": [
+      "Siamo all'ultima scena!"
+    ]
+  },
+  {
+    "speaker": "Tutti",
+    "direction": "con sorpresa alzandosi assieme a Mimì",
+    "lines": [
+      "Il conto?"
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": null,
+    "lines": [
+      "Così presto?"
+    ]
+  },
+  {
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Chi l'ha richiesto?"
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": "al cameriere; Dopo guardato il conto, lo passa agli amici.",
+    "lines": [
+      "Vediam !"
+    ]
+  },
+  {
+    "speaker": "Rodolfo e Colline",
+    "direction": "osservando il conto; Lontanissima si ode la Ritirata militare che a poco a poco va avvicinandosi.",
+    "lines": [
+      "Caro !"
+    ]
+  },
+  {
+    "speaker": "Ragazzi",
+    "direction": "accorrendo da destra",
+    "lines": [
+      "La Ritirata!"
+    ]
+  },
+  {
+    "speaker": "Studenti e Sartine",
+    "direction": "Sortono frettolosamente dal Caffè Momus.",
+    "lines": [
+      "La Ritirata!"
+    ]
+  },
+  {
+    "speaker": "Tutti",
+    "direction": "tastandosi le tasche vuote",
+    "lines": [
+      "Fuori il danaro!"
+    ]
+  },
+  {
+    "speaker": "Tutti",
+    "direction": null,
+    "lines": [
+      "E tu Marcel?"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Siamo all'asciutto"
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": null,
+    "lines": [
+      "Come?"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Ho trenta soldi in tutto!"
+    ]
+  },
+  {
+    "speaker": "Tutti",
+    "direction": "allibiti",
+    "lines": [
+      "Come? Non ce n'è più?"
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": "terribile; Portano le mani alle tasche: sono vuote: nessuno sa spiegarsi la rapida scomparsa degli scudi di Schaunard sorpresi si guardano l'un l'altro",
+    "lines": [
+      "Ma il mio tesoro ov'è?"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": "al cameriere; al cameriere che le mostra il conto; Il cameriere unisce i due conti e ne fa la somma.",
+    "lines": [
+      "Il mio conto date a me.",
+      "Bene!",
+      "Presto, sommate",
+      "quello con questo!",
+      "Paga il signor che stava qui con me!"
+    ]
+  },
+  {
+    "speaker": "Tutti",
+    "direction": "accennando dalla parte dove è andato Alcindoro fra lor comicamente",
+    "lines": [
+      "Paga il signor!"
+    ]
+  },
+  {
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Paga il signor!"
+    ]
+  },
+  {
+    "speaker": "Schaunard",
+    "direction": null,
+    "lines": [
+      "Paga il signor!"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "... il Signor!"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": "Ricevuti i due conti dal cameriere li pone sul tavolo al posto di Alcindoro.",
+    "lines": [
+      "E dove s'è seduto",
+      "ritrovi il mio saluto!"
+    ]
+  },
+  {
+    "speaker": "Tutti",
+    "direction": null,
+    "lines": [
+      "E dove s'è seduto",
+      "ritrovi il mio saluto!"
+    ]
+  },
+  {
+    "speaker": "Borghesi",
+    "direction": "Accorrendo da sinistra, la Ritirata essendo ancor lontana, la gente corre da un lato all'altro della scena guardando da quale via s'avanzano i militari.",
+    "lines": [
+      "La Ritirata!"
+    ]
+  },
+  {
+    "speaker": "Ragazzi",
+    "direction": "cercando di orientarsi",
+    "lines": [
+      "S'avvicina per di qua!?"
+    ]
+  },
+  {
+    "speaker": "Studenti e Sartine",
+    "direction": null,
+    "lines": [
+      "No, di là!"
+    ]
+  },
+  {
+    "speaker": "Ragazzi",
+    "direction": "indecisi, indicando il lato opposto",
+    "lines": [
+      "S'avvicinan per di là!"
+    ]
+  },
+  {
+    "speaker": "Studenti e Sartine",
+    "direction": "Si aprono varie finestre, appaiono a queste e sui balconi mamme coi loro ragazzi ed ansiosamente guardano da dove arriva la Ritirata.",
+    "lines": [
+      "Vien di qua!"
+    ]
+  },
+  {
+    "speaker": "Borghesi e Venditori",
+    "direction": "Irrompono dal fondo facendosi strada tra la folla. alcuni",
+    "lines": [
+      "Largo ! Largo !"
+    ]
+  },
+  {
+    "speaker": "Ragazzi",
+    "direction": "alcuni dalle finestre",
+    "lines": [
+      "Voglio veder! Voglio sentir!",
+      "Mamma, voglio veder!",
+      "Papà, voglio sentir!",
+      "Vo' veder la Ritirata!"
+    ]
+  },
+  {
+    "speaker": "Mamme",
+    "direction": "alcune, dalle finestre; La folla ha invaso tutta la scena, la Ritirata si avvicina sempre più dalla sinistra.",
+    "lines": [
+      "Lisetta, vuoi tacer?",
+      "Tonio, la vuoi finir?",
+      "Vuoi tacer, la vuoi finir?",
+      "SARTINE e BORGHESI",
+      "S'avvicinano di qua!",
+      "LA FOLLA e i VENDITORI",
+      "Sì, di qua!"
+    ]
+  },
+  {
+    "speaker": "Ragazzi",
+    "direction": null,
+    "lines": [
+      "Come sarà arrivata",
+      "la seguiremo al passo!"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Giunge la Ritirata!",
+      "MARCELLO e COLLINE",
+      "Che il vecchio non ci veda",
+      "fuggir colla sua preda!"
+    ]
+  },
+  {
+    "speaker": "Tutti",
+    "direction": null,
+    "lines": [
+      "Quella folla serrata",
+      "il nascondiglio appresti!",
+      "MIMI, MUSETTA, RODOLFO, MARCELLO, SCHAUNARD e COLLINE",
+      "Lesti, lesti, lesti!"
+    ]
+  },
+  {
+    "speaker": "Venditori",
+    "direction": "Dopo aver chiuso le botteghe, vengono in strada.; Tutti guardano verso sinistra, la Ritirata sta per sbucare nel crocicchio, allora la folla si ritira e dividendosi forma due ali da sinistra al fondo a destra, mentre gli amici - con Musetta e Mimì  fanno gruppo a parte presso il caffè.",
+    "lines": [
+      "In quel rullio tu senti",
+      "la patria maestà!"
+    ]
+  },
+  {
+    "speaker": "Coro",
+    "direction": "La ritirata Militare entra da sinistra, la precede un gigantesco Tamburo Maggiore, che maneggia con destrezza e solennità la sua Canna di Comando, indicando la via da percorrere.; La Ritirata attraversa la scena, dirigendosi verso il fondo a destra. Musetta non potendo camminare perché ha un solo piede calzato, è alzata a braccia da Marcello e Colline che rompono le fila degli astanti, per seguire la Ritirata; la folla vedendo Musetta portata trionfalmente, ne prende pretesto per farle clamorose ovazioni. Marcello e Colline con Musetta si mettono in coda alla Ritirata, li seguono Rodolfo e Mimì a braccetto e Schaunard col suo corno imboccato, poi studenti e sartine saltellando allegramente, poi ragazzi, borghesi, donne che prendono il passo di marcia. Tutta questa folla si allontana dal fondo seguendo la Ritirata militare.",
+    "lines": [
+      "Largo, largo, eccoli qua!",
+      "In fila!",
+      "LA FOLLA e i VENDITORI",
+      "Ecco il Tambur Maggior!",
+      "Più fier d'un antico guerrier!",
+      "Il Tamburo Maggior! Gli Zappator, olà!",
+      "La Ritirata è qua!",
+      "Eccolo là! Il bel Tambur Maggior!",
+      "La canna d'ôr, tutto splendor!",
+      "Che guarda, passa, va!"
+    ]
+  },
+  {
+    "speaker": "Tutti",
+    "direction": "Grido della folla, dall'interno Intanto Alcindoro con un paio di scarpe bene incartocciate ritorna verso il Caffè Momus cercando di Musetta; il cameriere, che è presso al tavolo, prende il conto lasciato da questa e cerimoniosamente lo presenta ad Alcindoro, il quale vedendo la somma, non trovando più alcuno, cade su di una sedia, stupefatto, allibito.",
+    "lines": [
+      "Viva Musetta!",
+      "Cuor birichin!",
+      "Gloria ed onor,",
+      "onor e gloria",
+      "del quartier latin!",
+      "LA FOLLA e i VENDITORI",
+      "Tutto splendor!",
+      "Di Francia è il più bell'uom!",
+      "Il bel Tambur Maggior",
+      "Eccolo là!",
+      "Che guarda, passa; va!"
+    ]
+  }
+]

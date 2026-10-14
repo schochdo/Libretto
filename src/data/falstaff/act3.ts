@@ -11,7 +11,7 @@ export const falstaffAct3: Act = {
       title: "Parte I: Ehi! Taverniere! (Esterno dell'osteria: Il piano della Quercia di Herne)",
       titleTranslation: "Part I: Hey! Tavernkeeper! (Outside the Inn: The Plot of Herne's Oak)",
       originalDescription: "Un piazzale all’esterno dell’Osteria della Giarrettiera al tramonto. Falstaff esce dal Tamigi fradicio e beve vino caldo. Alice, Ford e le comari organizzano la mascherata notturna delle fate e dei folletti alla Quercia di Herne.",
-      description: "A square outside the Garter Inn at sunset. A soaked Falstaff curses the world until warm mulled wine revives his spirits. Quickly and the merry wives convince him to meet them at midnight in Windsor Forest disguised as the Black Huntsman.",
+      description: "A square outside the Garter Inn at sunset. Falstaff emerges soaked from the Thames and drinks warm wine. Alice, Ford, and the merry wives organize the nocturnal masquerade of fairies and goblins at Herne's Oak.",
       cues: [
         {
           id: "a3_s1_c1",
@@ -4323,7 +4323,7 @@ export const falstaffAct3: Act = {
       title: "Parte II: Ninfe! Elfi! Silfi! (Il Parco di Windsor e la Fuga finale)",
       titleTranslation: "Part II: Nymphs! Elves! Sylphs! (Windsor Park and Final Fugue)",
       originalDescription: "Il parco di Windsor di notte sotto la grande Quercia di Herne. Falstaff appare con le corna di cervo. Fate e folletti lo tormentano e lo pizzicano. Svelata la burla e celebrati i matrimoni, Falstaff intona la grandiosa fuga 'Tutto nel mondo è burla'.",
-      description: "Windsor Forest at midnight by Herne's Oak. Falstaff arrives wearing stag antlers and is pinched and teased by the townspeople disguised as spirits. When the jest is exposed, Ford is duped into blessing Fenton and Nannetta's wedding, and Falstaff leads the brilliant final fugue: 'All the world's a jest!'",
+      description: "Windsor Park at night beneath the great Herne's Oak. Falstaff appears wearing stag's horns. Fairies and goblins torment and pinch him. The jest revealed and the marriages celebrated, Falstaff leads the magnificent fugue 'All the world is a jest'.",
       cues: [
         {
           id: "a3_s2_c1",

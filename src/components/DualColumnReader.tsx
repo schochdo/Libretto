@@ -75,6 +75,7 @@ export const DualColumnReader: React.FC<DualColumnReaderProps> = ({
         <SceneSettingCard
           originalDescription={scene.originalDescription}
           description={scene.description}
+          settingSegments={scene.settingSegments}
           language={language}
           actOriginalSetting={actOriginalSetting}
           actSetting={actSetting}

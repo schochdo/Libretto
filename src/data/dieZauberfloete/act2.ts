@@ -1285,7 +1285,7 @@ export const dieZauberfloeteAct2: Act = {
       "title": "Bewahret euch vor Weibertücken (Duett)",
       "titleTranslation": "Guard yourselves against women's-wiles (Duet)",
       "originalDescription": "Nacht. Der Vorhof des Tempels. Zwei Priester ermahnen Tamino und Papageno, standhaft zu bleiben und ihr Schweigegelübde zu wahren.",
-      "description": "Night in the temple forecourt. Two Priests admonish Tamino and Papageno to remain silent and steadfast against the trials and temptations ahead.",
+      "description": "Night. The forecourt of the temple. Two priests admonish Tamino and Papageno to remain steadfast and preserve their vow of silence.",
       "cues": [
         {
           "id": "a2_s2_c1",
@@ -4320,7 +4320,7 @@ export const dieZauberfloeteAct2: Act = {
       "title": "Alles fühlt der Liebe Freuden (Arie)",
       "titleTranslation": "Everything feels the joys of love (Aria)",
       "originalDescription": "Ein Garten. Pamina schläft im Mondschein. Monostatos schleicht sich heran.",
-      "description": "In a moonlit garden, Pamina sleeps upon a bench of roses. Monostatos approaches stealthily, singing of his desire to taste the joys of love that all nature shares.",
+      "description": "A garden. Pamina sleeps in the moonlight. Monostatos creeps stealthily near.",
       "cues": [
         {
           "id": "a2_s4_c1",
@@ -10235,7 +10235,7 @@ export const dieZauberfloeteAct2: Act = {
       "title": "O Isis und Osiris, welche Wonne! (Chor der Priester)",
       "titleTranslation": "O Isis and Osiris, what bliss! (Chorus of Priests)",
       "originalDescription": "Das Gewölbe einer Pyramide. Die Priester preisen die Standhaftigkeit des edlen Jünglings.",
-      "description": "Inside the vault of the great pyramid, the priests sing a majestic hymn of praise celebrating that Tamino has proven his virtue and readiness for higher initiation.",
+      "description": "The vault of a pyramid. The priests praise the steadfastness of the noble youth.",
       "cues": [
         {
           "id": "a2_s9_c1",
@@ -14623,7 +14623,7 @@ export const dieZauberfloeteAct2: Act = {
       "title": "Bald prangt, den Morgen zu verkünden (Finale II - Teil 1)",
       "titleTranslation": "Soon shines, the morning to announce (Finale II - Part 1)",
       "originalDescription": "Ein Garten im Morgengrauen. Die drei Knaben retten Pamina vor der Verzweiflung.",
-      "description": "At dawn in the garden, the Three Boys praise the rising sun and intervene just in time to stop the despairing Pamina from ending her life with the dagger, leading her to Tamino.",
+      "description": "A garden at dawn. The three boys rescue Pamina from despair.",
       "cues": [
         {
           "id": "a2_s12_c1",
@@ -16473,7 +16473,7 @@ export const dieZauberfloeteAct2: Act = {
       "title": "Papagena! Papagena! (Finale II - Teil 3: Pa-pa-pa Duett)",
       "titleTranslation": "Papagena! Papagena! (Finale II - Part 3: Pa-pa-pa Duet)",
       "originalDescription": "Papageno sucht Papagena, will sich erhängen, wird von den drei Knaben gerettet und mit Papagena vereint.",
-      "description": "Despairing of ever finding his bride, Papageno prepares to hang himself, but the Three Boys prompt him to ring his magic bells. Papagena appears and the ecstatic couple celebrates their joyous union.",
+      "description": "Papageno searches for Papagena, wants to hang himself, is rescued by the three boys, and is united with Papagena.",
       "cues": [
         {
           "id": "a2_s14_c1",

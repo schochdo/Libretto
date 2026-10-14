@@ -5038,7 +5038,7 @@ export const dieZauberfloeteAct1: Act = {
       "title": "O zitt're nicht, mein lieber Sohn (Rezitativ und Arie)",
       "titleTranslation": "O tremble not, my dear son (Recitative and Aria)",
       "originalDescription": "Die Berge teilen sich unter heftigem Donner auseinander, und die Königin auf ihrem sternenverzierten Thron wird sichtbar.",
-      "description": "Under heavy thunder and lightning, the mountains part to reveal the Queen of the Night on a starry throne. She laments the kidnapping of her daughter Pamina by Sarastro and charges Tamino with her rescue.",
+      "description": "The mountains part amidst violent thunder, and the Queen on her star-adorned throne becomes visible.",
       "cues": [
         {
           "id": "a1_s4_c1",
@@ -7995,7 +7995,7 @@ export const dieZauberfloeteAct1: Act = {
       "title": "Du feines Täubchen, nur herein (Terzett)",
       "titleTranslation": "You delicate little-dove, just inside (Trio)",
       "originalDescription": "Ein prächtiges Zimmer im Palast Sarastros. Monostatos und Sklaven führen Pamina herein.",
-      "description": "In Sarastro's palace, the overseer Monostatos threatens Pamina, but when Papageno wanders in, both Monostatos and Papageno terrify each other believing the other to be the devil.",
+      "description": "A magnificent room in Sarastro's palace. Monostatos and slaves lead Pamina inside.",
       "cues": [
         {
           "id": "a1_s6_c1",
@@ -12051,7 +12051,7 @@ export const dieZauberfloeteAct1: Act = {
       "title": "Zum Ziele führt dich diese Bahn (Finale I)",
       "titleTranslation": "To the goal leads you this path (Finale I)",
       "originalDescription": "Ein heiliger Hain vor drei Pforten: der Weisheit, der Vernunft und der Natur. Sarastros Tempelbezirk.",
-      "description": "The Three Boys guide Tamino to the gates of Sarastro's sanctuary. Tamino converses with the Speaker of the Temple, learns that Sarastro is an enlightened priest rather than a tyrant, plays his flute to tame wild beasts, and is reunited with Pamina before Sarastro's triumphal procession.",
+      "description": "A sacred grove before three portals: of Wisdom, of Reason, and of Nature. Sarastro's temple precinct.",
       "cues": [
         {
           "id": "a1_s8_c1",

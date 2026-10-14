@@ -79,7 +79,7 @@ def to_camel_case(snake_str: str) -> str:
 
 def clean_punctuation(word: str) -> Tuple[str, str, str]:
     """Separates leading and trailing punctuation from a word token."""
-    prefix_match = re.match(r'^[„“"\'(\[«»\-]+', word)
+    prefix_match = re.match(r'^[„“"\'(\[«»\-\.…]+', word)
     suffix_match = re.search(r'[„“"\'\)\]!?,.:;…«»\-]+$', word)
     prefix = prefix_match.group(0) if prefix_match else ''
     suffix = suffix_match.group(0) if suffix_match else ''
@@ -113,32 +113,42 @@ class LexiconManager:
                                 'meaning': v if isinstance(v, str) else str(v)
                             }
         elif self.language == 'it':
-            falstaff_lex = scripts_dir / 'falstaff_master_lexicon.json'
-            if falstaff_lex.exists():
-                with open(falstaff_lex, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-                    for k, v in data.items():
-                        self.lexicon[k.lower()] = {
-                            'word': k,
-                            'lemma': k,
-                            'pos': 'noun',
-                            'meaning': v if isinstance(v, str) else str(v)
-                        }
-            it_vocab = scripts_dir / 'large_italian_vocab.json'
-            if it_vocab.exists():
-                with open(it_vocab, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-                    for k, v in data.items():
-                        if k.lower() not in self.lexicon:
-                            self.lexicon[k.lower()] = {
-                                'word': k,
-                                'lemma': k,
-                                'pos': 'noun',
-                                'meaning': v if isinstance(v, str) else str(v)
-                            }
+            for fn in ['falstaff_master_lexicon.json', 'large_italian_vocab.json', 'boheme_lexicon.json']:
+                lex_path = scripts_dir / fn
+                if lex_path.exists():
+                    with open(lex_path, 'r', encoding='utf-8') as f:
+                        data = json.load(f)
+                        for k, v in data.items():
+                            if isinstance(v, dict):
+                                self.lexicon[k.lower()] = v
+                            elif isinstance(v, str):
+                                if k.lower() not in self.lexicon:
+                                    self.lexicon[k.lower()] = {
+                                        'word': k,
+                                        'lemma': k,
+                                        'pos': 'noun',
+                                        'meaning': v
+                                    }
+        elif self.language == 'fr':
+            for fn in ['carmen_lexicon.json', 'french_master_lexicon.json']:
+                lex_path = scripts_dir / fn
+                if lex_path.exists():
+                    with open(lex_path, 'r', encoding='utf-8') as f:
+                        data = json.load(f)
+                        for k, v in data.items():
+                            if isinstance(v, dict):
+                                self.lexicon[k.lower()] = v
+                            elif isinstance(v, str):
+                                if k.lower() not in self.lexicon:
+                                    self.lexicon[k.lower()] = {
+                                        'word': k,
+                                        'lemma': k,
+                                        'pos': 'noun',
+                                        'meaning': v
+                                    }
 
     def lookup(self, word: str) -> Optional[Dict[str, str]]:
-        cw = word.lower().strip()
+        cw = word.lower().strip().replace('\x92', "'").replace('’', "'")
         if cw in self.lexicon:
             entry = self.lexicon[cw]
             if isinstance(entry, dict):
@@ -156,6 +166,30 @@ class LexiconManager:
                     'pos': 'noun' if word and word[0].isupper() else 'verb',
                     'meaning': entry
                 }
+
+        # Check elision with apostrophe in Italian and French
+        if self.language in ('it', 'fr') and (cw + "'") in self.lexicon:
+            base = self.lookup(cw + "'")
+            if base:
+                base['word'] = word
+                return base
+
+        # Italian poetic apocope and elision resolution
+        if self.language == 'it':
+            if cw.endswith(('ar', 'er', 'ir')) and (cw + 'e') in self.lexicon:
+                base = self.lookup(cw + 'e')
+                if base:
+                    base['word'] = word
+                    return base
+            apocope_map = {
+                'cor': 'cuore', 'mar': 'mare', 'bel': 'bello',
+                'gran': 'grande', 'ciel': 'cielo', 'man': 'mano', 'pie': 'piede'
+            }
+            if cw in apocope_map and apocope_map[cw] in self.lexicon:
+                base = self.lookup(apocope_map[cw])
+                if base:
+                    base['word'] = word
+                    return base
         return None
 
 def is_german_participle(clean_word: str, lemma: str) -> bool:
@@ -213,12 +247,39 @@ def guess_pos(word: str, language: str, has_auxiliary: bool = False) -> str:
             return 'adverb'
         if w.endswith(('oso', 'osa', 'ico', 'ica', 'ivo', 'iva', 'ale', 'ile')):
             return 'adjective'
+    elif language == 'fr':
+        if w in {'le', 'la', 'les', 'un', 'une', 'des', 'du', 'au', 'aux', "l'", "d'"}:
+            return 'particle'
+        if w in {'de', 'à', 'dans', 'par', 'pour', 'sur', 'avec', 'sans', 'sous', 'vers', 'chez', 'entre'}:
+            return 'preposition'
+        if w in {'je', 'tu', 'il', 'elle', 'on', 'nous', 'vous', 'ils', 'elles', 'me', 'te', 'se', 'moi', 'toi', 'lui', 'leur', 'en', 'y', 'qui', 'que', 'quoi', 'dont', 'où', 'ce', 'cet', 'cette', 'ces', "j'", "m'", "t'", "s'", "c'", "qu'"}:
+            return 'pronoun'
+        if w in {'et', 'ou', 'mais', 'donc', 'car', 'ni', 'si', 'quand', 'lorsque', 'puisque', 'comme', 'quoique'}:
+            return 'conjunction'
+        if w in {'ne', 'pas', 'plus', 'jamais', 'toujours', 'bien', 'mal', 'très', 'ici', 'là', 'encore', 'souvent', 'point', 'rien', "n'"}:
+            return 'adverb'
+        if w.endswith(('er', 'ir', 're', 'ant', 'é', 'ée', 'és', 'ées', 'ais', 'ait', 'aient', 'ons', 'ez', 'ont', 'rai', 'ras', 'ra', 'rons', 'rez', 'ront')):
+            return 'verb'
+        if w.endswith(('ment',)):
+            return 'adverb'
+        if w.endswith(('eux', 'euse', 'ique', 'ible', 'able', 'al', 'ale', 'aux', 'if', 'ive')):
+            return 'adjective'
     return 'noun' if word and word[0].isupper() else 'verb'
 
 def tokenize_line(original: str, literal: str, lexicon: LexiconManager, language: str) -> List[Dict[str, Any]]:
     """Splits a line into words, enriches each with linguistic tokens, and resolves compound verbs."""
     tokens = []
-    raw_words = original.split()
+    
+    # In Italian and French, split elided articles and prepositions
+    proc_original = original
+    if language == 'it':
+        proc_original = proc_original.replace('\x92', "'").replace('’', "'").replace("poich'è", "poiché")
+        proc_original = re.sub(r"\b(dell'|all'|dall'|nell'|sull'|coll'|un'|ch'|l'|d'|m'|t'|s'|c'|v'|n'|quest'|quell')", r"\1 ", proc_original, flags=re.I)
+    elif language == 'fr':
+        proc_original = proc_original.replace('\x92', "'").replace('’', "'")
+        proc_original = re.sub(r"\b(jusqu'|lorsqu'|puisqu'|qu'|c'|j'|m'|t'|s'|n'|l'|d')", r"\1 ", proc_original, flags=re.I)
+    
+    raw_words = proc_original.split()
     
     # Detect if clause contains an auxiliary verb (sein, haben, werden)
     has_auxiliary = False
@@ -568,13 +629,17 @@ def register_in_catalog(opera_data: Dict[str, Any], camel_id: str, operas_ts_pat
     summary_json = json.dumps(new_summary, indent=4, ensure_ascii=False)
     indented_summary = '  ' + summary_json.replace('\n', '\n  ') + ','
 
-    old_catalog_body = catalog_match.group(1)
+    old_catalog_body = catalog_match.group(1).rstrip()
+    if old_catalog_body and not old_catalog_body.endswith(','):
+        old_catalog_body += ','
     new_catalog_body = old_catalog_body + '\n' + indented_summary
     content = content.replace(catalog_match.group(0), f"export const OPERA_CATALOG: OperaSummary[] = [\n{new_catalog_body}\n];")
 
     loaders_match = re.search(r'const OPERA_LOADERS: Record<string, \(\) => Promise<\{ default: Opera \}>> = \{\s*([\s\S]*?)\n\};', content)
     if loaders_match:
-        old_loaders_body = loaders_match.group(1)
+        old_loaders_body = loaders_match.group(1).rstrip()
+        if old_loaders_body and not old_loaders_body.endswith(','):
+            old_loaders_body += ','
         loader_entry = f"  '{opera_data['id']}': () => import('./{camel_id}'),"
         new_loaders_body = old_loaders_body + '\n' + loader_entry
         content = content.replace(loaders_match.group(0), f"const OPERA_LOADERS: Record<string, () => Promise<{{ default: Opera }}>> = {{\n{new_loaders_body}\n}};")
@@ -652,6 +717,8 @@ def main():
         if 'acts' in data:
             acts = data['acts']
             characters = data.get('characters', [])
+            if not synopsis and data.get('synopsis'):
+                synopsis = data['synopsis']
         elif isinstance(data, list):
             acts = data
         elif isinstance(data, dict):

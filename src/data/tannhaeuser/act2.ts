@@ -10,8 +10,8 @@ export const tannhaeuserAct2: Act = {
       "sceneNumber": 1,
       "title": "Dich, teure Halle, grüß' ich wieder (Elisabeths Hallenarie)",
       "titleTranslation": "You, dear hall, greet I again (Elisabeth's Hall Aria)",
-      "originalDescription": "Die Sängersaal auf der Wartburg. Elisabeth tritt freudig bewegt ein und begrüßt die teure Halle, die sie seit Heinrichs Fortgang gemieden hatte.",
-      "description": "In the great Minstrels' Hall of the Wartburg, Elisabeth joyfully greets the hall that has remained deserted and mournful since Tannhäuser's departure.",
+      "originalDescription": "Der Sängersaal auf der Wartburg. Elisabeth tritt freudig bewegt ein und begrüßt die teure Halle, die sie seit Heinrichs Fortgang gemieden hatte.",
+      "description": "The Minstrels' Hall at the Wartburg. Elisabeth enters, joyfully moved, and greets the beloved hall that she had shunned since Heinrich's departure.",
       "cues": [
         {
           "id": "a2_s1_c1",
@@ -478,7 +478,7 @@ export const tannhaeuserAct2: Act = {
       "title": "Dort ist sie; nahe dich ihr ungestört! (Heinrich und Elisabeth)",
       "titleTranslation": "There is she; approach her undisturbed! (Heinrich and Elisabeth)",
       "originalDescription": "Wolfram führt Tannhäuser zu Elisabeth. In schüchterner Seligkeit gestehen beide einander ihre wiedererwachte Liebe.",
-      "description": "Wolfram brings Heinrich before Elisabeth. The two lovers are rapturously reunited, praising the divine grace that brought Heinrich back.",
+      "description": "Wolfram brings Tannhäuser to Elisabeth. In shy bliss, both confess to each other their reawakened love.",
       "cues": [
         {
           "id": "a2_s2_c1",
@@ -2731,7 +2731,7 @@ export const tannhaeuserAct2: Act = {
       "title": "Freudig begrüßen wir die edle Halle (Der Sängerkrieg auf Wartburg)",
       "titleTranslation": "Joyfully greet we the noble hall (The Contest of Song on Wartburg)",
       "originalDescription": "Feierlicher Einzug der Gäste. Wolfram, Walther und Biterolf besingen die reine, keusche Minne. Tannhäuser verfällt in Rausch und preist wild die Göttin Venus. Elisabeth rettet ihn vor den Schwertern der Ritter.",
-      "description": "The guests enter in grand procession. When the minstrels praise pure, chaste love, Tannhäuser scandalizes the court by glorifying Venus. Elisabeth shields Heinrich from execution and urges him to seek papal absolution in Rome.",
+      "description": "Ceremonial entrance of the guests. Wolfram, Walther, and Biterolf sing of pure, chaste courtly love. Tannhäuser lapses into intoxication and wildly praises the goddess Venus. Elisabeth rescues him from the swords of the knights.",
       "cues": [
         {
           "id": "a2_s4_c1",

@@ -11,7 +11,7 @@ export const falstaffAct2: Act = {
       title: "Parte I: Reverenza! (Nell'Osteria: Quickly e Signor Fontana)",
       titleTranslation: "Part I: Reverence! (In the Inn: Quickly and Signor Fontana)",
       originalDescription: "L’interno dell’«Osteria della Giarrettiera». Mrs. Quickly si presenta a Falstaff annunciando l’appuntamento con Alice dalle due alle tre. Poco dopo entra Ford travestito sotto il nome di Signor Fontana.",
-      description: "The Garter Inn. Mrs. Quickly arrives with grand courtesies to deliver Alice's secret invitation. Soon after, Ford enters disguised as 'Signor Fontana,' hiring Falstaff with a purse of gold to seduce his own wife.",
+      description: "The interior of the Garter Inn. Mrs. Quickly presents herself to Falstaff, announcing the rendezvous with Alice from two to three. Shortly after, Ford enters disguised under the name of Signor Fontana.",
       cues: [
         {
           id: "a2_s1_c1",
@@ -6279,7 +6279,7 @@ export const falstaffAct2: Act = {
       title: "Parte II: C'è. C'è. Sì, sì. (In casa di Ford: Il cesto della biancheria)",
       titleTranslation: "Part II: There. There. Yes, yes. (In Ford's House: The Laundry Basket)",
       originalDescription: "Una sala nella casa di Ford con grande finestra sul Tamigi. Falstaff corteggia Alice rievocando la sua giovinezza snella, finché l’irruzione di Ford costringe le comari a nasconderlo nel cesto della biancheria sporca per gettarlo nel fiume.",
-      description: "A hall in Ford's house overlooking the Thames. Falstaff woos Alice with recollections of his slender youth ('Quand'ero paggio'). When the jealous Ford storms the house, Falstaff is crammed into a dirty laundry basket and dumped out the window into the river.",
+      description: "A hall in Ford's house with a large window overlooking the Thames. Falstaff woos Alice, recalling his slender youth, until Ford's sudden intrusion forces the merry wives to hide him in the dirty laundry basket to throw him into the river.",
       cues: [
         {
           id: "a2_s2_c1",

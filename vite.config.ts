@@ -13,10 +13,10 @@ export default defineConfig({
     rollupOptions: {
       output: {
         chunkFileNames: (chunkInfo) => {
-          const parts = chunkInfo.facadeModuleId ? chunkInfo.facadeModuleId.split('/') : [];
-          const dir = parts[parts.length - 2];
-          if (dir && ['fidelio', 'dieZauberfloete', 'falstaff', 'tannhaeuser'].includes(dir)) {
-            return `assets/opera-${dir}-[hash].js`;
+          const id = chunkInfo.facadeModuleId || '';
+          const match = id.match(/\/src\/data\/([^/]+)\/index\.ts$/);
+          if (match && match[1] !== 'samples') {
+            return `assets/opera-${match[1]}-[hash].js`;
           }
           return 'assets/[name]-[hash].js';
         }

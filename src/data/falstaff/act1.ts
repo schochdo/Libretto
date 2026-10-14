@@ -11,7 +11,7 @@ export const falstaffAct1: Act = {
       title: "Parte I: L’onore! Ladri! (Nell'Osteria della Giarrettiera)",
       titleTranslation: "Part I: Honor! Thieves! (In the Garter Inn)",
       originalDescription: "L’interno dell’«Osteria della Giarrettiera». Una tavola, un gran seggiolone, una panca. Sulla tavola i resti di un gran desinare, parecchie bottiglie e un bicchiere. Calamaio, penne, carta, una candela accesa. Falstaff sta seduto alla tavola; il Dr. Cajus entra infuriato accusando Bardolfo e Pistola.",
-      description: "The interior of the Garter Inn. Sir John Falstaff sits in his great armchair surrounded by wine bottles. Dr. Caius enters furiously accusing Falstaff's knavish followers of theft, after which Falstaff sends love letters to Alice and Meg and delivers his celebrated monologue on honor.",
+      description: "The interior of the Garter Inn. A table, a large armchair, a bench. On the table are the remnants of a large meal, several bottles, and a glass. Inkstand, pens, paper, a lit candle. Falstaff sits at the table; Dr. Caius enters furiously accusing Bardolfo and Pistola.",
       cues: [
         {
           id: "a1_s1_c1",
@@ -5329,7 +5329,7 @@ export const falstaffAct1: Act = {
       title: "Parte II: Alice. Meg. Nannetta. (Nel giardino di Ford)",
       titleTranslation: "Part II: Alice. Meg. Nannetta. (In Ford's Garden)",
       originalDescription: "Giardino. A sinistra la casa di Ford. Gruppi d’alberi nel centro della scena. Alice, Meg, Mrs. Quickly e Nannetta scoprono le lettere d’amore identiche di Falstaff; Fenton e Nannetta si scambiano furtivi baci mentre gli uomini tramano la loro vendetta.",
-      description: "Garden outside Ford's house. Alice and Meg discover that Falstaff sent them word-for-word identical love letters and resolve to punish him. Meanwhile, Fenton and Nannetta snatch sweet kisses, and Ford plots to spy on the knight in disguise.",
+      description: "Garden. To the left, Ford's house. Clusters of trees in the center of the stage. Alice, Meg, Mrs. Quickly, and Nannetta discover Falstaff's identical love letters; Fenton and Nannetta exchange furtive kisses while the men plot their revenge.",
       cues: [
         {
           id: "a1_s2_c1",

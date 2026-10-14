@@ -1,0 +1,903 @@
+[
+  {
+    "speaker": "Spazzini",
+    "direction": "I Doganieri rimangono immobili; gli Spazzini picchiano colle loro scope e badili sulla cancellata urlando. battendo i piedi",
+    "lines": [
+      "Ohè, là, le guardie!... Aprite!... Ohè, là!",
+      "Quelli di Gentilly!... Siam gli spazzini!...",
+      "Fiocca la neve... Ohè, là!... Qui s'agghiaccia!"
+    ]
+  },
+  {
+    "speaker": "Doganiere",
+    "direction": "alzandosi assonnato e stirandosi le braccia; Va ad aprire, gli Spazzini entrano e si allontanano per la via d'Enfer. Il Doganiere richiude la cancellata.",
+    "lines": [
+      "Vengo!"
+    ]
+  },
+  {
+    "speaker": "Coro",
+    "direction": "dal cabaret, accompagnano il canto battendo i bicchieri",
+    "lines": [
+      "Chi nel ber trovò il piacer",
+      "nel suo bicchier,",
+      "ah! d'una bocca nell'ardor,",
+      "trovò l'amor!"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": "dal cabaret",
+    "lines": [
+      "Ah! Se nel bicchiere sta il piacer,",
+      "in giovin bocca sta l'amor!"
+    ]
+  },
+  {
+    "speaker": "Coro",
+    "direction": "dal cabaret; Dànno in una risata clamorosa",
+    "lines": [
+      "Trallerallè...",
+      "Eva e Noè!"
+    ]
+  },
+  {
+    "speaker": "Lattivendole",
+    "direction": "dall'interno; Dal Corpo di Guardia esce il Sergente dei Doganieri, il quale ordina d'aprire la barriera.",
+    "lines": [
+      "Hopplà! Hopplà!"
+    ]
+  },
+  {
+    "speaker": "Doganiere",
+    "direction": null,
+    "lines": [
+      "Son già le lattivendole!"
+    ]
+  },
+  {
+    "speaker": "Carrettieri",
+    "direction": "Tintinnio di campanelli e schioccare di fruste. Pel Boulevard esterno passano dei carri colle grandi lanterne di tela accese fra le ruote. interno",
+    "lines": [
+      "Hopplà !"
+    ]
+  },
+  {
+    "speaker": "Lattivendole",
+    "direction": "vicinissime; La nebbia dirada e comincia a far giorno. Entrando in scena a dorso di asinelli, ai doganieri, che controllano e lasciano passare:",
+    "lines": [
+      "Hopplà !",
+      "Buon giorno!"
+    ]
+  },
+  {
+    "speaker": "Contadine",
+    "direction": "entrando in scena con ceste a braccio ai doganieri; Pagano e i Doganieri le lasciano passare. giunte al crocicchio; Si allontanano per diverse strade. I Doganieri ritirano le panche e il braciere. Mimì, dalla via d'Enfer, entra guardando attentamente intorno cercando di riconoscere i luoghi, ma giunta al primo platano la coglie un violento accesso di tosse: riavutasi e veduto il Sergente, gli si avvicina.",
+    "lines": [
+      "- Burro e cacio!",
+      "- Polli ed uova!",
+      "- Voi da che parte andate?",
+      "- A San Michele!",
+      "- Ci troverem più tardi?",
+      "- A mezzodì!"
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": "al Sergente; non ricordando il nome",
+    "lines": [
+      "Sa dirmi, scusi, qual'è l'osteria...",
+      "dove un pittor lavora?"
+    ]
+  },
+  {
+    "speaker": "Sergente",
+    "direction": "indicando il Cabaret",
+    "lines": [
+      "Eccola."
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": "Esce una fantesca dal Cabaret; Mimì le si avvicina.; La fantesca rientra nel Cabaret.",
+    "lines": [
+      "Grazie .",
+      "O buona donna, mi fate il favore",
+      "di cercarmi il pittore",
+      "Marcello? Ho da parlargli. Ho tanta fretta.",
+      "Ditegli, piano, che Mimì lo aspetta."
+    ]
+  },
+  {
+    "speaker": "Sergente",
+    "direction": "ad uno che passa",
+    "lines": [
+      "Ehi, quel panier!"
+    ]
+  },
+  {
+    "speaker": "Doganiere",
+    "direction": "dopo aver visitato il paniere",
+    "lines": [
+      "Vuoto!"
+    ]
+  },
+  {
+    "speaker": "Sergente",
+    "direction": "Dalla barriera entra altra gente, e chi da una parte, chi dall'altra tutti si allontanano. Le campane dell'ospizio Maria Teresa suonano mattutino. È giorno fatto, giorno d'inverno, triste e caliginoso. Dal Cabaret escono alcune coppie che rincasano.",
+    "lines": [
+      "Passi!"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "Esce dal Cabaret e con sorpresa vede Mimì.",
+    "lines": [
+      "Mimì?!"
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Son io. Speravo di trovarti qui."
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "Mimì tossisce.",
+    "lines": [
+      "È ver. Siam qui da un mese",
+      "di quell'oste alle spese.",
+      "Musetta insegna il canto ai passeggeri;",
+      "Io pingo quel guerrier",
+      "sulla facciata.",
+      "È freddo. Entrate."
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "C'è",
+      "Rodolfo?"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Sì."
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Non posso entrar."
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "sorpreso",
+    "lines": [
+      "Perché?"
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": "Scoppia in pianto",
+    "lines": [
+      "O buon Marcello, aiuto!"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Cos'è avvenuto?"
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Rodolfo m'ama. Rodolfo m'ama",
+      "mi fugge e si strugge per gelosia.",
+      "Un passo, un detto,",
+      "un vezzo, un fior lo mettono in sospetto...",
+      "Onde corrucci ed ire.",
+      "Talor la notte fingo di dormire",
+      "e in me lo sento fiso",
+      "spiarmi i sogni in viso.",
+      "Mi grida ad ogni istante:",
+      "Non fai per me, prenditi un altro amante.",
+      "Ahimè! In lui parla il rovello;",
+      "lo so, ma che rispondergli, Marcello?"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Quando s'è come voi non si vive in compagnia.",
+      "Son lieve a Musetta ed ella è lieve",
+      "a me, perché ci amiamo in allegria...",
+      "Canti e risa, ecco il fior",
+      "d'invariabile amor!"
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Dite bene. Lasciarci conviene.",
+      "Aiutateci voi; noi s'è provato",
+      "più volte, ma invano.",
+      "Fate voi per il meglio."
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Sta ben! Ora lo sveglio."
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Dorme?"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "Fa cenno a Mimì di guardare per la finestra dentro il Cabaret.; Mimì tossisce con insistenza. compassionandola",
+    "lines": [
+      "E piombato qui",
+      "un'ora avanti l'alba; s'assopì",
+      "sopra una panca.",
+      "Guardate...",
+      "Che tosse!"
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Da ieri ho l'ossa rotte.",
+      "Fuggì da me stanotte",
+      "dicendomi: È finita.",
+      "A giorno sono uscita",
+      "e me ne venni a questa",
+      "volta ."
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "osservando Rodolfo nell'interno del Cabaret",
+    "lines": [
+      "Si desta...",
+      "s'alza, mi cerca... viene."
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Ch'ei non mi veda!"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "Spinge dolcemente Mimì verso l'angolo del Cabaret di dove però quasi subito sporge curiosa la testa. Marcello corre incontro a Rodolfo.",
+    "lines": [
+      "Or rincasate...",
+      "Mimì... per carità,",
+      "non fate scene qua!"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": "Esce dal Cabaret ed accorre verso Marcello.",
+    "lines": [
+      "Marcello. Finalmente!",
+      "Qui niun ci sente.",
+      "Io voglio separarmi da Mimì."
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Sei volubil così?"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Già un'altra volta credetti morto il mio cor,",
+      "ma di quegli occhi azzurri allo splendor",
+      "esso è risorto.",
+      "Ora il tedio l'assale."
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "Mimì non potendo udire le parole, colto il momento opportuno, inosservata, riesce a ripararsi dietro a un platano, presso al quale parlano i due amici.",
+    "lines": [
+      "E gli vuoi rinnovare il funerale?"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Per sempre!"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Cambia metro.",
+      "Dei pazzi è l'amor tetro",
+      "che lacrime distilla.",
+      "Se non ride e sfavilla",
+      "l'amore è fiacco e roco.",
+      "Tu sei geloso."
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Un poco."
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Collerico, lunatico, imbevuto",
+      "di pregiudizi, noioso, cocciuto!"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": "con amarezza ironica",
+    "lines": [
+      "Mimì è una civetta",
+      "che frascheggia con tutti. Un moscardino",
+      "di Viscontino",
+      "le fa l'occhio di triglia.",
+      "Ella sgonnella e scopre la caviglia",
+      "con un far promettente e lusinghier."
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Lo devo dir? Non mi sembri sincer."
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Ebbene no, non lo son. Invan nascondo",
+      "la mia vera tortura.",
+      "Amo Mimì sovra ogni cosa al mondo,",
+      "io l'amo, ma ho paura, ma ho paura !",
+      "Mimì è tanto malata!",
+      "Ogni dì più declina.",
+      "La povera piccina",
+      "è condannata!"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "sorpreso",
+    "lines": [
+      "Mimì?"
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": "fra sé",
+    "lines": [
+      "Che vuol dire?"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Una terribil tosse",
+      "l'esil petto le scuote",
+      "e già le smunte gote",
+      "di sangue ha rosse..."
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "Vorrebbe allontanare Rodolfo.",
+    "lines": [
+      "Povera Mimì!"
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": "piangendo",
+    "lines": [
+      "Ahimè, morire!"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "La mia stanza è una tana",
+      "squallida...",
+      "il fuoco ho spento.",
+      "V'entra e l'aggira il vento",
+      "di tramontana.",
+      "Essa canta e sorride",
+      "e il rimorso m'assale.",
+      "Me, cagion del fatale",
+      "mal che l'uccide!",
+      "Mimì di serra è fiore.",
+      "Povertà l'ha sfiorita;",
+      "per richiamarla in vita",
+      "non basta amore!"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Che far dunque?",
+      "Oh, qual pietà!",
+      "Poveretta !",
+      "Povera Mimì!"
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": "desolata; angosciata; La tosse e i singhiozzi violenti rivelano la presenza di Mimì.",
+    "lines": [
+      "O mia vita!",
+      "Ahimè! È finita",
+      "O mia vita! È finita",
+      "Ahimè, morir!"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": "vedendola e accorrendo a lei",
+    "lines": [
+      "Che? Mimì! Tu qui?",
+      "M'hai sentito?"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Ella dunque ascoltava?"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": "Vuol farla entrare nel Cabaret.",
+    "lines": [
+      "Facile alla paura",
+      "per nulla io m'arrovello.",
+      "Vien là nel tepor!"
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "No, quel tanfo mi soffoca!"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": "Stringe amorosamente Mimì fra le sue braccia e l'accarezza. Dal Cabaret si ode ridere sfacciatamente Musetta.",
+    "lines": [
+      "Ah, Mimì!"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "Corre alla finestra del Cabaret.; Entra impetuosamente nel Cabaret",
+    "lines": [
+      "È Musetta",
+      "che ride.",
+      "Con chi ride? Ah, la civetta!",
+      "Imparerai."
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": "svincolandosi da Rodolfo",
+    "lines": [
+      "Addio."
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": "sorpreso",
+    "lines": [
+      "Che! Vai?"
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": "affettuosamente",
+    "lines": [
+      "D'onde lieta uscì",
+      "al tuo grido d'amore,",
+      "torna sola Mimì",
+      "al solitario nido.",
+      "Ritorna un'altra volta",
+      "a intesser finti fior.",
+      "Addio, senza rancor.",
+      "- Ascolta, ascolta.",
+      "Le poche robe aduna che lasciai",
+      "sparse. Nel mio cassetto",
+      "stan chiusi quel cerchietto",
+      "d'or e il libro di preghiere.",
+      "Involgi tutto quanto in un grembiale",
+      "e manderò il portiere...",
+      "- Bada, sotto il guanciale",
+      "c'è la cuffietta rosa.",
+      "Se... vuoi... serbarla a ricordo d'amor!...",
+      "Addio, senza rancor."
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Dunque è proprio finita?",
+      "Te ne vai, te ne vai, la mia piccina?!",
+      "Addio, sogni d'amor!..."
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Addio, dolce svegliare alla mattina!"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Addio, sognante vita..."
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": "sorridendo",
+    "lines": [
+      "Addio, rabbuffi e gelosie!"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "... che un tuo sorriso acqueta!"
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Addio, sospetti!..."
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Baci..."
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Pungenti amarezze!"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Ch'io da vero poeta",
+      "rimavo con carezze!"
+    ]
+  },
+  {
+    "speaker": "Mimì e Rodolfo",
+    "direction": "nel Cabaret fracasso di piatti e bicchieri rotti",
+    "lines": [
+      "Soli d'inverno è cosa da morire!",
+      "Soli! Mentre a primavera",
+      "c'è compagno il sol!"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "di dentro",
+    "lines": [
+      "Che facevi, che dicevi",
+      "presso al fuoco a quel signore?"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": "di dentro; Esce correndo.",
+    "lines": [
+      "Che vuoi dir?"
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Niuno è solo l'april."
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "fermandosi sulla porta del Cabaret, rivolto a Musetta:",
+    "lines": [
+      "Al mio venire",
+      "hai mutato colore."
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": "con attitudine di provocazione",
+    "lines": [
+      "Quel signore mi diceva:",
+      "Ama il ballo, signorina?"
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Si parla coi gigli e le rose."
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Vana, frivola, civetta!"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": null,
+    "lines": [
+      "Arrossendo rispondeva:",
+      "Ballerei sera e mattina."
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Quel discorso asconde mire disoneste."
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Esce dai nidi un cinguettio gentile..."
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": null,
+    "lines": [
+      "Voglio piena libertà!"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "quasi avventandosi contro Musetta",
+    "lines": [
+      "Io t'acconcio per le feste",
+      "se ti colgo a incivettire!"
+    ]
+  },
+  {
+    "speaker": "Mimì e Rodolfo",
+    "direction": null,
+    "lines": [
+      "Al fiorir di primavera",
+      "c'è compagno il sol!",
+      "Chiacchieran le fontane",
+      "la brezza della sera."
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": null,
+    "lines": [
+      "Ché mi gridi? Ché mi canti?",
+      "All'altar non siamo uniti."
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Bada, sotto il mio cappello",
+      "non ci stan certi ornamenti..."
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": null,
+    "lines": [
+      "Io detesto quegli amanti",
+      "che la fanno da mariti..."
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Io non faccio da zimbello",
+      "ai novizi intraprendenti."
+    ]
+  },
+  {
+    "speaker": "Mimì e Rodolfo",
+    "direction": null,
+    "lines": [
+      "Balsami stende sulle doglie umane."
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": null,
+    "lines": [
+      "Fo all'amor con chi mi piace!"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Vana, frivola, civetta!"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": null,
+    "lines": [
+      "Non ti garba? Ebbene, pace.",
+      "ma Musetta se ne va."
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "ironico",
+    "lines": [
+      "Ve n'andate? Vi ringrazio:",
+      "or son ricco divenuto. Vi saluto."
+    ]
+  },
+  {
+    "speaker": "Mimì e Rodolfo",
+    "direction": null,
+    "lines": [
+      "Vuoi che spettiam",
+      "la primavera ancor?"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": "ironica",
+    "lines": [
+      "Musetta se ne va",
+      "sì, se ne va! Vi saluto.",
+      "Signor: addio!",
+      "vi dico con piacer."
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Son servo e me ne vo!"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": "S'allontana correndo furibonda, a un tratto si sofferma e gli grida:",
+    "lines": [
+      "Pittore da bottega!"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "dal mezzo della scena, gridando:",
+    "lines": [
+      "Vipera !"
+    ]
+  },
+  {
+    "speaker": "Musetta",
+    "direction": "Esce.",
+    "lines": [
+      "Rospo !"
+    ]
+  },
+  {
+    "speaker": "Marcello",
+    "direction": "Entra nel Cabaret.",
+    "lines": [
+      "Strega !"
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": "avviandosi con Rodolfo",
+    "lines": [
+      "Sempre tua per la vita..."
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Ci lasceremo..."
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Ci lasceremo alla stagion dei fior..."
+    ]
+  },
+  {
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "... alla stagion dei fior..."
+    ]
+  },
+  {
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Vorrei che eterno",
+      "durasse il verno!"
+    ]
+  },
+  {
+    "speaker": "Mimì e Rodolfo",
+    "direction": "dall'interno, allontanandosi",
+    "lines": [
+      "Ci lascerem alla stagion dei fior!"
+    ]
+  }
+]

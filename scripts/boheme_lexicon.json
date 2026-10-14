@@ -1,0 +1,7810 @@
+{
+  "rodolfo": {
+    "lemma": "Rodolfo",
+    "pos": "noun",
+    "meaning": "Rodolfo (poet, tenor protagonist)"
+  },
+  "mimì": {
+    "lemma": "Mimì",
+    "pos": "noun",
+    "meaning": "Mimì (seamstress, soprano protagonist)"
+  },
+  "mimi": {
+    "lemma": "Mimì",
+    "pos": "noun",
+    "meaning": "Mimì (seamstress, soprano protagonist)"
+  },
+  "marcello": {
+    "lemma": "Marcello",
+    "pos": "noun",
+    "meaning": "Marcello (painter, baritone)"
+  },
+  "musetta": {
+    "lemma": "Musetta",
+    "pos": "noun",
+    "meaning": "Musetta (singer, soprano)"
+  },
+  "colline": {
+    "lemma": "Colline",
+    "pos": "noun",
+    "meaning": "Colline (philosopher, bass)"
+  },
+  "schaunard": {
+    "lemma": "Schaunard",
+    "pos": "noun",
+    "meaning": "Schaunard (musician, baritone)"
+  },
+  "benoît": {
+    "lemma": "Benoît",
+    "pos": "noun",
+    "meaning": "Benoît (the landlord, bass)"
+  },
+  "benoit": {
+    "lemma": "Benoît",
+    "pos": "noun",
+    "meaning": "Benoît (the landlord, bass)"
+  },
+  "alcindoro": {
+    "lemma": "Alcindoro",
+    "pos": "noun",
+    "meaning": "Alcindoro (state councillor, Musetta's patron)"
+  },
+  "parpignol": {
+    "lemma": "Parpignol",
+    "pos": "noun",
+    "meaning": "Parpignol (toy vendor, tenor)"
+  },
+  "momus": {
+    "lemma": "Momus",
+    "pos": "noun",
+    "meaning": "Café Momus (famous Latin Quarter café)"
+  },
+  "bordeaux": {
+    "lemma": "Bordeaux",
+    "pos": "noun",
+    "meaning": "Bordeaux wine"
+  },
+  "bordò": {
+    "lemma": "Bordeaux",
+    "pos": "noun",
+    "meaning": "Bordeaux wine"
+  },
+  "parigi": {
+    "lemma": "Parigi",
+    "pos": "noun",
+    "meaning": "Paris"
+  },
+  "roma": {
+    "lemma": "Roma",
+    "pos": "noun",
+    "meaning": "Rome"
+  },
+  "faraon": {
+    "lemma": "Faraone",
+    "pos": "noun",
+    "meaning": "Pharaoh"
+  },
+  "loiola": {
+    "lemma": "Loiola",
+    "pos": "noun",
+    "meaning": "Loyola / Jesuit (used figuratively for sly person)"
+  },
+  "lucia": {
+    "lemma": "Lucia",
+    "pos": "noun",
+    "meaning": "Lucia (Mimì's baptismal name)"
+  },
+  "gentilly": {
+    "lemma": "Gentilly",
+    "pos": "noun",
+    "meaning": "Gentilly (suburb south of Paris)"
+  },
+  "orléans": {
+    "lemma": "Orléans",
+    "pos": "noun",
+    "meaning": "Orléans (city / road south of Paris)"
+  },
+  "somalia": {
+    "lemma": "Somalia",
+    "pos": "noun",
+    "meaning": "Somalia"
+  },
+  "soffitta": {
+    "lemma": "soffitta",
+    "pos": "noun",
+    "meaning": "attic / garret"
+  },
+  "camino": {
+    "lemma": "camino",
+    "pos": "noun",
+    "meaning": "fireplace / stove / chimney"
+  },
+  "caminetto": {
+    "lemma": "caminetto",
+    "pos": "noun",
+    "meaning": "little stove / fireplace"
+  },
+  "comignoli": {
+    "lemma": "comignolo",
+    "pos": "noun",
+    "meaning": "chimney pots / flues"
+  },
+  "comignolo": {
+    "lemma": "comignolo",
+    "pos": "noun",
+    "meaning": "chimney pot"
+  },
+  "legna": {
+    "lemma": "legna",
+    "pos": "noun",
+    "meaning": "firewood / fuel"
+  },
+  "sigari": {
+    "lemma": "sigaro",
+    "pos": "noun",
+    "meaning": "cigars"
+  },
+  "sigaro": {
+    "lemma": "sigaro",
+    "pos": "noun",
+    "meaning": "cigar"
+  },
+  "fumo": {
+    "lemma": "fumo",
+    "pos": "noun",
+    "meaning": "smoke"
+  },
+  "tela": {
+    "lemma": "tela",
+    "pos": "noun",
+    "meaning": "canvas / painting cloth"
+  },
+  "quadro": {
+    "lemma": "quadro",
+    "pos": "noun",
+    "meaning": "painting / act (tableau)"
+  },
+  "cavalletto": {
+    "lemma": "cavalletto",
+    "pos": "noun",
+    "meaning": "easel"
+  },
+  "pennello": {
+    "lemma": "pennello",
+    "pos": "noun",
+    "meaning": "paintbrush"
+  },
+  "pennel": {
+    "lemma": "pennello",
+    "pos": "noun",
+    "meaning": "paintbrush (apocope)"
+  },
+  "penna": {
+    "lemma": "penna",
+    "pos": "noun",
+    "meaning": "pen / quill"
+  },
+  "calamaio": {
+    "lemma": "calamaio",
+    "pos": "noun",
+    "meaning": "inkwell"
+  },
+  "candela": {
+    "lemma": "candela",
+    "pos": "noun",
+    "meaning": "candle"
+  },
+  "candeliere": {
+    "lemma": "candeliere",
+    "pos": "noun",
+    "meaning": "candlestick"
+  },
+  "candelieri": {
+    "lemma": "candeliere",
+    "pos": "noun",
+    "meaning": "candlesticks"
+  },
+  "lume": {
+    "lemma": "lume",
+    "pos": "noun",
+    "meaning": "light / candle flame"
+  },
+  "fiammifero": {
+    "lemma": "fiammifero",
+    "pos": "noun",
+    "meaning": "match"
+  },
+  "chiave": {
+    "lemma": "chiave",
+    "pos": "noun",
+    "meaning": "key"
+  },
+  "uscio": {
+    "lemma": "uscio",
+    "pos": "noun",
+    "meaning": "door / doorway"
+  },
+  "porta": {
+    "lemma": "porta",
+    "pos": "noun",
+    "meaning": "door / gate"
+  },
+  "finestra": {
+    "lemma": "finestra",
+    "pos": "noun",
+    "meaning": "window"
+  },
+  "tetti": {
+    "lemma": "tetto",
+    "pos": "noun",
+    "meaning": "roofs / rooftops"
+  },
+  "tetto": {
+    "lemma": "tetto",
+    "pos": "noun",
+    "meaning": "roof"
+  },
+  "neve": {
+    "lemma": "neve",
+    "pos": "noun",
+    "meaning": "snow"
+  },
+  "gelo": {
+    "lemma": "gelo",
+    "pos": "noun",
+    "meaning": "frost / bitter cold"
+  },
+  "freddo": {
+    "lemma": "freddo",
+    "pos": "noun",
+    "meaning": "cold"
+  },
+  "inverno": {
+    "lemma": "inverno",
+    "pos": "noun",
+    "meaning": "winter"
+  },
+  "primavera": {
+    "lemma": "primavera",
+    "pos": "noun",
+    "meaning": "spring / springtime"
+  },
+  "cuffietta": {
+    "lemma": "cuffietta",
+    "pos": "noun",
+    "meaning": "little bonnet"
+  },
+  "manicotto": {
+    "lemma": "manicotto",
+    "pos": "noun",
+    "meaning": "muff (fur handwarmer)"
+  },
+  "zimarra": {
+    "lemma": "zimarra",
+    "pos": "noun",
+    "meaning": "old overcoat / philosopher's robe"
+  },
+  "pastrano": {
+    "lemma": "pastrano",
+    "pos": "noun",
+    "meaning": "heavy winter overcoat"
+  },
+  "mantello": {
+    "lemma": "mantello",
+    "pos": "noun",
+    "meaning": "cloak / coat"
+  },
+  "tasche": {
+    "lemma": "tasca",
+    "pos": "noun",
+    "meaning": "pockets"
+  },
+  "tasca": {
+    "lemma": "tasca",
+    "pos": "noun",
+    "meaning": "pocket"
+  },
+  "dramma": {
+    "lemma": "dramma",
+    "pos": "noun",
+    "meaning": "play / drama"
+  },
+  "poesia": {
+    "lemma": "poesia",
+    "pos": "noun",
+    "meaning": "poetry"
+  },
+  "poeta": {
+    "lemma": "poeta",
+    "pos": "noun",
+    "meaning": "poet"
+  },
+  "scudi": {
+    "lemma": "scudo",
+    "pos": "noun",
+    "meaning": "crowns / gold coins"
+  },
+  "scudo": {
+    "lemma": "scudo",
+    "pos": "noun",
+    "meaning": "crown / coin / shield"
+  },
+  "soldo": {
+    "lemma": "soldo",
+    "pos": "noun",
+    "meaning": "penny / cent / coin"
+  },
+  "soldi": {
+    "lemma": "soldo",
+    "pos": "noun",
+    "meaning": "money / coins"
+  },
+  "pigione": {
+    "lemma": "pigione",
+    "pos": "noun",
+    "meaning": "rent"
+  },
+  "affitto": {
+    "lemma": "affitto",
+    "pos": "noun",
+    "meaning": "rent / lease"
+  },
+  "aringhe": {
+    "lemma": "aringa",
+    "pos": "noun",
+    "meaning": "herrings"
+  },
+  "aringa": {
+    "lemma": "aringa",
+    "pos": "noun",
+    "meaning": "herring"
+  },
+  "aranci": {
+    "lemma": "arancio",
+    "pos": "noun",
+    "meaning": "oranges"
+  },
+  "datteri": {
+    "lemma": "dattero",
+    "pos": "noun",
+    "meaning": "dates (fruit)"
+  },
+  "marroni": {
+    "lemma": "marrone",
+    "pos": "noun",
+    "meaning": "chestnuts / roasted chestnuts"
+  },
+  "ninnoli": {
+    "lemma": "ninnolo",
+    "pos": "noun",
+    "meaning": "trinkets / knick-knacks"
+  },
+  "crocette": {
+    "lemma": "crocetta",
+    "pos": "noun",
+    "meaning": "little crosses / pendant crosses"
+  },
+  "torroni": {
+    "lemma": "torrone",
+    "pos": "noun",
+    "meaning": "nougats / honey almond candy"
+  },
+  "caramelle": {
+    "lemma": "caramella",
+    "pos": "noun",
+    "meaning": "candies / sweets"
+  },
+  "latte": {
+    "lemma": "latte",
+    "pos": "noun",
+    "meaning": "milk"
+  },
+  "panna": {
+    "lemma": "panna",
+    "pos": "noun",
+    "meaning": "cream / whipping cream"
+  },
+  "giocattoli": {
+    "lemma": "giocattolo",
+    "pos": "noun",
+    "meaning": "toys"
+  },
+  "tromba": {
+    "lemma": "tromba",
+    "pos": "noun",
+    "meaning": "trumpet / horn"
+  },
+  "tamburo": {
+    "lemma": "tamburo",
+    "pos": "noun",
+    "meaning": "drum"
+  },
+  "tambur": {
+    "lemma": "tamburo",
+    "pos": "noun",
+    "meaning": "drum (apocope)"
+  },
+  "ritirata": {
+    "lemma": "ritirata",
+    "pos": "noun",
+    "meaning": "military tattoo / retreat patrol"
+  },
+  "conto": {
+    "lemma": "conto",
+    "pos": "noun",
+    "meaning": "bill / reckoning / account"
+  },
+  "scarpa": {
+    "lemma": "scarpa",
+    "pos": "noun",
+    "meaning": "shoe"
+  },
+  "stivaletto": {
+    "lemma": "stivaletto",
+    "pos": "noun",
+    "meaning": "little boot"
+  },
+  "calzolaio": {
+    "lemma": "calzolaio",
+    "pos": "noun",
+    "meaning": "shoemaker / cobbler"
+  },
+  "barriera": {
+    "lemma": "barriera",
+    "pos": "noun",
+    "meaning": "tollgate / barrier"
+  },
+  "dogana": {
+    "lemma": "dogana",
+    "pos": "noun",
+    "meaning": "customhouse"
+  },
+  "doganieri": {
+    "lemma": "doganiere",
+    "pos": "noun",
+    "meaning": "customhouse officers"
+  },
+  "doganiere": {
+    "lemma": "doganiere",
+    "pos": "noun",
+    "meaning": "customhouse guard"
+  },
+  "sergente": {
+    "lemma": "sergente",
+    "pos": "noun",
+    "meaning": "sergeant"
+  },
+  "spazzini": {
+    "lemma": "spazzino",
+    "pos": "noun",
+    "meaning": "street sweepers"
+  },
+  "spazzino": {
+    "lemma": "spazzino",
+    "pos": "noun",
+    "meaning": "street sweeper"
+  },
+  "lattivendole": {
+    "lemma": "lattivendola",
+    "pos": "noun",
+    "meaning": "milkmaids / milk vendors"
+  },
+  "contadine": {
+    "lemma": "contadina",
+    "pos": "noun",
+    "meaning": "peasant women"
+  },
+  "carrettieri": {
+    "lemma": "carrettiere",
+    "pos": "noun",
+    "meaning": "cart drivers / carters"
+  },
+  "panier": {
+    "lemma": "paniere",
+    "pos": "noun",
+    "meaning": "basket (apocope)"
+  },
+  "paniere": {
+    "lemma": "paniere",
+    "pos": "noun",
+    "meaning": "wicker basket"
+  },
+  "tosse": {
+    "lemma": "tosse",
+    "pos": "noun",
+    "meaning": "cough"
+  },
+  "tisi": {
+    "lemma": "tisi",
+    "pos": "noun",
+    "meaning": "consumption / tuberculosis"
+  },
+  "alba": {
+    "lemma": "alba",
+    "pos": "noun",
+    "meaning": "dawn / daybreak"
+  },
+  "mattina": {
+    "lemma": "mattina",
+    "pos": "noun",
+    "meaning": "morning"
+  },
+  "sera": {
+    "lemma": "sera",
+    "pos": "noun",
+    "meaning": "evening"
+  },
+  "notte": {
+    "lemma": "notte",
+    "pos": "noun",
+    "meaning": "night"
+  },
+  "luna": {
+    "lemma": "luna",
+    "pos": "noun",
+    "meaning": "moon"
+  },
+  "raggio": {
+    "lemma": "raggio",
+    "pos": "noun",
+    "meaning": "ray / beam of light"
+  },
+  "raggi": {
+    "lemma": "raggio",
+    "pos": "noun",
+    "meaning": "rays / beams of light"
+  },
+  "cuore": {
+    "lemma": "cuore",
+    "pos": "noun",
+    "meaning": "heart"
+  },
+  "cuor": {
+    "lemma": "cuore",
+    "pos": "noun",
+    "meaning": "heart (apocope)"
+  },
+  "mano": {
+    "lemma": "mano",
+    "pos": "noun",
+    "meaning": "hand"
+  },
+  "manina": {
+    "lemma": "manina",
+    "pos": "noun",
+    "meaning": "little hand / dainty hand"
+  },
+  "mani": {
+    "lemma": "mano",
+    "pos": "noun",
+    "meaning": "hands"
+  },
+  "occhi": {
+    "lemma": "occhio",
+    "pos": "noun",
+    "meaning": "eyes"
+  },
+  "occhio": {
+    "lemma": "occhio",
+    "pos": "noun",
+    "meaning": "eye"
+  },
+  "viso": {
+    "lemma": "viso",
+    "pos": "noun",
+    "meaning": "face / countenance"
+  },
+  "volto": {
+    "lemma": "volto",
+    "pos": "noun",
+    "meaning": "face / visage"
+  },
+  "bocca": {
+    "lemma": "bocca",
+    "pos": "noun",
+    "meaning": "mouth / lips"
+  },
+  "labbra": {
+    "lemma": "labbro",
+    "pos": "noun",
+    "meaning": "lips"
+  },
+  "bacio": {
+    "lemma": "bacio",
+    "pos": "noun",
+    "meaning": "kiss"
+  },
+  "carezza": {
+    "lemma": "carezza",
+    "pos": "noun",
+    "meaning": "caress"
+  },
+  "carezze": {
+    "lemma": "carezza",
+    "pos": "noun",
+    "meaning": "caresses"
+  },
+  "amore": {
+    "lemma": "amore",
+    "pos": "noun",
+    "meaning": "love"
+  },
+  "amor": {
+    "lemma": "amore",
+    "pos": "noun",
+    "meaning": "love (apocope)"
+  },
+  "amante": {
+    "lemma": "amante",
+    "pos": "noun",
+    "meaning": "lover"
+  },
+  "sogno": {
+    "lemma": "sogno",
+    "pos": "noun",
+    "meaning": "dream"
+  },
+  "sogni": {
+    "lemma": "sogno",
+    "pos": "noun",
+    "meaning": "dreams"
+  },
+  "lacrima": {
+    "lemma": "lacrima",
+    "pos": "noun",
+    "meaning": "tear"
+  },
+  "lacrime": {
+    "lemma": "lacrima",
+    "pos": "noun",
+    "meaning": "tears"
+  },
+  "singulti": {
+    "lemma": "singulto",
+    "pos": "noun",
+    "meaning": "sobs / gasps"
+  },
+  "grido": {
+    "lemma": "grido",
+    "pos": "noun",
+    "meaning": "cry / shout"
+  },
+  "favola": {
+    "lemma": "favola",
+    "pos": "noun",
+    "meaning": "fable / tale / fairy tale"
+  },
+  "storia": {
+    "lemma": "storia",
+    "pos": "noun",
+    "meaning": "story / history"
+  },
+  "fiori": {
+    "lemma": "fiore",
+    "pos": "noun",
+    "meaning": "flowers"
+  },
+  "fiore": {
+    "lemma": "fiore",
+    "pos": "noun",
+    "meaning": "flower"
+  },
+  "rose": {
+    "lemma": "rosa",
+    "pos": "noun",
+    "meaning": "roses"
+  },
+  "rosa": {
+    "lemma": "rosa",
+    "pos": "noun",
+    "meaning": "rose"
+  },
+  "gigli": {
+    "lemma": "giglio",
+    "pos": "noun",
+    "meaning": "lilies"
+  },
+  "giglio": {
+    "lemma": "giglio",
+    "pos": "noun",
+    "meaning": "lily"
+  },
+  "seta": {
+    "lemma": "seta",
+    "pos": "noun",
+    "meaning": "silk"
+  },
+  "ricamo": {
+    "lemma": "ricamo",
+    "pos": "noun",
+    "meaning": "embroidery"
+  },
+  "ricamatrice": {
+    "lemma": "ricamatrice",
+    "pos": "noun",
+    "meaning": "embroiderer / seamstress"
+  },
+  "sartine": {
+    "lemma": "sartina",
+    "pos": "noun",
+    "meaning": "seamstresses / milliners"
+  },
+  "sartina": {
+    "lemma": "sartina",
+    "pos": "noun",
+    "meaning": "seamstress / milliner"
+  },
+  "studenti": {
+    "lemma": "studente",
+    "pos": "noun",
+    "meaning": "students"
+  },
+  "studente": {
+    "lemma": "studente",
+    "pos": "noun",
+    "meaning": "student"
+  },
+  "borghesi": {
+    "lemma": "borghese",
+    "pos": "noun",
+    "meaning": "bourgeois citizens"
+  },
+  "bottegaie": {
+    "lemma": "bottegaia",
+    "pos": "noun",
+    "meaning": "shopkeepers / shopwomen"
+  },
+  "venditori": {
+    "lemma": "venditore",
+    "pos": "noun",
+    "meaning": "vendors / street hawkers"
+  },
+  "ragazzi": {
+    "lemma": "ragazzo",
+    "pos": "noun",
+    "meaning": "boys / young people / children"
+  },
+  "monelli": {
+    "lemma": "monello",
+    "pos": "noun",
+    "meaning": "urchins / street boys"
+  },
+  "bambine": {
+    "lemma": "bambina",
+    "pos": "noun",
+    "meaning": "little girls / children"
+  },
+  "mamme": {
+    "lemma": "mamma",
+    "pos": "noun",
+    "meaning": "mothers"
+  },
+  "folla": {
+    "lemma": "folla",
+    "pos": "noun",
+    "meaning": "crowd / throng"
+  },
+  "cameriere": {
+    "lemma": "cameriere",
+    "pos": "noun",
+    "meaning": "waiter"
+  },
+  "oste": {
+    "lemma": "oste",
+    "pos": "noun",
+    "meaning": "innkeeper / tavern host"
+  },
+  "bettola": {
+    "lemma": "bettola",
+    "pos": "noun",
+    "meaning": "tavern / tavern dive"
+  },
+  "cabaret": {
+    "lemma": "cabaret",
+    "pos": "noun",
+    "meaning": "tavern / tavern inn"
+  },
+  "tavola": {
+    "lemma": "tavola",
+    "pos": "noun",
+    "meaning": "table"
+  },
+  "tavolo": {
+    "lemma": "tavolo",
+    "pos": "noun",
+    "meaning": "table / desk"
+  },
+  "sedia": {
+    "lemma": "sedia",
+    "pos": "noun",
+    "meaning": "chair"
+  },
+  "sedie": {
+    "lemma": "sedia",
+    "pos": "noun",
+    "meaning": "chairs"
+  },
+  "letto": {
+    "lemma": "letto",
+    "pos": "noun",
+    "meaning": "bed"
+  },
+  "guanciale": {
+    "lemma": "guanciale",
+    "pos": "noun",
+    "meaning": "pillow"
+  },
+  "piatto": {
+    "lemma": "piatto",
+    "pos": "noun",
+    "meaning": "dish / plate"
+  },
+  "piatti": {
+    "lemma": "piatto",
+    "pos": "noun",
+    "meaning": "dishes / plates"
+  },
+  "pane": {
+    "lemma": "pane",
+    "pos": "noun",
+    "meaning": "bread"
+  },
+  "vino": {
+    "lemma": "vino",
+    "pos": "noun",
+    "meaning": "wine"
+  },
+  "fiasco": {
+    "lemma": "fiasco",
+    "pos": "noun",
+    "meaning": "wine flask"
+  },
+  "fiaschi": {
+    "lemma": "fiasco",
+    "pos": "noun",
+    "meaning": "wine flasks"
+  },
+  "bicchiere": {
+    "lemma": "bicchiere",
+    "pos": "noun",
+    "meaning": "glass / goblet"
+  },
+  "bicchieri": {
+    "lemma": "bicchiere",
+    "pos": "noun",
+    "meaning": "glasses / goblets"
+  },
+  "ammollisce": {
+    "lemma": "ammollire",
+    "pos": "verb",
+    "meaning": "makes damp / softens"
+  },
+  "assidera": {
+    "lemma": "assiderare",
+    "pos": "verb",
+    "meaning": "chills / freezes"
+  },
+  "affogo": {
+    "lemma": "affogare",
+    "pos": "verb",
+    "meaning": "I drown"
+  },
+  "fumar": {
+    "lemma": "fumare",
+    "pos": "verb",
+    "meaning": "to smoke (apocope)"
+  },
+  "guardo": {
+    "lemma": "guardare",
+    "pos": "verb",
+    "meaning": "I look / watch"
+  },
+  "guarda": {
+    "lemma": "guardare",
+    "pos": "verb",
+    "meaning": "look! / he looks"
+  },
+  "guardate": {
+    "lemma": "guardare",
+    "pos": "verb",
+    "meaning": "look! (plural)"
+  },
+  "gela": {
+    "lemma": "gelare",
+    "pos": "verb",
+    "meaning": "freezes / it freezes"
+  },
+  "geli": {
+    "lemma": "gelare",
+    "pos": "verb",
+    "meaning": "you freeze"
+  },
+  "brucia": {
+    "lemma": "bruciare",
+    "pos": "verb",
+    "meaning": "burns / consumes"
+  },
+  "bruciamo": {
+    "lemma": "bruciare",
+    "pos": "verb",
+    "meaning": "let us burn"
+  },
+  "accendi": {
+    "lemma": "accendere",
+    "pos": "verb",
+    "meaning": "light! / ignite!"
+  },
+  "accenda": {
+    "lemma": "accendere",
+    "pos": "verb",
+    "meaning": "light! (subjunctive)"
+  },
+  "acceso": {
+    "lemma": "accendere",
+    "pos": "verb",
+    "meaning": "lit / ignited"
+  },
+  "spento": {
+    "lemma": "spegnere",
+    "pos": "verb",
+    "meaning": "extinguished / blown out"
+  },
+  "spegne": {
+    "lemma": "spegnere",
+    "pos": "verb",
+    "meaning": "extinguishes / goes out"
+  },
+  "straccia": {
+    "lemma": "stracciare",
+    "pos": "verb",
+    "meaning": "tear up! / rip!"
+  },
+  "scaldar": {
+    "lemma": "scaldare",
+    "pos": "verb",
+    "meaning": "to warm (apocope)"
+  },
+  "scaldare": {
+    "lemma": "scaldare",
+    "pos": "verb",
+    "meaning": "to warm"
+  },
+  "riscaldar": {
+    "lemma": "riscaldare",
+    "pos": "verb",
+    "meaning": "to warm up / reheat (apocope)"
+  },
+  "lasci": {
+    "lemma": "lasciare",
+    "pos": "verb",
+    "meaning": "you let / leave"
+  },
+  "lascia": {
+    "lemma": "lasciare",
+    "pos": "verb",
+    "meaning": "leaves / lets"
+  },
+  "lasciate": {
+    "lemma": "lasciare",
+    "pos": "verb",
+    "meaning": "leave! / let!"
+  },
+  "chiamano": {
+    "lemma": "chiamare",
+    "pos": "verb",
+    "meaning": "they call"
+  },
+  "chiamo": {
+    "lemma": "chiamare",
+    "pos": "verb",
+    "meaning": "I call"
+  },
+  "chiama": {
+    "lemma": "chiamare",
+    "pos": "verb",
+    "meaning": "calls"
+  },
+  "vivo": {
+    "lemma": "vivere",
+    "pos": "verb",
+    "meaning": "I live"
+  },
+  "vivi": {
+    "lemma": "vivere",
+    "pos": "verb",
+    "meaning": "you live"
+  },
+  "vive": {
+    "lemma": "vivere",
+    "pos": "verb",
+    "meaning": "lives"
+  },
+  "morire": {
+    "lemma": "morire",
+    "pos": "verb",
+    "meaning": "to die"
+  },
+  "muore": {
+    "lemma": "morire",
+    "pos": "verb",
+    "meaning": "dies"
+  },
+  "morto": {
+    "lemma": "morire",
+    "pos": "adjective",
+    "meaning": "dead"
+  },
+  "morta": {
+    "lemma": "morire",
+    "pos": "adjective",
+    "meaning": "dead (feminine)"
+  },
+  "scrivo": {
+    "lemma": "scrivere",
+    "pos": "verb",
+    "meaning": "I write"
+  },
+  "scrive": {
+    "lemma": "scrivere",
+    "pos": "verb",
+    "meaning": "writes"
+  },
+  "dipingo": {
+    "lemma": "dipingere",
+    "pos": "verb",
+    "meaning": "I paint"
+  },
+  "dipinge": {
+    "lemma": "dipingere",
+    "pos": "verb",
+    "meaning": "paints"
+  },
+  "canta": {
+    "lemma": "cantare",
+    "pos": "verb",
+    "meaning": "sings"
+  },
+  "canto": {
+    "lemma": "cantare",
+    "pos": "verb",
+    "meaning": "I sing / song"
+  },
+  "dorme": {
+    "lemma": "dormire",
+    "pos": "verb",
+    "meaning": "sleeps"
+  },
+  "dormire": {
+    "lemma": "dormire",
+    "pos": "verb",
+    "meaning": "to sleep"
+  },
+  "dormi": {
+    "lemma": "dormire",
+    "pos": "verb",
+    "meaning": "sleep! / you sleep"
+  },
+  "fingevo": {
+    "lemma": "fingere",
+    "pos": "verb",
+    "meaning": "I was pretending"
+  },
+  "finge": {
+    "lemma": "fingere",
+    "pos": "verb",
+    "meaning": "pretends"
+  },
+  "piange": {
+    "lemma": "piangere",
+    "pos": "verb",
+    "meaning": "weeps / cries"
+  },
+  "piangendo": {
+    "lemma": "piangere",
+    "pos": "verb",
+    "meaning": "weeping / crying"
+  },
+  "ride": {
+    "lemma": "ridere",
+    "pos": "verb",
+    "meaning": "laughs"
+  },
+  "ridi": {
+    "lemma": "ridere",
+    "pos": "verb",
+    "meaning": "you laugh / laugh!"
+  },
+  "bacia": {
+    "lemma": "baciare",
+    "pos": "verb",
+    "meaning": "kisses"
+  },
+  "baciare": {
+    "lemma": "baciare",
+    "pos": "verb",
+    "meaning": "to kiss"
+  },
+  "baci": {
+    "lemma": "baciare",
+    "pos": "verb",
+    "meaning": "kisses / you kiss"
+  },
+  "ama": {
+    "lemma": "amare",
+    "pos": "verb",
+    "meaning": "loves"
+  },
+  "amo": {
+    "lemma": "amare",
+    "pos": "verb",
+    "meaning": "I love"
+  },
+  "amate": {
+    "lemma": "amare",
+    "pos": "verb",
+    "meaning": "you love (plural)"
+  },
+  "ascolta": {
+    "lemma": "ascoltare",
+    "pos": "verb",
+    "meaning": "listen! / hears"
+  },
+  "senti": {
+    "lemma": "sentire",
+    "pos": "verb",
+    "meaning": "listen! / feel! / you hear"
+  },
+  "sento": {
+    "lemma": "sentire",
+    "pos": "verb",
+    "meaning": "I feel / hear"
+  },
+  "sente": {
+    "lemma": "sentire",
+    "pos": "verb",
+    "meaning": "feels / hears"
+  },
+  "tocca": {
+    "lemma": "toccare",
+    "pos": "verb",
+    "meaning": "touches"
+  },
+  "tocco": {
+    "lemma": "toccare",
+    "pos": "verb",
+    "meaning": "I touch"
+  },
+  "trovasti": {
+    "lemma": "trovare",
+    "pos": "verb",
+    "meaning": "did you find it?"
+  },
+  "trovato": {
+    "lemma": "trovare",
+    "pos": "verb",
+    "meaning": "found"
+  },
+  "trova": {
+    "lemma": "trovare",
+    "pos": "verb",
+    "meaning": "finds"
+  },
+  "perdere": {
+    "lemma": "perdere",
+    "pos": "verb",
+    "meaning": "to lose"
+  },
+  "perso": {
+    "lemma": "perdere",
+    "pos": "verb",
+    "meaning": "lost"
+  },
+  "smarrita": {
+    "lemma": "smarrire",
+    "pos": "adjective",
+    "meaning": "lost / misplaced"
+  },
+  "smarrito": {
+    "lemma": "smarrire",
+    "pos": "adjective",
+    "meaning": "lost / misplaced"
+  },
+  "uscì": {
+    "lemma": "uscire",
+    "pos": "verb",
+    "meaning": "departed / went out"
+  },
+  "esce": {
+    "lemma": "uscire",
+    "pos": "verb",
+    "meaning": "goes out / exits"
+  },
+  "uscire": {
+    "lemma": "uscire",
+    "pos": "verb",
+    "meaning": "to go out / exit"
+  },
+  "entra": {
+    "lemma": "entrare",
+    "pos": "verb",
+    "meaning": "enters"
+  },
+  "entrate": {
+    "lemma": "entrare",
+    "pos": "verb",
+    "meaning": "enter! (plural)"
+  },
+  "aprite": {
+    "lemma": "aprire",
+    "pos": "verb",
+    "meaning": "open! (plural)"
+  },
+  "apre": {
+    "lemma": "aprire",
+    "pos": "verb",
+    "meaning": "opens"
+  },
+  "aperto": {
+    "lemma": "aprire",
+    "pos": "adjective",
+    "meaning": "open"
+  },
+  "chiuso": {
+    "lemma": "chiudere",
+    "pos": "adjective",
+    "meaning": "closed"
+  },
+  "chiude": {
+    "lemma": "chiudere",
+    "pos": "verb",
+    "meaning": "closes"
+  },
+  "vengo": {
+    "lemma": "venire",
+    "pos": "verb",
+    "meaning": "I come / coming!"
+  },
+  "viene": {
+    "lemma": "venire",
+    "pos": "verb",
+    "meaning": "comes"
+  },
+  "vieni": {
+    "lemma": "venire",
+    "pos": "verb",
+    "meaning": "come!"
+  },
+  "venite": {
+    "lemma": "venire",
+    "pos": "verb",
+    "meaning": "come! (plural)"
+  },
+  "andiamo": {
+    "lemma": "andare",
+    "pos": "verb",
+    "meaning": "let us go"
+  },
+  "andati": {
+    "lemma": "andare",
+    "pos": "verb",
+    "meaning": "gone (plural)"
+  },
+  "va": {
+    "lemma": "andare",
+    "pos": "verb",
+    "meaning": "goes / go!"
+  },
+  "vo": {
+    "lemma": "andare",
+    "pos": "verb",
+    "meaning": "I go"
+  },
+  "vo'": {
+    "lemma": "volere",
+    "pos": "verb",
+    "meaning": "I want (apocope)"
+  },
+  "vuole": {
+    "lemma": "volere",
+    "pos": "verb",
+    "meaning": "wants / needs"
+  },
+  "voglio": {
+    "lemma": "volere",
+    "pos": "verb",
+    "meaning": "I want"
+  },
+  "vorrei": {
+    "lemma": "volere",
+    "pos": "verb",
+    "meaning": "I would like"
+  },
+  "posso": {
+    "lemma": "potere",
+    "pos": "verb",
+    "meaning": "I can"
+  },
+  "può": {
+    "lemma": "potere",
+    "pos": "verb",
+    "meaning": "can / may one?"
+  },
+  "possiamo": {
+    "lemma": "potere",
+    "pos": "verb",
+    "meaning": "we can"
+  },
+  "so": {
+    "lemma": "sapere",
+    "pos": "verb",
+    "meaning": "I know"
+  },
+  "sai": {
+    "lemma": "sapere",
+    "pos": "verb",
+    "meaning": "you know"
+  },
+  "sa": {
+    "lemma": "sapere",
+    "pos": "verb",
+    "meaning": "knows"
+  },
+  "sapete": {
+    "lemma": "sapere",
+    "pos": "verb",
+    "meaning": "you know (plural)"
+  },
+  "credo": {
+    "lemma": "credere",
+    "pos": "verb",
+    "meaning": "I believe"
+  },
+  "crede": {
+    "lemma": "credere",
+    "pos": "verb",
+    "meaning": "believes"
+  },
+  "dico": {
+    "lemma": "dire",
+    "pos": "verb",
+    "meaning": "I say"
+  },
+  "dice": {
+    "lemma": "dire",
+    "pos": "verb",
+    "meaning": "says"
+  },
+  "dici": {
+    "lemma": "dire",
+    "pos": "verb",
+    "meaning": "you say"
+  },
+  "detto": {
+    "lemma": "dire",
+    "pos": "verb",
+    "meaning": "said"
+  },
+  "dirti": {
+    "lemma": "dire",
+    "pos": "verb",
+    "meaning": "to tell you"
+  },
+  "dirmi": {
+    "lemma": "dire",
+    "pos": "verb",
+    "meaning": "to tell me"
+  },
+  "dimmi": {
+    "lemma": "dire",
+    "pos": "verb",
+    "meaning": "tell me!"
+  },
+  "fate": {
+    "lemma": "fare",
+    "pos": "verb",
+    "meaning": "you do / make"
+  },
+  "faccio": {
+    "lemma": "fare",
+    "pos": "verb",
+    "meaning": "I do / make"
+  },
+  "fa": {
+    "lemma": "fare",
+    "pos": "verb",
+    "meaning": "does / makes"
+  },
+  "fatto": {
+    "lemma": "fare",
+    "pos": "verb",
+    "meaning": "done / made"
+  },
+  "paga": {
+    "lemma": "pagare",
+    "pos": "verb",
+    "meaning": "pays / pay!"
+  },
+  "pagato": {
+    "lemma": "pagare",
+    "pos": "verb",
+    "meaning": "paid"
+  },
+  "costa": {
+    "lemma": "costare",
+    "pos": "verb",
+    "meaning": "costs"
+  },
+  "compra": {
+    "lemma": "comprare",
+    "pos": "verb",
+    "meaning": "buys"
+  },
+  "vendere": {
+    "lemma": "vendere",
+    "pos": "verb",
+    "meaning": "to sell"
+  },
+  "vende": {
+    "lemma": "vendere",
+    "pos": "verb",
+    "meaning": "sells"
+  },
+  "gelida": {
+    "lemma": "gelido",
+    "pos": "adjective",
+    "meaning": "frozen / ice-cold (feminine)"
+  },
+  "gelido": {
+    "lemma": "gelido",
+    "pos": "adjective",
+    "meaning": "frozen / ice-cold"
+  },
+  "soave": {
+    "lemma": "soave",
+    "pos": "adjective",
+    "meaning": "gentle / sweet / lovely"
+  },
+  "dolce": {
+    "lemma": "dolce",
+    "pos": "adjective",
+    "meaning": "sweet / tender"
+  },
+  "candida": {
+    "lemma": "candido",
+    "pos": "adjective",
+    "meaning": "pure white / snow-white"
+  },
+  "lieve": {
+    "lemma": "lieve",
+    "pos": "adjective",
+    "meaning": "light / delicate"
+  },
+  "piccola": {
+    "lemma": "piccolo",
+    "pos": "adjective",
+    "meaning": "little / small (feminine)"
+  },
+  "piccolo": {
+    "lemma": "piccolo",
+    "pos": "adjective",
+    "meaning": "little / small"
+  },
+  "delicata": {
+    "lemma": "delicato",
+    "pos": "adjective",
+    "meaning": "delicate / frail"
+  },
+  "povera": {
+    "lemma": "povero",
+    "pos": "adjective",
+    "meaning": "poor (feminine)"
+  },
+  "povero": {
+    "lemma": "povero",
+    "pos": "adjective",
+    "meaning": "poor"
+  },
+  "poveretta": {
+    "lemma": "poveretto",
+    "pos": "noun",
+    "meaning": "poor girl / poor creature"
+  },
+  "malata": {
+    "lemma": "malato",
+    "pos": "adjective",
+    "meaning": "sick / ill (feminine)"
+  },
+  "malato": {
+    "lemma": "malato",
+    "pos": "adjective",
+    "meaning": "sick / ill"
+  },
+  "bella": {
+    "lemma": "bello",
+    "pos": "adjective",
+    "meaning": "beautiful / fair (feminine)"
+  },
+  "bello": {
+    "lemma": "bello",
+    "pos": "adjective",
+    "meaning": "beautiful / handsome"
+  },
+  "belli": {
+    "lemma": "bello",
+    "pos": "adjective",
+    "meaning": "beautiful (plural)"
+  },
+  "belle": {
+    "lemma": "bello",
+    "pos": "adjective",
+    "meaning": "beautiful (feminine plural)"
+  },
+  "buono": {
+    "lemma": "buono",
+    "pos": "adjective",
+    "meaning": "good"
+  },
+  "buona": {
+    "lemma": "buono",
+    "pos": "adjective",
+    "meaning": "good (feminine)"
+  },
+  "buon": {
+    "lemma": "buono",
+    "pos": "adjective",
+    "meaning": "good (apocope)"
+  },
+  "infame": {
+    "lemma": "infame",
+    "pos": "adjective",
+    "meaning": "wretched / infamous / abominable"
+  },
+  "civetta": {
+    "lemma": "civetta",
+    "pos": "noun",
+    "meaning": "coquette / flirt / little owl"
+  },
+  "fedele": {
+    "lemma": "fedele",
+    "pos": "adjective",
+    "meaning": "faithful / loyal"
+  },
+  "tranquilla": {
+    "lemma": "tranquillo",
+    "pos": "adjective",
+    "meaning": "quiet / calm / peaceful"
+  },
+  "tranquillo": {
+    "lemma": "tranquillo",
+    "pos": "adjective",
+    "meaning": "quiet / calm / peaceful"
+  },
+  "silenzio": {
+    "lemma": "silenzio",
+    "pos": "noun",
+    "meaning": "silence"
+  },
+  "zitto": {
+    "lemma": "zitto",
+    "pos": "interjection",
+    "meaning": "quiet! / hush!"
+  },
+  "zitti": {
+    "lemma": "zitto",
+    "pos": "interjection",
+    "meaning": "quiet! (plural)"
+  },
+  "soli": {
+    "lemma": "solo",
+    "pos": "adjective",
+    "meaning": "alone (plural)"
+  },
+  "sola": {
+    "lemma": "solo",
+    "pos": "adjective",
+    "meaning": "alone (feminine)"
+  },
+  "solo": {
+    "lemma": "solo",
+    "pos": "adverb",
+    "meaning": "only / alone"
+  },
+  "soletta": {
+    "lemma": "soletta",
+    "pos": "adverb",
+    "meaning": "all alone (feminine diminutive)"
+  },
+  "intanto": {
+    "lemma": "intanto",
+    "pos": "adverb",
+    "meaning": "meanwhile / in the meantime"
+  },
+  "davvero": {
+    "lemma": "davvero",
+    "pos": "adverb",
+    "meaning": "truly / really"
+  },
+  "davver": {
+    "lemma": "davvero",
+    "pos": "adverb",
+    "meaning": "truly / really (apocope)"
+  },
+  "addio": {
+    "lemma": "addio",
+    "pos": "interjection",
+    "meaning": "farewell / goodbye"
+  },
+  "grazie": {
+    "lemma": "grazie",
+    "pos": "noun",
+    "meaning": "thanks / thank you"
+  },
+  "prego": {
+    "lemma": "pregare",
+    "pos": "verb",
+    "meaning": "you're welcome / please / I pray"
+  },
+  "aiuto": {
+    "lemma": "aiuto",
+    "pos": "noun",
+    "meaning": "help!"
+  },
+  "evviva": {
+    "lemma": "evviva",
+    "pos": "interjection",
+    "meaning": "hurrah! / long live!"
+  },
+  "viva": {
+    "lemma": "viva",
+    "pos": "interjection",
+    "meaning": "long live! / hurrah!"
+  },
+  "eureka": {
+    "lemma": "eureka",
+    "pos": "interjection",
+    "meaning": "eureka! (I have found it)"
+  },
+  "ohè": {
+    "lemma": "ohè",
+    "pos": "interjection",
+    "meaning": "hey there! / what ho!"
+  },
+  "olà": {
+    "lemma": "olà",
+    "pos": "interjection",
+    "meaning": "hallo! / hey!"
+  },
+  "ehi": {
+    "lemma": "ehi",
+    "pos": "interjection",
+    "meaning": "hey!"
+  },
+  "lallera": {
+    "lemma": "lallera",
+    "pos": "interjection",
+    "meaning": "la-la-la (cheerful refrain)"
+  },
+  "hopplà": {
+    "lemma": "hopplà",
+    "pos": "interjection",
+    "meaning": "heave-ho! / up-and-at-'em!"
+  },
+  "trallerallè": {
+    "lemma": "trallerallè",
+    "pos": "interjection",
+    "meaning": "tra-la-la (drinking refrain)"
+  },
+  "'aringa": {
+    "lemma": "'aringa",
+    "pos": "verb",
+    "meaning": "'aringa"
+  },
+  "abbandona": {
+    "lemma": "abbandona",
+    "pos": "verb",
+    "meaning": "abbandona"
+  },
+  "abbandonò": {
+    "lemma": "abbandonò",
+    "pos": "noun",
+    "meaning": "abbandonò"
+  },
+  "abbassa": {
+    "lemma": "abbassa",
+    "pos": "verb",
+    "meaning": "abbassa"
+  },
+  "abbassandosi": {
+    "lemma": "abbassandosi",
+    "pos": "verb",
+    "meaning": "abbassandosi"
+  },
+  "abbasso": {
+    "lemma": "abbasso",
+    "pos": "verb",
+    "meaning": "abbasso"
+  },
+  "abbellirà": {
+    "lemma": "abbellirà",
+    "pos": "noun",
+    "meaning": "abbellirà"
+  },
+  "abbondanza": {
+    "lemma": "abbondanza",
+    "pos": "verb",
+    "meaning": "abbondanza"
+  },
+  "abbruci": {
+    "lemma": "abbruci",
+    "pos": "verb",
+    "meaning": "abbruci"
+  },
+  "abiti": {
+    "lemma": "abiti",
+    "pos": "verb",
+    "meaning": "abiti"
+  },
+  "accasciato": {
+    "lemma": "accasciare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "accenderlo": {
+    "lemma": "accenderlo",
+    "pos": "verb",
+    "meaning": "accenderlo"
+  },
+  "accessit": {
+    "lemma": "accessit",
+    "pos": "noun",
+    "meaning": "accessit"
+  },
+  "accesso": {
+    "lemma": "accesso",
+    "pos": "verb",
+    "meaning": "accesso"
+  },
+  "accetta": {
+    "lemma": "accetta",
+    "pos": "verb",
+    "meaning": "accetta"
+  },
+  "accettano": {
+    "lemma": "accettano",
+    "pos": "verb",
+    "meaning": "accettano"
+  },
+  "accidenti": {
+    "lemma": "accidenti",
+    "pos": "verb",
+    "meaning": "accidenti"
+  },
+  "accomodi": {
+    "lemma": "accomodi",
+    "pos": "verb",
+    "meaning": "accomodi"
+  },
+  "accompagni": {
+    "lemma": "accompagni",
+    "pos": "verb",
+    "meaning": "accompagni"
+  },
+  "acconcio": {
+    "lemma": "acconcio",
+    "pos": "verb",
+    "meaning": "acconcio"
+  },
+  "accora": {
+    "lemma": "accora",
+    "pos": "verb",
+    "meaning": "accora"
+  },
+  "accorge": {
+    "lemma": "accorge",
+    "pos": "verb",
+    "meaning": "accorge"
+  },
+  "accorre": {
+    "lemma": "accorre",
+    "pos": "verb",
+    "meaning": "accorre"
+  },
+  "accorrendo": {
+    "lemma": "accorrare",
+    "pos": "verb",
+    "meaning": "verb gerund (-ing)"
+  },
+  "accorrere": {
+    "lemma": "accorrere",
+    "pos": "verb",
+    "meaning": "accorrere"
+  },
+  "accostiam": {
+    "lemma": "accostiam",
+    "pos": "noun",
+    "meaning": "accostiam"
+  },
+  "acqueta": {
+    "lemma": "acqueta",
+    "pos": "verb",
+    "meaning": "acqueta"
+  },
+  "adagiarla": {
+    "lemma": "adagiarla",
+    "pos": "verb",
+    "meaning": "adagiarla"
+  },
+  "addita": {
+    "lemma": "addita",
+    "pos": "verb",
+    "meaning": "addita"
+  },
+  "addobba": {
+    "lemma": "addobba",
+    "pos": "verb",
+    "meaning": "addobba"
+  },
+  "addosso": {
+    "lemma": "addosso",
+    "pos": "verb",
+    "meaning": "addosso"
+  },
+  "aduna": {
+    "lemma": "aduna",
+    "pos": "verb",
+    "meaning": "aduna"
+  },
+  "affascinai": {
+    "lemma": "affascinai",
+    "pos": "verb",
+    "meaning": "affascinai"
+  },
+  "affretta": {
+    "lemma": "affretta",
+    "pos": "verb",
+    "meaning": "affretta"
+  },
+  "agghiaccia": {
+    "lemma": "agghiaccia",
+    "pos": "verb",
+    "meaning": "agghiaccia"
+  },
+  "aggira": {
+    "lemma": "aggira",
+    "pos": "verb",
+    "meaning": "aggira"
+  },
+  "aguzza": {
+    "lemma": "aguzza",
+    "pos": "verb",
+    "meaning": "aguzza"
+  },
+  "aiutata": {
+    "lemma": "aiutare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "aiutateci": {
+    "lemma": "aiutateci",
+    "pos": "verb",
+    "meaning": "aiutateci"
+  },
+  "aiutavo": {
+    "lemma": "aiutavo",
+    "pos": "verb",
+    "meaning": "aiutavo"
+  },
+  "alare": {
+    "lemma": "alare",
+    "pos": "verb",
+    "meaning": "alare"
+  },
+  "alcune": {
+    "lemma": "alcune",
+    "pos": "verb",
+    "meaning": "alcune"
+  },
+  "ali": {
+    "lemma": "ali",
+    "pos": "verb",
+    "meaning": "ali"
+  },
+  "allargò": {
+    "lemma": "allargò",
+    "pos": "noun",
+    "meaning": "allargò"
+  },
+  "allegra": {
+    "lemma": "allegra",
+    "pos": "verb",
+    "meaning": "allegra"
+  },
+  "allegramente": {
+    "lemma": "allegramente",
+    "pos": "adverb",
+    "meaning": "allegra-ly"
+  },
+  "allegri": {
+    "lemma": "allegri",
+    "pos": "verb",
+    "meaning": "allegri"
+  },
+  "allividite": {
+    "lemma": "allividite",
+    "pos": "verb",
+    "meaning": "allividite"
+  },
+  "allontana": {
+    "lemma": "allontana",
+    "pos": "verb",
+    "meaning": "allontana"
+  },
+  "allontanano": {
+    "lemma": "allontanano",
+    "pos": "verb",
+    "meaning": "allontanano"
+  },
+  "altar": {
+    "lemma": "altar",
+    "pos": "noun",
+    "meaning": "altar"
+  },
+  "alti": {
+    "lemma": "alti",
+    "pos": "verb",
+    "meaning": "alti"
+  },
+  "alza": {
+    "lemma": "alza",
+    "pos": "verb",
+    "meaning": "alza"
+  },
+  "alzano": {
+    "lemma": "alzano",
+    "pos": "verb",
+    "meaning": "alzano"
+  },
+  "alzata": {
+    "lemma": "alzare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "amarezze": {
+    "lemma": "amarezze",
+    "pos": "verb",
+    "meaning": "amarezze"
+  },
+  "amiamo": {
+    "lemma": "amiamo",
+    "pos": "verb",
+    "meaning": "amiamo"
+  },
+  "ammorba": {
+    "lemma": "ammorba",
+    "pos": "verb",
+    "meaning": "ammorba"
+  },
+  "ancella": {
+    "lemma": "ancella",
+    "pos": "verb",
+    "meaning": "ancella"
+  },
+  "andiamocerle": {
+    "lemma": "andiamocerle",
+    "pos": "verb",
+    "meaning": "andiamocerle"
+  },
+  "andrebbe": {
+    "lemma": "andrebbe",
+    "pos": "verb",
+    "meaning": "andrebbe"
+  },
+  "angeli": {
+    "lemma": "angeli",
+    "pos": "verb",
+    "meaning": "angeli"
+  },
+  "angelo": {
+    "lemma": "angelo",
+    "pos": "verb",
+    "meaning": "angelo"
+  },
+  "angolo": {
+    "lemma": "angolo",
+    "pos": "verb",
+    "meaning": "angolo"
+  },
+  "angoscie": {
+    "lemma": "angoscie",
+    "pos": "verb",
+    "meaning": "angoscie"
+  },
+  "antri": {
+    "lemma": "antri",
+    "pos": "verb",
+    "meaning": "antri"
+  },
+  "aperta": {
+    "lemma": "aperta",
+    "pos": "verb",
+    "meaning": "aperta"
+  },
+  "apocalisse": {
+    "lemma": "apocalisse",
+    "pos": "verb",
+    "meaning": "apocalisse"
+  },
+  "appare": {
+    "lemma": "appare",
+    "pos": "verb",
+    "meaning": "appare"
+  },
+  "appariscono": {
+    "lemma": "appariscono",
+    "pos": "verb",
+    "meaning": "appariscono"
+  },
+  "appendice": {
+    "lemma": "appendice",
+    "pos": "verb",
+    "meaning": "appendice"
+  },
+  "appesta": {
+    "lemma": "appesta",
+    "pos": "verb",
+    "meaning": "appesta"
+  },
+  "apprestate": {
+    "lemma": "apprestare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "appresti": {
+    "lemma": "appresti",
+    "pos": "verb",
+    "meaning": "appresti"
+  },
+  "april": {
+    "lemma": "april",
+    "pos": "noun",
+    "meaning": "april"
+  },
+  "aragosta": {
+    "lemma": "aragosta",
+    "pos": "verb",
+    "meaning": "aragosta"
+  },
+  "ardor": {
+    "lemma": "ardor",
+    "pos": "noun",
+    "meaning": "ardor"
+  },
+  "armato": {
+    "lemma": "armare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "arrivata": {
+    "lemma": "arrivare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "arrossendo": {
+    "lemma": "arrossare",
+    "pos": "verb",
+    "meaning": "verb gerund (-ing)"
+  },
+  "arrosto": {
+    "lemma": "arrosto",
+    "pos": "verb",
+    "meaning": "arrosto"
+  },
+  "arrovello": {
+    "lemma": "arrovello",
+    "pos": "verb",
+    "meaning": "arrovello"
+  },
+  "articolo": {
+    "lemma": "articolo",
+    "pos": "verb",
+    "meaning": "articolo"
+  },
+  "arzillo": {
+    "lemma": "arzillo",
+    "pos": "verb",
+    "meaning": "arzillo"
+  },
+  "arzuto": {
+    "lemma": "arzuto",
+    "pos": "verb",
+    "meaning": "arzuto"
+  },
+  "ascendere": {
+    "lemma": "ascendere",
+    "pos": "verb",
+    "meaning": "ascendere"
+  },
+  "ascoltava": {
+    "lemma": "ascoltava",
+    "pos": "verb",
+    "meaning": "ascoltava"
+  },
+  "asconde": {
+    "lemma": "asconde",
+    "pos": "verb",
+    "meaning": "asconde"
+  },
+  "ascose": {
+    "lemma": "ascose",
+    "pos": "verb",
+    "meaning": "ascose"
+  },
+  "asinelli": {
+    "lemma": "asinelli",
+    "pos": "verb",
+    "meaning": "asinelli"
+  },
+  "aspettan": {
+    "lemma": "aspettan",
+    "pos": "noun",
+    "meaning": "aspettan"
+  },
+  "aspettano": {
+    "lemma": "aspettano",
+    "pos": "verb",
+    "meaning": "aspettano"
+  },
+  "aspetterem": {
+    "lemma": "aspetterem",
+    "pos": "noun",
+    "meaning": "aspetterem"
+  },
+  "aspetti": {
+    "lemma": "aspetti",
+    "pos": "verb",
+    "meaning": "aspetti"
+  },
+  "assaggia": {
+    "lemma": "assaggia",
+    "pos": "verb",
+    "meaning": "assaggia"
+  },
+  "assale": {
+    "lemma": "assale",
+    "pos": "verb",
+    "meaning": "assale"
+  },
+  "assaporo": {
+    "lemma": "assaporo",
+    "pos": "verb",
+    "meaning": "assaporo"
+  },
+  "assopisce": {
+    "lemma": "assopisce",
+    "pos": "verb",
+    "meaning": "assopisce"
+  },
+  "assopì": {
+    "lemma": "assopì",
+    "pos": "noun",
+    "meaning": "assopì"
+  },
+  "astanti": {
+    "lemma": "astanti",
+    "pos": "verb",
+    "meaning": "astanti"
+  },
+  "attende": {
+    "lemma": "attende",
+    "pos": "verb",
+    "meaning": "attende"
+  },
+  "attente": {
+    "lemma": "attente",
+    "pos": "verb",
+    "meaning": "attente"
+  },
+  "atterrito": {
+    "lemma": "atterrito",
+    "pos": "verb",
+    "meaning": "atterrito"
+  },
+  "atti": {
+    "lemma": "atti",
+    "pos": "verb",
+    "meaning": "atti"
+  },
+  "audaci": {
+    "lemma": "audaci",
+    "pos": "verb",
+    "meaning": "audaci"
+  },
+  "auge": {
+    "lemma": "auge",
+    "pos": "verb",
+    "meaning": "auge"
+  },
+  "aurora": {
+    "lemma": "aurora",
+    "pos": "verb",
+    "meaning": "aurora"
+  },
+  "autore": {
+    "lemma": "autore",
+    "pos": "verb",
+    "meaning": "autore"
+  },
+  "avvede": {
+    "lemma": "avvede",
+    "pos": "verb",
+    "meaning": "avvede"
+  },
+  "avvenuto": {
+    "lemma": "avvenuto",
+    "pos": "verb",
+    "meaning": "avvenuto"
+  },
+  "avverrà": {
+    "lemma": "avverrà",
+    "pos": "noun",
+    "meaning": "avverrà"
+  },
+  "avvezza": {
+    "lemma": "avvezza",
+    "pos": "verb",
+    "meaning": "avvezza"
+  },
+  "avvicina": {
+    "lemma": "avvicina",
+    "pos": "verb",
+    "meaning": "avvicina"
+  },
+  "avvicinan": {
+    "lemma": "avvicinan",
+    "pos": "noun",
+    "meaning": "avvicinan"
+  },
+  "avvicinandosi": {
+    "lemma": "avvicinandosi",
+    "pos": "verb",
+    "meaning": "avvicinandosi"
+  },
+  "avvicinano": {
+    "lemma": "avvicinano",
+    "pos": "verb",
+    "meaning": "avvicinano"
+  },
+  "avvicinarsi": {
+    "lemma": "avvicinarsi",
+    "pos": "verb",
+    "meaning": "avvicinarsi"
+  },
+  "avvicinato": {
+    "lemma": "avvicinare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "avvolta": {
+    "lemma": "avvolta",
+    "pos": "verb",
+    "meaning": "avvolta"
+  },
+  "azione": {
+    "lemma": "azione",
+    "pos": "verb",
+    "meaning": "azione"
+  },
+  "azzurri": {
+    "lemma": "azzurri",
+    "pos": "verb",
+    "meaning": "azzurri"
+  },
+  "baccano": {
+    "lemma": "baccano",
+    "pos": "verb",
+    "meaning": "baccano"
+  },
+  "balancez": {
+    "lemma": "balancez",
+    "pos": "noun",
+    "meaning": "balancez"
+  },
+  "balbetta": {
+    "lemma": "balbetta",
+    "pos": "verb",
+    "meaning": "balbetta"
+  },
+  "ballerei": {
+    "lemma": "ballerei",
+    "pos": "verb",
+    "meaning": "ballerei"
+  },
+  "balsami": {
+    "lemma": "balsami",
+    "pos": "verb",
+    "meaning": "balsami"
+  },
+  "balza": {
+    "lemma": "balza",
+    "pos": "verb",
+    "meaning": "balza"
+  },
+  "bambina": {
+    "lemma": "bambina",
+    "pos": "verb",
+    "meaning": "bambina"
+  },
+  "banca": {
+    "lemma": "banca",
+    "pos": "verb",
+    "meaning": "banca"
+  },
+  "barbablù": {
+    "lemma": "barbablù",
+    "pos": "noun",
+    "meaning": "barbablù"
+  },
+  "barbitonsore": {
+    "lemma": "barbitonsore",
+    "pos": "verb",
+    "meaning": "barbitonsore"
+  },
+  "barella": {
+    "lemma": "barella",
+    "pos": "verb",
+    "meaning": "barella"
+  },
+  "barone": {
+    "lemma": "barone",
+    "pos": "verb",
+    "meaning": "barone"
+  },
+  "batte": {
+    "lemma": "batte",
+    "pos": "verb",
+    "meaning": "batte"
+  },
+  "battendo": {
+    "lemma": "battare",
+    "pos": "verb",
+    "meaning": "verb gerund (-ing)"
+  },
+  "battere": {
+    "lemma": "battere",
+    "pos": "verb",
+    "meaning": "battere"
+  },
+  "battessi": {
+    "lemma": "battessi",
+    "pos": "verb",
+    "meaning": "battessi"
+  },
+  "bei": {
+    "lemma": "bei",
+    "pos": "verb",
+    "meaning": "bei"
+  },
+  "bell'uom": {
+    "lemma": "bell'uom",
+    "pos": "noun",
+    "meaning": "bell'uom"
+  },
+  "bellezza": {
+    "lemma": "bellezza",
+    "pos": "verb",
+    "meaning": "bellezza"
+  },
+  "benedetta": {
+    "lemma": "benedetta",
+    "pos": "verb",
+    "meaning": "benedetta"
+  },
+  "beno": {
+    "lemma": "beno",
+    "pos": "verb",
+    "meaning": "beno"
+  },
+  "berlingaccio": {
+    "lemma": "berlingaccio",
+    "pos": "verb",
+    "meaning": "berlingaccio"
+  },
+  "beva": {
+    "lemma": "beva",
+    "pos": "verb",
+    "meaning": "beva"
+  },
+  "bevi": {
+    "lemma": "bevi",
+    "pos": "verb",
+    "meaning": "bevi"
+  },
+  "beviam": {
+    "lemma": "beviam",
+    "pos": "noun",
+    "meaning": "beviam"
+  },
+  "bigi": {
+    "lemma": "bigi",
+    "pos": "verb",
+    "meaning": "bigi"
+  },
+  "bile": {
+    "lemma": "bile",
+    "pos": "verb",
+    "meaning": "bile"
+  },
+  "birichin": {
+    "lemma": "birichin",
+    "pos": "noun",
+    "meaning": "birichin"
+  },
+  "boheme": {
+    "lemma": "boheme",
+    "pos": "verb",
+    "meaning": "boheme"
+  },
+  "border": {
+    "lemma": "border",
+    "pos": "noun",
+    "meaning": "border"
+  },
+  "bottega": {
+    "lemma": "bottega",
+    "pos": "verb",
+    "meaning": "bottega"
+  },
+  "bottiglie": {
+    "lemma": "bottiglie",
+    "pos": "verb",
+    "meaning": "bottiglie"
+  },
+  "bottino": {
+    "lemma": "bottino",
+    "pos": "verb",
+    "meaning": "bottino"
+  },
+  "boulevard": {
+    "lemma": "boulevard",
+    "pos": "noun",
+    "meaning": "boulevard"
+  },
+  "braccetto": {
+    "lemma": "braccetto",
+    "pos": "verb",
+    "meaning": "braccetto"
+  },
+  "bramosia": {
+    "lemma": "bramosia",
+    "pos": "verb",
+    "meaning": "bramosia"
+  },
+  "brevità": {
+    "lemma": "brevità",
+    "pos": "noun",
+    "meaning": "brevità"
+  },
+  "briga": {
+    "lemma": "briga",
+    "pos": "verb",
+    "meaning": "briga"
+  },
+  "brontolona": {
+    "lemma": "brontolona",
+    "pos": "verb",
+    "meaning": "brontolona"
+  },
+  "bruciore": {
+    "lemma": "bruciore",
+    "pos": "verb",
+    "meaning": "bruciore"
+  },
+  "bruni": {
+    "lemma": "bruni",
+    "pos": "verb",
+    "meaning": "bruni"
+  },
+  "brutti": {
+    "lemma": "brutti",
+    "pos": "verb",
+    "meaning": "brutti"
+  },
+  "burro": {
+    "lemma": "burro",
+    "pos": "verb",
+    "meaning": "burro"
+  },
+  "bussa": {
+    "lemma": "bussa",
+    "pos": "verb",
+    "meaning": "bussa"
+  },
+  "buttandosi": {
+    "lemma": "buttandosi",
+    "pos": "verb",
+    "meaning": "buttandosi"
+  },
+  "buttato": {
+    "lemma": "buttare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "caffe": {
+    "lemma": "caffè",
+    "pos": "noun",
+    "meaning": "coffee / café"
+  },
+  "caffè": {
+    "lemma": "caffè",
+    "pos": "noun",
+    "meaning": "coffee / café"
+  },
+  "caldi": {
+    "lemma": "caldi",
+    "pos": "verb",
+    "meaning": "caldi"
+  },
+  "caliginoso": {
+    "lemma": "caliginoso",
+    "pos": "verb",
+    "meaning": "caliginoso"
+  },
+  "calzato": {
+    "lemma": "calzare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "cambia": {
+    "lemma": "cambia",
+    "pos": "verb",
+    "meaning": "cambia"
+  },
+  "cameretta": {
+    "lemma": "cameretta",
+    "pos": "verb",
+    "meaning": "cameretta"
+  },
+  "camerier": {
+    "lemma": "cameriere",
+    "pos": "noun",
+    "meaning": "waiter (apocope)"
+  },
+  "camminare": {
+    "lemma": "camminare",
+    "pos": "verb",
+    "meaning": "camminare"
+  },
+  "candele": {
+    "lemma": "candele",
+    "pos": "verb",
+    "meaning": "candele"
+  },
+  "cane": {
+    "lemma": "cane",
+    "pos": "verb",
+    "meaning": "cane"
+  },
+  "canna": {
+    "lemma": "canna",
+    "pos": "verb",
+    "meaning": "canna"
+  },
+  "cannon": {
+    "lemma": "cannon",
+    "pos": "noun",
+    "meaning": "cannon"
+  },
+  "cantano": {
+    "lemma": "cantano",
+    "pos": "verb",
+    "meaning": "cantano"
+  },
+  "canti": {
+    "lemma": "canti",
+    "pos": "verb",
+    "meaning": "canti"
+  },
+  "carote": {
+    "lemma": "carote",
+    "pos": "verb",
+    "meaning": "carote"
+  },
+  "carretto": {
+    "lemma": "carretto",
+    "pos": "verb",
+    "meaning": "carretto"
+  },
+  "carri": {
+    "lemma": "carri",
+    "pos": "verb",
+    "meaning": "carri"
+  },
+  "carrozza": {
+    "lemma": "carrozza",
+    "pos": "verb",
+    "meaning": "carrozza"
+  },
+  "cassetto": {
+    "lemma": "cassetto",
+    "pos": "verb",
+    "meaning": "cassetto"
+  },
+  "casta": {
+    "lemma": "casta",
+    "pos": "verb",
+    "meaning": "casta"
+  },
+  "castelli": {
+    "lemma": "castelli",
+    "pos": "verb",
+    "meaning": "castelli"
+  },
+  "castoro": {
+    "lemma": "castoro",
+    "pos": "verb",
+    "meaning": "castoro"
+  },
+  "catastrofe": {
+    "lemma": "catastrofe",
+    "pos": "verb",
+    "meaning": "catastrofe"
+  },
+  "cautamente": {
+    "lemma": "cautamente",
+    "pos": "adverb",
+    "meaning": "cauta-ly"
+  },
+  "cavallin": {
+    "lemma": "cavallin",
+    "pos": "noun",
+    "meaning": "cavallin"
+  },
+  "caviglia": {
+    "lemma": "caviglia",
+    "pos": "verb",
+    "meaning": "caviglia"
+  },
+  "ce": {
+    "lemma": "ce",
+    "pos": "verb",
+    "meaning": "ce"
+  },
+  "cedea": {
+    "lemma": "cedea",
+    "pos": "verb",
+    "meaning": "cedea"
+  },
+  "cederà": {
+    "lemma": "cederà",
+    "pos": "noun",
+    "meaning": "cederà"
+  },
+  "cener": {
+    "lemma": "cener",
+    "pos": "noun",
+    "meaning": "cener"
+  },
+  "center": {
+    "lemma": "center",
+    "pos": "noun",
+    "meaning": "center"
+  },
+  "cercando": {
+    "lemma": "cercare",
+    "pos": "verb",
+    "meaning": "verb gerund (-ing)"
+  },
+  "cercarla": {
+    "lemma": "cercarla",
+    "pos": "verb",
+    "meaning": "cercarla"
+  },
+  "cercarmi": {
+    "lemma": "cercarmi",
+    "pos": "verb",
+    "meaning": "cercarmi"
+  },
+  "cerchietto": {
+    "lemma": "cerchietto",
+    "pos": "verb",
+    "meaning": "cerchietto"
+  },
+  "cerimoniosamente": {
+    "lemma": "cerimoniosamente",
+    "pos": "adverb",
+    "meaning": "cerimoniosa-ly"
+  },
+  "certi": {
+    "lemma": "certi",
+    "pos": "verb",
+    "meaning": "certi"
+  },
+  "chiacchieran": {
+    "lemma": "chiacchieran",
+    "pos": "noun",
+    "meaning": "chiacchieran"
+  },
+  "chimere": {
+    "lemma": "chimere",
+    "pos": "verb",
+    "meaning": "chimere"
+  },
+  "china": {
+    "lemma": "china",
+    "pos": "verb",
+    "meaning": "china"
+  },
+  "chiusi": {
+    "lemma": "chiusi",
+    "pos": "verb",
+    "meaning": "chiusi"
+  },
+  "cibarie": {
+    "lemma": "cibarie",
+    "pos": "verb",
+    "meaning": "cibarie"
+  },
+  "cibi": {
+    "lemma": "cibi",
+    "pos": "verb",
+    "meaning": "cibi"
+  },
+  "cibo": {
+    "lemma": "cibo",
+    "pos": "verb",
+    "meaning": "cibo"
+  },
+  "cimiter": {
+    "lemma": "cimiter",
+    "pos": "noun",
+    "meaning": "cimiter"
+  },
+  "cinguetta": {
+    "lemma": "cinguetta",
+    "pos": "verb",
+    "meaning": "cinguetta"
+  },
+  "cinguettio": {
+    "lemma": "cinguettio",
+    "pos": "verb",
+    "meaning": "cinguettio"
+  },
+  "circonfuso": {
+    "lemma": "circonfuso",
+    "pos": "verb",
+    "meaning": "circonfuso"
+  },
+  "clamorose": {
+    "lemma": "clamorose",
+    "pos": "verb",
+    "meaning": "clamorose"
+  },
+  "cocciuto": {
+    "lemma": "cocciuto",
+    "pos": "verb",
+    "meaning": "cocciuto"
+  },
+  "cocco": {
+    "lemma": "cocco",
+    "pos": "verb",
+    "meaning": "cocco"
+  },
+  "coda": {
+    "lemma": "coda",
+    "pos": "verb",
+    "meaning": "coda"
+  },
+  "cognome": {
+    "lemma": "cognome",
+    "pos": "verb",
+    "meaning": "cognome"
+  },
+  "colinne": {
+    "lemma": "colinne",
+    "pos": "verb",
+    "meaning": "colinne"
+  },
+  "collerico": {
+    "lemma": "collerico",
+    "pos": "verb",
+    "meaning": "collerico"
+  },
+  "colloca": {
+    "lemma": "colloca",
+    "pos": "verb",
+    "meaning": "colloca"
+  },
+  "colore": {
+    "lemma": "colore",
+    "pos": "verb",
+    "meaning": "colore"
+  },
+  "colori": {
+    "lemma": "colori",
+    "pos": "verb",
+    "meaning": "colori"
+  },
+  "comandi": {
+    "lemma": "comandi",
+    "pos": "verb",
+    "meaning": "comandi"
+  },
+  "comando": {
+    "lemma": "comare",
+    "pos": "verb",
+    "meaning": "verb gerund (-ing)"
+  },
+  "compagnia": {
+    "lemma": "compagnia",
+    "pos": "verb",
+    "meaning": "compagnia"
+  },
+  "completa": {
+    "lemma": "completa",
+    "pos": "verb",
+    "meaning": "completa"
+  },
+  "comprar": {
+    "lemma": "comprar",
+    "pos": "noun",
+    "meaning": "comprar"
+  },
+  "comprarti": {
+    "lemma": "comprarti",
+    "pos": "verb",
+    "meaning": "comprarti"
+  },
+  "comprometta": {
+    "lemma": "comprometta",
+    "pos": "verb",
+    "meaning": "comprometta"
+  },
+  "concetti": {
+    "lemma": "concetti",
+    "pos": "verb",
+    "meaning": "concetti"
+  },
+  "condannata": {
+    "lemma": "condannare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "condur": {
+    "lemma": "condur",
+    "pos": "noun",
+    "meaning": "condur"
+  },
+  "consesso": {
+    "lemma": "consesso",
+    "pos": "verb",
+    "meaning": "consesso"
+  },
+  "contegno": {
+    "lemma": "contegno",
+    "pos": "verb",
+    "meaning": "contegno"
+  },
+  "contegnoso": {
+    "lemma": "contegnoso",
+    "pos": "verb",
+    "meaning": "contegnoso"
+  },
+  "contente": {
+    "lemma": "contente",
+    "pos": "verb",
+    "meaning": "contente"
+  },
+  "convenienza": {
+    "lemma": "convenienza",
+    "pos": "verb",
+    "meaning": "convenienza"
+  },
+  "copia": {
+    "lemma": "copia",
+    "pos": "verb",
+    "meaning": "copia"
+  },
+  "corallo": {
+    "lemma": "corallo",
+    "pos": "verb",
+    "meaning": "corallo"
+  },
+  "cordial": {
+    "lemma": "cordial",
+    "pos": "noun",
+    "meaning": "cordial"
+  },
+  "coreografica": {
+    "lemma": "coreografica",
+    "pos": "verb",
+    "meaning": "coreografica"
+  },
+  "corrucci": {
+    "lemma": "corrucci",
+    "pos": "verb",
+    "meaning": "corrucci"
+  },
+  "corta": {
+    "lemma": "corta",
+    "pos": "verb",
+    "meaning": "corta"
+  },
+  "cortile": {
+    "lemma": "cortile",
+    "pos": "verb",
+    "meaning": "cortile"
+  },
+  "cos'è": {
+    "lemma": "cos'è",
+    "pos": "noun",
+    "meaning": "cos'è"
+  },
+  "cose": {
+    "lemma": "cose",
+    "pos": "verb",
+    "meaning": "cose"
+  },
+  "cosi": {
+    "lemma": "cosi",
+    "pos": "verb",
+    "meaning": "cosi"
+  },
+  "coso": {
+    "lemma": "coso",
+    "pos": "verb",
+    "meaning": "coso"
+  },
+  "costerà": {
+    "lemma": "costerà",
+    "pos": "noun",
+    "meaning": "costerà"
+  },
+  "costituzional": {
+    "lemma": "costituzional",
+    "pos": "noun",
+    "meaning": "costituzional"
+  },
+  "coupé": {
+    "lemma": "coupé",
+    "pos": "noun",
+    "meaning": "coupé"
+  },
+  "credetti": {
+    "lemma": "credetti",
+    "pos": "verb",
+    "meaning": "credetti"
+  },
+  "crema": {
+    "lemma": "crema",
+    "pos": "verb",
+    "meaning": "crema"
+  },
+  "crin": {
+    "lemma": "crin",
+    "pos": "noun",
+    "meaning": "crin"
+  },
+  "croci": {
+    "lemma": "croci",
+    "pos": "verb",
+    "meaning": "croci"
+  },
+  "crocicchio": {
+    "lemma": "crocicchio",
+    "pos": "verb",
+    "meaning": "crocicchio"
+  },
+  "crosta": {
+    "lemma": "crosta",
+    "pos": "verb",
+    "meaning": "crosta"
+  },
+  "crostata": {
+    "lemma": "crostare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "cuccagna": {
+    "lemma": "cuccagna",
+    "pos": "verb",
+    "meaning": "cuccagna"
+  },
+  "curiosa": {
+    "lemma": "curiosa",
+    "pos": "verb",
+    "meaning": "curiosa"
+  },
+  "curiosità": {
+    "lemma": "curiosità",
+    "pos": "noun",
+    "meaning": "curiosità"
+  },
+  "curvasti": {
+    "lemma": "curvasti",
+    "pos": "verb",
+    "meaning": "curvasti"
+  },
+  "dabbasso": {
+    "lemma": "dabbasso",
+    "pos": "verb",
+    "meaning": "dabbasso"
+  },
+  "damigella": {
+    "lemma": "damigella",
+    "pos": "verb",
+    "meaning": "damigella"
+  },
+  "dammi": {
+    "lemma": "dammi",
+    "pos": "verb",
+    "meaning": "dammi"
+  },
+  "danaro": {
+    "lemma": "danaro",
+    "pos": "verb",
+    "meaning": "danaro"
+  },
+  "danno": {
+    "lemma": "danno",
+    "pos": "verb",
+    "meaning": "danno"
+  },
+  "danza": {
+    "lemma": "danza",
+    "pos": "verb",
+    "meaning": "danza"
+  },
+  "darei": {
+    "lemma": "darei",
+    "pos": "verb",
+    "meaning": "darei"
+  },
+  "date": {
+    "lemma": "dare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "debba": {
+    "lemma": "debba",
+    "pos": "verb",
+    "meaning": "debba"
+  },
+  "decenza": {
+    "lemma": "decenza",
+    "pos": "verb",
+    "meaning": "decenza"
+  },
+  "decotto": {
+    "lemma": "decotto",
+    "pos": "verb",
+    "meaning": "decotto"
+  },
+  "degno": {
+    "lemma": "degno",
+    "pos": "verb",
+    "meaning": "degno"
+  },
+  "demostene": {
+    "lemma": "demostene",
+    "pos": "verb",
+    "meaning": "demostene"
+  },
+  "depongono": {
+    "lemma": "depongono",
+    "pos": "verb",
+    "meaning": "depongono"
+  },
+  "desiata": {
+    "lemma": "desiare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "desiderio": {
+    "lemma": "desiderio",
+    "pos": "verb",
+    "meaning": "desiderio"
+  },
+  "destino": {
+    "lemma": "destino",
+    "pos": "verb",
+    "meaning": "destino"
+  },
+  "destinò": {
+    "lemma": "destinò",
+    "pos": "noun",
+    "meaning": "destinò"
+  },
+  "destrezza": {
+    "lemma": "destrezza",
+    "pos": "verb",
+    "meaning": "destrezza"
+  },
+  "desìo": {
+    "lemma": "desìo",
+    "pos": "verb",
+    "meaning": "desìo"
+  },
+  "detesto": {
+    "lemma": "detesto",
+    "pos": "verb",
+    "meaning": "detesto"
+  },
+  "di'": {
+    "lemma": "di'",
+    "pos": "noun",
+    "meaning": "di'"
+  },
+  "diacciate": {
+    "lemma": "diacciare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "dica": {
+    "lemma": "dica",
+    "pos": "verb",
+    "meaning": "dica"
+  },
+  "dicendomi": {
+    "lemma": "dicendomi",
+    "pos": "verb",
+    "meaning": "dicendomi"
+  },
+  "diceva": {
+    "lemma": "diceva",
+    "pos": "verb",
+    "meaning": "diceva"
+  },
+  "dicevi": {
+    "lemma": "dicevi",
+    "pos": "verb",
+    "meaning": "dicevi"
+  },
+  "digna": {
+    "lemma": "digna",
+    "pos": "verb",
+    "meaning": "digna"
+  },
+  "dileguati": {
+    "lemma": "dileguare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "diletta": {
+    "lemma": "diletta",
+    "pos": "verb",
+    "meaning": "diletta"
+  },
+  "dipinta": {
+    "lemma": "dipinta",
+    "pos": "verb",
+    "meaning": "dipinta"
+  },
+  "diplomi": {
+    "lemma": "diplomi",
+    "pos": "verb",
+    "meaning": "diplomi"
+  },
+  "dirlo": {
+    "lemma": "dirlo",
+    "pos": "verb",
+    "meaning": "dirlo"
+  },
+  "discacci": {
+    "lemma": "discacci",
+    "pos": "verb",
+    "meaning": "discacci"
+  },
+  "discorso": {
+    "lemma": "discorso",
+    "pos": "verb",
+    "meaning": "discorso"
+  },
+  "discreti": {
+    "lemma": "discreti",
+    "pos": "verb",
+    "meaning": "discreti"
+  },
+  "disgraziata": {
+    "lemma": "disgraziare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "disoneste": {
+    "lemma": "disoneste",
+    "pos": "verb",
+    "meaning": "disoneste"
+  },
+  "dissi": {
+    "lemma": "dissi",
+    "pos": "verb",
+    "meaning": "dissi"
+  },
+  "distilla": {
+    "lemma": "distilla",
+    "pos": "verb",
+    "meaning": "distilla"
+  },
+  "dita": {
+    "lemma": "dita",
+    "pos": "verb",
+    "meaning": "dita"
+  },
+  "ditegli": {
+    "lemma": "ditegli",
+    "pos": "verb",
+    "meaning": "ditegli"
+  },
+  "divenuto": {
+    "lemma": "divenuto",
+    "pos": "verb",
+    "meaning": "divenuto"
+  },
+  "diversa": {
+    "lemma": "diversa",
+    "pos": "verb",
+    "meaning": "diversa"
+  },
+  "dividendosi": {
+    "lemma": "dividendosi",
+    "pos": "verb",
+    "meaning": "dividendosi"
+  },
+  "dividiam": {
+    "lemma": "dividiam",
+    "pos": "noun",
+    "meaning": "dividiam"
+  },
+  "dividiamo": {
+    "lemma": "dividiamo",
+    "pos": "verb",
+    "meaning": "dividiamo"
+  },
+  "divina": {
+    "lemma": "divina",
+    "pos": "verb",
+    "meaning": "divina"
+  },
+  "divora": {
+    "lemma": "divora",
+    "pos": "verb",
+    "meaning": "divora"
+  },
+  "doglie": {
+    "lemma": "doglie",
+    "pos": "verb",
+    "meaning": "doglie"
+  },
+  "dolcezze": {
+    "lemma": "dolcezze",
+    "pos": "verb",
+    "meaning": "dolcezze"
+  },
+  "domandatelo": {
+    "lemma": "domandatelo",
+    "pos": "verb",
+    "meaning": "domandatelo"
+  },
+  "domando": {
+    "lemma": "domare",
+    "pos": "verb",
+    "meaning": "verb gerund (-ing)"
+  },
+  "dona": {
+    "lemma": "dona",
+    "pos": "verb",
+    "meaning": "dona"
+  },
+  "donnetta": {
+    "lemma": "donnetta",
+    "pos": "verb",
+    "meaning": "donnetta"
+  },
+  "donnine": {
+    "lemma": "donnine",
+    "pos": "verb",
+    "meaning": "donnine"
+  },
+  "dono": {
+    "lemma": "dono",
+    "pos": "verb",
+    "meaning": "dono"
+  },
+  "dorso": {
+    "lemma": "dorso",
+    "pos": "verb",
+    "meaning": "dorso"
+  },
+  "dovizie": {
+    "lemma": "dovizie",
+    "pos": "verb",
+    "meaning": "dovizie"
+  },
+  "drappel": {
+    "lemma": "drappel",
+    "pos": "noun",
+    "meaning": "drappel"
+  },
+  "durasse": {
+    "lemma": "durasse",
+    "pos": "verb",
+    "meaning": "durasse"
+  },
+  "dànno": {
+    "lemma": "dànno",
+    "pos": "verb",
+    "meaning": "dànno"
+  },
+  "détto": {
+    "lemma": "détto",
+    "pos": "verb",
+    "meaning": "détto"
+  },
+  "dò": {
+    "lemma": "dò",
+    "pos": "noun",
+    "meaning": "dò"
+  },
+  "ecc": {
+    "lemma": "ecc",
+    "pos": "noun",
+    "meaning": "ecc"
+  },
+  "eccoci": {
+    "lemma": "eccoci",
+    "pos": "verb",
+    "meaning": "eccoci"
+  },
+  "eccoli": {
+    "lemma": "eccoli",
+    "pos": "verb",
+    "meaning": "eccoli"
+  },
+  "effluvio": {
+    "lemma": "effluvio",
+    "pos": "verb",
+    "meaning": "effluvio"
+  },
+  "eh": {
+    "lemma": "eh",
+    "pos": "noun",
+    "meaning": "eh"
+  },
+  "ell'è": {
+    "lemma": "ell'è",
+    "pos": "noun",
+    "meaning": "ell'è"
+  },
+  "em": {
+    "lemma": "em",
+    "pos": "noun",
+    "meaning": "em"
+  },
+  "entrambi": {
+    "lemma": "entrambi",
+    "pos": "verb",
+    "meaning": "entrambi"
+  },
+  "entrando": {
+    "lemma": "entrare",
+    "pos": "verb",
+    "meaning": "verb gerund (-ing)"
+  },
+  "entrata": {
+    "lemma": "entrare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "entrò": {
+    "lemma": "entrò",
+    "pos": "noun",
+    "meaning": "entrò"
+  },
+  "eri": {
+    "lemma": "eri",
+    "pos": "verb",
+    "meaning": "eri"
+  },
+  "erro": {
+    "lemma": "erro",
+    "pos": "verb",
+    "meaning": "erro"
+  },
+  "esca": {
+    "lemma": "esca",
+    "pos": "verb",
+    "meaning": "esca"
+  },
+  "esempio": {
+    "lemma": "esempio",
+    "pos": "verb",
+    "meaning": "esempio"
+  },
+  "esil": {
+    "lemma": "esil",
+    "pos": "noun",
+    "meaning": "esil"
+  },
+  "esperto": {
+    "lemma": "esperto",
+    "pos": "verb",
+    "meaning": "esperto"
+  },
+  "espresso": {
+    "lemma": "espresso",
+    "pos": "verb",
+    "meaning": "espresso"
+  },
+  "esprime": {
+    "lemma": "esprime",
+    "pos": "verb",
+    "meaning": "esprime"
+  },
+  "est": {
+    "lemma": "est",
+    "pos": "noun",
+    "meaning": "est"
+  },
+  "esterno": {
+    "lemma": "esterno",
+    "pos": "verb",
+    "meaning": "esterno"
+  },
+  "estreme": {
+    "lemma": "estreme",
+    "pos": "verb",
+    "meaning": "estreme"
+  },
+  "estro": {
+    "lemma": "estro",
+    "pos": "verb",
+    "meaning": "estro"
+  },
+  "esultanti": {
+    "lemma": "esultanti",
+    "pos": "verb",
+    "meaning": "esultanti"
+  },
+  "eterno": {
+    "lemma": "eterno",
+    "pos": "verb",
+    "meaning": "eterno"
+  },
+  "età": {
+    "lemma": "età",
+    "pos": "noun",
+    "meaning": "età"
+  },
+  "eva": {
+    "lemma": "eva",
+    "pos": "verb",
+    "meaning": "eva"
+  },
+  "facchino": {
+    "lemma": "facchino",
+    "pos": "verb",
+    "meaning": "facchino"
+  },
+  "facciam": {
+    "lemma": "facciam",
+    "pos": "noun",
+    "meaning": "facciam"
+  },
+  "facciata": {
+    "lemma": "facciare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "facevi": {
+    "lemma": "facevi",
+    "pos": "verb",
+    "meaning": "facevi"
+  },
+  "facile": {
+    "lemma": "facile",
+    "pos": "verb",
+    "meaning": "facile"
+  },
+  "fan": {
+    "lemma": "fan",
+    "pos": "noun",
+    "meaning": "fan"
+  },
+  "fanciulla": {
+    "lemma": "fanciulla",
+    "pos": "verb",
+    "meaning": "fanciulla"
+  },
+  "fandango": {
+    "lemma": "fandango",
+    "pos": "verb",
+    "meaning": "fandango"
+  },
+  "farle": {
+    "lemma": "farle",
+    "pos": "verb",
+    "meaning": "farle"
+  },
+  "fascina": {
+    "lemma": "fascina",
+    "pos": "verb",
+    "meaning": "fascina"
+  },
+  "fascio": {
+    "lemma": "fascio",
+    "pos": "verb",
+    "meaning": "fascio"
+  },
+  "favore": {
+    "lemma": "favore",
+    "pos": "verb",
+    "meaning": "favore"
+  },
+  "felicità": {
+    "lemma": "felicità",
+    "pos": "noun",
+    "meaning": "felicità"
+  },
+  "femminil": {
+    "lemma": "femminil",
+    "pos": "noun",
+    "meaning": "femminil"
+  },
+  "ferro": {
+    "lemma": "ferro",
+    "pos": "verb",
+    "meaning": "ferro"
+  },
+  "feste": {
+    "lemma": "feste",
+    "pos": "verb",
+    "meaning": "feste"
+  },
+  "fiacco": {
+    "lemma": "fiacco",
+    "pos": "verb",
+    "meaning": "fiacco"
+  },
+  "fiammata": {
+    "lemma": "fiammare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "fiele": {
+    "lemma": "fiele",
+    "pos": "verb",
+    "meaning": "fiele"
+  },
+  "fier": {
+    "lemma": "fier",
+    "pos": "noun",
+    "meaning": "fier"
+  },
+  "fiera": {
+    "lemma": "fiera",
+    "pos": "verb",
+    "meaning": "fiera"
+  },
+  "figliolo": {
+    "lemma": "figliolo",
+    "pos": "verb",
+    "meaning": "figliolo"
+  },
+  "fila": {
+    "lemma": "fila",
+    "pos": "verb",
+    "meaning": "fila"
+  },
+  "files": {
+    "lemma": "files",
+    "pos": "noun",
+    "meaning": "files"
+  },
+  "filippo": {
+    "lemma": "filippo",
+    "pos": "verb",
+    "meaning": "filippo"
+  },
+  "filosofi": {
+    "lemma": "filosofi",
+    "pos": "verb",
+    "meaning": "filosofi"
+  },
+  "filosofo": {
+    "lemma": "filosofo",
+    "pos": "verb",
+    "meaning": "filosofo"
+  },
+  "fin": {
+    "lemma": "fin",
+    "pos": "noun",
+    "meaning": "fin"
+  },
+  "finalmente": {
+    "lemma": "finalmente",
+    "pos": "adverb",
+    "meaning": "final-ly"
+  },
+  "fingo": {
+    "lemma": "fingo",
+    "pos": "verb",
+    "meaning": "fingo"
+  },
+  "finti": {
+    "lemma": "finti",
+    "pos": "verb",
+    "meaning": "finti"
+  },
+  "fiocca": {
+    "lemma": "fiocca",
+    "pos": "verb",
+    "meaning": "fiocca"
+  },
+  "fioraia": {
+    "lemma": "fioraia",
+    "pos": "verb",
+    "meaning": "fioraia"
+  },
+  "fiorir": {
+    "lemma": "fiorir",
+    "pos": "noun",
+    "meaning": "fiorir"
+  },
+  "fiso": {
+    "lemma": "fiso",
+    "pos": "verb",
+    "meaning": "fiso"
+  },
+  "fitta": {
+    "lemma": "fitta",
+    "pos": "verb",
+    "meaning": "fitta"
+  },
+  "focolare": {
+    "lemma": "focolare",
+    "pos": "verb",
+    "meaning": "focolare"
+  },
+  "foglia": {
+    "lemma": "foglia",
+    "pos": "verb",
+    "meaning": "foglia"
+  },
+  "folgori": {
+    "lemma": "folgori",
+    "pos": "verb",
+    "meaning": "folgori"
+  },
+  "fonde": {
+    "lemma": "fonde",
+    "pos": "verb",
+    "meaning": "fonde"
+  },
+  "fontane": {
+    "lemma": "fontane",
+    "pos": "verb",
+    "meaning": "fontane"
+  },
+  "foreste": {
+    "lemma": "foreste",
+    "pos": "verb",
+    "meaning": "foreste"
+  },
+  "forma": {
+    "lemma": "forma",
+    "pos": "verb",
+    "meaning": "forma"
+  },
+  "forziere": {
+    "lemma": "forziere",
+    "pos": "verb",
+    "meaning": "forziere"
+  },
+  "francia": {
+    "lemma": "francia",
+    "pos": "verb",
+    "meaning": "francia"
+  },
+  "frascheggia": {
+    "lemma": "frascheggia",
+    "pos": "verb",
+    "meaning": "frascheggia"
+  },
+  "fraschetta": {
+    "lemma": "fraschetta",
+    "pos": "verb",
+    "meaning": "fraschetta"
+  },
+  "freme": {
+    "lemma": "freme",
+    "pos": "verb",
+    "meaning": "freme"
+  },
+  "fremon": {
+    "lemma": "fremon",
+    "pos": "noun",
+    "meaning": "fremon"
+  },
+  "fringuelli": {
+    "lemma": "fringuelli",
+    "pos": "verb",
+    "meaning": "fringuelli"
+  },
+  "frittelle": {
+    "lemma": "frittelle",
+    "pos": "verb",
+    "meaning": "frittelle"
+  },
+  "frivola": {
+    "lemma": "frivola",
+    "pos": "verb",
+    "meaning": "frivola"
+  },
+  "frode": {
+    "lemma": "frode",
+    "pos": "verb",
+    "meaning": "frode"
+  },
+  "frustin": {
+    "lemma": "frustin",
+    "pos": "noun",
+    "meaning": "frustin"
+  },
+  "fugg": {
+    "lemma": "fugg",
+    "pos": "noun",
+    "meaning": "fugg"
+  },
+  "fuggita": {
+    "lemma": "fuggita",
+    "pos": "verb",
+    "meaning": "fuggita"
+  },
+  "fulvo": {
+    "lemma": "fulvo",
+    "pos": "verb",
+    "meaning": "fulvo"
+  },
+  "funerale": {
+    "lemma": "funerale",
+    "pos": "verb",
+    "meaning": "funerale"
+  },
+  "fuor": {
+    "lemma": "fuor",
+    "pos": "noun",
+    "meaning": "fuor"
+  },
+  "furto": {
+    "lemma": "furto",
+    "pos": "verb",
+    "meaning": "furto"
+  },
+  "futuri": {
+    "lemma": "futuri",
+    "pos": "verb",
+    "meaning": "futuri"
+  },
+  "garba": {
+    "lemma": "garba",
+    "pos": "verb",
+    "meaning": "garba"
+  },
+  "garzone": {
+    "lemma": "garzone",
+    "pos": "verb",
+    "meaning": "garzone"
+  },
+  "gavotta": {
+    "lemma": "gavotta",
+    "pos": "verb",
+    "meaning": "gavotta"
+  },
+  "gelosie": {
+    "lemma": "gelosie",
+    "pos": "verb",
+    "meaning": "gelosie"
+  },
+  "germoglia": {
+    "lemma": "germoglia",
+    "pos": "verb",
+    "meaning": "germoglia"
+  },
+  "gesti": {
+    "lemma": "gesti",
+    "pos": "verb",
+    "meaning": "gesti"
+  },
+  "gesticolano": {
+    "lemma": "gesticolano",
+    "pos": "verb",
+    "meaning": "gesticolano"
+  },
+  "gettando": {
+    "lemma": "gettare",
+    "pos": "verb",
+    "meaning": "verb gerund (-ing)"
+  },
+  "ghiacciaia": {
+    "lemma": "ghiacciaia",
+    "pos": "verb",
+    "meaning": "ghiacciaia"
+  },
+  "ghiaccio": {
+    "lemma": "ghiaccio",
+    "pos": "verb",
+    "meaning": "ghiaccio"
+  },
+  "gif": {
+    "lemma": "gif",
+    "pos": "noun",
+    "meaning": "gif"
+  },
+  "gigantesco": {
+    "lemma": "gigantesco",
+    "pos": "verb",
+    "meaning": "gigantesco"
+  },
+  "ginocchioni": {
+    "lemma": "ginocchioni",
+    "pos": "verb",
+    "meaning": "ginocchioni"
+  },
+  "gioie": {
+    "lemma": "gioie",
+    "pos": "verb",
+    "meaning": "gioie"
+  },
+  "gioielli": {
+    "lemma": "gioielli",
+    "pos": "verb",
+    "meaning": "gioielli"
+  },
+  "giova": {
+    "lemma": "giova",
+    "pos": "verb",
+    "meaning": "giova"
+  },
+  "gioventù": {
+    "lemma": "gioventù",
+    "pos": "noun",
+    "meaning": "gioventù"
+  },
+  "giovin": {
+    "lemma": "giovin",
+    "pos": "noun",
+    "meaning": "giovin"
+  },
+  "gira": {
+    "lemma": "gira",
+    "pos": "verb",
+    "meaning": "gira"
+  },
+  "giubbe": {
+    "lemma": "giubbe",
+    "pos": "verb",
+    "meaning": "giubbe"
+  },
+  "giunge": {
+    "lemma": "giunge",
+    "pos": "verb",
+    "meaning": "giunge"
+  },
+  "giusto": {
+    "lemma": "giusto",
+    "pos": "verb",
+    "meaning": "giusto"
+  },
+  "gongolava": {
+    "lemma": "gongolava",
+    "pos": "verb",
+    "meaning": "gongolava"
+  },
+  "gote": {
+    "lemma": "gote",
+    "pos": "verb",
+    "meaning": "gote"
+  },
+  "gotto": {
+    "lemma": "gotto",
+    "pos": "verb",
+    "meaning": "gotto"
+  },
+  "governo": {
+    "lemma": "governo",
+    "pos": "verb",
+    "meaning": "governo"
+  },
+  "graffiar": {
+    "lemma": "graffiar",
+    "pos": "noun",
+    "meaning": "graffiar"
+  },
+  "grammatica": {
+    "lemma": "grammatica",
+    "pos": "verb",
+    "meaning": "grammatica"
+  },
+  "grattacapi": {
+    "lemma": "grattacapi",
+    "pos": "verb",
+    "meaning": "grattacapi"
+  },
+  "graziosamente": {
+    "lemma": "graziosamente",
+    "pos": "adverb",
+    "meaning": "graziosa-ly"
+  },
+  "grembiale": {
+    "lemma": "grembiale",
+    "pos": "verb",
+    "meaning": "grembiale"
+  },
+  "grida": {
+    "lemma": "grida",
+    "pos": "verb",
+    "meaning": "grida"
+  },
+  "gridar": {
+    "lemma": "gridar",
+    "pos": "noun",
+    "meaning": "gridar"
+  },
+  "gridi": {
+    "lemma": "gridi",
+    "pos": "verb",
+    "meaning": "gridi"
+  },
+  "guancial": {
+    "lemma": "guancial",
+    "pos": "noun",
+    "meaning": "guancial"
+  },
+  "guardarmi": {
+    "lemma": "guardarmi",
+    "pos": "verb",
+    "meaning": "guardarmi"
+  },
+  "guardie": {
+    "lemma": "guardie",
+    "pos": "verb",
+    "meaning": "guardie"
+  },
+  "guarire": {
+    "lemma": "guarire",
+    "pos": "verb",
+    "meaning": "guarire"
+  },
+  "guerrier": {
+    "lemma": "guerrier",
+    "pos": "noun",
+    "meaning": "guerrier"
+  },
+  "guidatemi": {
+    "lemma": "guidatemi",
+    "pos": "verb",
+    "meaning": "guidatemi"
+  },
+  "guizot": {
+    "lemma": "guizot",
+    "pos": "noun",
+    "meaning": "guizot"
+  },
+  "guizzo": {
+    "lemma": "guizzo",
+    "pos": "verb",
+    "meaning": "guizzo"
+  },
+  "gusto": {
+    "lemma": "gusto",
+    "pos": "verb",
+    "meaning": "gusto"
+  },
+  "han": {
+    "lemma": "han",
+    "pos": "noun",
+    "meaning": "han"
+  },
+  "height": {
+    "lemma": "height",
+    "pos": "noun",
+    "meaning": "height"
+  },
+  "html": {
+    "lemma": "html",
+    "pos": "noun",
+    "meaning": "html"
+  },
+  "i'ardente": {
+    "lemma": "i'ardente",
+    "pos": "verb",
+    "meaning": "i'ardente"
+  },
+  "i'idea": {
+    "lemma": "i'idea",
+    "pos": "verb",
+    "meaning": "i'idea"
+  },
+  "idea": {
+    "lemma": "idea",
+    "pos": "verb",
+    "meaning": "idea"
+  },
+  "ieri": {
+    "lemma": "ieri",
+    "pos": "verb",
+    "meaning": "ieri"
+  },
+  "illuminano": {
+    "lemma": "illuminano",
+    "pos": "verb",
+    "meaning": "illuminano"
+  },
+  "illuminato": {
+    "lemma": "illuminare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "imbalsama": {
+    "lemma": "imbalsama",
+    "pos": "verb",
+    "meaning": "imbalsama"
+  },
+  "imbevuto": {
+    "lemma": "imbevuto",
+    "pos": "verb",
+    "meaning": "imbevuto"
+  },
+  "imboccato": {
+    "lemma": "imboccare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "img": {
+    "lemma": "img",
+    "pos": "noun",
+    "meaning": "img"
+  },
+  "immollate": {
+    "lemma": "immollare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "impallidisce": {
+    "lemma": "impallidisce",
+    "pos": "verb",
+    "meaning": "impallidisce"
+  },
+  "imparerai": {
+    "lemma": "imparerai",
+    "pos": "verb",
+    "meaning": "imparerai"
+  },
+  "impasti": {
+    "lemma": "impasti",
+    "pos": "verb",
+    "meaning": "impasti"
+  },
+  "impedisce": {
+    "lemma": "impedisce",
+    "pos": "verb",
+    "meaning": "impedisce"
+  },
+  "impingua": {
+    "lemma": "impingua",
+    "pos": "verb",
+    "meaning": "impingua"
+  },
+  "imploro": {
+    "lemma": "imploro",
+    "pos": "verb",
+    "meaning": "imploro"
+  },
+  "importunare": {
+    "lemma": "importunare",
+    "pos": "verb",
+    "meaning": "importunare"
+  },
+  "impossessandosi": {
+    "lemma": "impossessandosi",
+    "pos": "verb",
+    "meaning": "impossessandosi"
+  },
+  "incalza": {
+    "lemma": "incalza",
+    "pos": "verb",
+    "meaning": "incalza"
+  },
+  "incanto": {
+    "lemma": "incanto",
+    "pos": "verb",
+    "meaning": "incanto"
+  },
+  "inchino": {
+    "lemma": "inchino",
+    "pos": "verb",
+    "meaning": "inchino"
+  },
+  "incivettire": {
+    "lemma": "incivettire",
+    "pos": "verb",
+    "meaning": "incivettire"
+  },
+  "inclinando": {
+    "lemma": "inclinare",
+    "pos": "verb",
+    "meaning": "verb gerund (-ing)"
+  },
+  "incominciam": {
+    "lemma": "incominciam",
+    "pos": "noun",
+    "meaning": "incominciam"
+  },
+  "increspasi": {
+    "lemma": "increspasi",
+    "pos": "verb",
+    "meaning": "increspasi"
+  },
+  "indegna": {
+    "lemma": "indegna",
+    "pos": "verb",
+    "meaning": "indegna"
+  },
+  "indemoniati": {
+    "lemma": "indemoniare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "indica": {
+    "lemma": "indica",
+    "pos": "verb",
+    "meaning": "indica"
+  },
+  "indietreggiando": {
+    "lemma": "indietreggiare",
+    "pos": "verb",
+    "meaning": "verb gerund (-ing)"
+  },
+  "inedia": {
+    "lemma": "inedia",
+    "pos": "verb",
+    "meaning": "inedia"
+  },
+  "infastiditi": {
+    "lemma": "infastiditi",
+    "pos": "verb",
+    "meaning": "infastiditi"
+  },
+  "infelice": {
+    "lemma": "infelice",
+    "pos": "verb",
+    "meaning": "infelice"
+  },
+  "infinita": {
+    "lemma": "infinita",
+    "pos": "verb",
+    "meaning": "infinita"
+  },
+  "ingannatore": {
+    "lemma": "ingannatore",
+    "pos": "verb",
+    "meaning": "ingannatore"
+  },
+  "ingegno": {
+    "lemma": "ingegno",
+    "pos": "verb",
+    "meaning": "ingegno"
+  },
+  "ingeneroso": {
+    "lemma": "ingeneroso",
+    "pos": "verb",
+    "meaning": "ingeneroso"
+  },
+  "inglese": {
+    "lemma": "inglese",
+    "pos": "verb",
+    "meaning": "inglese"
+  },
+  "ingrediat": {
+    "lemma": "ingrediat",
+    "pos": "noun",
+    "meaning": "ingrediat"
+  },
+  "inni": {
+    "lemma": "inni",
+    "pos": "verb",
+    "meaning": "inni"
+  },
+  "inosservata": {
+    "lemma": "inosservare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "insegna": {
+    "lemma": "insegna",
+    "pos": "verb",
+    "meaning": "insegna"
+  },
+  "insiem": {
+    "lemma": "insiem",
+    "pos": "noun",
+    "meaning": "insiem"
+  },
+  "insoddisfatte": {
+    "lemma": "insoddisfatte",
+    "pos": "verb",
+    "meaning": "insoddisfatte"
+  },
+  "integra": {
+    "lemma": "integra",
+    "pos": "verb",
+    "meaning": "integra"
+  },
+  "intenda": {
+    "lemma": "intenda",
+    "pos": "verb",
+    "meaning": "intenda"
+  },
+  "intende": {
+    "lemma": "intende",
+    "pos": "verb",
+    "meaning": "intende"
+  },
+  "intender": {
+    "lemma": "intender",
+    "pos": "noun",
+    "meaning": "intender"
+  },
+  "intermezzi": {
+    "lemma": "intermezzi",
+    "pos": "verb",
+    "meaning": "intermezzi"
+  },
+  "interne": {
+    "lemma": "interne",
+    "pos": "verb",
+    "meaning": "interne"
+  },
+  "interrompe": {
+    "lemma": "interrompe",
+    "pos": "verb",
+    "meaning": "interrompe"
+  },
+  "intesi": {
+    "lemma": "intesi",
+    "pos": "verb",
+    "meaning": "intesi"
+  },
+  "intesser": {
+    "lemma": "intesser",
+    "pos": "noun",
+    "meaning": "intesser"
+  },
+  "intirizzito": {
+    "lemma": "intirizzito",
+    "pos": "verb",
+    "meaning": "intirizzito"
+  },
+  "intopperà": {
+    "lemma": "intopperà",
+    "pos": "noun",
+    "meaning": "intopperà"
+  },
+  "intraprendenti": {
+    "lemma": "intraprendenti",
+    "pos": "verb",
+    "meaning": "intraprendenti"
+  },
+  "intrari": {
+    "lemma": "intrari",
+    "pos": "verb",
+    "meaning": "intrari"
+  },
+  "invano": {
+    "lemma": "invano",
+    "pos": "verb",
+    "meaning": "invano"
+  },
+  "invariabile": {
+    "lemma": "invariabile",
+    "pos": "verb",
+    "meaning": "invariabile"
+  },
+  "invece": {
+    "lemma": "invece",
+    "pos": "verb",
+    "meaning": "invece"
+  },
+  "inverni": {
+    "lemma": "inverni",
+    "pos": "verb",
+    "meaning": "inverni"
+  },
+  "involgi": {
+    "lemma": "involgi",
+    "pos": "verb",
+    "meaning": "involgi"
+  },
+  "ira": {
+    "lemma": "ira",
+    "pos": "verb",
+    "meaning": "ira"
+  },
+  "ire": {
+    "lemma": "ire",
+    "pos": "verb",
+    "meaning": "ire"
+  },
+  "irresistibile": {
+    "lemma": "irresistibile",
+    "pos": "verb",
+    "meaning": "irresistibile"
+  },
+  "ispira": {
+    "lemma": "ispira",
+    "pos": "verb",
+    "meaning": "ispira"
+  },
+  "istante": {
+    "lemma": "istante",
+    "pos": "verb",
+    "meaning": "istante"
+  },
+  "lacchè": {
+    "lemma": "lacchè",
+    "pos": "noun",
+    "meaning": "lacchè"
+  },
+  "laggiù": {
+    "lemma": "laggiù",
+    "pos": "noun",
+    "meaning": "laggiù"
+  },
+  "languente": {
+    "lemma": "languente",
+    "pos": "verb",
+    "meaning": "languente"
+  },
+  "largo": {
+    "lemma": "largo",
+    "pos": "verb",
+    "meaning": "largo"
+  },
+  "lascerem": {
+    "lemma": "lascerem",
+    "pos": "noun",
+    "meaning": "lascerem"
+  },
+  "lasceremo": {
+    "lemma": "lasceremo",
+    "pos": "verb",
+    "meaning": "lasceremo"
+  },
+  "lasciai": {
+    "lemma": "lasciai",
+    "pos": "verb",
+    "meaning": "lasciai"
+  },
+  "lasciali": {
+    "lemma": "lasciali",
+    "pos": "verb",
+    "meaning": "lasciali"
+  },
+  "lasciarci": {
+    "lemma": "lasciarci",
+    "pos": "verb",
+    "meaning": "lasciarci"
+  },
+  "lasciata": {
+    "lemma": "lasciare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "lasciato": {
+    "lemma": "lasciare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "latin": {
+    "lemma": "latin",
+    "pos": "noun",
+    "meaning": "latin"
+  },
+  "latino": {
+    "lemma": "latino",
+    "pos": "verb",
+    "meaning": "latino"
+  },
+  "latta": {
+    "lemma": "latta",
+    "pos": "verb",
+    "meaning": "latta"
+  },
+  "lavora": {
+    "lemma": "lavora",
+    "pos": "verb",
+    "meaning": "lavora"
+  },
+  "lavori": {
+    "lemma": "lavori",
+    "pos": "verb",
+    "meaning": "lavori"
+  },
+  "lavoriam": {
+    "lemma": "lavoriam",
+    "pos": "noun",
+    "meaning": "lavoriam"
+  },
+  "leccornie": {
+    "lemma": "leccornie",
+    "pos": "verb",
+    "meaning": "leccornie"
+  },
+  "legatemi": {
+    "lemma": "legatemi",
+    "pos": "verb",
+    "meaning": "legatemi"
+  },
+  "leggerlo": {
+    "lemma": "leggerlo",
+    "pos": "verb",
+    "meaning": "leggerlo"
+  },
+  "lettore": {
+    "lemma": "lettore",
+    "pos": "verb",
+    "meaning": "lettore"
+  },
+  "lettuccio": {
+    "lemma": "lettuccio",
+    "pos": "verb",
+    "meaning": "lettuccio"
+  },
+  "leva": {
+    "lemma": "leva",
+    "pos": "verb",
+    "meaning": "leva"
+  },
+  "levo": {
+    "lemma": "levo",
+    "pos": "verb",
+    "meaning": "levo"
+  },
+  "lezioni": {
+    "lemma": "lezioni",
+    "pos": "verb",
+    "meaning": "lezioni"
+  },
+  "libertà": {
+    "lemma": "libertà",
+    "pos": "noun",
+    "meaning": "libertà"
+  },
+  "libro": {
+    "lemma": "libro",
+    "pos": "verb",
+    "meaning": "libro"
+  },
+  "lieta": {
+    "lemma": "lieta",
+    "pos": "verb",
+    "meaning": "lieta"
+  },
+  "lieti": {
+    "lemma": "lieti",
+    "pos": "verb",
+    "meaning": "lieti"
+  },
+  "lippo": {
+    "lemma": "lippo",
+    "pos": "verb",
+    "meaning": "lippo"
+  },
+  "liquor": {
+    "lemma": "liquor",
+    "pos": "noun",
+    "meaning": "liquor"
+  },
+  "lisetta": {
+    "lemma": "lisetta",
+    "pos": "verb",
+    "meaning": "lisetta"
+  },
+  "livree": {
+    "lemma": "livree",
+    "pos": "verb",
+    "meaning": "livree"
+  },
+  "loco": {
+    "lemma": "loco",
+    "pos": "verb",
+    "meaning": "loco"
+  },
+  "logoro": {
+    "lemma": "logoro",
+    "pos": "verb",
+    "meaning": "logoro"
+  },
+  "lorito": {
+    "lemma": "lorito",
+    "pos": "verb",
+    "meaning": "lorito"
+  },
+  "luigi": {
+    "lemma": "luigi",
+    "pos": "verb",
+    "meaning": "luigi"
+  },
+  "lulù": {
+    "lemma": "lulù",
+    "pos": "noun",
+    "meaning": "lulù"
+  },
+  "lumaca": {
+    "lemma": "lumaca",
+    "pos": "verb",
+    "meaning": "lumaca"
+  },
+  "lunari": {
+    "lemma": "lunari",
+    "pos": "verb",
+    "meaning": "lunari"
+  },
+  "lunatico": {
+    "lemma": "lunatico",
+    "pos": "verb",
+    "meaning": "lunatico"
+  },
+  "luoghi": {
+    "lemma": "luoghi",
+    "pos": "verb",
+    "meaning": "luoghi"
+  },
+  "lusinghier": {
+    "lemma": "lusinghier",
+    "pos": "noun",
+    "meaning": "lusinghier"
+  },
+  "lutto": {
+    "lemma": "lutto",
+    "pos": "verb",
+    "meaning": "lutto"
+  },
+  "mabil": {
+    "lemma": "mabil",
+    "pos": "noun",
+    "meaning": "mabil"
+  },
+  "macrello": {
+    "lemma": "macrello",
+    "pos": "verb",
+    "meaning": "macrello"
+  },
+  "maestà": {
+    "lemma": "maestà",
+    "pos": "noun",
+    "meaning": "maestà"
+  },
+  "maggior": {
+    "lemma": "maggior",
+    "pos": "noun",
+    "meaning": "maggior"
+  },
+  "maggiore": {
+    "lemma": "maggiore",
+    "pos": "verb",
+    "meaning": "maggiore"
+  },
+  "magion": {
+    "lemma": "magion",
+    "pos": "noun",
+    "meaning": "magion"
+  },
+  "maglierie": {
+    "lemma": "maglierie",
+    "pos": "verb",
+    "meaning": "maglierie"
+  },
+  "magra": {
+    "lemma": "magra",
+    "pos": "verb",
+    "meaning": "magra"
+  },
+  "magre": {
+    "lemma": "magre",
+    "pos": "verb",
+    "meaning": "magre"
+  },
+  "maledetta": {
+    "lemma": "maledetta",
+    "pos": "verb",
+    "meaning": "maledetta"
+  },
+  "maledetto": {
+    "lemma": "maledetto",
+    "pos": "verb",
+    "meaning": "maledetto"
+  },
+  "malìa": {
+    "lemma": "malìa",
+    "pos": "verb",
+    "meaning": "malìa"
+  },
+  "mamma": {
+    "lemma": "mamma",
+    "pos": "verb",
+    "meaning": "mamma"
+  },
+  "manderesti": {
+    "lemma": "manderesti",
+    "pos": "verb",
+    "meaning": "manderesti"
+  },
+  "manderò": {
+    "lemma": "manderò",
+    "pos": "noun",
+    "meaning": "manderò"
+  },
+  "mandi": {
+    "lemma": "mandi",
+    "pos": "verb",
+    "meaning": "mandi"
+  },
+  "maneggia": {
+    "lemma": "maneggia",
+    "pos": "verb",
+    "meaning": "maneggia"
+  },
+  "mangia": {
+    "lemma": "mangia",
+    "pos": "verb",
+    "meaning": "mangia"
+  },
+  "mangiar": {
+    "lemma": "mangiar",
+    "pos": "noun",
+    "meaning": "mangiar"
+  },
+  "mangiarlo": {
+    "lemma": "mangiarlo",
+    "pos": "verb",
+    "meaning": "mangiarlo"
+  },
+  "mantengo": {
+    "lemma": "mantengo",
+    "pos": "verb",
+    "meaning": "mantengo"
+  },
+  "mantiglia": {
+    "lemma": "mantiglia",
+    "pos": "verb",
+    "meaning": "mantiglia"
+  },
+  "mappamondo": {
+    "lemma": "mappamondo",
+    "pos": "verb",
+    "meaning": "mappamondo"
+  },
+  "marcel": {
+    "lemma": "marcel",
+    "pos": "noun",
+    "meaning": "marcel"
+  },
+  "mare": {
+    "lemma": "mare",
+    "pos": "verb",
+    "meaning": "mare"
+  },
+  "maria": {
+    "lemma": "maria",
+    "pos": "verb",
+    "meaning": "maria"
+  },
+  "martella": {
+    "lemma": "martella",
+    "pos": "verb",
+    "meaning": "martella"
+  },
+  "matte": {
+    "lemma": "matte",
+    "pos": "verb",
+    "meaning": "matte"
+  },
+  "mattutino": {
+    "lemma": "mattutino",
+    "pos": "verb",
+    "meaning": "mattutino"
+  },
+  "mazzarino": {
+    "lemma": "mazzarino",
+    "pos": "verb",
+    "meaning": "mazzarino"
+  },
+  "medicina": {
+    "lemma": "medicina",
+    "pos": "verb",
+    "meaning": "medicina"
+  },
+  "medico": {
+    "lemma": "medico",
+    "pos": "verb",
+    "meaning": "medico"
+  },
+  "memori": {
+    "lemma": "memori",
+    "pos": "verb",
+    "meaning": "memori"
+  },
+  "mercato": {
+    "lemma": "mercare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "mese": {
+    "lemma": "mese",
+    "pos": "verb",
+    "meaning": "mese"
+  },
+  "messa": {
+    "lemma": "messa",
+    "pos": "verb",
+    "meaning": "messa"
+  },
+  "mestiere": {
+    "lemma": "mestiere",
+    "pos": "verb",
+    "meaning": "mestiere"
+  },
+  "metro": {
+    "lemma": "metro",
+    "pos": "verb",
+    "meaning": "metro"
+  },
+  "mettiamo": {
+    "lemma": "mettiamo",
+    "pos": "verb",
+    "meaning": "mettiamo"
+  },
+  "mettono": {
+    "lemma": "mettono",
+    "pos": "verb",
+    "meaning": "mettono"
+  },
+  "mezzodì": {
+    "lemma": "mezzodì",
+    "pos": "noun",
+    "meaning": "mezzodì"
+  },
+  "michele": {
+    "lemma": "michele",
+    "pos": "verb",
+    "meaning": "michele"
+  },
+  "miel": {
+    "lemma": "miel",
+    "pos": "noun",
+    "meaning": "miel"
+  },
+  "miele": {
+    "lemma": "miele",
+    "pos": "verb",
+    "meaning": "miele"
+  },
+  "milionaria": {
+    "lemma": "milionaria",
+    "pos": "verb",
+    "meaning": "milionaria"
+  },
+  "milionario": {
+    "lemma": "milionario",
+    "pos": "verb",
+    "meaning": "milionario"
+  },
+  "milord": {
+    "lemma": "milord",
+    "pos": "noun",
+    "meaning": "milord"
+  },
+  "minister": {
+    "lemma": "minister",
+    "pos": "noun",
+    "meaning": "minister"
+  },
+  "minuetto": {
+    "lemma": "minuetto",
+    "pos": "verb",
+    "meaning": "minuetto"
+  },
+  "minuti": {
+    "lemma": "minuti",
+    "pos": "verb",
+    "meaning": "minuti"
+  },
+  "mire": {
+    "lemma": "mire",
+    "pos": "verb",
+    "meaning": "mire"
+  },
+  "miseria": {
+    "lemma": "miseria",
+    "pos": "verb",
+    "meaning": "miseria"
+  },
+  "mister": {
+    "lemma": "mister",
+    "pos": "noun",
+    "meaning": "mister"
+  },
+  "mite": {
+    "lemma": "mite",
+    "pos": "verb",
+    "meaning": "mite"
+  },
+  "modi": {
+    "lemma": "modi",
+    "pos": "verb",
+    "meaning": "modi"
+  },
+  "modista": {
+    "lemma": "modista",
+    "pos": "verb",
+    "meaning": "modista"
+  },
+  "montata": {
+    "lemma": "montare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "morale": {
+    "lemma": "morale",
+    "pos": "verb",
+    "meaning": "morale"
+  },
+  "morbido": {
+    "lemma": "morbido",
+    "pos": "verb",
+    "meaning": "morbido"
+  },
+  "morì": {
+    "lemma": "morì",
+    "pos": "noun",
+    "meaning": "morì"
+  },
+  "moscardino": {
+    "lemma": "moscardino",
+    "pos": "verb",
+    "meaning": "moscardino"
+  },
+  "muove": {
+    "lemma": "muove",
+    "pos": "verb",
+    "meaning": "muove"
+  },
+  "musica": {
+    "lemma": "musica",
+    "pos": "verb",
+    "meaning": "musica"
+  },
+  "musicista": {
+    "lemma": "musicista",
+    "pos": "verb",
+    "meaning": "musicista"
+  },
+  "muta": {
+    "lemma": "muta",
+    "pos": "verb",
+    "meaning": "muta"
+  },
+  "mutato": {
+    "lemma": "mutare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "nappo": {
+    "lemma": "nappo",
+    "pos": "verb",
+    "meaning": "nappo"
+  },
+  "narrare": {
+    "lemma": "narrare",
+    "pos": "verb",
+    "meaning": "narrare"
+  },
+  "nascondo": {
+    "lemma": "nascondo",
+    "pos": "verb",
+    "meaning": "nascondo"
+  },
+  "natal": {
+    "lemma": "natal",
+    "pos": "noun",
+    "meaning": "natal"
+  },
+  "necessit": {
+    "lemma": "necessit",
+    "pos": "noun",
+    "meaning": "necessit"
+  },
+  "neghi": {
+    "lemma": "neghi",
+    "pos": "verb",
+    "meaning": "neghi"
+  },
+  "nere": {
+    "lemma": "nere",
+    "pos": "verb",
+    "meaning": "nere"
+  },
+  "nervoso": {
+    "lemma": "nervoso",
+    "pos": "verb",
+    "meaning": "nervoso"
+  },
+  "nidi": {
+    "lemma": "nidi",
+    "pos": "verb",
+    "meaning": "nidi"
+  },
+  "nimbo": {
+    "lemma": "nimbo",
+    "pos": "verb",
+    "meaning": "nimbo"
+  },
+  "niun": {
+    "lemma": "niun",
+    "pos": "noun",
+    "meaning": "niun"
+  },
+  "niuno": {
+    "lemma": "niuno",
+    "pos": "verb",
+    "meaning": "niuno"
+  },
+  "noioso": {
+    "lemma": "noioso",
+    "pos": "verb",
+    "meaning": "noioso"
+  },
+  "nomignoli": {
+    "lemma": "nomignoli",
+    "pos": "verb",
+    "meaning": "nomignoli"
+  },
+  "novizi": {
+    "lemma": "novizi",
+    "pos": "verb",
+    "meaning": "novizi"
+  },
+  "noè": {
+    "lemma": "noè",
+    "pos": "noun",
+    "meaning": "noè"
+  },
+  "nudi": {
+    "lemma": "nudi",
+    "pos": "verb",
+    "meaning": "nudi"
+  },
+  "obbedisco": {
+    "lemma": "obbedisco",
+    "pos": "verb",
+    "meaning": "obbedisco"
+  },
+  "occorre": {
+    "lemma": "occorre",
+    "pos": "verb",
+    "meaning": "occorre"
+  },
+  "occulte": {
+    "lemma": "occulte",
+    "pos": "verb",
+    "meaning": "occulte"
+  },
+  "occupato": {
+    "lemma": "occupare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "odio": {
+    "lemma": "odio",
+    "pos": "verb",
+    "meaning": "odio"
+  },
+  "odore": {
+    "lemma": "odore",
+    "pos": "verb",
+    "meaning": "odore"
+  },
+  "odorosi": {
+    "lemma": "odorosi",
+    "pos": "verb",
+    "meaning": "odorosi"
+  },
+  "offesa": {
+    "lemma": "offesa",
+    "pos": "verb",
+    "meaning": "offesa"
+  },
+  "offese": {
+    "lemma": "offese",
+    "pos": "verb",
+    "meaning": "offese"
+  },
+  "offeso": {
+    "lemma": "offeso",
+    "pos": "verb",
+    "meaning": "offeso"
+  },
+  "olezzo": {
+    "lemma": "olezzo",
+    "pos": "verb",
+    "meaning": "olezzo"
+  },
+  "oltraggia": {
+    "lemma": "oltraggia",
+    "pos": "verb",
+    "meaning": "oltraggia"
+  },
+  "oltraggio": {
+    "lemma": "oltraggio",
+    "pos": "verb",
+    "meaning": "oltraggio"
+  },
+  "oneste": {
+    "lemma": "oneste",
+    "pos": "verb",
+    "meaning": "oneste"
+  },
+  "onesti": {
+    "lemma": "onesti",
+    "pos": "verb",
+    "meaning": "onesti"
+  },
+  "onesto": {
+    "lemma": "onesto",
+    "pos": "verb",
+    "meaning": "onesto"
+  },
+  "opposta": {
+    "lemma": "opposta",
+    "pos": "verb",
+    "meaning": "opposta"
+  },
+  "orazio": {
+    "lemma": "orazio",
+    "pos": "verb",
+    "meaning": "orazio"
+  },
+  "ordinario": {
+    "lemma": "ordinario",
+    "pos": "verb",
+    "meaning": "ordinario"
+  },
+  "ordino": {
+    "lemma": "ordino",
+    "pos": "verb",
+    "meaning": "ordino"
+  },
+  "ornamenti": {
+    "lemma": "ornamenti",
+    "pos": "verb",
+    "meaning": "ornamenti"
+  },
+  "orso": {
+    "lemma": "orso",
+    "pos": "verb",
+    "meaning": "orso"
+  },
+  "oscuri": {
+    "lemma": "oscuri",
+    "pos": "verb",
+    "meaning": "oscuri"
+  },
+  "oso": {
+    "lemma": "oso",
+    "pos": "verb",
+    "meaning": "oso"
+  },
+  "ospizio": {
+    "lemma": "ospizio",
+    "pos": "verb",
+    "meaning": "ospizio"
+  },
+  "osservando": {
+    "lemma": "osservare",
+    "pos": "verb",
+    "meaning": "verb gerund (-ing)"
+  },
+  "ottima": {
+    "lemma": "ottima",
+    "pos": "verb",
+    "meaning": "ottima"
+  },
+  "ov'è": {
+    "lemma": "ov'è",
+    "pos": "noun",
+    "meaning": "ov'è"
+  },
+  "ovazioni": {
+    "lemma": "ovazioni",
+    "pos": "verb",
+    "meaning": "ovazioni"
+  },
+  "ozio": {
+    "lemma": "ozio",
+    "pos": "verb",
+    "meaning": "ozio"
+  },
+  "palato": {
+    "lemma": "palare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "palesi": {
+    "lemma": "palesi",
+    "pos": "verb",
+    "meaning": "palesi"
+  },
+  "palloncini": {
+    "lemma": "palloncini",
+    "pos": "verb",
+    "meaning": "palloncini"
+  },
+  "pan": {
+    "lemma": "pan",
+    "pos": "noun",
+    "meaning": "pan"
+  },
+  "pappagallo": {
+    "lemma": "pappagallo",
+    "pos": "verb",
+    "meaning": "pappagallo"
+  },
+  "pappo": {
+    "lemma": "pappo",
+    "pos": "verb",
+    "meaning": "pappo"
+  },
+  "papà": {
+    "lemma": "papà",
+    "pos": "noun",
+    "meaning": "papà"
+  },
+  "pari": {
+    "lemma": "pari",
+    "pos": "verb",
+    "meaning": "pari"
+  },
+  "pariglia": {
+    "lemma": "pariglia",
+    "pos": "verb",
+    "meaning": "pariglia"
+  },
+  "parlandosi": {
+    "lemma": "parlandosi",
+    "pos": "verb",
+    "meaning": "parlandosi"
+  },
+  "parlargli": {
+    "lemma": "parlargli",
+    "pos": "verb",
+    "meaning": "parlargli"
+  },
+  "parranno": {
+    "lemma": "parranno",
+    "pos": "verb",
+    "meaning": "parranno"
+  },
+  "partendo": {
+    "lemma": "partare",
+    "pos": "verb",
+    "meaning": "verb gerund (-ing)"
+  },
+  "partiam": {
+    "lemma": "partiam",
+    "pos": "noun",
+    "meaning": "partiam"
+  },
+  "partiamo": {
+    "lemma": "partiamo",
+    "pos": "verb",
+    "meaning": "partiamo"
+  },
+  "parve": {
+    "lemma": "parve",
+    "pos": "verb",
+    "meaning": "parve"
+  },
+  "pass": {
+    "lemma": "pass",
+    "pos": "noun",
+    "meaning": "pass"
+  },
+  "passano": {
+    "lemma": "passano",
+    "pos": "verb",
+    "meaning": "passano"
+  },
+  "passatemi": {
+    "lemma": "passatemi",
+    "pos": "verb",
+    "meaning": "passatemi"
+  },
+  "passato": {
+    "lemma": "passare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "passeggeri": {
+    "lemma": "passeggeri",
+    "pos": "verb",
+    "meaning": "passeggeri"
+  },
+  "passeri": {
+    "lemma": "passeri",
+    "pos": "verb",
+    "meaning": "passeri"
+  },
+  "pasticcio": {
+    "lemma": "pasticcio",
+    "pos": "verb",
+    "meaning": "pasticcio"
+  },
+  "patria": {
+    "lemma": "patria",
+    "pos": "verb",
+    "meaning": "patria"
+  },
+  "pavanella": {
+    "lemma": "pavanella",
+    "pos": "verb",
+    "meaning": "pavanella"
+  },
+  "pegni": {
+    "lemma": "pegni",
+    "pos": "verb",
+    "meaning": "pegni"
+  },
+  "pei": {
+    "lemma": "pei",
+    "pos": "verb",
+    "meaning": "pei"
+  },
+  "pellican": {
+    "lemma": "pellican",
+    "pos": "noun",
+    "meaning": "pellican"
+  },
+  "permesso": {
+    "lemma": "permesso",
+    "pos": "verb",
+    "meaning": "permesso"
+  },
+  "permetta": {
+    "lemma": "permetta",
+    "pos": "verb",
+    "meaning": "permetta"
+  },
+  "persona": {
+    "lemma": "persona",
+    "pos": "verb",
+    "meaning": "persona"
+  },
+  "pesto": {
+    "lemma": "pesto",
+    "pos": "verb",
+    "meaning": "pesto"
+  },
+  "pettorillo": {
+    "lemma": "pettorillo",
+    "pos": "verb",
+    "meaning": "pettorillo"
+  },
+  "pettoruto": {
+    "lemma": "pettoruto",
+    "pos": "verb",
+    "meaning": "pettoruto"
+  },
+  "pezzi": {
+    "lemma": "pezzi",
+    "pos": "verb",
+    "meaning": "pezzi"
+  },
+  "piaccia": {
+    "lemma": "piaccia",
+    "pos": "verb",
+    "meaning": "piaccia"
+  },
+  "piaccion": {
+    "lemma": "piaccion",
+    "pos": "noun",
+    "meaning": "piaccion"
+  },
+  "piaccionmi": {
+    "lemma": "piaccionmi",
+    "pos": "verb",
+    "meaning": "piaccionmi"
+  },
+  "piace": {
+    "lemma": "piace",
+    "pos": "verb",
+    "meaning": "piace"
+  },
+  "piacere": {
+    "lemma": "piacere",
+    "pos": "verb",
+    "meaning": "piacere"
+  },
+  "pian": {
+    "lemma": "pian",
+    "pos": "noun",
+    "meaning": "pian"
+  },
+  "piangente": {
+    "lemma": "piangente",
+    "pos": "verb",
+    "meaning": "piangente"
+  },
+  "picchiar": {
+    "lemma": "picchiar",
+    "pos": "noun",
+    "meaning": "picchiar"
+  },
+  "piccina": {
+    "lemma": "piccina",
+    "pos": "verb",
+    "meaning": "piccina"
+  },
+  "pie'": {
+    "lemma": "pie'",
+    "pos": "noun",
+    "meaning": "pie'"
+  },
+  "piena": {
+    "lemma": "piena",
+    "pos": "verb",
+    "meaning": "piena"
+  },
+  "pieno": {
+    "lemma": "pieno",
+    "pos": "verb",
+    "meaning": "pieno"
+  },
+  "pigliam": {
+    "lemma": "pigliam",
+    "pos": "noun",
+    "meaning": "pigliam"
+  },
+  "pigro": {
+    "lemma": "pigro",
+    "pos": "verb",
+    "meaning": "pigro"
+  },
+  "pingere": {
+    "lemma": "pingere",
+    "pos": "verb",
+    "meaning": "pingere"
+  },
+  "pingo": {
+    "lemma": "pingo",
+    "pos": "verb",
+    "meaning": "pingo"
+  },
+  "piombato": {
+    "lemma": "piombare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "piovesse": {
+    "lemma": "piovesse",
+    "pos": "verb",
+    "meaning": "piovesse"
+  },
+  "pipa": {
+    "lemma": "pipa",
+    "pos": "verb",
+    "meaning": "pipa"
+  },
+  "pittor": {
+    "lemma": "pittor",
+    "pos": "noun",
+    "meaning": "pittor"
+  },
+  "pittore": {
+    "lemma": "pittore",
+    "pos": "verb",
+    "meaning": "pittore"
+  },
+  "pizzi": {
+    "lemma": "pizzi",
+    "pos": "verb",
+    "meaning": "pizzi"
+  },
+  "platano": {
+    "lemma": "platano",
+    "pos": "verb",
+    "meaning": "platano"
+  },
+  "po'": {
+    "lemma": "po'",
+    "pos": "noun",
+    "meaning": "po'"
+  },
+  "poema": {
+    "lemma": "poema",
+    "pos": "verb",
+    "meaning": "poema"
+  },
+  "poesie": {
+    "lemma": "poesie",
+    "pos": "verb",
+    "meaning": "poesie"
+  },
+  "poeti": {
+    "lemma": "poeti",
+    "pos": "verb",
+    "meaning": "poeti"
+  },
+  "poetucolo": {
+    "lemma": "poetucolo",
+    "pos": "verb",
+    "meaning": "poetucolo"
+  },
+  "poiché": {
+    "lemma": "poiché",
+    "pos": "noun",
+    "meaning": "poiché"
+  },
+  "pollo": {
+    "lemma": "pollo",
+    "pos": "verb",
+    "meaning": "pollo"
+  },
+  "pomposo": {
+    "lemma": "pomposo",
+    "pos": "verb",
+    "meaning": "pomposo"
+  },
+  "popolare": {
+    "lemma": "popolare",
+    "pos": "verb",
+    "meaning": "popolare"
+  },
+  "porgimi": {
+    "lemma": "porgimi",
+    "pos": "verb",
+    "meaning": "porgimi"
+  },
+  "portando": {
+    "lemma": "portare",
+    "pos": "verb",
+    "meaning": "verb gerund (-ing)"
+  },
+  "portata": {
+    "lemma": "portare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "portier": {
+    "lemma": "portier",
+    "pos": "noun",
+    "meaning": "portier"
+  },
+  "portiere": {
+    "lemma": "portiere",
+    "pos": "verb",
+    "meaning": "portiere"
+  },
+  "porvi": {
+    "lemma": "porvi",
+    "pos": "verb",
+    "meaning": "porvi"
+  },
+  "posti": {
+    "lemma": "posti",
+    "pos": "verb",
+    "meaning": "posti"
+  },
+  "potendo": {
+    "lemma": "potare",
+    "pos": "verb",
+    "meaning": "verb gerund (-ing)"
+  },
+  "potenti": {
+    "lemma": "potenti",
+    "pos": "verb",
+    "meaning": "potenti"
+  },
+  "potessi": {
+    "lemma": "potessi",
+    "pos": "verb",
+    "meaning": "potessi"
+  },
+  "potranno": {
+    "lemma": "potranno",
+    "pos": "verb",
+    "meaning": "potranno"
+  },
+  "povertà": {
+    "lemma": "povertà",
+    "pos": "noun",
+    "meaning": "povertà"
+  },
+  "pranzare": {
+    "lemma": "pranzare",
+    "pos": "verb",
+    "meaning": "pranzare"
+  },
+  "pranzi": {
+    "lemma": "pranzi",
+    "pos": "verb",
+    "meaning": "pranzi"
+  },
+  "pranzo": {
+    "lemma": "pranzo",
+    "pos": "verb",
+    "meaning": "pranzo"
+  },
+  "precede": {
+    "lemma": "precede",
+    "pos": "verb",
+    "meaning": "precede"
+  },
+  "preda": {
+    "lemma": "preda",
+    "pos": "verb",
+    "meaning": "preda"
+  },
+  "preghiere": {
+    "lemma": "preghiere",
+    "pos": "verb",
+    "meaning": "preghiere"
+  },
+  "pregio": {
+    "lemma": "pregio",
+    "pos": "verb",
+    "meaning": "pregio"
+  },
+  "pregiudizi": {
+    "lemma": "pregiudizi",
+    "pos": "verb",
+    "meaning": "pregiudizi"
+  },
+  "prelibata": {
+    "lemma": "prelibare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "prelibato": {
+    "lemma": "prelibare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "prendevi": {
+    "lemma": "prendevi",
+    "pos": "verb",
+    "meaning": "prendevi"
+  },
+  "prenditi": {
+    "lemma": "prenditi",
+    "pos": "verb",
+    "meaning": "prenditi"
+  },
+  "presenta": {
+    "lemma": "presenta",
+    "pos": "verb",
+    "meaning": "presenta"
+  },
+  "presento": {
+    "lemma": "presento",
+    "pos": "verb",
+    "meaning": "presento"
+  },
+  "pretensione": {
+    "lemma": "pretensione",
+    "pos": "verb",
+    "meaning": "pretensione"
+  },
+  "pretesto": {
+    "lemma": "pretesto",
+    "pos": "verb",
+    "meaning": "pretesto"
+  },
+  "prezzemolo": {
+    "lemma": "prezzemolo",
+    "pos": "verb",
+    "meaning": "prezzemolo"
+  },
+  "primavere": {
+    "lemma": "primavere",
+    "pos": "verb",
+    "meaning": "primavere"
+  },
+  "prime": {
+    "lemma": "prime",
+    "pos": "verb",
+    "meaning": "prime"
+  },
+  "procace": {
+    "lemma": "procace",
+    "pos": "verb",
+    "meaning": "procace"
+  },
+  "profano": {
+    "lemma": "profano",
+    "pos": "verb",
+    "meaning": "profano"
+  },
+  "professore": {
+    "lemma": "professore",
+    "pos": "verb",
+    "meaning": "professore"
+  },
+  "profonda": {
+    "lemma": "profonda",
+    "pos": "verb",
+    "meaning": "profonda"
+  },
+  "profondo": {
+    "lemma": "profondo",
+    "pos": "verb",
+    "meaning": "profondo"
+  },
+  "profumo": {
+    "lemma": "profumo",
+    "pos": "verb",
+    "meaning": "profumo"
+  },
+  "promettente": {
+    "lemma": "promettente",
+    "pos": "verb",
+    "meaning": "promettente"
+  },
+  "promise": {
+    "lemma": "promise",
+    "pos": "verb",
+    "meaning": "promise"
+  },
+  "promisi": {
+    "lemma": "promisi",
+    "pos": "verb",
+    "meaning": "promisi"
+  },
+  "pronta": {
+    "lemma": "pronta",
+    "pos": "verb",
+    "meaning": "pronta"
+  },
+  "pronti": {
+    "lemma": "pronti",
+    "pos": "verb",
+    "meaning": "pronti"
+  },
+  "propinai": {
+    "lemma": "propinai",
+    "pos": "verb",
+    "meaning": "propinai"
+  },
+  "propongo": {
+    "lemma": "propongo",
+    "pos": "verb",
+    "meaning": "propongo"
+  },
+  "proprio": {
+    "lemma": "proprio",
+    "pos": "verb",
+    "meaning": "proprio"
+  },
+  "provar": {
+    "lemma": "provar",
+    "pos": "noun",
+    "meaning": "provar"
+  },
+  "provato": {
+    "lemma": "provare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "provocante": {
+    "lemma": "provocante",
+    "pos": "verb",
+    "meaning": "provocante"
+  },
+  "provviste": {
+    "lemma": "provviste",
+    "pos": "verb",
+    "meaning": "provviste"
+  },
+  "prugne": {
+    "lemma": "prugne",
+    "pos": "verb",
+    "meaning": "prugne"
+  },
+  "puccini": {
+    "lemma": "puccini",
+    "pos": "verb",
+    "meaning": "puccini"
+  },
+  "pungenti": {
+    "lemma": "pungenti",
+    "pos": "verb",
+    "meaning": "pungenti"
+  },
+  "puzza": {
+    "lemma": "puzza",
+    "pos": "verb",
+    "meaning": "puzza"
+  },
+  "quadriglia": {
+    "lemma": "quadriglia",
+    "pos": "verb",
+    "meaning": "quadriglia"
+  },
+  "qual'è": {
+    "lemma": "qual'è",
+    "pos": "noun",
+    "meaning": "qual'è"
+  },
+  "quant'anni": {
+    "lemma": "quant'anni",
+    "pos": "verb",
+    "meaning": "quant'anni"
+  },
+  "quanto": {
+    "lemma": "quanto",
+    "pos": "verb",
+    "meaning": "quanto"
+  },
+  "quartier": {
+    "lemma": "quartier",
+    "pos": "noun",
+    "meaning": "quartier"
+  },
+  "quartiere": {
+    "lemma": "quartiere",
+    "pos": "verb",
+    "meaning": "quartiere"
+  },
+  "quasi": {
+    "lemma": "quasi",
+    "pos": "verb",
+    "meaning": "quasi"
+  },
+  "quindi": {
+    "lemma": "quindi",
+    "pos": "verb",
+    "meaning": "quindi"
+  },
+  "rabbuffi": {
+    "lemma": "rabbuffi",
+    "pos": "verb",
+    "meaning": "rabbuffi"
+  },
+  "raccatta": {
+    "lemma": "raccatta",
+    "pos": "verb",
+    "meaning": "raccatta"
+  },
+  "raccontare": {
+    "lemma": "raccontare",
+    "pos": "verb",
+    "meaning": "raccontare"
+  },
+  "raduna": {
+    "lemma": "raduna",
+    "pos": "verb",
+    "meaning": "raduna"
+  },
+  "raffronto": {
+    "lemma": "raffronto",
+    "pos": "verb",
+    "meaning": "raffronto"
+  },
+  "ragazze": {
+    "lemma": "ragazze",
+    "pos": "verb",
+    "meaning": "ragazze"
+  },
+  "ragù": {
+    "lemma": "ragù",
+    "pos": "noun",
+    "meaning": "ragù"
+  },
+  "rammento": {
+    "lemma": "rammento",
+    "pos": "verb",
+    "meaning": "rammento"
+  },
+  "rancor": {
+    "lemma": "rancor",
+    "pos": "noun",
+    "meaning": "rancor"
+  },
+  "rapida": {
+    "lemma": "rapida",
+    "pos": "verb",
+    "meaning": "rapida"
+  },
+  "rapidità": {
+    "lemma": "rapidità",
+    "pos": "noun",
+    "meaning": "rapidità"
+  },
+  "rara": {
+    "lemma": "rara",
+    "pos": "verb",
+    "meaning": "rara"
+  },
+  "rari": {
+    "lemma": "rari",
+    "pos": "verb",
+    "meaning": "rari"
+  },
+  "rasoio": {
+    "lemma": "rasoio",
+    "pos": "verb",
+    "meaning": "rasoio"
+  },
+  "ratafià": {
+    "lemma": "ratafià",
+    "pos": "noun",
+    "meaning": "ratafià"
+  },
+  "ravviati": {
+    "lemma": "ravviare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "ravviso": {
+    "lemma": "ravviso",
+    "pos": "verb",
+    "meaning": "ravviso"
+  },
+  "ravviva": {
+    "lemma": "ravviva",
+    "pos": "verb",
+    "meaning": "ravviva"
+  },
+  "razza": {
+    "lemma": "razza",
+    "pos": "verb",
+    "meaning": "razza"
+  },
+  "reggo": {
+    "lemma": "reggo",
+    "pos": "verb",
+    "meaning": "reggo"
+  },
+  "religione": {
+    "lemma": "religione",
+    "pos": "verb",
+    "meaning": "religione"
+  },
+  "rendite": {
+    "lemma": "rendite",
+    "pos": "verb",
+    "meaning": "rendite"
+  },
+  "reno": {
+    "lemma": "reno",
+    "pos": "verb",
+    "meaning": "reno"
+  },
+  "reprobo": {
+    "lemma": "reprobo",
+    "pos": "verb",
+    "meaning": "reprobo"
+  },
+  "respir": {
+    "lemma": "respir",
+    "pos": "noun",
+    "meaning": "respir"
+  },
+  "resse": {
+    "lemma": "resse",
+    "pos": "verb",
+    "meaning": "resse"
+  },
+  "restar": {
+    "lemma": "restar",
+    "pos": "noun",
+    "meaning": "restar"
+  },
+  "restare": {
+    "lemma": "restare",
+    "pos": "verb",
+    "meaning": "restare"
+  },
+  "resti": {
+    "lemma": "resti",
+    "pos": "verb",
+    "meaning": "resti"
+  },
+  "retta": {
+    "lemma": "retta",
+    "pos": "verb",
+    "meaning": "retta"
+  },
+  "ricamata": {
+    "lemma": "ricamare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "ricchi": {
+    "lemma": "ricchi",
+    "pos": "verb",
+    "meaning": "ricchi"
+  },
+  "ricciuto": {
+    "lemma": "ricciuto",
+    "pos": "verb",
+    "meaning": "ricciuto"
+  },
+  "ricerca": {
+    "lemma": "ricerca",
+    "pos": "verb",
+    "meaning": "ricerca"
+  },
+  "riceve": {
+    "lemma": "riceve",
+    "pos": "verb",
+    "meaning": "riceve"
+  },
+  "ricevi": {
+    "lemma": "ricevi",
+    "pos": "verb",
+    "meaning": "ricevi"
+  },
+  "richiamarla": {
+    "lemma": "richiamarla",
+    "pos": "verb",
+    "meaning": "richiamarla"
+  },
+  "richiesto": {
+    "lemma": "richiesto",
+    "pos": "verb",
+    "meaning": "richiesto"
+  },
+  "riconoscere": {
+    "lemma": "riconoscere",
+    "pos": "verb",
+    "meaning": "riconoscere"
+  },
+  "ricordo": {
+    "lemma": "ricordo",
+    "pos": "verb",
+    "meaning": "ricordo"
+  },
+  "riesce": {
+    "lemma": "riesce",
+    "pos": "verb",
+    "meaning": "riesce"
+  },
+  "rifritto": {
+    "lemma": "rifritto",
+    "pos": "verb",
+    "meaning": "rifritto"
+  },
+  "rifuggi": {
+    "lemma": "rifuggi",
+    "pos": "verb",
+    "meaning": "rifuggi"
+  },
+  "riga": {
+    "lemma": "riga",
+    "pos": "verb",
+    "meaning": "riga"
+  },
+  "righe": {
+    "lemma": "righe",
+    "pos": "verb",
+    "meaning": "righe"
+  },
+  "rigodone": {
+    "lemma": "rigodone",
+    "pos": "verb",
+    "meaning": "rigodone"
+  },
+  "rimanendo": {
+    "lemma": "rimanare",
+    "pos": "verb",
+    "meaning": "verb gerund (-ing)"
+  },
+  "rimangon": {
+    "lemma": "rimangon",
+    "pos": "noun",
+    "meaning": "rimangon"
+  },
+  "rimavo": {
+    "lemma": "rimavo",
+    "pos": "verb",
+    "meaning": "rimavo"
+  },
+  "rime": {
+    "lemma": "rime",
+    "pos": "verb",
+    "meaning": "rime"
+  },
+  "rimorso": {
+    "lemma": "rimorso",
+    "pos": "verb",
+    "meaning": "rimorso"
+  },
+  "rinasce": {
+    "lemma": "rinasce",
+    "pos": "verb",
+    "meaning": "rinasce"
+  },
+  "rincasate": {
+    "lemma": "rincasare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "ringhiera": {
+    "lemma": "ringhiera",
+    "pos": "verb",
+    "meaning": "ringhiera"
+  },
+  "rinnovare": {
+    "lemma": "rinnovare",
+    "pos": "verb",
+    "meaning": "rinnovare"
+  },
+  "ripago": {
+    "lemma": "ripago",
+    "pos": "verb",
+    "meaning": "ripago"
+  },
+  "ripararsi": {
+    "lemma": "ripararsi",
+    "pos": "verb",
+    "meaning": "ripararsi"
+  },
+  "riparo": {
+    "lemma": "riparo",
+    "pos": "verb",
+    "meaning": "riparo"
+  },
+  "riporta": {
+    "lemma": "riporta",
+    "pos": "verb",
+    "meaning": "riporta"
+  },
+  "riposa": {
+    "lemma": "riposa",
+    "pos": "verb",
+    "meaning": "riposa"
+  },
+  "riscalda": {
+    "lemma": "riscalda",
+    "pos": "verb",
+    "meaning": "riscalda"
+  },
+  "riscaldare": {
+    "lemma": "riscaldare",
+    "pos": "verb",
+    "meaning": "riscaldare"
+  },
+  "riscaldiamo": {
+    "lemma": "riscaldiamo",
+    "pos": "verb",
+    "meaning": "riscaldiamo"
+  },
+  "risorge": {
+    "lemma": "risorge",
+    "pos": "verb",
+    "meaning": "risorge"
+  },
+  "risorto": {
+    "lemma": "risorto",
+    "pos": "verb",
+    "meaning": "risorto"
+  },
+  "rispetti": {
+    "lemma": "rispetti",
+    "pos": "verb",
+    "meaning": "rispetti"
+  },
+  "rispondere": {
+    "lemma": "rispondere",
+    "pos": "verb",
+    "meaning": "rispondere"
+  },
+  "rispondergli": {
+    "lemma": "rispondergli",
+    "pos": "verb",
+    "meaning": "rispondergli"
+  },
+  "rispondeva": {
+    "lemma": "rispondeva",
+    "pos": "verb",
+    "meaning": "rispondeva"
+  },
+  "ritira": {
+    "lemma": "ritira",
+    "pos": "verb",
+    "meaning": "ritira"
+  },
+  "ritorno": {
+    "lemma": "ritorno",
+    "pos": "verb",
+    "meaning": "ritorno"
+  },
+  "ritrovi": {
+    "lemma": "ritrovi",
+    "pos": "verb",
+    "meaning": "ritrovi"
+  },
+  "rivoli": {
+    "lemma": "rivoli",
+    "pos": "verb",
+    "meaning": "rivoli"
+  },
+  "rizza": {
+    "lemma": "rizza",
+    "pos": "verb",
+    "meaning": "rizza"
+  },
+  "robe": {
+    "lemma": "robe",
+    "pos": "verb",
+    "meaning": "robe"
+  },
+  "robusto": {
+    "lemma": "robusto",
+    "pos": "verb",
+    "meaning": "robusto"
+  },
+  "roco": {
+    "lemma": "roco",
+    "pos": "verb",
+    "meaning": "roco"
+  },
+  "romanza": {
+    "lemma": "romanza",
+    "pos": "verb",
+    "meaning": "romanza"
+  },
+  "rompi": {
+    "lemma": "rompi",
+    "pos": "verb",
+    "meaning": "rompi"
+  },
+  "rompono": {
+    "lemma": "rompono",
+    "pos": "verb",
+    "meaning": "rompono"
+  },
+  "rondine": {
+    "lemma": "rondine",
+    "pos": "verb",
+    "meaning": "rondine"
+  },
+  "rondò": {
+    "lemma": "rondò",
+    "pos": "noun",
+    "meaning": "rondò"
+  },
+  "rospo": {
+    "lemma": "rospo",
+    "pos": "verb",
+    "meaning": "rospo"
+  },
+  "rosse": {
+    "lemma": "rosse",
+    "pos": "verb",
+    "meaning": "rosse"
+  },
+  "rosso": {
+    "lemma": "rosso",
+    "pos": "verb",
+    "meaning": "rosso"
+  },
+  "rossor": {
+    "lemma": "rossor",
+    "pos": "noun",
+    "meaning": "rossor"
+  },
+  "rovello": {
+    "lemma": "rovello",
+    "pos": "verb",
+    "meaning": "rovello"
+  },
+  "ruban": {
+    "lemma": "ruban",
+    "pos": "noun",
+    "meaning": "ruban"
+  },
+  "rullio": {
+    "lemma": "rullio",
+    "pos": "verb",
+    "meaning": "rullio"
+  },
+  "rumore": {
+    "lemma": "rumore",
+    "pos": "verb",
+    "meaning": "rumore"
+  },
+  "runica": {
+    "lemma": "runica",
+    "pos": "verb",
+    "meaning": "runica"
+  },
+  "sacrifichiam": {
+    "lemma": "sacrifichiam",
+    "pos": "noun",
+    "meaning": "sacrifichiam"
+  },
+  "sacro": {
+    "lemma": "sacro",
+    "pos": "verb",
+    "meaning": "sacro"
+  },
+  "salame": {
+    "lemma": "salame",
+    "pos": "verb",
+    "meaning": "salame"
+  },
+  "salata": {
+    "lemma": "salare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "salmeria": {
+    "lemma": "salmeria",
+    "pos": "verb",
+    "meaning": "salmeria"
+  },
+  "salmone": {
+    "lemma": "salmone",
+    "pos": "verb",
+    "meaning": "salmone"
+  },
+  "salsicce": {
+    "lemma": "salsicce",
+    "pos": "verb",
+    "meaning": "salsicce"
+  },
+  "saltano": {
+    "lemma": "saltano",
+    "pos": "verb",
+    "meaning": "saltano"
+  },
+  "saltellando": {
+    "lemma": "saltellare",
+    "pos": "verb",
+    "meaning": "verb gerund (-ing)"
+  },
+  "salutò": {
+    "lemma": "salutò",
+    "pos": "noun",
+    "meaning": "salutò"
+  },
+  "sangue": {
+    "lemma": "sangue",
+    "pos": "verb",
+    "meaning": "sangue"
+  },
+  "sanguinario": {
+    "lemma": "sanguinario",
+    "pos": "verb",
+    "meaning": "sanguinario"
+  },
+  "santa": {
+    "lemma": "santa",
+    "pos": "verb",
+    "meaning": "santa"
+  },
+  "sappi": {
+    "lemma": "sappi",
+    "pos": "verb",
+    "meaning": "sappi"
+  },
+  "saprei": {
+    "lemma": "saprei",
+    "pos": "verb",
+    "meaning": "saprei"
+  },
+  "sbagliato": {
+    "lemma": "sbagliare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "sbilancia": {
+    "lemma": "sbilancia",
+    "pos": "verb",
+    "meaning": "sbilancia"
+  },
+  "sboccia": {
+    "lemma": "sboccia",
+    "pos": "verb",
+    "meaning": "sboccia"
+  },
+  "sbocciano": {
+    "lemma": "sbocciano",
+    "pos": "verb",
+    "meaning": "sbocciano"
+  },
+  "sbucare": {
+    "lemma": "sbucare",
+    "pos": "verb",
+    "meaning": "sbucare"
+  },
+  "sbudella": {
+    "lemma": "sbudella",
+    "pos": "verb",
+    "meaning": "sbudella"
+  },
+  "scaccia": {
+    "lemma": "scaccia",
+    "pos": "verb",
+    "meaning": "scaccia"
+  },
+  "scala": {
+    "lemma": "scala",
+    "pos": "verb",
+    "meaning": "scala"
+  },
+  "scaldi": {
+    "lemma": "scaldi",
+    "pos": "verb",
+    "meaning": "scaldi"
+  },
+  "scappellotti": {
+    "lemma": "scappellotti",
+    "pos": "verb",
+    "meaning": "scappellotti"
+  },
+  "scartafaccio": {
+    "lemma": "scartafaccio",
+    "pos": "verb",
+    "meaning": "scartafaccio"
+  },
+  "scelga": {
+    "lemma": "scelga",
+    "pos": "verb",
+    "meaning": "scelga"
+  },
+  "scene": {
+    "lemma": "scene",
+    "pos": "verb",
+    "meaning": "scene"
+  },
+  "scese": {
+    "lemma": "scese",
+    "pos": "verb",
+    "meaning": "scese"
+  },
+  "scialo": {
+    "lemma": "scialo",
+    "pos": "verb",
+    "meaning": "scialo"
+  },
+  "sciampagna": {
+    "lemma": "sciampagna",
+    "pos": "verb",
+    "meaning": "sciampagna"
+  },
+  "scienza": {
+    "lemma": "scienza",
+    "pos": "verb",
+    "meaning": "scienza"
+  },
+  "scintillante": {
+    "lemma": "scintillante",
+    "pos": "verb",
+    "meaning": "scintillante"
+  },
+  "sciocche": {
+    "lemma": "sciocche",
+    "pos": "verb",
+    "meaning": "sciocche"
+  },
+  "sciogli": {
+    "lemma": "sciogli",
+    "pos": "verb",
+    "meaning": "sciogli"
+  },
+  "sciupa": {
+    "lemma": "sciupa",
+    "pos": "verb",
+    "meaning": "sciupa"
+  },
+  "scomparsa": {
+    "lemma": "scomparsa",
+    "pos": "verb",
+    "meaning": "scomparsa"
+  },
+  "sconce": {
+    "lemma": "sconce",
+    "pos": "verb",
+    "meaning": "sconce"
+  },
+  "scoppietta": {
+    "lemma": "scoppietta",
+    "pos": "verb",
+    "meaning": "scoppietta"
+  },
+  "scopre": {
+    "lemma": "scopre",
+    "pos": "verb",
+    "meaning": "scopre"
+  },
+  "scorso": {
+    "lemma": "scorso",
+    "pos": "verb",
+    "meaning": "scorso"
+  },
+  "scranna": {
+    "lemma": "scranna",
+    "pos": "verb",
+    "meaning": "scranna"
+  },
+  "scricchiola": {
+    "lemma": "scricchiola",
+    "pos": "verb",
+    "meaning": "scricchiola"
+  },
+  "scrivere": {
+    "lemma": "scrivere",
+    "pos": "verb",
+    "meaning": "scrivere"
+  },
+  "scuote": {
+    "lemma": "scuote",
+    "pos": "verb",
+    "meaning": "scuote"
+  },
+  "scusi": {
+    "lemma": "scusi",
+    "pos": "verb",
+    "meaning": "scusi"
+  },
+  "seccar": {
+    "lemma": "seccar",
+    "pos": "noun",
+    "meaning": "seccar"
+  },
+  "secol": {
+    "lemma": "secol",
+    "pos": "noun",
+    "meaning": "secol"
+  },
+  "sedere": {
+    "lemma": "sedere",
+    "pos": "verb",
+    "meaning": "sedere"
+  },
+  "sedersi": {
+    "lemma": "sedersi",
+    "pos": "verb",
+    "meaning": "sedersi"
+  },
+  "seduti": {
+    "lemma": "seduti",
+    "pos": "verb",
+    "meaning": "seduti"
+  },
+  "seduto": {
+    "lemma": "seduto",
+    "pos": "verb",
+    "meaning": "seduto"
+  },
+  "segga": {
+    "lemma": "segga",
+    "pos": "verb",
+    "meaning": "segga"
+  },
+  "seggiola": {
+    "lemma": "seggiola",
+    "pos": "verb",
+    "meaning": "seggiola"
+  },
+  "seggiole": {
+    "lemma": "seggiole",
+    "pos": "verb",
+    "meaning": "seggiole"
+  },
+  "seggono": {
+    "lemma": "seggono",
+    "pos": "verb",
+    "meaning": "seggono"
+  },
+  "segni": {
+    "lemma": "segni",
+    "pos": "verb",
+    "meaning": "segni"
+  },
+  "seguire": {
+    "lemma": "seguire",
+    "pos": "verb",
+    "meaning": "seguire"
+  },
+  "seguiremo": {
+    "lemma": "seguiremo",
+    "pos": "verb",
+    "meaning": "seguiremo"
+  },
+  "seguono": {
+    "lemma": "seguono",
+    "pos": "verb",
+    "meaning": "seguono"
+  },
+  "sembra": {
+    "lemma": "sembra",
+    "pos": "verb",
+    "meaning": "sembra"
+  },
+  "sembri": {
+    "lemma": "sembri",
+    "pos": "verb",
+    "meaning": "sembri"
+  },
+  "sempiterno": {
+    "lemma": "sempiterno",
+    "pos": "verb",
+    "meaning": "sempiterno"
+  },
+  "sentirai": {
+    "lemma": "sentirai",
+    "pos": "verb",
+    "meaning": "sentirai"
+  },
+  "sentito": {
+    "lemma": "sentito",
+    "pos": "verb",
+    "meaning": "sentito"
+  },
+  "separarmi": {
+    "lemma": "separarmi",
+    "pos": "verb",
+    "meaning": "separarmi"
+  },
+  "serbarla": {
+    "lemma": "serbarla",
+    "pos": "verb",
+    "meaning": "serbarla"
+  },
+  "serbateli": {
+    "lemma": "serbateli",
+    "pos": "verb",
+    "meaning": "serbateli"
+  },
+  "serio": {
+    "lemma": "serio",
+    "pos": "verb",
+    "meaning": "serio"
+  },
+  "serra": {
+    "lemma": "serra",
+    "pos": "verb",
+    "meaning": "serra"
+  },
+  "serrata": {
+    "lemma": "serrare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "sfaldi": {
+    "lemma": "sfaldi",
+    "pos": "verb",
+    "meaning": "sfaldi"
+  },
+  "sfarzo": {
+    "lemma": "sfarzo",
+    "pos": "verb",
+    "meaning": "sfarzo"
+  },
+  "sfavilla": {
+    "lemma": "sfavilla",
+    "pos": "verb",
+    "meaning": "sfavilla"
+  },
+  "sfiorita": {
+    "lemma": "sfiorita",
+    "pos": "verb",
+    "meaning": "sfiorita"
+  },
+  "sfuma": {
+    "lemma": "sfuma",
+    "pos": "verb",
+    "meaning": "sfuma"
+  },
+  "sgabello": {
+    "lemma": "sgabello",
+    "pos": "verb",
+    "meaning": "sgabello"
+  },
+  "sgelo": {
+    "lemma": "sgelo",
+    "pos": "verb",
+    "meaning": "sgelo"
+  },
+  "sgombra": {
+    "lemma": "sgombra",
+    "pos": "verb",
+    "meaning": "sgombra"
+  },
+  "sgombrino": {
+    "lemma": "sgombrino",
+    "pos": "verb",
+    "meaning": "sgombrino"
+  },
+  "sgonnella": {
+    "lemma": "sgonnella",
+    "pos": "verb",
+    "meaning": "sgonnella"
+  },
+  "sgridarli": {
+    "lemma": "sgridarli",
+    "pos": "verb",
+    "meaning": "sgridarli"
+  },
+  "sguaiati": {
+    "lemma": "sguaiare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "siede": {
+    "lemma": "siede",
+    "pos": "verb",
+    "meaning": "siede"
+  },
+  "siedi": {
+    "lemma": "siedi",
+    "pos": "verb",
+    "meaning": "siedi"
+  },
+  "signori": {
+    "lemma": "signori",
+    "pos": "verb",
+    "meaning": "signori"
+  },
+  "signorina": {
+    "lemma": "signorina",
+    "pos": "verb",
+    "meaning": "signorina"
+  },
+  "signorino": {
+    "lemma": "signorino",
+    "pos": "verb",
+    "meaning": "signorino"
+  },
+  "simil": {
+    "lemma": "simil",
+    "pos": "noun",
+    "meaning": "simil"
+  },
+  "sincer": {
+    "lemma": "sincer",
+    "pos": "noun",
+    "meaning": "sincer"
+  },
+  "slaccia": {
+    "lemma": "slaccia",
+    "pos": "verb",
+    "meaning": "slaccia"
+  },
+  "slanciano": {
+    "lemma": "slanciano",
+    "pos": "verb",
+    "meaning": "slanciano"
+  },
+  "smarristi": {
+    "lemma": "smarristi",
+    "pos": "verb",
+    "meaning": "smarristi"
+  },
+  "smunte": {
+    "lemma": "smunte",
+    "pos": "verb",
+    "meaning": "smunte"
+  },
+  "snudi": {
+    "lemma": "snudi",
+    "pos": "verb",
+    "meaning": "snudi"
+  },
+  "socrate": {
+    "lemma": "socrare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "sofferto": {
+    "lemma": "sofferto",
+    "pos": "verb",
+    "meaning": "sofferto"
+  },
+  "soffoca": {
+    "lemma": "soffoca",
+    "pos": "verb",
+    "meaning": "soffoca"
+  },
+  "soffoco": {
+    "lemma": "soffoco",
+    "pos": "verb",
+    "meaning": "soffoco"
+  },
+  "soggiunge": {
+    "lemma": "soggiunge",
+    "pos": "verb",
+    "meaning": "soggiunge"
+  },
+  "sognante": {
+    "lemma": "sognante",
+    "pos": "verb",
+    "meaning": "sognante"
+  },
+  "sognar": {
+    "lemma": "sognar",
+    "pos": "noun",
+    "meaning": "sognar"
+  },
+  "soldati": {
+    "lemma": "soldare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "solennità": {
+    "lemma": "solennità",
+    "pos": "noun",
+    "meaning": "solennità"
+  },
+  "solitario": {
+    "lemma": "solitario",
+    "pos": "verb",
+    "meaning": "solitario"
+  },
+  "somma": {
+    "lemma": "somma",
+    "pos": "verb",
+    "meaning": "somma"
+  },
+  "sommate": {
+    "lemma": "sommare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "sopraccapi": {
+    "lemma": "sopraccapi",
+    "pos": "verb",
+    "meaning": "sopraccapi"
+  },
+  "sorridenti": {
+    "lemma": "sorridenti",
+    "pos": "verb",
+    "meaning": "sorridenti"
+  },
+  "sorso": {
+    "lemma": "sorso",
+    "pos": "verb",
+    "meaning": "sorso"
+  },
+  "sosta": {
+    "lemma": "sosta",
+    "pos": "verb",
+    "meaning": "sosta"
+  },
+  "sottil": {
+    "lemma": "sottil",
+    "pos": "noun",
+    "meaning": "sottil"
+  },
+  "sottomano": {
+    "lemma": "sottomano",
+    "pos": "verb",
+    "meaning": "sottomano"
+  },
+  "soventi": {
+    "lemma": "soventi",
+    "pos": "verb",
+    "meaning": "soventi"
+  },
+  "sovra": {
+    "lemma": "sovra",
+    "pos": "verb",
+    "meaning": "sovra"
+  },
+  "sovvenir": {
+    "lemma": "sovvenir",
+    "pos": "noun",
+    "meaning": "sovvenir"
+  },
+  "sparse": {
+    "lemma": "sparse",
+    "pos": "verb",
+    "meaning": "sparse"
+  },
+  "spensierato": {
+    "lemma": "spensierare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "spera": {
+    "lemma": "spera",
+    "pos": "verb",
+    "meaning": "spera"
+  },
+  "speranza": {
+    "lemma": "speranza",
+    "pos": "verb",
+    "meaning": "speranza"
+  },
+  "speravo": {
+    "lemma": "speravo",
+    "pos": "verb",
+    "meaning": "speravo"
+  },
+  "spero": {
+    "lemma": "spero",
+    "pos": "verb",
+    "meaning": "spero"
+  },
+  "spese": {
+    "lemma": "spese",
+    "pos": "verb",
+    "meaning": "spese"
+  },
+  "spettiam": {
+    "lemma": "spettiam",
+    "pos": "noun",
+    "meaning": "spettiam"
+  },
+  "spiarmi": {
+    "lemma": "spiarmi",
+    "pos": "verb",
+    "meaning": "spiarmi"
+  },
+  "spiegarsi": {
+    "lemma": "spiegarsi",
+    "pos": "verb",
+    "meaning": "spiegarsi"
+  },
+  "spillette": {
+    "lemma": "spillette",
+    "pos": "verb",
+    "meaning": "spillette"
+  },
+  "spinge": {
+    "lemma": "spinge",
+    "pos": "verb",
+    "meaning": "spinge"
+  },
+  "spingendosi": {
+    "lemma": "spingendosi",
+    "pos": "verb",
+    "meaning": "spingendosi"
+  },
+  "spintoni": {
+    "lemma": "spintoni",
+    "pos": "verb",
+    "meaning": "spintoni"
+  },
+  "spio": {
+    "lemma": "spio",
+    "pos": "verb",
+    "meaning": "spio"
+  },
+  "spirata": {
+    "lemma": "spirare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "splendor": {
+    "lemma": "splendor",
+    "pos": "noun",
+    "meaning": "splendor"
+  },
+  "sporge": {
+    "lemma": "sporge",
+    "pos": "verb",
+    "meaning": "sporge"
+  },
+  "squallida": {
+    "lemma": "squallida",
+    "pos": "verb",
+    "meaning": "squallida"
+  },
+  "src": {
+    "lemma": "src",
+    "pos": "noun",
+    "meaning": "src"
+  },
+  "sst": {
+    "lemma": "sst",
+    "pos": "noun",
+    "meaning": "sst"
+  },
+  "stagion": {
+    "lemma": "stagion",
+    "pos": "noun",
+    "meaning": "stagion"
+  },
+  "stan": {
+    "lemma": "stan",
+    "pos": "noun",
+    "meaning": "stan"
+  },
+  "stanca": {
+    "lemma": "stanca",
+    "pos": "verb",
+    "meaning": "stanca"
+  },
+  "stanotte": {
+    "lemma": "stanotte",
+    "pos": "verb",
+    "meaning": "stanotte"
+  },
+  "stanza": {
+    "lemma": "stanza",
+    "pos": "verb",
+    "meaning": "stanza"
+  },
+  "starò": {
+    "lemma": "starò",
+    "pos": "noun",
+    "meaning": "starò"
+  },
+  "stasera": {
+    "lemma": "stasera",
+    "pos": "verb",
+    "meaning": "stasera"
+  },
+  "stende": {
+    "lemma": "stende",
+    "pos": "verb",
+    "meaning": "stende"
+  },
+  "stia": {
+    "lemma": "stia",
+    "pos": "verb",
+    "meaning": "stia"
+  },
+  "stille": {
+    "lemma": "stille",
+    "pos": "verb",
+    "meaning": "stille"
+  },
+  "strade": {
+    "lemma": "strade",
+    "pos": "verb",
+    "meaning": "strade"
+  },
+  "stretta": {
+    "lemma": "stretta",
+    "pos": "verb",
+    "meaning": "stretta"
+  },
+  "stringiti": {
+    "lemma": "stringiti",
+    "pos": "verb",
+    "meaning": "stringiti"
+  },
+  "stringo": {
+    "lemma": "stringo",
+    "pos": "verb",
+    "meaning": "stringo"
+  },
+  "struggi": {
+    "lemma": "struggi",
+    "pos": "verb",
+    "meaning": "struggi"
+  },
+  "stupenda": {
+    "lemma": "stupenda",
+    "pos": "verb",
+    "meaning": "stupenda"
+  },
+  "sudi": {
+    "lemma": "sudi",
+    "pos": "verb",
+    "meaning": "sudi"
+  },
+  "sudore": {
+    "lemma": "sudore",
+    "pos": "verb",
+    "meaning": "sudore"
+  },
+  "sugge": {
+    "lemma": "sugge",
+    "pos": "verb",
+    "meaning": "sugge"
+  },
+  "suonai": {
+    "lemma": "suonai",
+    "pos": "verb",
+    "meaning": "suonai"
+  },
+  "suonano": {
+    "lemma": "suonano",
+    "pos": "verb",
+    "meaning": "suonano"
+  },
+  "susanna": {
+    "lemma": "susanna",
+    "pos": "verb",
+    "meaning": "susanna"
+  },
+  "sussurro": {
+    "lemma": "sussurro",
+    "pos": "verb",
+    "meaning": "sussurro"
+  },
+  "svago": {
+    "lemma": "svago",
+    "pos": "verb",
+    "meaning": "svago"
+  },
+  "svanir": {
+    "lemma": "svanir",
+    "pos": "noun",
+    "meaning": "svanir"
+  },
+  "svegliare": {
+    "lemma": "svegliare",
+    "pos": "verb",
+    "meaning": "svegliare"
+  },
+  "sveglio": {
+    "lemma": "sveglio",
+    "pos": "verb",
+    "meaning": "sveglio"
+  },
+  "sventata": {
+    "lemma": "sventare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "sventola": {
+    "lemma": "sventola",
+    "pos": "verb",
+    "meaning": "sventola"
+  },
+  "sò": {
+    "lemma": "sò",
+    "pos": "noun",
+    "meaning": "sò"
+  },
+  "tacchino": {
+    "lemma": "tacchino",
+    "pos": "verb",
+    "meaning": "tacchino"
+  },
+  "tacco": {
+    "lemma": "tacco",
+    "pos": "verb",
+    "meaning": "tacco"
+  },
+  "tacer": {
+    "lemma": "tacer",
+    "pos": "noun",
+    "meaning": "tacer"
+  },
+  "taglia": {
+    "lemma": "taglia",
+    "pos": "verb",
+    "meaning": "taglia"
+  },
+  "tamburel": {
+    "lemma": "tamburel",
+    "pos": "noun",
+    "meaning": "tamburel"
+  },
+  "tana": {
+    "lemma": "tana",
+    "pos": "verb",
+    "meaning": "tana"
+  },
+  "tanfo": {
+    "lemma": "tanfo",
+    "pos": "verb",
+    "meaning": "tanfo"
+  },
+  "tastoni": {
+    "lemma": "tastoni",
+    "pos": "verb",
+    "meaning": "tastoni"
+  },
+  "tedio": {
+    "lemma": "tedio",
+    "pos": "verb",
+    "meaning": "tedio"
+  },
+  "temere": {
+    "lemma": "temere",
+    "pos": "verb",
+    "meaning": "temere"
+  },
+  "tenebrosi": {
+    "lemma": "tenebrosi",
+    "pos": "verb",
+    "meaning": "tenebrosi"
+  },
+  "tenerezza": {
+    "lemma": "tenerezza",
+    "pos": "verb",
+    "meaning": "tenerezza"
+  },
+  "tenessi": {
+    "lemma": "tenessi",
+    "pos": "verb",
+    "meaning": "tenessi"
+  },
+  "tenete": {
+    "lemma": "tenete",
+    "pos": "verb",
+    "meaning": "tenete"
+  },
+  "tenta": {
+    "lemma": "tenta",
+    "pos": "verb",
+    "meaning": "tenta"
+  },
+  "tentazione": {
+    "lemma": "tentazione",
+    "pos": "verb",
+    "meaning": "tentazione"
+  },
+  "tenzone": {
+    "lemma": "tenzone",
+    "pos": "verb",
+    "meaning": "tenzone"
+  },
+  "tepor": {
+    "lemma": "tepor",
+    "pos": "noun",
+    "meaning": "tepor"
+  },
+  "tepore": {
+    "lemma": "tepore",
+    "pos": "verb",
+    "meaning": "tepore"
+  },
+  "teresa": {
+    "lemma": "teresa",
+    "pos": "verb",
+    "meaning": "teresa"
+  },
+  "terminar": {
+    "lemma": "terminar",
+    "pos": "noun",
+    "meaning": "terminar"
+  },
+  "terre": {
+    "lemma": "terre",
+    "pos": "verb",
+    "meaning": "terre"
+  },
+  "terribil": {
+    "lemma": "terribil",
+    "pos": "noun",
+    "meaning": "terribil"
+  },
+  "tesoro": {
+    "lemma": "tesoro",
+    "pos": "verb",
+    "meaning": "tesoro"
+  },
+  "testate": {
+    "lemma": "testare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "tetro": {
+    "lemma": "tetro",
+    "pos": "verb",
+    "meaning": "tetro"
+  },
+  "tienti": {
+    "lemma": "tienti",
+    "pos": "verb",
+    "meaning": "tienti"
+  },
+  "timido": {
+    "lemma": "timido",
+    "pos": "verb",
+    "meaning": "timido"
+  },
+  "to'": {
+    "lemma": "to'",
+    "pos": "interjection",
+    "meaning": "look! / well well! / take that!"
+  },
+  "toast": {
+    "lemma": "toast",
+    "pos": "noun",
+    "meaning": "toast"
+  },
+  "toeletta": {
+    "lemma": "toeletta",
+    "pos": "verb",
+    "meaning": "toeletta"
+  },
+  "tondo": {
+    "lemma": "tondo",
+    "pos": "verb",
+    "meaning": "tondo"
+  },
+  "tonio": {
+    "lemma": "tonio",
+    "pos": "verb",
+    "meaning": "tonio"
+  },
+  "tortura": {
+    "lemma": "tortura",
+    "pos": "verb",
+    "meaning": "tortura"
+  },
+  "tossico": {
+    "lemma": "tossico",
+    "pos": "verb",
+    "meaning": "tossico"
+  },
+  "tours": {
+    "lemma": "tours",
+    "pos": "noun",
+    "meaning": "tours"
+  },
+  "tovaglia": {
+    "lemma": "tovaglia",
+    "pos": "verb",
+    "meaning": "tovaglia"
+  },
+  "traccia": {
+    "lemma": "traccia",
+    "pos": "verb",
+    "meaning": "traccia"
+  },
+  "trama": {
+    "lemma": "trama",
+    "pos": "verb",
+    "meaning": "trama"
+  },
+  "tramontana": {
+    "lemma": "tramontana",
+    "pos": "verb",
+    "meaning": "tramontana"
+  },
+  "tranquilli": {
+    "lemma": "tranquilli",
+    "pos": "verb",
+    "meaning": "tranquilli"
+  },
+  "trascinandosi": {
+    "lemma": "trascinandosi",
+    "pos": "verb",
+    "meaning": "trascinandosi"
+  },
+  "traspira": {
+    "lemma": "traspira",
+    "pos": "verb",
+    "meaning": "traspira"
+  },
+  "trattasse": {
+    "lemma": "trattasse",
+    "pos": "verb",
+    "meaning": "trattasse"
+  },
+  "triglia": {
+    "lemma": "triglia",
+    "pos": "verb",
+    "meaning": "triglia"
+  },
+  "trimestre": {
+    "lemma": "trimestre",
+    "pos": "verb",
+    "meaning": "trimestre"
+  },
+  "trionfalmente": {
+    "lemma": "trionfalmente",
+    "pos": "adverb",
+    "meaning": "trionfal-ly"
+  },
+  "triste": {
+    "lemma": "triste",
+    "pos": "verb",
+    "meaning": "triste"
+  },
+  "tristo": {
+    "lemma": "tristo",
+    "pos": "verb",
+    "meaning": "tristo"
+  },
+  "trota": {
+    "lemma": "trota",
+    "pos": "verb",
+    "meaning": "trota"
+  },
+  "trovan": {
+    "lemma": "trovan",
+    "pos": "noun",
+    "meaning": "trovan"
+  },
+  "trovandoli": {
+    "lemma": "trovandoli",
+    "pos": "verb",
+    "meaning": "trovandoli"
+  },
+  "trovarti": {
+    "lemma": "trovarti",
+    "pos": "verb",
+    "meaning": "trovarti"
+  },
+  "trovata": {
+    "lemma": "trovare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "troverem": {
+    "lemma": "troverem",
+    "pos": "noun",
+    "meaning": "troverem"
+  },
+  "turba": {
+    "lemma": "turba",
+    "pos": "verb",
+    "meaning": "turba"
+  },
+  "turbata": {
+    "lemma": "turbare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "uccello": {
+    "lemma": "uccello",
+    "pos": "verb",
+    "meaning": "uccello"
+  },
+  "uccide": {
+    "lemma": "uccide",
+    "pos": "verb",
+    "meaning": "uccide"
+  },
+  "ultima": {
+    "lemma": "ultima",
+    "pos": "verb",
+    "meaning": "ultima"
+  },
+  "ultimo": {
+    "lemma": "ultimo",
+    "pos": "verb",
+    "meaning": "ultimo"
+  },
+  "umane": {
+    "lemma": "umane",
+    "pos": "verb",
+    "meaning": "umane"
+  },
+  "unica": {
+    "lemma": "unica",
+    "pos": "verb",
+    "meaning": "unica"
+  },
+  "unico": {
+    "lemma": "unico",
+    "pos": "verb",
+    "meaning": "unico"
+  },
+  "uniti": {
+    "lemma": "uniti",
+    "pos": "verb",
+    "meaning": "uniti"
+  },
+  "uova": {
+    "lemma": "uova",
+    "pos": "verb",
+    "meaning": "uova"
+  },
+  "usai": {
+    "lemma": "usai",
+    "pos": "verb",
+    "meaning": "usai"
+  },
+  "usati": {
+    "lemma": "usare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "usato": {
+    "lemma": "usare",
+    "pos": "verb",
+    "meaning": "past participle"
+  },
+  "uscita": {
+    "lemma": "uscita",
+    "pos": "verb",
+    "meaning": "uscita"
+  },
+  "utopie": {
+    "lemma": "utopie",
+    "pos": "verb",
+    "meaning": "utopie"
+  },
+  "vacilla": {
+    "lemma": "vacilla",
+    "pos": "verb",
+    "meaning": "vacilla"
+  },
+  "vaga": {
+    "lemma": "vaga",
+    "pos": "verb",
+    "meaning": "vaga"
+  },
+  "vampi": {
+    "lemma": "vampi",
+    "pos": "verb",
+    "meaning": "vampi"
+  },
+  "vana": {
+    "lemma": "vana",
+    "pos": "verb",
+    "meaning": "vana"
+  },
+  "vaso": {
+    "lemma": "vaso",
+    "pos": "verb",
+    "meaning": "vaso"
+  },
+  "vecchie": {
+    "lemma": "vecchie",
+    "pos": "verb",
+    "meaning": "vecchie"
+  },
+  "vedendo": {
+    "lemma": "vedare",
+    "pos": "verb",
+    "meaning": "verb gerund (-ing)"
+  },
+  "vedeva": {
+    "lemma": "vedeva",
+    "pos": "verb",
+    "meaning": "vedeva"
+  },
+  "vedrò": {
+    "lemma": "vedrò",
+    "pos": "noun",
+    "meaning": "vedrò"
+  },
+  "veduto": {
+    "lemma": "veduto",
+    "pos": "verb",
+    "meaning": "veduto"
+  },
+  "veggo": {
+    "lemma": "veggo",
+    "pos": "verb",
+    "meaning": "veggo"
+  },
+  "velluto": {
+    "lemma": "velluto",
+    "pos": "verb",
+    "meaning": "velluto"
+  },
+  "vena": {
+    "lemma": "vena",
+    "pos": "verb",
+    "meaning": "vena"
+  },
+  "vendi": {
+    "lemma": "vendi",
+    "pos": "verb",
+    "meaning": "vendi"
+  },
+  "vendicar": {
+    "lemma": "vendicar",
+    "pos": "noun",
+    "meaning": "vendicar"
+  },
+  "vendita": {
+    "lemma": "vendita",
+    "pos": "verb",
+    "meaning": "vendita"
+  },
+  "venditore": {
+    "lemma": "venditore",
+    "pos": "verb",
+    "meaning": "venditore"
+  },
+  "venditrici": {
+    "lemma": "venditrici",
+    "pos": "verb",
+    "meaning": "venditrici"
+  },
+  "venissi": {
+    "lemma": "venissi",
+    "pos": "verb",
+    "meaning": "venissi"
+  },
+  "venni": {
+    "lemma": "venni",
+    "pos": "verb",
+    "meaning": "venni"
+  },
+  "vento": {
+    "lemma": "vento",
+    "pos": "verb",
+    "meaning": "vento"
+  },
+  "vergine": {
+    "lemma": "vergine",
+    "pos": "verb",
+    "meaning": "vergine"
+  },
+  "verità": {
+    "lemma": "verità",
+    "pos": "noun",
+    "meaning": "verità"
+  },
+  "verno": {
+    "lemma": "verno",
+    "pos": "verb",
+    "meaning": "verno"
+  },
+  "vero": {
+    "lemma": "vero",
+    "pos": "verb",
+    "meaning": "vero"
+  },
+  "verrò": {
+    "lemma": "verrò",
+    "pos": "noun",
+    "meaning": "verrò"
+  },
+  "versano": {
+    "lemma": "versano",
+    "pos": "verb",
+    "meaning": "versano"
+  },
+  "vezzi": {
+    "lemma": "vezzi",
+    "pos": "verb",
+    "meaning": "vezzi"
+  },
+  "vezzo": {
+    "lemma": "vezzo",
+    "pos": "verb",
+    "meaning": "vezzo"
+  },
+  "vicin": {
+    "lemma": "vicin",
+    "pos": "noun",
+    "meaning": "vicin"
+  },
+  "vie": {
+    "lemma": "vie",
+    "pos": "verb",
+    "meaning": "vie"
+  },
+  "vigilia": {
+    "lemma": "vigilia",
+    "pos": "verb",
+    "meaning": "vigilia"
+  },
+  "vile": {
+    "lemma": "vile",
+    "pos": "verb",
+    "meaning": "vile"
+  },
+  "violento": {
+    "lemma": "violento",
+    "pos": "verb",
+    "meaning": "violento"
+  },
+  "vipera": {
+    "lemma": "vipera",
+    "pos": "verb",
+    "meaning": "vipera"
+  },
+  "viscontino": {
+    "lemma": "viscontino",
+    "pos": "verb",
+    "meaning": "viscontino"
+  },
+  "vista": {
+    "lemma": "vista",
+    "pos": "verb",
+    "meaning": "vista"
+  },
+  "vivacità": {
+    "lemma": "vivacità",
+    "pos": "noun",
+    "meaning": "vivacità"
+  },
+  "vocale": {
+    "lemma": "vocale",
+    "pos": "verb",
+    "meaning": "vocale"
+  },
+  "vocazione": {
+    "lemma": "vocazione",
+    "pos": "verb",
+    "meaning": "vocazione"
+  },
+  "voci": {
+    "lemma": "voci",
+    "pos": "verb",
+    "meaning": "voci"
+  },
+  "voglia": {
+    "lemma": "voglia",
+    "pos": "verb",
+    "meaning": "voglia"
+  },
+  "voleva": {
+    "lemma": "voleva",
+    "pos": "verb",
+    "meaning": "voleva"
+  },
+  "volevi": {
+    "lemma": "volevi",
+    "pos": "verb",
+    "meaning": "volevi"
+  },
+  "volgendosi": {
+    "lemma": "volgendosi",
+    "pos": "verb",
+    "meaning": "volgendosi"
+  },
+  "volgono": {
+    "lemma": "volgono",
+    "pos": "verb",
+    "meaning": "volgono"
+  },
+  "volli": {
+    "lemma": "volli",
+    "pos": "verb",
+    "meaning": "volli"
+  },
+  "volo": {
+    "lemma": "volo",
+    "pos": "verb",
+    "meaning": "volo"
+  },
+  "volubil": {
+    "lemma": "volubil",
+    "pos": "noun",
+    "meaning": "volubil"
+  },
+  "vuoto": {
+    "lemma": "vuoto",
+    "pos": "verb",
+    "meaning": "vuoto"
+  },
+  "vòglio": {
+    "lemma": "vòglio",
+    "pos": "verb",
+    "meaning": "vòglio"
+  },
+  "width": {
+    "lemma": "width",
+    "pos": "noun",
+    "meaning": "width"
+  },
+  "zappator": {
+    "lemma": "zappator",
+    "pos": "noun",
+    "meaning": "zappator"
+  },
+  "zimarrone": {
+    "lemma": "zimarrone",
+    "pos": "verb",
+    "meaning": "zimarrone"
+  },
+  "zimbello": {
+    "lemma": "zimbello",
+    "pos": "verb",
+    "meaning": "zimbello"
+  },
+  "zio": {
+    "lemma": "zio",
+    "pos": "verb",
+    "meaning": "zio"
+  },
+  "zucchero": {
+    "lemma": "zucchero",
+    "pos": "verb",
+    "meaning": "zucchero"
+  },
+  "bravaccio": {
+    "lemma": "bravaccio",
+    "pos": "noun",
+    "meaning": "swaggerer / bully / braggart"
+  },
+  "cedere": {
+    "lemma": "cedere",
+    "pos": "verb",
+    "meaning": "to yield / to give in / to surrender"
+  },
+  "farlo": {
+    "lemma": "fare",
+    "pos": "verb",
+    "meaning": "to do it / make it",
+    "notes": "Infinitive fare with enclitic direct object pronoun -lo."
+  },
+  "fuggîr": {
+    "lemma": "fuggire",
+    "pos": "verb",
+    "meaning": "they fled",
+    "notes": "Poetic apocope of past historic fuggirono."
+  },
+  "fuggir": {
+    "lemma": "fuggire",
+    "pos": "verb",
+    "meaning": "they fled / to flee",
+    "notes": "Poetic apocope of past historic fuggirono."
+  },
+  "greco": {
+    "lemma": "greco",
+    "pos": "adjective",
+    "meaning": "Greek"
+  },
+  "momenti": {
+    "lemma": "momento",
+    "pos": "noun",
+    "meaning": "moments"
+  },
+  "mummia": {
+    "lemma": "mummia",
+    "pos": "noun",
+    "meaning": "mummy / dried-up old person"
+  },
+  "passâr": {
+    "lemma": "passare",
+    "pos": "verb",
+    "meaning": "they passed",
+    "notes": "Poetic apocope of past historic passarono."
+  },
+  "passar": {
+    "lemma": "passare",
+    "pos": "verb",
+    "meaning": "they passed / to pass",
+    "notes": "Poetic apocope of past historic passarono."
+  },
+  "scendono": {
+    "lemma": "scendere",
+    "pos": "verb",
+    "meaning": "they descend / come down"
+  },
+  "scurrile": {
+    "lemma": "scurrile",
+    "pos": "adjective",
+    "meaning": "scurrilous / vulgar / coarse"
+  },
+  "smania": {
+    "lemma": "smaniare",
+    "pos": "verb",
+    "meaning": "frets / is agitated / craves"
+  },
+  "testo": {
+    "lemma": "testo",
+    "pos": "noun",
+    "meaning": "text"
+  },
+  "to": {
+    "lemma": "to'",
+    "pos": "interjection",
+    "meaning": "look! / well well! / take that!"
+  },
+  "vendicarmi": {
+    "lemma": "vendicare",
+    "pos": "verb",
+    "meaning": "to avenge myself",
+    "notes": "Infinitive with enclitic reflexive pronoun -mi."
+  },
+  "ôr": {
+    "lemma": "oro",
+    "pos": "noun",
+    "meaning": "gold",
+    "notes": "Poetic truncation of oro."
+  },
+  "or": {
+    "lemma": "oro",
+    "pos": "noun",
+    "meaning": "gold / now"
+  },
+  "vediam": {
+    "lemma": "vedere",
+    "pos": "verb",
+    "meaning": "let us see",
+    "notes": "Apocopic form of vediamo."
+  }
+}

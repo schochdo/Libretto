@@ -27,12 +27,18 @@ export interface Cue {
   lines: Line[];
 }
 
+export interface SettingSegment {
+  original: string;
+  translation: string;
+}
+
 export interface Scene {
   sceneNumber: number;
   title: string;
   titleTranslation?: string;
   originalDescription?: string;
   description?: string;
+  settingSegments?: SettingSegment[];
   cues: Cue[];
 }
 

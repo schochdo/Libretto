@@ -62,6 +62,16 @@ export const Navbar: React.FC<NavbarProps> = ({
     return () => document.removeEventListener('mousedown', handleClickOutside);
   }, []);
 
+  const sortedCatalog = React.useMemo(() => {
+    return [...catalog].sort((a, b) => {
+      const compA = a.composer.split(' ').pop() || a.composer;
+      const compB = b.composer.split(' ').pop() || b.composer;
+      const cmp = compA.localeCompare(compB);
+      if (cmp !== 0) return cmp;
+      return a.title.localeCompare(b.title);
+    });
+  }, [catalog]);
+
   const searchResults = React.useMemo(() => {
     if (!currentOpera || !searchQuery || searchQuery.trim().length < 2) return [];
     const q = searchQuery.toLowerCase().trim();
@@ -162,7 +172,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                 color: 'var(--text-primary)',
               }}
             >
-              {catalog.map((op) => {
+              {sortedCatalog.map((op) => {
                 const composerLast = op.composer.split(' ').pop() || op.composer;
                 const title = op.id === 'die-zauberfloete'
                   ? 'Die Zauberflöte (The Magic Flute)'

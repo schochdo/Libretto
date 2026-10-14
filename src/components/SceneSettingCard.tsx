@@ -1,11 +1,12 @@
 import React, { useState } from 'react';
 import { Volume2, BookOpen, Layers, AlignLeft } from 'lucide-react';
-import { SupportedLanguage } from '../types/libretto';
+import { SupportedLanguage, SettingSegment } from '../types/libretto';
 import { speakText } from '../utils/speech';
 
 interface SceneSettingCardProps {
   originalDescription?: string;
   description?: string;
+  settingSegments?: SettingSegment[];
   language: SupportedLanguage;
   actOriginalSetting?: string;
   actSetting?: string;
@@ -26,13 +27,45 @@ interface SectionData {
 }
 
 /**
- * Splits text into sentences by sentence-ending punctuation.
+ * Splits text into sentences by sentence-ending punctuation, preserving
+ * common abbreviations, honorifics, and quotations.
  */
 function splitIntoSentences(text: string): string[] {
   if (!text) return [];
-  // Split on . ! ? followed by space, or at end of string
-  const raw = text.split(/(?<=[.!?])\s+(?=[A-ZÄÖÜ"“'«(—])/g);
-  return raw.map(s => s.trim()).filter(Boolean);
+
+  // Protect common honorifics & abbreviations across English, German, Italian, French
+  const abbrList = [
+    'Dr.', 'Mr.', 'Mrs.', 'Ms.', 'Prof.', 'Sr.', 'Jr.', 'St.',
+    'M.', 'Mme.', 'Mlle.', 'Sig.', 'Sig.ra', 'Dott.',
+    'z. B.', 'd. h.', 'u. a.', 'ca.', 'etc.', 'vs.'
+  ];
+
+  let clean = text.trim();
+  const placeholders: { placeholder: string; original: string }[] = [];
+
+  abbrList.forEach((abbr, idx) => {
+    if (clean.includes(abbr)) {
+      const ph = `__ABBR_${idx}__`;
+      placeholders.push({ placeholder: ph, original: abbr });
+      clean = clean.split(abbr).join(ph);
+    }
+  });
+
+  // Protect quoted exclamations or repeated punctuation
+  clean = clean.replace(/([!?]+(?:\.{2,})?)\s+(?=[a-zà-öø-ÿ])/gi, '$1 ');
+
+  // Split on sentence-ending punctuation (. ! ?) followed by whitespace and a capitalized word or quote opening
+  const raw = clean.split(/(?<=[.!?]["'»”]?)\s+(?=[A-ZÄÖÜÀ-ÖØ-ß"“'«(—])/g);
+
+  return raw
+    .map(s => {
+      let restored = s.trim();
+      placeholders.forEach(({ placeholder, original }) => {
+        restored = restored.split(placeholder).join(original);
+      });
+      return restored;
+    })
+    .filter(Boolean);
 }
 
 /**
@@ -103,9 +136,22 @@ function alignSentences(origSentences: string[], transSentences: string[], secti
 }
 
 /**
- * Builds aligned sections from multi-paragraph or single-paragraph descriptions.
+ * Builds aligned sections from multi-paragraph or single-paragraph descriptions,
+ * or utilizes explicit pre-aligned segments if available.
  */
-function buildSections(originalText?: string, translationText?: string): SectionData[] {
+function buildSections(originalText?: string, translationText?: string, preAligned?: SettingSegment[]): SectionData[] {
+  if (preAligned && preAligned.length > 0) {
+    return [{
+      originalParagraph: originalText || preAligned.map(s => s.original).join(' '),
+      translationParagraph: translationText || preAligned.map(s => s.translation).join(' '),
+      segments: preAligned.map((s, idx) => ({
+        id: `seg_${idx}`,
+        original: s.original,
+        translation: s.translation
+      }))
+    }];
+  }
+
   if (!originalText && !translationText) return [];
 
   const origParas = (originalText || '').split(/\n\n+/).map(p => p.trim()).filter(Boolean);
@@ -142,6 +188,7 @@ function buildSections(originalText?: string, translationText?: string): Section
 export const SceneSettingCard: React.FC<SceneSettingCardProps> = ({
   originalDescription,
   description,
+  settingSegments,
   language,
   actOriginalSetting,
   actSetting,
@@ -151,7 +198,7 @@ export const SceneSettingCard: React.FC<SceneSettingCardProps> = ({
   const [hoveredSegmentId, setHoveredSegmentId] = useState<string | null>(null);
   const [activeAudioId, setActiveAudioId] = useState<string | null>(null);
 
-  const sections = buildSections(originalDescription, description);
+  const sections = buildSections(originalDescription, description, settingSegments);
   const hasDescription = sections.length > 0;
   const hasActSetting = isOpeningScene && (Boolean(actOriginalSetting) || Boolean(actSetting));
 

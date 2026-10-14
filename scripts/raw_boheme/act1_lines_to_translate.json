@@ -1,0 +1,2210 @@
+[
+  {
+    "cue_index": 1,
+    "speaker": "Marcello",
+    "direction": "seduto, continuando a dipingere; Si allontana dal cavalletto per guardare il suo quadro.; Torna al lavoro. A Rodolfo:",
+    "lines": [
+      "Questo Mar Rosso - mi ammollisce e assidera",
+      "come se addosso - mi piovesse in stille.",
+      "Per vendicarmi, affogo un Faraon!",
+      "Che fai?"
+    ]
+  },
+  {
+    "cue_index": 2,
+    "speaker": "Rodolfo",
+    "direction": "volgendosi un poco; additando il camino senza fuoco",
+    "lines": [
+      "Nei cieli bigi",
+      "guardo fumar dai mille",
+      "comignoli Parigi",
+      "e penso a quel poltrone",
+      "di un vecchio caminetto ingannatore",
+      "che vive in ozio come un gran signore."
+    ]
+  },
+  {
+    "cue_index": 3,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Le sue rendite oneste",
+      "da un pezzo non riceve."
+    ]
+  },
+  {
+    "cue_index": 4,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Quelle sciocche foreste",
+      "che fan sotto la neve?"
+    ]
+  },
+  {
+    "cue_index": 5,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Rodolfo, io voglio dirti un mio pensier profondo:",
+      "ho un freddo cane."
+    ]
+  },
+  {
+    "cue_index": 6,
+    "speaker": "Rodolfo",
+    "direction": "avvicinandosi a Marcello",
+    "lines": [
+      "Ed io, Marcel, non ti nascondo",
+      "che non credo al sudore della fronte."
+    ]
+  },
+  {
+    "cue_index": 7,
+    "speaker": "Marcello",
+    "direction": "Lascia sfuggire un lungo sospirone, e tralascia di dipingere, deponendo tavolozza e pennelli.",
+    "lines": [
+      "Ho diacciate",
+      "le dita quasi ancora le tenessi immollate",
+      "giù in quella gran ghiacciaia che è il cuore di Musetta..."
+    ]
+  },
+  {
+    "cue_index": 8,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "L'amore è un caminetto che sciupa troppo..."
+    ]
+  },
+  {
+    "cue_index": 9,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "... e in fretta!"
+    ]
+  },
+  {
+    "cue_index": 10,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "... dove l'uomo è fascina..."
+    ]
+  },
+  {
+    "cue_index": 11,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "... e la donna è l'alare..."
+    ]
+  },
+  {
+    "cue_index": 12,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "... l'una brucia in un soffio..."
+    ]
+  },
+  {
+    "cue_index": 13,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "... e l'altro sta a guardare."
+    ]
+  },
+  {
+    "cue_index": 14,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Ma intanto qui si gela..."
+    ]
+  },
+  {
+    "cue_index": 15,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "... e si muore d'inedia!..."
+    ]
+  },
+  {
+    "cue_index": 16,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Fuoco ci vuole..."
+    ]
+  },
+  {
+    "cue_index": 17,
+    "speaker": "Marcello",
+    "direction": "afferrando una sedia e facendo atto di spezzarla; Rodolfo impedisce con energia l'atto di Marcello. Ad un tratto Rodolfo esce in un grido di gioia ad un'idea che gli è balenata.",
+    "lines": [
+      "Aspetta... sacrifichiam la sedia!"
+    ]
+  },
+  {
+    "cue_index": 18,
+    "speaker": "Rodolfo",
+    "direction": "Corre alla tavola e ne leva un voluminoso scartafaccio.",
+    "lines": [
+      "Eureka!"
+    ]
+  },
+  {
+    "cue_index": 19,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Trovasti?"
+    ]
+  },
+  {
+    "cue_index": 20,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Sì. Aguzza l'ingegno.",
+      "L'idea vampi in fiamma."
+    ]
+  },
+  {
+    "cue_index": 21,
+    "speaker": "Marcello",
+    "direction": "additando il suo quadro",
+    "lines": [
+      "Bruciamo il Mar Rosso?"
+    ]
+  },
+  {
+    "cue_index": 22,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "No. Puzza la tela dipinta. Il mio dramma,",
+      "I'ardente mio dramma ci scaldi."
+    ]
+  },
+  {
+    "cue_index": 23,
+    "speaker": "Marcello",
+    "direction": "con comico spavento",
+    "lines": [
+      "Vuoi leggerlo forse? Mi geli."
+    ]
+  },
+  {
+    "cue_index": 24,
+    "speaker": "Rodolfo",
+    "direction": "con importanza",
+    "lines": [
+      "No, in cener la carta si sfaldi",
+      "e l'estro rivoli ai suoi cieli.",
+      "Al secol gran danno minaccia...",
+      "E Roma in periglio..."
+    ]
+  },
+  {
+    "cue_index": 25,
+    "speaker": "Marcello",
+    "direction": "con esagerazione",
+    "lines": [
+      "Gran cor!"
+    ]
+  },
+  {
+    "cue_index": 26,
+    "speaker": "Rodolfo",
+    "direction": "Dà a Marcello una parte dello scartafaccio.",
+    "lines": [
+      "A te l'atto primo."
+    ]
+  },
+  {
+    "cue_index": 27,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Qua."
+    ]
+  },
+  {
+    "cue_index": 28,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Straccia."
+    ]
+  },
+  {
+    "cue_index": 29,
+    "speaker": "Marcello",
+    "direction": "Rodolfo batte un acciarino accende, una candela e va al camino con Marcello: insieme dànno fuoco a quella parte dello scartafaccio buttato sul focolare, poi entrambi prendono delle sedie e seggono, riscaldandosi voluttuosamente.",
+    "lines": [
+      "Accendi."
+    ]
+  },
+  {
+    "cue_index": 30,
+    "speaker": "Rodolfo e Marcello",
+    "direction": "Si apre con fracasso la porta in fondo ed entra Colline gelato, intirizzito, battendo i piedi, gettando con ira sulla tavola un pacco di libri legato con un fazzoletto.",
+    "lines": [
+      "Che lieto baglior!"
+    ]
+  },
+  {
+    "cue_index": 31,
+    "speaker": "Colline",
+    "direction": "Si interrompe sorpreso, vedendo fuoco nel caminetto.",
+    "lines": [
+      "Già dell'Apocalisse appariscono i segni.",
+      "In giorno di vigilia non si accettano pegni!",
+      "Una fiammata!"
+    ]
+  },
+  {
+    "cue_index": 32,
+    "speaker": "Rodolfo",
+    "direction": "a Colline",
+    "lines": [
+      "Zitto, si dà il mio dramma."
+    ]
+  },
+  {
+    "cue_index": 33,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "... al fuoco."
+    ]
+  },
+  {
+    "cue_index": 34,
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Lo trovo scintillante."
+    ]
+  },
+  {
+    "cue_index": 35,
+    "speaker": "Rodolfo",
+    "direction": "Il fuoco diminuisce.",
+    "lines": [
+      "Vivo."
+    ]
+  },
+  {
+    "cue_index": 36,
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Ma dura poco."
+    ]
+  },
+  {
+    "cue_index": 37,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "La brevità, gran pregio."
+    ]
+  },
+  {
+    "cue_index": 38,
+    "speaker": "Colline",
+    "direction": "levandogli la sedia",
+    "lines": [
+      "Autore, a me la sedia."
+    ]
+  },
+  {
+    "cue_index": 39,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Presto. Questi intermezzi fan morire d'inedia."
+    ]
+  },
+  {
+    "cue_index": 40,
+    "speaker": "Rodolfo",
+    "direction": "Prende un'altra parte dello scartafaccio.",
+    "lines": [
+      "Atto secondo."
+    ]
+  },
+  {
+    "cue_index": 41,
+    "speaker": "Marcello",
+    "direction": "a Colline; Rodolfo straccia parte dello scartafaccio e lo getta sul camino: il fuoco si ravviva. Colline avvicina ancora più la sedia e si riscalda le mani: Rodolfo è in piedi, presso ai due, col rimanente dello scartafaccio.",
+    "lines": [
+      "Non far sussurro."
+    ]
+  },
+  {
+    "cue_index": 42,
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Pensier profondo!"
+    ]
+  },
+  {
+    "cue_index": 43,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Giusto color!"
+    ]
+  },
+  {
+    "cue_index": 44,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "In quell'azzurro - guizzo languente",
+      "Sfuma un'ardente - scena d'amor."
+    ]
+  },
+  {
+    "cue_index": 45,
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Scoppietta un foglio."
+    ]
+  },
+  {
+    "cue_index": 46,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Là c'eran baci!"
+    ]
+  },
+  {
+    "cue_index": 47,
+    "speaker": "Rodolfo",
+    "direction": "Getta al fuoco il rimanente dello scartafaccio.",
+    "lines": [
+      "Tre atti or voglio - d'un colpo udir."
+    ]
+  },
+  {
+    "cue_index": 48,
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Tal degli audaci - I'idea s'integra."
+    ]
+  },
+  {
+    "cue_index": 49,
+    "speaker": "Tutti",
+    "direction": "Applaudono entusiasticamente: la fiamma dopo un momento diminuisce.",
+    "lines": [
+      "Bello in allegra - vampa svanir."
+    ]
+  },
+  {
+    "cue_index": 50,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Oh! Dio... già s'abbassa la fiamma."
+    ]
+  },
+  {
+    "cue_index": 51,
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Che vano, che fragile dramma!"
+    ]
+  },
+  {
+    "cue_index": 52,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Già scricchiola, increspasi, muore."
+    ]
+  },
+  {
+    "cue_index": 53,
+    "speaker": "Colline e Marcello",
+    "direction": "Il fuoco è spento.; Dalla porta di mezzo entrano due Garzoni, portando l'uno provviste di cibi, bottiglie di vino, sigari, e l'altro un fascio di legna. Al rumore, i tre innanzi al camino si volgono e con grida di meraviglia si slanciano sulle provviste portate dal garzone e le depongono sul tavolo. Colinne prende la legna e la porta presso il caminetto: comincia a far sera.",
+    "lines": [
+      "Abbasso, abbasso l'autore."
+    ]
+  },
+  {
+    "cue_index": 54,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Legna!"
+    ]
+  },
+  {
+    "cue_index": 55,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Sigari !"
+    ]
+  },
+  {
+    "cue_index": 56,
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Bordò!"
+    ]
+  },
+  {
+    "cue_index": 57,
+    "speaker": "Tutti",
+    "direction": "I garzoni partono.",
+    "lines": [
+      "Le dovizie d'una fiera",
+      "il destin ci destinò."
+    ]
+  },
+  {
+    "cue_index": 58,
+    "speaker": "Schaunard",
+    "direction": "Entra dalla porta di mezzo con aria di trionfo, gettando a terra alcuni scudi.",
+    "lines": [
+      "La Banca di Francia",
+      "per voi si sbilancia."
+    ]
+  },
+  {
+    "cue_index": 59,
+    "speaker": "Colline",
+    "direction": "raccattando gli scudi insieme a Rodolfo e Marcello",
+    "lines": [
+      "Raccatta, raccatta!"
+    ]
+  },
+  {
+    "cue_index": 60,
+    "speaker": "Marcello",
+    "direction": "incredulo",
+    "lines": [
+      "Son pezzi di latta!..."
+    ]
+  },
+  {
+    "cue_index": 61,
+    "speaker": "Schaunard",
+    "direction": "mostrandogli uno scudo",
+    "lines": [
+      "Sei sordo?... Sei lippo?",
+      "Quest'uomo chi è?"
+    ]
+  },
+  {
+    "cue_index": 62,
+    "speaker": "Rodolfo",
+    "direction": "inchinandosi",
+    "lines": [
+      "Luigi Filippo!",
+      "M'inchino al mio Re!"
+    ]
+  },
+  {
+    "cue_index": 63,
+    "speaker": "Tutti",
+    "direction": "Depongono gli scudi sul tavolo. Schaunard vorrebbe raccontare la sua fortuna, ma gli altri non lo ascoltano: vanno e vengono affaccendati disponendo ogni cosa sul tavolo.",
+    "lines": [
+      "Sta Luigi Filippo ai nostri pie'"
+    ]
+  },
+  {
+    "cue_index": 64,
+    "speaker": "Schaunard",
+    "direction": null,
+    "lines": [
+      "Or vi dirò: quest'oro, o meglio argento,",
+      "ha la sua brava storia..."
+    ]
+  },
+  {
+    "cue_index": 65,
+    "speaker": "Marcello",
+    "direction": "ponendo la legna nel camino",
+    "lines": [
+      "Riscaldiamo",
+      "il camino!"
+    ]
+  },
+  {
+    "cue_index": 66,
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Tanto freddo ha sofferto."
+    ]
+  },
+  {
+    "cue_index": 67,
+    "speaker": "Schaunard",
+    "direction": null,
+    "lines": [
+      "Un inglese... un signor... lord o milord",
+      "che sia, voleva un musicista..."
+    ]
+  },
+  {
+    "cue_index": 68,
+    "speaker": "Marcello",
+    "direction": "gettando via il pacco di libri di Colline dal tavolo",
+    "lines": [
+      "Via!",
+      "Prepariamo la tavola!"
+    ]
+  },
+  {
+    "cue_index": 69,
+    "speaker": "Schaunard",
+    "direction": null,
+    "lines": [
+      "Io? volo!"
+    ]
+  },
+  {
+    "cue_index": 70,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "L'esca dov'è?"
+    ]
+  },
+  {
+    "cue_index": 71,
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Là."
+    ]
+  },
+  {
+    "cue_index": 72,
+    "speaker": "Marcello",
+    "direction": "Accendono un gran fuoco nel camino.",
+    "lines": [
+      "Qua."
+    ]
+  },
+  {
+    "cue_index": 73,
+    "speaker": "Schaunard",
+    "direction": null,
+    "lines": [
+      "E mi presento.",
+      "M'accetta: gli domando..."
+    ]
+  },
+  {
+    "cue_index": 74,
+    "speaker": "Colline",
+    "direction": "mettendo a posto le vivande",
+    "lines": [
+      "Arrosto freddo!"
+    ]
+  },
+  {
+    "cue_index": 75,
+    "speaker": "Marcello",
+    "direction": "mentre Rodolfo accende l'altra candela",
+    "lines": [
+      "Pasticcio dolce!"
+    ]
+  },
+  {
+    "cue_index": 76,
+    "speaker": "Schaunard",
+    "direction": null,
+    "lines": [
+      "A quando le lezioni?...",
+      "Risponde: \"Incominciam...",
+      "Guardare!\" (e un pappagallo m'addita al primo piano),",
+      "poi soggiunge: \"Voi suonare",
+      "finché quello morire!\"."
+    ]
+  },
+  {
+    "cue_index": 77,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Fulgida folgori la sala splendida."
+    ]
+  },
+  {
+    "cue_index": 78,
+    "speaker": "Marcello",
+    "direction": "Mette le due candele sul tavolo",
+    "lines": [
+      "Or le candele!"
+    ]
+  },
+  {
+    "cue_index": 79,
+    "speaker": "Schaunard",
+    "direction": "Vedendo che nessuno gli bada, afferra Colline che gli passa vicino con un piatto.",
+    "lines": [
+      "E fu così:",
+      "Suonai tre lunghi dì...",
+      "Allora usai l'incanto",
+      "di mia presenza bella...",
+      "Affascinai l'ancella...",
+      "Gli propinai prezzemolo!...",
+      "Lorito allargò l'ali,",
+      "Lorito il becco aprì,",
+      "da Socrate morì!"
+    ]
+  },
+  {
+    "cue_index": 80,
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Pasticcio dolce!"
+    ]
+  },
+  {
+    "cue_index": 81,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Mangiar senza tovaglia?"
+    ]
+  },
+  {
+    "cue_index": 82,
+    "speaker": "Rodolfo",
+    "direction": "levando di tasca un giornale e spiegandolo",
+    "lines": [
+      "Un'idea..."
+    ]
+  },
+  {
+    "cue_index": 83,
+    "speaker": "Colline e Marcello",
+    "direction": null,
+    "lines": [
+      "Il \"Costituzional!\""
+    ]
+  },
+  {
+    "cue_index": 84,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Ottima carta...",
+      "Si mangia e si divora un'appendice !"
+    ]
+  },
+  {
+    "cue_index": 85,
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Chi?!..."
+    ]
+  },
+  {
+    "cue_index": 86,
+    "speaker": "Schaunard",
+    "direction": "urlando indispettito; Poi, vedendoli in atto di mettersi a mangiare il pasticcio freddo:; Con gesto solenne stende la mano sul pasticcio ed impedisce agli amici di mangiarlo; poi leva le vivande dal tavolo e le mette nel piccolo armadio.",
+    "lines": [
+      "Che il diavolo vi porti tutti quanti!",
+      "Ed or che fate?",
+      "No! Queste cibarie",
+      "sono la salmeria",
+      "pei dì futuri",
+      "tenebrosi e oscuri.",
+      "Pranzare in casa",
+      "il dì della vigilia",
+      "mentre il Quartier Latino le sue vie",
+      "addobba di salsicce e leccornie?",
+      "Quando un olezzo di frittelle imbalsama",
+      "le vecchie strade?"
+    ]
+  },
+  {
+    "cue_index": 87,
+    "speaker": "Tutti",
+    "direction": "Circondano ridendo Schaunard.",
+    "lines": [
+      "La vigilia di Natal!"
+    ]
+  },
+  {
+    "cue_index": 88,
+    "speaker": "Schaunard",
+    "direction": "Rodolfo chiude la porta a chiave, poi tutti vanno intorno al tavolo e versano il vino. Si bussa alla porta: s'arrestano stupefatti.",
+    "lines": [
+      "Là le ragazze cantano contente",
+      "ed han per eco ognuna uno studente!",
+      "Un po' di religione, o miei signori:",
+      "si beva in casa, ma si pranzi fuori."
+    ]
+  },
+  {
+    "cue_index": 89,
+    "speaker": "Benoît",
+    "direction": "di fuori",
+    "lines": [
+      "Si può?"
+    ]
+  },
+  {
+    "cue_index": 90,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Chi è là?"
+    ]
+  },
+  {
+    "cue_index": 91,
+    "speaker": "Benoît",
+    "direction": null,
+    "lines": [
+      "Benoît!"
+    ]
+  },
+  {
+    "cue_index": 92,
+    "speaker": "Marcello",
+    "direction": "Depongono i bicchieri.",
+    "lines": [
+      "Il padrone di casa!"
+    ]
+  },
+  {
+    "cue_index": 93,
+    "speaker": "Schaunard",
+    "direction": null,
+    "lines": [
+      "Uscio sul muso."
+    ]
+  },
+  {
+    "cue_index": 94,
+    "speaker": "Colline",
+    "direction": "Grida:",
+    "lines": [
+      "Non c'è nessuno."
+    ]
+  },
+  {
+    "cue_index": 95,
+    "speaker": "Schaunard",
+    "direction": null,
+    "lines": [
+      "È chiuso."
+    ]
+  },
+  {
+    "cue_index": 96,
+    "speaker": "Benoît",
+    "direction": null,
+    "lines": [
+      "Una parola."
+    ]
+  },
+  {
+    "cue_index": 97,
+    "speaker": "Schaunard",
+    "direction": "Dopo essersi consultato cogli altri, va ad aprire.",
+    "lines": [
+      "Sola!"
+    ]
+  },
+  {
+    "cue_index": 98,
+    "speaker": "Benoît",
+    "direction": "Entra sorridente: vede Marcello e mostrandogli una carta dice:",
+    "lines": [
+      "Affitto !"
+    ]
+  },
+  {
+    "cue_index": 99,
+    "speaker": "Marcello",
+    "direction": "ricevendolo con grande cordialità",
+    "lines": [
+      "Olà !",
+      "Date una sedia."
+    ]
+  },
+  {
+    "cue_index": 100,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Presto."
+    ]
+  },
+  {
+    "cue_index": 101,
+    "speaker": "Benoît",
+    "direction": "schermendosi",
+    "lines": [
+      "Non occorre. Vorrei..."
+    ]
+  },
+  {
+    "cue_index": 102,
+    "speaker": "Schaunard",
+    "direction": "Insistendo con dolce violenza, lo fa sedere.",
+    "lines": [
+      "Segga."
+    ]
+  },
+  {
+    "cue_index": 103,
+    "speaker": "Marcello",
+    "direction": "Gli versa del vino .",
+    "lines": [
+      "Vuol bere?"
+    ]
+  },
+  {
+    "cue_index": 104,
+    "speaker": "Benoît",
+    "direction": null,
+    "lines": [
+      "Grazie."
+    ]
+  },
+  {
+    "cue_index": 105,
+    "speaker": "Rodolfo e Colline",
+    "direction": "Tutti bevono. Benoît, Rodolfo, Marcello e Schaunard seduti, Colline in piedi. Benoît depone il bicchiere e si rivolge a Marcello mostrandogli la carta.",
+    "lines": [
+      "Tocchiamo."
+    ]
+  },
+  {
+    "cue_index": 106,
+    "speaker": "Benoît",
+    "direction": null,
+    "lines": [
+      "Questo",
+      "è l'ultimo trimestre."
+    ]
+  },
+  {
+    "cue_index": 107,
+    "speaker": "Marcello",
+    "direction": "con ingenuità",
+    "lines": [
+      "Ne ho piacere."
+    ]
+  },
+  {
+    "cue_index": 108,
+    "speaker": "Benoît",
+    "direction": null,
+    "lines": [
+      "E quindi..."
+    ]
+  },
+  {
+    "cue_index": 109,
+    "speaker": "Schaunard",
+    "direction": "interrompendolo; riempie i bicchieri.",
+    "lines": [
+      "Ancora un sorso."
+    ]
+  },
+  {
+    "cue_index": 110,
+    "speaker": "Benoît",
+    "direction": null,
+    "lines": [
+      "Grazie."
+    ]
+  },
+  {
+    "cue_index": 111,
+    "speaker": "Tutti",
+    "direction": "toccando con Benoît; Si siedono e bevono. Colline va a prendere lo sgabello presso il cavalletto e si siede anche lui.",
+    "lines": [
+      "Alla sua salute!"
+    ]
+  },
+  {
+    "cue_index": 112,
+    "speaker": "Benoît",
+    "direction": "riprendendo con Marcello",
+    "lines": [
+      "A lei ne vengo",
+      "perché il trimestre scorso",
+      "mi promise..."
+    ]
+  },
+  {
+    "cue_index": 113,
+    "speaker": "Marcello",
+    "direction": "mostrando a Benoît gli scudi che sono sul tavolo",
+    "lines": [
+      "Promisi ed or mantengo."
+    ]
+  },
+  {
+    "cue_index": 114,
+    "speaker": "Rodolfo",
+    "direction": "con stupore, piano a Marcello",
+    "lines": [
+      "Che fai?..."
+    ]
+  },
+  {
+    "cue_index": 115,
+    "speaker": "Schaunard",
+    "direction": "come sopra",
+    "lines": [
+      "Sei pazzo?"
+    ]
+  },
+  {
+    "cue_index": 116,
+    "speaker": "Marcello",
+    "direction": "a Benoît, senza badare ai due",
+    "lines": [
+      "Ha visto? Or via,",
+      "resti un momento in nostra compagnia.",
+      "Dica: quant'anni ha,",
+      "caro signor Benoît?"
+    ]
+  },
+  {
+    "cue_index": 117,
+    "speaker": "Benoît",
+    "direction": null,
+    "lines": [
+      "Gli anni?... Per carità!"
+    ]
+  },
+  {
+    "cue_index": 118,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Su e giù la nostra età."
+    ]
+  },
+  {
+    "cue_index": 119,
+    "speaker": "Benoît",
+    "direction": "protestando; Mentre fanno chiacchierare Benoît, gli riempiono il bicchiere appena egli l'ha vuotato.",
+    "lines": [
+      "Di più, molto di più."
+    ]
+  },
+  {
+    "cue_index": 120,
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Ha detto su e giù."
+    ]
+  },
+  {
+    "cue_index": 121,
+    "speaker": "Marcello",
+    "direction": "abbassando la voce e con tono di furberia",
+    "lines": [
+      "L'altra sera al Mabil..."
+    ]
+  },
+  {
+    "cue_index": 122,
+    "speaker": "Benoît",
+    "direction": "inquieto",
+    "lines": [
+      "Eh?!"
+    ]
+  },
+  {
+    "cue_index": 123,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "L'hanno colto",
+      "in peccato d'amore."
+    ]
+  },
+  {
+    "cue_index": 124,
+    "speaker": "Benoît",
+    "direction": null,
+    "lines": [
+      "Io?"
+    ]
+  },
+  {
+    "cue_index": 125,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Neghi."
+    ]
+  },
+  {
+    "cue_index": 126,
+    "speaker": "Benoît",
+    "direction": null,
+    "lines": [
+      "Un caso."
+    ]
+  },
+  {
+    "cue_index": 127,
+    "speaker": "Marcello",
+    "direction": "lusingandolo",
+    "lines": [
+      "Bella donna!"
+    ]
+  },
+  {
+    "cue_index": 128,
+    "speaker": "Benoît",
+    "direction": "mezzo brillo, con subito moto",
+    "lines": [
+      "Ah! molto."
+    ]
+  },
+  {
+    "cue_index": 129,
+    "speaker": "Schaunard",
+    "direction": "Gli batte una mano sulla spalla.",
+    "lines": [
+      "Briccone !"
+    ]
+  },
+  {
+    "cue_index": 130,
+    "speaker": "Colline",
+    "direction": "Fa lo stesso sull'altra spalla.",
+    "lines": [
+      "Seduttore !"
+    ]
+  },
+  {
+    "cue_index": 131,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Briccone!"
+    ]
+  },
+  {
+    "cue_index": 132,
+    "speaker": "Marcello",
+    "direction": "magnificando",
+    "lines": [
+      "Una quercia!... un cannone! il crin ricciuto",
+      "e fulvo."
+    ]
+  },
+  {
+    "cue_index": 133,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "L'uomo ha buon gusto."
+    ]
+  },
+  {
+    "cue_index": 134,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Ei gongolava arzillo, pettoruto."
+    ]
+  },
+  {
+    "cue_index": 135,
+    "speaker": "Benoît",
+    "direction": "ringalluzzito",
+    "lines": [
+      "Son vecchio, ma robusto."
+    ]
+  },
+  {
+    "cue_index": 136,
+    "speaker": "Tutti",
+    "direction": "con gravità ironica",
+    "lines": [
+      "Ei gongolava arzuto e pettorillo."
+    ]
+  },
+  {
+    "cue_index": 137,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "E a lui cedea la femminil virtù."
+    ]
+  },
+  {
+    "cue_index": 138,
+    "speaker": "Benoît",
+    "direction": "in piena confidenza; accenna a forme accentuate; Marcello dà un pugno sulla tavola e si alza: gli altri lo imitano: Benoît li guarda sbalordito.",
+    "lines": [
+      "Timido in gioventù,",
+      "ora me ne ripago... È uno svago",
+      "qualche donnetta allegra... e... un po'...",
+      "Non dico una balena,",
+      "o un mappamondo,",
+      "o un Viso tondo",
+      "da luna piena,",
+      "ma magra, proprio magra, no e poi no!",
+      "Le donne magre sono grattacapi",
+      "e spesso... sopraccapi...",
+      "e son piene di doglie,",
+      "per esempio... mia moglie..."
+    ]
+  },
+  {
+    "cue_index": 139,
+    "speaker": "Marcello",
+    "direction": "con forza",
+    "lines": [
+      "Quest'uomo ha moglie",
+      "e sconce voglie",
+      "ha nel cor!"
+    ]
+  },
+  {
+    "cue_index": 140,
+    "speaker": "Coro",
+    "direction": null,
+    "lines": [
+      "Orror !"
+    ]
+  },
+  {
+    "cue_index": 141,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "E ammorba, e appesta",
+      "la nostra onesta",
+      "magion!"
+    ]
+  },
+  {
+    "cue_index": 142,
+    "speaker": "Coro",
+    "direction": null,
+    "lines": [
+      "Fuor!"
+    ]
+  },
+  {
+    "cue_index": 143,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Si abbruci dello zucchero."
+    ]
+  },
+  {
+    "cue_index": 144,
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Si discacci il reprobo."
+    ]
+  },
+  {
+    "cue_index": 145,
+    "speaker": "Schaunard",
+    "direction": "maestoso",
+    "lines": [
+      "È la morale offesa che vi scaccia!"
+    ]
+  },
+  {
+    "cue_index": 146,
+    "speaker": "Benoît",
+    "direction": "Allibito, tenta inutilmente di parlare.",
+    "lines": [
+      "Io di..."
+    ]
+  },
+  {
+    "cue_index": 147,
+    "speaker": "Rodolfo e Colline",
+    "direction": "Circondano Benoît sospingendolo verso la porta.",
+    "lines": [
+      "Silenzio!"
+    ]
+  },
+  {
+    "cue_index": 148,
+    "speaker": "Benoît",
+    "direction": "sempre più sbalordito",
+    "lines": [
+      "Miei signori..."
+    ]
+  },
+  {
+    "cue_index": 149,
+    "speaker": "Tutti",
+    "direction": "spingendo Benoît fuori dalla porta; sulla porta guardando verso il pianerottolo sulla scala; ritornando nel mezzo della scena, ridendo",
+    "lines": [
+      "Silenzio ! . . .",
+      "Via signore! Via di qua!",
+      "... e buona sera a Vostra signoria.",
+      "Ah! ah! ah! ah!"
+    ]
+  },
+  {
+    "cue_index": 150,
+    "speaker": "Marcello",
+    "direction": "chiudendo l'uscio",
+    "lines": [
+      "Ho pagato il trimestre."
+    ]
+  },
+  {
+    "cue_index": 151,
+    "speaker": "Schaunard",
+    "direction": null,
+    "lines": [
+      "Al Quartiere Latino ci attende Momus."
+    ]
+  },
+  {
+    "cue_index": 152,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Viva chi spende!"
+    ]
+  },
+  {
+    "cue_index": 153,
+    "speaker": "Schaunard",
+    "direction": "Si dividono gli scudi rimasti sul tavolo.",
+    "lines": [
+      "Dividiamo il bottino!",
+      "RODOLFO e SCHAUNARD",
+      "Dividiam !"
+    ]
+  },
+  {
+    "cue_index": 154,
+    "speaker": "Marcello",
+    "direction": "presentando uno specchio rotto a Colline",
+    "lines": [
+      "Là ci sono beltà scese dal cielo.",
+      "Or che sei ricco, bada alla decenza!",
+      "Orso, ravviati il pelo."
+    ]
+  },
+  {
+    "cue_index": 155,
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Farò la conoscenza",
+      "la prima volta d'un barbitonsore.",
+      "Guidatemi al ridicolo",
+      "oltraggio d'un rasoio."
+    ]
+  },
+  {
+    "cue_index": 156,
+    "speaker": "Tutti",
+    "direction": null,
+    "lines": [
+      "Andiamo."
+    ]
+  },
+  {
+    "cue_index": 157,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Io resto",
+      "per terminar l'articolo",
+      "di fondo del Castoro."
+    ]
+  },
+  {
+    "cue_index": 158,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Fa presto."
+    ]
+  },
+  {
+    "cue_index": 159,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Cinque minuti. Conosco il mestiere."
+    ]
+  },
+  {
+    "cue_index": 160,
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Ti aspetterem dabbasso dal portiere."
+    ]
+  },
+  {
+    "cue_index": 161,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Se tardi, udrai che coro!"
+    ]
+  },
+  {
+    "cue_index": 162,
+    "speaker": "Rodolfo",
+    "direction": "Prende un lume ed apre l'uscio: Marcello, Schaunard e Colline escono e scendono la scala.",
+    "lines": [
+      "Cinque minuti."
+    ]
+  },
+  {
+    "cue_index": 163,
+    "speaker": "Schaunard",
+    "direction": "uscendo",
+    "lines": [
+      "Taglia corta la coda al tuo Castoro!"
+    ]
+  },
+  {
+    "cue_index": 164,
+    "speaker": "Marcello",
+    "direction": "di fuori",
+    "lines": [
+      "Occhio alla scala. Tienti",
+      "alla ringhiera."
+    ]
+  },
+  {
+    "cue_index": 165,
+    "speaker": "Rodolfo",
+    "direction": "sul pianerottolo, presso l'uscio aperto, alzando il lume",
+    "lines": [
+      "Adagio !"
+    ]
+  },
+  {
+    "cue_index": 166,
+    "speaker": "Colline",
+    "direction": "di fuori; Le voci di Marcello, Schaunard e Colline si fanno sempre più lontane",
+    "lines": [
+      "È buio pesto."
+    ]
+  },
+  {
+    "cue_index": 167,
+    "speaker": "Schaunard",
+    "direction": "Rumore d'uno che ruzzola .",
+    "lines": [
+      "Maledetto portier!"
+    ]
+  },
+  {
+    "cue_index": 168,
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Accidenti!"
+    ]
+  },
+  {
+    "cue_index": 169,
+    "speaker": "Rodolfo",
+    "direction": "sull'uscio",
+    "lines": [
+      "Colline, sei morto?"
+    ]
+  },
+  {
+    "cue_index": 170,
+    "speaker": "Colline",
+    "direction": "lontano, dal basso della scala",
+    "lines": [
+      "Non ancor!"
+    ]
+  },
+  {
+    "cue_index": 171,
+    "speaker": "Marcello",
+    "direction": "più lontano; Rodolfo chiude l'uscio, depone il lume, sgombra un angolo del tavolo, vi colloca calamaio e carta, poi siede e si mette a scrivere dopo aver spento l'altro lume rimasto acceso: si interrompe, pensa, ritorna a scrivere, s'inquieta, distrugge lo scritto e getta via la penna.",
+    "lines": [
+      "Vien presto!"
+    ]
+  },
+  {
+    "cue_index": 172,
+    "speaker": "Rodolfo",
+    "direction": "sfiduciato; Si bussa timidamente all'uscio.",
+    "lines": [
+      "Non sono in vena.",
+      "Chi è là?"
+    ]
+  },
+  {
+    "cue_index": 173,
+    "speaker": "Mimì",
+    "direction": "di fuori",
+    "lines": [
+      "Scusi."
+    ]
+  },
+  {
+    "cue_index": 174,
+    "speaker": "Rodolfo",
+    "direction": "alzandosi",
+    "lines": [
+      "Una donna!"
+    ]
+  },
+  {
+    "cue_index": 175,
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Di grazia, mi si è spento il lume."
+    ]
+  },
+  {
+    "cue_index": 176,
+    "speaker": "Rodolfo",
+    "direction": "Corre ad aprire.",
+    "lines": [
+      "Ecco."
+    ]
+  },
+  {
+    "cue_index": 177,
+    "speaker": "Mimì",
+    "direction": "sull'uscio, con un lume spento in mano ed una chiave",
+    "lines": [
+      "Vorrebbe... ?"
+    ]
+  },
+  {
+    "cue_index": 178,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "S'accomodi un momento."
+    ]
+  },
+  {
+    "cue_index": 179,
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Non occorre."
+    ]
+  },
+  {
+    "cue_index": 180,
+    "speaker": "Rodolfo",
+    "direction": "insistendo; Mimì, entra, ma subito è presa da soffocazione.",
+    "lines": [
+      "La prego, entri."
+    ]
+  },
+  {
+    "cue_index": 181,
+    "speaker": "Rodolfo",
+    "direction": "premuroso",
+    "lines": [
+      "Si sente male?"
+    ]
+  },
+  {
+    "cue_index": 182,
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "No... nulla."
+    ]
+  },
+  {
+    "cue_index": 183,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Impallidisce !"
+    ]
+  },
+  {
+    "cue_index": 184,
+    "speaker": "Mimì",
+    "direction": "presa da tosse; Sviene, e Rodolfo è appena a tempo di sorreggerla ed adagiarla su di una sedia, mentre dalle mani di Mimì cadono candeliere e chiave.",
+    "lines": [
+      "Il respir... Quelle scale..."
+    ]
+  },
+  {
+    "cue_index": 185,
+    "speaker": "Rodolfo",
+    "direction": "imbarazzato; Va a prendere dell'acqua e ne spruzza il viso di Mimì.; guardandola con grande interesse; Mimì rinviene.",
+    "lines": [
+      "Ed ora come faccio?...",
+      "Così !",
+      "Che viso da malata!",
+      "Si sente meglio?"
+    ]
+  },
+  {
+    "cue_index": 186,
+    "speaker": "Mimì",
+    "direction": "con un filo di voce",
+    "lines": [
+      "Sì."
+    ]
+  },
+  {
+    "cue_index": 187,
+    "speaker": "Rodolfo",
+    "direction": "Mimì fa cenno di no.",
+    "lines": [
+      "Qui c'è tanto freddo. Segga vicino al fuoco.",
+      "Aspetti.. un po' di vino..."
+    ]
+  },
+  {
+    "cue_index": 188,
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Grazie..."
+    ]
+  },
+  {
+    "cue_index": 189,
+    "speaker": "Rodolfo",
+    "direction": "Le dà il bicchiere e le versa da bere.",
+    "lines": [
+      "A lei."
+    ]
+  },
+  {
+    "cue_index": 190,
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Poco, poco."
+    ]
+  },
+  {
+    "cue_index": 191,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Così?"
+    ]
+  },
+  {
+    "cue_index": 192,
+    "speaker": "Mimì",
+    "direction": "Beve.",
+    "lines": [
+      "Grazie."
+    ]
+  },
+  {
+    "cue_index": 193,
+    "speaker": "Mimì",
+    "direction": "Levandosi, cerca il suo candeliere.",
+    "lines": [
+      "Ora permetta",
+      "che accenda il lume. È tutto passato."
+    ]
+  },
+  {
+    "cue_index": 194,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Tanta fretta?"
+    ]
+  },
+  {
+    "cue_index": 195,
+    "speaker": "Mimì",
+    "direction": "Rodolfo scorge a terra il candeliere, lo raccoglie, accende e lo consegna a Mimì senza far parola.",
+    "lines": [
+      "Sì."
+    ]
+  },
+  {
+    "cue_index": 196,
+    "speaker": "Mimì",
+    "direction": "S'avvia per uscire.",
+    "lines": [
+      "Grazie. Buona sera."
+    ]
+  },
+  {
+    "cue_index": 197,
+    "speaker": "Rodolfo",
+    "direction": "L'accompagna fino all'uscio.; Ritorna subito al lavoro.",
+    "lines": [
+      "Buona sera."
+    ]
+  },
+  {
+    "cue_index": 198,
+    "speaker": "Mimì",
+    "direction": "Esce, poi riappare sull'uscio che rimane aperto.",
+    "lines": [
+      "Oh ! sventata !",
+      "La chiave della stanza",
+      "dove l'ho lasciata?"
+    ]
+  },
+  {
+    "cue_index": 199,
+    "speaker": "Rodolfo",
+    "direction": "Il lume di Mimì si spegne.",
+    "lines": [
+      "Non stia sull'uscio; il lume vacilla al vento."
+    ]
+  },
+  {
+    "cue_index": 200,
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Oh Dio! Torni ad accenderlo."
+    ]
+  },
+  {
+    "cue_index": 201,
+    "speaker": "Rodolfo",
+    "direction": "Accorre colla sua candela per riaccendere quella di Mimì, ma avvicinandosi alla porta anche il suo lume si spegne e la camera rimane buia.",
+    "lines": [
+      "Oh Dio!... Anche il mio s'è spento!"
+    ]
+  },
+  {
+    "cue_index": 202,
+    "speaker": "Mimì",
+    "direction": "Avanzandosi a tentoni, incontra il tavolo e vi depone il suo candeliere.",
+    "lines": [
+      "E la chiave ove sarà?..."
+    ]
+  },
+  {
+    "cue_index": 203,
+    "speaker": "Rodolfo",
+    "direction": "Si trova presso la porta e la chiude.",
+    "lines": [
+      "Buio pesto!"
+    ]
+  },
+  {
+    "cue_index": 204,
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Disgraziata!"
+    ]
+  },
+  {
+    "cue_index": 205,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Ove sarà?"
+    ]
+  },
+  {
+    "cue_index": 206,
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Importuna è la vicina..."
+    ]
+  },
+  {
+    "cue_index": 207,
+    "speaker": "Rodolfo",
+    "direction": "Si volge dalla parte ove ode la voce di Mimì.",
+    "lines": [
+      "Ma le pare?..."
+    ]
+  },
+  {
+    "cue_index": 208,
+    "speaker": "Mimì",
+    "direction": "Ripete con grazia, avanzandosi ancora cautamente.; Cerca la chiave sul pavimento, strisciando i piedi.",
+    "lines": [
+      "Importuna è la vicina..."
+    ]
+  },
+  {
+    "cue_index": 209,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Cosa dice, ma le pare!"
+    ]
+  },
+  {
+    "cue_index": 210,
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Cerchi."
+    ]
+  },
+  {
+    "cue_index": 211,
+    "speaker": "Rodolfo",
+    "direction": "Urta nel tavolo, vi depone il suo candeliere e si mette a cercare la chiave brancicando le mani sul pavimento.",
+    "lines": [
+      "Cerco."
+    ]
+  },
+  {
+    "cue_index": 212,
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Ove sarà?..."
+    ]
+  },
+  {
+    "cue_index": 213,
+    "speaker": "Rodolfo",
+    "direction": "Trova la chiave e lascia sfuggire una esclamazione, poi subito pentito mette la chiave in tasca.",
+    "lines": [
+      "Ah !"
+    ]
+  },
+  {
+    "cue_index": 214,
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "L'ha trovata?..."
+    ]
+  },
+  {
+    "cue_index": 215,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "No !"
+    ]
+  },
+  {
+    "cue_index": 216,
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Mi parve..."
+    ]
+  },
+  {
+    "cue_index": 217,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "In verità..."
+    ]
+  },
+  {
+    "cue_index": 218,
+    "speaker": "Mimì",
+    "direction": "Cerca a tastoni.",
+    "lines": [
+      "Cerca?"
+    ]
+  },
+  {
+    "cue_index": 219,
+    "speaker": "Rodolfo",
+    "direction": "Finge di cercare, ma guidato dalla voce e dai passi di Mimì, tenta di avvicinarsi ad essa che, china a terra, cerca sempre tastoni: in questo momento Rodolfo si è avvicinato ed abbassandosi esso pure, la sua mano incontra quella di Mimì",
+    "lines": [
+      "Cerco !"
+    ]
+  },
+  {
+    "cue_index": 220,
+    "speaker": "Mimì",
+    "direction": "sorpresa",
+    "lines": [
+      "Ah!"
+    ]
+  },
+  {
+    "cue_index": 221,
+    "speaker": "Rodolfo",
+    "direction": "tenendo la mano di Mimì, con voce piena di emozione!; Mimì tace: Rodolfo lascia la mano di Mimì, la quale indietreggiando trova una sedia sulla quale si lascia quasi cadere affranta dall'emozione.",
+    "lines": [
+      "Che gelida manina!",
+      "Se la lasci riscaldar.",
+      "Cercar che giova? Al buio non si trova.",
+      "Ma per fortuna è una notte di luna,",
+      "e qui la luna l'abbiamo vicina.",
+      "Aspetti, signorina,",
+      "le dirò con due parole",
+      "chi son, che faccio e come vivo. Vuole?",
+      "Chi son? Sono un poeta.",
+      "Che cosa faccio? Scrivo.",
+      "E come vivo? Vivo.",
+      "In povertà mia lieta",
+      "scialo da gran signore",
+      "rime ed inni d'amore.",
+      "Per sogni, per chimere",
+      "e per castelli in aria",
+      "l'anima ho milionaria.",
+      "Talor dal mio forziere",
+      "ruban tutti i gioielli",
+      "due ladri: gli occhi belli.",
+      "V'entrar con voi pur ora",
+      "ed i miei sogni usati",
+      "e i bei sogni miei",
+      "tosto son dileguati.",
+      "Ma il furto non m'accora,",
+      "poiché vi ha preso stanza",
+      "la dolce speranza!",
+      "Or che mi conoscete,",
+      "parlate voi. Chi siete?",
+      "Via piaccia dir?"
+    ]
+  },
+  {
+    "cue_index": 222,
+    "speaker": "Mimì",
+    "direction": "È un po' titubante, poi si decide a parlare; sempre seduta.",
+    "lines": [
+      "Sì.",
+      "Mi chiamano Mimì,",
+      "ma il mio nome è Lucia.",
+      "La storia mia",
+      "è breve. A tela o a seta",
+      "ricamo in casa e fuori...",
+      "Son tranquilla e lieta",
+      "ed è mio svago",
+      "far gigli e rose.",
+      "Mi piaccion quelle cose",
+      "che han sì dolce malìa,",
+      "che parlano d'amor, di primavere,",
+      "di sogni e di chimere,",
+      "quelle cose che han nome poesia...",
+      "Lei m'intende?"
+    ]
+  },
+  {
+    "cue_index": 223,
+    "speaker": "Rodolfo",
+    "direction": "commosso",
+    "lines": [
+      "Sì."
+    ]
+  },
+  {
+    "cue_index": 224,
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Mi chiamano Mimì,",
+      "il perché non so.",
+      "Sola, mi fo",
+      "il pranzo da me stessa.",
+      "Non vado sempre a messa,",
+      "ma prego assai il Signore.",
+      "Vivo sola, soletta",
+      "là in una bianca cameretta:",
+      "guardo sui tetti e in cielo;",
+      "ma quando vien lo sgelo",
+      "il primo sole è mio",
+      "il primo bacio dell'aprile è mio!",
+      "Germoglia in un vaso una rosa...",
+      "Foglia a foglia la spio!",
+      "Cosi gentile",
+      "il profumo d'un fiore!",
+      "Ma i fior ch'io faccio, ahimè! non hanno odore.",
+      "Altro di me non le saprei narrare.",
+      "Sono la sua vicina",
+      "che la vien fuori d'ora a importunare."
+    ]
+  },
+  {
+    "cue_index": 225,
+    "speaker": "Schaunard",
+    "direction": "dal cortile",
+    "lines": [
+      "Ehi ! Rodolfo !"
+    ]
+  },
+  {
+    "cue_index": 226,
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Rodolfo !"
+    ]
+  },
+  {
+    "cue_index": 227,
+    "speaker": "Marcello",
+    "direction": "Alle grida degli amici, Rodolfo s'impazienta.",
+    "lines": [
+      "Olà. Non senti?",
+      "Lumaca !"
+    ]
+  },
+  {
+    "cue_index": 228,
+    "speaker": "Colline",
+    "direction": null,
+    "lines": [
+      "Poetucolo !"
+    ]
+  },
+  {
+    "cue_index": 229,
+    "speaker": "Schaunard",
+    "direction": "Sempre più impaziente, Rodolfo a tentoni si avvia alla finestra e l'apre spingendosi un poco fuori per rispondere agli amici che sono giù nel cortile: dalla finestra aperta entrano i raggi lunari, rischiarando così la camera.",
+    "lines": [
+      "Accidenti",
+      "al pigro!"
+    ]
+  },
+  {
+    "cue_index": 230,
+    "speaker": "Rodolfo",
+    "direction": "alla finestra",
+    "lines": [
+      "Scrivo ancor tre righe a volo."
+    ]
+  },
+  {
+    "cue_index": 231,
+    "speaker": "Mimì",
+    "direction": "avvicinandosi un poco alla finestra",
+    "lines": [
+      "Chi sono?"
+    ]
+  },
+  {
+    "cue_index": 232,
+    "speaker": "Rodolfo",
+    "direction": "a Mimì",
+    "lines": [
+      "Amici."
+    ]
+  },
+  {
+    "cue_index": 233,
+    "speaker": "Schaunard",
+    "direction": null,
+    "lines": [
+      "Sentirai le tue."
+    ]
+  },
+  {
+    "cue_index": 234,
+    "speaker": "Marcello",
+    "direction": null,
+    "lines": [
+      "Che te ne fai lì solo?"
+    ]
+  },
+  {
+    "cue_index": 235,
+    "speaker": "Rodolfo",
+    "direction": "Rimane alla finestra, onde assicurarsi che gli amici se ne vanno.",
+    "lines": [
+      "Non sono solo. Siamo in due.",
+      "Andate da Momus, tenete il posto,",
+      "ci saremo tosto."
+    ]
+  },
+  {
+    "cue_index": 236,
+    "speaker": "Tutti",
+    "direction": "allontanandosi; Mimì si è avvicinata ancor più alla finestra per modo che i raggi lunari la illuminano: Rodolfo, volgendosi, scorge Mimì avvolta come da un nimbo di luce, e la contempla, quasi estatico.",
+    "lines": [
+      "Momus, Momus, Momus,",
+      "zitti e discreti andiamocerle via.",
+      "Momus, Momus, Momus, il poeta",
+      "trovò la poesia."
+    ]
+  },
+  {
+    "cue_index": 237,
+    "speaker": "Rodolfo",
+    "direction": "cingendo con le braccia Mimì; La bacia.",
+    "lines": [
+      "O soave fanciulla, o dolce viso",
+      "di mite circonfuso alba lunar",
+      "in te, vivo ravviso",
+      "il sogno ch'io vorrei sempre sognar!",
+      "Fremon già nell'anima",
+      "le dolcezze estreme,",
+      "nel bacio freme amor!"
+    ]
+  },
+  {
+    "cue_index": 238,
+    "speaker": "Mimì",
+    "direction": "assai commossa; quasi abbandonandosi; svincolandosi",
+    "lines": [
+      "Ah! tu sol comandi, amor!...",
+      "(Oh! come dolci scendono",
+      "le sue lusinghe al core...",
+      "tu sol comandi, amore!...)",
+      "No, per pietà!"
+    ]
+  },
+  {
+    "cue_index": 239,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Sei mia!"
+    ]
+  },
+  {
+    "cue_index": 240,
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "V'aspettan gli amici..."
+    ]
+  },
+  {
+    "cue_index": 241,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Già mi mandi via?"
+    ]
+  },
+  {
+    "cue_index": 242,
+    "speaker": "Mimì",
+    "direction": "titubante",
+    "lines": [
+      "Vorrei dir... ma non oso..."
+    ]
+  },
+  {
+    "cue_index": 243,
+    "speaker": "Mimì",
+    "direction": "con graziosa furberia",
+    "lines": [
+      "Se venissi con voi?"
+    ]
+  },
+  {
+    "cue_index": 244,
+    "speaker": "Rodolfo",
+    "direction": "sorpreso; insinuante",
+    "lines": [
+      "Che?... Mimì?",
+      "Sarebbe così dolce restar qui.",
+      "C'è freddo fuori."
+    ]
+  },
+  {
+    "cue_index": 245,
+    "speaker": "Mimì",
+    "direction": "con grande abbandono",
+    "lines": [
+      "Vi starò vicina!..."
+    ]
+  },
+  {
+    "cue_index": 246,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "E al ritorno?"
+    ]
+  },
+  {
+    "cue_index": 247,
+    "speaker": "Mimì",
+    "direction": "maliziosa",
+    "lines": [
+      "Curioso!"
+    ]
+  },
+  {
+    "cue_index": 248,
+    "speaker": "Rodolfo",
+    "direction": "Aiuta amorosamente Mimì a mettersi lo scialle.",
+    "lines": [
+      "Dammi il braccio, mia piccina."
+    ]
+  },
+  {
+    "cue_index": 249,
+    "speaker": "Mimì",
+    "direction": "Dà il braccio a Rodolfo.; S'avviano sottobraccio alla porta d'uscita.",
+    "lines": [
+      "Obbedisco, signor!"
+    ]
+  },
+  {
+    "cue_index": 250,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Che m'ami di'..."
+    ]
+  },
+  {
+    "cue_index": 251,
+    "speaker": "Mimì",
+    "direction": "con abbandono",
+    "lines": [
+      "Io t'amo!"
+    ]
+  },
+  {
+    "cue_index": 252,
+    "speaker": "Rodolfo",
+    "direction": null,
+    "lines": [
+      "Amore !"
+    ]
+  },
+  {
+    "cue_index": 253,
+    "speaker": "Mimì",
+    "direction": null,
+    "lines": [
+      "Amor!"
+    ]
+  }
+]
