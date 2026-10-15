@@ -18,9 +18,48 @@ export const App: React.FC = () => {
     return localStorage.getItem('libretto_opera') || 'die-zauberfloete';
   });
 
+  // Helper to determine system preference
+  const getSystemTheme = (): ThemeMode => {
+    if (typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      return 'night';
+    }
+    return 'day';
+  };
+
+  // Theme state: uses explicit user manual override if set, otherwise follows system preference
   const [theme, setTheme] = useState<ThemeMode>(() => {
-    return (localStorage.getItem('libretto_theme') as ThemeMode) || 'night';
+    const saved = localStorage.getItem('libretto_theme_manual') as ThemeMode | null;
+    if (saved && (saved === 'day' || saved === 'night' || saved === 'astro-red')) {
+      return saved;
+    }
+    return getSystemTheme();
   });
+
+  // Listen for OS system theme changes if user has not set a manual override
+  useEffect(() => {
+    if (typeof window === 'undefined' || !window.matchMedia) return;
+    const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+    const handleChange = (e: MediaQueryListEvent) => {
+      const manual = localStorage.getItem('libretto_theme_manual');
+      if (!manual) {
+        setTheme(e.matches ? 'night' : 'day');
+      }
+    };
+    mediaQuery.addEventListener('change', handleChange);
+    return () => mediaQuery.removeEventListener('change', handleChange);
+  }, []);
+
+  const handleSelectTheme = (newTheme: ThemeMode) => {
+    const manual = localStorage.getItem('libretto_theme_manual');
+    if (manual === newTheme) {
+      // Clicking the currently active manual theme toggles back to system preference
+      localStorage.removeItem('libretto_theme_manual');
+      setTheme(getSystemTheme());
+      return;
+    }
+    setTheme(newTheme);
+    localStorage.setItem('libretto_theme_manual', newTheme);
+  };
 
   const [fontSizeMultiplier, setFontSizeMultiplier] = useState<number>(() => {
     const saved = localStorage.getItem('libretto_font_size');
@@ -95,7 +134,6 @@ export const App: React.FC = () => {
   // Apply theme class to document body and update browser tab color
   useEffect(() => {
     document.body.className = `theme-${theme}`;
-    localStorage.setItem('libretto_theme', theme);
 
     // Update browser theme color to match the Navbar's --bg-secondary
     const metaThemeColor = document.getElementById('meta-theme-color');
@@ -298,7 +336,7 @@ export const App: React.FC = () => {
         currentOperaId={currentOperaId}
         onSelectOpera={handleSelectOpera}
         theme={theme}
-        onSelectTheme={setTheme}
+        onSelectTheme={handleSelectTheme}
         fontSizeMultiplier={fontSizeMultiplier}
         onAdjustFontSize={handleAdjustFontSize}
         searchQuery={searchQuery}

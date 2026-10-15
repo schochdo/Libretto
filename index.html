@@ -12,8 +12,24 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <script>
+      (function() {
+        try {
+          var manual = localStorage.getItem('libretto_theme_manual');
+          var theme = (manual === 'day' || manual === 'night' || manual === 'astro-red') ? manual : null;
+          if (!theme) {
+            theme = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'night' : 'day';
+          }
+          document.documentElement.classList.add('theme-' + theme);
+          var meta = document.getElementById('meta-theme-color');
+          if (meta) {
+            meta.setAttribute('content', theme === 'day' ? '#f4f1ea' : theme === 'night' ? '#14161a' : '#0a0202');
+          }
+        } catch (e) {}
+      })();
+    </script>
   </head>
-  <body class="bg-black text-gray-100 antialiased selection:bg-amber-500/30 selection:text-amber-200">
+  <body class="antialiased selection:bg-amber-500/30 selection:text-amber-200">
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
   </body>
