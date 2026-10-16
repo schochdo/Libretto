@@ -147,9 +147,9 @@ export const Navbar: React.FC<NavbarProps> = ({
       <div className="max-w-7xl mx-auto flex items-center justify-between gap-3">
         
         {/* Left: Branding & Opera Selector */}
-        <div className="flex items-center gap-3 shrink-0">
-          <div className="flex items-center gap-2 shrink-0">
-            <span className="text-xl sm:text-2xl" role="img" aria-label="opera mask">🎭</span>
+        <div className="flex items-center gap-1.5 sm:gap-3 shrink-0">
+          <div className="flex items-center gap-1.5 sm:gap-2 shrink-0">
+            <span className="text-lg sm:text-2xl" role="img" aria-label="opera mask">🎭</span>
             <div className="hidden md:block shrink-0">
               <span className="font-display font-bold tracking-wider text-base sm:text-lg block leading-none whitespace-nowrap" style={{ color: 'var(--accent)' }}>
                 LIBRETTO
@@ -165,7 +165,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             <select
               value={currentOperaId}
               onChange={(e) => onSelectOpera(e.target.value)}
-              className="appearance-none font-medium text-xs sm:text-sm py-1.5 pl-2.5 pr-8 rounded-lg border cursor-pointer focus:outline-none focus:ring-1 transition-colors max-w-[280px] sm:max-w-xs md:max-w-md truncate"
+              className="appearance-none font-medium text-xs sm:text-sm py-1.5 pl-2 pr-6 sm:pr-8 rounded-lg border cursor-pointer focus:outline-none focus:ring-1 transition-colors max-w-[130px] sm:max-w-xs md:max-w-md truncate"
               style={{
                 backgroundColor: 'var(--bg-tertiary)',
                 borderColor: 'var(--border-color)',
@@ -185,14 +185,14 @@ export const Navbar: React.FC<NavbarProps> = ({
                 );
               })}
             </select>
-            <ChevronDown className="w-3.5 h-3.5 absolute right-2.5 top-1/2 -translate-y-1/2 pointer-events-none opacity-60" />
+            <ChevronDown className="w-3.5 h-3.5 absolute right-1.5 sm:right-2.5 top-1/2 -translate-y-1/2 pointer-events-none opacity-60" />
           </div>
 
           {/* Synopsis & Cast Button */}
           <button
             onClick={onOpenToc}
             disabled={!currentOpera}
-            className="flex items-center gap-1.5 text-xs sm:text-sm py-1.5 px-2.5 rounded-lg border transition-colors hover:opacity-80 disabled:opacity-40 disabled:cursor-not-allowed"
+            className="flex items-center gap-1.5 text-xs sm:text-sm py-1.5 px-2 sm:px-2.5 rounded-lg border transition-colors hover:opacity-80 disabled:opacity-40 disabled:cursor-not-allowed"
             style={{
               backgroundColor: 'var(--bg-tertiary)',
               borderColor: 'var(--border-color)',
@@ -201,7 +201,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             title="View Synopsis and Characters"
           >
             <BookOpen className="w-3.5 h-3.5" style={{ color: 'var(--accent)' }} />
-            <span className="font-medium">Synopsis & Cast</span>
+            <span className="font-medium hidden sm:inline">Synopsis & Cast</span>
           </button>
         </div>
 
@@ -298,7 +298,7 @@ export const Navbar: React.FC<NavbarProps> = ({
         </div>
 
         {/* Right Controls: Font Size, Theme Toggles, Info */}
-        <div className="flex items-center gap-1.5 sm:gap-2">
+        <div className="flex items-center gap-1 sm:gap-2">
           
           {/* Font Size Adjusters */}
           <div className="flex items-center rounded-lg border overflow-hidden"
@@ -307,16 +307,16 @@ export const Navbar: React.FC<NavbarProps> = ({
             <button
               onClick={() => onAdjustFontSize(-0.1)}
               disabled={fontSizeMultiplier <= 0.8}
-              className="px-2 py-1 text-xs font-semibold hover:opacity-80 disabled:opacity-30"
+              className="px-1.5 sm:px-2 py-1 text-xs font-semibold hover:opacity-80 disabled:opacity-30"
               title="Decrease font size"
             >
               A-
             </button>
-            <span className="text-[10px] px-1 opacity-50 select-none">|</span>
+            <span className="text-[10px] px-0.5 opacity-40 select-none">|</span>
             <button
               onClick={() => onAdjustFontSize(0.1)}
               disabled={fontSizeMultiplier >= 1.5}
-              className="px-2 py-1 text-xs font-semibold hover:opacity-80 disabled:opacity-30"
+              className="px-1.5 sm:px-2 py-1 text-xs font-semibold hover:opacity-80 disabled:opacity-30"
               title="Increase font size"
             >
               A+
@@ -329,7 +329,7 @@ export const Navbar: React.FC<NavbarProps> = ({
           >
             <button
               onClick={() => onSelectTheme('day')}
-              className={`p-1.5 rounded-md transition-all ${theme === 'day' ? 'shadow-sm' : 'opacity-60 hover:opacity-100'}`}
+              className={`p-1 sm:p-1.5 rounded-md transition-all ${theme === 'day' ? 'shadow-sm' : 'opacity-60 hover:opacity-100'}`}
               style={theme === 'day' ? { backgroundColor: 'var(--bg-primary)', color: 'var(--accent)' } : {}}
               title="Day Mode (Parchment)"
             >
@@ -337,7 +337,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             </button>
             <button
               onClick={() => onSelectTheme('night')}
-              className={`p-1.5 rounded-md transition-all ${theme === 'night' ? 'shadow-sm' : 'opacity-60 hover:opacity-100'}`}
+              className={`p-1 sm:p-1.5 rounded-md transition-all ${theme === 'night' ? 'shadow-sm' : 'opacity-60 hover:opacity-100'}`}
               style={theme === 'night' ? { backgroundColor: 'var(--bg-secondary)', color: 'var(--accent)' } : {}}
               title="Night Mode (Dark OLED)"
             >
@@ -345,7 +345,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             </button>
             <button
               onClick={() => onSelectTheme('astro-red')}
-              className={`p-1.5 rounded-md transition-all ${theme === 'astro-red' ? 'shadow-sm' : 'opacity-60 hover:opacity-100'}`}
+              className={`p-1 sm:p-1.5 rounded-md transition-all ${theme === 'astro-red' ? 'shadow-sm' : 'opacity-60 hover:opacity-100'}`}
               style={theme === 'astro-red' ? { backgroundColor: '#2d0606', color: '#ef4444' } : {}}
               title="Astro Red Mode (Scotopic Night Vision Protection)"
             >
@@ -356,7 +356,7 @@ export const Navbar: React.FC<NavbarProps> = ({
           {/* Audio & Voices Settings Button */}
           <button
             onClick={onOpenVoiceSettings}
-            className="flex items-center gap-1.5 px-2 py-1 text-xs rounded-lg border transition-colors hover:opacity-80"
+            className="flex items-center gap-1.5 p-1.5 sm:px-2 sm:py-1 text-xs rounded-lg border transition-colors hover:opacity-80"
             style={{
               backgroundColor: 'var(--bg-tertiary)',
               borderColor: 'var(--border-color)',
@@ -384,10 +384,10 @@ export const Navbar: React.FC<NavbarProps> = ({
             <Info className="w-3.5 h-3.5" />
           </button>
 
-          {/* Fullscreen Button (Completely removes browser frame/tabs/URL bar) */}
+          {/* Fullscreen Button (Completely removes browser frame/tabs/URL bar on supported desktop screens) */}
           <button
             onClick={toggleFullscreen}
-            className="p-1.5 rounded-lg border transition-colors hover:opacity-80"
+            className="hidden sm:block p-1.5 rounded-lg border transition-colors hover:opacity-80"
             style={{
               backgroundColor: 'var(--bg-tertiary)',
               borderColor: 'var(--border-color)',

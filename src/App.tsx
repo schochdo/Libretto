@@ -2,7 +2,7 @@ import React, { useState, useEffect, useMemo, useCallback, useRef } from 'react'
 import { OPERA_CATALOG, loadOperaById, getOperaSummaryById, getCachedOpera } from './data/operas';
 import { Opera, Line, Token, Cue, ThemeMode } from './types/libretto';
 import { Navbar } from './components/Navbar';
-import { DualColumnReader } from './components/DualColumnReader';
+import { DualColumnReader, LayoutMode } from './components/DualColumnReader';
 import { LinguisticInspector } from './components/LinguisticInspector';
 import { TableOfContentsModal } from './components/TableOfContentsModal';
 import { AboutModal } from './components/AboutModal';
@@ -17,6 +17,18 @@ export const App: React.FC = () => {
   const [currentOperaId, setCurrentOperaId] = useState<string>(() => {
     return localStorage.getItem('libretto_opera') || 'die-zauberfloete';
   });
+
+  // Reading layout mode (Interlinear Stacked vs Side-by-Side Dual Columns)
+  const [layoutMode, setLayoutMode] = useState<LayoutMode>(() => {
+    const saved = localStorage.getItem('libretto_reading_mode') as LayoutMode | null;
+    if (saved === 'stacked' || saved === 'columns') return saved;
+    return typeof window !== 'undefined' && window.innerWidth < 768 ? 'stacked' : 'columns';
+  });
+
+  const handleToggleLayoutMode = (mode: LayoutMode) => {
+    setLayoutMode(mode);
+    localStorage.setItem('libretto_reading_mode', mode);
+  };
 
   // Helper to determine system preference
   const getSystemTheme = (): ThemeMode => {
@@ -509,6 +521,8 @@ export const App: React.FC = () => {
                   onSelectLine={handleSelectLine}
                   fontSizeMultiplier={fontSizeMultiplier}
                   characters={currentOpera.characters}
+                  layoutMode={layoutMode}
+                  onToggleLayoutMode={handleToggleLayoutMode}
                 />
               ) : (
                 <div className="text-center py-20 opacity-60">
@@ -519,28 +533,56 @@ export const App: React.FC = () => {
           </main>
         </section>
 
-        {/* Linguistic Deep Dive Inspector Side Panel */}
+        {/* Linguistic Deep Dive Inspector: Bottom Sheet on Mobile (< md), Side Panel on Desktop (>= md) */}
         {activeLine && currentOpera && (
-          <aside 
-            className="w-full sm:w-[24rem] md:w-[28rem] lg:w-[32rem] shrink-0 border-l shadow-2xl flex flex-col z-20" 
-            style={{ backgroundColor: 'var(--bg-secondary)', borderColor: 'var(--border-color)' }}
-          >
-            <LinguisticInspector
-              key={`inspector-${voiceVersion}`}
-              line={activeLine}
-              speaker={activeCue?.speaker || ''}
-              pieceTitle={activeCue?.pieceTitle}
-              language={currentOpera.language}
-              onClose={() => {
+          <>
+            {/* Mobile Backdrop Overlay (< md) */}
+            <div 
+              className="md:hidden fixed inset-0 z-40 bg-black/60 backdrop-blur-xs transition-opacity animate-fadeIn"
+              onClick={() => {
                 setActiveLine(null);
                 setActiveLineId(null);
                 setSelectedToken(null);
               }}
-              selectedToken={selectedToken}
-              onSelectToken={setSelectedToken}
-              characters={currentOpera.characters}
             />
-          </aside>
+
+            {/* Inspector Container */}
+            <aside 
+              className="fixed inset-x-0 bottom-0 max-h-[82vh] z-50 rounded-t-2xl shadow-2xl flex flex-col border-t animate-slideUp md:animate-none md:relative md:inset-auto md:max-h-none md:rounded-none md:border-t-0 md:border-l md:w-[26rem] lg:w-[30rem] xl:w-[34rem] md:shrink-0 md:z-20 overflow-hidden" 
+              style={{ backgroundColor: 'var(--bg-secondary)', borderColor: 'var(--border-color)' }}
+            >
+              {/* Mobile Drawer Pull Bar Handle */}
+              <div 
+                className="md:hidden flex justify-center pt-2.5 pb-1 cursor-pointer"
+                onClick={() => {
+                  setActiveLine(null);
+                  setActiveLineId(null);
+                  setSelectedToken(null);
+                }}
+              >
+                <div 
+                  className="w-12 h-1.5 rounded-full opacity-40 hover:opacity-70 transition-opacity"
+                  style={{ backgroundColor: 'var(--text-muted)' }}
+                />
+              </div>
+
+              <LinguisticInspector
+                key={`inspector-${voiceVersion}`}
+                line={activeLine}
+                speaker={activeCue?.speaker || ''}
+                pieceTitle={activeCue?.pieceTitle}
+                language={currentOpera.language}
+                onClose={() => {
+                  setActiveLine(null);
+                  setActiveLineId(null);
+                  setSelectedToken(null);
+                }}
+                selectedToken={selectedToken}
+                onSelectToken={setSelectedToken}
+                characters={currentOpera.characters}
+              />
+            </aside>
+          </>
         )}
       </div>
 
