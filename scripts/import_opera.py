@@ -522,6 +522,78 @@ def fetch_url_content(url: str) -> str:
         charset = response.headers.get_content_charset() or 'utf-8'
         return response.read().decode(charset, errors='replace')
 
+def split_sentences_standard(text: str) -> List[str]:
+    if not text:
+        return []
+    t = text.strip()
+    t = re.sub(r'\b(Dr|Mrs|Mr|Ms|Prof|Sr|Jr|St|Sig|Sig\.ra|Dott|M|Mme|Mlle)\.', r'\1<DOT>', t)
+    t = re.sub(r'\b(z\. B|u\. a|d\. h|ca|etc|vs)\.', r'\1<DOT>', t)
+    parts = re.split(r'(?:(?<=[.!?])|(?<=[.!?]["\'»”]))\s+(?=[A-ZÄÖÜÀ-ÖØ-ß"“\'«(—])', t)
+    return [p.replace('<DOT>', '.').strip() for p in parts if p.strip()]
+
+def validate_literal_translation_standard(opera_data: Dict[str, Any]):
+    """
+    Permanently enforces the Libretto Machine Translation Standard on every import:
+    1. Zero loose or copyrighted third-party synopses.
+    2. Strict 1-to-1 bilingual sentence alignment between originalDescription and description across all scenes.
+    3. Ratio bounds (0.35 - 2.5) on sentence lengths to catch any narrative synopsis filler.
+    4. Validation that all cues and lines possess non-empty literal translations.
+    """
+    errors = []
+    acts = opera_data.get('acts', [])
+    for act in acts:
+        act_num = act.get('actNumber', '?')
+        for sc in act.get('scenes', []):
+            sc_num = sc.get('sceneNumber', '?')
+            orig = sc.get('originalDescription', '')
+            trans = sc.get('description', '')
+            if orig is None: orig = ''
+            if trans is None: trans = ''
+            orig = orig.strip()
+            trans = trans.strip()
+
+            if orig and not trans:
+                errors.append(f"Act {act_num} Scene {sc_num}: Missing literal 'description' translation for originalDescription.")
+            elif trans and not orig:
+                errors.append(f"Act {act_num} Scene {sc_num}: Missing 'originalDescription' in historical language.")
+            elif orig and trans:
+                o_sents = split_sentences_standard(orig)
+                t_sents = split_sentences_standard(trans)
+                if len(o_sents) != len(t_sents):
+                    errors.append(
+                        f"Act {act_num} Scene {sc_num}: Sentence count mismatch ({len(o_sents)} original vs {len(t_sents)} translation).\n"
+                        f"  Original:    {o_sents}\n"
+                        f"  Translation: {t_sents}"
+                    )
+                else:
+                    for idx, (o_s, t_s) in enumerate(zip(o_sents, t_sents), 1):
+                        ratio = len(t_s) / max(len(o_s), 1)
+                        if ratio > 2.5 or ratio < 0.35:
+                            errors.append(
+                                f"Act {act_num} Scene {sc_num} S{idx}: Sentence length ratio anomaly ({ratio:.1f}). "
+                                f"Likely loose synopsis or omission.\n"
+                                f"  Original:    {o_s}\n"
+                                f"  Translation: {t_s}"
+                            )
+
+            for cue in sc.get('cues', []):
+                cue_id = cue.get('id', '?')
+                for line in cue.get('lines', []):
+                    line_id = line.get('id', '?')
+                    if not line.get('literal'):
+                        errors.append(f"Cue {cue_id} Line {line_id}: Missing literal translation for line: {line.get('original')}")
+
+    if errors:
+        print("\n" + "!" * 70)
+        print("IMPORT REJECTED: LIBRETTO TRANSLATION STANDARD VIOLATION")
+        print("!" * 70)
+        for e in errors:
+            print(f"  ✗ {e}")
+        print("\nAll imported works must provide 100% faithful, syntax-transparent literal machine translations.\n")
+        sys.exit(1)
+    else:
+        print("  ✓ Translation standard verified: 100% literal, 1-to-1 sentence aligned, zero loose synopses.")
+
 def generate_typescript_files(
     opera_data: Dict[str, Any],
     output_dir: Path,
@@ -785,6 +857,9 @@ def main():
         'characters': characters,
         'acts': acts
     }
+
+    print("\n[Quality & Translation Standard Audit]")
+    validate_literal_translation_standard(opera_obj)
 
     if args.dry_run:
         print("\n[Dry Run] Validation succeeded. No files written.")

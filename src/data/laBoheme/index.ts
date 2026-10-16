@@ -16,7 +16,7 @@ export const laBoheme: Opera = {
   language: "it",
   languageLabel: "Italian",
   year: 1896,
-  synopsis: "Synopsis for La Bohème by Giacomo Puccini.",
+  synopsis: "Set in 1830s Paris Latin Quarter, four young, impoverished bohemians—a poet, a painter, a musician, and a philosopher—navigate art, camaraderie, love, and tragedy in a freezing attic. When frail seamstress Mimì knocks on Rodolfo's door seeking a candle flame, an ardent passion blooms, set against Marcello and Musetta's stormy courtship and the bittersweet comedy of Bohemian camaraderie.",
   characters: [
     {
       "name": "Rodolfo",

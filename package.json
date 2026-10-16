@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "test": "python3 scripts/verify_translation_standard.py",
+    "build": "python3 scripts/verify_translation_standard.py && tsc && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
