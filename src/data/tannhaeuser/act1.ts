@@ -214,7 +214,7 @@ export const tannhaeuserAct1: Act = {
       "title": "Geliebter, sag', wo weilt dein Sinn? (Tannhäuser und Venus)",
       "titleTranslation": "Beloved, say, where dwells your mind? (Tannhäuser and Venus)",
       "originalDescription": "Tannhäuser erwacht wie aus einem Traume. Sehnsucht nach der sterblichen Welt, dem Frühling und den Glockenklängen der Erde treibt ihn an, Venus trotz aller Verlockungen zu entsagen.",
-      "description": "Tannhäuser awakens with heavy heart, pining for the fresh air, birdsong, and mortal joys of earth. Despite Venus's seductive entreaties and wrath, he invokes the Virgin Mary and the spell breaks.",
+      "description": "Tannh\u00e4user awakens as if from a dream. Longing for the mortal world, spring, and the chiming bells of earth drives him to renounce Venus despite all allurements.",
       "cues": [
         {
           "id": "a1_s2_c1",
@@ -7621,7 +7621,7 @@ export const tannhaeuserAct1: Act = {
       "title": "Wer ist der Dort in brünstigem Gebet? (Die Jagdgesellschaft)",
       "titleTranslation": "Who is that there in fervent prayer? (The Hunting Party)",
       "originalDescription": "Waldhörner tönen von der Höhe. Landgraf Hermann und die Sängerritter Wolfram, Walther, Biterolf kehren von der Jagd zurück, erkennen Heinrich und heißen ihn im Namen Elisabeths willkommen.",
-      "description": "Hunting horns announce Landgrave Hermann and the minstrel-knights. Wolfram invokes the name of Princess Elisabeth, convincing Heinrich to return to the Wartburg.",
+      "description": "Hunting horns sound from the height. Landgrave Hermann and the minstrel-knights Wolfram, Walther, and Biterolf return from the hunt, recognize Heinrich, and welcome him in Elisabeth's name.",
       "cues": [
         {
           "id": "a1_s4_c1",

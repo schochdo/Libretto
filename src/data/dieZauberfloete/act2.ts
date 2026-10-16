@@ -11,7 +11,7 @@ export const dieZauberfloeteAct2: Act = {
       "title": "O Isis und Osiris (Marsch der Priester & Arie mit Chor)",
       "titleTranslation": "O Isis and Osiris (March of the Priests & Aria with Chorus)",
       "originalDescription": "Ein Palmenwald; alle Bäume sind von Silber, die Blätter von Gold. Sarastro und die Priester ziehen feierlich ein. Sarastro fleht die Götter um Weisheit und Schutz für das neue Paar an.",
-      "description": "A grove of silver palms with leaves of gold. Sarastro and the priests enter in solemn procession. Sarastro offers a prayer to Isis and Osiris for wisdom and fortitude on behalf of Tamino and Pamina.",
+      "description": "A palm grove; all trees are of silver, the leaves of gold. Sarastro and the priests enter in solemn procession. Sarastro implores the gods for wisdom and protection for the new couple.",
       "cues": [
         {
           "id": "a2_s1_c1",
@@ -2970,7 +2970,7 @@ export const dieZauberfloeteAct2: Act = {
       "title": "Wie? wie? wie? ihr an diesem Schreckensort? (Quintett)",
       "titleTranslation": "How? How? How? You at this place-of-terror? (Quintet)",
       "originalDescription": "Die drei Damen erscheinen im Hof und versuchen Tamino und Papageno einzuschüchtern.",
-      "description": "The Three Ladies appear in the darkness, seeking to terrify the initiates and break their vow of silence, but Tamino remains resolute and restrains Papageno.",
+      "description": "The three ladies appear in the courtyard and attempt to intimidate Tamino and Papageno.",
       "cues": [
         {
           "id": "a2_s3_c1",
@@ -4320,7 +4320,7 @@ export const dieZauberfloeteAct2: Act = {
       "title": "Alles fühlt der Liebe Freuden (Arie)",
       "titleTranslation": "Everything feels the joys of love (Aria)",
       "originalDescription": "Ein Garten. Pamina schläft im Mondschein. Monostatos schleicht sich heran.",
-      "description": "A garden. Pamina sleeps in the moonlight. Monostatos creeps stealthily near.",
+      "description": "A garden. Pamina sleeps in the moonlight. Monostatos creeps near.",
       "cues": [
         {
           "id": "a2_s4_c1",
@@ -4802,7 +4802,7 @@ export const dieZauberfloeteAct2: Act = {
       "title": "Der Hölle Rache kocht in meinem Herzen (Arie)",
       "titleTranslation": "Hell's vengeance boils in my heart (Aria)",
       "originalDescription": "Die Königin der Nacht erscheint unter Donner, reicht Pamina einen Dolch und befiehlt ihr, Sarastro zu töten.",
-      "description": "Thunder crashes as the Queen of the Night appears before Pamina, demanding that she assassinate Sarastro with a dagger or face eternal maternal repudiation.",
+      "description": "The Queen of the Night appears amidst thunder, hands Pamina a dagger, and commands her to kill Sarastro.",
       "cues": [
         {
           "id": "a2_s5_c1",
@@ -5890,7 +5890,7 @@ export const dieZauberfloeteAct2: Act = {
       "title": "In diesen heil'gen Hallen (Arie)",
       "titleTranslation": "In these sacred halls (Aria)",
       "originalDescription": "Sarastro tröstet Pamina und verkündet die edlen Ideale von Versöhnung und Vergebung.",
-      "description": "Sarastro banishes the treacherous Monostatos and gently reassures Pamina, proclaiming that within these sacred walls, love, forgiveness, and brotherhood reign supreme.",
+      "description": "Sarastro consoles Pamina and proclaims the noble ideals of reconciliation and forgiveness.",
       "cues": [
         {
           "id": "a2_s6_c1",
@@ -7145,7 +7145,7 @@ export const dieZauberfloeteAct2: Act = {
       "title": "Seid uns zum zweiten Mal willkommen (Terzett)",
       "titleTranslation": "Be to-us for-the second time welcome (Trio)",
       "originalDescription": "Die drei Knaben bringen Flöte, Glockenspiel und Speisen herbei.",
-      "description": "The Three Boys descend in their flying apparatus, returning the magic flute and bells to the initiates and offering food and comfort before the next trials.",
+      "description": "The three boys bring flute, glockenspiel, and food.",
       "cues": [
         {
           "id": "a2_s7_c1",
@@ -9089,7 +9089,7 @@ export const dieZauberfloeteAct2: Act = {
       "title": "Ach, ich fühl's, es ist verschwunden (Arie)",
       "titleTranslation": "Ah, I feel it, it is vanished (Aria)",
       "originalDescription": "Pamina eilt herbei, doch Tamino muß schweigen. Pamina glaubt in tiefer Trauer, seine Liebe verloren zu haben.",
-      "description": "Guided by the flute, Pamina rushes in, but Tamino is bound by his vow of silence and must turn away. Convinced she has lost his love forever, Pamina plunges into heartbroken despair.",
+      "description": "Pamina rushes here, but Tamino must remain silent. Pamina, in deep sorrow, believes she has lost his love.",
       "cues": [
         {
           "id": "a2_s8_c1",
@@ -11245,7 +11245,7 @@ export const dieZauberfloeteAct2: Act = {
       "title": "Soll ich dich, Teurer, nicht mehr seh'n? (Terzett)",
       "titleTranslation": "Shall I you, dear-one, no more see? (Trio)",
       "originalDescription": "Pamina und Tamino nehmen Abschied vor den letzten großen Prüfungen.",
-      "description": "Pamina and Tamino share an agonizing farewell before the ultimate trials begin, while Sarastro promises they will soon be reunited in joy.",
+      "description": "Pamina and Tamino take their leave before the final great trials.",
       "cues": [
         {
           "id": "a2_s10_c1",
@@ -12242,7 +12242,7 @@ export const dieZauberfloeteAct2: Act = {
       "title": "Ein Mädchen oder Weibchen (Arie)",
       "titleTranslation": "A maiden or a-little-wife (Aria)",
       "originalDescription": "Papageno spielt sein Glockenspiel und wünscht sich eine liebe Gefährtin.",
-      "description": "Left alone in the courtyard, Papageno plays upon his magic bells and sings of his heart's deepest yearning: a tender little wife to love and cherish.",
+      "description": "Papageno plays his glockenspiel and wishes for a dear companion.",
       "cues": [
         {
           "id": "a2_s11_c1",
@@ -15694,7 +15694,7 @@ export const dieZauberfloeteAct2: Act = {
       "title": "Der, welcher wandert diese Straße (Finale II - Teil 2: Die Prüfungen)",
       "titleTranslation": "He, who wanders this path (Finale II - Part 2: The Trials)",
       "originalDescription": "Zwei Geharnischte wachen vor den Toren zu Feuer und Wasser. Pamina und Tamino durchschreiten die Prüfungen.",
-      "description": "Before the gates of the fiery mountain and raging waters, Two Armed Men sing the solemn chorale. Pamina and Tamino are reunited and pass through the elements guided by the Magic Flute.",
+      "description": "Two armored men watch before the gates of fire and water. Pamina and Tamino pass through the trials.",
       "cues": [
         {
           "id": "a2_s13_c1",
@@ -17341,7 +17341,7 @@ export const dieZauberfloeteAct2: Act = {
       "title": "Die Strahlen der Sonne vertreiben die Nacht (Finale II - Teil 4: Triumph des Lichts)",
       "titleTranslation": "The rays of the sun dispel the night (Finale II - Part 4: Triumph of the Light)",
       "originalDescription": "Monostatos und die Königin der Nacht werden gestürzt. Der Tempel der Sonne erstrahlt in vollem Glanze.",
-      "description": "Monostatos and the Queen of the Night lead a covert attack on the temple, but are banished into eternal night. The Sun Temple blazes with light as Sarastro, Tamino, and Pamina triumph.",
+      "description": "Monostatos and the Queen of the Night are overthrown. The Temple of the Sun shines in full splendor.",
       "cues": [
         {
           "id": "a2_s15_c1",

@@ -11,7 +11,7 @@ export const dieZauberfloeteAct1: Act = {
       "title": "Zu Hilfe! Zu Hilfe! (Introduktion)",
       "titleTranslation": "To help! To help! (Introduction)",
       "originalDescription": "Tamino im prächtigen Jagdkleide eilt von einem Felsen herunter, eine Schlange verfolgt ihn. Drei verschleierte Damen der Königin der Nacht erscheinen und töten das Ungeheuer.",
-      "description": "Prince Tamino rushes down from the rocks in magnificent hunting attire, pursued by a giant serpent. He collapses in a faint, whereupon Three Ladies of the Queen of the Night appear and slay the monster.",
+      "description": "Tamino in magnificent hunting attire rushes down from a rock, a serpent pursuing him. Three veiled ladies of the Queen of the Night appear and slay the monster.",
       "cues": [
         {
           "id": "a1_s1_c1",
@@ -1112,7 +1112,7 @@ export const dieZauberfloeteAct1: Act = {
       "title": "Der Vogelfänger bin ich ja (Lied)",
       "titleTranslation": "The bird-catcher am I indeed (Song)",
       "originalDescription": "Papageno kommt einen Fußsteig herunter mit einer großen Vogelsteige auf dem Rücken und einer fünftönigen Panflöte in der Hand.",
-      "description": "Papageno, bird-catcher to the Queen of the Night, arrives playing his panpipes and singing joyfully of his carefree life catching birds and wishing for a wife.",
+      "description": "Papageno comes down a footpath with a large birdcage on his back and a five-tone panpipe in his hand.",
       "cues": [
         {
           "id": "a1_s2_c1",
@@ -3793,7 +3793,7 @@ export const dieZauberfloeteAct1: Act = {
       "title": "Dies Bildnis ist bezaubernd schön (Arie)",
       "titleTranslation": "This portrait is enchantingly beautiful (Aria)",
       "originalDescription": "Tamino betrachtet das Bildnis Paminas, das ihm die drei Damen übergeben haben.",
-      "description": "Tamino gazes upon the portrait of Pamina given to him by the Three Ladies and is overcome by a profound and overwhelming love.",
+      "description": "Tamino contemplates the portrait of Pamina that the three ladies have handed to him.",
       "cues": [
         {
           "id": "a1_s3_c1",
@@ -6523,7 +6523,7 @@ export const dieZauberfloeteAct1: Act = {
       "title": "Hm! hm! hm! hm! (Quintett)",
       "titleTranslation": "Hm! hm! hm! hm! (Quintet)",
       "originalDescription": "Papageno hat ein goldenes Schloß vor dem Mund. Die drei Damen befreien ihn und bringen Tamino die Zauberflöte und Papageno das Glockenspiel.",
-      "description": "Papageno laments his punishment for lying with a padlock on his mouth. The Three Ladies unlock it, cautioning against dishonesty, and bestow upon Tamino the magic flute and upon Papageno a magical chime of silver bells.",
+      "description": "Papageno has a golden padlock before his mouth. The three ladies free him and bring Tamino the magic flute and Papageno the glockenspiel.",
       "cues": [
         {
           "id": "a1_s5_c1",
@@ -9444,7 +9444,7 @@ export const dieZauberfloeteAct1: Act = {
       "title": "Bei Männern, welche Liebe fühlen (Duett)",
       "titleTranslation": "In men, who love feel (Duet)",
       "originalDescription": "Pamina und Papageno besingen die erhabene Kraft der Liebe zwischen Mann und Frau.",
-      "description": "Pamina and Papageno reflect on the divine sacredness of love and harmonious matrimony before setting off to find Tamino.",
+      "description": "Pamina and Papageno sing of the sublime power of love between man and woman.",
       "cues": [
         {
           "id": "a1_s7_c1",

@@ -1695,7 +1695,7 @@ export const tannhaeuserAct3: Act = {
       "title": "O du, mein holder Abendstern (Wolframs Lied an den Abendstern)",
       "titleTranslation": "O you, my lovely evening star (Wolfram's Song to the Evening Star)",
       "originalDescription": "Wolfram bleibt allein in der dämmernden Nacht zurück, stimmt seine Harfe und singt sein berühmtes Lied an den Abendstern als Geleit für Elisabeths scheidende Seele.",
-      "description": "Alone under the evening sky, Wolfram tunes his harp and sings his sublime hymn to the evening star, anticipating Elisabeth's transfiguration.",
+      "description": "Wolfram remains behind alone in the gathering night, tunes his harp, and sings his famous song to the evening star as an escort for Elisabeth's departing soul.",
       "cues": [
         {
           "id": "a3_s2_c1",
