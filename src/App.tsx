@@ -339,7 +339,7 @@ export const App: React.FC = () => {
   }, [currentScene, searchQuery]);
 
   return (
-    <div className="h-screen flex flex-col overflow-hidden transition-colors selection:bg-amber-500/20">
+    <div className="h-screen h-[100dvh] flex flex-col overflow-hidden transition-colors selection:bg-amber-500/20">
       
       {/* Top Navigation Bar */}
       <Navbar
@@ -366,7 +366,7 @@ export const App: React.FC = () => {
           {/* Pinned Top Scene Navigation Bar - cleanly positioned above the scroll container */}
           {displayedScene && currentOpera && (
             <div 
-              className="px-4 sm:px-6 py-2.5 border-b shadow-xs flex items-center justify-between gap-3 shrink-0 transition-colors"
+              className="px-2.5 sm:px-6 py-2 sm:py-2.5 border-b shadow-xs flex items-center justify-between gap-1.5 sm:gap-3 shrink-0 transition-colors"
               style={{ 
                 backgroundColor: 'var(--bg-secondary)', 
                 borderColor: 'var(--border-color)' 
@@ -375,7 +375,7 @@ export const App: React.FC = () => {
               <button
                 onClick={handlePrevScene}
                 disabled={!hasPrevScene}
-                className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg border text-xs sm:text-sm font-medium transition-all disabled:opacity-30 disabled:cursor-not-allowed hover:opacity-80 active:scale-95"
+                className="flex items-center gap-1 sm:gap-1.5 px-2 sm:px-3 py-1.5 rounded-lg border text-xs sm:text-sm font-medium transition-all disabled:opacity-30 disabled:cursor-not-allowed hover:opacity-80 active:scale-95 shrink-0"
                 style={{ 
                   backgroundColor: 'var(--bg-primary)',
                   borderColor: 'var(--border-color)',
@@ -389,10 +389,10 @@ export const App: React.FC = () => {
               </button>
 
               {/* Center Scene/Act Interactive Dropdown Button */}
-              <div className="relative">
+              <div className="relative flex-1 min-w-0 flex justify-center">
                 <button
                   onClick={() => setIsScenePickerOpen(!isScenePickerOpen)}
-                  className="flex items-center gap-2 px-3 py-1.5 rounded-lg border text-xs sm:text-sm font-semibold transition-all hover:opacity-90 active:scale-98 max-w-xs sm:max-w-md md:max-w-lg lg:max-w-xl truncate cursor-pointer"
+                  className="flex items-center gap-1.5 sm:gap-2 px-2 sm:px-3 py-1.5 rounded-lg border text-xs sm:text-sm font-semibold transition-all hover:opacity-90 active:scale-98 max-w-[190px] xs:max-w-[240px] sm:max-w-md md:max-w-lg lg:max-w-xl truncate cursor-pointer"
                   style={{ 
                     backgroundColor: 'var(--bg-primary)',
                     borderColor: isScenePickerOpen ? 'var(--border-active)' : 'var(--border-color)',
@@ -400,8 +400,8 @@ export const App: React.FC = () => {
                   }}
                   title="Click to jump directly to any Act or Scene"
                 >
-                  <span style={{ color: 'var(--accent)' }}>{currentAct?.title}</span>
-                  <span className="opacity-40">•</span>
+                  <span style={{ color: 'var(--accent)' }} className="shrink-0">{currentAct?.title}</span>
+                  <span className="opacity-40 shrink-0">•</span>
                   <span className="truncate">Scene {displayedScene.sceneNumber}: {displayedScene.title}</span>
                   {displayedScene.titleTranslation && (
                     <span className="hidden lg:inline opacity-70 italic truncate">
@@ -477,7 +477,7 @@ export const App: React.FC = () => {
               <button
                 onClick={handleNextScene}
                 disabled={!hasNextScene}
-                className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg border text-xs sm:text-sm font-medium transition-all disabled:opacity-30 disabled:cursor-not-allowed hover:opacity-80 active:scale-95"
+                className="flex items-center gap-1 sm:gap-1.5 px-2 sm:px-3 py-1.5 rounded-lg border text-xs sm:text-sm font-medium transition-all disabled:opacity-30 disabled:cursor-not-allowed hover:opacity-80 active:scale-95 shrink-0"
                 style={{ 
                   backgroundColor: 'var(--bg-primary)',
                   borderColor: 'var(--border-color)',
@@ -491,6 +491,7 @@ export const App: React.FC = () => {
               </button>
             </div>
           )}
+
 
           {/* Scrollable Libretto Reader Pane */}
           <main 

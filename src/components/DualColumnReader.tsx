@@ -92,24 +92,18 @@ export const DualColumnReader: React.FC<DualColumnReaderProps> = ({
 
       {/* Reader Layout Guide & View Switcher */}
       <div 
-        className="flex items-center justify-between gap-3 pb-3 mb-6 border-b text-xs sm:text-sm transition-colors"
+        className="flex items-center justify-between gap-2 sm:gap-3 pb-3 mb-6 border-b text-xs sm:text-sm transition-colors"
         style={{ borderColor: 'var(--border-color)' }}
       >
         {isStacked ? (
-          <div className="flex items-center gap-2 opacity-85">
-            <span className="font-bold uppercase tracking-widest text-xs">Interlinear Mode</span>
+          <div className="flex items-center gap-2 opacity-85 min-w-0">
+            <span className="font-bold uppercase tracking-widest text-xs truncate">Interlinear Mode</span>
             <span className="text-xs font-normal lowercase opacity-70 hidden sm:inline">(Original verse with literal syntax below)</span>
           </div>
         ) : (
-          <div className="grid grid-cols-2 gap-4 sm:gap-8 flex-1 font-bold uppercase tracking-widest text-xs">
-            <div className="flex items-center gap-2 opacity-85">
-              <span>Original Text</span>
-              <span className="text-xs font-normal lowercase opacity-75 hidden sm:inline">(Tap to inspect)</span>
-            </div>
-            <div className="flex items-center gap-2 opacity-85" style={{ color: 'var(--accent)' }}>
-              <span>Literal Translation</span>
-              <span className="text-xs font-normal lowercase opacity-75 hidden sm:inline">(Word-for-word)</span>
-            </div>
+          <div className="flex items-center gap-2 opacity-85 min-w-0">
+            <span className="font-bold uppercase tracking-widest text-xs truncate">Dual Columns</span>
+            <span className="text-xs font-normal lowercase opacity-70 hidden sm:inline">(Side-by-side original and literal syntax)</span>
           </div>
         )}
 

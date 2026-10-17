@@ -122,34 +122,74 @@ export const Navbar: React.FC<NavbarProps> = ({
 
   React.useEffect(() => {
     const handleFsChange = () => {
-      setIsFullscreen(!!document.fullscreenElement);
+      const doc = document as any;
+      setIsFullscreen(!!(
+        document.fullscreenElement ||
+        doc.webkitFullscreenElement ||
+        doc.mozFullScreenElement ||
+        doc.msFullscreenElement
+      ));
     };
     document.addEventListener('fullscreenchange', handleFsChange);
-    return () => document.removeEventListener('fullscreenchange', handleFsChange);
+    document.addEventListener('webkitfullscreenchange', handleFsChange);
+    document.addEventListener('mozfullscreenchange', handleFsChange);
+    document.addEventListener('MSFullscreenChange', handleFsChange);
+    return () => {
+      document.removeEventListener('fullscreenchange', handleFsChange);
+      document.removeEventListener('webkitfullscreenchange', handleFsChange);
+      document.removeEventListener('mozfullscreenchange', handleFsChange);
+      document.removeEventListener('MSFullscreenChange', handleFsChange);
+    };
   }, []);
 
   const toggleFullscreen = () => {
-    if (!document.fullscreenElement) {
-      document.documentElement.requestFullscreen().catch(() => {});
+    const doc = document as any;
+    const docEl = document.documentElement as any;
+
+    const isFs = !!(
+      document.fullscreenElement ||
+      doc.webkitFullscreenElement ||
+      doc.mozFullScreenElement ||
+      doc.msFullscreenElement
+    );
+
+    if (!isFs) {
+      if (docEl.requestFullscreen) {
+        docEl.requestFullscreen().catch(() => {});
+      } else if (docEl.webkitRequestFullscreen) {
+        docEl.webkitRequestFullscreen();
+      } else if (docEl.mozRequestFullScreen) {
+        docEl.mozRequestFullScreen();
+      } else if (docEl.msRequestFullscreen) {
+        docEl.msRequestFullscreen();
+      }
     } else {
-      document.exitFullscreen().catch(() => {});
+      if (document.exitFullscreen) {
+        document.exitFullscreen().catch(() => {});
+      } else if (doc.webkitExitFullscreen) {
+        doc.webkitExitFullscreen();
+      } else if (doc.mozCancelFullScreen) {
+        doc.mozCancelFullScreen();
+      } else if (doc.msExitFullscreen) {
+        doc.msExitFullscreen();
+      }
     }
   };
 
   return (
-    <header className="sticky top-0 z-30 border-b backdrop-blur-md px-3 sm:px-6 py-2.5 transition-colors"
+    <header className="sticky top-0 z-30 border-b backdrop-blur-md px-3 sm:px-6 py-2 sm:py-2.5 transition-colors pt-[max(0.5rem,env(safe-area-inset-top))]"
       style={{
         backgroundColor: 'var(--bg-secondary)',
         borderColor: 'var(--border-color)',
         color: 'var(--text-primary)'
       }}
     >
-      <div className="max-w-7xl mx-auto flex items-center justify-between gap-3">
+      <div className="max-w-7xl mx-auto flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 sm:gap-3">
         
-        {/* Left: Branding & Opera Selector */}
-        <div className="flex items-center gap-1.5 sm:gap-3 shrink-0">
-          <div className="flex items-center gap-1.5 sm:gap-2 shrink-0">
-            <span className="text-lg sm:text-2xl" role="img" aria-label="opera mask">🎭</span>
+        {/* Row 1 on Mobile / Left Section on Desktop: Branding, Opera Selector, Synopsis, and Mobile Fullscreen */}
+        <div className="flex items-center justify-between sm:justify-start gap-2 shrink-0">
+          <div className="flex items-center gap-1.5 sm:gap-2 min-w-0 flex-1 sm:flex-initial">
+            <span className="text-xl sm:text-2xl shrink-0" role="img" aria-label="opera mask">🎭</span>
             <div className="hidden md:block shrink-0">
               <span className="font-display font-bold tracking-wider text-base sm:text-lg block leading-none whitespace-nowrap" style={{ color: 'var(--accent)' }}>
                 LIBRETTO
@@ -158,54 +198,72 @@ export const Navbar: React.FC<NavbarProps> = ({
                 Opera Companion
               </span>
             </div>
+
+            {/* Opera Dropdown (Fills available space on mobile smoothly, bounded on desktop) */}
+            <div className="relative flex-1 min-w-0 sm:flex-initial">
+              <select
+                value={currentOperaId}
+                onChange={(e) => onSelectOpera(e.target.value)}
+                className="w-full sm:w-auto appearance-none font-medium text-xs sm:text-sm py-1.5 pl-2.5 pr-7 sm:pr-8 rounded-lg border cursor-pointer focus:outline-none focus:ring-1 transition-colors max-w-full sm:max-w-xs md:max-w-md truncate"
+                style={{
+                  backgroundColor: 'var(--bg-tertiary)',
+                  borderColor: 'var(--border-color)',
+                  color: 'var(--text-primary)',
+                }}
+              >
+                {sortedCatalog.map((op) => {
+                  const composerLast = op.composer.split(' ').pop() || op.composer;
+                  const title = op.id === 'die-zauberfloete'
+                    ? 'Die Zauberflöte (The Magic Flute)'
+                    : op.title;
+                  const label = `${composerLast}: ${title} [${op.languageLabel}]`;
+                  return (
+                    <option key={op.id} value={op.id}>
+                      {label}
+                    </option>
+                  );
+                })}
+              </select>
+              <ChevronDown className="w-3.5 h-3.5 absolute right-2 top-1/2 -translate-y-1/2 pointer-events-none opacity-60" />
+            </div>
           </div>
 
-          {/* Opera Dropdown */}
-          <div className="relative shrink-0">
-            <select
-              value={currentOperaId}
-              onChange={(e) => onSelectOpera(e.target.value)}
-              className="appearance-none font-medium text-xs sm:text-sm py-1.5 pl-2 pr-6 sm:pr-8 rounded-lg border cursor-pointer focus:outline-none focus:ring-1 transition-colors max-w-[130px] sm:max-w-xs md:max-w-md truncate"
+          {/* Quick Actions (Synopsis & Mobile Fullscreen) */}
+          <div className="flex items-center gap-1.5 shrink-0">
+            {/* Synopsis & Cast Button */}
+            <button
+              onClick={onOpenToc}
+              disabled={!currentOpera}
+              className="flex items-center gap-1.5 text-xs sm:text-sm py-1.5 px-2 sm:px-2.5 rounded-lg border transition-colors hover:opacity-80 disabled:opacity-40 disabled:cursor-not-allowed shrink-0"
               style={{
                 backgroundColor: 'var(--bg-tertiary)',
                 borderColor: 'var(--border-color)',
-                color: 'var(--text-primary)',
+                color: 'var(--text-secondary)'
               }}
+              title="View Synopsis and Characters"
             >
-              {sortedCatalog.map((op) => {
-                const composerLast = op.composer.split(' ').pop() || op.composer;
-                const title = op.id === 'die-zauberfloete'
-                  ? 'Die Zauberflöte (The Magic Flute)'
-                  : op.title;
-                const label = `${composerLast}: ${title} [${op.languageLabel}]`;
-                return (
-                  <option key={op.id} value={op.id}>
-                    {label}
-                  </option>
-                );
-              })}
-            </select>
-            <ChevronDown className="w-3.5 h-3.5 absolute right-1.5 sm:right-2.5 top-1/2 -translate-y-1/2 pointer-events-none opacity-60" />
-          </div>
+              <BookOpen className="w-3.5 h-3.5" style={{ color: 'var(--accent)' }} />
+              <span className="font-medium hidden md:inline">Synopsis & Cast</span>
+              <span className="font-medium hidden xs:inline md:hidden">Cast</span>
+            </button>
 
-          {/* Synopsis & Cast Button */}
-          <button
-            onClick={onOpenToc}
-            disabled={!currentOpera}
-            className="flex items-center gap-1.5 text-xs sm:text-sm py-1.5 px-2 sm:px-2.5 rounded-lg border transition-colors hover:opacity-80 disabled:opacity-40 disabled:cursor-not-allowed"
-            style={{
-              backgroundColor: 'var(--bg-tertiary)',
-              borderColor: 'var(--border-color)',
-              color: 'var(--text-secondary)'
-            }}
-            title="View Synopsis and Characters"
-          >
-            <BookOpen className="w-3.5 h-3.5" style={{ color: 'var(--accent)' }} />
-            <span className="font-medium hidden sm:inline">Synopsis & Cast</span>
-          </button>
+            {/* Mobile Fullscreen Button: Always visible right in the top navbar row on mobile */}
+            <button
+              onClick={toggleFullscreen}
+              className="sm:hidden p-1.5 rounded-lg border transition-colors hover:opacity-80 shrink-0"
+              style={{
+                backgroundColor: 'var(--bg-tertiary)',
+                borderColor: 'var(--border-color)',
+                color: 'var(--accent)'
+              }}
+              title={isFullscreen ? "Exit Fullscreen" : "Enter Fullscreen"}
+            >
+              {isFullscreen ? <Minimize2 className="w-3.5 h-3.5" /> : <Maximize2 className="w-3.5 h-3.5" />}
+            </button>
+          </div>
         </div>
 
-        {/* Center / Right: Search Bar with Opera-Wide Results Dropdown */}
+        {/* Center / Right: Search Bar with Opera-Wide Results Dropdown (Desktop lg:) */}
         <div ref={searchContainerRef} className="relative flex-1 max-w-sm hidden lg:block">
           <Search className="w-3.5 h-3.5 absolute left-3 top-1/2 -translate-y-1/2 opacity-50" />
           <input
@@ -297,106 +355,111 @@ export const Navbar: React.FC<NavbarProps> = ({
           )}
         </div>
 
-        {/* Right Controls: Font Size, Theme Toggles, Info */}
-        <div className="flex items-center gap-1 sm:gap-2">
+        {/* Row 2 on Mobile / Right Controls on Desktop: Font Size, Theme, Audio, About, Desktop Fullscreen */}
+        <div className="flex items-center justify-between sm:justify-end gap-1.5 sm:gap-2 pt-1 sm:pt-0 border-t sm:border-t-0 border-[var(--border-color)]/40 sm:border-transparent">
           
-          {/* Font Size Adjusters */}
-          <div className="flex items-center rounded-lg border overflow-hidden"
-            style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}
-          >
-            <button
-              onClick={() => onAdjustFontSize(-0.1)}
-              disabled={fontSizeMultiplier <= 0.8}
-              className="px-1.5 sm:px-2 py-1 text-xs font-semibold hover:opacity-80 disabled:opacity-30"
-              title="Decrease font size"
+          <div className="flex items-center gap-1.5 sm:gap-2">
+            {/* Font Size Adjusters */}
+            <div className="flex items-center rounded-lg border overflow-hidden"
+              style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}
             >
-              A-
+              <button
+                onClick={() => onAdjustFontSize(-0.1)}
+                disabled={fontSizeMultiplier <= 0.8}
+                className="px-2 py-1 text-xs font-semibold hover:opacity-80 disabled:opacity-30"
+                title="Decrease font size"
+              >
+                A-
+              </button>
+              <span className="text-[10px] px-0.5 opacity-40 select-none">|</span>
+              <button
+                onClick={() => onAdjustFontSize(0.1)}
+                disabled={fontSizeMultiplier >= 1.5}
+                className="px-2 py-1 text-xs font-semibold hover:opacity-80 disabled:opacity-30"
+                title="Increase font size"
+              >
+                A+
+              </button>
+            </div>
+
+            {/* Theme Switcher: Day, Night, Astro Red */}
+            <div className="flex items-center p-0.5 rounded-lg border"
+              style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}
+            >
+              <button
+                onClick={() => onSelectTheme('day')}
+                className={`p-1 sm:p-1.5 rounded-md transition-all ${theme === 'day' ? 'shadow-sm' : 'opacity-60 hover:opacity-100'}`}
+                style={theme === 'day' ? { backgroundColor: 'var(--bg-primary)', color: 'var(--accent)' } : {}}
+                title="Day Mode (Parchment)"
+              >
+                <Sun className="w-3.5 h-3.5" />
+              </button>
+              <button
+                onClick={() => onSelectTheme('night')}
+                className={`p-1 sm:p-1.5 rounded-md transition-all ${theme === 'night' ? 'shadow-sm' : 'opacity-60 hover:opacity-100'}`}
+                style={theme === 'night' ? { backgroundColor: 'var(--bg-secondary)', color: 'var(--accent)' } : {}}
+                title="Night Mode (Dark OLED)"
+              >
+                <Moon className="w-3.5 h-3.5" />
+              </button>
+              <button
+                onClick={() => onSelectTheme('astro-red')}
+                className={`p-1 sm:p-1.5 rounded-md transition-all ${theme === 'astro-red' ? 'shadow-sm' : 'opacity-60 hover:opacity-100'}`}
+                style={theme === 'astro-red' ? { backgroundColor: '#2d0606', color: '#ef4444' } : {}}
+                title="Astro Red Mode (Scotopic Night Vision Protection)"
+              >
+                <Eye className="w-3.5 h-3.5" />
+              </button>
+            </div>
+          </div>
+
+          <div className="flex items-center gap-1.5 sm:gap-2">
+            {/* Audio & Voices Settings Button */}
+            <button
+              onClick={onOpenVoiceSettings}
+              className="flex items-center gap-1.5 p-1.5 sm:px-2 sm:py-1 text-xs rounded-lg border transition-colors hover:opacity-80"
+              style={{
+                backgroundColor: 'var(--bg-tertiary)',
+                borderColor: 'var(--border-color)',
+                color: 'var(--accent)'
+              }}
+              title="Audio & Voice Settings"
+            >
+              <Volume2 className="w-3.5 h-3.5 shrink-0" />
+              <span className="hidden md:inline font-medium max-w-[90px] truncate">
+                {activeVoiceName || 'Voice'}
+              </span>
             </button>
-            <span className="text-[10px] px-0.5 opacity-40 select-none">|</span>
+
+            {/* About / Guide Button */}
             <button
-              onClick={() => onAdjustFontSize(0.1)}
-              disabled={fontSizeMultiplier >= 1.5}
-              className="px-1.5 sm:px-2 py-1 text-xs font-semibold hover:opacity-80 disabled:opacity-30"
-              title="Increase font size"
+              onClick={onOpenAbout}
+              className="p-1.5 rounded-lg border transition-colors hover:opacity-80"
+              style={{
+                backgroundColor: 'var(--bg-tertiary)',
+                borderColor: 'var(--border-color)',
+                color: 'var(--text-secondary)'
+              }}
+              title="About Libretto & Shortcuts"
             >
-              A+
+              <Info className="w-3.5 h-3.5" />
+            </button>
+
+            {/* Desktop Fullscreen Button */}
+            <button
+              onClick={toggleFullscreen}
+              className="hidden sm:block p-1.5 rounded-lg border transition-colors hover:opacity-80"
+              style={{
+                backgroundColor: 'var(--bg-tertiary)',
+                borderColor: 'var(--border-color)',
+                color: 'var(--accent)'
+              }}
+              title={isFullscreen ? "Exit Fullscreen" : "Enter Fullscreen (Hide Browser Tabs & Address Bar)"}
+            >
+              {isFullscreen ? <Minimize2 className="w-3.5 h-3.5" /> : <Maximize2 className="w-3.5 h-3.5" />}
             </button>
           </div>
 
-          {/* Theme Switcher: Day, Night, Astro Red */}
-          <div className="flex items-center p-0.5 rounded-lg border"
-            style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}
-          >
-            <button
-              onClick={() => onSelectTheme('day')}
-              className={`p-1 sm:p-1.5 rounded-md transition-all ${theme === 'day' ? 'shadow-sm' : 'opacity-60 hover:opacity-100'}`}
-              style={theme === 'day' ? { backgroundColor: 'var(--bg-primary)', color: 'var(--accent)' } : {}}
-              title="Day Mode (Parchment)"
-            >
-              <Sun className="w-3.5 h-3.5" />
-            </button>
-            <button
-              onClick={() => onSelectTheme('night')}
-              className={`p-1 sm:p-1.5 rounded-md transition-all ${theme === 'night' ? 'shadow-sm' : 'opacity-60 hover:opacity-100'}`}
-              style={theme === 'night' ? { backgroundColor: 'var(--bg-secondary)', color: 'var(--accent)' } : {}}
-              title="Night Mode (Dark OLED)"
-            >
-              <Moon className="w-3.5 h-3.5" />
-            </button>
-            <button
-              onClick={() => onSelectTheme('astro-red')}
-              className={`p-1 sm:p-1.5 rounded-md transition-all ${theme === 'astro-red' ? 'shadow-sm' : 'opacity-60 hover:opacity-100'}`}
-              style={theme === 'astro-red' ? { backgroundColor: '#2d0606', color: '#ef4444' } : {}}
-              title="Astro Red Mode (Scotopic Night Vision Protection)"
-            >
-              <Eye className="w-3.5 h-3.5" />
-            </button>
-          </div>
-
-          {/* Audio & Voices Settings Button */}
-          <button
-            onClick={onOpenVoiceSettings}
-            className="flex items-center gap-1.5 p-1.5 sm:px-2 sm:py-1 text-xs rounded-lg border transition-colors hover:opacity-80"
-            style={{
-              backgroundColor: 'var(--bg-tertiary)',
-              borderColor: 'var(--border-color)',
-              color: 'var(--accent)'
-            }}
-            title="Audio & Voice Settings"
-          >
-            <Volume2 className="w-3.5 h-3.5 shrink-0" />
-            <span className="hidden md:inline font-medium max-w-[90px] truncate">
-              {activeVoiceName || 'Voice'}
-            </span>
-          </button>
-
-          {/* About / Guide Button */}
-          <button
-            onClick={onOpenAbout}
-            className="p-1.5 rounded-lg border transition-colors hover:opacity-80"
-            style={{
-              backgroundColor: 'var(--bg-tertiary)',
-              borderColor: 'var(--border-color)',
-              color: 'var(--text-secondary)'
-            }}
-            title="About Libretto & Shortcuts"
-          >
-            <Info className="w-3.5 h-3.5" />
-          </button>
-
-          {/* Fullscreen Button (Completely removes browser frame/tabs/URL bar on supported desktop screens) */}
-          <button
-            onClick={toggleFullscreen}
-            className="hidden sm:block p-1.5 rounded-lg border transition-colors hover:opacity-80"
-            style={{
-              backgroundColor: 'var(--bg-tertiary)',
-              borderColor: 'var(--border-color)',
-              color: 'var(--accent)'
-            }}
-            title={isFullscreen ? "Exit Fullscreen" : "Enter Fullscreen (Hide Browser Tabs & Address Bar)"}
-          >
-            {isFullscreen ? <Minimize2 className="w-3.5 h-3.5" /> : <Maximize2 className="w-3.5 h-3.5" />}
-          </button>
         </div>
 
       </div>
