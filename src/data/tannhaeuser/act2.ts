@@ -208,7 +208,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "to me (dative)"
                 }
               ],
-              "grammarNote": "Exclamatory structure with apocope 'öd' for 'öde'."
+              "grammarNote": "Exclamatory structure with shortened form 'öd' for 'öde'."
             },
             {
               "id": "a2_s1_c2_l7",
@@ -651,7 +651,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "let / allow (imperative)"
                 }
               ],
-              "grammarNote": "Tannhäuser uses intimate 'du' in contrast to Elisabeth's formal 'Ihr'. Apocope in 'lass''."
+              "grammarNote": "Tannhäuser uses intimate 'du' in contrast to Elisabeth's formal 'Ihr'. Poetic shortening in 'lass''."
             },
             {
               "id": "a2_s2_c7_l2",
@@ -1144,7 +1144,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "child"
                 }
               ],
-              "grammarNote": "Apocope in comparative adjective 'tör'ger' for 'törichter'."
+              "grammarNote": "Poetic shortening in comparative adjective 'tör'ger' for 'törichter'."
             },
             {
               "id": "a2_s2_c13_l3",
@@ -1640,7 +1640,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "delusion / madness"
                 }
               ],
-              "grammarNote": "Substantivized infinitive 'das Wachen'. 'Ward' is archaic preterite of 'werden'."
+              "grammarNote": "Substantivized infinitive 'das Wachen'. 'Ward' is archaic past tense 'of' 'werden'."
             },
             {
               "id": "a2_s2_c13_l24",
@@ -1789,7 +1789,7 @@ export const tannhaeuserAct2: Act = {
                   "word": "sei",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "be (optative / subjunctive)"
+                  "meaning": "be (subjunctive wish / subjunctive)"
                 },
                 {
                   "word": "Stunde",
@@ -1798,7 +1798,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "hour"
                 }
               ],
-              "grammarNote": "Optative subjunctive passive formula 'Gepriesen sei'."
+              "grammarNote": "Solemn passive blessing formula: 'Gepriesen sei' (Blessed/Praised be)."
             },
             {
               "id": "a2_s2_c15_l2",
@@ -1818,7 +1818,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "power / might"
                 }
               ],
-              "grammarNote": "Optative subjunctive passive continuing from previous line."
+              "grammarNote": "Passive blessing continuing from the previous line."
             },
             {
               "id": "a2_s2_c15_l3",
@@ -1870,7 +1870,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "brought"
                 }
               ],
-              "grammarNote": "Apocope in 'Näh'' for 'Nähe'. Completes relative clause from line 070."
+              "grammarNote": "Poetic shortening in 'Näh'' for 'Nähe'. Completes relative clause from line 070."
             },
             {
               "id": "a2_s2_c15_l5",
@@ -1990,7 +1990,7 @@ export const tannhaeuserAct2: Act = {
                   "word": "sei",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "be (optative / subjunctive)"
+                  "meaning": "be (subjunctive wish / subjunctive)"
                 },
                 {
                   "word": "Stunde",
@@ -1999,7 +1999,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "hour"
                 }
               ],
-              "grammarNote": "Optative subjunctive passive formula 'Gepriesen sei'."
+              "grammarNote": "Solemn passive blessing formula: 'Gepriesen sei' (Blessed/Praised be)."
             },
             {
               "id": "a2_s2_c16_l2",
@@ -2019,7 +2019,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "power / might"
                 }
               ],
-              "grammarNote": "Optative subjunctive passive continuing from previous line."
+              "grammarNote": "Passive blessing continuing from the previous line."
             },
             {
               "id": "a2_s2_c16_l3",
@@ -2144,7 +2144,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "trembling / quiver"
                 }
               ],
-              "grammarNote": "Apocope in dative adjective 'freud'gem'."
+              "grammarNote": "Poetic shortening in dative adjective 'freud'gem'."
             },
             {
               "id": "a2_s2_c16_l8",
@@ -2341,7 +2341,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "father"
                 }
               ],
-              "grammarNote": "Syncope in 'güt'ger' for 'gütiger'."
+              "grammarNote": "Poetic contraction in 'güt'ger' for 'gütiger'."
             }
           ]
         },
@@ -2451,7 +2451,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "unspoken / unexpressed"
                 }
               ],
-              "grammarNote": "Optative subjunctive III 'bleibe'."
+              "grammarNote": "Subjunctive wish 'bleibe'."
             },
             {
               "id": "a2_s3_c6_l2",
@@ -2497,7 +2497,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "unbroken"
                 }
               ],
-              "grammarNote": "Optative subjunctive 'bleibe'."
+              "grammarNote": "Subjunctive wish: 'bleibe' expresses a prayer or gentle hope."
             },
             {
               "id": "a2_s3_c6_l4",
@@ -2806,7 +2806,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "dwell / abide / linger"
                 }
               ],
-              "grammarNote": "Apocope in subjunctive verb 'verweil' ('verweile') expressing wish/prayer."
+              "grammarNote": "Poetic shortening in subjunctive verb 'verweil' ('verweile') expressing wish/prayer."
             },
             {
               "id": "a2_s4_c2_l3",
@@ -2921,7 +2921,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "dwell / abide / linger"
                 }
               ],
-              "grammarNote": "Apocope in subjunctive verb 'verweil' ('verweile') expressing wish/prayer."
+              "grammarNote": "Poetic shortening in subjunctive verb 'verweil' ('verweile') expressing wish/prayer."
             },
             {
               "id": "a2_s4_c3_l3",
@@ -3592,7 +3592,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "prize"
                 }
               ],
-              "grammarNote": "Jussive subjunctive 'reiche' (with apocope 'reich'') governing dative 'dem'."
+              "grammarNote": "Jussive subjunctive 'reiche' (with shortened form 'reich'') governing dative 'dem'."
             },
             {
               "id": "a2_s4_c5_l24",
@@ -3708,7 +3708,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "prize"
                 }
               ],
-              "grammarNote": "Apocope in 'Aufgab''."
+              "grammarNote": "Poetic shortening in 'Aufgab''."
             },
             {
               "id": "a2_s4_c5_l28",
@@ -3934,7 +3934,7 @@ export const tannhaeuserAct2: Act = {
                   "word": "Helden",
                   "lemma": "Held",
                   "pos": "noun",
-                  "meaning": "heroes (partitive genitive)"
+                  "meaning": "heroes (genitive phrase)"
                 },
                 {
                   "word": "tapfer",
@@ -3955,7 +3955,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "wise"
                 }
               ],
-              "grammarNote": "Partitive genitive 'der Helden' after 'So viel'."
+              "grammarNote": "Partitive phrase 'der Helden' after 'So viel'."
             },
             {
               "id": "a2_s4_c11_l4",
@@ -5211,7 +5211,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "virtue"
                 }
               ],
-              "grammarNote": "Apocope in compound 'Frauenehr'."
+              "grammarNote": "Poetic shortening in compound 'Frauenehr'."
             },
             {
               "id": "a2_s4_c17_l10",
@@ -5458,7 +5458,7 @@ export const tannhaeuserAct2: Act = {
                   "word": "Freuden",
                   "lemma": "Freude",
                   "pos": "noun",
-                  "meaning": "joys (partitive genitive/dative)"
+                  "meaning": "joys (genitive phrase/dative)"
                 },
                 {
                   "word": "entsprossen",
@@ -5601,7 +5601,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "implore / entreat / obtain by prayer"
                 }
               ],
-              "grammarNote": "Imperative 'lass'' (apocope of 'lasse') with reflexive passive sense: 'lass dich erflehen' ('allow thyself to be entreated/moved by prayer')."
+              "grammarNote": "Imperative 'lass'' (shortened form of 'lasse') with reflexive passive sense: 'lass dich erflehen' ('allow thyself to be entreated/moved by prayer')."
             },
             {
               "id": "a2_s4_c22_l2",
@@ -5733,10 +5733,10 @@ export const tannhaeuserAct2: Act = {
                   "word": "töne",
                   "lemma": "tönen",
                   "pos": "verb",
-                  "meaning": "sound / resound (subjunctive I / optative)"
+                  "meaning": "sound / resound (subjunctive I / subjunctive wish)"
                 }
               ],
-              "grammarNote": "Apostrophe to personified 'hohe Liebe' with optative subjunctive I verb 'töne'."
+              "grammarNote": "Apostrophe to personified 'hohe Liebe' with subjunctive wish I verb 'töne'."
             },
             {
               "id": "a2_s4_c22_l6",
@@ -5872,7 +5872,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "distance / afar"
                 }
               ],
-              "grammarNote": "Apocope in verb 'folg' ('folge') and noun 'Fern' ('Ferne'), typical of Wagnerian poetic meter."
+              "grammarNote": "Poetic shortening in verb 'folg' ('folge') and noun 'Fern' ('Ferne'), typical of Wagnerian poetic meter."
             },
             {
               "id": "a2_s4_c22_l11",
@@ -5999,7 +5999,7 @@ export const tannhaeuserAct2: Act = {
                   "word": "sei",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "be (subjunctive I / optative)"
+                  "meaning": "be (subjunctive I / subjunctive wish)"
                 },
                 {
                   "word": "Preis",
@@ -6046,7 +6046,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "beauty / the beautiful (nominalized neuter)"
                 }
               ],
-              "grammarNote": "Predicate nominal 'Quelle' governing partitive genitive 'alles Schönen'."
+              "grammarNote": "Predicate nominal 'Quelle' governing partitive phrase 'alles Schönen'."
             },
             {
               "id": "a2_s4_c23_l4",
@@ -6373,7 +6373,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "proximity / vicinity / presence"
                 }
               ],
-              "grammarNote": "Apocope of 'Nähe' ('Näh'') governed by preposition 'aus' (dative feminine)."
+              "grammarNote": "Shortened form of 'Nähe' ('Näh'') governed by preposition 'aus' (dative feminine)."
             }
           ]
         },
@@ -6579,7 +6579,7 @@ export const tannhaeuserAct2: Act = {
                   "word": "sei",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "be (subjunctive I / optative)"
+                  "meaning": "be (subjunctive I / subjunctive wish)"
                 },
                 {
                   "word": "gefehmt",
@@ -6596,7 +6596,7 @@ export const tannhaeuserAct2: Act = {
                   "notes": "Past participle (Partizip II) in verbal predicate."
                 }
               ],
-              "grammarNote": "Anaphora with optative passive subjunctive 'sei er gefehmt, sei er gebannt'."
+              "grammarNote": "Anaphora with subjunctive passive subjunctive 'sei er gefehmt, sei er gebannt'."
             }
           ]
         },
@@ -6680,7 +6680,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "Elisabeth"
                 }
               ],
-              "grammarNote": "Rapid series of astonished rhetorical questions with apocope in 'hör'' and 'seh''."
+              "grammarNote": "Rapid series of astonished rhetorical questions with poetic shortening in 'hör'' and 'seh''."
             },
             {
               "id": "a2_s4_c32_l2",
@@ -6970,7 +6970,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "beguile / infatuate"
                 }
               ],
-              "grammarNote": "Archaic second-person preterite 'liessest' in reflexive causative construction 'liessest du dich... betören'."
+              "grammarNote": "Archaic second-person past tense 'liessest' in reflexive causative construction 'liessest du dich... betören'."
             },
             {
               "id": "a2_s4_c35_l2",
@@ -7210,7 +7210,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "depart / go to hell / perish"
                 }
               ],
-              "grammarNote": "Optative subjunctive I 'fahr er hin' (from 'hinfahren', meaning to perish/go down)."
+              "grammarNote": "Subjunctive wish: 'fahr er hin'. (from 'hinfahren', meaning to perish/go down)."
             }
           ]
         },
@@ -7371,7 +7371,7 @@ export const tannhaeuserAct2: Act = {
                   "notes": "Past participle (Partizip II) in verbal predicate."
                 }
               ],
-              "grammarNote": "Apocope in 'Unglücksel'ge'; 'gefangen' is predicative complement to the relative pronoun 'den'."
+              "grammarNote": "Poetic shortening in 'Unglücksel'ge'; 'gefangen' is predicative complement to the relative pronoun 'den'."
             },
             {
               "id": "a2_s4_c39_l6",
@@ -7403,7 +7403,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "holds"
                 }
               ],
-              "grammarNote": "Syncope in 'mächt'ger' for meter; subject 'Zauber' completes the relative clause."
+              "grammarNote": "Poetic contraction in 'mächt'ger' for meter; subject 'Zauber' completes the relative clause."
             },
             {
               "id": "a2_s4_c39_l7",
@@ -7467,7 +7467,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "world"
                 }
               ],
-              "grammarNote": "Apocope in both rhyming feminine nouns 'Sühn'' ('Sühne') and 'Buss'' ('Busse')."
+              "grammarNote": "Poetic shortening in both rhyming feminine nouns 'Sühn'' ('Sühne') and 'Buss'' ('Busse')."
             },
             {
               "id": "a2_s4_c39_l9",
@@ -7580,7 +7580,7 @@ export const tannhaeuserAct2: Act = {
                   "word": "Leides",
                   "lemma": "Leid",
                   "pos": "noun",
-                  "meaning": "harm / injury / grief (partitive genitive)"
+                  "meaning": "harm / injury / grief (genitive phrase)"
                 },
                 {
                   "word": "tat",
@@ -7589,7 +7589,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "did"
                 }
               ],
-              "grammarNote": "Collocation 'jemandem Leides tun' (to do harm to someone) with partitive genitive 'Leides'."
+              "grammarNote": "Collocation 'jemandem Leides tun' (to do harm to someone) with partitive phrase 'Leides'."
             },
             {
               "id": "a2_s4_c39_l13",
@@ -7763,7 +7763,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "step"
                 }
               ],
-              "grammarNote": "Optative subjunctive I 'lenke er' with fronted adverb 'reuvoll'."
+              "grammarNote": "Subjunctive wish: 'lenke er'. with fronted adverb 'reuvoll'."
             },
             {
               "id": "a2_s4_c39_l19",
@@ -7786,7 +7786,7 @@ export const tannhaeuserAct2: Act = {
                   "word": "sei",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "be (subjunctive I / optative)"
+                  "meaning": "be (subjunctive I / subjunctive wish)"
                 },
                 {
                   "word": "gegeben",
@@ -7795,7 +7795,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "given"
                 }
               ],
-              "grammarNote": "Passive optative subjunctive 'sei... gegeben' with dative pronoun 'ihm'."
+              "grammarNote": "Passive subjunctive blessing: 'sei... gegeben'. with dative pronoun 'ihm'."
             },
             {
               "id": "a2_s4_c39_l20",
@@ -7855,7 +7855,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "unfortunate / wretched (dative sing.)"
                 }
               ],
-              "grammarNote": "Exclamatory interjection governing dative of reference 'mir Unglücksel'gem' with syncope."
+              "grammarNote": "Exclamatory interjection governing dative of reference 'mir Unglücksel'gem' with contraction."
             }
           ]
         },
@@ -7895,7 +7895,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "ether / celestial realm"
                 }
               ],
-              "grammarNote": "Preterite 'stieg aus' with strong dative adjective 'lichtem'."
+              "grammarNote": "Past tense 'stieg aus' with strong dative adjective 'lichtem'."
             },
             {
               "id": "a2_s4_c41_l2",
@@ -8011,7 +8011,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "life"
                 }
               ],
-              "grammarNote": "Antithetical parataxis contrasting 'Du gabst ihr Tod' and 'sie bittet für dein Leben'."
+              "grammarNote": "Dramatic contrast contrasting 'Du gabst ihr Tod' and 'sie bittet für dein Leben'."
             },
             {
               "id": "a2_s4_c41_l6",
@@ -8185,7 +8185,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "life"
                 }
               ],
-              "grammarNote": "Antithetical parataxis contrasting 'Du gabst ihr Tod' and 'sie bittet für dein Leben'."
+              "grammarNote": "Dramatic contrast contrasting 'Du gabst ihr Tod' and 'sie bittet für dein Leben'."
             },
             {
               "id": "a2_s4_c42_l4",
@@ -8614,7 +8614,7 @@ export const tannhaeuserAct2: Act = {
                   "word": "sei",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "be (subjunctive I / optative)"
+                  "meaning": "be (subjunctive I / subjunctive wish)"
                 },
                 {
                   "word": "gegeben",
@@ -8623,7 +8623,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "given"
                 }
               ],
-              "grammarNote": "Passive optative subjunctive 'sei... gegeben' with dative pronoun 'ihm'."
+              "grammarNote": "Passive subjunctive blessing: 'sei... gegeben'. with dative pronoun 'ihm'."
             },
             {
               "id": "a2_s4_c44_l3",
@@ -8694,7 +8694,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "committed"
                 }
               ],
-              "grammarNote": "Passive voice with archaic preterite auxiliary 'ward' ('wurde')."
+              "grammarNote": "Passive voice with archaic past tense 'auxiliary' 'ward' ('wurde')."
             },
             {
               "id": "a2_s4_c46_l2",
@@ -8940,7 +8940,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "salvation / welfare"
                 }
               ],
-              "grammarNote": "Apocope in verbs 'zeig' and imperative 'nütz'."
+              "grammarNote": "Poetic shortening in verbs 'zeig' and imperative 'nütz'."
             },
             {
               "id": "a2_s4_c46_l11",
@@ -9655,7 +9655,7 @@ export const tannhaeuserAct2: Act = {
                   "word": "sei",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "be / may be (subjunctive I / optative)"
+                  "meaning": "be / may be (subjunctive I / subjunctive wish)"
                 },
                 {
                   "word": "Gebet",
@@ -9664,7 +9664,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "prayer"
                 }
               ],
-              "grammarNote": "Optative subjunctive I 'sei' equating 'mein Leben' with 'Gebet'."
+              "grammarNote": "Subjunctive wish: 'sei'. equating 'mein Leben' with 'Gebet'."
             },
             {
               "id": "a2_s4_c48_l7",
@@ -9768,7 +9768,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "consecrate / dedicate"
                 }
               ],
-              "grammarNote": "Apocope in 'lass'' and syncopated infinitive 'weihn' ('weihen')."
+              "grammarNote": "Poetic shortening in 'lass'' and syncopated infinitive 'weihn' ('weihen')."
             },
             {
               "id": "a2_s4_c48_l11",
@@ -9820,7 +9820,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "mine (possessive pronoun predicate)"
                 }
               ],
-              "grammarNote": "Apocope in 'nenn' ('nenne') with predicate possessive 'mein'."
+              "grammarNote": "Poetic shortening in 'nenn' ('nenne') with predicate possessive 'mein'."
             }
           ]
         },
@@ -10037,7 +10037,7 @@ export const tannhaeuserAct2: Act = {
                   "word": "sei",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "be (subjunctive I / optative)"
+                  "meaning": "be (subjunctive I / subjunctive wish)"
                 },
                 {
                   "word": "Lust",
@@ -10046,7 +10046,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "joy / delight / pleasure"
                 }
               ],
-              "grammarNote": "Optative subjunctive I with dative of interest 'mir'."
+              "grammarNote": "Subjunctive wish with dative of interest 'mir'."
             },
             {
               "id": "a2_s4_c49_l9",
@@ -10078,7 +10078,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "reconciled / appeased"
                 }
               ],
-              "grammarNote": "Optative clause introduced by 'O, dass...' with passive/stative participle 'versöhnet [werde/sei]'."
+              "grammarNote": "Subjunctive prayer or wish introduced by 'O, dass...' with passive/stative participle 'versöhnet [werde/sei]'."
             },
             {
               "id": "a2_s4_c49_l10",
@@ -10222,7 +10222,7 @@ export const tannhaeuserAct2: Act = {
                   "meaning": "guilt / sin"
                 }
               ],
-              "grammarNote": "Apocope in 'sühn' ('sühne') with fronted prepositional manner phrase 'in Demut'."
+              "grammarNote": "Poetic shortening in 'sühn' ('sühne') with fronted prepositional manner phrase 'in Demut'."
             },
             {
               "id": "a2_s4_c50_l3",

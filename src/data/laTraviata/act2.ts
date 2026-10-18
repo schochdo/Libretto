@@ -456,7 +456,7 @@ export const laTraviataAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "rigenerato",
@@ -3832,7 +3832,7 @@ export const laTraviataAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             },
@@ -7013,7 +7013,7 @@ export const laTraviataAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             },
@@ -7149,7 +7149,7 @@ export const laTraviataAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             },
@@ -8662,7 +8662,7 @@ export const laTraviataAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "mio",
@@ -10693,7 +10693,7 @@ export const laTraviataAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "che",
@@ -13436,7 +13436,7 @@ export const laTraviataAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -15357,7 +15357,7 @@ export const laTraviataAct2: Act = {
                   "word": "davver",
                   "lemma": "davvero",
                   "pos": "adverb",
-                  "meaning": "truly / really (apocope)"
+                  "meaning": "truly / really (shortened poetic form)"
                 },
                 {
                   "word": "la",
@@ -17392,7 +17392,7 @@ export const laTraviataAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "mio",

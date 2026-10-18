@@ -8858,7 +8858,7 @@ export const nozzeDiFigaroAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "di",
@@ -9048,7 +9048,7 @@ export const nozzeDiFigaroAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "vegliando",
@@ -9079,7 +9079,7 @@ export const nozzeDiFigaroAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "sognando",
@@ -9362,7 +9362,7 @@ export const nozzeDiFigaroAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "con",
@@ -11459,7 +11459,7 @@ export const nozzeDiFigaroAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -18221,7 +18221,7 @@ export const nozzeDiFigaroAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             },

@@ -5217,7 +5217,7 @@ export const laTraviataAct3: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "mio",
@@ -5737,7 +5737,7 @@ export const laTraviataAct3: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -7331,7 +7331,7 @@ export const laTraviataAct3: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "mio",

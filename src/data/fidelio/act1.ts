@@ -1426,7 +1426,7 @@ export const fidelioAct1: Act = {
                   "lemma": "werden",
                   "pos": "verb",
                   "meaning": "became / grew",
-                  "notes": "Archaic preterite form of werden."
+                  "notes": "Archaic past tense form of werden."
                 },
                 {
                   "word": "im Ernste",
@@ -1446,7 +1446,7 @@ export const fidelioAct1: Act = {
                   "lemma": "gelingen",
                   "pos": "verb",
                   "meaning": "succeeded",
-                  "notes": "Preterite of gelingen (impersonal verb taking dative)."
+                  "notes": "Past tense of gelingen (impersonal verb taking dative)."
                 }
               ],
               "grammarNote": "Impersonal construction: 'es gelang mir' (I succeeded)."
@@ -1621,7 +1621,7 @@ export const fidelioAct1: Act = {
                   "word": "O wär'",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "o were (subjunctive II optative)"
+                  "meaning": "o were (subjunctive wish)"
                 },
                 {
                   "word": "schon",
@@ -3926,7 +3926,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s4_c1_l16",
               "original": "Drum lächle der Zufall euch gnädig und hold,",
-              "literal": "Therefore smile (optative) the chance / fortune you merciful / gracious and lovely,",
+              "literal": "Therefore smile the chance / fortune you merciful / gracious and lovely,",
               "tokens": [
                 {
                   "word": "Drum",
@@ -3938,7 +3938,7 @@ export const fidelioAct1: Act = {
                   "word": "lächle",
                   "lemma": "lächle",
                   "pos": "verb",
-                  "meaning": "smile (optative)"
+                  "meaning": "smile"
                 },
                 {
                   "word": "der",
@@ -3963,7 +3963,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s4_c1_l17",
               "original": "und segne und lenk' euer Streben;",
-              "literal": "and bless (optative) and lenk' your striving / endeavor;",
+              "literal": "and bless and lenk' your striving / endeavor;",
               "tokens": [
                 {
                   "word": "und",
@@ -3975,7 +3975,7 @@ export const fidelioAct1: Act = {
                   "word": "segne",
                   "lemma": "segne",
                   "pos": "verb",
-                  "meaning": "bless (optative)"
+                  "meaning": "bless"
                 },
                 {
                   "word": "und",

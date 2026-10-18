@@ -118,7 +118,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "mercy / compassion"
                 }
               ],
-              "grammarNote": "Uninflected poetic adjective modifying substantivized infinitive 'Erbarmen'."
+              "grammarNote": "Uninflected poetic adjective modifying verb used as a noun 'Erbarmen'."
             },
             {
               "id": "a1_s1_c2_l6",
@@ -144,7 +144,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "urges / desires / passions"
                 }
               ],
-              "grammarNote": "Optative subjunctive 'still'' expressing wish or promise."
+              "grammarNote": "Subjunctive wish: 'still' expresses a prayer or gentle hope.' expressing wish or promise."
             }
           ]
         },
@@ -259,7 +259,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "mind / thought / spirit"
                 }
               ],
-              "grammarNote": "Vocative substantivized adjective followed by indirect question."
+              "grammarNote": "Vocative adjective used as a noun followed by indirect question."
             }
           ]
         },
@@ -321,7 +321,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "might awake (past subjunctive / Konjunktiv II)"
                 }
               ],
-              "grammarNote": "Optative 'dass' clause expressing an unfulfilled wish in Konjunktiv II."
+              "grammarNote": "Wistful 'dass' clause (Oh, that...) expressing an unfulfilled wish in Konjunktiv II."
             }
           ]
         },
@@ -868,7 +868,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "tör'ge",
                   "lemma": "töricht",
                   "pos": "adjective",
-                  "meaning": "foolish / silly (syncope of törichte)"
+                  "meaning": "foolish / silly (shortened form of törichte)"
                 },
                 {
                   "word": "Klagen",
@@ -877,7 +877,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "laments / complaints"
                 }
               ],
-              "grammarNote": "Poetic syncope in 'tör'ge' for metrical flow."
+              "grammarNote": "Poetic poetic contraction in 'tör'ge' for metrical flow."
             },
             {
               "id": "a1_s2_c10_l2",
@@ -1186,10 +1186,10 @@ export const tannhaeuserAct1: Act = {
                   "word": "ward",
                   "lemma": "werden",
                   "pos": "verb",
-                  "meaning": "became / fell to (archaic preterite)"
+                  "meaning": "became / fell to (archaic past tense)"
                 }
               ],
-              "grammarNote": "Causal 'da' clause; archaic preterite 'ward'."
+              "grammarNote": "Causal 'da' clause; archaic past tense 'ward'."
             }
           ]
         },
@@ -1215,7 +1215,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "töne",
                   "lemma": "tönen",
                   "pos": "verb",
-                  "meaning": "resound (optative subjunctive)"
+                  "meaning": "resound (subjunctive wish)"
                 },
                 {
                   "word": "Lob",
@@ -1230,7 +1230,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "be praised (passive subjunctive)"
                 }
               ],
-              "grammarNote": "Solemn optative subjunctive opening Tannhäuser's hymn to Venus."
+              "grammarNote": "Solemn prayerful opening Tannhäuser's hymn to Venus."
             },
             {
               "id": "a1_s2_c13_l2",
@@ -1259,7 +1259,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "erschuf",
                   "lemma": "erschaffen",
                   "pos": "verb",
-                  "meaning": "created (preterite)"
+                  "meaning": "created (past tense)"
                 }
               ],
               "grammarNote": "Substantivized adjective 'Glücklichem' agreeing with personal pronoun 'mir'."
@@ -1326,7 +1326,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "cry of jubilation / acclaim"
                 }
               ],
-              "grammarNote": "Optative subjunctive 'erheb'' with subject 'mein Lied'."
+              "grammarNote": "Subjunctive wish: 'erheb' expresses a prayer or gentle hope.' with subject 'mein Lied'."
             },
             {
               "id": "a1_s2_c13_l5",
@@ -1355,7 +1355,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "Geniessen",
                   "lemma": "Geniessen",
                   "pos": "noun",
-                  "meaning": "enjoyment (substantivized infinitive)"
+                  "meaning": "enjoyment (verb used as a noun)"
                 }
               ],
               "grammarNote": "Preposition 'nach' expressing longing or striving."
@@ -1369,7 +1369,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "verlangt'",
                   "lemma": "verlangen",
                   "pos": "verb",
-                  "meaning": "yearned / longed (preterite)"
+                  "meaning": "yearned / longed (past tense)"
                 },
                 {
                   "word": "Herz",
@@ -1381,7 +1381,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "dürstete",
                   "lemma": "dürsten",
                   "pos": "verb",
-                  "meaning": "thirsted (preterite)"
+                  "meaning": "thirsted (past tense)"
                 },
                 {
                   "word": "Sinn",
@@ -1390,7 +1390,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "mind / spirit / senses"
                 }
               ],
-              "grammarNote": "Parallel preterite verbs of desire with expletive 'es'."
+              "grammarNote": "Parallel past tense verbs of desire with expletive 'es'."
             },
             {
               "id": "a1_s2_c13_l7",
@@ -1497,7 +1497,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "Lieben",
                   "lemma": "Lieben",
                   "pos": "noun",
-                  "meaning": "loving / affection (substantivized infinitive)"
+                  "meaning": "loving / affection (verb used as a noun)"
                 }
               ],
               "grammarNote": "Dativus commodi/incommodi 'mir' expressing human limitation."
@@ -1776,7 +1776,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "floh",
                   "lemma": "fliehen",
                   "pos": "verb",
-                  "meaning": "fled (preterite)"
+                  "meaning": "fled (past tense)"
                 },
                 {
                   "word": "Begeistrung",
@@ -1814,7 +1814,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "gebot",
                   "lemma": "gebieten",
                   "pos": "verb",
-                  "meaning": "commanded / ordained (preterite)"
+                  "meaning": "commanded / ordained (past tense)"
                 }
               ],
               "grammarNote": "Relative clause modifying 'Begeistrung'."
@@ -1899,16 +1899,16 @@ export const tannhaeuserAct1: Act = {
                   "word": "gepriesen sei",
                   "lemma": "preisen",
                   "pos": "verb",
-                  "meaning": "praised be (optative subjunctive passive)"
+                  "meaning": "praised be (subjunctive passive blessing)"
                 },
                 {
                   "word": "dein Lieben",
                   "lemma": "Lieben",
                   "pos": "noun",
-                  "meaning": "your loving / affection (substantivized infinitive)"
+                  "meaning": "your loving / affection (verb used as a noun)"
                 }
               ],
-              "grammarNote": "Dative formula of gratitude followed by an optative passive clause with the substantivized infinitive 'Lieben'."
+              "grammarNote": "Dative formula of gratitude followed by an subjunctive blessing clause with the verb used as a noun 'Lieben'."
             },
             {
               "id": "a1_s2_c15_l2",
@@ -2150,7 +2150,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "ros'gen",
                   "lemma": "rosig",
                   "pos": "adjective",
-                  "meaning": "rosy / roseate (poetic syncope)"
+                  "meaning": "rosy / roseate (poetic contraction)"
                 },
                 {
                   "word": "Düften",
@@ -2234,7 +2234,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "der Au'",
                   "lemma": "Aue",
                   "pos": "noun",
-                  "meaning": "of the meadow (genitive feminine with apocope)"
+                  "meaning": "of the meadow (genitive feminine with shortened form)"
                 }
               ],
               "grammarNote": "Postposed genitive 'der Au'' (der Aue) modifying 'Grün'."
@@ -2400,7 +2400,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "hear (infinitive)"
                 }
               ],
-              "grammarNote": "Vocative substantivized adjective 'Treuloser' with archaic causative verb form 'lässest'."
+              "grammarNote": "Vocative adjective used as a noun 'Treuloser' with archaic causative verb form 'lässest'."
             },
             {
               "id": "a1_s2_c16_l2",
@@ -2519,7 +2519,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "wolle",
                   "lemma": "wollen",
                   "pos": "verb",
-                  "meaning": "be willing (polite optative imperative)"
+                  "meaning": "be willing (polite request)"
                 },
                 {
                   "word": "zürnen",
@@ -2528,7 +2528,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "be wrathful / angry with (governing dative mir)"
                 }
               ],
-              "grammarNote": "Periphrastic imperative with 'wolle' expressing respectful pleading."
+              "grammarNote": "Gentle, respectful plea with 'wolle' ('please do not')."
             }
           ]
         },
@@ -2697,7 +2697,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "Lieben",
                   "lemma": "Lieben",
                   "pos": "noun",
-                  "meaning": "loving / love (substantivized infinitive)"
+                  "meaning": "loving / love (verb used as a noun)"
                 },
                 {
                   "word": "grösser",
@@ -2712,7 +2712,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "truer (comparative)"
                 }
               ],
-              "grammarNote": "Comparative adjectives modifying substantivized infinitive 'mein Lieben'."
+              "grammarNote": "Comparative adjectives modifying verb used as a noun 'mein Lieben'."
             },
             {
               "id": "a1_s2_c21_l2",
@@ -2919,7 +2919,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "flieh'",
                   "lemma": "fliehen",
                   "pos": "verb",
-                  "meaning": "may flee (optative subjunctive)"
+                  "meaning": "may flee (subjunctive wish)"
                 },
                 {
                   "word": "deine Glieder",
@@ -2934,7 +2934,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "every pain (nominative singular subject)"
                 }
               ],
-              "grammarNote": "Optative subjunctive 'flieh'' taking transitive accusative object 'deine Glieder'."
+              "grammarNote": "Subjunctive wish: 'flieh' expresses a prayer or gentle hope.' taking transitive accusative object 'deine Glieder'."
             },
             {
               "id": "a1_s2_c23_l7",
@@ -2957,7 +2957,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "umwehe",
                   "lemma": "umwehen",
                   "pos": "verb",
-                  "meaning": "may waft around (optative subjunctive)"
+                  "meaning": "may waft around (subjunctive wish)"
                 },
                 {
                   "word": "Kühle",
@@ -2966,7 +2966,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "coolness (nominative feminine subject)"
                 }
               ],
-              "grammarNote": "Optative subjunctive 'umwehe' with postposed subject 'Kühle'."
+              "grammarNote": "Subjunctive wish: 'umwehe' expresses a prayer or gentle hope. with postposed subject 'Kühle'."
             },
             {
               "id": "a1_s2_c23_l8",
@@ -2989,7 +2989,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "durchschwelle",
                   "lemma": "durchschwellen",
                   "pos": "verb",
-                  "meaning": "may surge through / swell (optative subjunctive)"
+                  "meaning": "may surge through / swell (subjunctive wish)"
                 },
                 {
                   "word": "dein Herz",
@@ -2998,7 +2998,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "your heart (accusative neuter)"
                 }
               ],
-              "grammarNote": "Optative subjunctive expressing sensual benediction."
+              "grammarNote": "Subjunctive expression of sensual benediction."
             }
           ]
         },
@@ -3463,7 +3463,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "sei",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "be (optative subjunctive)"
+                  "meaning": "be (subjunctive wish)"
                 },
                 {
                   "word": "dein Preis",
@@ -3478,7 +3478,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "by me (agent of passive)"
                 }
               ],
-              "grammarNote": "Passive optative subjunctive 'gesungen ... sei'."
+              "grammarNote": "Passive subjunctive blessing: 'gesungen ... sei'."
             },
             {
               "id": "a1_s2_c27_l3",
@@ -3510,7 +3510,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "beauty / the beautiful (nominalized neuter)"
                 }
               ],
-              "grammarNote": "Predicate nominal 'Quelle' governing partitive genitive 'alles Schönen'."
+              "grammarNote": "Predicate nominal 'Quelle' governing partitive phrase 'alles Schönen'."
             },
             {
               "id": "a1_s2_c27_l4",
@@ -3591,7 +3591,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "lodre",
                   "lemma": "lodern",
                   "pos": "verb",
-                  "meaning": "may blaze / flare (optative subjunctive)"
+                  "meaning": "may blaze / flare (subjunctive wish)"
                 },
                 {
                   "word": "hell",
@@ -3606,7 +3606,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "it (feminine pronoun referring to 'die Glut')"
                 }
               ],
-              "grammarNote": "Optative subjunctive 'lodre' with pronoun 'sie' referring back to 'die Glut'."
+              "grammarNote": "Subjunctive wish: 'lodre' expresses a prayer or gentle hope. with pronoun 'sie' referring back to 'die Glut'."
             },
             {
               "id": "a1_s2_c27_l7",
@@ -4043,7 +4043,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "das sei",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "let that be (optative subjunctive)"
+                  "meaning": "let that be (subjunctive wish)"
                 },
                 {
                   "word": "dein Los",
@@ -4052,7 +4052,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "your lot / destiny"
                 }
               ],
-              "grammarNote": "Correlative construction 'was... das sei' with optative subjunctive."
+              "grammarNote": "Correlative construction 'was... das sei' with subjunctive wish."
             },
             {
               "id": "a1_s2_c28_l6",
@@ -4158,7 +4158,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "entflohn",
                   "lemma": "entfliehen",
                   "pos": "verb",
-                  "meaning": "fled (preterite plural entflohen)"
+                  "meaning": "fled (past tense plural entflohen)"
                 }
               ],
               "grammarNote": "Preposed genitive attribute 'der Freude Götter' in apposition with subject 'wir'."
@@ -4389,7 +4389,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "leuchte",
                   "lemma": "leuchten",
                   "pos": "verb",
-                  "meaning": "may shine / blaze forth (optative subjunctive)"
+                  "meaning": "may shine / blaze forth (subjunctive wish)"
                 },
                 {
                   "word": "dein Schande",
@@ -4882,7 +4882,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "heut",
                   "lemma": "heute",
                   "pos": "adverb",
-                  "meaning": "today (poetic apocope)"
+                  "meaning": "today (poetic shortening)"
                 },
                 {
                   "word": "scheidet",
@@ -4987,7 +4987,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "sagte",
                   "lemma": "sagen",
                   "pos": "verb",
-                  "meaning": "said (preterite)"
+                  "meaning": "said (past tense)"
                 }
               ]
             },
@@ -5432,7 +5432,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "fancy / imagine (infinitive)"
                 }
               ],
-              "grammarNote": "Interrogative clause with epistemic particle 'wohl'."
+              "grammarNote": "Interrogative clause with speculative particle 'wohl' ('perhaps/indeed')."
             },
             {
               "id": "a1_s2_c31_l14",
@@ -5501,7 +5501,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "Seufzen",
                   "lemma": "Seufzen",
                   "pos": "noun",
-                  "meaning": "sighing (substantivized infinitive)"
+                  "meaning": "sighing (verb used as a noun)"
                 },
                 {
                   "word": "hört' ich",
@@ -5545,7 +5545,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "fand",
                   "lemma": "finden",
                   "pos": "verb",
-                  "meaning": "found (preterite)"
+                  "meaning": "found (past tense)"
                 }
               ],
               "grammarNote": "Venus's poignant confession of her own emotional dependency on Tannhäuser."
@@ -5657,7 +5657,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "treffe",
                   "lemma": "treffen",
                   "pos": "verb",
-                  "meaning": "may strike / fall upon (optative subjunctive)"
+                  "meaning": "may strike / fall upon (subjunctive wish)"
                 },
                 {
                   "word": "Fluch",
@@ -5672,7 +5672,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "the entire world (accusative object)"
                 }
               ],
-              "grammarNote": "Optative subjunctive 'treffe' pronouncing a cosmic curse."
+              "grammarNote": "Subjunctive wish: 'treffe' expresses a prayer or gentle hope. pronouncing a cosmic curse."
             },
             {
               "id": "a1_s2_c32_l3",
@@ -5689,7 +5689,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "sei",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "may be (optative subjunctive)"
+                  "meaning": "may be (subjunctive wish)"
                 },
                 {
                   "word": "öde",
@@ -5727,7 +5727,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "wich",
                   "lemma": "weichen",
                   "pos": "verb",
-                  "meaning": "withdrew / departed (preterite)"
+                  "meaning": "withdrew / departed (past tense)"
                 }
               ],
               "grammarNote": "Relative clause describing a world abandoned by the goddess of love."
@@ -5948,7 +5948,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "Wonn'",
                   "lemma": "Wonne",
                   "pos": "noun",
-                  "meaning": "bliss / delight (apocope)"
+                  "meaning": "bliss / delight (shortened poetic form)"
                 },
                 {
                   "word": "Lust",
@@ -5980,7 +5980,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "mögest",
                   "lemma": "mögen",
                   "pos": "verb",
-                  "meaning": "may you / could you (optative Konjunktiv I)"
+                  "meaning": "may you / could you (subjunctive wish)"
                 },
                 {
                   "word": "fassen",
@@ -5995,7 +5995,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "goddess"
                 }
               ],
-              "grammarNote": "Optative subjunctive 'mögest'."
+              "grammarNote": "Subjunctive wish: 'mögest' expresses a prayer or gentle hope."
             },
             {
               "id": "a1_s2_c36_l4",
@@ -6154,7 +6154,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "durch Buss'",
                   "lemma": "Busse",
                   "pos": "noun",
-                  "meaning": "through penance (apocope)"
+                  "meaning": "through penance (shortened poetic form)"
                 },
                 {
                   "word": "Sühne",
@@ -6172,7 +6172,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "Ruh'",
                   "lemma": "Ruhe",
                   "pos": "noun",
-                  "meaning": "rest / peace (apocope)"
+                  "meaning": "rest / peace (shortened poetic form)"
                 }
               ],
               "grammarNote": "Affirmation of spiritual expiation."
@@ -6300,7 +6300,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "der Wonn'",
                   "lemma": "Wonne",
                   "pos": "noun",
-                  "meaning": "of bliss (genitive feminine with apocope)"
+                  "meaning": "of bliss (genitive feminine with shortened form)"
                 },
                 {
                   "word": "Lust",
@@ -6470,7 +6470,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "vernahm",
                   "lemma": "vernehmen",
                   "pos": "verb",
-                  "meaning": "perceived / heard (preterite)"
+                  "meaning": "perceived / heard (past tense)"
                 },
                 {
                   "word": "mein Ohr",
@@ -6496,7 +6496,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "begehrte",
                   "lemma": "begehren",
                   "pos": "verb",
-                  "meaning": "desired / longed (preterite)"
+                  "meaning": "desired / longed (past tense)"
                 },
                 {
                   "word": "zu schauen",
@@ -6524,7 +6524,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "träumt'",
                   "lemma": "träumen",
                   "pos": "verb",
-                  "meaning": "dreamed (preterite)"
+                  "meaning": "dreamed (past tense)"
                 },
                 {
                   "word": "manchen",
@@ -6562,7 +6562,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "Aug'",
                   "lemma": "Auge",
                   "pos": "noun",
-                  "meaning": "eye (apocope)"
+                  "meaning": "eye (shortened poetic form)"
                 },
                 {
                   "word": "erschlossen",
@@ -6769,7 +6769,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "Gelobt sei",
                   "lemma": "loben",
                   "pos": "verb",
-                  "meaning": "praised be (optative passive)"
+                  "meaning": "praised be (subjunctive passive)"
                 },
                 {
                   "word": "Jungfrau",
@@ -6790,7 +6790,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "pure / spotless"
                 }
               ],
-              "grammarNote": "Optative subjunctive 'Gelobt sei' greeting the Virgin Mary."
+              "grammarNote": "Subjunctive wish: 'Gelobt sei' expresses a prayer or gentle hope. greeting the Virgin Mary."
             },
             {
               "id": "a1_s3_c5_l4",
@@ -6807,7 +6807,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "wolle ... sein",
                   "lemma": "wollen",
                   "pos": "verb",
-                  "meaning": "be pleased to be (optative subjunctive)"
+                  "meaning": "be pleased to be (subjunctive wish)"
                 },
                 {
                   "word": "günstig",
@@ -6917,7 +6917,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "Ruh'",
                   "lemma": "Ruhe",
                   "pos": "noun",
-                  "meaning": "rest (apocope)"
+                  "meaning": "rest (shortened poetic form)"
                 },
                 {
                   "word": "Rast",
@@ -6955,7 +6955,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "Müh'",
                   "lemma": "Mühe",
                   "pos": "noun",
-                  "meaning": "toil / hardship (apocope)"
+                  "meaning": "toil / hardship (shortened poetic form)"
                 },
                 {
                   "word": "Plagen",
@@ -7071,13 +7071,13 @@ export const tannhaeuserAct1: Act = {
                   "word": "Buss'",
                   "lemma": "Busse",
                   "pos": "noun",
-                  "meaning": "penance (apocope)"
+                  "meaning": "penance (shortened poetic form)"
                 },
                 {
                   "word": "Reu'",
                   "lemma": "Reue",
                   "pos": "noun",
-                  "meaning": "contrition / repentance (apocope)"
+                  "meaning": "contrition / repentance (shortened poetic form)"
                 }
               ],
               "grammarNote": "Central soteriological statement of the Pilgrims' Chorus."
@@ -7170,7 +7170,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "sei Preis",
                   "lemma": "Preis",
                   "pos": "noun",
-                  "meaning": "be praise (optative subjunctive)"
+                  "meaning": "be praise (subjunctive wish)"
                 }
               ],
               "grammarNote": "Tannhäuser's profound prayer of thanksgiving as he falls to his knees."
@@ -7288,7 +7288,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "Gelobt sei",
                   "lemma": "loben",
                   "pos": "verb",
-                  "meaning": "praised be (optative passive)"
+                  "meaning": "praised be (subjunctive passive)"
                 },
                 {
                   "word": "Jungfrau",
@@ -7309,7 +7309,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "pure / spotless"
                 }
               ],
-              "grammarNote": "Optative subjunctive 'Gelobt sei' greeting the Virgin Mary."
+              "grammarNote": "Subjunctive wish: 'Gelobt sei' expresses a prayer or gentle hope. greeting the Virgin Mary."
             },
             {
               "id": "a1_s3_c12_l2",
@@ -7326,7 +7326,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "wolle ... sein",
                   "lemma": "wollen",
                   "pos": "verb",
-                  "meaning": "be pleased to be (optative subjunctive)"
+                  "meaning": "be pleased to be (subjunctive wish)"
                 },
                 {
                   "word": "günstig",
@@ -7481,7 +7481,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "Müh'",
                   "lemma": "Mühe",
                   "pos": "noun",
-                  "meaning": "toil / hardship (apocope)"
+                  "meaning": "toil / hardship (shortened poetic form)"
                 },
                 {
                   "word": "Plagen",
@@ -7857,7 +7857,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "verliessest",
                   "lemma": "verlassen",
                   "pos": "verb",
-                  "meaning": "left / deserted (archaic preterite)"
+                  "meaning": "left / deserted (archaic past tense)"
                 }
               ],
               "grammarNote": "Separable prefix completing 'zurückkehren', followed by relative clause introduced by accusative relative pronoun 'den'."
@@ -8077,7 +8077,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "Gegrüsst sei",
                   "lemma": "grüßen",
                   "pos": "verb",
-                  "meaning": "be greeted / welcome (optative subjunctive)"
+                  "meaning": "be greeted / welcome (subjunctive wish)"
                 },
                 {
                   "word": "uns",
@@ -8098,7 +8098,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "singer / minstrel (vocative)"
                 }
               ],
-              "grammarNote": "Optative passive construction 'Gegrüsst sei' with dative of interest 'uns' and vocative address."
+              "grammarNote": "Subjunctive passive blessing construction 'Gegrüsst sei' with dative of interest 'uns' and vocative address."
             },
             {
               "id": "a1_s4_c14_l2",
@@ -8235,7 +8235,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "sei",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "be (optative subjunctive)"
+                  "meaning": "be (subjunctive wish)"
                 },
                 {
                   "word": "uns",
@@ -8244,7 +8244,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "to us (dative)"
                 }
               ],
-              "grammarNote": "Tricolon of the participle in an optative passive construction."
+              "grammarNote": "Tricolon of the participle in an subjunctive passive construction."
             }
           ]
         },
@@ -8267,7 +8267,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "sei",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "be (optative subjunctive)"
+                  "meaning": "be (subjunctive wish)"
                 },
                 {
                   "word": "uns",
@@ -8276,7 +8276,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "to us (dative)"
                 }
               ],
-              "grammarNote": "Tricolon of the participle in an optative passive construction."
+              "grammarNote": "Tricolon of the participle in an subjunctive passive construction."
             }
           ]
         },
@@ -8299,7 +8299,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "sei",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "be (optative subjunctive / imperative)"
+                  "meaning": "be (subjunctive wish / imperative)"
                 },
                 {
                   "word": "willkommen",
@@ -8320,7 +8320,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "to me also (dative pronoun)"
                 }
               ],
-              "grammarNote": "Optative subjunctive with modal particle 'denn' and dative pronoun 'mir'."
+              "grammarNote": "Subjunctive expression with modal particle 'denn' and dative pronoun 'mir'."
             },
             {
               "id": "a1_s4_c18_l2",
@@ -8343,7 +8343,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "weiltest du",
                   "lemma": "weilen",
                   "pos": "verb",
-                  "meaning": "did you linger / tarry (preterite)"
+                  "meaning": "did you linger / tarry (past tense)"
                 },
                 {
                   "word": "so lang",
@@ -8369,13 +8369,13 @@ export const tannhaeuserAct1: Act = {
                   "word": "Ich wanderte",
                   "lemma": "wandern",
                   "pos": "verb",
-                  "meaning": "I wandered (preterite)"
+                  "meaning": "I wandered (past tense)"
                 },
                 {
                   "word": "in weiter ... Fern'",
                   "lemma": "Ferne",
                   "pos": "noun",
-                  "meaning": "in far distance (dative feminine with apocope)"
+                  "meaning": "in far distance (dative feminine with shortened form)"
                 },
                 {
                   "word": "weiter",
@@ -8413,7 +8413,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "fand",
                   "lemma": "finden",
                   "pos": "verb",
-                  "meaning": "found (preterite)"
+                  "meaning": "found (past tense)"
                 }
               ],
               "grammarNote": "Relative locative clause with correlative negative pair 'nimmer ... noch'."
@@ -8445,7 +8445,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "kam ... her",
                   "lemma": "herkommen",
                   "pos": "verb",
-                  "meaning": "came hither / came here (separable preterite)"
+                  "meaning": "came hither / came here (separable past tense)"
                 }
               ],
               "grammarNote": "Imperative followed by main clause with topicalized purpose phrase and negated verb."
@@ -8643,7 +8643,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "kein Verweilen",
                   "lemma": "Verweilen",
                   "pos": "noun",
-                  "meaning": "no tarrying / lingering (substantivized infinitive)"
+                  "meaning": "no tarrying / lingering (verb used as a noun)"
                 }
               ],
               "grammarNote": "Imperative followed by an impersonal dative construction with the archaic verb 'frommen'."
@@ -8841,7 +8841,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "Du suchtest",
                   "lemma": "suchen",
                   "pos": "verb",
-                  "meaning": "you sought (preterite)"
+                  "meaning": "you sought (past tense)"
                 },
                 {
                   "word": "uns",
@@ -9267,7 +9267,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "verleih",
                   "lemma": "verleihen",
                   "pos": "verb",
-                  "meaning": "grant / bestow (optative subjunctive)"
+                  "meaning": "grant / bestow (subjunctive wish)"
                 },
                 {
                   "word": "ihm",
@@ -9282,7 +9282,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "virtue / moral strength"
                 }
               ],
-              "grammarNote": "Optative subjunctive expressing a pious wish ('Gott verleih' = möge Gott verleihen)."
+              "grammarNote": "Subjunctive expression of a pious wish ('Gott verleih' = möge Gott verleihen)."
             },
             {
               "id": "a1_s4_c32_l3",
@@ -9355,7 +9355,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "bestrittest",
                   "lemma": "bestreiten",
                   "pos": "verb",
-                  "meaning": "contested / rivaled (preterite)"
+                  "meaning": "contested / rivaled (past tense)"
                 }
               ],
               "grammarNote": "Temporal clause opening Wolfram's recounting of the past Minstrels' song contest."
@@ -9387,7 +9387,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "sangst",
                   "lemma": "singen",
                   "pos": "verb",
-                  "meaning": "sang (second person singular preterite)"
+                  "meaning": "sang (second person singular past tense)"
                 }
               ],
               "grammarNote": "Correlative structure 'bald ... bald' (now ... then ...) expressing alternating fortunes in the contest."
@@ -9419,7 +9419,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "erlittest",
                   "lemma": "erleiden",
                   "pos": "verb",
-                  "meaning": "suffered / endured (preterite)"
+                  "meaning": "suffered / endured (past tense)"
                 }
               ],
               "grammarNote": "Continuation of the correlative temporal clause, recounting Tannhäuser's occasional defeat."
@@ -9457,7 +9457,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "errangst",
                   "lemma": "erringen",
                   "pos": "verb",
-                  "meaning": "won / gained / attained (preterite)"
+                  "meaning": "won / gained / attained (past tense)"
                 }
               ],
               "grammarNote": "Main clause with inverted syntax and relative clause specifying the unique prize (Elisabeth's love)."
@@ -9613,7 +9613,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "verschloss",
                   "lemma": "verschließen",
                   "pos": "verb",
-                  "meaning": "closed / locked (preterite)"
+                  "meaning": "closed / locked (past tense)"
                 },
                 {
                   "word": "ihr Herz",
@@ -9639,13 +9639,13 @@ export const tannhaeuserAct1: Act = {
                   "word": "wir sahen",
                   "lemma": "sehen",
                   "pos": "verb",
-                  "meaning": "we saw (preterite)"
+                  "meaning": "we saw (past tense)"
                 },
                 {
                   "word": "ihre Wang'",
                   "lemma": "Wange",
                   "pos": "noun",
-                  "meaning": "her cheek (apocope)"
+                  "meaning": "her cheek (shortened poetic form)"
                 },
                 {
                   "word": "erblassen",
@@ -9683,7 +9683,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "mied",
                   "lemma": "meiden",
                   "pos": "verb",
-                  "meaning": "shunned / avoided (preterite)"
+                  "meaning": "shunned / avoided (past tense)"
                 }
               ],
               "grammarNote": "Fronted adverbial and direct object with subject preceding verb in poetic order."
@@ -9729,7 +9729,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "sei",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "let ... be (optative subjunctive)"
+                  "meaning": "let ... be (subjunctive wish)"
                 },
                 {
                   "word": "dein Lied",
@@ -9744,7 +9744,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "not distant / not far"
                 }
               ],
-              "grammarNote": "Optative subjunctive with fronted dative possessive pronoun 'dem unsren' [sc. Lied]."
+              "grammarNote": "Subjunctive expression with fronted dative possessive pronoun 'dem unsren' [sc. Lied]."
             },
             {
               "id": "a1_s4_c33_l15",
@@ -9761,7 +9761,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "fehle",
                   "lemma": "fehlen",
                   "pos": "verb",
-                  "meaning": "let ... be missing / lacking (optative subjunctive)"
+                  "meaning": "let ... be missing / lacking (subjunctive wish)"
                 },
                 {
                   "word": "sie",
@@ -9776,7 +9776,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "no longer"
                 }
               ],
-              "grammarNote": "Optative subjunctive governing dative plural 'den Festen' with subject pronoun 'sie' (Elisabeth)."
+              "grammarNote": "Subjunctive verb governing dative plural 'den Festen' with subject pronoun 'sie' (Elisabeth)."
             },
             {
               "id": "a1_s4_c33_l16",
@@ -9793,7 +9793,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "leuchte",
                   "lemma": "leuchten",
                   "pos": "verb",
-                  "meaning": "let ... shine / may ... shine (optative subjunctive)"
+                  "meaning": "let ... shine / may ... shine (subjunctive wish)"
                 },
                 {
                   "word": "uns",
@@ -9808,7 +9808,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "her star"
                 }
               ],
-              "grammarNote": "Optative subjunctive using metaphorical 'ihr Stern' to represent Elisabeth's grace and presence."
+              "grammarNote": "Subjunctive expression using metaphorical 'ihr Stern' to represent Elisabeth's grace and presence."
             }
           ]
         },
@@ -9863,10 +9863,10 @@ export const tannhaeuserAct1: Act = {
                   "word": "sei abgetan",
                   "lemma": "abtun",
                   "pos": "verb",
-                  "meaning": "be cast aside / settled / ended (optative passive)"
+                  "meaning": "be cast aside / settled / ended (subjunctive passive)"
                 }
               ],
-              "grammarNote": "Tautological pair 'Zwietracht und Streit' with optative passive verb 'abtun'."
+              "grammarNote": "Tautological pair 'Zwietracht und Streit' with subjunctive passive verb 'abtun'."
             },
             {
               "id": "a1_s4_c34_l3",
@@ -10103,10 +10103,10 @@ export const tannhaeuserAct1: Act = {
                   "word": "sei abgetan",
                   "lemma": "abtun",
                   "pos": "verb",
-                  "meaning": "be cast aside / dismissed (optative passive)"
+                  "meaning": "be cast aside / dismissed (subjunctive passive)"
                 }
               ],
-              "grammarNote": "Optative passive echoing the Minstrels' reconciliation pledge without ending punctuation."
+              "grammarNote": "Subjunctive passive blessing echoing the Minstrels' reconciliation pledge without ending punctuation."
             }
           ]
         },
@@ -10331,7 +10331,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "zog",
                   "lemma": "ziehen",
                   "pos": "verb",
-                  "meaning": "moved / entered (preterite)"
+                  "meaning": "moved / entered (past tense)"
                 },
                 {
                   "word": "jubelnd",
@@ -10378,7 +10378,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "urging / yearning / pressing"
                 }
               ],
-              "grammarNote": "Prepositional phrase with coordinated adjectives modifying substantivized infinitive 'Drängen'."
+              "grammarNote": "Prepositional phrase with coordinated adjectives modifying verb used as a noun 'Drängen'."
             },
             {
               "id": "a1_s4_c38_l10",
@@ -10564,7 +10564,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "gepriesen sei",
                   "lemma": "preisen",
                   "pos": "verb",
-                  "meaning": "praised be (optative subjunctive passive)"
+                  "meaning": "praised be (subjunctive passive blessing)"
                 },
                 {
                   "word": "holde",
@@ -10579,7 +10579,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "power / might"
                 }
               ],
-              "grammarNote": "Optative passive construction functioning as the main clause antecedent to the preceding line."
+              "grammarNote": "Subjunctive passive blessing construction functioning as the main clause antecedent to the preceding line."
             },
             {
               "id": "a1_s4_c40_l5",
@@ -10596,7 +10596,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "lausche",
                   "lemma": "lauschen",
                   "pos": "verb",
-                  "meaning": "let ... listen / may ... listen (optative subjunctive)"
+                  "meaning": "let ... listen / may ... listen (subjunctive wish)"
                 },
                 {
                   "word": "unsern Hochgesängen",
@@ -10605,7 +10605,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "to our lofty songs / hymns of praise (dative plural)"
                 }
               ],
-              "grammarNote": "Optative subjunctive governing dative complement 'unsern Hochgesängen' with fronted adverb 'Nun'."
+              "grammarNote": "Subjunctive verb governing dative complement 'unsern Hochgesängen' with fronted adverb 'Nun'."
             },
             {
               "id": "a1_s4_c40_l6",
@@ -10642,7 +10642,7 @@ export const tannhaeuserAct1: Act = {
                   "word": "Es tön",
                   "lemma": "tönen",
                   "pos": "verb",
-                  "meaning": "let ... sound / resound (optative subjunctive with expletive es)"
+                  "meaning": "let ... sound / resound (subjunctive wish with expletive es)"
                 },
                 {
                   "word": "in froh belebten",
@@ -10657,7 +10657,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "sounds / melodies (dative plural)"
                 }
               ],
-              "grammarNote": "Optative subjunctive with placeholder pronoun 'Es' and separable prefix deferred to the next line."
+              "grammarNote": "Subjunctive expression with placeholder pronoun 'Es' and separable prefix deferred to the next line."
             },
             {
               "id": "a1_s4_c40_l8",
@@ -10683,7 +10683,7 @@ export const tannhaeuserAct1: Act = {
                   "meaning": "forth (separable prefix completing hervortönen)"
                 }
               ],
-              "grammarNote": "True subject 'das Lied' and separable particle 'hervor' completing the optative predicate."
+              "grammarNote": "True subject 'das Lied' and separable particle 'hervor' completing the subjunctive wish predicate."
             }
           ]
         },

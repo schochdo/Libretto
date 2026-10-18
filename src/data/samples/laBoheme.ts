@@ -39,7 +39,7 @@ export const laBoheme: Opera = {
                   literal: 'This Red Sea makes me soggy and freezes [me] to numbness',
                   tokens: [
                     { word: 'Questo', lemma: 'questo', pos: 'adjective', meaning: 'this' },
-                    { word: 'Mar', lemma: 'mare', pos: 'noun', meaning: 'sea', notes: 'Apocope (truncation) of "mare", poetic Italian common in 19th c. verse.' },
+                    { word: 'Mar', lemma: 'mare', pos: 'noun', meaning: 'sea', notes: 'Shortened form (truncation) of "mare", poetic Italian common in 19th c. verse.' },
                     { word: 'Rosso', lemma: 'rosso', pos: 'adjective', meaning: 'red' },
                     { word: 'mi', lemma: 'io', pos: 'pronoun', meaning: 'to me / me' },
                     { word: 'ammollisce', lemma: 'ammollire', pos: 'verb', meaning: 'softens / makes soggy', notes: 'Present indicative 3rd person singular.' },
@@ -66,7 +66,7 @@ export const laBoheme: Opera = {
                   literal: 'In order to avenge myself, I drown a Pharaoh!',
                   tokens: [
                     { word: 'Per', lemma: 'per', pos: 'preposition', meaning: 'in order to / for' },
-                    { word: 'vendicarmi', lemma: 'vendicarsi', pos: 'verb', meaning: 'avenge myself', notes: 'Reflexive infinitive with enclitic pronoun "-mi" attached to verb stem.' },
+                    { word: 'vendicarmi', lemma: 'vendicarsi', pos: 'verb', meaning: 'avenge myself', notes: 'Reflexive infinitive withattached pronoun "-mi" attached to verb stem.' },
                     { word: 'affogo', lemma: 'affogare', pos: 'verb', meaning: 'I drown / suffocate' },
                     { word: 'un Faraone', lemma: 'faraone', pos: 'noun', meaning: 'a Pharaoh' }
                   ],
@@ -127,7 +127,7 @@ export const laBoheme: Opera = {
                     { word: 'Se', lemma: 'se', pos: 'conjunction', meaning: 'if' },
                     { word: 'la', lemma: 'la', pos: 'pronoun', meaning: 'it (feminine direct object, referring to the hand)' },
                     { word: 'lasci', lemma: 'lasciare', pos: 'verb', meaning: 'you allow / let', notes: '2nd person singular present: lasci' },
-                    { word: 'riscaldar', lemma: 'riscaldare', pos: 'verb', meaning: 'warm up / reheat', notes: 'Apocope of infinitive riscaldare.' }
+                    { word: 'riscaldar', lemma: 'riscaldare', pos: 'verb', meaning: 'warm up / reheat', notes: 'Shortened form of infinitive riscaldare.' }
                   ],
                   grammarNote: 'Idiomatic causative construction: "lasciar + infinitive" = "to let/allow something to be done".'
                 },

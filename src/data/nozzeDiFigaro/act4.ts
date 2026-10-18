@@ -6044,7 +6044,7 @@ export const nozzeDiFigaroAct4: Act = {
                   "lemma": "fuggire",
                   "pos": "verb",
                   "meaning": "they fled / to flee",
-                  "notes": "Poetic apocope of past historic fuggirono."
+                  "notes": "Poetic shortened form of past tense 'fuggirono'."
                 },
                 {
                   "word": "si",
@@ -8897,7 +8897,7 @@ export const nozzeDiFigaroAct4: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "qui",
@@ -11301,7 +11301,7 @@ export const nozzeDiFigaroAct4: Act = {
                   "word": "buon",
                   "lemma": "buono",
                   "pos": "adjective",
-                  "meaning": "good (apocope)"
+                  "meaning": "good (shortened poetic form)"
                 },
                 {
                   "word": "cor",
@@ -11815,7 +11815,7 @@ export const nozzeDiFigaroAct4: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -14237,7 +14237,7 @@ export const nozzeDiFigaroAct4: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -14616,7 +14616,7 @@ export const nozzeDiFigaroAct4: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -16809,7 +16809,7 @@ export const nozzeDiFigaroAct4: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "può",

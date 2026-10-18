@@ -131,7 +131,7 @@ export const laBohemeAct1: Act = {
                   "lemma": "vendicare",
                   "pos": "verb",
                   "meaning": "to avenge myself",
-                  "notes": "Infinitive with enclitic reflexive pronoun -mi."
+                  "notes": "Infinitive with attached reflexive pronoun -mi."
                 },
                 {
                   "word": "affogo",
@@ -221,7 +221,7 @@ export const laBohemeAct1: Act = {
                   "word": "fumar",
                   "lemma": "fumare",
                   "pos": "verb",
-                  "meaning": "to smoke (apocope)"
+                  "meaning": "to smoke (shortened poetic form)"
                 },
                 {
                   "word": "dai",
@@ -2555,7 +2555,7 @@ export const laBohemeAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -6865,7 +6865,7 @@ export const laBohemeAct1: Act = {
                   "word": "buon",
                   "lemma": "buono",
                   "pos": "adjective",
-                  "meaning": "good (apocope)"
+                  "meaning": "good (shortened poetic form)"
                 },
                 {
                   "word": "gusto",
@@ -10871,7 +10871,7 @@ export const laBohemeAct1: Act = {
                   "word": "riscaldar",
                   "lemma": "riscaldare",
                   "pos": "verb",
-                  "meaning": "to warm up / reheat (apocope)"
+                  "meaning": "to warm up / reheat (shortened poetic form)"
                 }
               ]
             },
@@ -12264,7 +12264,7 @@ export const laBohemeAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "di",
@@ -14004,7 +14004,7 @@ export const laBohemeAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -14050,7 +14050,7 @@ export const laBohemeAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             },
@@ -14719,7 +14719,7 @@ export const laBohemeAct1: Act = {
                   "word": "Amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }

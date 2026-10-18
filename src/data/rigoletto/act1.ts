@@ -1193,7 +1193,7 @@ export const rigolettoAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "se",
@@ -3046,7 +3046,7 @@ export const rigolettoAct1: Act = {
                   "lemma": "fare",
                   "pos": "verb",
                   "meaning": "to do it / make it",
-                  "notes": "Infinitive fare with enclitic direct object pronoun -lo."
+                  "notes": "Infinitive fare withattached pronoun -lo."
                 }
               ]
             },
@@ -6037,7 +6037,7 @@ export const rigolettoAct1: Act = {
                   "meaning": ""
                 }
               ],
-              "grammarNote": "'That old man was cursing me!' 'Maledivami' is an archaic poetic enclitic form of 'mi malediva'. This phrase haunts Rigoletto throughout the opera."
+              "grammarNote": "'That old man was cursing me!' 'Maledivami' is an poetic form with attached pronoun of 'mi malediva'. This phrase haunts Rigoletto throughout the opera."
             }
           ]
         },
@@ -7878,7 +7878,7 @@ export const rigolettoAct1: Act = {
                   "lemma": "fare",
                   "pos": "verb",
                   "meaning": "to do it / make it",
-                  "notes": "Infinitive fare with enclitic direct object pronoun -lo."
+                  "notes": "Infinitive fare withattached pronoun -lo."
                 },
                 {
                   "word": "Oh",
@@ -8096,7 +8096,7 @@ export const rigolettoAct1: Act = {
                   "meaning": "thought"
                 }
               ],
-              "grammarNote": "'That old man was cursing me!' 'Maledivami' is an archaic poetic enclitic form of 'mi malediva'. This phrase haunts Rigoletto throughout the opera."
+              "grammarNote": "'That old man was cursing me!' 'Maledivami' is an poetic form with attached pronoun of 'mi malediva'. This phrase haunts Rigoletto throughout the opera."
             },
             {
               "id": "a1_s3_c1_l20",
@@ -10239,7 +10239,7 @@ export const rigolettoAct1: Act = {
                   "lemma": "fare",
                   "pos": "verb",
                   "meaning": "to do it / make it",
-                  "notes": "Infinitive fare with enclitic direct object pronoun -lo."
+                  "notes": "Infinitive fare withattached pronoun -lo."
                 },
                 {
                   "word": "or",
@@ -13468,7 +13468,7 @@ export const rigolettoAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "che",
@@ -14794,7 +14794,7 @@ export const rigolettoAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             },

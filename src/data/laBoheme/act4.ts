@@ -152,7 +152,7 @@ export const laBohemeAct4: Act = {
                   "word": "cuor",
                   "lemma": "cuore",
                   "pos": "noun",
-                  "meaning": "heart (apocope)"
+                  "meaning": "heart (shortened poetic form)"
                 },
                 {
                   "word": "Non",
@@ -275,7 +275,7 @@ export const laBohemeAct4: Act = {
                   "word": "davver",
                   "lemma": "davvero",
                   "pos": "adverb",
-                  "meaning": "truly / really (apocope)"
+                  "meaning": "truly / really (shortened poetic form)"
                 }
               ]
             }
@@ -943,7 +943,7 @@ export const laBohemeAct4: Act = {
                   "word": "cuor",
                   "lemma": "cuore",
                   "pos": "noun",
-                  "meaning": "heart (apocope)"
+                  "meaning": "heart (shortened poetic form)"
                 }
               ]
             },
@@ -968,7 +968,7 @@ export const laBohemeAct4: Act = {
                   "word": "cuor",
                   "lemma": "cuore",
                   "pos": "noun",
-                  "meaning": "heart (apocope)"
+                  "meaning": "heart (shortened poetic form)"
                 },
                 {
                   "word": "morto",
@@ -992,7 +992,7 @@ export const laBohemeAct4: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -1069,7 +1069,7 @@ export const laBohemeAct4: Act = {
                   "word": "pennel",
                   "lemma": "pennello",
                   "pos": "noun",
-                  "meaning": "paintbrush (apocope)"
+                  "meaning": "paintbrush (shortened poetic form)"
                 },
                 {
                   "word": "lavori",
@@ -1501,7 +1501,7 @@ export const laBohemeAct4: Act = {
                   "word": "cuor",
                   "lemma": "cuore",
                   "pos": "noun",
-                  "meaning": "heart (apocope)"
+                  "meaning": "heart (shortened poetic form)"
                 },
                 {
                   "word": "vil",
@@ -1562,7 +1562,7 @@ export const laBohemeAct4: Act = {
                   "word": "cuor",
                   "lemma": "cuore",
                   "pos": "noun",
-                  "meaning": "heart (apocope)"
+                  "meaning": "heart (shortened poetic form)"
                 }
               ]
             }
@@ -4476,7 +4476,7 @@ export const laBohemeAct4: Act = {
                   "lemma": "passare",
                   "pos": "verb",
                   "meaning": "they passed / to pass",
-                  "notes": "Poetic apocope of past historic passarono."
+                  "notes": "Poetic shortened form of past tense 'passarono'."
                 },
                 {
                   "word": "per",
@@ -5382,7 +5382,7 @@ export const laBohemeAct4: Act = {
                   "word": "Buon",
                   "lemma": "buono",
                   "pos": "adjective",
-                  "meaning": "good (apocope)"
+                  "meaning": "good (shortened poetic form)"
                 },
                 {
                   "word": "giorno",
@@ -5419,7 +5419,7 @@ export const laBohemeAct4: Act = {
                   "word": "buon",
                   "lemma": "buono",
                   "pos": "adjective",
-                  "meaning": "good (apocope)"
+                  "meaning": "good (shortened poetic form)"
                 },
                 {
                   "word": "giorno",
@@ -6251,7 +6251,7 @@ export const laBohemeAct4: Act = {
                   "lemma": "passare",
                   "pos": "verb",
                   "meaning": "they passed",
-                  "notes": "Poetic apocope of past historic passarono."
+                  "notes": "Poetic shortened form of past tense 'passarono'."
                 },
                 {
                   "word": "nelle",
@@ -6376,7 +6376,7 @@ export const laBohemeAct4: Act = {
                   "lemma": "fuggire",
                   "pos": "verb",
                   "meaning": "they fled",
-                  "notes": "Poetic apocope of past historic fuggirono."
+                  "notes": "Poetic shortened form of past tense 'fuggirono'."
                 },
                 {
                   "word": "ti",
@@ -7864,7 +7864,7 @@ export const laBohemeAct4: Act = {
                   "word": "riscaldar",
                   "lemma": "riscaldare",
                   "pos": "verb",
-                  "meaning": "to warm up / reheat (apocope)"
+                  "meaning": "to warm up / reheat (shortened poetic form)"
                 }
               ]
             },
@@ -8615,7 +8615,7 @@ export const laBohemeAct4: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "sempre",

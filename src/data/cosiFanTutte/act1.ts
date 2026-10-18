@@ -3970,7 +3970,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -8391,7 +8391,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "li",
@@ -10387,7 +10387,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Buon",
                   "lemma": "buono",
                   "pos": "adjective",
-                  "meaning": "good (apocope)"
+                  "meaning": "good (shortened poetic form)"
                 },
                 {
                   "word": "viaggio",
@@ -10426,7 +10426,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Buon",
                   "lemma": "buono",
                   "pos": "adjective",
-                  "meaning": "good (apocope)"
+                  "meaning": "good (shortened poetic form)"
                 },
                 {
                   "word": "viaggio",
@@ -12851,7 +12851,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "funesto",
@@ -13878,7 +13878,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "sia",
@@ -14570,7 +14570,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "come",
@@ -18448,7 +18448,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -20604,7 +20604,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -20654,7 +20654,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "il",
@@ -21630,7 +21630,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             },
@@ -23233,7 +23233,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -25779,7 +25779,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "cos'è",
@@ -26058,7 +26058,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "buon",
                   "lemma": "buono",
                   "pos": "adjective",
-                  "meaning": "good (apocope)"
+                  "meaning": "good (shortened poetic form)"
                 },
                 {
                   "word": "che",
@@ -33413,7 +33413,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }

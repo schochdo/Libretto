@@ -223,7 +223,7 @@ export const fidelioAct2: Act = {
                   "word": "wagt'",
                   "lemma": "wagen",
                   "pos": "verb",
-                  "meaning": "dared (preterite)"
+                  "meaning": "dared (past tense)"
                 },
                 {
                   "word": "kühn",
@@ -3591,7 +3591,7 @@ export const fidelioAct2: Act = {
                   "word": "werde",
                   "lemma": "werden",
                   "pos": "verb",
-                  "meaning": "may be granted (subjunctive I optative)"
+                  "meaning": "may be granted (subjunctive wish)"
                 },
                 {
                   "word": "Lohn",
@@ -4367,7 +4367,7 @@ export const fidelioAct2: Act = {
                   "word": "So sei es",
                   "lemma": "sein",
                   "pos": "noun",
-                  "meaning": "so be it (subjunctive I optative)"
+                  "meaning": "so be it (subjunctive wish)"
                 },
                 {
                   "word": "wagen",
@@ -7253,7 +7253,7 @@ export const fidelioAct2: Act = {
                   "word": "Verflucht sei",
                   "lemma": "verfluchen",
                   "pos": "noun",
-                  "meaning": "cursed be (subjunctive I optative)"
+                  "meaning": "cursed be (subjunctive wish)"
                 }
               ]
             },
@@ -7393,7 +7393,7 @@ export const fidelioAct2: Act = {
                   "word": "Verflucht sei",
                   "lemma": "verfluchen",
                   "pos": "noun",
-                  "meaning": "cursed be (subjunctive I optative)"
+                  "meaning": "cursed be (subjunctive wish)"
                 }
               ]
             },
@@ -8195,7 +8195,7 @@ export const fidelioAct2: Act = {
                   "word": "sei",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "be (subjunctive I optative)"
+                  "meaning": "be (subjunctive wish)"
                 },
                 {
                   "word": "dem Tag",
@@ -10009,7 +10009,7 @@ export const fidelioAct2: Act = {
                   "word": "erhielt",
                   "lemma": "erhalten",
                   "pos": "verb",
-                  "meaning": "preserved / sustained (preterite)"
+                  "meaning": "preserved / sustained (past tense)"
                 }
               ]
             },

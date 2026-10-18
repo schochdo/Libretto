@@ -47,7 +47,7 @@ export const donGiovanniAct1: Act = {
                   "meaning": ""
                 }
               ],
-              "grammarNote": "Italian poetry frequently drops the final '-e' (apocope) from verb infinitives: 'faticar' instead of 'faticare' (to toil)."
+              "grammarNote": "Italian poetry frequently drops the final '-e' (shortened poetic form) from verb infinitives: 'faticar' instead of 'faticare' (to toil)."
             },
             {
               "id": "a1_s1_c1_l2",
@@ -713,7 +713,7 @@ export const donGiovanniAct1: Act = {
                   "lemma": "fuggire",
                   "pos": "verb",
                   "meaning": "they fled / to flee",
-                  "notes": "Poetic apocope of past historic fuggirono."
+                  "notes": "Poetic shortened form of past tense 'fuggirono'."
                 },
                 {
                   "word": "mai",
@@ -1321,7 +1321,7 @@ export const donGiovanniAct1: Act = {
                   "meaning": ""
                 }
               ],
-              "grammarNote": "'Pugnar' is poetic apocope for 'combattere' (to fight), and 'teco' means 'with you'."
+              "grammarNote": "'Pugnar' is poetic shortened form of 'combattere' (to fight), and 'teco' means 'with you'."
             }
           ]
         },
@@ -1363,7 +1363,7 @@ export const donGiovanniAct1: Act = {
                   "lemma": "fuggire",
                   "pos": "verb",
                   "meaning": "they fled / to flee",
-                  "notes": "Poetic apocope of past historic fuggirono."
+                  "notes": "Poetic shortened form of past tense 'fuggirono'."
                 }
               ]
             }
@@ -4130,7 +4130,7 @@ export const donGiovanniAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -9843,7 +9843,7 @@ export const donGiovanniAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "mio",
@@ -11007,7 +11007,7 @@ export const donGiovanniAct1: Act = {
                   "word": "buon",
                   "lemma": "buono",
                   "pos": "adjective",
-                  "meaning": "good (apocope)"
+                  "meaning": "good (shortened poetic form)"
                 },
                 {
                   "word": "giorno",
@@ -15146,7 +15146,7 @@ export const donGiovanniAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -15382,7 +15382,7 @@ export const donGiovanniAct1: Act = {
                   "word": "Amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "consiglio",
@@ -15785,7 +15785,7 @@ export const donGiovanniAct1: Act = {
                   "word": "buon",
                   "lemma": "buono",
                   "pos": "adjective",
-                  "meaning": "good (apocope)"
+                  "meaning": "good (shortened poetic form)"
                 },
                 {
                   "word": "cuore",
@@ -25419,7 +25419,7 @@ export const donGiovanniAct1: Act = {
                   "lemma": "passare",
                   "pos": "verb",
                   "meaning": "they passed / to pass",
-                  "notes": "Poetic apocope of past historic passarono."
+                  "notes": "Poetic shortened form of past tense 'passarono'."
                 }
               ]
             },
@@ -25463,7 +25463,7 @@ export const donGiovanniAct1: Act = {
                   "lemma": "passare",
                   "pos": "verb",
                   "meaning": "they passed / to pass",
-                  "notes": "Poetic apocope of past historic passarono."
+                  "notes": "Poetic shortened form of past tense 'passarono'."
                 }
               ]
             }
@@ -25875,7 +25875,7 @@ export const donGiovanniAct1: Act = {
                   "lemma": "fuggire",
                   "pos": "verb",
                   "meaning": "they fled / to flee",
-                  "notes": "Poetic apocope of past historic fuggirono."
+                  "notes": "Poetic shortened form of past tense 'fuggirono'."
                 }
               ]
             }
@@ -28483,7 +28483,7 @@ export const donGiovanniAct1: Act = {
                   "lemma": "passare",
                   "pos": "verb",
                   "meaning": "they passed / to pass",
-                  "notes": "Poetic apocope of past historic passarono."
+                  "notes": "Poetic shortened form of past tense 'passarono'."
                 },
                 {
                   "word": "avanti",
@@ -28994,7 +28994,7 @@ export const donGiovanniAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             },
@@ -29169,7 +29169,7 @@ export const donGiovanniAct1: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }

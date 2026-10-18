@@ -5160,7 +5160,7 @@ export const rigolettoAct3: Act = {
                   "word": "Amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "mi",

@@ -32,7 +32,7 @@ export const nozzeDiFigaroAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "qualche",
@@ -4487,7 +4487,7 @@ export const nozzeDiFigaroAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             },
@@ -5229,7 +5229,7 @@ export const nozzeDiFigaroAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             },
@@ -8905,7 +8905,7 @@ export const nozzeDiFigaroAct2: Act = {
                   "word": "buon",
                   "lemma": "buono",
                   "pos": "adjective",
-                  "meaning": "good (apocope)"
+                  "meaning": "good (shortened poetic form)"
                 },
                 {
                   "word": "per",
@@ -24813,7 +24813,7 @@ export const nozzeDiFigaroAct2: Act = {
                   "lemma": "vendicare",
                   "pos": "verb",
                   "meaning": "to avenge myself",
-                  "notes": "Infinitive with enclitic reflexive pronoun -mi."
+                  "notes": "Infinitive with attached reflexive pronoun -mi."
                 }
               ]
             },

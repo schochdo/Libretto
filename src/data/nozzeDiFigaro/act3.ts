@@ -2409,7 +2409,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -6971,7 +6971,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "buon",
                   "lemma": "buono",
                   "pos": "adjective",
-                  "meaning": "good (apocope)"
+                  "meaning": "good (shortened poetic form)"
                 },
                 {
                   "word": "core",
@@ -8143,7 +8143,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "nostro",
@@ -12243,7 +12243,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             },
@@ -12373,7 +12373,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "buon",
                   "lemma": "buono",
                   "pos": "adjective",
-                  "meaning": "good (apocope)"
+                  "meaning": "good (shortened poetic form)"
                 },
                 {
                   "word": "cor",
@@ -13891,7 +13891,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "buon",
                   "lemma": "buono",
                   "pos": "adjective",
-                  "meaning": "good (apocope)"
+                  "meaning": "good (shortened poetic form)"
                 },
                 {
                   "word": "maestro",
@@ -14597,7 +14597,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "buon",
                   "lemma": "buono",
                   "pos": "adjective",
-                  "meaning": "good (apocope)"
+                  "meaning": "good (shortened poetic form)"
                 },
                 {
                   "word": "viaggio",
@@ -16210,7 +16210,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "lemma": "passare",
                   "pos": "verb",
                   "meaning": "they passed / to pass",
-                  "notes": "Poetic apocope of past historic passarono."
+                  "notes": "Poetic shortened form of past tense 'passarono'."
                 },
                 {
                   "word": "qualche",

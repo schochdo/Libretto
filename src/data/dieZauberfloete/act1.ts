@@ -1199,7 +1199,7 @@ export const dieZauberfloeteAct1: Act = {
                   "word": "Locken",
                   "lemma": "locken",
                   "pos": "noun",
-                  "meaning": "luring / bird-calling (substantivized infinitive)"
+                  "meaning": "luring / bird-calling (verb used as a noun)"
                 },
                 {
                   "word": "umzugehn",
@@ -2987,7 +2987,7 @@ export const dieZauberfloeteAct1: Act = {
                   "word": "Sterbliche",
                   "lemma": "Sterbliche",
                   "pos": "noun",
-                  "meaning": "mortal (substantivized adjective)"
+                  "meaning": "mortal (adjective used as a noun)"
                 },
                 {
                   "word": "sich rühmen",
@@ -3447,7 +3447,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "fought / defeated"
                 }
               ],
-              "grammarNote": "Modal particles 'wohl gar' (perhaps even / indeed). Relative clause with preterite 'bekämpfte'."
+              "grammarNote": "Modal particles 'wohl gar' (perhaps even / indeed). Relative clause with past tense 'bekämpfte'."
             }
           ]
         },
@@ -4023,7 +4023,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "cover"
                 }
               ],
-              "grammarNote": "Unreal conditional (irrealis) with subjunctive II 'wären' and periphrastic 'würden bedecken'. Antecedent 'sie' = 'they [the Ladies]'."
+              "grammarNote": "Unreal conditional (irrealis) with subjunctive II 'wären' and compound subjunctive 'würden bedecken'. Antecedent 'sie' = 'they [the Ladies]'."
             }
           ]
         },
@@ -6233,7 +6233,7 @@ export const dieZauberfloeteAct1: Act = {
                   "word": "Zum Leiden",
                   "lemma": "Leiden",
                   "pos": "noun",
-                  "meaning": "for suffering (substantivized infinitive)"
+                  "meaning": "for suffering (verb used as a noun)"
                 },
                 {
                   "word": "auserkoren",
@@ -6681,7 +6681,7 @@ export const dieZauberfloeteAct1: Act = {
                   "word": "Der Arme",
                   "lemma": "arm",
                   "pos": "noun",
-                  "meaning": "the poor fellow (substantivized adjective)"
+                  "meaning": "the poor fellow (adjective used as a noun)"
                 },
                 {
                   "word": "von Strafe sagen",
@@ -7649,7 +7649,7 @@ export const dieZauberfloeteAct1: Act = {
                   "word": "mag ... sein",
                   "lemma": "mögen",
                   "pos": "verb",
-                  "meaning": "may be (epistemic modal)"
+                  "meaning": "may be (speculative modal)"
                 },
                 {
                   "word": "darinnen",
@@ -8374,7 +8374,7 @@ export const dieZauberfloeteAct1: Act = {
                   "word": "Sagt'",
                   "lemma": "sagen",
                   "pos": "verb",
-                  "meaning": "said (apocope for sagte)"
+                  "meaning": "said (shortened form of sagte)"
                 },
                 {
                   "word": "immer",
@@ -9860,7 +9860,7 @@ export const dieZauberfloeteAct1: Act = {
                   "word": "Abgesandter",
                   "lemma": "Abgesandter",
                   "pos": "noun",
-                  "meaning": "envoy / emissary (substantivized adjective)"
+                  "meaning": "envoy / emissary (adjective used as a noun)"
                 },
                 {
                   "word": "sternflammenden",
@@ -11079,7 +11079,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "sun"
                 }
               ],
-              "grammarNote": "Epistemic modal 'mag wohl' expressing conjecture about the time of day."
+              "grammarNote": "Modal phrase 'mag wohl' expressing conjecture about the time of day."
             }
           ]
         },
@@ -12542,7 +12542,7 @@ export const dieZauberfloeteAct1: Act = {
                   "word": "Erzitt're",
                   "lemma": "erzittern",
                   "pos": "verb",
-                  "meaning": "tremble / shudder (imperative singular with inchoative prefix er-)"
+                  "meaning": "tremble / shudder (imperative singular with prefix er-)"
                 },
                 {
                   "word": "feiger",
@@ -14810,7 +14810,7 @@ export const dieZauberfloeteAct1: Act = {
                   "word": "Es lebe",
                   "lemma": "leben",
                   "pos": "verb",
-                  "meaning": "long live (third-person subjunctive I optative)"
+                  "meaning": "long live (third-person subjunctive I subjunctive wish)"
                 }
               ],
               "grammarNote": "The chorus cheers: 'Long live Sarastro! Sarastro shall live forever!'"
@@ -16187,7 +16187,7 @@ export const dieZauberfloeteAct1: Act = {
                   "word": "Sterbliche",
                   "lemma": "sterblich",
                   "pos": "noun",
-                  "meaning": "mortals (substantivized adjective plural)"
+                  "meaning": "mortals (adjective used as a noun plural)"
                 },
                 {
                   "word": "den Göttern",

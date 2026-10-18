@@ -1405,7 +1405,7 @@ export const donGiovanniAct2: Act = {
                   "word": "buon",
                   "lemma": "buono",
                   "pos": "adjective",
-                  "meaning": "good (apocope)"
+                  "meaning": "good (shortened poetic form)"
                 },
                 {
                   "word": "natural",
@@ -4345,7 +4345,7 @@ export const donGiovanniAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "mio",
@@ -7101,7 +7101,7 @@ export const donGiovanniAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "sentite",
@@ -7678,7 +7678,7 @@ export const donGiovanniAct2: Act = {
                   "lemma": "fare",
                   "pos": "verb",
                   "meaning": "to do it / make it",
-                  "notes": "Infinitive fare with enclitic direct object pronoun -lo."
+                  "notes": "Infinitive fare withattached pronoun -lo."
                 },
                 {
                   "word": "in",
@@ -8098,7 +8098,7 @@ export const donGiovanniAct2: Act = {
                   "lemma": "fare",
                   "pos": "verb",
                   "meaning": "to do it / make it",
-                  "notes": "Infinitive fare with enclitic direct object pronoun -lo."
+                  "notes": "Infinitive fare withattached pronoun -lo."
                 },
                 {
                   "word": "in",
@@ -10291,7 +10291,7 @@ export const donGiovanniAct2: Act = {
                   "lemma": "fuggire",
                   "pos": "verb",
                   "meaning": "they fled / to flee",
-                  "notes": "Poetic apocope of past historic fuggirono."
+                  "notes": "Poetic shortened form of past tense 'fuggirono'."
                 }
               ]
             }
@@ -14936,7 +14936,7 @@ export const donGiovanniAct2: Act = {
                   "lemma": "fuggire",
                   "pos": "verb",
                   "meaning": "they fled / to flee",
-                  "notes": "Poetic apocope of past historic fuggirono."
+                  "notes": "Poetic shortened form of past tense 'fuggirono'."
                 },
                 {
                   "word": "si",
@@ -18703,7 +18703,7 @@ export const donGiovanniAct2: Act = {
                   "lemma": "fuggire",
                   "pos": "verb",
                   "meaning": "they fled / to flee",
-                  "notes": "Poetic apocope of past historic fuggirono."
+                  "notes": "Poetic shortened form of past tense 'fuggirono'."
                 },
                 {
                   "word": "mi",
@@ -21683,7 +21683,7 @@ export const donGiovanniAct2: Act = {
                   "word": "buon",
                   "lemma": "buono",
                   "pos": "adjective",
-                  "meaning": "good (apocope)"
+                  "meaning": "good (shortened poetic form)"
                 },
                 {
                   "word": "vecchio",
@@ -22291,7 +22291,7 @@ export const donGiovanniAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -24574,7 +24574,7 @@ export const donGiovanniAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "mio",
@@ -25618,7 +25618,7 @@ export const donGiovanniAct2: Act = {
                   "word": "buon",
                   "lemma": "buono",
                   "pos": "adjective",
-                  "meaning": "good (apocope)"
+                  "meaning": "good (shortened poetic form)"
                 },
                 {
                   "word": "vino",
@@ -29727,7 +29727,7 @@ export const donGiovanniAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -29813,7 +29813,7 @@ export const donGiovanniAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }

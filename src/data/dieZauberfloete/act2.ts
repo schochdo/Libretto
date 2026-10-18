@@ -237,7 +237,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "Tugendhaften",
                   "lemma": "Tugendhafte",
                   "pos": "noun",
-                  "meaning": "virtuous one [Tamino] (substantivized adjective)"
+                  "meaning": "virtuous one [Tamino] (adjective used as a noun)"
                 },
                 {
                   "word": "bewachen",
@@ -267,7 +267,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "sey",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "let it be / may it be (subjunctive I optative)"
+                  "meaning": "let it be / may it be (subjunctive wish)"
                 }
               ],
               "grammarNote": "Subjunctive I 'sey' (sei) functions as a solemn jussive/exhortative verb."
@@ -1953,7 +1953,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "sey",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "be / let it be (subjunctive I optative)"
+                  "meaning": "be / let it be (subjunctive wish)"
                 },
                 {
                   "word": "Sieg",
@@ -2112,7 +2112,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "Kämpfen",
                   "lemma": "kämpfen",
                   "pos": "noun",
-                  "meaning": "fighting (substantivized infinitive)"
+                  "meaning": "fighting (verb used as a noun)"
                 },
                 {
                   "word": "meine Sache nicht",
@@ -4692,7 +4692,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "ein Schwarzer",
                   "lemma": "schwarz",
                   "pos": "noun",
-                  "meaning": "a black man (substantivized adjective)"
+                  "meaning": "a black man (adjective used as a noun)"
                 },
                 {
                   "word": "häßlich",
@@ -5551,7 +5551,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "preißte",
                   "lemma": "preisen",
                   "pos": "verb",
-                  "meaning": "praised (archaic weak preterite of preisen)"
+                  "meaning": "praised (archaic past tense of 'preisen')"
                 },
                 {
                   "word": "Güte",
@@ -6013,7 +6013,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "schwur sie nicht",
                   "lemma": "schwören",
                   "pos": "verb",
-                  "meaning": "did she not swear (archaic preterite schwur)"
+                  "meaning": "did she not swear (archaic past tense 'schwur')"
                 },
                 {
                   "word": "bey allen Göttern",
@@ -6916,7 +6916,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "schenke",
                   "lemma": "schenken",
                   "pos": "verb",
-                  "meaning": "may grant (subjunctive I optative)"
+                  "meaning": "may grant (subjunctive wish)"
                 },
                 {
                   "word": "holdem Jüngling",
@@ -7328,7 +7328,7 @@ export const dieZauberfloeteAct2: Act = {
                   "lemma": "ehe",
                   "pos": "conjunction",
                   "meaning": "before / ere",
-                  "notes": "Apocope of 'ehe'."
+                  "notes": "Shortened form of 'ehe'."
                 },
                 {
                   "word": "ihr",
@@ -7586,7 +7586,7 @@ export const dieZauberfloeteAct2: Act = {
                   "lemma": "sein",
                   "pos": "verb",
                   "meaning": "were (subjunctive II of sein)",
-                  "notes": "Apocope of 'wäre'."
+                  "notes": "Shortened form of 'wäre'."
                 },
                 {
                   "word": "ich",
@@ -8749,7 +8749,7 @@ export const dieZauberfloeteAct2: Act = {
                   "lemma": "sein",
                   "pos": "verb",
                   "meaning": "would be (hypothetical / would)",
-                  "notes": "Apocope of 'wäre'."
+                  "notes": "Shortened form of 'wäre'."
                 },
                 {
                   "word": "dein Geliebter",
@@ -11757,7 +11757,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "Teurer",
                   "lemma": "teuer",
                   "pos": "noun",
-                  "meaning": "beloved / dear one (substantivized adjective vocative)"
+                  "meaning": "beloved / dear one (adjective used as a noun vocative)"
                 },
                 {
                   "word": "nicht mehr",
@@ -11989,7 +11989,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "Getreuer",
                   "lemma": "getreu",
                   "pos": "noun",
-                  "meaning": "faithful lover / devotee (substantivized adjective)"
+                  "meaning": "faithful lover / devotee (adjective used as a noun)"
                 }
               ]
             }
@@ -14885,7 +14885,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "der Armen",
                   "lemma": "arm",
                   "pos": "noun",
-                  "meaning": "to the poor girl (dative feminine substantivized adjective)"
+                  "meaning": "to the poor girl (dative feminine adjective used as a noun)"
                 },
                 {
                   "word": "Trost bereiten",
@@ -16217,7 +16217,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "schütze",
                   "lemma": "schützen",
                   "pos": "verb",
-                  "meaning": "may it protect (subjunctive I optative)"
+                  "meaning": "may it protect (subjunctive wish)"
                 }
               ]
             },

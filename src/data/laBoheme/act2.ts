@@ -288,7 +288,7 @@ export const laBohemeAct2: Act = {
                   "word": "Camerier",
                   "lemma": "cameriere",
                   "pos": "noun",
-                  "meaning": "waiter (apocope)"
+                  "meaning": "waiter (shortened poetic form)"
                 },
                 {
                   "word": "Un",
@@ -565,7 +565,7 @@ export const laBohemeAct2: Act = {
                   "word": "buon",
                   "lemma": "buono",
                   "pos": "adjective",
-                  "meaning": "good (apocope)"
+                  "meaning": "good (shortened poetic form)"
                 },
                 {
                   "word": "mercato",
@@ -842,7 +842,7 @@ export const laBohemeAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             },
@@ -993,7 +993,7 @@ export const laBohemeAct2: Act = {
                   "word": "cuor",
                   "lemma": "cuore",
                   "pos": "noun",
-                  "meaning": "heart (apocope)"
+                  "meaning": "heart (shortened poetic form)"
                 }
               ]
             }
@@ -1605,7 +1605,7 @@ export const laBohemeAct2: Act = {
                   "word": "Camerier",
                   "lemma": "cameriere",
                   "pos": "noun",
-                  "meaning": "waiter (apocope)"
+                  "meaning": "waiter (shortened poetic form)"
                 }
               ]
             },
@@ -1819,7 +1819,7 @@ export const laBohemeAct2: Act = {
                   "word": "buon",
                   "lemma": "buono",
                   "pos": "adjective",
-                  "meaning": "good (apocope)"
+                  "meaning": "good (shortened poetic form)"
                 },
                 {
                   "word": "Dio",
@@ -3078,7 +3078,7 @@ export const laBohemeAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -3501,7 +3501,7 @@ export const laBohemeAct2: Act = {
                   "word": "tambur",
                   "lemma": "tamburo",
                   "pos": "noun",
-                  "meaning": "drum (apocope)"
+                  "meaning": "drum (shortened poetic form)"
                 },
                 {
                   "word": "tamburel",
@@ -4204,7 +4204,7 @@ export const laBohemeAct2: Act = {
                   "word": "tambur",
                   "lemma": "tamburo",
                   "pos": "noun",
-                  "meaning": "drum (apocope)"
+                  "meaning": "drum (shortened poetic form)"
                 },
                 {
                   "word": "Tamburel",
@@ -6922,7 +6922,7 @@ export const laBohemeAct2: Act = {
                   "word": "Camerier",
                   "lemma": "cameriere",
                   "pos": "noun",
-                  "meaning": "waiter (apocope)"
+                  "meaning": "waiter (shortened poetic form)"
                 }
               ]
             },
@@ -7798,7 +7798,7 @@ export const laBohemeAct2: Act = {
                   "lemma": "fare",
                   "pos": "verb",
                   "meaning": "to do it / make it",
-                  "notes": "Infinitive fare with enclitic direct object pronoun -lo."
+                  "notes": "Infinitive fare withattached pronoun -lo."
                 },
                 {
                   "word": "cedere",
@@ -10334,7 +10334,7 @@ export const laBohemeAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "ingeneroso",
@@ -10358,7 +10358,7 @@ export const laBohemeAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             },
@@ -10447,7 +10447,7 @@ export const laBohemeAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "quel",
@@ -10527,7 +10527,7 @@ export const laBohemeAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -13396,7 +13396,7 @@ export const laBohemeAct2: Act = {
                   "lemma": "fuggire",
                   "pos": "verb",
                   "meaning": "they fled / to flee",
-                  "notes": "Poetic apocope of past historic fuggirono."
+                  "notes": "Poetic shortened form of past tense 'fuggirono'."
                 },
                 {
                   "word": "colla",
@@ -13733,7 +13733,7 @@ export const laBohemeAct2: Act = {
                   "word": "Tambur",
                   "lemma": "tamburo",
                   "pos": "noun",
-                  "meaning": "drum (apocope)"
+                  "meaning": "drum (shortened poetic form)"
                 },
                 {
                   "word": "Maggior",
@@ -13893,7 +13893,7 @@ export const laBohemeAct2: Act = {
                   "word": "Tambur",
                   "lemma": "tamburo",
                   "pos": "noun",
-                  "meaning": "drum (apocope)"
+                  "meaning": "drum (shortened poetic form)"
                 },
                 {
                   "word": "Maggior",
@@ -14015,7 +14015,7 @@ export const laBohemeAct2: Act = {
                   "word": "Cuor",
                   "lemma": "cuore",
                   "pos": "noun",
-                  "meaning": "heart (apocope)"
+                  "meaning": "heart (shortened poetic form)"
                 },
                 {
                   "word": "birichin",
@@ -14220,7 +14220,7 @@ export const laBohemeAct2: Act = {
                   "word": "Tambur",
                   "lemma": "tamburo",
                   "pos": "noun",
-                  "meaning": "drum (apocope)"
+                  "meaning": "drum (shortened poetic form)"
                 },
                 {
                   "word": "Maggior",

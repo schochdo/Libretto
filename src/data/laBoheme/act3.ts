@@ -326,7 +326,7 @@ export const laBohemeAct3: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -426,7 +426,7 @@ export const laBohemeAct3: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -591,7 +591,7 @@ export const laBohemeAct3: Act = {
                   "word": "Buon",
                   "lemma": "buono",
                   "pos": "adjective",
-                  "meaning": "good (apocope)"
+                  "meaning": "good (shortened poetic form)"
                 },
                 {
                   "word": "giorno",
@@ -1105,7 +1105,7 @@ export const laBohemeAct3: Act = {
                   "word": "panier",
                   "lemma": "paniere",
                   "pos": "noun",
-                  "meaning": "basket (apocope)"
+                  "meaning": "basket (shortened poetic form)"
                 }
               ]
             }
@@ -1565,7 +1565,7 @@ export const laBohemeAct3: Act = {
                   "word": "buon",
                   "lemma": "buono",
                   "pos": "adjective",
-                  "meaning": "good (apocope)"
+                  "meaning": "good (shortened poetic form)"
                 },
                 {
                   "word": "Marcello",
@@ -2366,7 +2366,7 @@ export const laBohemeAct3: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -3539,7 +3539,7 @@ export const laBohemeAct3: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "tetro",
@@ -6221,7 +6221,7 @@ export const laBohemeAct3: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             },
@@ -6378,7 +6378,7 @@ export const laBohemeAct3: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -7948,7 +7948,7 @@ export const laBohemeAct3: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "con",

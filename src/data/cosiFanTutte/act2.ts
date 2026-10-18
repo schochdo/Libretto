@@ -1535,7 +1535,7 @@ export const cosiFanTutteAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "non",
@@ -6595,7 +6595,7 @@ export const cosiFanTutteAct2: Act = {
                   "word": "Amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "lega",
@@ -12224,7 +12224,7 @@ export const cosiFanTutteAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             },
@@ -12916,7 +12916,7 @@ export const cosiFanTutteAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "virtuoso",
@@ -14178,7 +14178,7 @@ export const cosiFanTutteAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -15729,7 +15729,7 @@ export const cosiFanTutteAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "di",
@@ -18231,7 +18231,7 @@ export const cosiFanTutteAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -20211,7 +20211,7 @@ export const cosiFanTutteAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "mio",
@@ -21588,7 +21588,7 @@ export const cosiFanTutteAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             },
@@ -22523,7 +22523,7 @@ export const cosiFanTutteAct2: Act = {
                   "lemma": "passare",
                   "pos": "verb",
                   "meaning": "they passed / to pass",
-                  "notes": "Poetic apocope of past historic passarono."
+                  "notes": "Poetic shortened form of past tense 'passarono'."
                 },
                 {
                   "word": "veder",
@@ -24023,7 +24023,7 @@ export const cosiFanTutteAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "simile",
@@ -35194,7 +35194,7 @@ export const cosiFanTutteAct2: Act = {
                   "word": "buon",
                   "lemma": "buono",
                   "pos": "adjective",
-                  "meaning": "good (apocope)"
+                  "meaning": "good (shortened poetic form)"
                 },
                 {
                   "word": "verso",

@@ -448,7 +448,7 @@ export const tannhaeuserAct3: Act = {
                   "meaning": "would be (subjunctive II)"
                 }
               ],
-              "grammarNote": "Optative subjunctive clause expressing an ardent wish for solace for Elisabeth."
+              "grammarNote": "Subjunctive clause expressing a wish expressing an ardent wish for solace for Elisabeth."
             }
           ]
         },
@@ -552,7 +552,7 @@ export const tannhaeuserAct3: Act = {
                   "meaning": "pilgrim's staff / walking staff"
                 }
               ],
-              "grammarNote": "Infinitive construction with 'lassen': 'ruhn' (apocope of 'ruhen')."
+              "grammarNote": "Infinitive construction with 'lassen': 'ruhn' (shortened form of 'ruhen')."
             },
             {
               "id": "a3_s1_c3_l4",
@@ -1320,7 +1320,7 @@ export const tannhaeuserAct3: Act = {
                   "meaning": "angel-like / angelic"
                 }
               ],
-              "grammarNote": "'Mach, dass...' is an optative formula: 'grant that / make it so that'."
+              "grammarNote": "'Mach, dass...' is a prayerful formula ('grant that / make it so that'): 'grant that / make it so that'."
             },
             {
               "id": "a3_s1_c13_l6",
@@ -1443,7 +1443,7 @@ export const tannhaeuserAct3: Act = {
                   "meaning": "sprouted / germinated"
                 }
               ],
-              "grammarNote": "Apocope of past tense 'keimte' -> 'keimt''."
+              "grammarNote": "Shortened form of past tense 'keimte' -> 'keimt''."
             },
             {
               "id": "a3_s1_c13_l11",
@@ -1469,7 +1469,7 @@ export const tannhaeuserAct3: Act = {
                   "meaning": "pains / sorrows"
                 }
               ],
-              "grammarNote": "Preterite of strong verb 'ringen'."
+              "grammarNote": "Past tense of strong verb 'ringen'."
             },
             {
               "id": "a3_s1_c13_l12",
@@ -1853,7 +1853,7 @@ export const tannhaeuserAct3: Act = {
                   "meaning": "stars (genitive plural)"
                 }
               ],
-              "grammarNote": "Superlative with partitive genitive 'lieblichster der Sterne'."
+              "grammarNote": "Superlative with partitive phrase 'lieblichster der Sterne'."
             },
             {
               "id": "a3_s2_c1_l6",
@@ -3703,7 +3703,7 @@ export const tannhaeuserAct3: Act = {
                   "meaning": "ice"
                 }
               ],
-              "grammarNote": "Preterite 'bettete' shortened to 'bettet''."
+              "grammarNote": "Past tense 'bettete' shortened to 'bettet''."
             },
             {
               "id": "a3_s3_c25_l20",
@@ -4284,7 +4284,7 @@ export const tannhaeuserAct3: Act = {
                   "meaning": "began / raised his voice"
                 }
               ],
-              "grammarNote": "Archaic strong preterite 'hub an' (began to speak); 'den so ich bat' is relative clause."
+              "grammarNote": "Archaic strong past tense 'hub an' (began to speak); 'den so ich bat' is relative clause."
             },
             {
               "id": "a3_s3_c25_l41",
@@ -4500,7 +4500,7 @@ export const tannhaeuserAct3: Act = {
                   "meaning": "dull / numb / hollow"
                 }
               ],
-              "grammarNote": "Strong preterite 'sank ... darnieder'."
+              "grammarNote": "Strong past tense 'sank ... darnieder'."
             },
             {
               "id": "a3_s3_c25_l50",
@@ -4736,7 +4736,7 @@ export const tannhaeuserAct3: Act = {
                   "meaning": "pleasure / lust (genitive)"
                 }
               ],
-              "grammarNote": "Partitive genitive 'der Wonn' und Lust' dependent on 'so viel' in line 166."
+              "grammarNote": "Partitive phrase 'der Wonn' und Lust' dependent on 'so viel' in line 166."
             },
             {
               "id": "a3_s3_c25_l58",
@@ -6184,7 +6184,7 @@ export const tannhaeuserAct3: Act = {
                   "word": "entflohn",
                   "lemma": "entfliehen",
                   "pos": "verb",
-                  "meaning": "has fled / escaped (entflohen with syncope)"
+                  "meaning": "has fled / escaped (entflohen with contraction)"
                 }
               ],
               "grammarNote": "Choral blessing for Elisabeth's departed soul; relative pronoun 'die' refers to 'Seele'."
@@ -6338,7 +6338,7 @@ export const tannhaeuserAct3: Act = {
                   "word": "ward",
                   "lemma": "werden",
                   "pos": "verb",
-                  "meaning": "became / was given (poetic preterite)"
+                  "meaning": "became / was given (poetic past tense)"
                 },
                 {
                   "word": "Engel",

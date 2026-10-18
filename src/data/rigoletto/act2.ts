@@ -646,7 +646,7 @@ export const rigolettoAct2: Act = {
                   "meaning": ""
                 }
               ],
-              "grammarNote": "'I seem to see the tears.' 'Parmi' is an enclitic contraction for 'mi pare' (it seems to me). 'Ciglio' (eyelash/brow) is used poetically for eye."
+              "grammarNote": "'I seem to see the tears.' 'Parmi' is an poetic contraction for 'mi pare' (it seems to me). 'Ciglio' (eyelash/brow) is used poetically for eye."
             },
             {
               "id": "a2_s1_c1_l15",
@@ -768,7 +768,7 @@ export const rigolettoAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "nostro",
@@ -2063,7 +2063,7 @@ export const rigolettoAct2: Act = {
                   "word": "amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "mi",
@@ -2317,7 +2317,7 @@ export const rigolettoAct2: Act = {
                   "word": "Amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 }
               ]
             }
@@ -2538,7 +2538,7 @@ export const rigolettoAct2: Act = {
                   "word": "buon",
                   "lemma": "buono",
                   "pos": "adjective",
-                  "meaning": "good (apocope)"
+                  "meaning": "good (shortened poetic form)"
                 },
                 {
                   "word": "giorno",
@@ -6302,7 +6302,7 @@ export const rigolettoAct2: Act = {
                   "word": "Amor",
                   "lemma": "amore",
                   "pos": "noun",
-                  "meaning": "love (apocope)"
+                  "meaning": "love (shortened poetic form)"
                 },
                 {
                   "word": "mi",
