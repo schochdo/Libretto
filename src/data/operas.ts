@@ -22,6 +22,16 @@ export const OPERA_CATALOG: OperaSummary[] = [
     year: 1875
   },
   {
+    id: 'nozze-di-figaro',
+    title: 'The Marriage of Figaro',
+    originalTitle: 'Le nozze di Figaro, ossia la folle giornata',
+    composer: 'Wolfgang Amadeus Mozart',
+    librettists: ['Lorenzo Da Ponte'],
+    language: 'it',
+    languageLabel: 'Italian',
+    year: 1786
+  },
+  {
     id: 'don-giovanni',
     title: 'Don Giovanni',
     originalTitle: 'Il dissoluto punito, ossia il Don Giovanni',
@@ -81,6 +91,7 @@ export const getOperaSummaryById = (id: string): OperaSummary => {
 const OPERA_LOADERS: Record<string, () => Promise<{ default: Opera }>> = {
   'fidelio': () => import('./fidelio'),
   'carmen': () => import('./carmen'),
+  'nozze-di-figaro': () => import('./nozzeDiFigaro'),
   'don-giovanni': () => import('./donGiovanni'),
   'die-zauberfloete': () => import('./dieZauberfloete'),
   'magic-flute': () => import('./dieZauberfloete'),
