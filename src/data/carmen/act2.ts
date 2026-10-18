@@ -17222,7 +17222,8 @@ export const carmenAct2: Act = {
               ]
             }
           ],
-          "stageDirection": "Lui tendant la pièce d’or."
+          "stageDirection": "Lui tendant la pièce d’or.",
+          "stageDirectionTranslation": "Handing him the gold coin."
         },
         {
           "id": "a2_s5_c7",
@@ -17375,7 +17376,8 @@ export const carmenAct2: Act = {
               ]
             }
           ],
-          "stageDirection": "Criant; et frappant dans ses mains; Entre Pastia."
+          "stageDirection": "Criant; et frappant dans ses mains; Entre Pastia.",
+          "stageDirectionTranslation": "Shouting; and clapping her hands; Pastia enters."
         },
         {
           "id": "a2_s5_c8",
@@ -17407,7 +17409,8 @@ export const carmenAct2: Act = {
               ]
             }
           ],
-          "stageDirection": "lui faisant signe de ne pas crier."
+          "stageDirection": "lui faisant signe de ne pas crier.",
+          "stageDirectionTranslation": "signaling her not to shout."
         },
         {
           "id": "a2_s5_c9",
@@ -17583,7 +17586,8 @@ export const carmenAct2: Act = {
               ]
             }
           ],
-          "stageDirection": "lui jetant la pièce."
+          "stageDirection": "lui jetant la pièce.",
+          "stageDirectionTranslation": "throwing him the coin."
         },
         {
           "id": "a2_s5_c10",
@@ -17627,7 +17631,8 @@ export const carmenAct2: Act = {
               ]
             }
           ],
-          "stageDirection": "Il sort."
+          "stageDirection": "Il sort.",
+          "stageDirectionTranslation": "He exits."
         },
         {
           "id": "a2_s5_c11",
@@ -17755,7 +17760,8 @@ export const carmenAct2: Act = {
               ]
             }
           ],
-          "stageDirection": "à José."
+          "stageDirection": "à José.",
+          "stageDirectionTranslation": "to José."
         },
         {
           "id": "a2_s5_c12",
@@ -18200,7 +18206,8 @@ export const carmenAct2: Act = {
               ]
             }
           ],
-          "stageDirection": "mettant ses deux mains dans les mains de José.; Rentre Lillas Pastia, portant sur un plateau des oranges, des bonbons, des fruits confits, du manzanilla."
+          "stageDirection": "mettant ses deux mains dans les mains de José.; Rentre Lillas Pastia, portant sur un plateau des oranges, des bonbons, des fruits confits, du manzanilla.",
+          "stageDirectionTranslation": "placing both her hands in José's hands; Lillas Pastia re-enters, carrying on a tray oranges, sweets, candied fruits, and manzanilla."
         },
         {
           "id": "a2_s5_c18",
@@ -18438,7 +18445,8 @@ export const carmenAct2: Act = {
               ]
             }
           ],
-          "stageDirection": "Pastia obéit et la moitié des objets roule par terre.; Pastia sort.; Elle est assise ; José s’assied en face d’elle."
+          "stageDirection": "Pastia obéit et la moitié des objets roule par terre.; Pastia sort.; Elle est assise ; José s’assied en face d’elle.",
+          "stageDirectionTranslation": "Pastia obeys and half the items roll across the floor; Pastia exits; she is seated; José sits down opposite her."
         },
         {
           "id": "a2_s5_c19",
@@ -19524,7 +19532,8 @@ export const carmenAct2: Act = {
               ]
             }
           ],
-          "stageDirection": "En riant."
+          "stageDirection": "En riant.",
+          "stageDirectionTranslation": "Laughing."
         },
         {
           "id": "a2_s5_c29",
@@ -19732,7 +19741,8 @@ export const carmenAct2: Act = {
               ]
             }
           ],
-          "stageDirection": "tendrement.; Elle casse une assiette, avec deux morceaux de faïence, se fait des castagnettes et les essaie…"
+          "stageDirection": "tendrement.; Elle casse une assiette, avec deux morceaux de faïence, se fait des castagnettes et les essaie…",
+          "stageDirectionTranslation": "tenderly; she breaks a plate, makes herself castanets with two pieces of earthenware, and tests them..."
         },
         {
           "id": "a2_s5_c31",
@@ -19764,7 +19774,8 @@ export const carmenAct2: Act = {
               ]
             }
           ],
-          "stageDirection": "trouvant les castagnettes sur la table, à droite."
+          "stageDirection": "trouvant les castagnettes sur la table, à droite.",
+          "stageDirectionTranslation": "finding the castanets on the table, to the right."
         },
         {
           "id": "a2_s5_c32",
@@ -19838,7 +19849,8 @@ export const carmenAct2: Act = {
               ]
             }
           ],
-          "stageDirection": "riant."
+          "stageDirection": "riant.",
+          "stageDirectionTranslation": "laughing."
         },
         {
           "id": "a2_s5_c33",
@@ -20140,7 +20152,8 @@ export const carmenAct2: Act = {
               ]
             }
           ],
-          "stageDirection": "Elle fait asseoir José dans un coin du théâtre. Petite danse. — Carmen, du bout des lèvres, fredonne un air qu’elle accompagne avec ses castagnettes ; José la dévore des yeux. On entend au loin, très au loin, des clairons qui sonnent la retraite. José prête l’oreille : il croit entendre les clairons, mais les castagnettes de Carmen claquent bruyamment. Il s’approche de Carmen, lui prend le bras, et l’oblige à s’arrêter."
+          "stageDirection": "Elle fait asseoir José dans un coin du théâtre. Petite danse. — Carmen, du bout des lèvres, fredonne un air qu’elle accompagne avec ses castagnettes ; José la dévore des yeux. On entend au loin, très au loin, des clairons qui sonnent la retraite. José prête l’oreille : il croit entendre les clairons, mais les castagnettes de Carmen claquent bruyamment. Il s’approche de Carmen, lui prend le bras, et l’oblige à s’arrêter.",
+          "stageDirectionTranslation": "She seats José in a corner of the stage [theater]. Little dance. — Carmen, with her lips, hums a tune accompanied by her castanets; José devours her with his eyes. In the distance, very far off, bugles sounding the retreat are heard. José listens: he thinks he hears the bugles, but Carmen's castanets click loudly. He approaches Carmen, takes her arm, and forces her to stop."
         },
         {
           "id": "a2_s5_c36",

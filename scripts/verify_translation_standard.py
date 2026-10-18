@@ -121,6 +121,30 @@ def main():
                                 f"  TRANS: {t_s}"
                             )
 
+            # Check stageDirectionTranslations across all cues
+            lines = content.splitlines()
+            has_sd = False
+            has_sdt = False
+            sd_val = ''
+            cue_id = ''
+            cue_line_num = 0
+            for line_idx, line in enumerate(lines, 1):
+                if '"id": "a' in line and '_l' not in line:
+                    if has_sd and not has_sdt:
+                        errors.append(f"[{op_name} {act_file.name}:{cue_line_num}] Missing stageDirectionTranslation for cue {cue_id}: {sd_val}")
+                    cue_id = line.strip()
+                    cue_line_num = line_idx
+                    has_sd = False
+                    has_sdt = False
+                    sd_val = ''
+                if '"stageDirection":' in line:
+                    has_sd = True
+                    sd_val = line.strip()
+                if '"stageDirectionTranslation":' in line:
+                    has_sdt = True
+            if has_sd and not has_sdt:
+                errors.append(f"[{op_name} {act_file.name}:{cue_line_num}] Missing stageDirectionTranslation for cue {cue_id}: {sd_val}")
+
             # Count cues & lines
             cues_count = len(re.findall(r'"id":\s*"a\d+_s\d+_c\d+"', content))
             lines_count = len(re.findall(r'"id":\s*"a\d+_s\d+_c\d+_l\d+"', content))

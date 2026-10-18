@@ -4,7 +4,7 @@ export const dieZauberfloeteAct2: Act = {
   "actNumber": 2,
   "title": "Act II",
   "originalSetting": "Ein Palmenwald; alle Bäume sind von Silber, die Blätter von Gold; 18 Sitze aus Blättern stehen im Kreise; auf jedem Sitz steht eine Pyramide und ein großes Horn mit Gold gefasst.",
-  "setting": "A grove of silver palms with leaves of gold; eighteen seats fashioned of leaves stand in a circle, each with a pyramid and a large gold-bound horn.",
+  "setting": "A palm grove; all trees are of silver, the leaves of gold; 18 seats of leaves stand in a circle; upon each seat stands a pyramid and a large horn mounted in gold.",
   "scenes": [
     {
       "sceneNumber": 1,
@@ -3871,6 +3871,7 @@ export const dieZauberfloeteAct2: Act = {
           "speaker": "The Initiates",
           "pieceTitle": "Nr. 12: Quintett",
           "stageDirection": "Donner, Blitz und Schlag; zugleich starker Donner",
+          "stageDirectionTranslation": "Thunder, lightning, and crash; at the same time heavy thunder",
           "lines": []
         },
         {
@@ -16338,6 +16339,7 @@ export const dieZauberfloeteAct2: Act = {
           "speaker": "Two Armed Men",
           "pieceTitle": "Nr. 21: Finale",
           "stageDirection": "Die Türen werden nach ihnen zugeschlagen; man sieht Tamino und Pamina wandern. Tamino bläst seine Flöte. Sobald sie vom Feuer herauskommen, umarmen sie sich und bleiben in der Mitte.",
+          "stageDirectionTranslation": "The doors are slammed shut behind them; Tamino and Pamina are seen walking. Tamino plays his flute. As soon as they emerge from the fire, they embrace each other and remain in the center.",
           "lines": []
         },
         {
@@ -16464,6 +16466,7 @@ export const dieZauberfloeteAct2: Act = {
           "speaker": "Entourage & Priests",
           "pieceTitle": "Nr. 21: Finale",
           "stageDirection": "Das Theater verwandelt sich wieder in den vorigen Garten.",
+          "stageDirectionTranslation": "The stage transforms back into the previous garden.",
           "lines": []
         }
       ]

@@ -4,7 +4,7 @@ export const dieZauberfloeteAct1: Act = {
   "actNumber": 1,
   "title": "Act I",
   "originalSetting": "Das Theater ist eine felsige Gegend, hier und da mit Bäumen überwachsen; auf beiden Seiten sind gangbare Berge, nebst einem runden Tempel.",
-  "setting": "A rocky landscape, overgrown here and there with trees; passable mountains on both sides, beside a round temple.",
+  "setting": "The stage [theater] is a rocky area, overgrown here and there with trees; on both sides are passable mountains, beside a round temple.",
   "scenes": [
     {
       "sceneNumber": 1,

@@ -3860,6 +3860,7 @@ export const carmenAct1: Act = {
             }
           ],
           "stageDirection": "La garde montante va se ranger à droite en face de la garde descendante. — Dès que les petits gamins, qui se sont arrêtés à droite, devant les curieux, ont fini de chanter, les officiers se saluent de l’épée ; puis ils causent à voix basse. — On relève les factionnaires.",
+          "stageDirectionTranslation": "The relieving guard lines up on the right opposite the retiring guard. — As soon as the urchins, who have stopped on the right before the onlookers, finish singing, the officers salute each other with swords; then they converse in low voices. — The sentries are relieved.",
           "pieceTitle": "Chœur des gamins: Avec la garde montante"
         },
         {
@@ -3976,7 +3977,8 @@ export const carmenAct1: Act = {
               ]
             }
           ],
-          "stageDirection": "à don José."
+          "stageDirection": "à don José.",
+          "stageDirectionTranslation": "to Don José."
         },
         {
           "id": "a1_s2_c3",
@@ -4221,7 +4223,8 @@ export const carmenAct1: Act = {
               ]
             }
           ],
-          "stageDirection": "Les factionnaires sont relevés. Sonneries des clairons. La garde descendante passe devant la garde montante. — Les gamins en troupe reprennent derrière les clairons et les fifres de la garde descendante la place qu’ils occupaient derrière les tambours et les fifres de la garde montante."
+          "stageDirection": "Les factionnaires sont relevés. Sonneries des clairons. La garde descendante passe devant la garde montante. — Les gamins en troupe reprennent derrière les clairons et les fifres de la garde descendante la place qu’ils occupaient derrière les tambours et les fifres de la garde montante.",
+          "stageDirectionTranslation": "The sentries are relieved. Bugle fanfares. The retiring guard passes before the relieving guard. — The troop of urchins resumes behind the bugles and fifes of the retiring guard the place they occupied behind the drums and fifes of the relieving guard."
         },
         {
           "id": "a1_s2_c7",
@@ -4838,7 +4841,8 @@ export const carmenAct1: Act = {
               ]
             }
           ],
-          "stageDirection": "Soldats, gamins, et curieux s’éloignent par le fond ; chœur, fifres et clairons vont diminuant. — L’officier de la garde montante, pendant ce temps, passe silencieusement l’inspection de ses hommes. — Quand le chœur des gamins et les fifres ont cessé de se faire entendre, le lieutenant dit « Présentez lances !… Haut lances !… Rompez les rangs !… » Les dragons vont tous déposer leurs lances au râtelier, puis ils rentrent dans le corps de garde. Don José et le lieutenant restent seuls en scène."
+          "stageDirection": "Soldats, gamins, et curieux s’éloignent par le fond ; chœur, fifres et clairons vont diminuant. — L’officier de la garde montante, pendant ce temps, passe silencieusement l’inspection de ses hommes. — Quand le chœur des gamins et les fifres ont cessé de se faire entendre, le lieutenant dit « Présentez lances !… Haut lances !… Rompez les rangs !… » Les dragons vont tous déposer leurs lances au râtelier, puis ils rentrent dans le corps de garde. Don José et le lieutenant restent seuls en scène.",
+          "stageDirectionTranslation": "Soldiers, urchins, and onlookers withdraw through the background; chorus, fifes, and bugles fade away. — The officer of the relieving guard, meanwhile, silently inspects his men. — When the children's chorus and fifes have ceased, the lieutenant says: \"Present lances!... Port lances!... Break ranks!...\" The dragoons all place their lances in the rack, then return into the guardhouse. Don José and the lieutenant remain alone on stage."
         }
       ]
     },
@@ -4899,7 +4903,8 @@ export const carmenAct1: Act = {
               ]
             }
           ],
-          "stageDirection": "se levant."
+          "stageDirection": "se levant.",
+          "stageDirectionTranslation": "rising / standing up."
         },
         {
           "id": "a1_s3_c3",
@@ -6145,7 +6150,8 @@ export const carmenAct1: Act = {
               ]
             }
           ],
-          "stageDirection": "en riant."
+          "stageDirection": "en riant.",
+          "stageDirectionTranslation": "laughing."
         },
         {
           "id": "a1_s3_c17",
@@ -6517,7 +6523,8 @@ export const carmenAct1: Act = {
               ]
             }
           ],
-          "stageDirection": "riant."
+          "stageDirection": "riant.",
+          "stageDirectionTranslation": "laughing."
         },
         {
           "id": "a1_s3_c21",
@@ -7636,7 +7643,8 @@ export const carmenAct1: Act = {
               ]
             }
           ],
-          "stageDirection": "riant.; La cloche de la manufacture se fait entendre."
+          "stageDirection": "riant.; La cloche de la manufacture se fait entendre.",
+          "stageDirectionTranslation": "laughing; the factory bell is heard."
         },
         {
           "id": "a1_s3_c28",
@@ -12233,7 +12241,8 @@ export const carmenAct1: Act = {
               ]
             }
           ],
-          "stageDirection": "Elle lui remet une petite bourse."
+          "stageDirection": "Elle lui remet une petite bourse.",
+          "stageDirectionTranslation": "She hands him a small purse."
         },
         {
           "id": "a1_s7_c11",
@@ -18839,7 +18848,8 @@ export const carmenAct1: Act = {
               ]
             }
           ],
-          "stageDirection": "Il s’arrête sur un regard de Carmen."
+          "stageDirection": "Il s’arrête sur un regard de Carmen.",
+          "stageDirectionTranslation": "He stops at a glance from Carmen."
         },
         {
           "id": "a1_s9_c3",
@@ -19292,7 +19302,8 @@ export const carmenAct1: Act = {
               ]
             }
           ],
-          "stageDirection": "À José."
+          "stageDirection": "À José.",
+          "stageDirectionTranslation": "To José."
         },
         {
           "id": "a1_s9_c10",
@@ -19865,7 +19876,8 @@ export const carmenAct1: Act = {
               ]
             }
           ],
-          "stageDirection": "après un moment d’hésitation.; Le lieutenant regarde Carmen ; celle-ci, après un regard à José et un très léger haussement d’épaules, est redevenue impassible."
+          "stageDirection": "après un moment d’hésitation.; Le lieutenant regarde Carmen ; celle-ci, après un regard à José et un très léger haussement d’épaules, est redevenue impassible.",
+          "stageDirectionTranslation": "after a moment's hesitation; the lieutenant looks at Carmen; she, after a glance at José and a very slight shrug of the shoulders, has become impassive once more."
         },
         {
           "id": "a1_s9_c11",
@@ -20152,7 +20164,8 @@ export const carmenAct1: Act = {
               ]
             }
           ],
-          "stageDirection": "à Carmen.; À José."
+          "stageDirection": "à Carmen.; À José.",
+          "stageDirectionTranslation": "to Carmen; to José."
         },
         {
           "id": "a1_s9_c14",
@@ -20196,7 +20209,8 @@ export const carmenAct1: Act = {
               ]
             }
           ],
-          "stageDirection": "Carmen se retourne brusquement et regarde encore une fois José."
+          "stageDirection": "Carmen se retourne brusquement et regarde encore une fois José.",
+          "stageDirectionTranslation": "Carmen turns abruptly and looks once more at José."
         },
         {
           "id": "a1_s9_c15",
@@ -20282,7 +20296,8 @@ export const carmenAct1: Act = {
               ]
             }
           ],
-          "stageDirection": "à Carmen.; Carmen, au lieu de répondre, se met à fredonner."
+          "stageDirection": "à Carmen.; Carmen, au lieu de répondre, se met à fredonner.",
+          "stageDirectionTranslation": "to Carmen; Carmen, instead of answering, begins to hum."
         },
         {
           "id": "a1_s9_c16",
@@ -20412,6 +20427,7 @@ export const carmenAct1: Act = {
             }
           ],
           "stageDirection": "chantant.",
+          "stageDirectionTranslation": "singing.",
           "pieceTitle": "Chanson: Tra la la la... Coupe-moi, brûle-moi"
         },
         {
