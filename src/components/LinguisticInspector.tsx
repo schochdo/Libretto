@@ -249,7 +249,7 @@ export const LinguisticInspector: React.FC<LinguisticInspectorProps> = ({
                 className="p-3.5 rounded-xl border flex gap-3 items-start"
                 style={{ backgroundColor: 'var(--bg-primary)', borderColor: 'var(--border-color)' }}
               >
-                <span className="text-base shrink-0 mt-0.5">🎭</span>
+                <BookOpen className="w-4 h-4 shrink-0 mt-0.5" style={{ color: 'var(--accent)' }} />
                 <div className="flex-1">
                   <strong className="block text-xs uppercase tracking-wider opacity-80 mb-1.5">
                     Dramatic & Poetic Context

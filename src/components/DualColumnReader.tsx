@@ -315,16 +315,16 @@ export const DualColumnReader: React.FC<DualColumnReaderProps> = ({
                       </div>
 
                       {/* Bottom: Literal Machine Translation Stacked Below */}
-                      <div className="pt-1.5">
+                      <div className="pt-1">
                         <p 
-                          className="font-sans font-medium leading-relaxed opacity-95"
+                          className="font-serif italic font-normal leading-relaxed opacity-90"
                           style={{ 
                             fontSize: `${1.05 * fontSizeMultiplier}rem`,
                             lineHeight: 1.5,
-                            color: 'var(--accent)'
+                            color: 'var(--text-secondary)'
                           }}
                         >
-                          {line.literal}
+                          ↳ {line.literal}
                         </p>
                       </div>
                     </div>
@@ -407,10 +407,11 @@ export const DualColumnReader: React.FC<DualColumnReaderProps> = ({
                     {/* Right: Literal Translation */}
                     <div className="pl-2">
                       <p 
-                        className="font-sans font-normal leading-relaxed opacity-90"
+                        className="font-serif italic font-normal leading-relaxed opacity-90"
                         style={{ 
-                          fontSize: `${1.05 * fontSizeMultiplier}rem`,
-                          lineHeight: 1.6
+                          fontSize: `${1.1 * fontSizeMultiplier}rem`,
+                          lineHeight: 1.6,
+                          color: 'var(--text-secondary)'
                         }}
                       >
                         {line.literal}

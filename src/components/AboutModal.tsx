@@ -24,10 +24,10 @@ export const AboutModal: React.FC<AboutModalProps> = ({ isOpen, onClose }) => {
           style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}
         >
           <div className="flex items-center gap-2">
-            <span className="text-xl">🎭</span>
-            <h3 className="font-display font-bold text-base sm:text-lg" style={{ color: 'var(--accent)' }}>
+            <h3 className="font-display font-bold text-base sm:text-lg tracking-wide" style={{ color: 'var(--accent)' }}>
               About Libretto
             </h3>
+            <span className="text-[11px] uppercase tracking-widest opacity-60 font-medium">Bilingual Edition</span>
           </div>
           <button
             onClick={onClose}

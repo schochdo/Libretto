@@ -18,10 +18,20 @@ export const TARGET_LANG_CODE: Record<SupportedLanguage, string> = {
   en: 'en-GB'
 };
 
+// Detect iOS devices (iPhone, iPad, iPod) where system voices have different naming & sandbox rules
+export const isIOS = (): boolean => {
+  if (typeof window === 'undefined') return false;
+  return /iPhone|iPad|iPod/.test(navigator.userAgent) || 
+    (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+};
+
 // Known legacy macOS voice stubs that lack local audio files and silently fall back to English Samantha
 const STUB_VOICE_NAMES = ['anna', 'alice', 'thomas'];
 
 export const isStubVoice = (name: string): boolean => {
+  // On iOS devices, system-provided voices (like Anna and Alice) work natively and are NOT stubs
+  if (isIOS()) return false;
+
   const lower = (name || '').toLowerCase().trim();
   // If the user explicitly downloaded the Enhanced or Premium version, it's real!
   if (lower.includes('enhanced') || lower.includes('premium')) return false;
@@ -90,12 +100,23 @@ export const getSafeVoices = (): SpeechSynthesisVoice[] => {
   return persistentVoices;
 };
 
-// Initial voice loader
+// Initial voice loader & mobile audio primer
 if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
   getSafeVoices();
   window.speechSynthesis.onvoiceschanged = () => {
     getSafeVoices();
   };
+
+  // Prime mobile Safari voices & audio engine on first user touch
+  const primeMobileAudio = () => {
+    getSafeVoices();
+    window.removeEventListener('touchstart', primeMobileAudio);
+    window.removeEventListener('touchend', primeMobileAudio);
+    window.removeEventListener('click', primeMobileAudio);
+  };
+  window.addEventListener('touchstart', primeMobileAudio, { passive: true });
+  window.addEventListener('touchend', primeMobileAudio, { passive: true });
+  window.addEventListener('click', primeMobileAudio, { passive: true });
 }
 
 export const getAvailableVoicesForLanguage = (language: SupportedLanguage, includeCompactIfEnhancedAvailable: boolean = false): SpeechSynthesisVoice[] => {
@@ -365,20 +386,23 @@ export const speakText = (
     }
   }
 
-  // CRITICAL GUARD: Never allow an English voice to speak Italian, German, French, or Russian!
+  // CRITICAL GUARD: Never allow an English voice to speak Italian, German, French, or Russian on desktop!
   if (language !== 'en') {
     const prefix = LANGUAGE_PREFIX_MAP[language];
     const voiceLangPrefix = (voiceToUse?.lang || '').toLowerCase().replace('_', '-');
     
-    if (!voiceToUse || !voiceLangPrefix.startsWith(prefix) || isStubVoice(voiceToUse.name)) {
-      console.error(`[Libretto TTS BLOCKED] Refusing to speak ${language} using stub or mismatched voice "${voiceToUse?.name}".`);
-      notifyListeners({
-        voiceName: `No working ${language.toUpperCase()} voice ready`,
-        lang: targetBcp47,
-        text: `Download an enhanced voice in macOS Settings → Accessibility → Spoken Content`,
-        isError: true
-      });
-      return false;
+    // On iOS Safari, getVoices() may be empty or unassigned; iOS natively speaks in targetBcp47
+    if (!isIOS()) {
+      if (!voiceToUse || !voiceLangPrefix.startsWith(prefix) || isStubVoice(voiceToUse.name)) {
+        console.error(`[Libretto TTS BLOCKED] Refusing to speak ${language} using stub or mismatched voice "${voiceToUse?.name}".`);
+        notifyListeners({
+          voiceName: `No working ${language.toUpperCase()} voice ready`,
+          lang: targetBcp47,
+          text: `Download an enhanced voice in macOS Settings → Accessibility → Spoken Content`,
+          isError: true
+        });
+        return false;
+      }
     }
   }
 
@@ -431,10 +455,15 @@ export const speakText = (
     console.error('[Libretto TTS Error]', e);
   };
 
-  // Brief delay to ensure cancel() has cleared before dispatching new speech
-  setTimeout(() => {
+  // On iOS Safari, setTimeout breaks the synchronous user gesture requirement and causes silent failure.
+  // Speak immediately on iOS, brief delay on desktop Chromium
+  if (isIOS()) {
     window.speechSynthesis.speak(utterance);
-  }, 20);
+  } else {
+    setTimeout(() => {
+      window.speechSynthesis.speak(utterance);
+    }, 20);
+  }
 
   return true;
 };

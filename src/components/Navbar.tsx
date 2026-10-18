@@ -188,25 +188,35 @@ export const Navbar: React.FC<NavbarProps> = ({
         
         {/* Row 1 on Mobile / Left Section on Desktop: Branding, Opera Selector, Synopsis, and Mobile Fullscreen */}
         <div className="flex items-center justify-between sm:justify-start gap-2 shrink-0">
-          <div className="flex items-center gap-1.5 sm:gap-2 min-w-0 flex-1 sm:flex-initial">
-            <span className="text-xl sm:text-2xl shrink-0" role="img" aria-label="opera mask">🎭</span>
+          <div className="flex items-center gap-2 sm:gap-2.5 min-w-0 flex-1 sm:flex-initial">
+            <div 
+              className="w-7 h-7 sm:w-8 sm:h-8 rounded-lg flex items-center justify-center shrink-0 border select-none shadow-xs"
+              style={{
+                backgroundColor: 'var(--bg-primary)',
+                borderColor: 'var(--border-color)',
+                color: 'var(--accent)'
+              }}
+              aria-label="Libretto monogram"
+            >
+              <span className="font-display font-bold text-sm sm:text-base leading-none">L</span>
+            </div>
             <div className="hidden md:block shrink-0">
-              <span className="font-display font-bold tracking-wider text-base sm:text-lg block leading-none whitespace-nowrap" style={{ color: 'var(--accent)' }}>
+              <span className="font-display font-bold tracking-widest text-sm sm:text-base block leading-tight whitespace-nowrap" style={{ color: 'var(--accent)' }}>
                 LIBRETTO
               </span>
-              <span className="text-[10px] tracking-widest uppercase opacity-70 whitespace-nowrap">
-                Opera Companion
+              <span className="text-[10px] tracking-wider uppercase opacity-65 whitespace-nowrap font-medium block">
+                Study Edition
               </span>
             </div>
 
-            {/* Opera Dropdown (Fills available space on mobile smoothly, bounded on desktop) */}
+            {/* Opera Dropdown (Fine book-binding style) */}
             <div className="relative flex-1 min-w-0 sm:flex-initial">
               <select
                 value={currentOperaId}
                 onChange={(e) => onSelectOpera(e.target.value)}
-                className="w-full sm:w-auto appearance-none font-medium text-xs sm:text-sm py-1.5 pl-2.5 pr-7 sm:pr-8 rounded-lg border cursor-pointer focus:outline-none focus:ring-1 transition-colors max-w-full sm:max-w-xs md:max-w-md truncate"
+                className="w-full sm:w-auto appearance-none font-serif text-xs sm:text-sm py-1.5 pl-3 pr-8 rounded-lg border cursor-pointer focus:outline-none focus:ring-1 transition-all max-w-full sm:max-w-xs md:max-w-md truncate font-medium shadow-xs"
                 style={{
-                  backgroundColor: 'var(--bg-tertiary)',
+                  backgroundColor: 'var(--bg-primary)',
                   borderColor: 'var(--border-color)',
                   color: 'var(--text-primary)',
                 }}
@@ -224,7 +234,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                   );
                 })}
               </select>
-              <ChevronDown className="w-3.5 h-3.5 absolute right-2 top-1/2 -translate-y-1/2 pointer-events-none opacity-60" />
+              <ChevronDown className="w-3.5 h-3.5 absolute right-2.5 top-1/2 -translate-y-1/2 pointer-events-none opacity-50" />
             </div>
           </div>
 
@@ -355,27 +365,31 @@ export const Navbar: React.FC<NavbarProps> = ({
           )}
         </div>
 
-        {/* Row 2 on Mobile / Right Controls on Desktop: Font Size, Theme, Audio, About, Desktop Fullscreen */}
-        <div className="flex items-center justify-between sm:justify-end gap-1.5 sm:gap-2 pt-1 sm:pt-0 border-t sm:border-t-0 border-[var(--border-color)]/40 sm:border-transparent">
+        {/* Row 2 on Mobile / Right Controls on Desktop: Reading Palette */}
+        <div className="flex items-center justify-between sm:justify-end gap-2 pt-1 sm:pt-0 border-t sm:border-t-0 border-[var(--border-color)]/30 sm:border-transparent">
           
-          <div className="flex items-center gap-1.5 sm:gap-2">
+          {/* Reading Controls Palette: Font Size & Theme */}
+          <div 
+            className="flex items-center rounded-lg border shadow-2xs divide-x transition-colors"
+            style={{ 
+              borderColor: 'var(--border-color)', 
+              backgroundColor: 'var(--bg-primary)' 
+            }}
+          >
             {/* Font Size Adjusters */}
-            <div className="flex items-center rounded-lg border overflow-hidden"
-              style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}
-            >
+            <div className="flex items-center px-0.5">
               <button
                 onClick={() => onAdjustFontSize(-0.1)}
                 disabled={fontSizeMultiplier <= 0.8}
-                className="px-2 py-1 text-xs font-semibold hover:opacity-80 disabled:opacity-30"
+                className="px-2 py-1 text-xs font-serif font-semibold hover:opacity-75 disabled:opacity-30 transition-opacity"
                 title="Decrease font size"
               >
                 A-
               </button>
-              <span className="text-[10px] px-0.5 opacity-40 select-none">|</span>
               <button
                 onClick={() => onAdjustFontSize(0.1)}
                 disabled={fontSizeMultiplier >= 1.5}
-                className="px-2 py-1 text-xs font-semibold hover:opacity-80 disabled:opacity-30"
+                className="px-2 py-1 text-xs font-serif font-semibold hover:opacity-75 disabled:opacity-30 transition-opacity"
                 title="Increase font size"
               >
                 A+
@@ -383,60 +397,57 @@ export const Navbar: React.FC<NavbarProps> = ({
             </div>
 
             {/* Theme Switcher: Day, Night, Astro Red */}
-            <div className="flex items-center p-0.5 rounded-lg border"
-              style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}
-            >
+            <div className="flex items-center p-0.5 gap-0.5" style={{ borderColor: 'var(--border-color)' }}>
               <button
                 onClick={() => onSelectTheme('day')}
-                className={`p-1 sm:p-1.5 rounded-md transition-all ${theme === 'day' ? 'shadow-sm' : 'opacity-60 hover:opacity-100'}`}
-                style={theme === 'day' ? { backgroundColor: 'var(--bg-primary)', color: 'var(--accent)' } : {}}
-                title="Day Mode (Parchment)"
+                className={`p-1.5 rounded-md transition-all ${theme === 'day' ? 'shadow-xs font-semibold' : 'opacity-60 hover:opacity-100'}`}
+                style={theme === 'day' ? { backgroundColor: 'var(--bg-tertiary)', color: 'var(--accent)' } : {}}
+                title="Day Mode (Warm Parchment)"
               >
                 <Sun className="w-3.5 h-3.5" />
               </button>
               <button
                 onClick={() => onSelectTheme('night')}
-                className={`p-1 sm:p-1.5 rounded-md transition-all ${theme === 'night' ? 'shadow-sm' : 'opacity-60 hover:opacity-100'}`}
-                style={theme === 'night' ? { backgroundColor: 'var(--bg-secondary)', color: 'var(--accent)' } : {}}
-                title="Night Mode (Dark OLED)"
+                className={`p-1.5 rounded-md transition-all ${theme === 'night' ? 'shadow-xs font-semibold' : 'opacity-60 hover:opacity-100'}`}
+                style={theme === 'night' ? { backgroundColor: 'var(--bg-tertiary)', color: 'var(--accent)' } : {}}
+                title="Night Mode (Dark Obsidian)"
               >
                 <Moon className="w-3.5 h-3.5" />
               </button>
               <button
                 onClick={() => onSelectTheme('astro-red')}
-                className={`p-1 sm:p-1.5 rounded-md transition-all ${theme === 'astro-red' ? 'shadow-sm' : 'opacity-60 hover:opacity-100'}`}
+                className={`p-1.5 rounded-md transition-all ${theme === 'astro-red' ? 'shadow-xs font-semibold' : 'opacity-60 hover:opacity-100'}`}
                 style={theme === 'astro-red' ? { backgroundColor: '#2d0606', color: '#ef4444' } : {}}
-                title="Astro Red Mode (Scotopic Night Vision Protection)"
+                title="Astro Red (Theater Night Vision)"
               >
                 <Eye className="w-3.5 h-3.5" />
               </button>
             </div>
           </div>
 
-          <div className="flex items-center gap-1.5 sm:gap-2">
-            {/* Audio & Voices Settings Button */}
+          {/* Secondary Utilities: Voice, About, Fullscreen */}
+          <div className="flex items-center gap-1.5">
             <button
               onClick={onOpenVoiceSettings}
-              className="flex items-center gap-1.5 p-1.5 sm:px-2 sm:py-1 text-xs rounded-lg border transition-colors hover:opacity-80"
+              className="flex items-center gap-1.5 px-2.5 py-1.5 text-xs rounded-lg border transition-all hover:opacity-85 shadow-2xs"
               style={{
-                backgroundColor: 'var(--bg-tertiary)',
+                backgroundColor: 'var(--bg-primary)',
                 borderColor: 'var(--border-color)',
-                color: 'var(--accent)'
+                color: 'var(--text-secondary)'
               }}
-              title="Audio & Voice Settings"
+              title="Pronunciation Voice Settings"
             >
-              <Volume2 className="w-3.5 h-3.5 shrink-0" />
-              <span className="hidden md:inline font-medium max-w-[90px] truncate">
+              <Volume2 className="w-3.5 h-3.5 shrink-0" style={{ color: 'var(--accent)' }} />
+              <span className="hidden md:inline font-serif font-medium max-w-[85px] truncate">
                 {activeVoiceName || 'Voice'}
               </span>
             </button>
 
-            {/* About / Guide Button */}
             <button
               onClick={onOpenAbout}
-              className="p-1.5 rounded-lg border transition-colors hover:opacity-80"
+              className="p-1.5 rounded-lg border transition-all hover:opacity-85 shadow-2xs"
               style={{
-                backgroundColor: 'var(--bg-tertiary)',
+                backgroundColor: 'var(--bg-primary)',
                 borderColor: 'var(--border-color)',
                 color: 'var(--text-secondary)'
               }}
@@ -445,16 +456,15 @@ export const Navbar: React.FC<NavbarProps> = ({
               <Info className="w-3.5 h-3.5" />
             </button>
 
-            {/* Desktop Fullscreen Button */}
             <button
               onClick={toggleFullscreen}
-              className="hidden sm:block p-1.5 rounded-lg border transition-colors hover:opacity-80"
+              className="hidden sm:block p-1.5 rounded-lg border transition-all hover:opacity-85 shadow-2xs"
               style={{
-                backgroundColor: 'var(--bg-tertiary)',
+                backgroundColor: 'var(--bg-primary)',
                 borderColor: 'var(--border-color)',
                 color: 'var(--accent)'
               }}
-              title={isFullscreen ? "Exit Fullscreen" : "Enter Fullscreen (Hide Browser Tabs & Address Bar)"}
+              title={isFullscreen ? "Exit Fullscreen" : "Enter Fullscreen"}
             >
               {isFullscreen ? <Minimize2 className="w-3.5 h-3.5" /> : <Maximize2 className="w-3.5 h-3.5" />}
             </button>
