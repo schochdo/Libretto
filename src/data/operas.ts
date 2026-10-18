@@ -2,6 +2,16 @@ import { Opera, OperaSummary } from '../types/libretto';
 
 export const OPERA_CATALOG: OperaSummary[] = [
   {
+    id: 'tosca',
+    title: 'Tosca',
+    originalTitle: 'Tosca (Melodramma in tre atti)',
+    composer: 'Giacomo Puccini',
+    librettists: ['Luigi Illica', 'Giuseppe Giacosa'],
+    language: 'it',
+    languageLabel: 'Italian',
+    year: 1900
+  },
+  {
     id: 'don-pasquale',
     title: 'Don Pasquale',
     originalTitle: 'Don Pasquale (Dramma buffo in tre atti)',
@@ -149,6 +159,7 @@ export const getOperaSummaryById = (id: string): OperaSummary => {
 };
 
 const OPERA_LOADERS: Record<string, () => Promise<{ default: Opera }>> = {
+  'tosca': () => import('./tosca'),
   'don-pasquale': () => import('./donPasquale'),
   'lucia-di-lammermoor': () => import('./luciaDiLammermoor'),
   'il-barbiere-di-siviglia': () => import('./barbiereDiSiviglia'),
