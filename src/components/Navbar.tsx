@@ -10,7 +10,8 @@ import {
   Volume2,
   Maximize2,
   Minimize2,
-  BookOpen
+  BookOpen,
+  X
 } from 'lucide-react';
 
 interface NavbarProps {
@@ -50,6 +51,7 @@ export const Navbar: React.FC<NavbarProps> = ({
 }) => {
   const [isFullscreen, setIsFullscreen] = React.useState(false);
   const [isSearchFocused, setIsSearchFocused] = React.useState(false);
+  const [isMobileSearchOpen, setIsMobileSearchOpen] = React.useState(false);
   const searchContainerRef = React.useRef<HTMLDivElement>(null);
 
   React.useEffect(() => {
@@ -238,13 +240,28 @@ export const Navbar: React.FC<NavbarProps> = ({
             </div>
           </div>
 
-          {/* Quick Actions (Synopsis & Mobile Fullscreen) */}
+          {/* Quick Actions (Synopsis, Mobile Search, & Mobile Fullscreen) */}
           <div className="flex items-center gap-1.5 shrink-0">
+            {/* Search Button for Mobile (< lg) */}
+            <button
+              onClick={() => setIsMobileSearchOpen(true)}
+              className="lg:hidden p-1.5 rounded-lg border transition-colors hover:opacity-80 shrink-0 cursor-pointer min-w-[32px] min-h-[32px] flex items-center justify-center"
+              style={{
+                backgroundColor: 'var(--bg-tertiary)',
+                borderColor: 'var(--border-color)',
+                color: 'var(--accent)'
+              }}
+              title="Search lines & vocabulary in opera"
+              aria-label="Search lines in opera"
+            >
+              <Search className="w-3.5 h-3.5" />
+            </button>
+
             {/* Synopsis & Cast Button */}
             <button
               onClick={onOpenToc}
               disabled={!currentOpera}
-              className="flex items-center gap-1.5 text-xs sm:text-sm py-1.5 px-2 sm:px-2.5 rounded-lg border transition-colors hover:opacity-80 disabled:opacity-40 disabled:cursor-not-allowed shrink-0"
+              className="flex items-center gap-1.5 text-xs sm:text-sm py-1.5 px-2 sm:px-2.5 rounded-lg border transition-colors hover:opacity-80 disabled:opacity-40 disabled:cursor-not-allowed shrink-0 min-h-[32px]"
               style={{
                 backgroundColor: 'var(--bg-tertiary)',
                 borderColor: 'var(--border-color)',
@@ -254,19 +271,20 @@ export const Navbar: React.FC<NavbarProps> = ({
             >
               <BookOpen className="w-3.5 h-3.5" style={{ color: 'var(--accent)' }} />
               <span className="font-medium hidden md:inline">Synopsis & Cast</span>
-              <span className="font-medium hidden xs:inline md:hidden">Cast</span>
+              <span className="font-medium hidden min-[360px]:inline md:hidden">Cast</span>
             </button>
 
             {/* Mobile Fullscreen Button: Always visible right in the top navbar row on mobile */}
             <button
               onClick={toggleFullscreen}
-              className="sm:hidden p-1.5 rounded-lg border transition-colors hover:opacity-80 shrink-0"
+              className="sm:hidden p-1.5 rounded-lg border transition-colors hover:opacity-80 shrink-0 min-w-[32px] min-h-[32px] flex items-center justify-center cursor-pointer"
               style={{
                 backgroundColor: 'var(--bg-tertiary)',
                 borderColor: 'var(--border-color)',
                 color: 'var(--accent)'
               }}
               title={isFullscreen ? "Exit Fullscreen" : "Enter Fullscreen"}
+              aria-label={isFullscreen ? "Exit Fullscreen" : "Enter Fullscreen"}
             >
               {isFullscreen ? <Minimize2 className="w-3.5 h-3.5" /> : <Maximize2 className="w-3.5 h-3.5" />}
             </button>
@@ -473,6 +491,135 @@ export const Navbar: React.FC<NavbarProps> = ({
         </div>
 
       </div>
+
+      {/* Mobile Opera Search Modal (< lg) */}
+      {isMobileSearchOpen && (
+        <div 
+          className="fixed inset-0 z-50 flex items-start sm:items-center justify-center p-3 sm:p-4 bg-black/75 backdrop-blur-sm animate-fadeIn"
+          onClick={() => setIsMobileSearchOpen(false)}
+        >
+          <div 
+            className="w-full max-w-lg max-h-[min(88dvh,calc(100dvh-2rem))] rounded-2xl border shadow-2xl flex flex-col overflow-hidden my-auto"
+            onClick={(e) => e.stopPropagation()}
+            style={{
+              backgroundColor: 'var(--bg-secondary)',
+              borderColor: 'var(--border-color)',
+              color: 'var(--text-primary)'
+            }}
+          >
+            {/* Header / Search Input */}
+            <div 
+              className="px-4 py-3 border-b flex items-center justify-between gap-2.5 shrink-0"
+              style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}
+            >
+              <div className="relative flex-1">
+                <Search className="w-4 h-4 absolute left-3 top-1/2 -translate-y-1/2 opacity-50" />
+                <input
+                  type="text"
+                  autoFocus
+                  placeholder={currentOpera ? `Search in ${currentOpera.title}...` : 'Search lines, tokens, characters...'}
+                  value={searchQuery}
+                  onChange={(e) => onSearchChange(e.target.value)}
+                  className="w-full text-xs sm:text-sm py-2 pl-9 pr-8 rounded-lg border focus:outline-none transition-colors"
+                  style={{
+                    backgroundColor: 'var(--bg-primary)',
+                    borderColor: 'var(--border-color)',
+                    color: 'var(--text-primary)'
+                  }}
+                />
+                {searchQuery && (
+                  <button
+                    onClick={() => onSearchChange('')}
+                    className="absolute right-2.5 top-1/2 -translate-y-1/2 text-xs opacity-50 hover:opacity-100 p-1 cursor-pointer"
+                    title="Clear search"
+                  >
+                    <X className="w-3.5 h-3.5" />
+                  </button>
+                )}
+              </div>
+              <button
+                onClick={() => setIsMobileSearchOpen(false)}
+                className="p-2 rounded-lg border hover:opacity-75 active:scale-95 transition-all shrink-0 min-w-[36px] min-h-[36px] flex items-center justify-center cursor-pointer"
+                style={{ borderColor: 'var(--border-color)' }}
+                aria-label="Close search"
+                title="Close search"
+              >
+                <X className="w-4 h-4" />
+              </button>
+            </div>
+
+            {/* Live Search Results */}
+            <div className="p-3 space-y-1 overflow-y-auto flex-1 min-h-0 overscroll-contain">
+              {searchQuery.trim().length < 2 ? (
+                <div className="p-6 text-center text-xs opacity-60">
+                  Type at least 2 characters to search across {currentOpera?.title || 'the opera'}...
+                </div>
+              ) : searchResults.length === 0 ? (
+                <div className="p-6 text-center text-xs opacity-60 italic">
+                  No matching dialogue or lines found for "{searchQuery}".
+                </div>
+              ) : (
+                <div className="space-y-1">
+                  <div className="px-2 py-1 text-[11px] font-semibold opacity-70 flex justify-between">
+                    <span>Matches across {currentOpera?.title}</span>
+                    <span>{searchResults.length} {searchResults.length === 1 ? 'match' : 'matches'}{searchResults.length >= 25 ? '+' : ''}</span>
+                  </div>
+                  {searchResults.map((res) => (
+                    <button
+                      key={res.lineId}
+                      onClick={() => {
+                        if (onNavigateToLine) {
+                          onNavigateToLine(res.actIndex, res.sceneIndex, res.lineId);
+                        }
+                        setIsMobileSearchOpen(false);
+                      }}
+                      className="w-full text-left p-2.5 rounded-xl border transition-all hover:bg-black/5 dark:hover:bg-white/5 space-y-1 cursor-pointer"
+                      style={{
+                        backgroundColor: 'var(--bg-primary)',
+                        borderColor: 'var(--border-color)'
+                      }}
+                    >
+                      <div className="flex items-center justify-between text-[11px] opacity-75">
+                        <span className="font-semibold uppercase tracking-wider" style={{ color: 'var(--accent)' }}>
+                          {res.actTitle} • {res.sceneTitle}
+                        </span>
+                        <span className="font-medium">[{res.speaker}]</span>
+                      </div>
+                      <p className="font-libretto text-xs sm:text-sm italic font-medium leading-snug">
+                        {res.original}
+                      </p>
+                      <p className="text-xs opacity-80 font-sans leading-snug">
+                        {res.literal}
+                      </p>
+                    </button>
+                  ))}
+                </div>
+              )}
+            </div>
+
+            {/* Footer */}
+            <div 
+              className="px-4 py-2.5 border-t flex items-center justify-between shrink-0"
+              style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}
+            >
+              <span className="text-xs opacity-65">
+                {searchResults.length} {searchResults.length === 1 ? 'match' : 'matches'}
+              </span>
+              <button
+                onClick={() => setIsMobileSearchOpen(false)}
+                className="px-4 py-1.5 rounded-lg text-xs font-semibold border hover:opacity-85 active:scale-98 transition-all cursor-pointer"
+                style={{ 
+                  backgroundColor: 'var(--bg-primary)',
+                  borderColor: 'var(--border-color)',
+                  color: 'var(--text-primary)'
+                }}
+              >
+                Close
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
     </header>
   );
 };

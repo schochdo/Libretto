@@ -16,9 +16,13 @@ export const TableOfContentsModal: React.FC<TableOfContentsModalProps> = ({
   if (!isOpen) return null;
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/70 backdrop-blur-sm animate-fadeIn">
+    <div 
+      className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-4 bg-black/75 backdrop-blur-sm animate-fadeIn overflow-y-auto"
+      onClick={onClose}
+    >
       <div 
-        className="w-full max-w-2xl max-h-[85vh] rounded-2xl border shadow-2xl flex flex-col overflow-hidden"
+        className="w-full max-w-2xl max-h-[min(90dvh,calc(100dvh-2rem))] rounded-2xl border shadow-2xl flex flex-col overflow-hidden my-auto"
+        onClick={(e) => e.stopPropagation()}
         style={{
           backgroundColor: 'var(--bg-secondary)',
           borderColor: 'var(--border-color)',
@@ -27,15 +31,15 @@ export const TableOfContentsModal: React.FC<TableOfContentsModalProps> = ({
       >
         {/* Header */}
         <div 
-          className="px-6 py-4 border-b flex items-center justify-between"
+          className="px-4 sm:px-6 py-3.5 sm:py-4 border-b flex items-center justify-between gap-3 shrink-0"
           style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}
         >
-          <div>
-            <h3 className="font-display font-bold text-lg" style={{ color: 'var(--accent)' }}>
+          <div className="min-w-0 flex-1">
+            <h3 className="font-display font-bold text-base sm:text-lg truncate" style={{ color: 'var(--accent)' }}>
               {opera.title}
             </h3>
             {opera.originalTitle && opera.originalTitle !== opera.title && (
-              <p className="text-xs italic opacity-85 mt-0.5" style={{ color: 'var(--accent)' }}>
+              <p className="text-xs italic opacity-85 mt-0.5 truncate" style={{ color: 'var(--accent)' }}>
                 Full original title: {opera.originalTitle}
               </p>
             )}
@@ -45,15 +49,17 @@ export const TableOfContentsModal: React.FC<TableOfContentsModalProps> = ({
           </div>
           <button
             onClick={onClose}
-            className="p-1.5 rounded-lg border hover:opacity-75"
+            className="p-2 sm:p-1.5 rounded-lg border hover:opacity-75 active:scale-95 transition-all shrink-0 min-w-[36px] min-h-[36px] flex items-center justify-center cursor-pointer"
             style={{ borderColor: 'var(--border-color)' }}
+            aria-label="Close dialog"
+            title="Close dialog"
           >
             <X className="w-4 h-4" />
           </button>
         </div>
 
         {/* Scrollable Content */}
-        <div className="overflow-y-auto p-6 space-y-6">
+        <div className="overflow-y-auto p-4 sm:p-6 space-y-6 flex-1 min-h-0 overscroll-contain">
           
           {/* Synopsis */}
           <div className="p-4 rounded-xl border" style={{ backgroundColor: 'var(--bg-primary)', borderColor: 'var(--border-color)' }}>
@@ -122,6 +128,24 @@ export const TableOfContentsModal: React.FC<TableOfContentsModalProps> = ({
             </div>
           )}
 
+        </div>
+
+        {/* Footer */}
+        <div 
+          className="px-4 sm:px-6 py-3 border-t flex items-center justify-end shrink-0"
+          style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}
+        >
+          <button
+            onClick={onClose}
+            className="w-full sm:w-auto px-4 py-2 rounded-lg text-xs sm:text-sm font-semibold border hover:opacity-85 active:scale-98 transition-all cursor-pointer"
+            style={{ 
+              backgroundColor: 'var(--bg-primary)',
+              borderColor: 'var(--border-color)',
+              color: 'var(--text-primary)'
+            }}
+          >
+            Close
+          </button>
         </div>
       </div>
     </div>

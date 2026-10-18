@@ -33,7 +33,7 @@ export const LinguisticInspector: React.FC<LinguisticInspectorProps> = ({
 
   return (
     <div
-      className="flex flex-col h-full w-full"
+      className="flex flex-col flex-1 min-h-0 h-full w-full"
       style={{
         backgroundColor: 'var(--bg-secondary)',
         color: 'var(--text-primary)'
@@ -41,18 +41,18 @@ export const LinguisticInspector: React.FC<LinguisticInspectorProps> = ({
     >
       {/* Drawer Header */}
       <div 
-        className="px-4 py-3 border-b flex items-center justify-between gap-3 shrink-0"
+        className="px-4 py-3 sm:py-3.5 border-b flex items-center justify-between gap-3 shrink-0"
         style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-secondary)' }}
       >
         <div className="flex items-center gap-2.5 min-w-0 flex-1">
           <BookOpen className="w-4 h-4 shrink-0" style={{ color: 'var(--accent)' }} />
           <div className="min-w-0 flex-1">
             <div className="flex items-baseline gap-2 flex-wrap">
-              <span className="font-bold text-sm sm:text-base" style={{ color: 'var(--accent)' }}>
+              <span className="font-bold text-sm sm:text-base truncate" style={{ color: 'var(--accent)' }}>
                 [{speaker}]
               </span>
               {pieceTitle && (
-                <span className="text-xs sm:text-sm opacity-80 italic font-normal">
+                <span className="text-xs sm:text-sm opacity-80 italic font-normal truncate">
                   — {pieceTitle}
                 </span>
               )}
@@ -63,8 +63,9 @@ export const LinguisticInspector: React.FC<LinguisticInspectorProps> = ({
         <div className="flex items-center gap-2 shrink-0">
           <button
             onClick={onClose}
-            className="p-1.5 rounded-lg border hover:opacity-75 transition-opacity"
+            className="p-2 sm:p-1.5 rounded-lg border hover:opacity-75 active:scale-95 transition-all shrink-0 min-w-[36px] min-h-[36px] flex items-center justify-center cursor-pointer"
             style={{ borderColor: 'var(--border-color)' }}
+            aria-label="Close Inspector"
             title="Close Inspector"
           >
             <X className="w-4 h-4" />
@@ -73,7 +74,7 @@ export const LinguisticInspector: React.FC<LinguisticInspectorProps> = ({
       </div>
 
       {/* Drawer Scrollable Content */}
-      <div className="flex-1 overflow-y-auto p-4 space-y-4">
+      <div className="flex-1 min-h-0 overflow-y-auto p-4 space-y-4 overscroll-contain">
         
         {/* Full Verse Comparison (Stacked for optimal reading width, matching font scale) */}
         <div 
@@ -260,6 +261,22 @@ export const LinguisticInspector: React.FC<LinguisticInspectorProps> = ({
             )}
           </div>
         )}
+
+        {/* Mobile-friendly dismiss button at the bottom of the stream */}
+        <div className="pt-2 pb-1 flex justify-center md:hidden">
+          <button
+            onClick={onClose}
+            className="w-full py-2.5 px-4 rounded-xl border text-xs font-semibold uppercase tracking-wider transition-all hover:opacity-85 active:scale-98 shadow-xs cursor-pointer flex items-center justify-center gap-1.5"
+            style={{
+              backgroundColor: 'var(--bg-primary)',
+              borderColor: 'var(--border-color)',
+              color: 'var(--text-primary)'
+            }}
+          >
+            <X className="w-3.5 h-3.5" />
+            <span>Done / Close Inspector</span>
+          </button>
+        </div>
 
       </div>
     </div>

@@ -299,12 +299,12 @@ export const SceneSettingCard: React.FC<SceneSettingCardProps> = ({
 
             {/* View Mode Controls */}
             <div 
-              className="inline-flex items-center rounded-lg p-0.5 border text-xs font-medium"
+              className="inline-flex items-center rounded-lg p-0.5 border text-xs font-medium shrink-0"
               style={{ borderColor: 'var(--border-color)' }}
             >
               <button
                 onClick={() => setViewMode('aligned')}
-                className={`flex items-center gap-1 px-2.5 py-1 rounded-md transition-colors ${
+                className={`flex items-center gap-1 px-2 sm:px-2.5 py-1 rounded-md transition-colors cursor-pointer ${
                   viewMode === 'aligned' 
                     ? 'shadow-xs font-semibold' 
                     : 'opacity-70 hover:opacity-100'
@@ -316,12 +316,13 @@ export const SceneSettingCard: React.FC<SceneSettingCardProps> = ({
                 title="View sentence-by-sentence translation pairs"
               >
                 <Layers className="w-3 h-3" />
-                <span>Aligned Sentences</span>
+                <span className="hidden sm:inline">Aligned Sentences</span>
+                <span className="sm:hidden">Aligned</span>
               </button>
 
               <button
                 onClick={() => setViewMode('paragraph')}
-                className={`flex items-center gap-1 px-2.5 py-1 rounded-md transition-colors ${
+                className={`flex items-center gap-1 px-2 sm:px-2.5 py-1 rounded-md transition-colors cursor-pointer ${
                   viewMode === 'paragraph' 
                     ? 'shadow-xs font-semibold' 
                     : 'opacity-70 hover:opacity-100'
@@ -333,7 +334,8 @@ export const SceneSettingCard: React.FC<SceneSettingCardProps> = ({
                 title="View as continuous paragraphs with interactive hover sync"
               >
                 <AlignLeft className="w-3 h-3" />
-                <span>Paragraph Flow</span>
+                <span className="hidden sm:inline">Paragraph Flow</span>
+                <span className="sm:hidden">Paragraph</span>
               </button>
             </div>
           </div>

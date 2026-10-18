@@ -54,15 +54,16 @@ export const DualColumnReader: React.FC<DualColumnReaderProps> = ({
     }
 
     if (activeLineId && activeLineRef.current) {
+      const isMobile = typeof window !== 'undefined' && window.innerWidth < 768;
       activeLineRef.current.scrollIntoView({
         behavior: 'smooth',
-        block: 'nearest'
+        block: isMobile ? 'center' : 'nearest'
       });
     }
   }, [activeLineId, scene.sceneNumber]);
 
   return (
-    <div className="max-w-5xl mx-auto px-3 sm:px-8 py-6 sm:py-8 pb-24">
+    <div className="max-w-5xl mx-auto px-3 sm:px-8 py-6 sm:py-8 pb-36 sm:pb-24">
       
       {/* Act & Scene Title (Poetic & Minimal) */}
       <header className="mb-8 text-center space-y-3">

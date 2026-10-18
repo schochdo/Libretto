@@ -8,7 +8,7 @@ import { TableOfContentsModal } from './components/TableOfContentsModal';
 import { AboutModal } from './components/AboutModal';
 import { VoiceSettingsModal } from './components/VoiceSettingsModal';
 import { getBestVoiceForLanguage } from './utils/speech';
-import { ChevronLeft, ChevronRight, ChevronDown } from 'lucide-react';
+import { ChevronLeft, ChevronRight, ChevronDown, X } from 'lucide-react';
 
 export const App: React.FC = () => {
   const mainScrollRef = useRef<HTMLElement | null>(null);
@@ -215,6 +215,10 @@ export const App: React.FC = () => {
         setIsTocOpen(false);
         setIsAboutOpen(false);
         setIsVoiceSettingsOpen(false);
+        setIsScenePickerOpen(false);
+        setActiveLine(null);
+        setActiveLineId(null);
+        setSelectedToken(null);
       }
     };
 
@@ -392,7 +396,7 @@ export const App: React.FC = () => {
               <div className="relative flex-1 min-w-0 flex justify-center">
                 <button
                   onClick={() => setIsScenePickerOpen(!isScenePickerOpen)}
-                  className="flex items-center gap-1.5 sm:gap-2 px-2 sm:px-3 py-1.5 rounded-lg border text-xs sm:text-sm font-semibold transition-all hover:opacity-90 active:scale-98 max-w-[190px] xs:max-w-[240px] sm:max-w-md md:max-w-lg lg:max-w-xl truncate cursor-pointer"
+                  className="flex items-center gap-1.5 sm:gap-2 px-2.5 sm:px-3 py-1.5 rounded-lg border text-xs sm:text-sm font-semibold transition-all hover:opacity-90 active:scale-98 max-w-[260px] sm:max-w-md md:max-w-lg lg:max-w-xl truncate cursor-pointer shadow-2xs"
                   style={{ 
                     backgroundColor: 'var(--bg-primary)',
                     borderColor: isScenePickerOpen ? 'var(--border-active)' : 'var(--border-color)',
@@ -411,66 +415,113 @@ export const App: React.FC = () => {
                   <ChevronDown className={`w-3.5 h-3.5 shrink-0 opacity-60 transition-transform duration-200 ${isScenePickerOpen ? 'rotate-180' : ''}`} />
                 </button>
 
-                {/* Instant Scene Jump Dropdown Menu */}
+                {/* Instant Scene Jump Dialog */}
                 {isScenePickerOpen && (
-                  <>
+                  <div 
+                    className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-4 bg-black/75 backdrop-blur-sm animate-fadeIn overflow-y-auto"
+                    onClick={() => setIsScenePickerOpen(false)}
+                  >
                     <div 
-                      className="fixed inset-0 z-40" 
-                      onClick={() => setIsScenePickerOpen(false)} 
-                    />
-                    <div 
-                      className="absolute top-full left-1/2 -translate-x-1/2 mt-2 w-80 sm:w-96 max-h-[70vh] overflow-y-auto rounded-xl border shadow-2xl z-50 p-2 space-y-3 animate-fadeIn"
+                      className="w-full max-w-lg max-h-[min(85dvh,calc(100dvh-2rem))] rounded-2xl border shadow-2xl flex flex-col overflow-hidden my-auto"
+                      onClick={(e) => e.stopPropagation()}
                       style={{ 
                         backgroundColor: 'var(--bg-secondary)', 
                         borderColor: 'var(--border-color)',
                         color: 'var(--text-primary)' 
                       }}
                     >
-                      {currentOpera.acts.map((act, aIdx) => (
-                        <div key={act.actNumber} className="space-y-1">
-                          <div className="px-2.5 py-1 text-xs font-bold uppercase tracking-wider opacity-75">
-                            {act.title}
-                          </div>
-                          {act.scenes.map((sc, sIdx) => {
-                            const isCurrent = aIdx === currentActIndex && sIdx === currentSceneIndex;
-                            return (
-                              <button
-                                key={sc.sceneNumber}
-                                onClick={() => {
-                                  handleSelectActScene(aIdx, sIdx);
-                                  setIsScenePickerOpen(false);
-                                }}
-                                className={`w-full text-left px-3 py-2 rounded-lg text-xs sm:text-sm border transition-all flex items-start justify-between gap-2 cursor-pointer ${
-                                  isCurrent ? 'ring-1 font-semibold' : 'hover:opacity-85'
-                                }`}
-                                style={{ 
-                                  backgroundColor: isCurrent ? 'var(--bg-active)' : 'var(--bg-primary)',
-                                  borderColor: isCurrent ? 'var(--border-active)' : 'var(--border-color)',
-                                  color: 'var(--text-primary)'
-                                }}
-                              >
-                                <div className="min-w-0 flex-1">
-                                  <div className="font-medium truncate">
-                                    Scene {sc.sceneNumber}: {sc.title}
-                                  </div>
-                                  {sc.titleTranslation && (
-                                    <div className="text-xs sm:text-sm font-sans italic opacity-85 truncate mt-0.5">
-                                      "{sc.titleTranslation}"
-                                    </div>
-                                  )}
-                                </div>
-                                {isCurrent && (
-                                  <span className="text-xs uppercase font-bold px-1.5 py-0.5 rounded shrink-0" style={{ color: 'var(--accent)' }}>
-                                    Current
-                                  </span>
-                                )}
-                              </button>
-                            );
-                          })}
+                      {/* Dialog Header */}
+                      <div 
+                        className="px-4 sm:px-6 py-3.5 sm:py-4 border-b flex items-center justify-between gap-3 shrink-0"
+                        style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}
+                      >
+                        <div className="min-w-0 flex-1">
+                          <h3 className="font-display font-bold text-base sm:text-lg truncate" style={{ color: 'var(--accent)' }}>
+                            Jump to Act & Scene
+                          </h3>
+                          <p className="text-xs opacity-75 truncate">
+                            {currentOpera.title}
+                          </p>
                         </div>
-                      ))}
+                        <button
+                          onClick={() => setIsScenePickerOpen(false)}
+                          className="p-2 sm:p-1.5 rounded-lg border hover:opacity-75 active:scale-95 transition-all shrink-0 min-w-[36px] min-h-[36px] flex items-center justify-center cursor-pointer"
+                          style={{ borderColor: 'var(--border-color)' }}
+                          aria-label="Close scene selector"
+                          title="Close scene selector"
+                        >
+                          <X className="w-4 h-4" />
+                        </button>
+                      </div>
+
+                      {/* Acts & Scenes List */}
+                      <div className="p-3 sm:p-5 space-y-4 overflow-y-auto flex-1 min-h-0 overscroll-contain">
+                        {currentOpera.acts.map((act, aIdx) => (
+                          <div key={act.actNumber} className="space-y-1.5">
+                            <div className="px-2 py-1 text-xs font-bold uppercase tracking-wider opacity-75">
+                              {act.title}
+                            </div>
+                            <div className="space-y-1">
+                              {act.scenes.map((sc, sIdx) => {
+                                const isCurrent = aIdx === currentActIndex && sIdx === currentSceneIndex;
+                                return (
+                                  <button
+                                    key={sc.sceneNumber}
+                                    onClick={() => {
+                                      handleSelectActScene(aIdx, sIdx);
+                                      setIsScenePickerOpen(false);
+                                    }}
+                                    className={`w-full text-left px-3 py-2.5 rounded-xl text-xs sm:text-sm border transition-all flex items-start justify-between gap-2.5 cursor-pointer ${
+                                      isCurrent ? 'ring-1 font-semibold shadow-xs' : 'hover:opacity-85'
+                                    }`}
+                                    style={{ 
+                                      backgroundColor: isCurrent ? 'var(--bg-active)' : 'var(--bg-primary)',
+                                      borderColor: isCurrent ? 'var(--border-active)' : 'var(--border-color)',
+                                      color: 'var(--text-primary)'
+                                    }}
+                                  >
+                                    <div className="min-w-0 flex-1">
+                                      <div className="font-medium">
+                                        Scene {sc.sceneNumber}: {sc.title}
+                                      </div>
+                                      {sc.titleTranslation && (
+                                        <div className="text-xs font-sans italic opacity-85 mt-0.5" style={{ color: 'var(--text-secondary)' }}>
+                                          "{sc.titleTranslation}"
+                                        </div>
+                                      )}
+                                    </div>
+                                    {isCurrent && (
+                                      <span className="text-[11px] uppercase font-bold px-2 py-0.5 rounded-full shrink-0" style={{ backgroundColor: 'var(--bg-secondary)', color: 'var(--accent)' }}>
+                                        Current
+                                      </span>
+                                    )}
+                                  </button>
+                                );
+                              })}
+                            </div>
+                          </div>
+                        ))}
+                      </div>
+
+                      {/* Dialog Footer */}
+                      <div 
+                        className="px-4 sm:px-6 py-3 border-t flex items-center justify-end shrink-0"
+                        style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}
+                      >
+                        <button
+                          onClick={() => setIsScenePickerOpen(false)}
+                          className="w-full sm:w-auto px-4 py-2 rounded-lg text-xs sm:text-sm font-semibold border hover:opacity-85 active:scale-98 transition-all cursor-pointer"
+                          style={{ 
+                            backgroundColor: 'var(--bg-primary)',
+                            borderColor: 'var(--border-color)',
+                            color: 'var(--text-primary)'
+                          }}
+                        >
+                          Close
+                        </button>
+                      </div>
                     </div>
-                  </>
+                  </div>
                 )}
               </div>
 
@@ -549,17 +600,18 @@ export const App: React.FC = () => {
 
             {/* Inspector Container */}
             <aside 
-              className="fixed inset-x-0 bottom-0 max-h-[82vh] z-50 rounded-t-2xl shadow-2xl flex flex-col border-t animate-slideUp md:animate-none md:relative md:inset-auto md:max-h-none md:rounded-none md:border-t-0 md:border-l md:w-[26rem] lg:w-[30rem] xl:w-[34rem] md:shrink-0 md:z-20 overflow-hidden" 
+              className="fixed inset-x-0 bottom-0 max-h-[85dvh] z-50 rounded-t-2xl shadow-2xl flex flex-col border-t animate-slideUp md:animate-none md:relative md:inset-auto md:max-h-none md:rounded-none md:border-t-0 md:border-l md:w-[26rem] lg:w-[30rem] xl:w-[34rem] md:shrink-0 md:z-20 overflow-hidden pb-[max(0.75rem,env(safe-area-inset-bottom))]" 
               style={{ backgroundColor: 'var(--bg-secondary)', borderColor: 'var(--border-color)' }}
             >
               {/* Mobile Drawer Pull Bar Handle */}
               <div 
-                className="md:hidden flex justify-center pt-2.5 pb-1 cursor-pointer"
+                className="md:hidden flex justify-center pt-3 pb-1.5 cursor-pointer shrink-0"
                 onClick={() => {
                   setActiveLine(null);
                   setActiveLineId(null);
                   setSelectedToken(null);
                 }}
+                aria-label="Tap to close inspector"
               >
                 <div 
                   className="w-12 h-1.5 rounded-full opacity-40 hover:opacity-70 transition-opacity"
