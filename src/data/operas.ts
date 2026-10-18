@@ -22,6 +22,16 @@ export const OPERA_CATALOG: OperaSummary[] = [
     year: 1875
   },
   {
+    id: 'don-giovanni',
+    title: 'Don Giovanni',
+    originalTitle: 'Il dissoluto punito, ossia il Don Giovanni',
+    composer: 'Wolfgang Amadeus Mozart',
+    librettists: ['Lorenzo Da Ponte'],
+    language: 'it',
+    languageLabel: 'Italian',
+    year: 1787
+  },
+  {
     id: 'die-zauberfloete',
     title: 'The Magic Flute',
     originalTitle: 'Die Zauberflöte',
@@ -71,6 +81,7 @@ export const getOperaSummaryById = (id: string): OperaSummary => {
 const OPERA_LOADERS: Record<string, () => Promise<{ default: Opera }>> = {
   'fidelio': () => import('./fidelio'),
   'carmen': () => import('./carmen'),
+  'don-giovanni': () => import('./donGiovanni'),
   'die-zauberfloete': () => import('./dieZauberfloete'),
   'magic-flute': () => import('./dieZauberfloete'),
   'la-boheme': () => import('./laBoheme'),
