@@ -457,7 +457,7 @@ export const dieZauberfloeteAct2: Act = {
                   "lemma": "rühren",
                   "pos": "verb",
                   "meaning": "moved / touched",
-                  "notes": "Past participle (Partizip II) in verbal predicate."
+                  "notes": "Past participle describing the completed action."
                 },
                 {
                   "word": "Einigkeit",
@@ -854,7 +854,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "verließe",
                   "lemma": "verlassen",
                   "pos": "verb",
-                  "meaning": "should leave (subjunctive II)"
+                  "meaning": "should leave (hypothetical / would)"
                 },
                 {
                   "word": "unterläge",
@@ -924,7 +924,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "erblaßte",
                   "lemma": "erblassen",
                   "pos": "verb",
-                  "meaning": "grew pale / died (subjunctive II)"
+                  "meaning": "grew pale / died (hypothetical / would)"
                 }
               ],
               "grammarNote": "'erblassen' is used poetically as a euphemism for death during initiation."
@@ -1417,7 +1417,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "wäre",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "were (subjunctive II)"
+                  "meaning": "were (hypothetical / would)"
                 },
                 {
                   "word": "wollt' ich",
@@ -1687,7 +1687,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "wär",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "were (subjunctive II)"
+                  "meaning": "were (hypothetical / would)"
                 },
                 {
                   "word": "Mädchen",
@@ -1871,7 +1871,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "wäre",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "were (subjunctive II)"
+                  "meaning": "were (hypothetical / would)"
                 }
               ]
             }
@@ -2318,7 +2318,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "erwerben könntest",
                   "lemma": "erwerben",
                   "pos": "verb",
-                  "meaning": "could acquire / win (subjunctive II)"
+                  "meaning": "could acquire / win (hypothetical / would)"
                 }
               ]
             }
@@ -2753,7 +2753,7 @@ export const dieZauberfloeteAct2: Act = {
                   "lemma": "verlieren",
                   "pos": "verb",
                   "meaning": "lost / doomed",
-                  "notes": "Past participle (Partizip II) in verbal predicate."
+                  "notes": "Past participle describing the completed action."
                 }
               ],
               "grammarNote": "18th-century colloquial grammar: 'ohne diesem' (with dative) rather than standard modern accusative 'ohne dieses'."
@@ -2885,10 +2885,10 @@ export const dieZauberfloeteAct2: Act = {
                   "lemma": "verlassen",
                   "pos": "verb",
                   "meaning": "abandoned / deserted (past participle fronted)",
-                  "notes": "Past participle (Partizip II) in verbal predicate."
+                  "notes": "Past participle describing the completed action."
                 }
               ],
-              "grammarNote": "Fronted participle triggering inversion: 'Verlassen sah er sich'."
+              "grammarNote": "Putting 'Verlassen' (Abandoned) first emphasizes Tamino's isolation: 'Abandoned he saw himself'."
             },
             {
               "id": "a2_s2_c51_l6",
@@ -3153,7 +3153,7 @@ export const dieZauberfloeteAct2: Act = {
                   "lemma": "verlieren",
                   "pos": "verb",
                   "meaning": "lost / doomed",
-                  "notes": "Past participle (Partizip II) in verbal predicate."
+                  "notes": "Past participle describing the completed action."
                 }
               ]
             }
@@ -3173,7 +3173,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "wär'",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "would be (subjunctive II)"
+                  "meaning": "would be (hypothetical / would)"
                 },
                 {
                   "word": "zuviel",
@@ -3849,7 +3849,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "threshold (feminine subject)"
                 }
               ],
-              "grammarNote": "Fronted participle triggering inversion: 'Entweiht ist die... Schwelle'."
+              "grammarNote": "The Speaker warns: 'Desecrated is the sacred threshold if you violate your vow!'"
             },
             {
               "id": "a2_s3_c30_l2",
@@ -3989,7 +3989,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "happily conclude / bring to successful close"
                 }
               ],
-              "grammarNote": "Inversion after adverb 'Zwar' ('Zwar hast du...'). Future auxiliary 'wirst' frames the subordinate clause."
+              "grammarNote": "Starting with 'Zwar' (Indeed) puts the verb before the subject: 'Indeed you have passed the first trial'."
             },
             {
               "id": "a2_s3_c35_l3",
@@ -4475,7 +4475,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "wanderte",
                   "lemma": "wandern",
                   "pos": "verb",
-                  "meaning": "wandered (subjunctive II)"
+                  "meaning": "wandered (hypothetical / would)"
                 },
                 {
                   "word": "Anblick",
@@ -4560,13 +4560,13 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s4_c5_l1",
               "original": "Wenn ich wüßte – daß ich so ganz allein, und unbelauscht wäre – ich wagte es noch einmal.",
-              "literal": "If I knew – that I so completely alone, and uneavesdropped were – I would-venture it once more.",
+              "literal": "If I knew that I were completely alone and unobserved, I would venture it once more.",
               "tokens": [
                 {
                   "word": "wüßte",
                   "lemma": "wissen",
                   "pos": "verb",
-                  "meaning": "knew (subjunctive II)"
+                  "meaning": "knew (hypothetical / would)"
                 },
                 {
                   "word": "ganz allein",
@@ -4584,7 +4584,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "wagte es",
                   "lemma": "wagen",
                   "pos": "verb",
-                  "meaning": "would venture / dare it (subjunctive II)"
+                  "meaning": "would venture / dare it (hypothetical / would)"
                 },
                 {
                   "word": "noch einmal",
@@ -4606,7 +4606,7 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s4_c6_l1",
               "original": "Es ist doch eine verdammte närrische Sache um die Liebe! – Ein Küßchen, dächte ich, ließe sich entschuldigen. –",
-              "literal": "It is indeed a damned foolish thing about love! – A little-kiss, thought I, would-let itself be-excused [could be excused]. –",
+              "literal": "Love is indeed a damned foolish thing! – A little kiss, I thought, could be excused. –",
               "tokens": [
                 {
                   "word": "verdammte",
@@ -4636,7 +4636,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "dächte ich",
                   "lemma": "denken",
                   "pos": "verb",
-                  "meaning": "I would think (subjunctive II)"
+                  "meaning": "I would think (hypothetical / would)"
                 },
                 {
                   "word": "ließe sich entschuldigen",
@@ -4779,7 +4779,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "to vex / displease / annoy (governs accusative 'dich')"
                 }
               ],
-              "grammarNote": "Conditional inversion: 'Sollt' es dich... verdrießen' = If it should displease you too much."
+              "grammarNote": "Putting the verb first creates an 'if' clause: 'If it should displease you too much...'"
             },
             {
               "id": "a2_s4_c7_l16",
@@ -5096,7 +5096,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "fliehen wir",
                   "lemma": "fliehen",
                   "pos": "verb",
-                  "meaning": "let us flee (cohortative / first-person imperative)"
+                  "meaning": "let us flee (let us)"
                 },
                 {
                   "word": "unter deinem Schutz",
@@ -5420,7 +5420,7 @@ export const dieZauberfloeteAct2: Act = {
                   "lemma": "verlieren",
                   "pos": "verb",
                   "meaning": "lost",
-                  "notes": "Past participle (Partizip II) in verbal predicate."
+                  "notes": "Past participle describing the completed action."
                 }
               ]
             }
@@ -5514,7 +5514,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "dürft ich",
                   "lemma": "dürfen",
                   "pos": "verb",
-                  "meaning": "might I / could I be permitted (subjunctive II)"
+                  "meaning": "might I / could I be permitted (hypothetical / would)"
                 },
                 {
                   "word": "als Eingeweihten",
@@ -6346,7 +6346,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "yes, or no"
                 }
               ],
-              "grammarNote": "V2 syntax with fronted object: 'Das junge Bäumchen (accusative) jagt der Sturm (nominative subject)'."
+              "grammarNote": "The poetic line places the tree first: 'The young sapling (object) is chased by the storm (subject)'."
             }
           ]
         },
@@ -6947,7 +6947,7 @@ export const dieZauberfloeteAct2: Act = {
                   "lemma": "beschämen",
                   "pos": "verb",
                   "meaning": "ashamed / confounded",
-                  "notes": "Past participle (Partizip II) in verbal predicate."
+                  "notes": "Past participle describing the completed action."
                 },
                 {
                   "word": "Burg",
@@ -6996,7 +6996,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "one does not know / is unfamiliar with"
                 }
               ],
-              "grammarNote": "Topicalized locative prepositional phrase causing V2 inversion: 'kennt man'."
+              "grammarNote": "Sarastro proclaims: 'In these sacred halls, revenge is unknown' (literally: 'one knows no revenge')."
             },
             {
               "id": "a2_s6_c31_l3",
@@ -7356,7 +7356,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "are"
                 }
               ],
-              "grammarNote": "Archaic spelling 'seyd' and apocopated conjunction 'eh'' introducing the temporal subordinate clause."
+              "grammarNote": "Historical spelling 'seyd' with 'eh'' (short for 'ehe' / before): 'before you face the final trials'."
             },
             {
               "id": "a2_s7_c2_l2",
@@ -7579,7 +7579,7 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s7_c6_l2",
               "original": "Wär' ich lieber in meiner Strohhütte, oder im Walde, so hört ich doch manchmahl einen Vogel pfeifen.",
-              "literal": "Were I rather in my straw-hut, or in the forest, so would-hear I at least sometimes a bird whistling.",
+              "literal": "If only I were in my straw hut or in the forest, then at least I would hear a bird whistling now and then.",
               "tokens": [
                 {
                   "word": "Wär'",
@@ -7628,7 +7628,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "hört'",
                   "lemma": "hören",
                   "pos": "verb",
-                  "meaning": "would hear (subjunctive II)",
+                  "meaning": "would hear (hypothetical / would)",
                   "notes": "Archaic un-umlauted subjunctive form for 'hörte'."
                 },
                 {
@@ -8748,7 +8748,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "wär'",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "would be (subjunctive II)",
+                  "meaning": "would be (hypothetical / would)",
                   "notes": "Apocope of 'wäre'."
                 },
                 {
@@ -8932,7 +8932,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "more / anymore"
                 }
               ],
-              "grammarNote": "V2 word order triggered by adverb 'Nun'. Colloquial apocope of 'e' in 'sprech'."
+              "grammarNote": "Starting with 'Nun' (Now) puts the verb before the subject. 'Sprech'' drops the final 'e' in natural spoken German."
             }
           ]
         },
@@ -8983,7 +8983,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "took away / confiscated (governs dative 'euch')"
                 }
               ],
-              "grammarNote": "Dativus separationis: 'jemandem etwas abnehmen'."
+              "grammarNote": "The dative pronoun shows from whom something is taken: 'to take the burden off someone'."
             },
             {
               "id": "a2_s7_c37_l4",
@@ -9072,7 +9072,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "Nah ist das Ziel",
                   "lemma": "Ziel",
                   "pos": "noun",
-                  "meaning": "the goal is near (inversion)"
+                  "meaning": "the goal is near"
                 }
               ]
             },
@@ -9967,7 +9967,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "with my friend (dative masculine)"
                 }
               ],
-              "grammarNote": "Dativus ethicus / dative of concern: 'was ist jemandem' = what is wrong with someone."
+              "grammarNote": "The dative 'jemandem' expresses personal distress: 'what is troubling you?'"
             }
           ]
         },
@@ -10606,7 +10606,7 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s9_c5_l3",
               "original": "Ich gieng' jetzt nicht fort, und wenn Herr Sarastro seine sechs Löwen an mich spannte.",
-              "literal": "I would-go not away now, even if Lord Sarastro harnessed his six lions to me.",
+              "literal": "I would not leave now, even if Lord Sarastro hitched his six lions to me.",
               "tokens": [
                 {
                   "word": "Ich",
@@ -11024,7 +11024,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "könnten",
                   "lemma": "können",
                   "pos": "verb",
-                  "meaning": "could (subjunctive II)"
+                  "meaning": "could (hypothetical / would)"
                 },
                 {
                   "word": "uns",
@@ -11301,7 +11301,7 @@ export const dieZauberfloeteAct2: Act = {
                   "lemma": "gelassen",
                   "pos": "verb",
                   "meaning": "composed / steadfast",
-                  "notes": "Past participle (Partizip II) in verbal predicate."
+                  "notes": "Past participle describing the completed action."
                 },
                 {
                   "word": "nun",
@@ -11424,7 +11424,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "mögen",
                   "lemma": "mögen",
                   "pos": "verb",
-                  "meaning": "may (optative subjunctive)"
+                  "meaning": "may (wish / may)"
                 },
                 {
                   "word": "die Götter",
@@ -11451,7 +11451,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "accompany / guide"
                 }
               ],
-              "grammarNote": "Verb-first conditional structure without 'wenn': 'Schlägt dein Herz... und wünschest du... so mögen die Götter...'. Optative subjunctive 'mögen'."
+              "grammarNote": "Putting the verbs first creates an 'if' thought: 'If your heart beats for virtue... then may the gods protect you!'"
             }
           ]
         },
@@ -12327,7 +12327,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "wüßte",
                   "lemma": "wissen",
                   "pos": "verb",
-                  "meaning": "knew (subjunctive II)"
+                  "meaning": "knew (hypothetical / would)"
                 },
                 {
                   "word": "wo",
@@ -12345,7 +12345,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "wäre",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "were (subjunctive II)"
+                  "meaning": "were (hypothetical / would)"
                 }
               ],
               "grammarNote": "Subjunctive II expressing unreal wish/lament: 'Wenn ich nur... wüßte'."
@@ -12508,7 +12508,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "wüßte",
                   "lemma": "wissen",
                   "pos": "verb",
-                  "meaning": "knew (subjunctive II)"
+                  "meaning": "knew (hypothetical / would)"
                 },
                 {
                   "word": "wo",
@@ -12589,7 +12589,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "neither back nor forward"
                 }
               ],
-              "grammarNote": "Correlative conjunction 'weder... noch' with directional adverbs ellipsis of motion verb ('gehen')."
+              "grammarNote": "The Priests tell Papageno: 'Neither forward nor backward can you go'."
             },
             {
               "id": "a2_s11_c5_l2",
@@ -12671,7 +12671,7 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s11_c6_l1",
               "original": "Mensch! du hättest verdient, auf immer in finstern Klüften der Erde zu wandern; – die gütigen Götter aber entlassen der Strafe dich. –",
-              "literal": "Mortal! You would-have deserved to wander forever in dark chasms of the earth; – the gracious gods however release you from the punishment. –",
+              "literal": "Mortal! You would have deserved to wander forever in the earth's dark chasms; – yet the gracious gods release you from punishment. –",
               "tokens": [
                 {
                   "word": "Mensch",
@@ -12854,7 +12854,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "wäre",
                   "lemma": "sein",
                   "pos": "verb",
-                  "meaning": "would be (subjunctive II)"
+                  "meaning": "would be (hypothetical / would)"
                 },
                 {
                   "word": "jetzt",
@@ -13131,7 +13131,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "wollte",
                   "lemma": "wollen",
                   "pos": "verb",
-                  "meaning": "would want / would fly (subjunctive II)"
+                  "meaning": "would want / would fly (hypothetical / would)"
                 },
                 {
                   "word": "wenn",
@@ -13155,7 +13155,7 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "hätte",
                   "lemma": "haben",
                   "pos": "verb",
-                  "meaning": "had (subjunctive II)"
+                  "meaning": "had (hypothetical / would)"
                 }
               ],
               "grammarNote": "Consecutive subordinate clause introduced by 'so... daß' followed by a hypothetical conditional clause with subjunctive II 'hätte'."
@@ -13163,7 +13163,7 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s11_c12_l2",
               "original": "Ha! – mir wird ganz wunderlich ums Herz. – Ich möchte – ich wünschte – ja was denn?",
-              "literal": "Ha! – To me it-becomes quite strange around the heart. – I would like – I would-wish – well what then?",
+              "literal": "Ha! – I feel quite strange around my heart. – I would like – I would wish – well, what then?",
               "tokens": [
                 {
                   "word": "Ha",
@@ -13248,7 +13248,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "wishes for oneself (reflexive with dative 'sich')"
                 }
               ],
-              "grammarNote": "Fronted object 'Ein Mädchen...' causing V2 inversion: 'wünscht Papageno sich'."
+              "grammarNote": "Papageno puts 'A maiden or a little wife' first to highlight his dream: 'Ein Mädchen oder Weibchen wünscht Papageno sich'."
             },
             {
               "id": "a2_s11_c13_l3",
@@ -13279,7 +13279,7 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s11_c13_l5",
               "original": "Dann schmeckte mir Trinken und Essen,",
-              "literal": "Then would-taste to me drink and food [I would enjoy food and drink],",
+              "literal": "Then food and drink would taste good to me,",
               "tokens": [
                 {
                   "word": "schmeckte mir",
@@ -13412,7 +13412,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "grant / accord (governs dative person, accusative thing)"
                 }
               ],
-              "grammarNote": "Conditional inversion without 'wenn': 'Wird keine mir... gewähren, so muß...'"
+              "grammarNote": "Placing the verb first creates a condition: 'If none of them will grant me love, then I must die of grief!'"
             },
             {
               "id": "a2_s11_c13_l16",
@@ -14594,7 +14594,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "devour / swallow"
                 }
               ],
-              "grammarNote": "Dramatic oath: temporal clause with 'eh'' followed by optative main clause. Papageno sinks through a trapdoor ('Er sinkt hinab')."
+              "grammarNote": "Papageno swears an oath: 'Before I break my vow, may the earth swallow me up!' (And he sinks through a stage trapdoor)."
             },
             {
               "id": "a2_s11_c34_l2",
@@ -14874,7 +14874,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "suffering / pain (nominative subject)"
                 }
               ],
-              "grammarNote": "OVS inversion: accusative pronoun 'Sie' (her) precedes the verb and subject."
+              "grammarNote": "Putting 'Sie' (Her) first highlights who is coming: 'Her the prince shall never see again!'"
             },
             {
               "id": "a2_s12_c5_l2",
@@ -15131,7 +15131,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "brain / mind (dative neuter)"
                 }
               ],
-              "grammarNote": "Dativus sympatheticus: 'ihr im Gehirne' = in her brain."
+              "grammarNote": "German uses the dative 'ihr' (to her) instead of a possessive adjective: literally 'to her in the brain' = 'in her mind'."
             },
             {
               "id": "a2_s12_c10_l2",
@@ -15322,13 +15322,13 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s12_c15_l3",
               "original": "Mutter! durch dich leide ich,",
-              "literal": "Mother! Through you suffer I,",
+              "literal": "Mother! It is through you that I suffer,",
               "tokens": [
                 {
                   "word": "leide ich",
                   "lemma": "leiden",
                   "pos": "verb",
-                  "meaning": "suffer I (inversion)"
+                  "meaning": "suffer I"
                 }
               ]
             },
@@ -15426,10 +15426,10 @@ export const dieZauberfloeteAct2: Act = {
                   "word": "töte",
                   "lemma": "töten",
                   "pos": "verb",
-                  "meaning": "may it kill (optative subjunctive I)"
+                  "meaning": "may it kill (solemn wish / may)"
                 }
               ],
-              "grammarNote": "Third person subjunctive I expressing optative wish: 'Dieses Eisen töte mich'."
+              "grammarNote": "Pamina holds the dagger in despair: 'May this steel end my sorrow!'"
             }
           ]
         },
@@ -15556,7 +15556,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "to keep secret / keep silent about"
                 }
               ],
-              "grammarNote": "Fronted object 'Dieses' triggering inversion: 'müssen wir verschweigen'."
+              "grammarNote": "The Three Spirits declare: 'This we must keep secret from her until the right moment'."
             },
             {
               "id": "a2_s12_c21_l2",
@@ -16592,7 +16592,7 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s14_c2_l13",
               "original": "müde bin ich meines Lebens!",
-              "literal": "weary am I of my life!"
+              "literal": "I am weary of my life!"
             },
             {
               "id": "a2_s14_c2_l14",
@@ -17108,14 +17108,14 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s14_c17_l1",
               "original": "Nun bin ich dir ganz ergeben!",
-              "literal": "Now am I to you entirely devoted!",
+              "literal": "Now I am entirely devoted to you!",
               "tokens": [
                 {
                   "word": "ergeben",
                   "lemma": "ergeben",
                   "pos": "verb",
                   "meaning": "devoted / faithful (governs dative 'dir')",
-                  "notes": "Past participle (Partizip II) in verbal predicate."
+                  "notes": "Past participle describing the completed action."
                 }
               ]
             }

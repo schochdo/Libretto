@@ -57,7 +57,7 @@ export const fidelioAct1: Act = {
                   "meaning": "alone"
                 }
               ],
-              "grammarNote": "V2 word order: adverb 'Jetzt' causes inversion of verb 'sind' and subject 'wir'."
+              "grammarNote": "In German, starting with an adverb like 'Jetzt' (Now) puts the verb before the subject: 'Jetzt sind wir' = 'Now we are'."
             },
             {
               "id": "a1_s1_c1_l2",
@@ -89,7 +89,7 @@ export const fidelioAct1: Act = {
                   "meaning": "to chat / converse"
                 }
               ],
-              "grammarNote": "Modal verb bracket: auxiliary 'können' in position 2, infinitive 'plaudern' at clause end."
+              "grammarNote": "German modal verbs frame the sentence: the helping verb 'können' (can) comes early, while the main action 'plaudern' (to chat) waits at the very end."
             }
           ]
         },
@@ -131,7 +131,7 @@ export const fidelioAct1: Act = {
                   "meaning": "to be"
                 }
               ],
-              "grammarNote": "Future tense bracket with 'werden ... sein'."
+              "grammarNote": "Future tense in German brackets the sentence: 'werden' comes early, and the infinitive 'sein' waits at the end."
             },
             {
               "id": "a1_s1_c2_l2",
@@ -292,7 +292,7 @@ export const fidelioAct1: Act = {
                   "meaning": "no little word"
                 }
               ],
-              "grammarNote": "Separable verb 'hervorbringen' with verb-subject inversion following the conditional clause."
+              "grammarNote": "Following the 'if' condition, the main clause puts the verb first: 'bringt kein Laut hervor' (not a sound brings forth)."
             }
           ]
         },
@@ -351,7 +351,7 @@ export const fidelioAct1: Act = {
                   "meaning": "the ear (accusative singular neuter)"
                 }
               ],
-              "grammarNote": "Inversion after subordinate clause: verb 'verstopf'' precedes subject 'ich'."
+              "grammarNote": "After the 'if' clause, the verb comes first: 'verstopf' ich' = 'I stop up (my ears)'."
             },
             {
               "id": "a1_s1_c6_l3",
@@ -709,7 +709,7 @@ export const fidelioAct1: Act = {
                   "meaning": "catch / quarry"
                 }
               ],
-              "grammarNote": "Dativus incommodi: 'mir' marks the person disadvantaged by the escape."
+              "grammarNote": "The word 'mir' (on me) shows who suffers the distress: 'He escaped on me!'"
             }
           ]
         },
@@ -850,7 +850,7 @@ export const fidelioAct1: Act = {
                   "meaning": "chosen"
                 }
               ],
-              "grammarNote": "Topicalization: direct object 'Fidelio' placed first for emotional emphasis."
+              "grammarNote": "Putting 'Fidelio' first gives the name emotional prominence: 'Fidelio have I chosen'."
             },
             {
               "id": "a1_s1_c15_l4",
@@ -1643,7 +1643,7 @@ export const fidelioAct1: Act = {
                   "notes": "Past participle (Partizip II) in verbal predicate."
                 }
               ],
-              "grammarNote": "Optative subjunctive II: 'wär ich ... vereint' expresses a fervent unfulfilled wish."
+              "grammarNote": "Starting with the subjunctive verb expresses a heartfelt wish: 'If only I were united with you...'"
             },
             {
               "id": "a1_s2_c1_l2",
@@ -2966,7 +2966,7 @@ export const fidelioAct1: Act = {
                   "meaning": "happy / fortunate"
                 }
               ],
-              "grammarNote": "Future tense bracket 'werde ... sein'."
+              "grammarNote": "Future tense frames the sentence: 'werde' comes first and 'sein' waits at the end."
             }
           ]
         },
@@ -7160,7 +7160,7 @@ export const fidelioAct1: Act = {
                   "meaning": "your destiny / fate (subject nominative)"
                 }
               ],
-              "grammarNote": "Inversion OVS: 'dich' fronted for dramatic confrontation."
+              "grammarNote": "Putting 'dich' (you) first creates dramatic confrontation: 'You shall not be his sacrifice!'"
             },
             {
               "id": "a1_s7_c1_l4",
@@ -7871,7 +7871,7 @@ export const fidelioAct1: Act = {
                   "meaning": "your destiny / fate (subject nominative)"
                 }
               ],
-              "grammarNote": "Inversion OVS: 'dich' fronted for dramatic confrontation."
+              "grammarNote": "Putting 'dich' (you) first creates dramatic confrontation: 'You shall not be his sacrifice!'"
             },
             {
               "id": "a1_s7_c5_l4",

@@ -68,7 +68,7 @@ export const fidelioAct2: Act = {
                   "meaning": "all around me"
                 }
               ],
-              "grammarNote": "Postpositional bracket 'um mich her' (all about me)."
+              "grammarNote": "The phrase 'um mich her' means 'all around me' or 'on every side'."
             },
             {
               "id": "a2_s1_c1_l4",
@@ -128,7 +128,7 @@ export const fidelioAct2: Act = {
                   "meaning": "God's will (genitive Gottes + weak masculine nominative Wille)"
                 }
               ],
-              "grammarNote": "Predicate adjective fronting: 'gerecht ist Gottes Wille'."
+              "grammarNote": "Florestan puts 'gerecht' (just / righteous) first to emphasize his acceptance of his fate: 'Just is the will of God!'"
             },
             {
               "id": "a2_s1_c1_l7",
@@ -232,7 +232,7 @@ export const fidelioAct2: Act = {
                   "meaning": "boldly / daringly"
                 }
               ],
-              "grammarNote": "Topicalization of direct object 'Wahrheit' with inversion of verb and subject."
+              "grammarNote": "Putting 'Wahrheit' (Truth) first highlights his courage: 'Truth spoke I boldly!'"
             },
             {
               "id": "a2_s1_c1_l12",
@@ -322,7 +322,7 @@ export const fidelioAct2: Act = {
                   "meaning": "done (past participle)"
                 }
               ],
-              "grammarNote": "Topicalization: direct object 'meine Pflicht' placed first for moral emphasis."
+              "grammarNote": "Putting 'meine Pflicht' (my duty) first underscores his moral resolve: 'My duty have I fulfilled!'"
             },
             {
               "id": "a2_s1_c1_l17",
@@ -3606,7 +3606,7 @@ export const fidelioAct2: Act = {
                   "meaning": "in better worlds (the hereafter)"
                 }
               ],
-              "grammarNote": "Optative subjunctive I: 'werde' expresses a blessing/benediction."
+              "grammarNote": "Using the subjunctive expresses a blessing: 'May her courage be rewarded!'"
             },
             {
               "id": "a2_s3_c1_l2",
@@ -8210,7 +8210,7 @@ export const fidelioAct2: Act = {
                   "meaning": "to the hour (dative)"
                 }
               ],
-              "grammarNote": "Optative salutation: 'Heil sei dem Tag'."
+              "grammarNote": "A joyful greeting: 'Hail to the day, hail to the hour!'"
             },
             {
               "id": "a2_s6_c1_l2",
