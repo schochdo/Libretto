@@ -382,8 +382,8 @@ export const DualColumnReader: React.FC<DualColumnReaderProps> = ({
                             const gender = getGenderForSpeaker(cue.speaker, characters);
                             speakText(line.original, language, 0.85, undefined, line.transliteration, gender);
                           }}
-                          className={`p-1 rounded-md transition-opacity opacity-0 group-hover:opacity-80 hover:!opacity-100 ${
-                            isActive ? '!opacity-80' : ''
+                          className={`p-1 rounded-md transition-opacity opacity-75 hover:!opacity-100 ${
+                            isActive ? '!opacity-100' : 'sm:opacity-0 sm:group-hover:opacity-80'
                           }`}
                           style={{ color: 'var(--accent)' }}
                           title="Pronounce line"
@@ -393,8 +393,8 @@ export const DualColumnReader: React.FC<DualColumnReaderProps> = ({
 
                         {hasNotes && (
                           <span 
-                            className={`p-1 opacity-0 group-hover:opacity-60 transition-opacity ${
-                              isActive ? '!opacity-80' : ''
+                            className={`p-1 opacity-75 transition-opacity ${
+                              isActive ? '!opacity-100' : 'sm:opacity-0 sm:group-hover:opacity-60'
                             }`}
                             style={{ color: 'var(--accent)' }}
                             title="Notes available"

@@ -495,7 +495,7 @@ export const Navbar: React.FC<NavbarProps> = ({
       {/* Mobile Opera Search Modal (< lg) */}
       {isMobileSearchOpen && (
         <div 
-          className="fixed inset-0 z-50 flex items-start sm:items-center justify-center p-3 sm:p-4 bg-black/75 backdrop-blur-sm animate-fadeIn"
+          className="fixed inset-0 z-50 flex items-start sm:items-center justify-center p-3 sm:p-4 bg-black/75 backdrop-blur-sm animate-fadeIn overflow-y-auto"
           onClick={() => setIsMobileSearchOpen(false)}
         >
           <div 
