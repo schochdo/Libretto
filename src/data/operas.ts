@@ -32,6 +32,16 @@ export const OPERA_CATALOG: OperaSummary[] = [
     year: 1786
   },
   {
+    id: 'cosi-fan-tutte',
+    title: 'Così fan tutte',
+    originalTitle: 'Così fan tutte, ossia La scuola degli amanti',
+    composer: 'Wolfgang Amadeus Mozart',
+    librettists: ['Lorenzo Da Ponte'],
+    language: 'it',
+    languageLabel: 'Italian',
+    year: 1790
+  },
+  {
     id: 'don-giovanni',
     title: 'Don Giovanni',
     originalTitle: 'Il dissoluto punito, ossia il Don Giovanni',
@@ -92,6 +102,7 @@ const OPERA_LOADERS: Record<string, () => Promise<{ default: Opera }>> = {
   'fidelio': () => import('./fidelio'),
   'carmen': () => import('./carmen'),
   'nozze-di-figaro': () => import('./nozzeDiFigaro'),
+  'cosi-fan-tutte': () => import('./cosiFanTutte'),
   'don-giovanni': () => import('./donGiovanni'),
   'die-zauberfloete': () => import('./dieZauberfloete'),
   'magic-flute': () => import('./dieZauberfloete'),
