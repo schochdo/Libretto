@@ -11,6 +11,7 @@ import {
   Maximize2,
   Minimize2,
   BookOpen,
+  Library,
   X
 } from 'lucide-react';
 
@@ -18,6 +19,8 @@ interface NavbarProps {
   catalog: OperaSummary[];
   currentOpera: Opera | null;
   currentOperaId: string;
+  currentView: 'catalog' | 'reader';
+  onNavigateToCatalog: () => void;
   onSelectOpera: (id: string) => void;
   theme: ThemeMode;
   onSelectTheme: (t: ThemeMode) => void;
@@ -36,6 +39,8 @@ export const Navbar: React.FC<NavbarProps> = ({
   catalog,
   currentOpera,
   currentOperaId,
+  currentView,
+  onNavigateToCatalog,
   onSelectOpera,
   theme,
   onSelectTheme,
@@ -191,31 +196,58 @@ export const Navbar: React.FC<NavbarProps> = ({
         {/* Row 1 on Mobile / Left Section on Desktop: Branding, Opera Selector, Synopsis, and Mobile Fullscreen */}
         <div className="flex items-center justify-between sm:justify-start gap-2 shrink-0">
           <div className="flex items-center gap-2 sm:gap-2.5 min-w-0 flex-1 sm:flex-initial">
-            <div 
-              className="w-7 h-7 sm:w-8 sm:h-8 rounded-lg flex items-center justify-center shrink-0 border select-none shadow-xs"
-              style={{
-                backgroundColor: 'var(--bg-primary)',
-                borderColor: 'var(--border-color)',
-                color: 'var(--accent)'
-              }}
-              aria-label="Libretto monogram"
+            <button
+              onClick={onNavigateToCatalog}
+              className="flex items-center gap-2 sm:gap-2.5 text-left cursor-pointer hover:opacity-85 transition-opacity select-none group"
+              title="Return to Opera Library Catalog"
+              aria-label="Libretto Library Catalog"
             >
-              <span className="font-display font-bold text-sm sm:text-base leading-none">L</span>
-            </div>
-            <div className="hidden md:block shrink-0">
-              <span className="font-display font-bold tracking-widest text-sm sm:text-base block leading-tight whitespace-nowrap" style={{ color: 'var(--accent)' }}>
-                LIBRETTO
-              </span>
-              <span className="text-[10px] tracking-wider uppercase opacity-65 whitespace-nowrap font-medium block">
-                Study Edition
-              </span>
-            </div>
+              <div 
+                className="w-7 h-7 sm:w-8 sm:h-8 rounded-lg flex items-center justify-center shrink-0 border shadow-xs group-hover:scale-105 transition-transform"
+                style={{
+                  backgroundColor: 'var(--bg-primary)',
+                  borderColor: 'var(--border-color)',
+                  color: 'var(--accent)'
+                }}
+              >
+                <span className="font-display font-bold text-sm sm:text-base leading-none">L</span>
+              </div>
+              <div className="hidden md:block shrink-0">
+                <span className="font-display font-bold tracking-widest text-sm sm:text-base block leading-tight whitespace-nowrap" style={{ color: 'var(--accent)' }}>
+                  LIBRETTO
+                </span>
+                <span className="text-[10px] tracking-wider uppercase opacity-65 whitespace-nowrap font-medium block">
+                  Study Edition
+                </span>
+              </div>
+            </button>
+
+            {/* Catalog Button */}
+            <button
+              onClick={onNavigateToCatalog}
+              className={`hidden sm:flex items-center gap-1.5 px-2.5 py-1.5 rounded-lg border text-xs sm:text-sm font-medium transition-all shrink-0 cursor-pointer shadow-xs ${currentView === 'catalog' ? 'font-bold' : 'opacity-80 hover:opacity-100'}`}
+              style={{
+                backgroundColor: currentView === 'catalog' ? 'var(--bg-tertiary)' : 'var(--bg-primary)',
+                borderColor: currentView === 'catalog' ? 'var(--border-active)' : 'var(--border-color)',
+                color: currentView === 'catalog' ? 'var(--accent)' : 'var(--text-primary)'
+              }}
+              title="Browse complete catalog of 21 operas"
+            >
+              <Library className="w-3.5 h-3.5" />
+              <span>Catalog</span>
+            </button>
 
             {/* Opera Dropdown (Fine book-binding style) */}
             <div className="relative flex-1 min-w-0 sm:flex-initial">
               <select
-                value={currentOperaId}
-                onChange={(e) => onSelectOpera(e.target.value)}
+                value={currentView === 'catalog' ? '__catalog__' : currentOperaId}
+                onChange={(e) => {
+                  if (e.target.value === '__catalog__') {
+                    onNavigateToCatalog();
+                  } else {
+                    onSelectOpera(e.target.value);
+                  }
+                }}
                 className="w-full sm:w-auto appearance-none font-serif text-xs sm:text-sm py-1.5 pl-3 pr-8 rounded-lg border cursor-pointer focus:outline-none focus:ring-1 transition-all max-w-full sm:max-w-xs md:max-w-md truncate font-medium shadow-xs"
                 style={{
                   backgroundColor: 'var(--bg-primary)',
@@ -223,6 +255,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                   color: 'var(--text-primary)',
                 }}
               >
+                <option value="__catalog__">✦ Browse Library (21 Operas)</option>
                 {sortedCatalog.map((op) => {
                   const composerLast = op.composer.split(' ').pop() || op.composer;
                   const title = op.id === 'die-zauberfloete'

@@ -7,15 +7,38 @@ import { LinguisticInspector } from './components/LinguisticInspector';
 import { TableOfContentsModal } from './components/TableOfContentsModal';
 import { AboutModal } from './components/AboutModal';
 import { VoiceSettingsModal } from './components/VoiceSettingsModal';
+import { CatalogView } from './components/CatalogView';
 import { getBestVoiceForLanguage } from './utils/speech';
 import { ChevronLeft, ChevronRight, ChevronDown, X } from 'lucide-react';
 
 export const App: React.FC = () => {
   const mainScrollRef = useRef<HTMLElement | null>(null);
 
+  // View state: 'catalog' gallery view vs 'reader' dual-column view
+  const [currentView, setCurrentView] = useState<'catalog' | 'reader'>(() => {
+    if (typeof window !== 'undefined') {
+      const params = new URLSearchParams(window.location.search);
+      if (params.get('opera') || params.get('id')) return 'reader';
+      if (window.location.hash && window.location.hash.length > 1 && window.location.hash !== '#catalog') {
+        return 'reader';
+      }
+    }
+    return 'catalog';
+  });
+
   // Persistence state
   const [currentOperaId, setCurrentOperaId] = useState<string>(() => {
-    return localStorage.getItem('libretto_opera') || 'die-zauberfloete';
+    if (typeof window !== 'undefined') {
+      const params = new URLSearchParams(window.location.search);
+      const operaParam = params.get('opera') || params.get('id');
+      if (operaParam) return operaParam;
+      if (window.location.hash && window.location.hash.length > 1 && window.location.hash !== '#catalog') {
+        return window.location.hash.slice(1);
+      }
+      const saved = localStorage.getItem('libretto_opera');
+      if (saved) return saved;
+    }
+    return 'die-zauberfloete';
   });
 
   // Reading layout mode (Interlinear Stacked vs Side-by-Side Dual Columns)
@@ -226,9 +249,37 @@ export const App: React.FC = () => {
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, [flatLines, activeLineId, handleSelectLine]);
 
+  // Browser Back/Forward history navigation listener
+  useEffect(() => {
+    const handlePopState = () => {
+      if (typeof window === 'undefined') return;
+      const params = new URLSearchParams(window.location.search);
+      const operaParam = params.get('opera') || params.get('id');
+      if (operaParam) {
+        setCurrentOperaId(operaParam);
+        setCurrentView('reader');
+      } else if (window.location.hash && window.location.hash.length > 1 && window.location.hash !== '#catalog') {
+        setCurrentOperaId(window.location.hash.slice(1));
+        setCurrentView('reader');
+      } else {
+        setCurrentView('catalog');
+      }
+    };
+
+    window.addEventListener('popstate', handlePopState);
+    return () => window.removeEventListener('popstate', handlePopState);
+  }, []);
+
+  const handleNavigateToCatalog = useCallback(() => {
+    setCurrentView('catalog');
+    try {
+      window.history.pushState({}, '', window.location.pathname);
+    } catch (_) {}
+  }, []);
+
   // Opera switch
   const handleSelectOpera = (id: string) => {
-    if (id === currentOperaId) return;
+    if (id === currentOperaId && currentView === 'reader') return;
     setCurrentOperaId(id);
     setCurrentActIndex(0);
     setCurrentSceneIndex(0);
@@ -237,6 +288,12 @@ export const App: React.FC = () => {
     setActiveCue(null);
     setSelectedToken(null);
     setSearchQuery('');
+    setCurrentView('reader');
+    try {
+      const url = new URL(window.location.href);
+      url.searchParams.set('opera', id);
+      window.history.pushState({ opera: id }, '', url.toString());
+    } catch (_) {}
   };
 
   // Scene switch
@@ -350,6 +407,8 @@ export const App: React.FC = () => {
         catalog={OPERA_CATALOG}
         currentOpera={currentOpera}
         currentOperaId={currentOperaId}
+        currentView={currentView}
+        onNavigateToCatalog={handleNavigateToCatalog}
         onSelectOpera={handleSelectOpera}
         theme={theme}
         onSelectTheme={handleSelectTheme}
@@ -364,7 +423,14 @@ export const App: React.FC = () => {
         activeVoiceName={activeVoiceName}
       />
 
-      <div className="flex-1 flex overflow-hidden">
+      {currentView === 'catalog' ? (
+        <CatalogView
+          catalog={OPERA_CATALOG}
+          onSelectOpera={handleSelectOpera}
+          onOpenAbout={() => setIsAboutOpen(true)}
+        />
+      ) : (
+        <div className="flex-1 flex overflow-hidden">
         {/* Main Reader Column */}
         <section className="flex-1 flex flex-col overflow-hidden min-w-0">
           {/* Pinned Top Scene Navigation Bar - cleanly positioned above the scroll container */}
@@ -638,6 +704,7 @@ export const App: React.FC = () => {
           </>
         )}
       </div>
+      )}
 
       {/* Synopsis & Cast Modal */}
       {currentOpera && (

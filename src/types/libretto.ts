@@ -65,6 +65,10 @@ export interface OperaSummary {
   language: SupportedLanguage;
   languageLabel: string;
   year: number;
+  actsCount?: number;
+  scenesCount?: number;
+  celebratedPieces?: string[];
+  synopsisSnippet?: string;
 }
 
 export interface Opera extends OperaSummary {
