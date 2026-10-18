@@ -2,6 +2,36 @@ import { Opera, OperaSummary } from '../types/libretto';
 
 export const OPERA_CATALOG: OperaSummary[] = [
   {
+    id: 'don-pasquale',
+    title: 'Don Pasquale',
+    originalTitle: 'Don Pasquale (Dramma buffo in tre atti)',
+    composer: 'Gaetano Donizetti',
+    librettists: ['Giovanni Ruffini', 'Gaetano Donizetti'],
+    language: 'it',
+    languageLabel: 'Italian',
+    year: 1843
+  },
+  {
+    id: 'lucia-di-lammermoor',
+    title: 'Lucia di Lammermoor',
+    originalTitle: 'Lucia di Lammermoor (Dramma tragico in tre atti)',
+    composer: 'Gaetano Donizetti',
+    librettists: ['Salvadore Cammarano'],
+    language: 'it',
+    languageLabel: 'Italian',
+    year: 1835
+  },
+  {
+    id: 'il-barbiere-di-siviglia',
+    title: 'The Barber of Seville',
+    originalTitle: 'Il barbiere di Siviglia, ossia L\'inutile precauzione',
+    composer: 'Gioachino Rossini',
+    librettists: ['Cesare Sterbini'],
+    language: 'it',
+    languageLabel: 'Italian',
+    year: 1816
+  },
+  {
     id: 'fidelio',
     title: 'Fidelio',
     originalTitle: 'Fidelio, oder Die eheliche Liebe',
@@ -119,6 +149,9 @@ export const getOperaSummaryById = (id: string): OperaSummary => {
 };
 
 const OPERA_LOADERS: Record<string, () => Promise<{ default: Opera }>> = {
+  'don-pasquale': () => import('./donPasquale'),
+  'lucia-di-lammermoor': () => import('./luciaDiLammermoor'),
+  'il-barbiere-di-siviglia': () => import('./barbiereDiSiviglia'),
   'fidelio': () => import('./fidelio'),
   'carmen': () => import('./carmen'),
   'nozze-di-figaro': () => import('./nozzeDiFigaro'),
