@@ -72,6 +72,16 @@ export const OPERA_CATALOG: OperaSummary[] = [
     year: 1896
   },
   {
+    id: 'la-traviata',
+    title: 'La traviata',
+    originalTitle: 'La traviata',
+    composer: 'Giuseppe Verdi',
+    librettists: ['Francesco Maria Piave'],
+    language: 'it',
+    languageLabel: 'Italian',
+    year: 1853
+  },
+  {
     id: 'falstaff',
     title: 'Falstaff',
     originalTitle: 'Falstaff (Commedia lirica in tre atti)',
@@ -107,6 +117,7 @@ const OPERA_LOADERS: Record<string, () => Promise<{ default: Opera }>> = {
   'die-zauberfloete': () => import('./dieZauberfloete'),
   'magic-flute': () => import('./dieZauberfloete'),
   'la-boheme': () => import('./laBoheme'),
+  'la-traviata': () => import('./laTraviata'),
   'falstaff': () => import('./falstaff'),
   'tannhaeuser': () => import('./tannhaeuser'),
 };
