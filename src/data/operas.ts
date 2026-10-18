@@ -2,14 +2,34 @@ import { Opera, OperaSummary } from '../types/libretto';
 
 export const OPERA_CATALOG: OperaSummary[] = [
   {
-    id: 'tosca',
-    title: 'Tosca',
-    originalTitle: 'Tosca (Melodramma in tre atti)',
-    composer: 'Giacomo Puccini',
-    librettists: ['Luigi Illica', 'Giuseppe Giacosa'],
+    id: 'fidelio',
+    title: 'Fidelio',
+    originalTitle: 'Fidelio, oder Die eheliche Liebe',
+    composer: 'Ludwig van Beethoven',
+    librettists: ['Joseph Sonnleithner', 'Stephan von Breuning', 'Georg Friedrich Treitschke'],
+    language: 'de',
+    languageLabel: 'German',
+    year: 1814
+  },
+  {
+    id: 'norma',
+    title: 'Norma',
+    originalTitle: 'Norma (Tragedia lirica in due atti)',
+    composer: 'Vincenzo Bellini',
+    librettists: ['Felice Romani'],
     language: 'it',
     languageLabel: 'Italian',
-    year: 1900
+    year: 1831
+  },
+  {
+    id: 'carmen',
+    title: 'Carmen',
+    originalTitle: 'Carmen',
+    composer: 'Georges Bizet',
+    librettists: ['Henri Meilhac', 'Ludovic Halévy'],
+    language: 'fr',
+    languageLabel: 'French',
+    year: 1875
   },
   {
     id: 'don-pasquale',
@@ -32,44 +52,14 @@ export const OPERA_CATALOG: OperaSummary[] = [
     year: 1835
   },
   {
-    id: 'il-barbiere-di-siviglia',
-    title: 'The Barber of Seville',
-    originalTitle: 'Il barbiere di Siviglia, ossia L\'inutile precauzione',
-    composer: 'Gioachino Rossini',
-    librettists: ['Cesare Sterbini'],
-    language: 'it',
-    languageLabel: 'Italian',
-    year: 1816
-  },
-  {
-    id: 'fidelio',
-    title: 'Fidelio',
-    originalTitle: 'Fidelio, oder Die eheliche Liebe',
-    composer: 'Ludwig van Beethoven',
-    librettists: ['Joseph Sonnleithner', 'Stephan von Breuning', 'Georg Friedrich Treitschke'],
-    language: 'de',
-    languageLabel: 'German',
-    year: 1814
-  },
-  {
-    id: 'carmen',
-    title: 'Carmen',
-    originalTitle: 'Carmen',
-    composer: 'Georges Bizet',
-    librettists: ['Henri Meilhac', 'Ludovic Halévy'],
+    id: 'faust',
+    title: 'Faust',
+    originalTitle: 'Faust (Opéra en cinq actes)',
+    composer: 'Charles Gounod',
+    librettists: ['Jules Barbier', 'Michel Carré'],
     language: 'fr',
     languageLabel: 'French',
-    year: 1875
-  },
-  {
-    id: 'nozze-di-figaro',
-    title: 'The Marriage of Figaro',
-    originalTitle: 'Le nozze di Figaro, ossia la folle giornata',
-    composer: 'Wolfgang Amadeus Mozart',
-    librettists: ['Lorenzo Da Ponte'],
-    language: 'it',
-    languageLabel: 'Italian',
-    year: 1786
+    year: 1859
   },
   {
     id: 'cosi-fan-tutte',
@@ -92,6 +82,16 @@ export const OPERA_CATALOG: OperaSummary[] = [
     year: 1787
   },
   {
+    id: 'nozze-di-figaro',
+    title: 'The Marriage of Figaro',
+    originalTitle: 'Le nozze di Figaro, ossia la folle giornata',
+    composer: 'Wolfgang Amadeus Mozart',
+    librettists: ['Lorenzo Da Ponte'],
+    language: 'it',
+    languageLabel: 'Italian',
+    year: 1786
+  },
+  {
     id: 'die-zauberfloete',
     title: 'The Magic Flute',
     originalTitle: 'Die Zauberflöte',
@@ -110,6 +110,76 @@ export const OPERA_CATALOG: OperaSummary[] = [
     language: 'it',
     languageLabel: 'Italian',
     year: 1896
+  },
+  {
+    id: 'madama-butterfly',
+    title: 'Madama Butterfly',
+    originalTitle: 'Madama Butterfly (Tragedia giapponese in tre atti)',
+    composer: 'Giacomo Puccini',
+    librettists: ['Luigi Illica', 'Giuseppe Giacosa'],
+    language: 'it',
+    languageLabel: 'Italian',
+    year: 1904
+  },
+  {
+    id: 'tosca',
+    title: 'Tosca',
+    originalTitle: 'Tosca (Melodramma in tre atti)',
+    composer: 'Giacomo Puccini',
+    librettists: ['Luigi Illica', 'Giuseppe Giacosa'],
+    language: 'it',
+    languageLabel: 'Italian',
+    year: 1900
+  },
+  {
+    id: 'turandot',
+    title: 'Turandot',
+    originalTitle: 'Turandot (Dramma lirico in tre atti e cinque quadri)',
+    composer: 'Giacomo Puccini',
+    librettists: ['Giuseppe Adami', 'Renato Simoni'],
+    language: 'it',
+    languageLabel: 'Italian',
+    year: 1926
+  },
+  {
+    id: 'il-barbiere-di-siviglia',
+    title: 'The Barber of Seville',
+    originalTitle: "Il barbiere di Siviglia, ossia L'inutile precauzione",
+    composer: 'Gioachino Rossini',
+    librettists: ['Cesare Sterbini'],
+    language: 'it',
+    languageLabel: 'Italian',
+    year: 1816
+  },
+  {
+    id: 'aida',
+    title: 'Aida',
+    originalTitle: 'Aida (Opera in quattro atti)',
+    composer: 'Giuseppe Verdi',
+    librettists: ['Antonio Ghislanzoni'],
+    language: 'it',
+    languageLabel: 'Italian',
+    year: 1871
+  },
+  {
+    id: 'falstaff',
+    title: 'Falstaff',
+    originalTitle: 'Falstaff (Commedia lirica in tre atti)',
+    composer: 'Giuseppe Verdi',
+    librettists: ['Arrigo Boito'],
+    language: 'it',
+    languageLabel: 'Italian',
+    year: 1893
+  },
+  {
+    id: 'il-trovatore',
+    title: 'Il trovatore',
+    originalTitle: 'Il trovatore (Dramma in quattro parti)',
+    composer: 'Giuseppe Verdi',
+    librettists: ['Salvadore Cammarano', 'Leone Emanuele Bardare'],
+    language: 'it',
+    languageLabel: 'Italian',
+    year: 1853
   },
   {
     id: 'la-traviata',
@@ -132,16 +202,6 @@ export const OPERA_CATALOG: OperaSummary[] = [
     year: 1851
   },
   {
-    id: 'falstaff',
-    title: 'Falstaff',
-    originalTitle: 'Falstaff (Commedia lirica in tre atti)',
-    composer: 'Giuseppe Verdi',
-    librettists: ['Arrigo Boito'],
-    language: 'it',
-    languageLabel: 'Italian',
-    year: 1893
-  },
-  {
     id: 'tannhaeuser',
     title: 'Tannhäuser',
     originalTitle: 'Tannhäuser und der Sängerkrieg auf Wartburg',
@@ -159,21 +219,27 @@ export const getOperaSummaryById = (id: string): OperaSummary => {
 };
 
 const OPERA_LOADERS: Record<string, () => Promise<{ default: Opera }>> = {
-  'tosca': () => import('./tosca'),
+  'fidelio': () => import('./fidelio'),
+  'norma': () => import('./norma'),
+  'carmen': () => import('./carmen'),
   'don-pasquale': () => import('./donPasquale'),
   'lucia-di-lammermoor': () => import('./luciaDiLammermoor'),
-  'il-barbiere-di-siviglia': () => import('./barbiereDiSiviglia'),
-  'fidelio': () => import('./fidelio'),
-  'carmen': () => import('./carmen'),
-  'nozze-di-figaro': () => import('./nozzeDiFigaro'),
+  'faust': () => import('./faust'),
   'cosi-fan-tutte': () => import('./cosiFanTutte'),
   'don-giovanni': () => import('./donGiovanni'),
+  'nozze-di-figaro': () => import('./nozzeDiFigaro'),
   'die-zauberfloete': () => import('./dieZauberfloete'),
   'magic-flute': () => import('./dieZauberfloete'),
   'la-boheme': () => import('./laBoheme'),
+  'madama-butterfly': () => import('./madamaButterfly'),
+  'tosca': () => import('./tosca'),
+  'turandot': () => import('./turandot'),
+  'il-barbiere-di-siviglia': () => import('./barbiereDiSiviglia'),
+  'aida': () => import('./aida'),
+  'falstaff': () => import('./falstaff'),
+  'il-trovatore': () => import('./ilTrovatore'),
   'la-traviata': () => import('./laTraviata'),
   'rigoletto': () => import('./rigoletto'),
-  'falstaff': () => import('./falstaff'),
   'tannhaeuser': () => import('./tannhaeuser'),
 };
 
