@@ -146,7 +146,7 @@ export const fidelioAct2: Act = {
             {
               "id": "a2_s1_c1_l8",
               "original": "Das Maß der Leiden steht bei dir.",
-              "literal": "The measure of the sufferings stands with you.",
+              "literal": "The measure of my suffering rests in your hands.",
               "tokens": [
                 {
                   "word": "Maß",
@@ -167,7 +167,7 @@ export const fidelioAct2: Act = {
                   "meaning": "lies in your hands (with God)"
                 }
               ],
-              "grammarNote": "Idiom 'bei jemandem stehen' (to rest with someone / be determined by someone)."
+              "grammarNote": "'bei jemandem stehen' is an idiom meaning 'to rest with someone / be determined by someone' (literally: 'stands by you')."
             },
             {
               "id": "a2_s1_c1_l9",

@@ -1213,7 +1213,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s2_c1_l6",
               "original": "und mich aufs Pfeifen zu verstehn!",
-              "literal": "and myself on piping to understand!",
+              "literal": "and know how to pipe skillfully!",
               "tokens": [
                 {
                   "word": "aufs Pfeifen",
@@ -1228,7 +1228,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "to be skilled at / understand"
                 }
               ],
-              "grammarNote": "Reflexive idiom: 'sich auf etwas (Akk.) verstehen' = to be an expert in something."
+              "grammarNote": "'sich auf etwas verstehen' is an idiom meaning 'to be skilled at something' or 'to know one's craft' (literally: 'to understand oneself upon something')."
             },
             {
               "id": "a1_s2_c1_l7",
@@ -1329,7 +1329,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s2_c1_l13",
               "original": "Ein Netz für Mädchen möchte ich,",
-              "literal": "A net for maidens would like I,",
+              "literal": "A net for maidens I would like,",
               "tokens": [
                 {
                   "word": "Netz",
@@ -2055,7 +2055,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s2_c15_l1",
               "original": "Da ließ sich eine Speculation mit meinen Vögeln machen.",
-              "literal": "There could oneself a business-venture with my birds make.",
+              "literal": "A good business venture could be made with my birds.",
               "tokens": [
                 {
                   "word": "ließ sich ... machen",
@@ -2077,7 +2077,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "birds (dative plural)"
                 }
               ],
-              "grammarNote": "Impersonal reflexive construction 'ließ sich machen' expressing possibility. Historical spelling 'Speculation'."
+              "grammarNote": "'Da ließe sich...' is an idiom meaning 'There is a business opportunity to be had' (literally: 'there let itself a speculation be made')."
             }
           ]
         },
@@ -2164,7 +2164,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s2_c18_l1",
               "original": "Schon recht! aber wie nennt man eigentlich diese Gegend? – wer beherrscht sie?",
-              "literal": "Right enough! But how calls one actually this region? – Who rules it [this region]?",
+              "literal": "Fair enough! But what is this region actually called? – Who rules it?",
               "tokens": [
                 {
                   "word": "Schon recht",
@@ -2191,7 +2191,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "it [this region]"
                 }
               ],
-              "grammarNote": "Antecedent 'sie' refers to feminine noun 'diese Gegend' (resolved as 'it [this region]')."
+              "grammarNote": "'Schon recht!' is an idiom meaning 'Fair enough!' or 'Right you are!' (literally: 'Already right!')."
             }
           ]
         },
@@ -2203,7 +2203,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s2_c19_l1",
               "original": "Das kann ich dir eben so wenig beantworten, als ich weiß, wie ich auf die Welt gekommen bin.",
-              "literal": "That can I to you just as little answer, as I know, how I into the world come have.",
+              "literal": "I can answer that just as little as I know how I came into the world.",
               "tokens": [
                 {
                   "word": "beantworten",
@@ -2224,7 +2224,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "come into the world / born"
                 }
               ],
-              "grammarNote": "Comparative correlative 'eben so wenig ... als' (just as little as). Idiom 'auf die Welt kommen' (to be born)."
+              "grammarNote": "'auf die Welt kommen' is the German idiom for 'to be born' (literally: 'to come onto the world')."
             }
           ]
         },
@@ -2643,7 +2643,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s2_c29_l2",
               "original": "dafür erhalt' ich täglich Speis' und Trank von ihr.",
-              "literal": "in return receive I daily food and drink from her [the Queen].",
+              "literal": "in return I receive food and drink from her daily.",
               "tokens": [
                 {
                   "word": "dafür",
@@ -2676,7 +2676,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "from her [the Queen]"
                 }
               ],
-              "grammarNote": "Starting with 'dafür' (in return for that) pulls the verb ahead of the subject. 'Speis' und Trank' is a classic German pairing meaning 'food and drink'."
+              "grammarNote": "'Speis' und Trank' is a classic pairing meaning 'food and drink' (sustenance)."
             }
           ]
         },
@@ -2869,7 +2869,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s2_c34_l2",
               "original": "Wenn du noch mit einer solchen albernen Frage an mich kommst, so sperr' ich dich, so wahr ich Papageno heiße, wie einen Gimpel in mein Vogelhaus,",
-              "literal": "If you still with such-a silly question to me come, then lock I you, as true-as I Papageno am-named, like a bullfinch into my birdcage,",
+              "literal": "If you come at me with another silly question like that, as sure as my name is Papageno, I'll lock you up in my birdcage like a bullfinch!",
               "tokens": [
                 {
                   "word": "sperr'",
@@ -2896,7 +2896,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "aviary / birdcage"
                 }
               ],
-              "grammarNote": "Formulaic oath 'so wahr ich ... heiße'. 'Gimpel' puns on the bird species and a gullible fool."
+              "grammarNote": "'so wahr ich ... heiße' is an idiom meaning 'as sure as my name is...' (an emphatic oath)."
             },
             {
               "id": "a1_s2_c34_l3",
@@ -3616,7 +3616,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s2_c49_l1",
               "original": "Aber um alles in der Welt, Freund! wie hast du dieses Ungeheuer bekämpft? – Du bist ohne Waffen.",
-              "literal": "But for everything in the world, friend! How have you this monster fought? – You are without weapons.",
+              "literal": "But for heaven's sake, friend! How did you fight this monster? – You have no weapons.",
               "tokens": [
                 {
                   "word": "um alles in der Welt",
@@ -3643,7 +3643,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "weapons"
                 }
               ],
-              "grammarNote": "Idiomatic exclamation 'um alles in der Welt'. Preposition 'ohne' takes accusative."
+              "grammarNote": "'um alles in der Welt' is an idiom meaning 'for heaven's sake' or 'in the whole wide world' (literally: 'for all in the world')."
             }
           ]
         },
@@ -3825,7 +3825,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s3_c2_l1",
               "original": "Aha! das geht mich an. – Sieh dich um, Freund!",
-              "literal": "Aha! That concerns me. – Look yourself around, friend!",
+              "literal": "Aha! That's meant for me. – Look around, friend!",
               "tokens": [
                 {
                   "word": "Aha",
@@ -3846,7 +3846,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "look around (imperative)"
                 }
               ],
-              "grammarNote": "Idiom 'etwas geht mich an' (something concerns me). Reflexive imperative 'Sieh dich um'."
+              "grammarNote": "'Das geht mich an' is an idiom meaning 'That concerns me' or 'That's meant for me'."
             }
           ]
         },
@@ -4077,7 +4077,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s3_c8_l2",
               "original": "Du fragst, ob sie schön sind, und ich kann dir darauf nichts antworten, als daß ich in meinem Leben nichts Reitzenders sah. – Jetzt werden sie bald wieder gut werden. – –",
-              "literal": "You ask, whether they [the Ladies] beautiful are, and I can to you thereto nothing answer, than that I in my life nothing more-charming saw. – Now will they [the Ladies] soon again good become. – –",
+              "literal": "You ask whether they are beautiful, and I can only answer that I have never seen anything more charming in my life. – Now they will soon calm down again. – –",
               "tokens": [
                 {
                   "word": "Reitzenders",
@@ -4093,7 +4093,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "to calm down / become good-humored again"
                 }
               ],
-              "grammarNote": "Substantivized neuter comparative 'nichts Reitzenders'. Idiom 'gut werden' (to calm down). Antecedent 'sie' = 'they [the Ladies]'."
+              "grammarNote": "'gut werden' is an idiom here meaning 'to calm down' or 'to get back in good humor' (literally: 'to become good again')."
             }
           ]
         },
@@ -4255,7 +4255,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s3_c12_l2",
               "original": "Ich wünsche, daß er dir wohl bekommen möge.",
-              "literal": "I wish, that it [the stone] to you well agree may.",
+              "literal": "I hope it agrees with you!",
               "tokens": [
                 {
                   "word": "wohl bekommen",
@@ -4270,7 +4270,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "may (subjunctive I)"
                 }
               ],
-              "grammarNote": "Subjunctive I 'möge' in a wish-clause. Idiom 'wohl bekommen'. Antecedent 'er' = 'it [the stone]' (masculine 'der Stein')."
+              "grammarNote": "'wohl bekommen' is an idiom wishing someone good health or digestion from food (literally: 'may it agree with you well'). Here the Lady uses it sarcastically as she hands Papageno a stone instead of food."
             }
           ]
         },
@@ -4311,7 +4311,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s3_c14_l1",
               "original": "Und statt der süßen Feigen hab' ich die Ehre, dir dieß goldene Schloß vor den Mund zu schlagen.",
-              "literal": "And instead-of the sweet figs have I the honor, to you this golden lock in-front-of the mouth to strike.",
+              "literal": "And instead of sweet figs, I have the honor of padlocking your mouth with this golden lock.",
               "tokens": [
                 {
                   "word": "die Ehre",
@@ -4345,7 +4345,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "to padlock / fasten a lock onto the mouth"
                 }
               ],
-              "grammarNote": "Archaic spelling 'dieß'. Idiom 'ein Schloß vor etwas schlagen' (to padlock / lock shut)."
+              "grammarNote": "'ein Schloß vor etwas schlagen' is an idiom meaning 'to put a padlock on something' or 'to lock shut'."
             }
           ]
         },
@@ -4639,7 +4639,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s3_c24_l3",
               "original": "findest du, sagte sie, daß diese Züge dir nicht gleichgültig sind, dann ist Glück, Ehr' und Ruhm dein Loos. – Auf Wiedersehen.",
-              "literal": "find you, said she [the Princess], that these features to you not indifferent are, then is fortune, honor, and fame your lot. – Until we meet again.",
+              "literal": "If you find, she said, that these features are not indifferent to you, then fortune, honor, and fame will be your lot. – Farewell!",
               "tokens": [
                 {
                   "word": "Züge",
@@ -4685,7 +4685,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "farewell / until we meet again"
                 }
               ],
-              "grammarNote": "Conditional clause with inverted word order ('findest du'). Archaic spelling 'Loos'. Antecedent 'sie' = 'she [the Princess]'."
+              "grammarNote": "'nicht gleichgültig sein' is an idiom meaning 'to touch someone's heart / not leave someone indifferent'."
             }
           ]
         },
@@ -5136,7 +5136,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s4_c4_l1",
               "original": "Daß der Weg zu deinem künftigen Glücke nunmehr gebahnt sey.",
-              "literal": "That the path to your future happiness now paved be.",
+              "literal": "That the way to your future happiness has now been paved.",
               "tokens": [
                 {
                   "word": "Weg",
@@ -5176,7 +5176,7 @@ export const dieZauberfloeteAct1: Act = {
                   "notes": "Archaic spelling 'sey' for modern 'sei'."
                 }
               ],
-              "grammarNote": "Subjunctive I 'sey' in indirect command/promise. Idiom 'den Weg bahnen'."
+              "grammarNote": "'den Weg bahnen' is an idiom meaning 'to pave the way' or 'clear the path'."
             }
           ]
         },
@@ -5760,7 +5760,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s4_c17_l1",
               "original": "Lästere der holden Schönheit Tugend nicht! – Trotz aller Pein, so die Unschuld duldet, ist sie sich immer gleich. –",
-              "literal": "Blaspheme of the lovely beauty's virtue not! – Despite all pain, which the innocence endures, is she [Pamina] to-herself always true. –",
+              "literal": "Do not slander the virtue of that lovely beauty! – Despite all the pain that innocence endures, she remains true to herself. –",
               "tokens": [
                 {
                   "word": "Lästere",
@@ -5811,7 +5811,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "true to oneself / steadfast"
                 }
               ],
-              "grammarNote": "Pre-nominal genitive 'der holden Schönheit Tugend'. Relative 'so' = 'die'. Idiom 'sich gleich sein' (to remain steadfast). Antecedent 'sie' = 'she [Pamina]'."
+              "grammarNote": "'sich gleich sein' is an idiom meaning 'to remain true to oneself / steadfast' (literally: 'to be equal to oneself')."
             },
             {
               "id": "a1_s4_c17_l2",
@@ -6005,7 +6005,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s4_c20_l2",
               "original": "Der Bösewicht falle von meinem Arm; das schwör ich bey meiner Liebe, bey meinem Herzen! –",
-              "literal": "The villain fall by my arm; that swear I by my love, by my heart! –",
+              "literal": "Let the villain fall by my hand; that I swear by my love, by my heart! –",
               "tokens": [
                 {
                   "word": "falle",
@@ -6032,7 +6032,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "love"
                 }
               ],
-              "grammarNote": "3rd person jussive subjunctive 'falle' (let the villain fall). Idiom 'von jemandes Arm fallen'."
+              "grammarNote": "'durch / von jemandes Arm fallen' is a classical idiom meaning to fall in combat by someone's hand (literally: 'by my arm')."
             }
           ]
         },
@@ -6247,7 +6247,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s4_c25_l6",
               "original": "denn meine Tochter fehlet mir.",
-              "literal": "for my daughter is-missing to me.",
+              "literal": "for I miss my daughter.",
               "tokens": [
                 {
                   "word": "fehlet mir",
@@ -6257,12 +6257,12 @@ export const dieZauberfloeteAct1: Act = {
                   "notes": "German construction: 'jemandem fehlen' = to be missed by someone."
                 }
               ],
-              "grammarNote": "German idiom: 'sie fehlt mir' = I miss her (literally: she is lacking to me)."
+              "grammarNote": "German uses 'jemand fehlt mir' (literally 'someone is lacking to me') where English says 'I miss someone'."
             },
             {
               "id": "a1_s4_c25_l7",
               "original": "Durch sie ging all mein Glück verloren,",
-              "literal": "Through her went all my happiness lost,",
+              "literal": "With her, all my happiness was lost,",
               "tokens": [
                 {
                   "word": "ging ... verloren",
@@ -6271,7 +6271,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "was lost / perished"
                 }
               ],
-              "grammarNote": "Idiom: 'verlorengehen' (to get lost / be destroyed)."
+              "grammarNote": "'verlorengehen' is an idiom meaning 'to be lost' or 'to vanish' (literally: 'to go lost')."
             },
             {
               "id": "a1_s4_c25_l8",
@@ -6371,7 +6371,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s4_c25_l13",
               "original": "Ich mußte sie mir rauben sehen,",
-              "literal": "I had-to her from me robbed see,",
+              "literal": "I had to watch her being stolen from me,",
               "tokens": [
                 {
                   "word": "sie mir rauben sehen",
@@ -6381,7 +6381,7 @@ export const dieZauberfloeteAct1: Act = {
                   "notes": "Double infinitive construction with modal 'mußte'."
                 }
               ],
-              "grammarNote": "The word 'mir' (me) emphasizes the Queen's personal grief: 'to rob [my daughter] away from me'."
+              "grammarNote": "The Queen laments watching her daughter abducted: 'sie mir rauben sehen' = 'to watch her being robbed from me'."
             },
             {
               "id": "a1_s4_c25_l14",
@@ -6607,7 +6607,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s5_c1_l3",
               "original": "Schützet meinen Arm, stählt meinen Muth, und Taminos Herz wird ewigen Dank euch entgegen schlagen.",
-              "literal": "Protect my arm, steel my courage, and Tamino's heart will eternal thanks to you beat.",
+              "literal": "Protect my arm, steel my courage, and Tamino's heart will beat with eternal gratitude to you.",
               "tokens": [
                 {
                   "word": "Schützet",
@@ -6641,7 +6641,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "to beat with gratitude towards"
                 }
               ],
-              "grammarNote": "Imperative plurals 'Schützet' and 'stählt'. Archaic spelling 'Muth'. Idiomatic 'Dank entgegen schlagen'."
+              "grammarNote": "'Dank entgegen schlagen' is an idiom meaning to beat with gratitude toward someone."
             }
           ]
         },
@@ -7314,7 +7314,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s5_c19_l2",
               "original": "darf ich? So empfehl' ich mich.",
-              "literal": "may I? So commend I myself [take my leave].",
+              "literal": "May I? Then I will take my leave.",
               "tokens": [
                 {
                   "word": "empfehl' ich mich",
@@ -7323,7 +7323,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "I take my leave / commend myself to you"
                 }
               ],
-              "grammarNote": "Formal idiom: 'sich empfehlen' = to take one's leave."
+              "grammarNote": "'Sich empfehlen' is a polite classical German idiom meaning 'to take one's leave' or 'to bid farewell' (literally: 'to commend oneself')."
             }
           ]
         },
@@ -7401,7 +7401,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s5_c21_l1",
               "original": "Nein dafür bedank' ich mich.",
-              "literal": "No for that thank I myself [No thank you].",
+              "literal": "No, thank you very much! (Count me out!)",
               "tokens": [
                 {
                   "word": "dafür bedank' ich mich",
@@ -10449,7 +10449,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s7_c23_l2",
               "original": "Eben als ich im Begriff war, meine Vögel abzugeben, sah ich einen Menschen vor mir, der sich Prinz nennen läßt.",
-              "literal": "Just when I in the notion was, my birds to-hand-over, saw I a person before me, who himself Prince calls.",
+              "literal": "Just as I was on the point of delivering my birds, I saw a fellow before me who calls himself a prince.",
               "tokens": [
                 {
                   "word": "im Begriff war",
@@ -10470,7 +10470,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "styles himself / has himself called"
                 }
               ],
-              "grammarNote": "Idiom 'im Begriff sein' + zu-infinitive = 'to be on the point of'. Reflexive causative 'sich nennen lassen'. Antecedent resolved: 'Prinz' = Tamino."
+              "grammarNote": "'im Begriff sein' is an idiom meaning 'to be on the point of / about to do something'."
             },
             {
               "id": "a1_s7_c23_l3",
@@ -10572,7 +10572,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s7_c25_l1",
               "original": "Das glaube ich dir ohne zu schwören; bist ja ein Fräulenbild. – Wo blieb ich denn?",
-              "literal": "That believe I you without to swear; [you] are indeed a maiden. – Where remained I then?",
+              "literal": "I believe you without you having to swear; you are a maiden after all. – Now, where was I?",
               "tokens": [
                 {
                   "word": "ohne zu schwören",
@@ -10593,7 +10593,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "where was I? / where did I leave off?"
                 }
               ],
-              "grammarNote": "Colloquial idiom 'Wo blieb ich denn?' = 'Where was I?'. Elliptical clause '[du] bist ja ein Fräulenbild'."
+              "grammarNote": "'Wo blieb ich denn?' is a casual idiom meaning 'Where was I?' or 'Where did I leave off?' (literally: 'Where did I remain then?')."
             }
           ]
         },
@@ -10650,7 +10650,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s7_c27_l2",
               "original": "Kurz also, diese große Liebe zu dir war der Peitschenstreich, um unsre Füße in schnellen Gang zu bringen;",
-              "literal": "In short then, this great love for you [Pamina] was the whip-lash, in order our feet into swift motion to bring;",
+              "literal": "In short, then, this great love for you was the spur that put speed into our feet;",
               "tokens": [
                 {
                   "word": "Kurz also",
@@ -10671,7 +10671,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "into swift motion / into high gear"
                 }
               ],
-              "grammarNote": "Metaphor 'der Peitschenstreich' represents the sudden impetus to march. Purpose clause with 'um ... zu bringen'."
+              "grammarNote": "'der Peitschenstreich' is used idiomatically here as the catalyst or spur that set them running."
             },
             {
               "id": "a1_s7_c27_l3",
@@ -10771,7 +10771,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s7_c29_l1",
               "original": "Da steckt eben der Hacken. –",
-              "literal": "There sticks precisely the catch [hitch]. –",
+              "literal": "That's precisely the catch! [There's the rub!] –",
               "tokens": [
                 {
                   "word": "steckt",
@@ -10792,7 +10792,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "catch / snag / hitch (archaic spelling with -ck-)"
                 }
               ],
-              "grammarNote": "Idiom 'Da steckt der Haken' (Therein lies the catch). Archaic spelling 'Hacken' for modern 'Haken'."
+              "grammarNote": "'Da steckt der Haken' is an idiom meaning 'That's the catch!' or 'There's the rub!' (literally: 'There sticks the hook')."
             },
             {
               "id": "a1_s7_c29_l2",
@@ -10880,7 +10880,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s7_c31_l2",
               "original": "Zur Sicherheit also war der Prinz so fein, mich voraus zu schicken, um dir unsre Ankunft anzukündigen. –",
-              "literal": "For safety therefore was the Prince [Tamino] so clever, me in-advance to send, in order to you our arrival to-announce. –",
+              "literal": "So to be safe, the prince was thoughtful enough to send me ahead to announce our arrival to you. –",
               "tokens": [
                 {
                   "word": "Zur Sicherheit",
@@ -10913,7 +10913,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "to announce (separable verb infinitive with zu)"
                 }
               ],
-              "grammarNote": "Austrian idiom 'fein sein' (to be shrewd/clever). Purpose infinitive clause 'um dir unsre Ankunft anzukündigen'."
+              "grammarNote": "'so fein sein' is an idiom meaning 'to be considerate / tactful enough' to do something."
             }
           ]
         },
@@ -10962,7 +10962,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s7_c33_l1",
               "original": "So wird mir meine Rückreise erspart – Das kann ich mir denken.",
-              "literal": "Then will to me my return-journey [be] spared – That can I to-myself imagine.",
+              "literal": "Then I'll be spared the return journey – I can well imagine that!",
               "tokens": [
                 {
                   "word": "Rückreise",
@@ -10983,7 +10983,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "I can well imagine (dative reflexive)"
                 }
               ],
-              "grammarNote": "Gallows humor: Papageno quips that execution would save him the return trek. Passive with omitted auxiliary '[wird] erspart [werden]'."
+              "grammarNote": "'Das kann ich mir denken' is an idiom meaning 'I can well imagine that!'."
             }
           ]
         },
@@ -11032,7 +11032,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s7_c35_l1",
               "original": "Um diesem auszuweichen, so gehen wir lieber bey Zeiten.",
-              "literal": "In order this to-avoid, so go we rather in good-time.",
+              "literal": "To avoid that, we had better leave in good time.",
               "tokens": [
                 {
                   "word": "auszuweichen",
@@ -11053,7 +11053,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "in good time / early (modern: beizeiten)"
                 }
               ],
-              "grammarNote": "To avoid the danger, Papageno and Pamina hurry away: 'In order to escape this, let us take the other path'."
+              "grammarNote": "'bei Zeiten' is an idiom meaning 'in good time' or 'before it is too late'."
             }
           ]
         },
@@ -11161,7 +11161,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s7_c39_l1",
               "original": "Sarastro ist also nicht zu Hause? – Pah! da haben wir gewonnenes Spiel! –",
-              "literal": "Sarastro is then not at home? – Bah! There have we [a] won game! –",
+              "literal": "Sarastro isn't at home, then? – Bah! Then we've won the day! [We've got it made!] –",
               "tokens": [
                 {
                   "word": "zu Hause",
@@ -11182,12 +11182,12 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "won the day / easy victory (idiom gewonnenes Spiel haben)"
                 }
               ],
-              "grammarNote": "Idiom 'gewonnenes Spiel haben' = 'to have already won / to have things in the bag'."
+              "grammarNote": "'gewonnenes Spiel haben' is an idiom meaning 'to have won the day' or 'to have an easy victory' (literally: 'to have a won game')."
             },
             {
               "id": "a1_s7_c39_l2",
               "original": "Komm, schönes Fräulenbild! du wirst Augen machen, wenn du den schönen Jüngling erblickst.",
-              "literal": "Come, beautiful maiden [Pamina]! You will eyes make, when you the handsome youth [Tamino] behold.",
+              "literal": "Come, beautiful maiden! You won't believe your eyes when you see that handsome youth!",
               "tokens": [
                 {
                   "word": "Komm",
@@ -11214,7 +11214,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "catch sight of / behold"
                 }
               ],
-              "grammarNote": "Colloquial idiom 'Augen machen' = 'to marvel / open one's eyes in wonder'. Antecedents resolved: 'schönes Fräulenbild' = Pamina, 'schönen Jüngling' = Tamino."
+              "grammarNote": "'Augen machen' is a colorful German idiom meaning 'to open your eyes wide in wonder / to be amazed' (literally: 'to make eyes')."
             }
           ]
         },
@@ -11287,7 +11287,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s7_c41_l1",
               "original": "Ich ein böser Geist? – Wo denkt ihr hin, Fräulenbild? – Ich bin der beste Geist von der Welt.",
-              "literal": "I an evil spirit? – Where think you to, maiden? – I am the best spirit of the world.",
+              "literal": "Me, an evil spirit? – What on earth are you thinking, young lady? – I am the best spirit in the world!",
               "tokens": [
                 {
                   "word": "Wo denkt ihr hin",
@@ -11308,7 +11308,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "in the world"
                 }
               ],
-              "grammarNote": "Papageno addresses the princess with the polite plural 'ihr'. Idiom 'Wo denkt ihr hin?' conveys humorous indignation."
+              "grammarNote": "'Wo denkt ihr hin?' is an idiom expressing humorous shock or indignation: 'What on earth are you thinking?' or 'Whatever gave you that idea?' (literally: 'Where do you think to?')."
             }
           ]
         },
@@ -12216,7 +12216,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c3_l1",
               "original": "Dies kund zu tun steht uns nicht an;",
-              "literal": "This known to make stands to us not on [is not fitting for us to disclose];",
+              "literal": "It is not for us to make this known;",
               "tokens": [
                 {
                   "word": "kund zu tun",
@@ -12231,7 +12231,7 @@ export const dieZauberfloeteAct1: Act = {
                   "meaning": "to be fitting / be incumbent upon (governs dative 'uns')"
                 }
               ],
-              "grammarNote": "Idiomatic construction: 'jemandem anstehen' = to be proper/fitting for someone."
+              "grammarNote": "'jemandem anstehen' is an idiom meaning 'to be fitting / proper for someone' (literally: 'to stand to someone')."
             },
             {
               "id": "a1_s8_c3_l2",
@@ -12333,7 +12333,7 @@ export const dieZauberfloeteAct1: Act = {
             {
               "id": "a1_s8_c5_l3",
               "original": "Wo bin ich nun? – Was wird mit mir?",
-              "literal": "Where am I now? – What becomes with me [what will become of me]?",
+              "literal": "Where am I now? – What will become of me?",
               "tokens": [
                 {
                   "word": "Was wird mit mir",

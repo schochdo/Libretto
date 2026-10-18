@@ -304,7 +304,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c6_l1",
               "original": "Wenn du dich nicht in mich schickest,",
-              "literal": "If you yourself not to me adapt,",
+              "literal": "If you don't accommodate my wishes,",
               "tokens": [
                 {
                   "word": "dich... schickest",
@@ -319,7 +319,7 @@ export const fidelioAct1: Act = {
                   "meaning": "to me (accusative with 'in')"
                 }
               ],
-              "grammarNote": "Reflexive idiom 'sich in jemanden schicken' (to accommodate someone's wishes)."
+              "grammarNote": "'sich in jemanden schicken' is an idiom meaning 'to accommodate someone's wishes' or 'yield to someone's ways' (literally: 'to fit oneself into someone')."
             },
             {
               "id": "a1_s1_c6_l2",
@@ -421,7 +421,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c7_l2",
               "original": "dann laß ich dich wieder in Ruh'.",
-              "literal": "then leave I you again in peace.",
+              "literal": "then I'll leave you alone again.",
               "tokens": [
                 {
                   "word": "dann",
@@ -442,7 +442,7 @@ export const fidelioAct1: Act = {
                   "meaning": "in peace"
                 }
               ],
-              "grammarNote": "Idiom 'in Ruhe lassen' (to leave someone alone)."
+              "grammarNote": "'in Ruhe lassen' is an idiom meaning 'to leave someone alone' (literally: 'to leave in quiet/peace')."
             },
             {
               "id": "a1_s1_c7_l3",
@@ -674,7 +674,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c13_l2",
               "original": "Da war ich so herrlich im Gang,",
-              "literal": "There was I so wonderfully in progress,",
+              "literal": "I was in such a wonderful rhythm,",
               "tokens": [
                 {
                   "word": "herrlich",
@@ -689,7 +689,7 @@ export const fidelioAct1: Act = {
                   "meaning": "underway / in full swing"
                 }
               ],
-              "grammarNote": "Idiom 'im Gang sein' (to be well underway / in the groove)."
+              "grammarNote": "'im Gang sein' is an idiom meaning 'to be in full swing' or 'in the groove' (literally: 'to be in motion / underway')."
             },
             {
               "id": "a1_s1_c13_l3",
@@ -740,7 +740,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c14_l2",
               "original": "Wie macht seine Liebe mir bang,",
-              "literal": "How makes his love to me anxious,",
+              "literal": "How anxious his love makes me,",
               "tokens": [
                 {
                   "word": "Liebe",
@@ -755,12 +755,12 @@ export const fidelioAct1: Act = {
                   "meaning": "fearful / anxious"
                 }
               ],
-              "grammarNote": "Idiom 'jemandem bange/bang machen' (to make someone uneasy)."
+              "grammarNote": "'jemandem bange machen' is an idiom meaning 'to make someone uneasy / anxious' (literally: 'to make anxious to me')."
             },
             {
               "id": "a1_s1_c14_l3",
               "original": "und wie werden die Stunden mir lang.",
-              "literal": "and how become the hours to me long.",
+              "literal": "and how the hours drag on for me!",
               "tokens": [
                 {
                   "word": "werden",
@@ -775,7 +775,7 @@ export const fidelioAct1: Act = {
                   "meaning": "hours"
                 }
               ],
-              "grammarNote": "Idiom 'jemandem lang werden' (time hangs heavy on someone)."
+              "grammarNote": "'jemandem lang werden' is an idiom meaning time drags on / hangs heavy on someone (literally: 'how the hours become long to me')."
             }
           ]
         },
@@ -815,7 +815,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c15_l2",
               "original": "es tut mir so leid auch um ihn!",
-              "literal": "it does to me so sorry also for him!",
+              "literal": "I also feel so sorry for him!",
               "tokens": [
                 {
                   "word": "tut... leid",
@@ -830,7 +830,7 @@ export const fidelioAct1: Act = {
                   "meaning": "about/for him"
                 }
               ],
-              "grammarNote": "Impersonal idiom 'es tut mir leid um jemanden' (I feel sorry for someone)."
+              "grammarNote": "'es tut mir leid um jemanden' is the standard idiom meaning 'I feel sorry for someone' (literally: 'it does to me sorrow about him')."
             },
             {
               "id": "a1_s1_c15_l3",
@@ -1052,7 +1052,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c21_l2",
               "original": "kein Wünschen, kein Bitten geht ein.",
-              "literal": "no wishing, no pleading enters in.",
+              "literal": "no wishing, no pleading gets through to you.",
               "tokens": [
                 {
                   "word": "Wünschen",
@@ -1073,7 +1073,7 @@ export const fidelioAct1: Act = {
                   "meaning": "penetrates / finds acceptance"
                 }
               ],
-              "grammarNote": "Idiomatic 'eingehen' (to be accepted / to register with someone)."
+              "grammarNote": "'eingehen' is used idiomatically here meaning 'to register / be accepted / get through to someone'."
             }
           ]
         },
@@ -1225,7 +1225,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c25_l3",
               "original": "Auch das noch?",
-              "literal": "Even that also?",
+              "literal": "That on top of everything?",
               "tokens": [
                 {
                   "word": "Auch das noch",
@@ -1234,7 +1234,7 @@ export const fidelioAct1: Act = {
                   "meaning": "That on top of everything!"
                 }
               ],
-              "grammarNote": "Idiomatic exclamation of exasperation."
+              "grammarNote": "'Auch das noch?' is a classic German expression of exasperation meaning 'That on top of everything?' or 'Now this as well?'."
             }
           ]
         },
@@ -1392,7 +1392,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s1_c30_l3",
               "original": "es wurde zu Tode mir bang.",
-              "literal": "it became to death to me fearful.",
+              "literal": "I was scared half to death!",
               "tokens": [
                 {
                   "word": "zu Tode",
@@ -1407,7 +1407,7 @@ export const fidelioAct1: Act = {
                   "meaning": "frightened / anxious"
                 }
               ],
-              "grammarNote": "Hyperbolic idiom: 'jemandem wird zu Tode bang' (one becomes scared to death)."
+              "grammarNote": "'jemandem wird zu Tode bang' is an idiom meaning 'to be scared half to death' (literally: 'to me it became fearful unto death')."
             }
           ]
         },
@@ -7119,7 +7119,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s7_c1_l2",
               "original": "Die Rache werd' ich kühlen,",
-              "literal": "The vengeance will I cool [slake],",
+              "literal": "I will quench my thirst for revenge,",
               "tokens": [
                 {
                   "word": "Rache",
@@ -7134,7 +7134,7 @@ export const fidelioAct1: Act = {
                   "meaning": "cool / slake / satisfy"
                 }
               ],
-              "grammarNote": "Idiom 'seine Rache kühlen' (to satisfy/slake one's vengeance)."
+              "grammarNote": "'seine Rache kühlen' is a classical idiom meaning 'to slake / quench one's thirst for revenge' (literally: 'to cool one's vengeance')."
             },
             {
               "id": "a1_s7_c1_l3",
@@ -8124,7 +8124,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s8_c1_l1",
               "original": "Jetzt, Alter, jetzt hat es Eile!",
-              "literal": "Now, old-man, now has it haste!",
+              "literal": "Now, old man, there is no time to lose!",
               "tokens": [
                 {
                   "word": "Alter",
@@ -8139,12 +8139,12 @@ export const fidelioAct1: Act = {
                   "meaning": "to be urgent / pressing"
                 }
               ],
-              "grammarNote": "Idiom 'es hat Eile' (there is urgency / no time to lose)."
+              "grammarNote": "'es hat Eile' is an idiom meaning 'there is no time to lose' or 'it is of the essence' (literally: 'it has haste')."
             },
             {
               "id": "a1_s8_c1_l2",
               "original": "Dir wird ein Glück zu Teile,",
-              "literal": "To you becomes a good-fortune apportioned,",
+              "literal": "Great good fortune will fall to your lot,",
               "tokens": [
                 {
                   "word": "Glück",
@@ -8159,7 +8159,7 @@ export const fidelioAct1: Act = {
                   "meaning": "to fall to someone's lot / be granted"
                 }
               ],
-              "grammarNote": "Idiom 'jemandem zuteilwerden' taking dative 'Dir'."
+              "grammarNote": "'jemandem zuteilwerden' is an idiom meaning 'to fall to one's lot / be bestowed upon someone'."
             },
             {
               "id": "a1_s8_c1_l3",
@@ -11188,7 +11188,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s10_c1_l2",
               "original": "den Atem leicht zu heben!",
-              "literal": "the breath lightly to heave [draw]!",
+              "literal": "to draw breath freely!",
               "tokens": [
                 {
                   "word": "Atem",
@@ -11203,7 +11203,7 @@ export const fidelioAct1: Act = {
                   "meaning": "raise / draw (breath)"
                 }
               ],
-              "grammarNote": "Idiom 'den Atem heben' (to breathe deeply / draw breath)."
+              "grammarNote": "'den Atem heben' is an idiom meaning 'to draw breath freely / breathe deeply'."
             },
             {
               "id": "a1_s10_c1_l3",

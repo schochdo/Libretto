@@ -1481,7 +1481,7 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s2_c8_l1",
               "original": "Mir wird nicht wohl bey der Sache!",
-              "literal": "To me becomes not well at the matter [I don't feel good about this]!",
+              "literal": "I have a bad feeling about this!",
               "tokens": [
                 {
                   "word": "Mir",
@@ -1502,7 +1502,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "about this business / affair"
                 }
               ],
-              "grammarNote": "Impersonal dative construction: 'Mir wird nicht wohl bey...'."
+              "grammarNote": "'Mir wird nicht wohl bei der Sache' is an idiom meaning 'I don't feel good about this' or 'I have an uneasy feeling about this' (literally: 'To me it becomes not well at the matter')."
             }
           ]
         },
@@ -1540,7 +1540,7 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s2_c10_l1",
               "original": "Furcht eben nicht, nur eißkalt läufts mir über den Rücken.",
-              "literal": "Fear precisely not, only ice-cold runs-it to me over the back.",
+              "literal": "Not fear exactly, only shivers running ice-cold down my spine!",
               "tokens": [
                 {
                   "word": "Furcht eben nicht",
@@ -1567,7 +1567,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "back / spine"
                 }
               ],
-              "grammarNote": "Viennese comedic evasiveness: Papageno denies fear while describing shivers running down his spine."
+              "grammarNote": "'Eiskalt über den Rücken laufen' is the German equivalent of 'shivers running down one's spine' (literally: 'ice-cold it runs over my back')."
             },
             {
               "id": "a2_s2_c10_l2",
@@ -2106,7 +2106,7 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s2_c28_l1",
               "original": "Kämpfen ist meine Sache nicht. – Ich verlang' auch im Grunde gar keine Weisheit.",
-              "literal": "Fighting is my affair not. – I demand also in the basis at-all no wisdom.",
+              "literal": "Fighting is not my thing. – Deep down, I don't really want any wisdom anyway.",
               "tokens": [
                 {
                   "word": "Kämpfen",
@@ -2133,7 +2133,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "no wisdom at all"
                 }
               ],
-              "grammarNote": "Papageno's philosophy is rooted in simple earthly survival rather than metaphysical striving."
+              "grammarNote": "'Etwas ist meine Sache nicht' means 'Something is not my thing / not for me'. 'Im Grunde' is an idiom meaning 'deep down' or 'at bottom' (literally: 'in the ground/foundation')."
             },
             {
               "id": "a2_s2_c28_l2",
@@ -2646,7 +2646,7 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s2_c47_l1",
               "original": "Sehen kannst du sie, aber bis zur verlaufenen Zeit kein Wort mit ihr sprechen; wird dein Geist so viel Standhaftigkeit besitzen, deine Zunge in Schranken zu halten?",
-              "literal": "See can you her [Papagena], but until the elapsed time no word with her speak; will your spirit so much steadfastness possess, your tongue within bounds to keep?",
+              "literal": "You may see her, but until the appointed time has passed, you must not speak a word with her; will your resolve have enough steadfastness to hold your tongue?",
               "tokens": [
                 {
                   "word": "verlaufenen Zeit",
@@ -2673,7 +2673,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "to hold one's tongue in check / bridle one's tongue"
                 }
               ],
-              "grammarNote": "The vow of silence applied to Papageno with comedic difficulty."
+              "grammarNote": "'die Zunge in Schranken halten' is an idiom meaning 'to hold one's tongue' or 'keep one's speech in check' (literally: 'to keep the tongue within barriers')."
             }
           ]
         },
@@ -4058,7 +4058,7 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s3_c37_l1",
               "original": "Was seh' ich! Freund, siehe auf! wie ist dir?",
-              "literal": "What see I! Friend [Papageno], look up! How is [it] to you?",
+              "literal": "What do I see! Friend, look up! How are you feeling?",
               "tokens": [
                 {
                   "word": "Was seh' ich",
@@ -4277,7 +4277,7 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s3_c42_l1",
               "original": "Bey so einer ewigen Wanderschaft möcht einem wohl die Liebe auf immer vergehen.",
-              "literal": "With such an eternal wandering might to-one indeed love forever pass-away [one would lose all desire for love].",
+              "literal": "With such endless wandering, a man could lose all taste for love forever!",
               "tokens": [
                 {
                   "word": "ewigen Wanderschaft",
@@ -4310,7 +4310,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "pass away / disappear"
                 }
               ],
-              "grammarNote": "Impersonal idiom 'einem vergeht die Lust / Liebe' = one loses all desire/taste for something."
+              "grammarNote": "'Einem vergeht die Lust / Liebe' is an idiom meaning 'one loses all taste / desire for something' (literally: 'love passes away to one')."
             }
           ]
         }
@@ -4375,7 +4375,7 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s4_c2_l2",
               "original": "Also bloß dem heutigen Tage hab' ichs zu verdanken, daß ich noch mit heiler Haut auf die Erde trete.",
-              "literal": "So solely to-this day have I-it to thank, that I still with intact skin upon the earth tread.",
+              "literal": "So it's solely thanks to today that I am still walking the earth with a whole skin!",
               "tokens": [
                 {
                   "word": "bloß",
@@ -4408,7 +4408,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "walk upon the earth"
                 }
               ],
-              "grammarNote": "Idiomatic phrase 'mit heiler Haut' = with an intact skin / uninjured."
+              "grammarNote": "'mit heiler Haut davonkommen' is an idiom meaning 'to escape uninjured / in one piece' (literally: 'with intact/unbroken skin')."
             }
           ]
         },
@@ -4501,7 +4501,7 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s4_c4_l1",
               "original": "Bey allen Sternen! das Mädchen wird noch um meinen Verstand mich bringen.",
-              "literal": "By all stars! The maiden [Pamina] will yet of my mind me deprive [drive me out of my senses].",
+              "literal": "By all the stars! That girl will end up driving me out of my mind!",
               "tokens": [
                 {
                   "word": "Bey allen Sternen",
@@ -4522,7 +4522,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "to drive out of one's mind / drive mad"
                 }
               ],
-              "grammarNote": "Idiom: 'jemanden um den Verstand bringen' = to drive someone insane / rob someone of their senses."
+              "grammarNote": "'Jemanden um den Verstand bringen' is an idiom meaning 'to drive someone crazy / out of their mind' (literally: 'to bring someone around their intellect')."
             },
             {
               "id": "a2_s4_c4_l2",
@@ -5289,7 +5289,7 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s5_c15_l1",
               "original": "Der alles verzehrende Sonnenkreis, fiel ich hastig ihm in die Rede, – ist den Geweihten bestimmt, antwortete er: – Sarastro wird ihn so männlich verwalten, wie ich bisher.",
-              "literal": "The all-consuming sun-circle, fell I hastily to him into the speech [interrupted I him], – is for-the consecrated destined, answered he: – Sarastro will it [the sun-circle] as manfully administer, as I hitherto.",
+              "literal": "'The all-consuming sevenfold sun-circle,' I broke in hastily, – 'is destined for the initiates,' he answered: – 'Sarastro will administer it as manfully as I have done until now.'",
               "tokens": [
                 {
                   "word": "alles verzehrende",
@@ -5322,7 +5322,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "administer manfully / wisely govern"
                 }
               ],
-              "grammarNote": "Idiom: 'jemandem in die Rede fallen' = to cut someone off / interrupt."
+              "grammarNote": "'Jemandem in die Rede fallen' is an idiom meaning 'to interrupt someone / cut someone off' (literally: 'to fall into someone's speech')."
             }
           ]
         },
@@ -5987,7 +5987,7 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s6_c4_l2",
               "original": "Das ist Salz in meine Suppe!",
-              "literal": "That is salt into my soup [grist to my mill / just what I wanted]!",
+              "literal": "That's just what I needed! [Just what the doctor ordered!]",
               "tokens": [
                 {
                   "word": "Salz in meine Suppe",
@@ -5996,7 +5996,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "just what I needed / grist to my mill (German culinary idiom)"
                 }
               ],
-              "grammarNote": "Viennese colloquial idiom: 'Salz in die Suppe sein' = exactly what enhances one's advantage."
+              "grammarNote": "'Das ist Salz in meine Suppe' is a colorful German culinary idiom meaning 'That's just what I needed' or 'just what the doctor ordered' (literally: 'That is salt in my soup'). Monostatos is gleeful because overhearing the Queen's plot gives him the upper hand."
             }
           ]
         },
@@ -6152,7 +6152,7 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s6_c10_l1",
               "original": "Alles. – Ich weiß sogar, daß nicht nur dein, sondern auch deiner Mutter Leben in meiner Hand steht.",
-              "literal": "Everything. – I know even, that not only your, but also your mother's [Queen of the Night's] life in my hand stands [is in my power].",
+              "literal": "Everything. – I even know that not only your life, but your mother's life as well, is in my hands.",
               "tokens": [
                 {
                   "word": "Alles",
@@ -6221,7 +6221,7 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s6_c10_l3",
               "original": "Aus diesem Gewölbe kommt sie nun sicher nicht mehr mit heiler Haut, wenn ich es will. – Du hast also nur einen Weg, dich und deine Mutter zu retten.",
-              "literal": "Out of this vault comes she [the Queen] now surely not more with whole skin, if I it will. – You have therefore only one way, yourself and your mother to save.",
+              "literal": "She certainly won't leave these vaults in one piece now, if I so choose. – You have only one way to save both yourself and your mother.",
               "tokens": [
                 {
                   "word": "mit heiler Haut",
@@ -6450,7 +6450,7 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s6_c18_l1",
               "original": "Liebe oder Tod! – Sprich! dein Leben steht auf der Spitze.",
-              "literal": "Love or death! – Speak! Your life stands on the knife-edge [is hanging by a thread].",
+              "literal": "Love or death! – Speak! Your life is hanging by a thread!",
               "tokens": [
                 {
                   "word": "Liebe oder Tod",
@@ -6471,7 +6471,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "to hang in the balance / stand on the brink / knife-edge"
                 }
               ],
-              "grammarNote": "Idiom: 'auf der Spitze stehen' = to be at a critical, perilous precipice."
+              "grammarNote": "'Auf der Spitze stehen' is an idiom meaning 'to hang in the balance / hang by a thread' (literally: 'to stand on the tip/point')."
             }
           ]
         },
@@ -6568,7 +6568,7 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s6_c23_l1",
               "original": "So fahr denn hin!",
-              "literal": "Then perish! [Go then to your doom!]",
+              "literal": "Then go to your doom!",
               "tokens": [
                 {
                   "word": "fahr... hin",
@@ -13163,7 +13163,7 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s11_c12_l2",
               "original": "Ha! – mir wird ganz wunderlich ums Herz. – Ich möchte – ich wünschte – ja was denn?",
-              "literal": "Ha! – I feel quite strange around my heart. – I would like – I would wish – well, what then?",
+              "literal": "Ha! – I feel quite lightheaded and strange around my heart! – I'd like – I'd wish – well, what then?",
               "tokens": [
                 {
                   "word": "Ha",
@@ -13208,7 +13208,7 @@ export const dieZauberfloeteAct2: Act = {
                   "meaning": "well what then? / what actually?"
                 }
               ],
-              "grammarNote": "Impersonal dative construction: 'mir wird... ums Herz' (I feel a strange sensation in my heart). Leading directly into aria Nr. 20 'Ein Mädchen oder Weibchen'."
+              "grammarNote": "'Ganz toll ums Herz werden' is an idiom meaning 'to feel all dizzy / lightheaded / fluttery around the heart' (literally: 'it becomes quite mad around the heart')."
             }
           ]
         },
@@ -16850,12 +16850,12 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s14_c4_l3",
               "original": "Weil mich nichts zurücke hält,",
-              "literal": "Because me nothing back holds,"
+              "literal": "Because nothing holds me back,"
             },
             {
               "id": "a2_s14_c4_l4",
               "original": "gute Nacht, du falsche Welt!",
-              "literal": "good night, you false world!"
+              "literal": "good night, deceitful world!"
             }
           ]
         },
@@ -16877,12 +16877,12 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s14_c6_l1",
               "original": "Halt ein! o Papageno, und sei klug!",
-              "literal": "Stop! O Papageno, and be wise!"
+              "literal": "Hold on, Papageno! Be wise;"
             },
             {
               "id": "a2_s14_c6_l2",
               "original": "Man lebt nur einmal, dies sei dir genug!",
-              "literal": "One lives only once, let this be to you enough!"
+              "literal": "You only live once; let that be enough for you!"
             }
           ]
         },
@@ -16894,17 +16894,19 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s14_c7_l1",
               "original": "Ihr habt gut reden, gut zu scherzen;",
-              "literal": "You have good [easy] talking, good joking;"
+              "literal": "That's easy for you to say, easy for you to joke;",
+              "grammarNote": "'Gut reden / scherzen haben' is the classic German idiom for 'That's easy for you to say / joke!' (literally: 'You have good talking / joking')."
             },
             {
               "id": "a2_s14_c7_l2",
               "original": "doch brennt es euch, wie mich im Herzen,",
-              "literal": "yet if-burned it in-you, as in-me in the heart,"
+              "literal": "but if your hearts burned like mine,"
             },
             {
               "id": "a2_s14_c7_l3",
               "original": "ihr würdet auch nach Mädchen geh'n.",
-              "literal": "you would also after maidens go."
+              "literal": "you would be chasing after girls too!",
+              "grammarNote": "'nach Mädchen gehen' is an idiom meaning 'to chase after / court girls'."
             }
           ]
         },
@@ -16970,7 +16972,7 @@ export const dieZauberfloeteAct2: Act = {
             {
               "id": "a2_s14_c10_l1",
               "original": "Erklinge, Glockenspiel, erklinge,",
-              "literal": "Sound forth, glockenspiel, sound forth,"
+              "literal": "It's all over with my life, then! –",
             },
             {
               "id": "a2_s14_c10_l2",
