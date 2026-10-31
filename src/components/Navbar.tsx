@@ -198,15 +198,26 @@ export const Navbar: React.FC<NavbarProps> = ({
     return results;
   }, [currentOpera, searchQuery]);
 
+  const isIOSTouch = React.useCallback(() => {
+    if (typeof window === 'undefined') return false;
+    return (
+      /iPad|iPhone|iPod/.test(navigator.userAgent) ||
+      (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1)
+    );
+  }, []);
+
   React.useEffect(() => {
     const handleFsChange = () => {
       const doc = document as any;
-      setIsFullscreen(!!(
+      const isNativeFs = !!(
         document.fullscreenElement ||
         doc.webkitFullscreenElement ||
         doc.mozFullScreenElement ||
         doc.msFullscreenElement
-      ));
+      );
+      if (!isIOSTouch()) {
+        setIsFullscreen(isNativeFs);
+      }
     };
     document.addEventListener('fullscreenchange', handleFsChange);
     document.addEventListener('webkitfullscreenchange', handleFsChange);
@@ -218,73 +229,67 @@ export const Navbar: React.FC<NavbarProps> = ({
       document.removeEventListener('mozfullscreenchange', handleFsChange);
       document.removeEventListener('MSFullscreenChange', handleFsChange);
     };
-  }, []);
+  }, [isIOSTouch]);
+
+  // Escape key listener to exit fullscreen on all platforms (including iPad external keyboards)
+  React.useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape' && isFullscreen) {
+        if (!isIOSTouch()) {
+          const doc = document as any;
+          if (document.fullscreenElement || doc.webkitFullscreenElement) {
+            if (document.exitFullscreen) document.exitFullscreen().catch(() => {});
+            else if (doc.webkitExitFullscreen) doc.webkitExitFullscreen();
+          }
+        }
+        setIsFullscreen(false);
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [isFullscreen, isIOSTouch]);
 
   const toggleFullscreen = () => {
+    // If on iOS / iPadOS Safari, DO NOT call webkitRequestFullscreen because Apple
+    // forcibly injects a large native 'X' overlay over the logo and exits on any scroll gesture.
+    // Instead, toggle in-app Immersive Fullscreen which sticks 100% reliably.
+    if (isIOSTouch()) {
+      setIsFullscreen(prev => !prev);
+      return;
+    }
+
+    // On Desktop platforms (Mac Safari, Chrome, Edge, Firefox):
     const doc = document as any;
     const docEl = document.documentElement as any;
 
-    const isFs = !!(
+    const isNativeFs = !!(
       document.fullscreenElement ||
       doc.webkitFullscreenElement ||
       doc.mozFullScreenElement ||
       doc.msFullscreenElement
     );
 
-    if (!isFs) {
+    if (!isNativeFs) {
       if (docEl.requestFullscreen) {
         docEl.requestFullscreen().catch(() => {});
       } else if (docEl.webkitRequestFullscreen) {
         docEl.webkitRequestFullscreen();
-      } else if (docEl.mozRequestFullScreen) {
-        docEl.mozRequestFullScreen();
-      } else if (docEl.msRequestFullscreen) {
-        docEl.msRequestFullscreen();
       }
+      setIsFullscreen(true);
     } else {
       if (document.exitFullscreen) {
         document.exitFullscreen().catch(() => {});
       } else if (doc.webkitExitFullscreen) {
         doc.webkitExitFullscreen();
-      } else if (doc.mozCancelFullScreen) {
-        doc.mozCancelFullScreen();
-      } else if (doc.msExitFullscreen) {
-        doc.msExitFullscreen();
       }
+      setIsFullscreen(false);
     }
   };
 
-  const [isStandalone, setIsStandalone] = React.useState<boolean>(() => {
-    if (typeof window === 'undefined') return false;
-    return (
-      window.matchMedia('(display-mode: standalone)').matches ||
-      window.matchMedia('(display-mode: fullscreen)').matches ||
-      (window.navigator as any).standalone === true
-    );
-  });
-
-  React.useEffect(() => {
-    if (typeof window === 'undefined' || !window.matchMedia) return;
-    const mql = window.matchMedia('(display-mode: standalone)');
-    const handler = (e: MediaQueryListEvent) => setIsStandalone(e.matches);
-    try {
-      mql.addEventListener('change', handler);
-      return () => mql.removeEventListener('change', handler);
-    } catch (_) {}
-  }, []);
-
   const headerPaddingTop = React.useMemo(() => {
-    // 1. If in HTML5 Fullscreen (Safari on iPad / tablet), clear the status bar clock & battery readings cleanly
-    if (isFullscreen) {
-      return 'max(2.5rem, calc(env(safe-area-inset-top) + 1rem))';
-    }
-    // 2. If running as an installed standalone desktop / home screen application, clear the top status bar cleanly
-    if (isStandalone) {
-      return 'max(1.75rem, calc(env(safe-area-inset-top) + 0.5rem))';
-    }
-    // 3. Normal browser mode: safe area if any, plus standard padding
+    // Natural hardware safe area clearance (e.g. Dynamic Island or notch if present, otherwise 0.5rem)
     return 'max(0.5rem, env(safe-area-inset-top))';
-  }, [isFullscreen, isStandalone]);
+  }, []);
 
   return (
     <header className="sticky top-0 z-30 border-b px-3 sm:px-6 py-2 sm:py-2.5 transition-all"
@@ -295,7 +300,144 @@ export const Navbar: React.FC<NavbarProps> = ({
         paddingTop: headerPaddingTop
       }}
     >
-      <div className="max-w-7xl mx-auto flex flex-col lg:flex-row lg:items-center lg:justify-between gap-2 lg:gap-3">
+      {isFullscreen ? (
+        /* Immersive Fullscreen Reading Bar (Single Row, Streamlined, No Clutter) */
+        <div className="max-w-7xl mx-auto flex items-center justify-between gap-2 min-h-[36px]">
+          {/* Left: Branding & Current Opera / Scene */}
+          <div className="flex items-center gap-2 sm:gap-2.5 min-w-0 flex-1">
+            <button
+              onClick={onNavigateToCatalog}
+              className="flex items-center gap-2 text-left cursor-pointer hover:opacity-85 transition-opacity shrink-0"
+              title="Return to Opera Library Catalog"
+              aria-label="Libretto Library Catalog"
+            >
+              <div 
+                className="w-7 h-7 rounded-lg flex items-center justify-center shrink-0 border shadow-xs"
+                style={{
+                  backgroundColor: 'var(--bg-primary)',
+                  borderColor: 'var(--border-color)',
+                  color: 'var(--accent)'
+                }}
+              >
+                <span className="font-display font-bold text-sm leading-none">L</span>
+              </div>
+              <span className="font-display font-bold tracking-widest text-sm hidden sm:inline" style={{ color: 'var(--accent)' }}>
+                LIBRETTO
+              </span>
+            </button>
+
+            {currentOpera ? (
+              <div className="flex items-center gap-1.5 min-w-0 truncate">
+                <span className="opacity-30 text-xs hidden sm:inline">•</span>
+                <span className="font-serif font-semibold text-xs sm:text-sm truncate" style={{ color: 'var(--text-primary)' }}>
+                  {currentOpera.title}
+                </span>
+                <span className="text-[11px] opacity-60 truncate hidden md:inline font-serif italic">
+                  — {currentComposerLast}
+                </span>
+              </div>
+            ) : (
+              <div className="flex items-center gap-1.5 min-w-0 truncate">
+                <span className="opacity-30 text-xs hidden sm:inline">•</span>
+                <span className="font-serif font-medium text-xs sm:text-sm truncate opacity-80">
+                  Opera Library Catalog
+                </span>
+              </div>
+            )}
+          </div>
+
+          {/* Right: Essential Reading Controls */}
+          <div className="flex items-center gap-1.5 sm:gap-2 shrink-0">
+            {currentOpera && (
+              <button
+                onClick={onOpenToc}
+                className="flex items-center gap-1.5 text-xs py-1.5 px-2 sm:px-2.5 rounded-lg border transition-colors hover:opacity-80 shrink-0 min-h-[32px] cursor-pointer"
+                style={{
+                  backgroundColor: 'var(--bg-primary)',
+                  borderColor: 'var(--border-color)',
+                  color: 'var(--text-secondary)'
+                }}
+                title="View Synopsis and Characters"
+              >
+                <BookOpen className="w-3.5 h-3.5" style={{ color: 'var(--accent)' }} />
+                <span className="font-medium hidden sm:inline">Cast</span>
+              </button>
+            )}
+
+            {/* Font Size Adjusters */}
+            <div 
+              className="flex items-center rounded-lg border divide-x shadow-2xs"
+              style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-primary)' }}
+            >
+              <button
+                onClick={() => onAdjustFontSize(-0.1)}
+                disabled={fontSizeMultiplier <= 0.8}
+                className="px-2 py-1 text-xs font-serif font-semibold hover:opacity-75 disabled:opacity-30 transition-opacity cursor-pointer"
+                title="Decrease font size"
+              >
+                A-
+              </button>
+              <button
+                onClick={() => onAdjustFontSize(0.1)}
+                disabled={fontSizeMultiplier >= 1.5}
+                className="px-2 py-1 text-xs font-serif font-semibold hover:opacity-75 disabled:opacity-30 transition-opacity cursor-pointer"
+                title="Increase font size"
+              >
+                A+
+              </button>
+            </div>
+
+            {/* Quick Theme Toggle */}
+            <div 
+              className="flex items-center p-0.5 gap-0.5 rounded-lg border shadow-2xs" 
+              style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-primary)' }}
+            >
+              <button
+                onClick={() => onSelectTheme('day')}
+                className={`p-1.5 rounded-md transition-all cursor-pointer ${theme === 'day' ? 'shadow-xs font-semibold' : 'opacity-60 hover:opacity-100'}`}
+                style={theme === 'day' ? { backgroundColor: 'var(--bg-tertiary)', color: 'var(--accent)' } : {}}
+                title="Day Mode (Warm Parchment)"
+              >
+                <Sun className="w-3.5 h-3.5" />
+              </button>
+              <button
+                onClick={() => onSelectTheme('night')}
+                className={`p-1.5 rounded-md transition-all cursor-pointer ${theme === 'night' ? 'shadow-xs font-semibold' : 'opacity-60 hover:opacity-100'}`}
+                style={theme === 'night' ? { backgroundColor: 'var(--bg-tertiary)', color: 'var(--accent)' } : {}}
+                title="Night Mode (Dark Obsidian)"
+              >
+                <Moon className="w-3.5 h-3.5" />
+              </button>
+              <button
+                onClick={() => onSelectTheme('astro-red')}
+                className={`p-1.5 rounded-md transition-all cursor-pointer ${theme === 'astro-red' ? 'shadow-xs font-semibold' : 'opacity-60 hover:opacity-100'}`}
+                style={theme === 'astro-red' ? { backgroundColor: '#2d0606', color: '#ef4444' } : {}}
+                title="Astro Red (Theater Night Vision)"
+              >
+                <Eye className="w-3.5 h-3.5" />
+              </button>
+            </div>
+
+            {/* Exit Fullscreen Button */}
+            <button
+              onClick={toggleFullscreen}
+              className="flex items-center gap-1.5 px-2.5 py-1.5 text-xs rounded-lg border font-medium transition-all hover:opacity-90 active:scale-95 shadow-2xs cursor-pointer min-h-[32px]"
+              style={{
+                backgroundColor: 'var(--bg-primary)',
+                borderColor: 'var(--border-active)',
+                color: 'var(--accent)'
+              }}
+              title="Exit Fullscreen (or press Escape)"
+              aria-label="Exit Fullscreen"
+            >
+              <Minimize2 className="w-3.5 h-3.5" />
+              <span className="font-serif hidden sm:inline text-xs font-semibold">Exit Fullscreen</span>
+            </button>
+          </div>
+        </div>
+      ) : (
+        /* Normal Mode Layout (Rows 1 & 2) */
+        <div className="max-w-7xl mx-auto flex flex-col lg:flex-row lg:items-center lg:justify-between gap-2 lg:gap-3">
         
         {/* Row 1 on Mobile & Tablet Portrait / Left Section on Desktop: Branding, Opera Selector, Synopsis, and Mobile Search */}
         <div className="flex items-center justify-between lg:justify-start gap-2 min-w-0 flex-1 lg:flex-initial">
@@ -817,26 +959,25 @@ export const Navbar: React.FC<NavbarProps> = ({
               <Info className="w-3.5 h-3.5" />
             </button>
 
-            {!isStandalone && (
-              <button
-                onClick={toggleFullscreen}
-                className="p-1.5 rounded-lg border transition-all hover:opacity-85 shadow-2xs cursor-pointer min-w-[32px] min-h-[32px] flex items-center justify-center"
-                style={{
-                  backgroundColor: 'var(--bg-primary)',
-                  borderColor: 'var(--border-color)',
-                  color: 'var(--accent)'
-                }}
-                title={isFullscreen ? "Exit Fullscreen" : "Enter Fullscreen"}
-                aria-label={isFullscreen ? "Exit Fullscreen" : "Enter Fullscreen"}
-              >
-                {isFullscreen ? <Minimize2 className="w-3.5 h-3.5" /> : <Maximize2 className="w-3.5 h-3.5" />}
-              </button>
-            )}
+            <button
+              onClick={toggleFullscreen}
+              className="p-1.5 rounded-lg border transition-all hover:opacity-85 shadow-2xs cursor-pointer min-w-[32px] min-h-[32px] flex items-center justify-center"
+              style={{
+                backgroundColor: 'var(--bg-primary)',
+                borderColor: 'var(--border-color)',
+                color: 'var(--accent)'
+              }}
+              title={isFullscreen ? "Exit Fullscreen" : "Enter Fullscreen"}
+              aria-label={isFullscreen ? "Exit Fullscreen" : "Enter Fullscreen"}
+            >
+              {isFullscreen ? <Minimize2 className="w-3.5 h-3.5" /> : <Maximize2 className="w-3.5 h-3.5" />}
+            </button>
           </div>
 
         </div>
 
       </div>
+      )}
 
       {/* Mobile Opera Search Modal (< lg) */}
       {isMobileSearchOpen && (
