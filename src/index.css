@@ -5,11 +5,13 @@
     --font-serif: 'Newsreader', 'EB Garamond', Georgia, serif;
     --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
     --font-display: 'Playfair Display', Georgia, serif;
+    color-scheme: light dark;
   }
 }
 
 /* Day Mode (Warm Parchment) */
 .theme-day {
+  color-scheme: light;
   --bg-primary: #fcfbf9;
   --bg-secondary: #f4f1ea;
   --bg-tertiary: #ebe5db;
@@ -25,10 +27,14 @@
   --speaker-text: #44403c;
   --token-bg: #e6dfd1;
   --token-hover: #d7cbba;
+  --scrollbar-thumb: #d6cebf;
+  --scrollbar-thumb-hover: #b5aa96;
+  --scrollbar-track: transparent;
 }
 
 /* Night Mode (Warm OLED Obsidian) */
 .theme-night {
+  color-scheme: dark;
   --bg-primary: #0a0b0d;
   --bg-secondary: #14161a;
   --bg-tertiary: #1e2127;
@@ -44,10 +50,14 @@
   --speaker-text: #fbbf24;
   --token-bg: #1c2027;
   --token-hover: #29303d;
+  --scrollbar-thumb: #2e333d;
+  --scrollbar-thumb-hover: #484f5e;
+  --scrollbar-track: transparent;
 }
 
 /* Astronomy / Red Theater Mode (Scotopic Night Vision Protection) */
 .theme-astro-red {
+  color-scheme: dark;
   --bg-primary: #000000;
   --bg-secondary: #0a0202;
   --bg-tertiary: #160404;
@@ -63,6 +73,9 @@
   --speaker-text: #fca5a5;
   --token-bg: #1e0505;
   --token-hover: #360909;
+  --scrollbar-thumb: #4a0d0d;
+  --scrollbar-thumb-hover: #7f1d1d;
+  --scrollbar-track: #0a0202;
 }
 
 body {
@@ -81,20 +94,64 @@ body {
   font-family: var(--font-display);
 }
 
-/* Custom smooth scrollbars */
+/* Custom smooth scrollbars matching theme variables on all engines */
+html,
+body,
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--scrollbar-thumb) var(--scrollbar-track);
+}
+
 ::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
+  width: 7px;
+  height: 7px;
 }
 ::-webkit-scrollbar-track {
-  background: transparent;
+  background: var(--scrollbar-track);
 }
 ::-webkit-scrollbar-thumb {
-  background: var(--border-color);
-  border-radius: 3px;
+  background: var(--scrollbar-thumb);
+  border-radius: 4px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: var(--text-muted);
+  background: var(--scrollbar-thumb-hover);
+}
+
+/* Form controls styling to match active theme */
+select,
+input,
+textarea,
+button {
+  font-family: inherit;
+  color-scheme: inherit;
+}
+
+select {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  border-color: var(--border-color);
+}
+
+select option {
+  background-color: var(--bg-secondary);
+  color: var(--text-primary);
+  font-family: var(--font-serif);
+}
+
+/* Themed text selection */
+.theme-day ::selection {
+  background: rgba(180, 83, 9, 0.22);
+  color: #1c1917;
+}
+
+.theme-night ::selection {
+  background: rgba(245, 158, 11, 0.25);
+  color: #f1f5f9;
+}
+
+.theme-astro-red ::selection {
+  background: rgba(239, 68, 68, 0.35);
+  color: #fca5a5;
 }
 
 @keyframes fadeIn {

@@ -246,7 +246,10 @@ export const VoiceSettingsModal: React.FC<VoiceSettingsModalProps> = ({
                                   </span>
                                 )}
                                 {isCompact && (
-                                  <span className="text-[10px] uppercase px-1.5 py-0.5 rounded font-semibold opacity-60 bg-gray-500/10 text-gray-400">
+                                  <span 
+                                    className="text-[10px] uppercase px-1.5 py-0.5 rounded font-semibold opacity-70 border"
+                                    style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)', color: 'var(--text-secondary)' }}
+                                  >
                                     Standard
                                   </span>
                                 )}

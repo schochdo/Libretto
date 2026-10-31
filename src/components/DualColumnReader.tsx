@@ -251,7 +251,7 @@ export const DualColumnReader: React.FC<DualColumnReaderProps> = ({
                       className={`group py-2.5 px-3 rounded-xl cursor-pointer transition-all duration-150 border ${
                         isActive 
                           ? 'shadow-sm' 
-                          : 'border-transparent hover:bg-black/5 dark:hover:bg-white/5'
+                          : 'border-transparent hover:bg-[var(--bg-tertiary)]'
                       }`}
                       style={{
                         backgroundColor: isActive ? 'var(--bg-active)' : 'transparent',
@@ -342,7 +342,7 @@ export const DualColumnReader: React.FC<DualColumnReaderProps> = ({
                     className={`group grid grid-cols-2 gap-4 sm:gap-8 py-2 px-3 rounded-lg cursor-pointer transition-all duration-150 ${
                       isActive 
                         ? 'shadow-sm' 
-                        : 'hover:bg-black/5 dark:hover:bg-white/5'
+                        : 'hover:bg-[var(--bg-tertiary)]'
                     }`}
                     style={{
                       backgroundColor: isActive ? 'var(--bg-active)' : 'transparent',

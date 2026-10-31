@@ -12,6 +12,7 @@ import {
   Minimize2,
   BookOpen,
   Library,
+  Check,
   X
 } from 'lucide-react';
 
@@ -78,6 +79,57 @@ export const Navbar: React.FC<NavbarProps> = ({
       return a.title.localeCompare(b.title);
     });
   }, [catalog]);
+
+  const [isOperaDropdownOpen, setIsOperaDropdownOpen] = React.useState(false);
+  const [operaFilterQuery, setOperaFilterQuery] = React.useState('');
+  const operaDropdownRef = React.useRef<HTMLDivElement>(null);
+
+  // Click outside to close opera dropdown
+  React.useEffect(() => {
+    const handleClickOutside = (e: MouseEvent) => {
+      if (operaDropdownRef.current && !operaDropdownRef.current.contains(e.target as Node)) {
+        setIsOperaDropdownOpen(false);
+      }
+    };
+    if (isOperaDropdownOpen) {
+      document.addEventListener('mousedown', handleClickOutside);
+    }
+    return () => document.removeEventListener('mousedown', handleClickOutside);
+  }, [isOperaDropdownOpen]);
+
+  // Escape key to close opera dropdown
+  React.useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (isOperaDropdownOpen && e.key === 'Escape') {
+        setIsOperaDropdownOpen(false);
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [isOperaDropdownOpen]);
+
+  const currentSummary = React.useMemo(() => {
+    return catalog.find(o => o.id === currentOperaId);
+  }, [catalog, currentOperaId]);
+
+  const currentComposerLast = currentSummary 
+    ? (currentSummary.composer.split(' ').pop() || currentSummary.composer)
+    : '';
+
+  const currentTitle = currentSummary
+    ? (currentSummary.id === 'die-zauberfloete' ? 'Die Zauberflöte' : currentSummary.title)
+    : '';
+
+  const filteredDropdownCatalog = React.useMemo(() => {
+    if (!operaFilterQuery.trim()) return sortedCatalog;
+    const q = operaFilterQuery.toLowerCase().trim();
+    return sortedCatalog.filter(op => 
+      op.title.toLowerCase().includes(q) ||
+      op.composer.toLowerCase().includes(q) ||
+      op.originalTitle?.toLowerCase().includes(q) ||
+      op.languageLabel.toLowerCase().includes(q)
+    );
+  }, [sortedCatalog, operaFilterQuery]);
 
   const searchResults = React.useMemo(() => {
     if (!currentOpera || !searchQuery || searchQuery.trim().length < 2) return [];
@@ -270,39 +322,184 @@ export const Navbar: React.FC<NavbarProps> = ({
               <span>Catalog</span>
             </button>
 
-            {/* Opera Dropdown (Fine book-binding style) */}
-            <div className="relative flex-1 min-w-0 max-w-full sm:max-w-md lg:max-w-[210px] xl:max-w-xs 2xl:max-w-md">
-              <select
-                value={currentView === 'catalog' ? '__catalog__' : currentOperaId}
-                onChange={(e) => {
-                  if (e.target.value === '__catalog__') {
-                    onNavigateToCatalog();
-                  } else {
-                    onSelectOpera(e.target.value);
-                  }
+            {/* Themed Opera Dropdown (Fine book-binding style) */}
+            <div ref={operaDropdownRef} className="relative flex-1 min-w-0 max-w-full sm:max-w-md lg:max-w-[210px] xl:max-w-xs 2xl:max-w-md">
+              <button
+                type="button"
+                onClick={() => {
+                  setIsOperaDropdownOpen(!isOperaDropdownOpen);
+                  setOperaFilterQuery('');
                 }}
-                className="w-full appearance-none font-serif text-xs sm:text-sm py-1.5 pl-3 pr-7 rounded-lg border cursor-pointer focus:outline-none focus:ring-1 transition-all truncate font-medium shadow-xs"
+                className="w-full flex items-center justify-between gap-1.5 font-serif text-xs sm:text-sm py-1.5 pl-3 pr-2.5 rounded-lg border cursor-pointer focus:outline-none transition-all truncate font-medium shadow-xs select-none hover:opacity-95 active:scale-98"
                 style={{
                   backgroundColor: 'var(--bg-primary)',
-                  borderColor: 'var(--border-color)',
+                  borderColor: isOperaDropdownOpen ? 'var(--border-active)' : 'var(--border-color)',
                   color: 'var(--text-primary)',
                 }}
+                title={currentView === 'catalog' ? 'Opera Library (21 Operas)' : `${currentSummary?.composer}: ${currentTitle}`}
+                aria-haspopup="listbox"
+                aria-expanded={isOperaDropdownOpen}
               >
-                <option value="__catalog__">✦ Browse Library (21 Operas)</option>
-                {sortedCatalog.map((op) => {
-                  const composerLast = op.composer.split(' ').pop() || op.composer;
-                  const title = op.id === 'die-zauberfloete'
-                    ? 'Die Zauberflöte (The Magic Flute)'
-                    : op.title;
-                  const label = `${composerLast}: ${title} [${op.languageLabel}]`;
-                  return (
-                    <option key={op.id} value={op.id}>
-                      {label}
-                    </option>
-                  );
-                })}
-              </select>
-              <ChevronDown className="w-3.5 h-3.5 absolute right-2 top-1/2 -translate-y-1/2 pointer-events-none opacity-50" />
+                <div className="flex items-center gap-1.5 truncate min-w-0 flex-1">
+                  {currentView === 'catalog' ? (
+                    <span className="truncate flex items-center gap-1 font-semibold" style={{ color: 'var(--accent)' }}>
+                      <span>✦</span>
+                      <span>Browse Library (21 Operas)</span>
+                    </span>
+                  ) : (
+                    <>
+                      <span style={{ color: 'var(--accent)' }} className="font-bold shrink-0">
+                        {currentComposerLast}:
+                      </span>
+                      <span className="truncate">
+                        {currentTitle}
+                      </span>
+                      {currentSummary?.languageLabel && (
+                        <span 
+                          className="text-[10px] px-1.5 py-0.2 rounded border opacity-65 shrink-0 hidden md:inline font-sans"
+                          style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}
+                        >
+                          {currentSummary.languageLabel}
+                        </span>
+                      )}
+                    </>
+                  )}
+                </div>
+                <ChevronDown className={`w-3.5 h-3.5 shrink-0 opacity-50 transition-transform duration-200 ${isOperaDropdownOpen ? 'rotate-180' : ''}`} />
+              </button>
+
+              {/* Themed Opera Popover Menu */}
+              {isOperaDropdownOpen && (
+                <div 
+                  className="absolute left-0 top-full mt-1.5 w-[min(94vw,22rem)] sm:w-[26rem] md:w-[28rem] rounded-xl border shadow-2xl z-50 overflow-hidden animate-fadeIn backdrop-blur-md flex flex-col"
+                  style={{
+                    backgroundColor: 'var(--bg-secondary)',
+                    borderColor: 'var(--border-color)',
+                    color: 'var(--text-primary)'
+                  }}
+                  role="listbox"
+                >
+                  {/* Top Browse Library Option */}
+                  <div className="p-1.5 border-b shrink-0" style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}>
+                    <button
+                      type="button"
+                      onClick={() => {
+                        onNavigateToCatalog();
+                        setIsOperaDropdownOpen(false);
+                      }}
+                      className={`w-full text-left px-3 py-2 rounded-lg text-xs sm:text-sm font-medium transition-all flex items-center justify-between gap-2.5 cursor-pointer ${
+                        currentView === 'catalog' ? 'font-bold shadow-2xs' : 'hover:opacity-90'
+                      }`}
+                      style={{
+                        backgroundColor: currentView === 'catalog' ? 'var(--bg-active)' : 'var(--bg-primary)',
+                        borderColor: currentView === 'catalog' ? 'var(--border-active)' : 'var(--border-color)',
+                        color: currentView === 'catalog' ? 'var(--accent)' : 'var(--text-primary)'
+                      }}
+                    >
+                      <div className="flex items-center gap-2 min-w-0 flex-1">
+                        <Library className="w-4 h-4 shrink-0" style={{ color: 'var(--accent)' }} />
+                        <div className="min-w-0">
+                          <div className="font-semibold text-xs sm:text-sm">✦ Browse Library (21 Operas)</div>
+                          <div className="text-[11px] opacity-70 font-sans truncate">View full catalog gallery, composers & synopses</div>
+                        </div>
+                      </div>
+                      {currentView === 'catalog' && (
+                        <Check className="w-4 h-4 shrink-0" style={{ color: 'var(--accent)' }} />
+                      )}
+                    </button>
+                  </div>
+
+                  {/* Filter Input */}
+                  <div className="p-2 border-b shrink-0" style={{ borderColor: 'var(--border-color)' }}>
+                    <div className="relative">
+                      <Search className="w-3.5 h-3.5 absolute left-2.5 top-1/2 -translate-y-1/2 opacity-50" />
+                      <input
+                        type="text"
+                        autoFocus
+                        value={operaFilterQuery}
+                        onChange={(e) => setOperaFilterQuery(e.target.value)}
+                        placeholder="Filter 21 operas or composers..."
+                        className="w-full text-xs py-1.5 pl-8 pr-7 rounded-lg border focus:outline-none transition-colors"
+                        style={{
+                          backgroundColor: 'var(--bg-primary)',
+                          borderColor: 'var(--border-color)',
+                          color: 'var(--text-primary)'
+                        }}
+                      />
+                      {operaFilterQuery && (
+                        <button
+                          type="button"
+                          onClick={() => setOperaFilterQuery('')}
+                          className="absolute right-2 top-1/2 -translate-y-1/2 text-xs opacity-50 hover:opacity-100 p-0.5 cursor-pointer"
+                        >
+                          <X className="w-3 h-3" />
+                        </button>
+                      )}
+                    </div>
+                  </div>
+
+                  {/* Scrollable Opera List */}
+                  <div className="max-h-[min(60dvh,20rem)] overflow-y-auto p-1.5 space-y-0.5 divide-y divide-[var(--border-color)]/25 overscroll-contain">
+                    {filteredDropdownCatalog.length === 0 ? (
+                      <div className="p-4 text-center text-xs opacity-60 italic font-serif">
+                        No operas match "{operaFilterQuery}"
+                      </div>
+                    ) : (
+                      filteredDropdownCatalog.map((op) => {
+                        const isCurrent = currentView === 'reader' && op.id === currentOperaId;
+                        const compLast = op.composer.split(' ').pop() || op.composer;
+                        const dispTitle = op.id === 'die-zauberfloete'
+                          ? 'Die Zauberflöte (The Magic Flute)'
+                          : op.title;
+
+                        return (
+                          <button
+                            key={op.id}
+                            type="button"
+                            onClick={() => {
+                              onSelectOpera(op.id);
+                              setIsOperaDropdownOpen(false);
+                            }}
+                            className={`w-full text-left px-2.5 py-2 rounded-lg text-xs sm:text-sm transition-all flex items-center justify-between gap-2.5 cursor-pointer ${
+                              isCurrent ? 'font-semibold shadow-2xs' : 'hover:opacity-90'
+                            }`}
+                            style={{
+                              backgroundColor: isCurrent ? 'var(--bg-active)' : 'transparent',
+                              color: 'var(--text-primary)'
+                            }}
+                            role="option"
+                            aria-selected={isCurrent}
+                          >
+                            <div className="min-w-0 flex-1">
+                              <div className="flex items-center gap-1.5">
+                                <span 
+                                  className="font-serif font-bold text-[11px] uppercase tracking-wider shrink-0"
+                                  style={{ color: 'var(--accent)' }}
+                                >
+                                  {compLast}
+                                </span>
+                                <span className="opacity-30 text-[10px]">•</span>
+                                <span 
+                                  className="text-[10px] px-1.5 py-0.2 rounded font-sans opacity-75 shrink-0 border"
+                                  style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}
+                                >
+                                  {op.languageLabel}
+                                </span>
+                              </div>
+                              <div className="font-display font-medium text-xs sm:text-sm leading-snug truncate mt-0.5">
+                                {dispTitle}
+                              </div>
+                            </div>
+                            {isCurrent && (
+                              <Check className="w-4 h-4 shrink-0" style={{ color: 'var(--accent)' }} />
+                            )}
+                          </button>
+                        );
+                      })
+                    )}
+                  </div>
+                </div>
+              )}
             </div>
           </div>
 
@@ -392,7 +589,10 @@ export const Navbar: React.FC<NavbarProps> = ({
                 style={{ borderColor: 'var(--border-color)' }}
               >
                 <span>Matches across {currentOpera?.title || 'Opera'}</span>
-                <span className="text-[10px] px-1.5 py-0.5 rounded-full bg-black/10 dark:bg-white/10 font-bold">
+                <span 
+                  className="text-[10px] px-1.5 py-0.5 rounded-full font-bold border"
+                  style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)', color: 'var(--accent)' }}
+                >
                   {searchResults.length} {searchResults.length === 1 ? 'match' : 'matches'}{searchResults.length >= 25 ? '+' : ''}
                 </span>
               </div>
@@ -412,7 +612,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                         }
                         setIsSearchFocused(false);
                       }}
-                      className="w-full text-left p-2 rounded-lg transition-colors hover:bg-black/5 dark:hover:bg-white/5 space-y-0.5 cursor-pointer"
+                      className="w-full text-left p-2 rounded-lg transition-colors hover:bg-[var(--bg-tertiary)] space-y-0.5 cursor-pointer"
                     >
                       <div className="flex items-center justify-between text-[10px] opacity-70">
                         <span className="font-semibold uppercase tracking-wider" style={{ color: 'var(--accent)' }}>
@@ -627,7 +827,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                         }
                         setIsMobileSearchOpen(false);
                       }}
-                      className="w-full text-left p-2.5 rounded-xl border transition-all hover:bg-black/5 dark:hover:bg-white/5 space-y-1 cursor-pointer"
+                      className="w-full text-left p-2.5 rounded-xl border transition-all hover:bg-[var(--bg-tertiary)] space-y-1 cursor-pointer"
                       style={{
                         backgroundColor: 'var(--bg-primary)',
                         borderColor: 'var(--border-color)'

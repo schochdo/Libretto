@@ -1,6 +1,7 @@
 import React, { useState, useMemo } from 'react';
 import { OperaSummary } from '../types/libretto';
 import { Search, BookOpen, Music, Globe, ListFilter, ArrowRight } from 'lucide-react';
+import { ThemedDropdown } from './ThemedDropdown';
 
 interface CatalogViewProps {
   catalog: OperaSummary[];
@@ -37,6 +38,31 @@ export const CatalogView: React.FC<CatalogViewProps> = ({
     catalog.forEach(o => map.set(o.language, o.languageLabel));
     return Array.from(map.entries()).map(([code, label]) => ({ code, label }));
   }, [catalog]);
+
+  const languageOptions = useMemo(() => [
+    { value: 'all', label: 'All Languages', count: catalog.length },
+    ...languages.map(l => ({
+      value: l.code,
+      label: l.label,
+      count: catalog.filter(o => o.language === l.code).length
+    }))
+  ], [languages, catalog]);
+
+  const composerOptions = useMemo(() => [
+    { value: 'all', label: 'All Composers', count: composers.length },
+    ...composers.map(c => ({
+      value: c,
+      label: c,
+      count: catalog.filter(o => o.composer === c).length
+    }))
+  ], [composers, catalog]);
+
+  const sortOptions = useMemo(() => [
+    { value: 'composer', label: 'Composer Surname' },
+    { value: 'year-asc', label: 'Chronological (Earliest)' },
+    { value: 'year-desc', label: 'Chronological (Latest)' },
+    { value: 'title', label: 'Title (A–Z)' }
+  ], []);
 
   // Filter and sort catalog
   const filteredCatalog = useMemo(() => {
@@ -174,40 +200,22 @@ export const CatalogView: React.FC<CatalogViewProps> = ({
             <div className="flex flex-wrap items-center gap-2 sm:gap-3 text-xs">
               
               {/* Language Filter */}
-              <div className="flex items-center gap-1.5">
-                <Globe className="w-3.5 h-3.5 opacity-55" />
-                <select
-                  value={selectedLanguage}
-                  onChange={(e) => setSelectedLanguage(e.target.value)}
-                  className="px-2.5 py-1.5 rounded-lg border bg-transparent font-medium cursor-pointer focus:outline-none"
-                  style={{ borderColor: 'var(--border-color)', color: 'var(--text-primary)' }}
-                >
-                  <option value="all">All Languages ({catalog.length})</option>
-                  {languages.map(l => (
-                    <option key={l.code} value={l.code}>
-                      {l.label} ({catalog.filter(o => o.language === l.code).length})
-                    </option>
-                  ))}
-                </select>
-              </div>
+              <ThemedDropdown
+                value={selectedLanguage}
+                onChange={setSelectedLanguage}
+                options={languageOptions}
+                icon={<Globe className="w-3.5 h-3.5" />}
+                menuWidthClass="w-48"
+              />
 
               {/* Composer Filter */}
-              <div className="flex items-center gap-1.5">
-                <Music className="w-3.5 h-3.5 opacity-55" />
-                <select
-                  value={selectedComposer}
-                  onChange={(e) => setSelectedComposer(e.target.value)}
-                  className="px-2.5 py-1.5 rounded-lg border bg-transparent font-medium cursor-pointer focus:outline-none"
-                  style={{ borderColor: 'var(--border-color)', color: 'var(--text-primary)' }}
-                >
-                  <option value="all">All Composers ({composers.length})</option>
-                  {composers.map(c => (
-                    <option key={c} value={c}>
-                      {c} ({catalog.filter(o => o.composer === c).length})
-                    </option>
-                  ))}
-                </select>
-              </div>
+              <ThemedDropdown
+                value={selectedComposer}
+                onChange={setSelectedComposer}
+                options={composerOptions}
+                icon={<Music className="w-3.5 h-3.5" />}
+                menuWidthClass="w-56"
+              />
 
               {/* Reset Filters button if any active */}
               {(selectedLanguage !== 'all' || selectedComposer !== 'all' || searchQuery) && (
@@ -231,20 +239,15 @@ export const CatalogView: React.FC<CatalogViewProps> = ({
                 {filteredCatalog.length} of {catalog.length} operas
               </span>
 
-              <div className="flex items-center gap-1.5">
-                <ListFilter className="w-3.5 h-3.5 opacity-55" />
-                <select
-                  value={sortBy}
-                  onChange={(e) => setSortBy(e.target.value as SortOption)}
-                  className="px-2.5 py-1.5 rounded-lg border bg-transparent font-medium cursor-pointer focus:outline-none"
-                  style={{ borderColor: 'var(--border-color)', color: 'var(--text-primary)' }}
-                >
-                  <option value="composer">Sort: Composer Surname</option>
-                  <option value="year-asc">Sort: Chronological (Earliest)</option>
-                  <option value="year-desc">Sort: Chronological (Latest)</option>
-                  <option value="title">Sort: Title (A–Z)</option>
-                </select>
-              </div>
+              <ThemedDropdown
+                value={sortBy}
+                onChange={(val) => setSortBy(val as SortOption)}
+                options={sortOptions}
+                prefix="Sort: "
+                icon={<ListFilter className="w-3.5 h-3.5" />}
+                menuWidthClass="w-56"
+                align="right"
+              />
             </div>
 
           </div>
