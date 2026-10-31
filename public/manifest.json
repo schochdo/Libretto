@@ -4,8 +4,8 @@
   "description": "Interactive dual-column opera libretto study companion with linguistic inspection and speech.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#0a0202",
+  "background_color": "#14161a",
+  "theme_color": "#14161a",
   "icons": [
     {
       "src": "/icon.svg",

@@ -183,12 +183,45 @@ export const Navbar: React.FC<NavbarProps> = ({
     }
   };
 
+  const [isStandalone, setIsStandalone] = React.useState<boolean>(() => {
+    if (typeof window === 'undefined') return false;
+    return (
+      window.matchMedia('(display-mode: standalone)').matches ||
+      window.matchMedia('(display-mode: fullscreen)').matches ||
+      (window.navigator as any).standalone === true
+    );
+  });
+
+  React.useEffect(() => {
+    if (typeof window === 'undefined' || !window.matchMedia) return;
+    const mql = window.matchMedia('(display-mode: standalone)');
+    const handler = (e: MediaQueryListEvent) => setIsStandalone(e.matches);
+    try {
+      mql.addEventListener('change', handler);
+      return () => mql.removeEventListener('change', handler);
+    } catch (_) {}
+  }, []);
+
+  const headerPaddingTop = React.useMemo(() => {
+    // 1. If in HTML5 Fullscreen (Safari on iPad / tablet), clear the status bar clock & battery readings cleanly
+    if (isFullscreen) {
+      return 'max(2.5rem, calc(env(safe-area-inset-top) + 1rem))';
+    }
+    // 2. If running as an installed standalone desktop / home screen application, clear the top status bar cleanly
+    if (isStandalone) {
+      return 'max(1.75rem, calc(env(safe-area-inset-top) + 0.5rem))';
+    }
+    // 3. Normal browser mode: safe area if any, plus standard padding
+    return 'max(0.5rem, env(safe-area-inset-top))';
+  }, [isFullscreen, isStandalone]);
+
   return (
-    <header className="sticky top-0 z-30 border-b backdrop-blur-md px-3 sm:px-6 py-2 sm:py-2.5 transition-colors pt-[max(0.5rem,env(safe-area-inset-top))]"
+    <header className="sticky top-0 z-30 border-b px-3 sm:px-6 py-2 sm:py-2.5 transition-all"
       style={{
         backgroundColor: 'var(--bg-secondary)',
         borderColor: 'var(--border-color)',
-        color: 'var(--text-primary)'
+        color: 'var(--text-primary)',
+        paddingTop: headerPaddingTop
       }}
     >
       <div className="max-w-7xl mx-auto flex flex-col lg:flex-row lg:items-center lg:justify-between gap-2 lg:gap-3">
@@ -492,19 +525,21 @@ export const Navbar: React.FC<NavbarProps> = ({
               <Info className="w-3.5 h-3.5" />
             </button>
 
-            <button
-              onClick={toggleFullscreen}
-              className="p-1.5 rounded-lg border transition-all hover:opacity-85 shadow-2xs cursor-pointer min-w-[32px] min-h-[32px] flex items-center justify-center"
-              style={{
-                backgroundColor: 'var(--bg-primary)',
-                borderColor: 'var(--border-color)',
-                color: 'var(--accent)'
-              }}
-              title={isFullscreen ? "Exit Fullscreen" : "Enter Fullscreen"}
-              aria-label={isFullscreen ? "Exit Fullscreen" : "Enter Fullscreen"}
-            >
-              {isFullscreen ? <Minimize2 className="w-3.5 h-3.5" /> : <Maximize2 className="w-3.5 h-3.5" />}
-            </button>
+            {!isStandalone && (
+              <button
+                onClick={toggleFullscreen}
+                className="p-1.5 rounded-lg border transition-all hover:opacity-85 shadow-2xs cursor-pointer min-w-[32px] min-h-[32px] flex items-center justify-center"
+                style={{
+                  backgroundColor: 'var(--bg-primary)',
+                  borderColor: 'var(--border-color)',
+                  color: 'var(--accent)'
+                }}
+                title={isFullscreen ? "Exit Fullscreen" : "Enter Fullscreen"}
+                aria-label={isFullscreen ? "Exit Fullscreen" : "Enter Fullscreen"}
+              >
+                {isFullscreen ? <Minimize2 className="w-3.5 h-3.5" /> : <Maximize2 className="w-3.5 h-3.5" />}
+              </button>
+            )}
           </div>
 
         </div>

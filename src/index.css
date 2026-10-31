@@ -114,3 +114,29 @@ body {
 .animate-slideUp {
   animation: slideUp 0.24s cubic-bezier(0.16, 1, 0.3, 1) forwards;
 }
+
+/* Fullscreen safe-area adjustments for tablet/mobile status bar (clock & battery clearance) */
+:fullscreen header,
+:-webkit-full-screen header {
+  padding-top: max(2.5rem, calc(env(safe-area-inset-top) + 1rem)) !important;
+}
+
+/* Standalone PWA display-mode adjustments */
+@media all and (display-mode: standalone) {
+  header {
+    padding-top: max(1.75rem, calc(env(safe-area-inset-top) + 0.5rem));
+  }
+}
+
+/* Ensure header and interactive elements never capture window dragging or block taps */
+header {
+  -webkit-app-region: no-drag;
+}
+
+header button,
+header select,
+header input,
+header a {
+  -webkit-app-region: no-drag;
+  touch-action: manipulation;
+}
