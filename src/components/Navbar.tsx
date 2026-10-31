@@ -191,14 +191,14 @@ export const Navbar: React.FC<NavbarProps> = ({
         color: 'var(--text-primary)'
       }}
     >
-      <div className="max-w-7xl mx-auto flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 sm:gap-3">
+      <div className="max-w-7xl mx-auto flex flex-col lg:flex-row lg:items-center lg:justify-between gap-2 lg:gap-3">
         
-        {/* Row 1 on Mobile / Left Section on Desktop: Branding, Opera Selector, Synopsis, and Mobile Fullscreen */}
-        <div className="flex items-center justify-between sm:justify-start gap-2 shrink-0">
-          <div className="flex items-center gap-2 sm:gap-2.5 min-w-0 flex-1 sm:flex-initial">
+        {/* Row 1 on Mobile & Tablet Portrait / Left Section on Desktop: Branding, Opera Selector, Synopsis, and Mobile Search */}
+        <div className="flex items-center justify-between lg:justify-start gap-2 min-w-0 flex-1 lg:flex-initial">
+          <div className="flex items-center gap-2 sm:gap-2.5 min-w-0 flex-1 lg:flex-initial">
             <button
               onClick={onNavigateToCatalog}
-              className="flex items-center gap-2 sm:gap-2.5 text-left cursor-pointer hover:opacity-85 transition-opacity select-none group"
+              className="flex items-center gap-2 sm:gap-2.5 text-left cursor-pointer hover:opacity-85 transition-opacity select-none group shrink-0"
               title="Return to Opera Library Catalog"
               aria-label="Libretto Library Catalog"
             >
@@ -212,11 +212,11 @@ export const Navbar: React.FC<NavbarProps> = ({
               >
                 <span className="font-display font-bold text-sm sm:text-base leading-none">L</span>
               </div>
-              <div className="hidden md:block shrink-0">
+              <div className="hidden sm:block shrink-0">
                 <span className="font-display font-bold tracking-widest text-sm sm:text-base block leading-tight whitespace-nowrap" style={{ color: 'var(--accent)' }}>
                   LIBRETTO
                 </span>
-                <span className="text-[10px] tracking-wider uppercase opacity-65 whitespace-nowrap font-medium block">
+                <span className="text-[10px] tracking-wider uppercase opacity-65 whitespace-nowrap font-medium hidden sm:block lg:hidden xl:block">
                   Study Edition
                 </span>
               </div>
@@ -238,7 +238,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             </button>
 
             {/* Opera Dropdown (Fine book-binding style) */}
-            <div className="relative flex-1 min-w-0 sm:flex-initial">
+            <div className="relative flex-1 min-w-0 max-w-full sm:max-w-md lg:max-w-[210px] xl:max-w-xs 2xl:max-w-md">
               <select
                 value={currentView === 'catalog' ? '__catalog__' : currentOperaId}
                 onChange={(e) => {
@@ -248,7 +248,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                     onSelectOpera(e.target.value);
                   }
                 }}
-                className="w-full sm:w-auto appearance-none font-serif text-xs sm:text-sm py-1.5 pl-3 pr-8 rounded-lg border cursor-pointer focus:outline-none focus:ring-1 transition-all max-w-full sm:max-w-xs md:max-w-md truncate font-medium shadow-xs"
+                className="w-full appearance-none font-serif text-xs sm:text-sm py-1.5 pl-3 pr-7 rounded-lg border cursor-pointer focus:outline-none focus:ring-1 transition-all truncate font-medium shadow-xs"
                 style={{
                   backgroundColor: 'var(--bg-primary)',
                   borderColor: 'var(--border-color)',
@@ -269,13 +269,13 @@ export const Navbar: React.FC<NavbarProps> = ({
                   );
                 })}
               </select>
-              <ChevronDown className="w-3.5 h-3.5 absolute right-2.5 top-1/2 -translate-y-1/2 pointer-events-none opacity-50" />
+              <ChevronDown className="w-3.5 h-3.5 absolute right-2 top-1/2 -translate-y-1/2 pointer-events-none opacity-50" />
             </div>
           </div>
 
-          {/* Quick Actions (Synopsis, Mobile Search, & Mobile Fullscreen) */}
+          {/* Quick Actions (Search for < lg, Synopsis & Cast) */}
           <div className="flex items-center gap-1.5 shrink-0">
-            {/* Search Button for Mobile (< lg) */}
+            {/* Search Button for Mobile & Tablet (< lg) */}
             <button
               onClick={() => setIsMobileSearchOpen(true)}
               className="lg:hidden p-1.5 rounded-lg border transition-colors hover:opacity-80 shrink-0 cursor-pointer min-w-[32px] min-h-[32px] flex items-center justify-center"
@@ -294,7 +294,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             <button
               onClick={onOpenToc}
               disabled={!currentOpera}
-              className="flex items-center gap-1.5 text-xs sm:text-sm py-1.5 px-2 sm:px-2.5 rounded-lg border transition-colors hover:opacity-80 disabled:opacity-40 disabled:cursor-not-allowed shrink-0 min-h-[32px]"
+              className="flex items-center gap-1.5 text-xs sm:text-sm py-1.5 px-2 sm:px-2.5 rounded-lg border transition-colors hover:opacity-80 disabled:opacity-40 disabled:cursor-not-allowed shrink-0 min-h-[32px] cursor-pointer"
               style={{
                 backgroundColor: 'var(--bg-tertiary)',
                 borderColor: 'var(--border-color)',
@@ -303,29 +303,14 @@ export const Navbar: React.FC<NavbarProps> = ({
               title="View Synopsis and Characters"
             >
               <BookOpen className="w-3.5 h-3.5" style={{ color: 'var(--accent)' }} />
-              <span className="font-medium hidden md:inline">Synopsis & Cast</span>
-              <span className="font-medium hidden min-[360px]:inline md:hidden">Cast</span>
-            </button>
-
-            {/* Mobile Fullscreen Button: Always visible right in the top navbar row on mobile */}
-            <button
-              onClick={toggleFullscreen}
-              className="sm:hidden p-1.5 rounded-lg border transition-colors hover:opacity-80 shrink-0 min-w-[32px] min-h-[32px] flex items-center justify-center cursor-pointer"
-              style={{
-                backgroundColor: 'var(--bg-tertiary)',
-                borderColor: 'var(--border-color)',
-                color: 'var(--accent)'
-              }}
-              title={isFullscreen ? "Exit Fullscreen" : "Enter Fullscreen"}
-              aria-label={isFullscreen ? "Exit Fullscreen" : "Enter Fullscreen"}
-            >
-              {isFullscreen ? <Minimize2 className="w-3.5 h-3.5" /> : <Maximize2 className="w-3.5 h-3.5" />}
+              <span className="font-medium hidden sm:inline lg:hidden xl:inline">Synopsis & Cast</span>
+              <span className="font-medium hidden min-[360px]:inline sm:hidden lg:inline xl:hidden">Cast</span>
             </button>
           </div>
         </div>
 
         {/* Center / Right: Search Bar with Opera-Wide Results Dropdown (Desktop lg:) */}
-        <div ref={searchContainerRef} className="relative flex-1 max-w-sm hidden lg:block">
+        <div ref={searchContainerRef} className="relative flex-1 min-w-[130px] max-w-[190px] xl:max-w-xs 2xl:max-w-sm hidden lg:block">
           <Search className="w-3.5 h-3.5 absolute left-3 top-1/2 -translate-y-1/2 opacity-50" />
           <input
             type="text"
@@ -416,12 +401,12 @@ export const Navbar: React.FC<NavbarProps> = ({
           )}
         </div>
 
-        {/* Row 2 on Mobile / Right Controls on Desktop: Reading Palette */}
-        <div className="flex items-center justify-between sm:justify-end gap-2 pt-1 sm:pt-0 border-t sm:border-t-0 border-[var(--border-color)]/30 sm:border-transparent">
+        {/* Row 2 on Mobile & Tablet Portrait / Right Controls on Desktop: Reading Palette & Utilities */}
+        <div className="flex items-center justify-between lg:justify-end gap-2 pt-1.5 lg:pt-0 border-t lg:border-t-0 border-[var(--border-color)]/30 lg:border-transparent shrink-0">
           
           {/* Reading Controls Palette: Font Size & Theme */}
           <div 
-            className="flex items-center rounded-lg border shadow-2xs divide-x transition-colors"
+            className="flex items-center rounded-lg border shadow-2xs divide-x transition-colors shrink-0"
             style={{ 
               borderColor: 'var(--border-color)', 
               backgroundColor: 'var(--bg-primary)' 
@@ -432,7 +417,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               <button
                 onClick={() => onAdjustFontSize(-0.1)}
                 disabled={fontSizeMultiplier <= 0.8}
-                className="px-2 py-1 text-xs font-serif font-semibold hover:opacity-75 disabled:opacity-30 transition-opacity"
+                className="px-2 py-1 text-xs font-serif font-semibold hover:opacity-75 disabled:opacity-30 transition-opacity cursor-pointer"
                 title="Decrease font size"
               >
                 A-
@@ -440,7 +425,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               <button
                 onClick={() => onAdjustFontSize(0.1)}
                 disabled={fontSizeMultiplier >= 1.5}
-                className="px-2 py-1 text-xs font-serif font-semibold hover:opacity-75 disabled:opacity-30 transition-opacity"
+                className="px-2 py-1 text-xs font-serif font-semibold hover:opacity-75 disabled:opacity-30 transition-opacity cursor-pointer"
                 title="Increase font size"
               >
                 A+
@@ -451,7 +436,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             <div className="flex items-center p-0.5 gap-0.5" style={{ borderColor: 'var(--border-color)' }}>
               <button
                 onClick={() => onSelectTheme('day')}
-                className={`p-1.5 rounded-md transition-all ${theme === 'day' ? 'shadow-xs font-semibold' : 'opacity-60 hover:opacity-100'}`}
+                className={`p-1.5 rounded-md transition-all cursor-pointer ${theme === 'day' ? 'shadow-xs font-semibold' : 'opacity-60 hover:opacity-100'}`}
                 style={theme === 'day' ? { backgroundColor: 'var(--bg-tertiary)', color: 'var(--accent)' } : {}}
                 title="Day Mode (Warm Parchment)"
               >
@@ -459,7 +444,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               </button>
               <button
                 onClick={() => onSelectTheme('night')}
-                className={`p-1.5 rounded-md transition-all ${theme === 'night' ? 'shadow-xs font-semibold' : 'opacity-60 hover:opacity-100'}`}
+                className={`p-1.5 rounded-md transition-all cursor-pointer ${theme === 'night' ? 'shadow-xs font-semibold' : 'opacity-60 hover:opacity-100'}`}
                 style={theme === 'night' ? { backgroundColor: 'var(--bg-tertiary)', color: 'var(--accent)' } : {}}
                 title="Night Mode (Dark Obsidian)"
               >
@@ -467,7 +452,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               </button>
               <button
                 onClick={() => onSelectTheme('astro-red')}
-                className={`p-1.5 rounded-md transition-all ${theme === 'astro-red' ? 'shadow-xs font-semibold' : 'opacity-60 hover:opacity-100'}`}
+                className={`p-1.5 rounded-md transition-all cursor-pointer ${theme === 'astro-red' ? 'shadow-xs font-semibold' : 'opacity-60 hover:opacity-100'}`}
                 style={theme === 'astro-red' ? { backgroundColor: '#2d0606', color: '#ef4444' } : {}}
                 title="Astro Red (Theater Night Vision)"
               >
@@ -476,11 +461,11 @@ export const Navbar: React.FC<NavbarProps> = ({
             </div>
           </div>
 
-          {/* Secondary Utilities: Voice, About, Fullscreen */}
-          <div className="flex items-center gap-1.5">
+          {/* Secondary Utilities: Voice, About, Fullscreen (Always rendered & never cropped) */}
+          <div className="flex items-center gap-1.5 shrink-0">
             <button
               onClick={onOpenVoiceSettings}
-              className="flex items-center gap-1.5 px-2.5 py-1.5 text-xs rounded-lg border transition-all hover:opacity-85 shadow-2xs"
+              className="flex items-center gap-1.5 px-2 sm:px-2.5 py-1.5 text-xs rounded-lg border transition-all hover:opacity-85 shadow-2xs cursor-pointer min-h-[32px]"
               style={{
                 backgroundColor: 'var(--bg-primary)',
                 borderColor: 'var(--border-color)',
@@ -489,14 +474,14 @@ export const Navbar: React.FC<NavbarProps> = ({
               title="Pronunciation Voice Settings"
             >
               <Volume2 className="w-3.5 h-3.5 shrink-0" style={{ color: 'var(--accent)' }} />
-              <span className="hidden md:inline font-serif font-medium max-w-[85px] truncate">
+              <span className="hidden sm:inline lg:hidden xl:inline font-serif font-medium max-w-[85px] truncate">
                 {activeVoiceName || 'Voice'}
               </span>
             </button>
 
             <button
               onClick={onOpenAbout}
-              className="p-1.5 rounded-lg border transition-all hover:opacity-85 shadow-2xs"
+              className="p-1.5 rounded-lg border transition-all hover:opacity-85 shadow-2xs cursor-pointer min-w-[32px] min-h-[32px] flex items-center justify-center"
               style={{
                 backgroundColor: 'var(--bg-primary)',
                 borderColor: 'var(--border-color)',
@@ -509,13 +494,14 @@ export const Navbar: React.FC<NavbarProps> = ({
 
             <button
               onClick={toggleFullscreen}
-              className="hidden sm:block p-1.5 rounded-lg border transition-all hover:opacity-85 shadow-2xs"
+              className="p-1.5 rounded-lg border transition-all hover:opacity-85 shadow-2xs cursor-pointer min-w-[32px] min-h-[32px] flex items-center justify-center"
               style={{
                 backgroundColor: 'var(--bg-primary)',
                 borderColor: 'var(--border-color)',
                 color: 'var(--accent)'
               }}
               title={isFullscreen ? "Exit Fullscreen" : "Enter Fullscreen"}
+              aria-label={isFullscreen ? "Exit Fullscreen" : "Enter Fullscreen"}
             >
               {isFullscreen ? <Minimize2 className="w-3.5 h-3.5" /> : <Maximize2 className="w-3.5 h-3.5" />}
             </button>
