@@ -13,6 +13,8 @@ import {
   BookOpen,
   Library,
   Check,
+  Music,
+  ArrowRight,
   X
 } from 'lucide-react';
 
@@ -131,7 +133,24 @@ export const Navbar: React.FC<NavbarProps> = ({
     );
   }, [sortedCatalog, operaFilterQuery]);
 
-  const searchResults = React.useMemo(() => {
+  // 1. Matches across all 21 operas in library catalog (Titles, Composers, Celebrated Arias, Languages, Synopses)
+  const matchingOperas = React.useMemo(() => {
+    if (!searchQuery || searchQuery.trim().length < 2) return [];
+    const q = searchQuery.toLowerCase().trim();
+
+    return catalog.filter(op => {
+      const matchTitle = op.title.toLowerCase().includes(q);
+      const matchOrig = op.originalTitle?.toLowerCase().includes(q);
+      const matchComp = op.composer.toLowerCase().includes(q);
+      const matchLang = op.languageLabel.toLowerCase().includes(q);
+      const matchPieces = op.celebratedPieces?.some(p => p.toLowerCase().includes(q));
+      const matchSynopsis = op.synopsisSnippet?.toLowerCase().includes(q);
+      return matchTitle || matchOrig || matchComp || matchLang || matchPieces || matchSynopsis;
+    });
+  }, [catalog, searchQuery]);
+
+  // 2. Matches across dialogue/lines in the currently loaded opera (if any)
+  const matchingLines = React.useMemo(() => {
     if (!currentOpera || !searchQuery || searchQuery.trim().length < 2) return [];
     const q = searchQuery.toLowerCase().trim();
     const results: Array<{
@@ -170,7 +189,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                 original: line.original,
                 literal: line.literal
               });
-              if (results.length >= 25) return results;
+              if (results.length >= 20) return results;
             }
           }
         }
@@ -539,12 +558,12 @@ export const Navbar: React.FC<NavbarProps> = ({
           </div>
         </div>
 
-        {/* Center / Right: Search Bar with Opera-Wide Results Dropdown (Desktop lg:) */}
-        <div ref={searchContainerRef} className="relative flex-1 min-w-[130px] max-w-[190px] xl:max-w-xs 2xl:max-w-sm hidden lg:block">
+        {/* Center / Right: Search Bar with Omni-Search Results Dropdown (Desktop lg:) */}
+        <div ref={searchContainerRef} className="relative flex-1 min-w-[150px] max-w-[220px] xl:max-w-xs 2xl:max-w-sm hidden lg:block">
           <Search className="w-3.5 h-3.5 absolute left-3 top-1/2 -translate-y-1/2 opacity-50" />
           <input
             type="text"
-            placeholder={currentOpera ? `Search lines, tokens, characters in ${currentOpera.title}...` : 'Search lines, tokens, characters...'}
+            placeholder="Search 21 operas, composers, arias, lines..."
             value={searchQuery}
             onFocus={() => setIsSearchFocused(true)}
             onChange={(e) => {
@@ -567,17 +586,17 @@ export const Navbar: React.FC<NavbarProps> = ({
                 onSearchChange('');
                 setIsSearchFocused(false);
               }}
-              className="absolute right-2.5 top-1/2 -translate-y-1/2 text-xs opacity-50 hover:opacity-100"
+              className="absolute right-2.5 top-1/2 -translate-y-1/2 text-xs opacity-50 hover:opacity-100 cursor-pointer"
               title="Clear search"
             >
               ✕
             </button>
           )}
 
-          {/* Opera-Wide Search Results Popover */}
+          {/* Omni-Search Results Popover */}
           {isSearchFocused && searchQuery.trim().length >= 2 && (
             <div 
-              className="absolute top-full left-0 right-0 mt-2 max-h-96 overflow-y-auto rounded-xl shadow-2xl border z-50 p-2 space-y-1 text-xs backdrop-blur-md"
+              className="absolute top-full left-0 right-0 mt-2 max-h-[min(70dvh,26rem)] overflow-y-auto rounded-xl shadow-2xl border z-50 p-2 space-y-2.5 text-xs backdrop-blur-md"
               style={{
                 backgroundColor: 'var(--bg-secondary)',
                 borderColor: 'var(--border-color)',
@@ -588,46 +607,119 @@ export const Navbar: React.FC<NavbarProps> = ({
                 className="px-2 py-1.5 border-b flex items-center justify-between font-semibold tracking-wider text-[11px] opacity-75"
                 style={{ borderColor: 'var(--border-color)' }}
               >
-                <span>Matches across {currentOpera?.title || 'Opera'}</span>
+                <span>Omni-Search Results</span>
                 <span 
                   className="text-[10px] px-1.5 py-0.5 rounded-full font-bold border"
                   style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)', color: 'var(--accent)' }}
                 >
-                  {searchResults.length} {searchResults.length === 1 ? 'match' : 'matches'}{searchResults.length >= 25 ? '+' : ''}
+                  {matchingOperas.length + matchingLines.length} {matchingOperas.length + matchingLines.length === 1 ? 'match' : 'matches'}{matchingLines.length >= 20 ? '+' : ''}
                 </span>
               </div>
 
-              {searchResults.length === 0 ? (
-                <div className="p-4 text-center opacity-60 italic">
-                  No matching dialogue or lines found for "{searchQuery}".
+              {matchingOperas.length === 0 && matchingLines.length === 0 ? (
+                <div className="p-4 text-center space-y-1">
+                  <p className="opacity-60 italic">No operas, arias, or dialogue lines match "{searchQuery}".</p>
+                  <p className="text-[10px] opacity-45">Search by composer (Puccini, Verdi), title (Tosca, Carmen), or aria (Nessun dorma).</p>
                 </div>
               ) : (
-                <div className="space-y-1 pt-1">
-                  {searchResults.map((res) => (
-                    <button
-                      key={res.lineId}
-                      onClick={() => {
-                        if (onNavigateToLine) {
-                          onNavigateToLine(res.actIndex, res.sceneIndex, res.lineId);
-                        }
-                        setIsSearchFocused(false);
-                      }}
-                      className="w-full text-left p-2 rounded-lg transition-colors hover:bg-[var(--bg-tertiary)] space-y-0.5 cursor-pointer"
-                    >
-                      <div className="flex items-center justify-between text-[10px] opacity-70">
-                        <span className="font-semibold uppercase tracking-wider" style={{ color: 'var(--accent)' }}>
-                          {res.actTitle} • {res.sceneTitle}
-                        </span>
-                        <span className="font-medium">{res.speaker}</span>
+                <div className="space-y-3">
+                  {/* Operas Section */}
+                  {matchingOperas.length > 0 && (
+                    <div className="space-y-1">
+                      <div className="px-2 text-[10px] uppercase font-bold tracking-wider opacity-60 flex items-center justify-between">
+                        <span>Operas & Library ({matchingOperas.length})</span>
+                        <span className="text-[9px] font-normal lowercase opacity-75">Click to switch opera</span>
                       </div>
-                      <p className="font-libretto text-xs line-clamp-1 italic font-medium">
-                        {res.original}
-                      </p>
-                      <p className="text-[11px] opacity-75 line-clamp-1">
-                        {res.literal}
-                      </p>
-                    </button>
-                  ))}
+                      <div className="space-y-1">
+                        {matchingOperas.map((op) => {
+                          const q = searchQuery.toLowerCase().trim();
+                          const matchedPiece = op.celebratedPieces?.find(p => p.toLowerCase().includes(q));
+                          const compLast = op.composer.split(' ').pop() || op.composer;
+                          const dispTitle = op.id === 'die-zauberfloete'
+                            ? 'Die Zauberflöte (The Magic Flute)'
+                            : op.title;
+
+                          return (
+                            <button
+                              key={op.id}
+                              onClick={() => {
+                                onSelectOpera(op.id);
+                                onSearchChange('');
+                                setIsSearchFocused(false);
+                              }}
+                              className="w-full text-left p-2 rounded-lg border transition-all hover:bg-[var(--bg-tertiary)] flex items-center justify-between gap-2 cursor-pointer group"
+                              style={{
+                                backgroundColor: 'var(--bg-primary)',
+                                borderColor: 'var(--border-color)'
+                              }}
+                            >
+                              <div className="min-w-0 flex-1">
+                                <div className="flex items-center gap-1.5">
+                                  <span className="font-serif font-bold text-[11px] uppercase tracking-wider shrink-0" style={{ color: 'var(--accent)' }}>
+                                    {compLast}
+                                  </span>
+                                  <span className="opacity-30 text-[10px]">•</span>
+                                  <span 
+                                    className="text-[10px] px-1 py-0.2 rounded border opacity-75 shrink-0"
+                                    style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}
+                                  >
+                                    {op.languageLabel}
+                                  </span>
+                                  <span className="opacity-40 text-[10px] shrink-0">{op.year}</span>
+                                </div>
+                                <div className="font-display font-medium text-xs truncate mt-0.5">
+                                  {dispTitle}
+                                </div>
+                                {matchedPiece && (
+                                  <div className="text-[10px] flex items-center gap-1 font-sans italic opacity-85 mt-0.5" style={{ color: 'var(--accent)' }}>
+                                    <Music className="w-2.5 h-2.5 shrink-0" />
+                                    <span className="truncate">Piece: {matchedPiece}</span>
+                                  </div>
+                                )}
+                              </div>
+                              <ArrowRight className="w-3.5 h-3.5 opacity-40 group-hover:opacity-100 group-hover:translate-x-0.5 transition-all shrink-0" style={{ color: 'var(--accent)' }} />
+                            </button>
+                          );
+                        })}
+                      </div>
+                    </div>
+                  )}
+
+                  {/* Lines Section */}
+                  {matchingLines.length > 0 && (
+                    <div className="space-y-1">
+                      <div className="px-2 text-[10px] uppercase font-bold tracking-wider opacity-60">
+                        Lines in {currentOpera?.title} ({matchingLines.length}{matchingLines.length >= 20 ? '+' : ''})
+                      </div>
+                      <div className="space-y-1">
+                        {matchingLines.map((res) => (
+                          <button
+                            key={res.lineId}
+                            onClick={() => {
+                              if (onNavigateToLine) {
+                                onNavigateToLine(res.actIndex, res.sceneIndex, res.lineId);
+                              }
+                              setIsSearchFocused(false);
+                            }}
+                            className="w-full text-left p-2 rounded-lg transition-colors hover:bg-[var(--bg-tertiary)] space-y-0.5 cursor-pointer"
+                          >
+                            <div className="flex items-center justify-between text-[10px] opacity-70">
+                              <span className="font-semibold uppercase tracking-wider" style={{ color: 'var(--accent)' }}>
+                                {res.actTitle} • {res.sceneTitle}
+                              </span>
+                              <span className="font-medium">{res.speaker}</span>
+                            </div>
+                            <p className="font-libretto text-xs line-clamp-1 italic font-medium">
+                              {res.original}
+                            </p>
+                            <p className="text-[11px] opacity-75 line-clamp-1">
+                              {res.literal}
+                            </p>
+                          </button>
+                        ))}
+                      </div>
+                    </div>
+                  )}
                 </div>
               )}
             </div>
@@ -771,7 +863,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                 <input
                   type="text"
                   autoFocus
-                  placeholder={currentOpera ? `Search in ${currentOpera.title}...` : 'Search lines, tokens, characters...'}
+                  placeholder="Search 21 operas, composers, arias, lines..."
                   value={searchQuery}
                   onChange={(e) => onSearchChange(e.target.value)}
                   className="w-full text-xs sm:text-sm py-2 pl-9 pr-8 rounded-lg border focus:outline-none transition-colors"
@@ -803,50 +895,121 @@ export const Navbar: React.FC<NavbarProps> = ({
             </div>
 
             {/* Live Search Results */}
-            <div className="p-3 space-y-1 overflow-y-auto flex-1 min-h-0 overscroll-contain">
+            <div className="p-3 space-y-3 overflow-y-auto flex-1 min-h-0 overscroll-contain">
               {searchQuery.trim().length < 2 ? (
-                <div className="p-6 text-center text-xs opacity-60">
-                  Type at least 2 characters to search across {currentOpera?.title || 'the opera'}...
+                <div className="p-6 text-center text-xs opacity-60 space-y-1">
+                  <p>Type at least 2 characters to search across 21 operas, composers, arias, or lines...</p>
+                  <p className="text-[11px] opacity-45 font-sans">Examples: "Tosca", "Puccini", "Nessun dorma", "Carmen", "Verdi"</p>
                 </div>
-              ) : searchResults.length === 0 ? (
-                <div className="p-6 text-center text-xs opacity-60 italic">
-                  No matching dialogue or lines found for "{searchQuery}".
+              ) : matchingOperas.length === 0 && matchingLines.length === 0 ? (
+                <div className="p-6 text-center text-xs opacity-60 italic space-y-1">
+                  <p>No operas, arias, or dialogue lines match "{searchQuery}".</p>
+                  <p className="text-[11px] opacity-45 font-sans">Try searching by composer (Puccini, Verdi), title (Tosca, Carmen), or aria (Nessun dorma).</p>
                 </div>
               ) : (
-                <div className="space-y-1">
-                  <div className="px-2 py-1 text-[11px] font-semibold opacity-70 flex justify-between">
-                    <span>Matches across {currentOpera?.title}</span>
-                    <span>{searchResults.length} {searchResults.length === 1 ? 'match' : 'matches'}{searchResults.length >= 25 ? '+' : ''}</span>
-                  </div>
-                  {searchResults.map((res) => (
-                    <button
-                      key={res.lineId}
-                      onClick={() => {
-                        if (onNavigateToLine) {
-                          onNavigateToLine(res.actIndex, res.sceneIndex, res.lineId);
-                        }
-                        setIsMobileSearchOpen(false);
-                      }}
-                      className="w-full text-left p-2.5 rounded-xl border transition-all hover:bg-[var(--bg-tertiary)] space-y-1 cursor-pointer"
-                      style={{
-                        backgroundColor: 'var(--bg-primary)',
-                        borderColor: 'var(--border-color)'
-                      }}
-                    >
-                      <div className="flex items-center justify-between text-[11px] opacity-75">
-                        <span className="font-semibold uppercase tracking-wider" style={{ color: 'var(--accent)' }}>
-                          {res.actTitle} • {res.sceneTitle}
-                        </span>
-                        <span className="font-medium">[{res.speaker}]</span>
+                <div className="space-y-4">
+                  {/* Operas Section */}
+                  {matchingOperas.length > 0 && (
+                    <div className="space-y-1.5">
+                      <div className="px-1 text-[11px] font-bold uppercase tracking-wider opacity-65 flex justify-between">
+                        <span>Operas & Library ({matchingOperas.length})</span>
+                        <span className="text-[10px] font-normal lowercase opacity-70">Tap to open</span>
                       </div>
-                      <p className="font-libretto text-xs sm:text-sm italic font-medium leading-snug">
-                        {res.original}
-                      </p>
-                      <p className="text-xs opacity-80 font-sans leading-snug">
-                        {res.literal}
-                      </p>
-                    </button>
-                  ))}
+                      <div className="space-y-1.5">
+                        {matchingOperas.map((op) => {
+                          const q = searchQuery.toLowerCase().trim();
+                          const matchedPiece = op.celebratedPieces?.find(p => p.toLowerCase().includes(q));
+                          const compLast = op.composer.split(' ').pop() || op.composer;
+                          const dispTitle = op.id === 'die-zauberfloete'
+                            ? 'Die Zauberflöte (The Magic Flute)'
+                            : op.title;
+
+                          return (
+                            <button
+                              key={op.id}
+                              onClick={() => {
+                                onSelectOpera(op.id);
+                                onSearchChange('');
+                                setIsMobileSearchOpen(false);
+                              }}
+                              className="w-full text-left p-2.5 rounded-xl border transition-all active:scale-[0.99] flex items-center justify-between gap-2 cursor-pointer"
+                              style={{
+                                backgroundColor: 'var(--bg-primary)',
+                                borderColor: 'var(--border-color)'
+                              }}
+                            >
+                              <div className="min-w-0 flex-1">
+                                <div className="flex items-center gap-1.5">
+                                  <span className="font-serif font-bold text-xs uppercase tracking-wider shrink-0" style={{ color: 'var(--accent)' }}>
+                                    {compLast}
+                                  </span>
+                                  <span className="opacity-30 text-[10px]">•</span>
+                                  <span 
+                                    className="text-[10px] px-1.5 py-0.2 rounded border opacity-75 shrink-0"
+                                    style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}
+                                  >
+                                    {op.languageLabel}
+                                  </span>
+                                  <span className="opacity-40 text-[10px] shrink-0">{op.year}</span>
+                                </div>
+                                <div className="font-display font-medium text-sm leading-snug truncate mt-0.5">
+                                  {dispTitle}
+                                </div>
+                                {matchedPiece && (
+                                  <div className="text-[11px] flex items-center gap-1 font-sans italic opacity-85 mt-1" style={{ color: 'var(--accent)' }}>
+                                    <Music className="w-3 h-3 shrink-0" />
+                                    <span className="truncate">Piece: {matchedPiece}</span>
+                                  </div>
+                                )}
+                              </div>
+                              <ArrowRight className="w-4 h-4 opacity-50 shrink-0" style={{ color: 'var(--accent)' }} />
+                            </button>
+                          );
+                        })}
+                      </div>
+                    </div>
+                  )}
+
+                  {/* Lines Section */}
+                  {matchingLines.length > 0 && (
+                    <div className="space-y-1.5">
+                      <div className="px-1 text-[11px] font-bold uppercase tracking-wider opacity-65 flex justify-between">
+                        <span>Lines in {currentOpera?.title}</span>
+                        <span>{matchingLines.length}{matchingLines.length >= 20 ? '+' : ''}</span>
+                      </div>
+                      <div className="space-y-1.5">
+                        {matchingLines.map((res) => (
+                          <button
+                            key={res.lineId}
+                            onClick={() => {
+                              if (onNavigateToLine) {
+                                onNavigateToLine(res.actIndex, res.sceneIndex, res.lineId);
+                              }
+                              setIsMobileSearchOpen(false);
+                            }}
+                            className="w-full text-left p-2.5 rounded-xl border transition-all hover:bg-[var(--bg-tertiary)] space-y-1 cursor-pointer"
+                            style={{
+                              backgroundColor: 'var(--bg-primary)',
+                              borderColor: 'var(--border-color)'
+                            }}
+                          >
+                            <div className="flex items-center justify-between text-[11px] opacity-75">
+                              <span className="font-semibold uppercase tracking-wider" style={{ color: 'var(--accent)' }}>
+                                {res.actTitle} • {res.sceneTitle}
+                              </span>
+                              <span className="font-medium">[{res.speaker}]</span>
+                            </div>
+                            <p className="font-libretto text-xs sm:text-sm italic font-medium leading-snug">
+                              {res.original}
+                            </p>
+                            <p className="text-xs opacity-80 font-sans leading-snug">
+                              {res.literal}
+                            </p>
+                          </button>
+                        ))}
+                      </div>
+                    </div>
+                  )}
                 </div>
               )}
             </div>
@@ -857,7 +1020,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}
             >
               <span className="text-xs opacity-65">
-                {searchResults.length} {searchResults.length === 1 ? 'match' : 'matches'}
+                {matchingOperas.length + matchingLines.length} {matchingOperas.length + matchingLines.length === 1 ? 'match' : 'matches'}{matchingLines.length >= 20 ? '+' : ''}
               </span>
               <button
                 onClick={() => setIsMobileSearchOpen(false)}

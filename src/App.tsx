@@ -367,37 +367,8 @@ export const App: React.FC = () => {
     }, 150);
   }, [currentOpera]);
 
-  // Filtered scene cues based on search query
-  const displayedScene = useMemo(() => {
-    if (!currentScene) return null;
-    if (!searchQuery.trim()) return currentScene;
-
-    const q = searchQuery.toLowerCase();
-    const filteredCues = currentScene.cues
-      .map(cue => {
-        const matchesSpeaker = cue.speaker.toLowerCase().includes(q);
-        const matchesPiece = cue.pieceTitle?.toLowerCase().includes(q);
-        const matchingLines = cue.lines.filter(l => 
-          l.original.toLowerCase().includes(q) ||
-          l.literal.toLowerCase().includes(q) ||
-          l.tokens?.some(t => t.word.toLowerCase().includes(q) || t.meaning.toLowerCase().includes(q))
-        );
-
-        if (matchesSpeaker || matchesPiece || matchingLines.length > 0) {
-          return {
-            ...cue,
-            lines: matchingLines.length > 0 ? matchingLines : cue.lines
-          };
-        }
-        return null;
-      })
-      .filter((cue): cue is Cue => cue !== null);
-
-    return {
-      ...currentScene,
-      cues: filteredCues
-    };
-  }, [currentScene, searchQuery]);
+  // Active scene displayed in reader
+  const displayedScene = currentScene;
 
   return (
     <div className="h-screen h-[100dvh] flex flex-col overflow-hidden transition-colors selection:bg-amber-500/20">
