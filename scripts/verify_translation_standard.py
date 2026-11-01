@@ -115,11 +115,14 @@ def main():
                 if w.lower() in ('ecc', 'etc', 'ecc.', 'etc.'):
                     errors.append(f"[{op_name} {act_file.name}] Printer shorthand token '{w}' detected")
 
-            # 5. Zero printer shorthand ('ecc', 'etc') in sung dialogue lines
-            for m in re.finditer(r'\"original\":\s*\"([^\"]*)\"', content):
-                orig = m.group(1)
+            # 5. Zero printer shorthand ('ecc', 'etc') or leaked stage directions in sung dialogue lines
+            for m in re.finditer(r'["\']?original["\']?\s*:\s*\"([^\"]*)\"', content):
+                orig = m.group(1).strip()
                 if re.search(r'\b(?:ecc|etc)\b', orig, re.I) and 'etchalar' not in orig.lower():
                     errors.append(f"[{op_name} {act_file.name}] Printer shorthand 'ecc/etc' in sung line: \"{orig}\"")
+                # Detect leaked stage directions in sung lines
+                if re.search(r'^(?:entra\s+(?:a\s+sinistra|a\s+destra|[A-Z][a-z]+\s+(?:col|coi|che))|esce\s*$|escono\s+[A-Z]|sviene\s*$|partono\s+tutti\s+alla|fra\s+sé\s*$)', orig):
+                    errors.append(f"[{op_name} {act_file.name}] Leaked stage direction in sung line: \"{orig}\"")
 
             # 6. Check Act Settings
             orig_set = re.findall(r'["\']?originalSetting["\']?\s*:\s*("(?:\\.|[^"\\])*"|\'(?:\\.|[^\'\\])*\'|`(?:\\.|[^`\\])*`)', content)

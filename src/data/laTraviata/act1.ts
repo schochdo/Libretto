@@ -2376,184 +2376,187 @@ export const laTraviataAct1: Act = {
         {
           "id": "a1_s2_c35",
           "speaker": "Alfredo",
+          "pieceTitle": "Libiamo ne' lieti calici (Brindisi)",
           "lines": [
             {
               "id": "a1_s2_c35_l1",
               "original": "Libiam ne' lieti calici",
-              "literal": "Libiam nor the happy glasses",
+              "literal": "Let us drink from the joyful chalices,",
               "tokens": [
                 {
                   "word": "Libiam",
-                  "lemma": "Libiam",
-                  "pos": "noun",
-                  "meaning": "Libiam"
+                  "lemma": "libare",
+                  "pos": "verb",
+                  "meaning": "let us drink / sip (1st plural hortative)"
                 },
                 {
-                  "word": "ne",
-                  "lemma": "ne",
-                  "pos": "noun",
-                  "meaning": "of-it / of-them"
+                  "word": "ne'",
+                  "lemma": "nei",
+                  "pos": "preposition",
+                  "meaning": "in the / from the (in + i)"
                 },
                 {
                   "word": "lieti",
-                  "lemma": "lieti",
-                  "pos": "verb",
-                  "meaning": "lieti"
+                  "lemma": "lieto",
+                  "pos": "adjective",
+                  "meaning": "joyful / glad (masculine plural)"
                 },
                 {
                   "word": "calici",
                   "lemma": "calice",
                   "pos": "noun",
-                  "meaning": "plural of calice"
+                  "meaning": "chalices / drinking glasses"
                 }
-              ]
+              ],
+              "grammarNote": "The celebrated Brindisi (Drinking Song). 'Libiam' is the apocopated hortative subjunctive ('let us drink/sip'), and 'ne\'' is the poetic contraction of 'nei' (in the / from the)."
             },
             {
               "id": "a1_s2_c35_l2",
               "original": "Che la bellezza infiora,",
-              "literal": "May beauty blossom,",
+              "literal": "which beauty adorns with flowers,",
               "tokens": [
                 {
                   "word": "Che",
                   "lemma": "che",
-                  "pos": "noun",
-                  "meaning": "that / which / what"
+                  "pos": "pronoun",
+                  "meaning": "which / that"
                 },
                 {
                   "word": "la",
-                  "lemma": "la",
-                  "pos": "noun",
-                  "meaning": "the / her / it"
+                  "lemma": "il",
+                  "pos": "particle",
+                  "meaning": "the (feminine singular)"
                 },
                 {
                   "word": "bellezza",
                   "lemma": "bellezza",
-                  "pos": "verb",
-                  "meaning": "bellezza"
+                  "pos": "noun",
+                  "meaning": "beauty"
                 },
                 {
                   "word": "infiora",
                   "lemma": "infiorare",
                   "pos": "verb",
-                  "meaning": "third-person singular present indicative / second-person singular imperative"
+                  "meaning": "adorns with flowers / garlands (3rd singular present)"
                 }
               ]
             },
             {
               "id": "a1_s2_c35_l3",
               "original": "E la fuggevol ora",
-              "literal": "And the fleeting hour",
+              "literal": "and let the fleeting hour",
               "tokens": [
                 {
                   "word": "E",
                   "lemma": "e",
-                  "pos": "noun",
+                  "pos": "conjunction",
                   "meaning": "and"
                 },
                 {
                   "word": "la",
-                  "lemma": "la",
-                  "pos": "noun",
-                  "meaning": "the / her / it"
+                  "lemma": "il",
+                  "pos": "particle",
+                  "meaning": "the (feminine singular)"
                 },
                 {
                   "word": "fuggevol",
                   "lemma": "fuggevole",
                   "pos": "adjective",
-                  "meaning": "fleeting"
+                  "meaning": "fleeting / transient"
                 },
                 {
                   "word": "ora",
                   "lemma": "ora",
                   "pos": "noun",
-                  "meaning": "hour / now"
+                  "meaning": "hour / moment"
                 }
               ]
             },
             {
               "id": "a1_s2_c35_l4",
               "original": "S'inebri a voluttà.",
-              "literal": "Get intoxicated with pleasure.",
+              "literal": "intoxicate itself with delight.",
               "tokens": [
                 {
-                  "word": "S",
-                  "lemma": "s",
-                  "pos": "noun",
-                  "meaning": "oneself"
+                  "word": "S'",
+                  "lemma": "si",
+                  "pos": "pronoun",
+                  "meaning": "itself (reflexive pronoun)"
                 },
                 {
                   "word": "inebri",
                   "lemma": "inebriare",
                   "pos": "verb",
-                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
+                  "meaning": "intoxicate / inebriate (3rd singular subjunctive)"
                 },
                 {
                   "word": "a",
                   "lemma": "a",
-                  "pos": "noun",
-                  "meaning": "to / at"
+                  "pos": "preposition",
+                  "meaning": "with / to"
                 },
                 {
                   "word": "voluttà",
                   "lemma": "voluttà",
                   "pos": "noun",
-                  "meaning": "pleasure"
+                  "meaning": "pleasure / sensual delight"
                 }
-              ]
+              ],
+              "grammarNote": "Enjambment from the previous line: 'E la fuggevol ora s\'inebri a voluttà' forms a complete optative clause: 'and may the fleeting hour intoxicate itself with pleasure!'"
             },
             {
               "id": "a1_s2_c35_l5",
               "original": "Libiam ne' dolci fremiti",
-              "literal": "Libiam nor sweet thrills",
+              "literal": "Let us drink amid the sweet thrills",
               "tokens": [
                 {
                   "word": "Libiam",
-                  "lemma": "Libiam",
-                  "pos": "noun",
-                  "meaning": "Libiam"
+                  "lemma": "libare",
+                  "pos": "verb",
+                  "meaning": "let us drink / sip (1st plural hortative)"
                 },
                 {
-                  "word": "ne",
-                  "lemma": "ne",
-                  "pos": "noun",
-                  "meaning": "of-it / of-them"
+                  "word": "ne'",
+                  "lemma": "nei",
+                  "pos": "preposition",
+                  "meaning": "in the / amid the (in + i)"
                 },
                 {
                   "word": "dolci",
-                  "lemma": "dolci",
-                  "pos": "noun",
-                  "meaning": "sweet"
+                  "lemma": "dolce",
+                  "pos": "adjective",
+                  "meaning": "sweet (plural)"
                 },
                 {
                   "word": "fremiti",
                   "lemma": "fremito",
                   "pos": "noun",
-                  "meaning": "plural of fremito"
+                  "meaning": "thrills / shudders / quivers"
                 }
               ]
             },
             {
               "id": "a1_s2_c35_l6",
               "original": "Che suscita l'amore,",
-              "literal": "That inspires love,",
+              "literal": "that love awakens,",
               "tokens": [
                 {
                   "word": "Che",
                   "lemma": "che",
-                  "pos": "noun",
-                  "meaning": "that / which / what"
+                  "pos": "pronoun",
+                  "meaning": "that / which"
                 },
                 {
                   "word": "suscita",
                   "lemma": "suscitare",
                   "pos": "verb",
-                  "meaning": "third-person singular present indicative / second-person singular imperative"
+                  "meaning": "awakens / arouses / inspires (3rd singular present)"
                 },
                 {
-                  "word": "l",
-                  "lemma": "l",
-                  "pos": "noun",
-                  "meaning": "the"
+                  "word": "l'",
+                  "lemma": "il",
+                  "pos": "particle",
+                  "meaning": "the (elided)"
                 },
                 {
                   "word": "amore",
@@ -2566,19 +2569,19 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s2_c35_l7",
               "original": "Poiché quell'occhio al core",
-              "literal": "Since that eye on the core",
+              "literal": "for that eye directly to the heart",
               "tokens": [
                 {
                   "word": "Poiché",
                   "lemma": "poiché",
-                  "pos": "noun",
-                  "meaning": "poiché"
+                  "pos": "conjunction",
+                  "meaning": "since / because / for"
                 },
                 {
-                  "word": "quell",
-                  "lemma": "quell",
-                  "pos": "noun",
-                  "meaning": "that"
+                  "word": "quell'",
+                  "lemma": "quello",
+                  "pos": "adjective",
+                  "meaning": "that (elided)"
                 },
                 {
                   "word": "occhio",
@@ -2589,46 +2592,47 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "al",
                   "lemma": "al",
-                  "pos": "noun",
-                  "meaning": "to-the"
+                  "pos": "preposition",
+                  "meaning": "to the (a + il)"
                 },
                 {
                   "word": "core",
-                  "lemma": "core",
+                  "lemma": "cuore",
                   "pos": "noun",
-                  "meaning": "heart"
+                  "meaning": "heart (poetic form)"
                 }
               ]
             },
             {
               "id": "a1_s2_c35_l8",
               "original": "Onnipotente va.",
-              "literal": "Almighty goes.",
+              "literal": "strikes all-powerfully.",
               "tokens": [
                 {
                   "word": "Onnipotente",
                   "lemma": "onnipotente",
-                  "pos": "adjective",
-                  "meaning": "omnipotent, all-powerful, almighty"
+                  "pos": "adverb",
+                  "meaning": "all-powerfully / omnipotently"
                 },
                 {
                   "word": "va",
                   "lemma": "andare",
                   "pos": "verb",
-                  "meaning": "goes / go!"
+                  "meaning": "goes / strikes (3rd singular present)"
                 }
-              ]
+              ],
+              "grammarNote": "Syntactic enjambment: 'Poiché quell\'occhio al core onnipotente va' ('For that eye strikes all-powerfully to the heart'). Alfredo looks directly into Violetta's eyes, declaring the irresistible power of her gaze."
             },
             {
               "id": "a1_s2_c35_l9",
               "original": "Libiamo, amor fra i calici",
-              "literal": "Libiamo, love among the glasses",
+              "literal": "Let us drink: love, amid the chalices,",
               "tokens": [
                 {
                   "word": "Libiamo",
-                  "lemma": "Libiamo",
-                  "pos": "noun",
-                  "meaning": "Libiamo"
+                  "lemma": "libare",
+                  "pos": "verb",
+                  "meaning": "let us drink (1st plural hortative)"
                 },
                 {
                   "word": "amor",
@@ -2639,57 +2643,56 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "fra",
                   "lemma": "fra",
-                  "pos": "noun",
-                  "meaning": "between / among"
+                  "pos": "preposition",
+                  "meaning": "among / amid"
                 },
                 {
                   "word": "i",
-                  "lemma": "i",
-                  "pos": "noun",
-                  "meaning": "the"
+                  "lemma": "il",
+                  "pos": "particle",
+                  "meaning": "the (masculine plural)"
                 },
                 {
                   "word": "calici",
                   "lemma": "calice",
                   "pos": "noun",
-                  "meaning": "plural of calice"
+                  "meaning": "chalices / cups"
                 }
               ]
             },
             {
               "id": "a1_s2_c35_l10",
               "original": "Più caldi baci avrà.",
-              "literal": "The warmer kisses he will have.",
+              "literal": "shall have warmer kisses.",
               "tokens": [
                 {
                   "word": "Più",
                   "lemma": "più",
-                  "pos": "noun",
+                  "pos": "adverb",
                   "meaning": "more"
                 },
                 {
                   "word": "caldi",
-                  "lemma": "caldi",
-                  "pos": "verb",
-                  "meaning": "caldi"
+                  "lemma": "caldo",
+                  "pos": "adjective",
+                  "meaning": "warm / ardent (masculine plural)"
                 },
                 {
                   "word": "baci",
-                  "lemma": "baciare",
-                  "pos": "verb",
-                  "meaning": "kisses / you kiss"
+                  "lemma": "bacio",
+                  "pos": "noun",
+                  "meaning": "kisses"
                 },
                 {
                   "word": "avrà",
-                  "lemma": "avrà",
-                  "pos": "noun",
-                  "meaning": "will have"
+                  "lemma": "avere",
+                  "pos": "verb",
+                  "meaning": "will have (3rd singular future)"
                 }
-              ]
+              ],
+              "grammarNote": "The climax of Alfredo's stanza: 'amor fra i calici più caldi baci avrà' ('love amid the wine cups shall reap warmer kisses')."
             }
-          ],
-          "stageDirection": "indicando Violetta",
-          "stageDirectionTranslation": "pointing to Violetta"
+          ]
         },
         {
           "id": "a1_s2_c36",
@@ -2698,7 +2701,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s2_c36_l1",
               "original": "Libiamo, amor fra i calici",
-              "literal": "Libiamo, love among the glasses",
+              "literal": "Let us drink: love, amid the chalices,",
               "tokens": [
                 {
                   "word": "Libiamo",
@@ -2735,7 +2738,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s2_c36_l2",
               "original": "Più caldi baci avrà.",
-              "literal": "The warmer kisses he will have.",
+              "literal": "shall have warmer kisses.",
               "tokens": [
                 {
                   "word": "Più",
@@ -2772,7 +2775,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s2_c37_l1",
               "original": "Tra voi saprò dividere",
-              "literal": "I will know how to divide between you",
+              "literal": "Among you I shall share",
               "tokens": [
                 {
                   "word": "Tra",
@@ -2803,7 +2806,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s2_c37_l2",
               "original": "Il tempo mio giocondo;",
-              "literal": "My joyful time;",
+              "literal": "my joyful hours;",
               "tokens": [
                 {
                   "word": "Il",
@@ -2834,7 +2837,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s2_c37_l3",
               "original": "Tutto è follia nel mondo",
-              "literal": "Everything is madness in the world",
+              "literal": "All is folly in the world",
               "tokens": [
                 {
                   "word": "Tutto",
@@ -2871,7 +2874,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s2_c37_l4",
               "original": "Ciò che non è piacer.",
-              "literal": "What is not pleasure.",
+              "literal": "that is not pleasure.",
               "tokens": [
                 {
                   "word": "Ciò",
@@ -2908,7 +2911,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s2_c37_l5",
               "original": "Godiam, fugace e rapido",
-              "literal": "Let's enjoy, fleeting and quick",
+              "literal": "Let us enjoy: fleeting and swift",
               "tokens": [
                 {
                   "word": "Godiam",
@@ -2939,7 +2942,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s2_c37_l6",
               "original": "È il gaudio dell'amore;",
-              "literal": "It is the joy of love;",
+              "literal": "is the joy of love;",
               "tokens": [
                 {
                   "word": "È",
@@ -5256,7 +5259,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s3_c18_l7",
               "original": "Dell'universo intero,",
-              "literal": "Of the entire universe,",
+              "literal": "of the entire universe,",
               "tokens": [
                 {
                   "word": "Dell",
@@ -5281,7 +5284,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s3_c18_l8",
               "original": "Misterioso, altero,",
-              "literal": "Mysterious, haughty,",
+              "literal": "mysterious, sublime,",
               "tokens": [
                 {
                   "word": "Misterioso",
@@ -5300,7 +5303,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s3_c18_l9",
               "original": "Croce e delizia al cor.",
-              "literal": "Cross and delight to the heart.",
+              "literal": "cross and delight to the heart.",
               "tokens": [
                 {
                   "word": "Croce",
@@ -6574,7 +6577,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l1",
               "original": "È strano! è strano! in core",
-              "literal": "It's strange! it's strange! in core",
+              "literal": "It is strange! It is strange! In my heart",
               "tokens": [
                 {
                   "word": "È",
@@ -6618,7 +6621,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l2",
               "original": "Scolpiti ho quegli accenti!",
-              "literal": "Sculpted I have those accents!",
+              "literal": "I have those words engraved!",
               "tokens": [
                 {
                   "word": "Scolpiti",
@@ -6649,7 +6652,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l3",
               "original": "Sarìa per me sventura un serio amore?",
-              "literal": "Would serious love be misfortune for me?",
+              "literal": "Would a serious love be a misfortune for me?",
               "tokens": [
                 {
                   "word": "Sarìa",
@@ -6698,7 +6701,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l4",
               "original": "Che risolvi, o turbata anima mia?",
-              "literal": "What do you resolve, my troubled soul?",
+              "literal": "What do you resolve, o my troubled soul?",
               "tokens": [
                 {
                   "word": "Che",
@@ -6741,7 +6744,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l5",
               "original": "Null'uomo ancora t'accendeva O gioia",
-              "literal": "No man yet ignited you with O joy",
+              "literal": "No man had ever kindled you... O joy",
               "tokens": [
                 {
                   "word": "Null'uomo",
@@ -6784,7 +6787,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l6",
               "original": "Ch'io non conobbi, essere amata amando!",
-              "literal": "That I did not know, to be loved by loving!",
+              "literal": "that I never knew: to be loved while loving!",
               "tokens": [
                 {
                   "word": "Ch",
@@ -6833,7 +6836,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l7",
               "original": "E sdegnarla poss'io",
-              "literal": "And I can disdain her",
+              "literal": "And could I disdain it",
               "tokens": [
                 {
                   "word": "E",
@@ -6858,7 +6861,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l8",
               "original": "Per l'aride follie del viver mio?",
-              "literal": "For the arid follies of my life?",
+              "literal": "for the barren follies of my life?",
               "tokens": [
                 {
                   "word": "Per",
@@ -6907,7 +6910,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l9",
               "original": "Ah, fors'è lui che l'anima",
-              "literal": "Ah, perhaps he is the soul",
+              "literal": "Ah, perhaps he is the one whom my soul,",
               "tokens": [
                 {
                   "word": "Ah",
@@ -6951,7 +6954,8 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l10",
               "original": "Solinga ne' tumulti",
-              "literal": "Alone in the riots",
+              "literal": "solitary amid the social whirl,",
+              "grammarNote": "A famous 4-verse enjambment: 'Ah, fors'è lui che l'anima solinga ne' tumulti godea sovente pingere de' suoi colori occulti' ('Ah, perhaps he is the one whom my soul, lonely in the bustle of worldly life, often took pleasure in painting in its secret colors').",
               "tokens": [
                 {
                   "word": "Solinga",
@@ -6976,7 +6980,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l11",
               "original": "Godea sovente pingere",
-              "literal": "He often enjoyed playing",
+              "literal": "often rejoiced to paint",
               "tokens": [
                 {
                   "word": "Godea",
@@ -7001,7 +7005,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l12",
               "original": "De' suoi colori occulti!",
-              "literal": "Of its occult colors!",
+              "literal": "with its own secret colors!",
               "tokens": [
                 {
                   "word": "De",
@@ -7032,7 +7036,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l13",
               "original": "Lui che modesto e vigile",
-              "literal": "He is modest and alert",
+              "literal": "He who, modest and watchful,",
               "tokens": [
                 {
                   "word": "Lui",
@@ -7069,7 +7073,8 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l14",
               "original": "All'egre soglie ascese,",
-              "literal": "To the egret ascended thresholds,",
+              "literal": "climbed to my ailing threshold,",
+              "grammarNote": "'All'egre soglie' is poetic Italian from Latin 'aeger' (sick/ailing) and 'soglia' (threshold) — referring to Alfredo discreetly coming daily to inquire about Violetta when she was bedridden with tuberculosis.",
               "tokens": [
                 {
                   "word": "All",
@@ -7100,7 +7105,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l15",
               "original": "E nuova febbre accese,",
-              "literal": "And new fever ignited,",
+              "literal": "and kindled a new fever,",
               "tokens": [
                 {
                   "word": "E",
@@ -7131,7 +7136,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l16",
               "original": "Destandomi all'amor.",
-              "literal": "Waking up to love.",
+              "literal": "awakening me to love.",
               "tokens": [
                 {
                   "word": "Destandomi",
@@ -7156,7 +7161,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l17",
               "original": "A quell'amor ch'è palpito",
-              "literal": "To that love that is heartbeat",
+              "literal": "To that love which is the pulse",
               "tokens": [
                 {
                   "word": "A",
@@ -7199,7 +7204,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l18",
               "original": "Dell'universo intero,",
-              "literal": "Of the entire universe,",
+              "literal": "of the entire universe,",
               "tokens": [
                 {
                   "word": "Dell",
@@ -7224,7 +7229,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l19",
               "original": "Misterioso, altero,",
-              "literal": "Mysterious, haughty,",
+              "literal": "mysterious, sublime,",
               "tokens": [
                 {
                   "word": "Misterioso",
@@ -7243,7 +7248,8 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l20",
               "original": "Croce e delizia al cor.",
-              "literal": "Cross and delight to the heart.",
+              "literal": "cross and delight to the heart.",
+              "grammarNote": "'Croce e delizia al cor' (cross and delight to the heart) is Piave's defining oxymoron for love throughout La traviata: an ecstatic source of divine bliss that brings inescapable suffering and sacrifice.",
               "tokens": [
                 {
                   "word": "Croce",
@@ -7280,7 +7286,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l21",
               "original": "A me fanciulla, un candido",
-              "literal": "To me, girl, a candid",
+              "literal": "To me as a maiden, a pure",
               "tokens": [
                 {
                   "word": "A",
@@ -7317,7 +7323,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l22",
               "original": "E trepido desire",
-              "literal": "And trepid desire",
+              "literal": "and trembling desire",
               "tokens": [
                 {
                   "word": "E",
@@ -7342,7 +7348,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l23",
               "original": "Questi effigiò dolcissimo",
-              "literal": "He portrayed him as very sweet",
+              "literal": "this love portrayed as the sweetest",
               "tokens": [
                 {
                   "word": "Questi",
@@ -7367,7 +7373,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l24",
               "original": "Signor dell'avvenire,",
-              "literal": "Lord of the future,",
+              "literal": "master of my future,",
               "tokens": [
                 {
                   "word": "Signor",
@@ -7392,7 +7398,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l25",
               "original": "Quando ne' cieli il raggio",
-              "literal": "When the ray in the skies",
+              "literal": "when in the heavens the radiance",
               "tokens": [
                 {
                   "word": "Quando",
@@ -7429,7 +7435,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l26",
               "original": "Di sua beltà vedea,",
-              "literal": "I saw her beauty,",
+              "literal": "of its beauty I saw,",
               "tokens": [
                 {
                   "word": "Di",
@@ -7460,7 +7466,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l27",
               "original": "E tutta me pascea",
-              "literal": "And all of me grazed",
+              "literal": "and my whole being nourished itself",
               "tokens": [
                 {
                   "word": "E",
@@ -7491,7 +7497,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l28",
               "original": "Di quel divino error.",
-              "literal": "Of that divine error.",
+              "literal": "on that divine illusion.",
               "tokens": [
                 {
                   "word": "Di",
@@ -7522,7 +7528,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l29",
               "original": "Sentìa che amore è palpito",
-              "literal": "Feel what love is a heartbeat",
+              "literal": "I felt that love is the pulse",
               "tokens": [
                 {
                   "word": "Sentìa",
@@ -7559,7 +7565,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l30",
               "original": "Dell'universo intero,",
-              "literal": "Of the entire universe,",
+              "literal": "of the entire universe,",
               "tokens": [
                 {
                   "word": "Dell",
@@ -7584,7 +7590,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l31",
               "original": "Misterioso, altero,",
-              "literal": "Mysterious, haughty,",
+              "literal": "mysterious, sublime,",
               "tokens": [
                 {
                   "word": "Misterioso",
@@ -7603,7 +7609,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l32",
               "original": "Croce e delizia al cor!",
-              "literal": "Cross and delight the heart!",
+              "literal": "cross and delight to the heart!",
               "tokens": [
                 {
                   "word": "Croce",
@@ -7640,7 +7646,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l33",
               "original": "Follie! follie delirio vano è questo!",
-              "literal": "Crazy! madness, vain delirium, this is it!",
+              "literal": "Folly! Folly! A vain delirium is this!",
               "tokens": [
                 {
                   "word": "Follie",
@@ -7683,7 +7689,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l34",
               "original": "Povera donna, sola",
-              "literal": "Poor woman, alone",
+              "literal": "Poor woman, alone,",
               "tokens": [
                 {
                   "word": "Povera",
@@ -7708,7 +7714,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l35",
               "original": "Abbandonata in questo",
-              "literal": "Abandoned in this",
+              "literal": "abandoned in this",
               "tokens": [
                 {
                   "word": "Abbandonata",
@@ -7733,7 +7739,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l36",
               "original": "Popoloso deserto",
-              "literal": "Populous desert",
+              "literal": "populous desert",
               "tokens": [
                 {
                   "word": "Popoloso",
@@ -7752,7 +7758,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l37",
               "original": "Che appellano Parigi,",
-              "literal": "Which call Paris,",
+              "literal": "which they call Paris,",
               "tokens": [
                 {
                   "word": "Che",
@@ -7777,7 +7783,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l38",
               "original": "Che spero or più?",
-              "literal": "What more do I hope for?",
+              "literal": "what more do I hope for now?",
               "tokens": [
                 {
                   "word": "Che",
@@ -7808,7 +7814,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l39",
               "original": "Che far degg'io!",
-              "literal": "What should I do!",
+              "literal": "What must I do!",
               "tokens": [
                 {
                   "word": "Che",
@@ -7846,7 +7852,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l41",
               "original": "Di voluttà nei vortici perire.",
-              "literal": "Of voluptuousness in the vortices perish.",
+              "literal": "and perish in the whirlpools of pleasure!",
               "tokens": [
                 {
                   "word": "Di",
@@ -7883,7 +7889,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l42",
               "original": "Sempre libera degg'io",
-              "literal": "Always free of myself",
+              "literal": "Always free must I",
               "tokens": [
                 {
                   "word": "Sempre",
@@ -7909,7 +7915,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l43",
               "original": "Folleggiar di gioia in gioia,",
-              "literal": "Fooling from joy to joy,",
+              "literal": "frolic from joy to joy,",
               "tokens": [
                 {
                   "word": "Folleggiar",
@@ -7946,7 +7952,8 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l44",
               "original": "Vo' che scorra il viver mio",
-              "literal": "I want my life to flow",
+              "literal": "I will that my life flow",
+              "grammarNote": "'Vo'' is the apocopated form of 'voglio' (I want / I will), asserting her defiant agency against her tragic fate.",
               "tokens": [
                 {
                   "word": "Vo",
@@ -7989,7 +7996,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l45",
               "original": "Pei sentieri del piacer,",
-              "literal": "Along the paths of pleasure,",
+              "literal": "along the paths of pleasure,",
               "tokens": [
                 {
                   "word": "Pei",
@@ -8020,7 +8027,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l46",
               "original": "Nasca il giorno, o il giorno muoia,",
-              "literal": "Let the day be born, or the day die,",
+              "literal": "whether the day be born, or the day die,",
               "tokens": [
                 {
                   "word": "Nasca",
@@ -8069,7 +8076,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l47",
               "original": "Sempre lieta ne' ritrovi",
-              "literal": "Always happy to meet you",
+              "literal": "ever joyful in the gatherings,",
               "tokens": [
                 {
                   "word": "Sempre",
@@ -8100,7 +8107,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l48",
               "original": "A diletti sempre nuovi",
-              "literal": "Always new delights",
+              "literal": "to ever-new delights",
               "tokens": [
                 {
                   "word": "A",
@@ -8131,7 +8138,7 @@ export const laTraviataAct1: Act = {
             {
               "id": "a1_s5_c1_l49",
               "original": "Dee volare il mio pensier.",
-              "literal": "My thoughts fly.",
+              "literal": "must my thoughts take flight.",
               "tokens": [
                 {
                   "word": "Dee",
@@ -8164,35 +8171,10 @@ export const laTraviataAct1: Act = {
                   "meaning": "thought"
                 }
               ]
-            },
-            {
-              "id": "a1_s5_c1_l50",
-              "original": "Entra a sinistra",
-              "literal": "Enter on the left",
-              "tokens": [
-                {
-                  "word": "Entra",
-                  "lemma": "entrare",
-                  "pos": "verb",
-                  "meaning": "third-person singular present indicative / second-person singular imperative"
-                },
-                {
-                  "word": "a",
-                  "lemma": "a",
-                  "pos": "noun",
-                  "meaning": "to / at"
-                },
-                {
-                  "word": "sinistra",
-                  "lemma": "sinistra",
-                  "pos": "noun",
-                  "meaning": "left"
-                }
-              ]
             }
           ],
-          "stageDirection": "Resta concentrata un istante, poi dice",
-          "stageDirectionTranslation": "She stays focused for a moment, then says"
+          "stageDirection": "Resta concentrata un istante; alla fine dell'aria esce a sinistra.",
+          "stageDirectionTranslation": "She remains lost in thought for a moment; at the conclusion of the aria she exits to the left."
         }
       ]
     }

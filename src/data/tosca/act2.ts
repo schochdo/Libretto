@@ -13851,8 +13851,8 @@ export const toscaAct2: Act = {
         {
           "id": "a2_s5_c44",
           "speaker": "Spoletta",
-          "stageDirection": "con intenzione",
-          "stageDirectionTranslation": "with intention",
+          "stageDirection": "con intenzione; poi esce.",
+          "stageDirectionTranslation": "with deep meaning; then exits.",
           "lines": [
             {
               "id": "a2_s5_c44_l1",
@@ -13878,164 +13878,14 @@ export const toscaAct2: Act = {
                   "meaning": "a surname"
                 }
               ]
-            },
-            {
-              "id": "a2_s5_c44_l2",
-              "original": "esce",
-              "literal": "exits",
-              "tokens": [
-                {
-                  "word": "esce",
-                  "lemma": "uscire",
-                  "pos": "verb",
-                  "meaning": "third-person singular present indicative of uscire"
-                }
-              ]
-            },
-            {
-              "id": "a2_s5_c44_l3",
-              "original": "Scarpia, ritto presso la porta, ascolta Spoletta allontanarsi, poi trasformato nel viso e nei gesti si avvicina con grande passione a Tosca.",
-              "literal": "Scarpia, standing near the door, listens to Spoletta go away, then with a transformed face and gestures he approaches Tosca with great passion.",
-              "tokens": [
-                {
-                  "word": "Scarpia",
-                  "lemma": "Scarpia",
-                  "pos": "noun",
-                  "meaning": "Baron Scarpia (chief of police)"
-                },
-                {
-                  "word": "ritto",
-                  "lemma": "ritto",
-                  "pos": "adjective",
-                  "meaning": "upright / on one's feet"
-                },
-                {
-                  "word": "presso",
-                  "lemma": "presso",
-                  "pos": "noun",
-                  "meaning": "near / beside"
-                },
-                {
-                  "word": "la",
-                  "lemma": "la",
-                  "pos": "noun",
-                  "meaning": "the / her / it"
-                },
-                {
-                  "word": "porta",
-                  "lemma": "porta",
-                  "pos": "noun",
-                  "meaning": "door / gate"
-                },
-                {
-                  "word": "ascolta",
-                  "lemma": "ascoltare",
-                  "pos": "verb",
-                  "meaning": "listen! / hears"
-                },
-                {
-                  "word": "Spoletta",
-                  "lemma": "Spoletta",
-                  "pos": "noun",
-                  "meaning": "Spoletta (police agent)"
-                },
-                {
-                  "word": "allontanarsi",
-                  "lemma": "allontanare",
-                  "pos": "verb",
-                  "meaning": "reflexive of allontanare / to go away or leave; to distance oneself from something"
-                },
-                {
-                  "word": "poi",
-                  "lemma": "poi",
-                  "pos": "noun",
-                  "meaning": "then / later"
-                },
-                {
-                  "word": "trasformato",
-                  "lemma": "trasformare",
-                  "pos": "verb",
-                  "meaning": "past participle of trasformare"
-                },
-                {
-                  "word": "nel",
-                  "lemma": "nel",
-                  "pos": "noun",
-                  "meaning": "in-the"
-                },
-                {
-                  "word": "viso",
-                  "lemma": "viso",
-                  "pos": "noun",
-                  "meaning": "face / countenance"
-                },
-                {
-                  "word": "e",
-                  "lemma": "e",
-                  "pos": "noun",
-                  "meaning": "and"
-                },
-                {
-                  "word": "nei",
-                  "lemma": "nei",
-                  "pos": "noun",
-                  "meaning": "in-the"
-                },
-                {
-                  "word": "gesti",
-                  "lemma": "gesti",
-                  "pos": "verb",
-                  "meaning": "gesti"
-                },
-                {
-                  "word": "si",
-                  "lemma": "si",
-                  "pos": "noun",
-                  "meaning": "oneself / himself / herself / themselves"
-                },
-                {
-                  "word": "avvicina",
-                  "lemma": "avvicina",
-                  "pos": "verb",
-                  "meaning": "avvicina"
-                },
-                {
-                  "word": "con",
-                  "lemma": "con",
-                  "pos": "noun",
-                  "meaning": "with"
-                },
-                {
-                  "word": "grande",
-                  "lemma": "grande",
-                  "pos": "noun",
-                  "meaning": "great / big"
-                },
-                {
-                  "word": "passione",
-                  "lemma": "passione",
-                  "pos": "noun",
-                  "meaning": "passion, love, addiction / fervour, enthusiasm"
-                },
-                {
-                  "word": "a",
-                  "lemma": "a",
-                  "pos": "noun",
-                  "meaning": "to / at"
-                },
-                {
-                  "word": "Tosca",
-                  "lemma": "Tosca",
-                  "pos": "noun",
-                  "meaning": "Floria Tosca (celebrated singer)"
-                }
-              ]
             }
           ]
         },
         {
           "id": "a2_s5_c45",
           "speaker": "Il Barone Scarpia",
+          "stageDirection": "Scarpia, ritto presso la porta, ascolta Spoletta allontanarsi, poi trasformato nel viso e nei gesti si avvicina con grande passione a Tosca.",
+          "stageDirectionTranslation": "Scarpia, standing near the door, listens to Spoletta depart, then with transformed expression and gestures approaches Tosca with fierce passion.",
           "lines": [
             {
               "id": "a2_s5_c45_l1",

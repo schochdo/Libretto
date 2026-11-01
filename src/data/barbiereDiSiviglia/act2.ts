@@ -5668,130 +5668,14 @@ export const barbiereDiSivigliaAct2: Act = {
                   "meaning": "minuetto"
                 }
               ]
-            },
-            {
-              "id": "a2_s3_c20_l9",
-              "original": "Entra Figaro coi bacile sotto il braccio, e si pone dietro Bartolo imitando",
-              "literal": "Figaro enters with the basin under his arm, and stands behind Bartolo in imitation",
-              "tokens": [
-                {
-                  "word": "Entra",
-                  "lemma": "entrare",
-                  "pos": "verb",
-                  "meaning": "third-person singular present indicative / second-person singular imperative"
-                },
-                {
-                  "word": "Figaro",
-                  "lemma": "Figaro",
-                  "pos": "noun",
-                  "meaning": "Figaro (valet to Count Almaviva)"
-                },
-                {
-                  "word": "coi",
-                  "lemma": "coi",
-                  "pos": "noun",
-                  "meaning": "with-the"
-                },
-                {
-                  "word": "bacile",
-                  "lemma": "bacile",
-                  "pos": "noun",
-                  "meaning": "washbasin / bowl"
-                },
-                {
-                  "word": "sotto",
-                  "lemma": "sotto",
-                  "pos": "noun",
-                  "meaning": "under"
-                },
-                {
-                  "word": "il",
-                  "lemma": "il",
-                  "pos": "noun",
-                  "meaning": "the"
-                },
-                {
-                  "word": "braccio",
-                  "lemma": "braccio",
-                  "pos": "noun",
-                  "meaning": "arm"
-                },
-                {
-                  "word": "e",
-                  "lemma": "e",
-                  "pos": "noun",
-                  "meaning": "and"
-                },
-                {
-                  "word": "si",
-                  "lemma": "si",
-                  "pos": "noun",
-                  "meaning": "oneself / himself / herself / themselves"
-                },
-                {
-                  "word": "pone",
-                  "lemma": "porre",
-                  "pos": "verb",
-                  "meaning": "third-person singular present indicative of porre"
-                },
-                {
-                  "word": "dietro",
-                  "lemma": "dietro",
-                  "pos": "noun",
-                  "meaning": "behind"
-                },
-                {
-                  "word": "Bartolo",
-                  "lemma": "Bartolo",
-                  "pos": "noun",
-                  "meaning": "Doctor Bartolo"
-                },
-                {
-                  "word": "imitando",
-                  "lemma": "imitare",
-                  "pos": "verb",
-                  "meaning": "gerund of imitare"
-                }
-              ]
-            },
-            {
-              "id": "a2_s3_c20_l10",
-              "original": "il canto con caricatura.",
-              "literal": "singing with caricature.",
-              "tokens": [
-                {
-                  "word": "il",
-                  "lemma": "il",
-                  "pos": "noun",
-                  "meaning": "the"
-                },
-                {
-                  "word": "canto",
-                  "lemma": "cantare",
-                  "pos": "verb",
-                  "meaning": "I sing / song"
-                },
-                {
-                  "word": "con",
-                  "lemma": "con",
-                  "pos": "noun",
-                  "meaning": "with"
-                },
-                {
-                  "word": "caricatura",
-                  "lemma": "caricatura",
-                  "pos": "noun",
-                  "meaning": "caricature, antic"
-                }
-              ]
             }
           ]
         },
         {
           "id": "a2_s3_c21",
           "speaker": "Don Bartolo",
-          "stageDirection": "avvedendosi di Figaro",
-          "stageDirectionTranslation": "noticing Figaro",
+          "stageDirection": "Entra Figaro col bacile sotto il braccio, e si pone dietro Bartolo imitando il canto con caricatura; Bartolo se ne avvede.",
+          "stageDirectionTranslation": "Figaro enters with the basin under his arm and stands behind Bartolo mimicking his singing in caricature; Bartolo notices him.",
           "lines": [
             {
               "id": "a2_s3_c21_l1",

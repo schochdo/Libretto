@@ -1709,6 +1709,8 @@ export const rigolettoAct1: Act = {
         {
           "id": "a1_s1_c17",
           "speaker": "La Contessa di Ceprano",
+          "stageDirection": "Il Duca le dà il braccio ed esce con lei. Entra Rigoletto che s'incontra nel signor di Ceprano, poi cortigiani.",
+          "stageDirectionTranslation": "The Duke offers her his arm and exits with her. Rigoletto enters and meets Count Ceprano, then courtiers.",
           "lines": [
             {
               "id": "a1_s1_c17_l1",
@@ -1720,146 +1722,6 @@ export const rigolettoAct1: Act = {
                   "lemma": "calmarsi",
                   "pos": "verb",
                   "meaning": "second-person plural imperative of calmarsi"
-                }
-              ]
-            },
-            {
-              "id": "a1_s1_c17_l2",
-              "original": "Il Duca le dà il braccio ed esce con lei.",
-              "literal": "The Duke gives her his arm and goes out with her.",
-              "tokens": [
-                {
-                  "word": "Il",
-                  "lemma": "il",
-                  "pos": "particle",
-                  "meaning": "the"
-                },
-                {
-                  "word": "Duca",
-                  "lemma": "duca",
-                  "pos": "noun",
-                  "meaning": "duke"
-                },
-                {
-                  "word": "le",
-                  "lemma": "le",
-                  "pos": "noun",
-                  "meaning": "the"
-                },
-                {
-                  "word": "dà",
-                  "lemma": "dà",
-                  "pos": "noun",
-                  "meaning": "gives"
-                },
-                {
-                  "word": "il",
-                  "lemma": "il",
-                  "pos": "noun",
-                  "meaning": "the"
-                },
-                {
-                  "word": "braccio",
-                  "lemma": "braccio",
-                  "pos": "noun",
-                  "meaning": "arm"
-                },
-                {
-                  "word": "ed",
-                  "lemma": "ed",
-                  "pos": "noun",
-                  "meaning": "and"
-                },
-                {
-                  "word": "esce",
-                  "lemma": "uscire",
-                  "pos": "verb",
-                  "meaning": "goes out / exits"
-                },
-                {
-                  "word": "con",
-                  "lemma": "con",
-                  "pos": "noun",
-                  "meaning": "with"
-                },
-                {
-                  "word": "lei",
-                  "lemma": "lei",
-                  "pos": "noun",
-                  "meaning": "her"
-                }
-              ]
-            },
-            {
-              "id": "a1_s1_c17_l3",
-              "original": "Entra Rigoletto che s'incontra nel signor di Ceprano, poi cortigiani.",
-              "literal": "Rigoletto enters and meets Signor di Ceprano, then courtiers.",
-              "tokens": [
-                {
-                  "word": "Entra",
-                  "lemma": "entrare",
-                  "pos": "verb",
-                  "meaning": "enters"
-                },
-                {
-                  "word": "Rigoletto",
-                  "lemma": "Rigoletto",
-                  "pos": "noun",
-                  "meaning": "Rigoletto (court jester)"
-                },
-                {
-                  "word": "che",
-                  "lemma": "che",
-                  "pos": "noun",
-                  "meaning": "that / which / what"
-                },
-                {
-                  "word": "s",
-                  "lemma": "s",
-                  "pos": "noun",
-                  "meaning": "oneself"
-                },
-                {
-                  "word": "incontra",
-                  "lemma": "incontra",
-                  "pos": "adverb",
-                  "meaning": "archaic and poetic form of incontro"
-                },
-                {
-                  "word": "nel",
-                  "lemma": "nel",
-                  "pos": "noun",
-                  "meaning": "in-the"
-                },
-                {
-                  "word": "signor",
-                  "lemma": "signor",
-                  "pos": "noun",
-                  "meaning": "Lord / Master / Sir"
-                },
-                {
-                  "word": "di",
-                  "lemma": "di",
-                  "pos": "noun",
-                  "meaning": "of / by"
-                },
-                {
-                  "word": "Ceprano",
-                  "lemma": "Ceprano",
-                  "pos": "noun",
-                  "meaning": "Count Ceprano"
-                },
-                {
-                  "word": "poi",
-                  "lemma": "poi",
-                  "pos": "noun",
-                  "meaning": "then / later"
-                },
-                {
-                  "word": "cortigiani",
-                  "lemma": "cortigiano",
-                  "pos": "adjective",
-                  "meaning": "masculine plural of cortigiano"
                 }
               ]
             }
@@ -17609,8 +17471,8 @@ export const rigolettoAct1: Act = {
         {
           "id": "a1_s6_c28",
           "speaker": "Rigoletto",
-          "stageDirection": "Si tocca gli occhi.",
-          "stageDirectionTranslation": "He touches his eyes.",
+          "stageDirection": "Si tocca gli occhi, strappa la benda e cade svenuto.",
+          "stageDirectionTranslation": "He touches his eyes, tears off the blindfold and collapses unconscious.",
           "lines": [
             {
               "id": "a1_s6_c28_l1",
@@ -17658,7 +17520,7 @@ export const rigolettoAct1: Act = {
             {
               "id": "a1_s6_c28_l2",
               "original": "Sono bendato! … Gilda!",
-              "literal": "I'm blindfolded! … Guild!",
+              "literal": "I am blindfolded! … Gilda!",
               "tokens": [
                 {
                   "word": "Sono",
@@ -17704,20 +17566,7 @@ export const rigolettoAct1: Act = {
                   "meaning": "curse, spell, malediction, bane"
                 }
               ],
-              "grammarNote": "'Ah, the curse!' Rigoletto's final cry of despair as he collapses over his daughter's corpse, recognizing Monterone's curse fulfilled."
-            },
-            {
-              "id": "a1_s6_c28_l4",
-              "original": "Sviene",
-              "literal": "Faints",
-              "tokens": [
-                {
-                  "word": "Sviene",
-                  "lemma": "svenire",
-                  "pos": "verb",
-                  "meaning": "third-person singular present indicative of svenire"
-                }
-              ]
+              "grammarNote": "'Ah, la maledizione!' Rigoletto's horrified realization that Monterone's curse is taking its toll on his own house."
             }
           ]
         }

@@ -18075,6 +18075,8 @@ export const nozzeDiFigaroAct1: Act = {
         {
           "id": "a1_s8_c29",
           "speaker": "Figaro",
+          "stageDirection": "Partono tutti alla militare.",
+          "stageDirectionTranslation": "They all depart in military fashion.",
           "lines": [
             {
               "id": "a1_s8_c29_l1",
@@ -18917,37 +18919,6 @@ export const nozzeDiFigaroAct1: Act = {
                 },
                 {
                   "word": "militar",
-                  "lemma": "militare",
-                  "pos": "adjective",
-                  "meaning": "military / army"
-                }
-              ]
-            },
-            {
-              "id": "a1_s8_c29_l25",
-              "original": "Partono tutti alla militare.\n",
-              "literal": "They all leave in the military style.",
-              "tokens": [
-                {
-                  "word": "Partono",
-                  "lemma": "partire",
-                  "pos": "verb",
-                  "meaning": "third-person plural present indicative of partire"
-                },
-                {
-                  "word": "tutti",
-                  "lemma": "tutti",
-                  "pos": "noun",
-                  "meaning": "all / everyone"
-                },
-                {
-                  "word": "alla",
-                  "lemma": "alla",
-                  "pos": "noun",
-                  "meaning": "to-the"
-                },
-                {
-                  "word": "militare",
                   "lemma": "militare",
                   "pos": "adjective",
                   "meaning": "military / army"

@@ -10513,8 +10513,8 @@ export const butterflyAct2: Act = {
         {
           "id": "a2_s3_c36",
           "speaker": "Suzuki",
-          "stageDirection": "di fuori, gridando",
-          "stageDirectionTranslation": "outside, shouting",
+          "stageDirection": "di fuori, gridando; poi entra trascinando con violenza Goro che tenta inutilmente di sfuggirle.",
+          "stageDirectionTranslation": "outside, shouting; then she enters violently dragging Goro who tries in vain to escape from her.",
           "lines": [
             {
               "id": "a2_s3_c36_l1",
@@ -10538,73 +10538,6 @@ export const butterflyAct2: Act = {
                   "lemma": "maledetto",
                   "pos": "verb",
                   "meaning": "maledetto"
-                }
-              ]
-            },
-            {
-              "id": "a2_s3_c36_l2",
-              "original": "entra trascinando con violenza Goro che tenta inutilmente di sfuggirle.",
-              "literal": "enters violently dragging Goro who tries in vain to escape from her.",
-              "tokens": [
-                {
-                  "word": "entra",
-                  "lemma": "entrare",
-                  "pos": "verb",
-                  "meaning": "third-person singular present indicative / second-person singular imperative"
-                },
-                {
-                  "word": "trascinando",
-                  "lemma": "trascinare",
-                  "pos": "verb",
-                  "meaning": "gerund of trascinare"
-                },
-                {
-                  "word": "con",
-                  "lemma": "con",
-                  "pos": "noun",
-                  "meaning": "with"
-                },
-                {
-                  "word": "violenza",
-                  "lemma": "violenza",
-                  "pos": "noun",
-                  "meaning": "violence"
-                },
-                {
-                  "word": "Goro",
-                  "lemma": "Goro",
-                  "pos": "noun",
-                  "meaning": "Goro (nakodo / marriage broker)"
-                },
-                {
-                  "word": "che",
-                  "lemma": "che",
-                  "pos": "noun",
-                  "meaning": "that / which / what"
-                },
-                {
-                  "word": "tenta",
-                  "lemma": "tenta",
-                  "pos": "verb",
-                  "meaning": "tenta"
-                },
-                {
-                  "word": "inutilmente",
-                  "lemma": "inutilmente",
-                  "pos": "adverb",
-                  "meaning": "in vain, uselessly, unnecessarily, needlessly"
-                },
-                {
-                  "word": "di",
-                  "lemma": "di",
-                  "pos": "noun",
-                  "meaning": "of / by"
-                },
-                {
-                  "word": "sfuggirle",
-                  "lemma": "sfuggirle",
-                  "pos": "verb",
-                  "meaning": "compound of the infinitive sfuggire with le"
                 }
               ]
             }

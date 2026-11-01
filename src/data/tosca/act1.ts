@@ -12486,8 +12486,8 @@ export const toscaAct1: Act = {
         {
           "id": "a1_s8_c11",
           "speaker": "Il Barone Scarpia",
-          "stageDirection": "agitandolo in aria",
-          "stageDirectionTranslation": "waving it in the air",
+          "stageDirection": "Entrano nella Cappella, poi ritornano: Scarpia, assai contrariato, ha fra le mani un ventaglio chiuso che agita nervosamente; parla fra sé.",
+          "stageDirectionTranslation": "They enter the Chapel, then return: Scarpia, very annoyed, has a closed fan in his hands which he nervously shakes; speaking to himself.",
           "lines": [
             {
               "id": "a1_s8_c11_l1",
@@ -12516,140 +12516,6 @@ export const toscaAct1: Act = {
             },
             {
               "id": "a1_s8_c11_l2",
-              "original": "entrano nella Cappella, poi ritornano: Scarpia, assai contrariato, ha fra le mani un ventaglio chiuso che agita nervosamente",
-              "literal": "they enter the Chapel, then return: Scarpia, very annoyed, has a closed fan in his hands which he is shaking nervously",
-              "tokens": [
-                {
-                  "word": "entrano",
-                  "lemma": "entrare",
-                  "pos": "verb",
-                  "meaning": "third-person plural present indicative of entrare"
-                },
-                {
-                  "word": "nella",
-                  "lemma": "nella",
-                  "pos": "noun",
-                  "meaning": "in-the"
-                },
-                {
-                  "word": "Cappella",
-                  "lemma": "cappella",
-                  "pos": "noun",
-                  "meaning": "chapel / choir and accompanying musicians assigned to a church"
-                },
-                {
-                  "word": "poi",
-                  "lemma": "poi",
-                  "pos": "noun",
-                  "meaning": "then / later"
-                },
-                {
-                  "word": "ritornano",
-                  "lemma": "ritornare",
-                  "pos": "verb",
-                  "meaning": "third-person plural present indicative of ritornare"
-                },
-                {
-                  "word": "Scarpia",
-                  "lemma": "Scarpia",
-                  "pos": "noun",
-                  "meaning": "Baron Scarpia (chief of police)"
-                },
-                {
-                  "word": "assai",
-                  "lemma": "assai",
-                  "pos": "noun",
-                  "meaning": "very / much / enough"
-                },
-                {
-                  "word": "contrariato",
-                  "lemma": "contrariare",
-                  "pos": "verb",
-                  "meaning": "past participle of contrariare"
-                },
-                {
-                  "word": "ha",
-                  "lemma": "ha",
-                  "pos": "noun",
-                  "meaning": "has"
-                },
-                {
-                  "word": "fra",
-                  "lemma": "fra",
-                  "pos": "noun",
-                  "meaning": "between / among"
-                },
-                {
-                  "word": "le",
-                  "lemma": "le",
-                  "pos": "noun",
-                  "meaning": "the"
-                },
-                {
-                  "word": "mani",
-                  "lemma": "mano",
-                  "pos": "noun",
-                  "meaning": "hands"
-                },
-                {
-                  "word": "un",
-                  "lemma": "un",
-                  "pos": "noun",
-                  "meaning": "a / an"
-                },
-                {
-                  "word": "ventaglio",
-                  "lemma": "ventaglio",
-                  "pos": "noun",
-                  "meaning": "fan"
-                },
-                {
-                  "word": "chiuso",
-                  "lemma": "chiudere",
-                  "pos": "adjective",
-                  "meaning": "closed"
-                },
-                {
-                  "word": "che",
-                  "lemma": "che",
-                  "pos": "noun",
-                  "meaning": "that / which / what"
-                },
-                {
-                  "word": "agita",
-                  "lemma": "agito",
-                  "pos": "verb",
-                  "meaning": "feminine singular of agito"
-                },
-                {
-                  "word": "nervosamente",
-                  "lemma": "nervosamente",
-                  "pos": "adverb",
-                  "meaning": "nervously / irritably"
-                }
-              ]
-            },
-            {
-              "id": "a1_s8_c11_l3",
-              "original": "fra sé",
-              "literal": "among himself",
-              "tokens": [
-                {
-                  "word": "fra",
-                  "lemma": "fra",
-                  "pos": "noun",
-                  "meaning": "between / among"
-                },
-                {
-                  "word": "sé",
-                  "lemma": "sé",
-                  "pos": "pronoun",
-                  "meaning": "oneself, himself, herself"
-                }
-              ]
-            },
-            {
-              "id": "a1_s8_c11_l4",
               "original": "Fu grave sbaglio",
               "literal": "It was a serious mistake",
               "tokens": [
@@ -12674,7 +12540,7 @@ export const toscaAct1: Act = {
               ]
             },
             {
-              "id": "a1_s8_c11_l5",
+              "id": "a1_s8_c11_l3",
               "original": "quel colpo di cannone! Il mariolo",
               "literal": "that cannon shot! The marionette",
               "tokens": [
@@ -12717,7 +12583,7 @@ export const toscaAct1: Act = {
               ]
             },
             {
-              "id": "a1_s8_c11_l6",
+              "id": "a1_s8_c11_l4",
               "original": "spiccato ha il volo, ma lasciò una preda...",
               "literal": "took flight, but left a prey...",
               "tokens": [
@@ -12772,7 +12638,7 @@ export const toscaAct1: Act = {
               ]
             },
             {
-              "id": "a1_s8_c11_l7",
+              "id": "a1_s8_c11_l5",
               "original": "preziosa... un ventaglio.",
               "literal": "precious... a fan.",
               "tokens": [
@@ -12797,7 +12663,7 @@ export const toscaAct1: Act = {
               ]
             },
             {
-              "id": "a1_s8_c11_l8",
+              "id": "a1_s8_c11_l6",
               "original": "Qual complice il misfatto preparò?",
               "literal": "Which accomplice prepared the crime?",
               "tokens": [
@@ -12834,7 +12700,7 @@ export const toscaAct1: Act = {
               ]
             },
             {
-              "id": "a1_s8_c11_l9",
+              "id": "a1_s8_c11_l7",
               "original": "La marchesa Attavanti!...",
               "literal": "The Marquise Attavanti!...",
               "tokens": [
@@ -12859,7 +12725,7 @@ export const toscaAct1: Act = {
               ]
             },
             {
-              "id": "a1_s8_c11_l10",
+              "id": "a1_s8_c11_l8",
               "original": "Il suo stemma!...",
               "literal": "His coat of arms!...",
               "tokens": [
@@ -12884,7 +12750,7 @@ export const toscaAct1: Act = {
               ]
             },
             {
-              "id": "a1_s8_c11_l11",
+              "id": "a1_s8_c11_l9",
               "original": "Il suo ritratto!",
               "literal": "His portrait!",
               "tokens": [
@@ -12909,7 +12775,7 @@ export const toscaAct1: Act = {
               ]
             },
             {
-              "id": "a1_s8_c11_l12",
+              "id": "a1_s8_c11_l10",
               "original": "Chi fe' quelle pitture?",
               "literal": "Who made those paintings?",
               "tokens": [
