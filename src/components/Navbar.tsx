@@ -1,5 +1,6 @@
 import React from 'react';
 import { Opera, OperaSummary, ThemeMode } from '../types/libretto';
+import { isIOS, isTouchDevice } from '../utils/speech';
 import { 
   Sun, 
   Moon, 
@@ -198,36 +199,15 @@ export const Navbar: React.FC<NavbarProps> = ({
     return results;
   }, [currentOpera, searchQuery]);
 
-  // Comprehensive detection for iOS / iPadOS touch devices across all browsers
-  // (Safari, Brave with Shields Farbling, Chrome for iOS, Firefox for iOS, Edge for iOS)
-  const isIOSTouch = React.useCallback(() => {
-    if (typeof window === 'undefined') return false;
-
-    // 1. Standard iOS User-Agent check (iPhone, iPod, iPad in mobile mode)
-    if (/iPad|iPhone|iPod/.test(navigator.userAgent)) return true;
-
-    // 2. WKWebView standalone property (unique to iOS/iPadOS WebKit, absent on desktop macOS)
-    if ('standalone' in navigator) return true;
-
-    // 3. iPadOS Desktop Site mode on Safari (MacIntel + maxTouchPoints >= 2)
-    if (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1) return true;
-
-    // 4. iPadOS in Brave / privacy browsers where maxTouchPoints is spoofed to 0 by fingerprint shields
-    // MacIntel platform + hardware touch events supported ('ontouchstart' in window or TouchEvent defined)
-    if (navigator.platform === 'MacIntel' && ('ontouchstart' in window || typeof TouchEvent !== 'undefined')) {
-      return true;
-    }
-
-    return false;
-  }, []);
-
   // Check if native browser element fullscreen is truly safe, enabled, and supported
   const isNativeFsSupported = React.useCallback(() => {
     if (typeof document === 'undefined') return false;
 
-    // On all iOS/iPadOS devices, native DOM element fullscreen is either completely unsupported
-    // (Brave/Chrome in WKWebView throws errors) or broken (Safari shows video player close 'X' and exits on scroll).
-    if (isIOSTouch()) return false;
+    // On all iOS/iPadOS devices and touch screens (Safari, Brave with Shields, Chrome for iOS, tablets, phones),
+    // native DOM element fullscreen is either completely blocked in WKWebView (Brave/Chrome)
+    // or broken (Safari shows QuickTime video overlay that exits on touch scroll).
+    // Always use Libretto's clean in-app Immersive Fullscreen on touch devices!
+    if (isTouchDevice() || isIOS()) return false;
 
     const doc = document as any;
     const docEl = document.documentElement as any;
@@ -247,7 +227,7 @@ export const Navbar: React.FC<NavbarProps> = ({
     );
 
     return enabled && hasFn;
-  }, [isIOSTouch]);
+  }, []);
 
   React.useEffect(() => {
     // Only listen for native fullscreen events if native fullscreen is actually supported
@@ -353,7 +333,7 @@ export const Navbar: React.FC<NavbarProps> = ({
   }, []);
 
   return (
-    <header className="sticky top-0 z-30 border-b px-3 sm:px-6 py-2 sm:py-2.5 transition-all"
+    <header className={`sticky top-0 z-30 border-b px-3 sm:px-6 transition-all ${isFullscreen ? 'py-1 sm:py-1.5' : 'py-2 sm:py-2.5'}`}
       style={{
         backgroundColor: 'var(--bg-secondary)',
         borderColor: 'var(--border-color)',

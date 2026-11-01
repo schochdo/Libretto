@@ -18,14 +18,29 @@ export const TARGET_LANG_CODE: Record<SupportedLanguage, string> = {
   en: 'en-GB'
 };
 
-// Detect iOS devices (iPhone, iPad, iPod) where system voices have different naming & sandbox rules
+// Detect iOS / iPadOS devices across all browsers (Safari, Brave with Farbling Shields, Chrome for iOS)
 export const isIOS = (): boolean => {
   if (typeof window === 'undefined') return false;
   return (
     /iPhone|iPad|iPod/.test(navigator.userAgent) ||
     ('standalone' in navigator) ||
     (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1) ||
-    (navigator.platform === 'MacIntel' && ('ontouchstart' in window || typeof TouchEvent !== 'undefined'))
+    (navigator.platform === 'MacIntel' && ('ontouchstart' in window || typeof TouchEvent !== 'undefined')) ||
+    (typeof window.matchMedia === 'function' && window.matchMedia('(pointer: coarse)').matches && navigator.vendor === 'Apple Computer, Inc.') ||
+    (typeof CSS !== 'undefined' && CSS.supports && (CSS.supports('-webkit-touch-callout', 'none') || CSS.supports('-webkit-touch-callout', 'default')))
+  );
+};
+
+// Detect any touch-screen device (tablets, phones) where native DOM element fullscreen is either
+// broken (QuickTime video overlay on Safari) or blocked (WKWebView in Brave / Chrome)
+export const isTouchDevice = (): boolean => {
+  if (typeof window === 'undefined') return false;
+  return (
+    isIOS() ||
+    (typeof window.matchMedia === 'function' && window.matchMedia('(pointer: coarse)').matches) ||
+    (typeof navigator !== 'undefined' && navigator.maxTouchPoints > 0) ||
+    ('ontouchstart' in window) ||
+    (typeof TouchEvent !== 'undefined')
   );
 };
 
