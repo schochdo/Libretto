@@ -2638,7 +2638,7 @@ export const fidelioAct2: Act = {
             {
               "id": "a2_s2_c49_l1",
               "original": "O Barbar! Deine Grausamkeit gibt mir meine Kräfte",
-              "literal": "O Barbar! your grausam-ness gives to me my strengths",
+              "literal": "O barbarian! Your cruelty gives me back my strength",
               "tokens": [
                 {
                   "word": "Deine",

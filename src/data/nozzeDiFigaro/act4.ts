@@ -4782,7 +4782,7 @@ export const nozzeDiFigaroAct4: Act = {
             {
               "id": "a4_s7_c6_l2",
               "original": "la mal pratica ragion,",
-              "literal": "the ill-practiced reason,",
+              "literal": "inexperienced reason,",
               "tokens": [
                 {
                   "word": "la",

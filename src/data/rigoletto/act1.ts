@@ -3696,7 +3696,7 @@ export const rigolettoAct1: Act = {
             {
               "id": "a1_s1_c55_l1",
               "original": "Vendetta del pazzo! Contr'esso un rancore",
-              "literal": "Revenge of the madman! A grudge against it",
+              "literal": "Revenge on the madman! A grudge against him",
               "tokens": [
                 {
                   "word": "Vendetta",
@@ -3739,7 +3739,7 @@ export const rigolettoAct1: Act = {
             {
               "id": "a1_s1_c55_l2",
               "original": "Di noi chi non ha? Vendetta!",
-              "literal": "Who among us doesn't have? Vendetta!",
+              "literal": "who among us does not bear? Revenge!",
               "tokens": [
                 {
                   "word": "Di",
@@ -4256,7 +4256,7 @@ export const rigolettoAct1: Act = {
             {
               "id": "a1_s1_c62_l1",
               "original": "Vendetta del pazzo! Contr'esso un rancore",
-              "literal": "Revenge of the madman! A grudge against it",
+              "literal": "Revenge on the madman! A grudge against him",
               "tokens": [
                 {
                   "word": "Vendetta",
@@ -4299,7 +4299,7 @@ export const rigolettoAct1: Act = {
             {
               "id": "a1_s1_c62_l2",
               "original": "Pei tristi suoi modi di noi chi non ha?",
-              "literal": "For his sad ways, who doesn't have us?",
+              "literal": "for his spiteful ways, who among us does not bear?",
               "tokens": [
                 {
                   "word": "Pei",

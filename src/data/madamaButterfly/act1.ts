@@ -7648,102 +7648,15 @@ export const butterflyAct1: Act = {
                   "meaning": "she too / also it"
                 }
               ]
-            },
-            {
-              "id": "a1_s4_c19_l2",
-              "original": "SHARPLESS",
-              "literal": "SHARPLESS",
-              "tokens": [
-                {
-                  "word": "SHARPLESS",
-                  "lemma": "Sharpless",
-                  "pos": "noun",
-                  "meaning": "Sharpless (United States consul at Nagasaki)"
-                }
-              ]
-            },
-            {
-              "id": "a1_s4_c19_l3",
-              "original": "E vostro padre?",
-              "literal": "And your father?",
-              "tokens": [
-                {
-                  "word": "E",
-                  "lemma": "e",
-                  "pos": "noun",
-                  "meaning": "and"
-                },
-                {
-                  "word": "vostro",
-                  "lemma": "vostro",
-                  "pos": "noun",
-                  "meaning": "your"
-                },
-                {
-                  "word": "padre",
-                  "lemma": "padre",
-                  "pos": "noun",
-                  "meaning": "father"
-                }
-              ]
             }
           ]
         },
         {
           "id": "a1_s4_c20",
           "speaker": "Madama Butterfly (Cio-Cio-San)",
-          "stageDirection": "Le amiche chinano la testa; Goro è imbarazzato. Tutte si sventolano nervosamente coi ventagli.",
-          "stageDirectionTranslation": "The friends bow their heads; Goro is embarrassed. They all nervously fan themselves with fans.",
+          "stageDirection": "si arresta sorpresa, poi secco secco risponde",
+          "stageDirectionTranslation": "she stops surprised, then replies curtly",
           "lines": [
-            {
-              "id": "a1_s4_c20_l1",
-              "original": "si arresta sorpresa, poi secco secco risponde",
-              "literal": "si arresta sorpresa, poi secco secco risponde",
-              "tokens": [
-                {
-                  "word": "si",
-                  "lemma": "si",
-                  "pos": "noun",
-                  "meaning": "oneself / himself / herself / themselves"
-                },
-                {
-                  "word": "arresta",
-                  "lemma": "arrestare",
-                  "pos": "verb",
-                  "meaning": "third-person singular present / second-person singular imperative"
-                },
-                {
-                  "word": "sorpresa",
-                  "lemma": "sorpreso",
-                  "pos": "adjective",
-                  "meaning": "feminine singular of sorpreso"
-                },
-                {
-                  "word": "poi",
-                  "lemma": "poi",
-                  "pos": "noun",
-                  "meaning": "then / later"
-                },
-                {
-                  "word": "secco",
-                  "lemma": "secco",
-                  "pos": "adjective",
-                  "meaning": "dry / dried"
-                },
-                {
-                  "word": "secco",
-                  "lemma": "secco",
-                  "pos": "adjective",
-                  "meaning": "dry / dried"
-                },
-                {
-                  "word": "risponde",
-                  "lemma": "rispondere",
-                  "pos": "verb",
-                  "meaning": "third-person singular present indicative of rispondere"
-                }
-              ]
-            },
             {
               "id": "a1_s4_c20_l2",
               "original": "Morto.",
@@ -7764,31 +7677,6 @@ export const butterflyAct1: Act = {
           "speaker": "Sharpless",
           "lines": [
             {
-              "id": "a1_s4_c21_l1",
-              "original": "ritornando presso Butterfly",
-              "literal": "ritornando presso Butterfly",
-              "tokens": [
-                {
-                  "word": "ritornando",
-                  "lemma": "ritornare",
-                  "pos": "verb",
-                  "meaning": "gerund of ritornare"
-                },
-                {
-                  "word": "presso",
-                  "lemma": "presso",
-                  "pos": "noun",
-                  "meaning": "near / beside"
-                },
-                {
-                  "word": "Butterfly",
-                  "lemma": "Butterfly",
-                  "pos": "noun",
-                  "meaning": "Madama Butterfly (Cio-Cio-San)"
-                }
-              ]
-            },
-            {
               "id": "a1_s4_c21_l2",
               "original": "Quant'anni avete?",
               "literal": "How old are you?",
@@ -7807,43 +7695,14 @@ export const butterflyAct1: Act = {
                 }
               ]
             }
-          ]
+          ],
+          "stageDirection": "ritornando presso Butterfly",
+          "stageDirectionTranslation": "returning near Butterfly"
         },
         {
           "id": "a1_s4_c22",
           "speaker": "Madama Butterfly (Cio-Cio-San)",
           "lines": [
-            {
-              "id": "a1_s4_c22_l1",
-              "original": "con civetteria quasi infantile",
-              "literal": "con civetteria quasi infantile",
-              "tokens": [
-                {
-                  "word": "con",
-                  "lemma": "con",
-                  "pos": "noun",
-                  "meaning": "with"
-                },
-                {
-                  "word": "civetteria",
-                  "lemma": "civetteria",
-                  "pos": "noun",
-                  "meaning": "coquetry, coquettishness, flirting"
-                },
-                {
-                  "word": "quasi",
-                  "lemma": "quasi",
-                  "pos": "verb",
-                  "meaning": "quasi"
-                },
-                {
-                  "word": "infantile",
-                  "lemma": "infantile",
-                  "pos": "adjective",
-                  "meaning": "infantile / infantile puerile, childish, babyish"
-                }
-              ]
-            },
             {
               "id": "a1_s4_c22_l2",
               "original": "Indovinate.",
@@ -7857,7 +7716,9 @@ export const butterflyAct1: Act = {
                 }
               ]
             }
-          ]
+          ],
+          "stageDirection": "con civetteria quasi infantile",
+          "stageDirectionTranslation": "with almost childlike coquetry"
         },
         {
           "id": "a1_s4_c23",
@@ -9303,8 +9164,8 @@ export const butterflyAct1: Act = {
             },
             {
               "id": "a1_s4_c41_l3",
-              "original": "sbirciando, cercando di non farsi scorgere  Guardiamo un po'.",
-              "literal": "sbirciando, cercando di non farsi scorgere  Guardiamo un po'.",
+              "original": "Guardiamo un po'.",
+              "literal": "Let us look a little.",
               "tokens": [
                 {
                   "word": "sbirciando",
@@ -13292,8 +13153,8 @@ export const butterflyAct1: Act = {
           "lines": [
             {
               "id": "a1_s4_c57_l1",
-              "original": "Mamma, vien qua.  agli altri",
-              "literal": "Mamma, vien qua.  agli altri",
+              "original": "Mamma, vien qua.",
+              "literal": "Mama, come here.",
               "tokens": [
                 {
                   "word": "Mamma",
@@ -13489,181 +13350,6 @@ export const butterflyAct1: Act = {
                   "lemma": "Sharpless",
                   "pos": "noun",
                   "meaning": "Sharpless (United States consul at Nagasaki)"
-                }
-              ]
-            },
-            {
-              "id": "a1_s4_c57_l5",
-              "original": "I parenti si rialzano e si spargono nel giardino; Goro ne conduce qualcuno nell'interno della casa. Pinkerton prende per mano Butterfly e la conduce veso la casa.",
-              "literal": "I parenti si rialzano e si spargono nel giardino; Goro ne conduce qualcuno nell'interno della casa. Pinkerton prende per mano Butterfly e la conduce veso la casa.",
-              "tokens": [
-                {
-                  "word": "I",
-                  "lemma": "i",
-                  "pos": "noun",
-                  "meaning": "the"
-                },
-                {
-                  "word": "parenti",
-                  "lemma": "parente",
-                  "pos": "noun",
-                  "meaning": "plural of parente"
-                },
-                {
-                  "word": "si",
-                  "lemma": "si",
-                  "pos": "noun",
-                  "meaning": "oneself / himself / herself / themselves"
-                },
-                {
-                  "word": "rialzano",
-                  "lemma": "rialzare",
-                  "pos": "verb",
-                  "meaning": "third-person plural present indicative of rialzare"
-                },
-                {
-                  "word": "e",
-                  "lemma": "e",
-                  "pos": "noun",
-                  "meaning": "and"
-                },
-                {
-                  "word": "si",
-                  "lemma": "si",
-                  "pos": "noun",
-                  "meaning": "oneself / himself / herself / themselves"
-                },
-                {
-                  "word": "spargono",
-                  "lemma": "spargere",
-                  "pos": "verb",
-                  "meaning": "third-person plural present indicative of spargere"
-                },
-                {
-                  "word": "nel",
-                  "lemma": "nel",
-                  "pos": "noun",
-                  "meaning": "in-the"
-                },
-                {
-                  "word": "giardino",
-                  "lemma": "giardino",
-                  "pos": "noun",
-                  "meaning": "garden"
-                },
-                {
-                  "word": "Goro",
-                  "lemma": "Goro",
-                  "pos": "noun",
-                  "meaning": "Goro (nakodo / marriage broker)"
-                },
-                {
-                  "word": "ne",
-                  "lemma": "ne",
-                  "pos": "noun",
-                  "meaning": "of-it / of-them"
-                },
-                {
-                  "word": "conduce",
-                  "lemma": "condurre",
-                  "pos": "verb",
-                  "meaning": "third-person singular present indicative of condurre"
-                },
-                {
-                  "word": "qualcuno",
-                  "lemma": "qualcuno",
-                  "pos": "noun",
-                  "meaning": "someone"
-                },
-                {
-                  "word": "nell",
-                  "lemma": "nell",
-                  "pos": "noun",
-                  "meaning": "in-the"
-                },
-                {
-                  "word": "interno",
-                  "lemma": "interno",
-                  "pos": "adjective",
-                  "meaning": "inside, indoor; internal, interior, inner / domestic, home, inland"
-                },
-                {
-                  "word": "della",
-                  "lemma": "della",
-                  "pos": "noun",
-                  "meaning": "of-the"
-                },
-                {
-                  "word": "casa",
-                  "lemma": "casa",
-                  "pos": "noun",
-                  "meaning": "house"
-                },
-                {
-                  "word": "Pinkerton",
-                  "lemma": "Pinkerton",
-                  "pos": "noun",
-                  "meaning": "B. F. Pinkerton (Lieutenant in the US Navy)"
-                },
-                {
-                  "word": "prende",
-                  "lemma": "prende",
-                  "pos": "noun",
-                  "meaning": "takes"
-                },
-                {
-                  "word": "per",
-                  "lemma": "per",
-                  "pos": "noun",
-                  "meaning": "for / through"
-                },
-                {
-                  "word": "mano",
-                  "lemma": "mano",
-                  "pos": "noun",
-                  "meaning": "hand"
-                },
-                {
-                  "word": "Butterfly",
-                  "lemma": "Butterfly",
-                  "pos": "noun",
-                  "meaning": "Madama Butterfly (Cio-Cio-San)"
-                },
-                {
-                  "word": "e",
-                  "lemma": "e",
-                  "pos": "noun",
-                  "meaning": "and"
-                },
-                {
-                  "word": "la",
-                  "lemma": "la",
-                  "pos": "noun",
-                  "meaning": "the / her / it"
-                },
-                {
-                  "word": "conduce",
-                  "lemma": "condurre",
-                  "pos": "verb",
-                  "meaning": "third-person singular present indicative of condurre"
-                },
-                {
-                  "word": "veso",
-                  "lemma": "veso",
-                  "pos": "noun",
-                  "meaning": "veso"
-                },
-                {
-                  "word": "la",
-                  "lemma": "la",
-                  "pos": "noun",
-                  "meaning": "the / her / it"
-                },
-                {
-                  "word": "casa",
-                  "lemma": "casa",
-                  "pos": "noun",
-                  "meaning": "house / home"
                 }
               ]
             }
@@ -14389,8 +14075,8 @@ export const butterflyAct1: Act = {
             },
             {
               "id": "a1_s4_c72_l2",
-              "original": "coll'invito...  fa il gesto di chi s'apre il ventre",
-              "literal": "coll'invito...  fa il gesto di chi s'apre il ventre",
+              "original": "coll'invito...",
+              "literal": "with the invitation...",
               "tokens": [
                 {
                   "word": "coll",
@@ -14552,121 +14238,6 @@ export const butterflyAct1: Act = {
                   "lemma": "casa",
                   "pos": "noun",
                   "meaning": "house"
-                }
-              ]
-            },
-            {
-              "id": "a1_s4_c74_l3",
-              "original": "Butterfly, che è ritornata, va a sedersi sulla terrazza vicino a Pinkerton e leva dalle maniche alcune statuette.",
-              "literal": "Butterfly, che è ritornata, va a sedersi sulla terrazza vicino a Pinkerton e leva dalle maniche alcune statuette.",
-              "tokens": [
-                {
-                  "word": "Butterfly",
-                  "lemma": "Butterfly",
-                  "pos": "noun",
-                  "meaning": "Madama Butterfly (Cio-Cio-San)"
-                },
-                {
-                  "word": "che",
-                  "lemma": "che",
-                  "pos": "noun",
-                  "meaning": "that / which / what"
-                },
-                {
-                  "word": "è",
-                  "lemma": "è",
-                  "pos": "noun",
-                  "meaning": "is"
-                },
-                {
-                  "word": "ritornata",
-                  "lemma": "ritornato",
-                  "pos": "verb",
-                  "meaning": "feminine singular of ritornato"
-                },
-                {
-                  "word": "va",
-                  "lemma": "andare",
-                  "pos": "verb",
-                  "meaning": "goes / go!"
-                },
-                {
-                  "word": "a",
-                  "lemma": "a",
-                  "pos": "noun",
-                  "meaning": "to / at"
-                },
-                {
-                  "word": "sedersi",
-                  "lemma": "sedersi",
-                  "pos": "verb",
-                  "meaning": "sedersi"
-                },
-                {
-                  "word": "sulla",
-                  "lemma": "sulla",
-                  "pos": "noun",
-                  "meaning": "on-the"
-                },
-                {
-                  "word": "terrazza",
-                  "lemma": "terrazza",
-                  "pos": "noun",
-                  "meaning": "terrace / balcony"
-                },
-                {
-                  "word": "vicino",
-                  "lemma": "vicino",
-                  "pos": "noun",
-                  "meaning": "neighbor / near"
-                },
-                {
-                  "word": "a",
-                  "lemma": "a",
-                  "pos": "noun",
-                  "meaning": "to / at"
-                },
-                {
-                  "word": "Pinkerton",
-                  "lemma": "Pinkerton",
-                  "pos": "noun",
-                  "meaning": "B. F. Pinkerton (Lieutenant in the US Navy)"
-                },
-                {
-                  "word": "e",
-                  "lemma": "e",
-                  "pos": "noun",
-                  "meaning": "and"
-                },
-                {
-                  "word": "leva",
-                  "lemma": "leva",
-                  "pos": "verb",
-                  "meaning": "leva"
-                },
-                {
-                  "word": "dalle",
-                  "lemma": "dalle",
-                  "pos": "noun",
-                  "meaning": "from-the"
-                },
-                {
-                  "word": "maniche",
-                  "lemma": "manica",
-                  "pos": "noun",
-                  "meaning": "plural of manica"
-                },
-                {
-                  "word": "alcune",
-                  "lemma": "alcune",
-                  "pos": "verb",
-                  "meaning": "alcune"
-                },
-                {
-                  "word": "statuette",
-                  "lemma": "statuetta",
-                  "pos": "noun",
-                  "meaning": "plural of statuetta"
                 }
               ]
             }

@@ -1305,7 +1305,7 @@ export const donPasqualeAct2: Act = {
             {
               "id": "a2_s2_c1_l7",
               "original": "convien dir che son lesto e ben portante.",
-              "literal": "it must be said that I am quick and well-carried.",
+              "literal": "it must be said that I am spry and in good health.",
               "tokens": [
                 {
                   "word": "convien",
@@ -1353,7 +1353,7 @@ export const donPasqualeAct2: Act = {
                   "word": "portante",
                   "lemma": "portare",
                   "pos": "verb",
-                  "meaning": "present participle of portare"
+                  "meaning": "hale / in good health (ben portante)"
                 }
               ]
             },

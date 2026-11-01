@@ -813,7 +813,7 @@ export const rigolettoAct3: Act = {
             {
               "id": "a3_s1_c20_l1",
               "original": "La donna è mobile",
-              "literal": "The woman is mobile",
+              "literal": "Woman is fickle",
               "tokens": [
                 {
                   "word": "La",
@@ -837,7 +837,7 @@ export const rigolettoAct3: Act = {
                   "word": "mobile",
                   "lemma": "mobile",
                   "pos": "noun",
-                  "meaning": "fickle / mobile / piece of furniture"
+                  "meaning": "fickle / inconstant / changeable"
                 }
               ],
               "grammarNote": "'Woman is fickle like a feather in the wind.' Verdi's iconic canzone expressing cynical disdain for women's loyalty."
@@ -1026,7 +1026,7 @@ export const rigolettoAct3: Act = {
             {
               "id": "a3_s1_c20_l9",
               "original": "È sempre misero",
-              "literal": "It's always miserable",
+              "literal": "Ever wretched is he",
               "tokens": [
                 {
                   "word": "È",
@@ -1051,7 +1051,7 @@ export const rigolettoAct3: Act = {
             {
               "id": "a3_s1_c20_l10",
               "original": "Chi a lei s'affida,",
-              "literal": "Whoever trusts in her,",
+              "literal": "who confides in her,",
               "tokens": [
                 {
                   "word": "Chi",
@@ -1088,7 +1088,7 @@ export const rigolettoAct3: Act = {
             {
               "id": "a3_s1_c20_l11",
               "original": "Chi le confida",
-              "literal": "Whoever confides to her",
+              "literal": "who entrusts to her",
               "tokens": [
                 {
                   "word": "Chi",
@@ -1113,25 +1113,25 @@ export const rigolettoAct3: Act = {
             {
               "id": "a3_s1_c20_l12",
               "original": "Mal cauto il core!",
-              "literal": "The heart is ill-cautious!",
+              "literal": "his incautious heart!",
               "tokens": [
                 {
                   "word": "Mal",
-                  "lemma": "mal",
-                  "pos": "noun",
-                  "meaning": "badly / ill"
+                  "lemma": "male",
+                  "pos": "adverb",
+                  "meaning": "poorly / unwisely / incautiously"
                 },
                 {
                   "word": "cauto",
                   "lemma": "cauto",
-                  "pos": "noun",
-                  "meaning": "cautious / wary"
+                  "pos": "adjective",
+                  "meaning": "cautious / guarded / wary"
                 },
                 {
                   "word": "il",
                   "lemma": "il",
                   "pos": "noun",
-                  "meaning": "the"
+                  "meaning": "the / his"
                 },
                 {
                   "word": "core",

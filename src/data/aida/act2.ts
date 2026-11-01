@@ -12932,7 +12932,7 @@ export const aidaAct2: Act = {
             {
               "id": "a2_s2_c67_l4",
               "original": "Non val d'Aida il cor)",
-              "literal": "The heart is not worth Aida)",
+              "literal": "is not worth Aida's heart.",
               "tokens": [
                 {
                   "word": "Non",
@@ -12944,7 +12944,7 @@ export const aidaAct2: Act = {
                   "word": "val",
                   "lemma": "val",
                   "pos": "noun",
-                  "meaning": "is worth / valley"
+                  "meaning": "is worth / equals (3rd sg. pres.)"
                 },
                 {
                   "word": "d",
@@ -13471,7 +13471,7 @@ export const aidaAct2: Act = {
             {
               "id": "a2_s2_c72_l4",
               "original": "Non val d'Aida il cor.",
-              "literal": "The heart is not worth Aida.",
+              "literal": "is not worth Aida's heart.",
               "tokens": [
                 {
                   "word": "Non",
@@ -13483,7 +13483,7 @@ export const aidaAct2: Act = {
                   "word": "val",
                   "lemma": "val",
                   "pos": "noun",
-                  "meaning": "is worth / valley"
+                  "meaning": "is worth / equals (3rd sg. pres.)"
                 },
                 {
                   "word": "d",
@@ -13545,7 +13545,7 @@ export const aidaAct2: Act = {
             {
               "id": "a2_s2_c72_l6",
               "original": "Non val d'Aida il cor.",
-              "literal": "The heart is not worth Aida.",
+              "literal": "is not worth Aida's heart.",
               "tokens": [
                 {
                   "word": "Non",
@@ -13557,7 +13557,7 @@ export const aidaAct2: Act = {
                   "word": "val",
                   "lemma": "val",
                   "pos": "noun",
-                  "meaning": "is worth / valley"
+                  "meaning": "is worth / equals (3rd sg. pres.)"
                 },
                 {
                   "word": "d",
@@ -13619,7 +13619,7 @@ export const aidaAct2: Act = {
             {
               "id": "a2_s2_c72_l8",
               "original": "Non val d'Aida il cor)",
-              "literal": "The heart is not worth Aida)",
+              "literal": "is not worth Aida's heart.",
               "tokens": [
                 {
                   "word": "Non",
@@ -13631,7 +13631,7 @@ export const aidaAct2: Act = {
                   "word": "val",
                   "lemma": "val",
                   "pos": "noun",
-                  "meaning": "is worth / valley"
+                  "meaning": "is worth / equals (3rd sg. pres.)"
                 },
                 {
                   "word": "d",

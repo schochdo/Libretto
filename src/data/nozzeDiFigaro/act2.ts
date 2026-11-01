@@ -13183,7 +13183,7 @@ export const nozzeDiFigaroAct2: Act = {
             {
               "id": "a2_s4_c6_l2",
               "original": "Dà proprio nel giardino.",
-              "literal": "It gives right into the garden.",
+              "literal": "It looks right out into the garden.",
               "tokens": [
                 {
                   "word": "Dà",

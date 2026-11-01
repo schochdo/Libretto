@@ -6461,7 +6461,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s5_c16_l1",
               "original": "Ihr seid so gut, ihr macht mir Mut,",
-              "literal": "You are so good, you makes to me courage,",
+              "literal": "You are so good, you give me courage,",
               "tokens": [
                 {
                   "word": "Ihr",
