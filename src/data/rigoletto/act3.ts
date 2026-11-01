@@ -808,7 +808,7 @@ export const rigolettoAct3: Act = {
           "id": "a3_s1_c20",
           "speaker": "Il Duca di Mantova",
           "stageDirection": "Sparafucile rientra con una bottiglia di vino e due bicchieri che depone sulla tavola: quindi batte col pomo della sua lunga spada due colpi al soffitto. A quel segnale una ridente giovane, in costume di zingara, scende a salti la scala. Il Duca corre per abbracciarla, ma ella gli sfugge. Frattanto Sparafucile, uscito sulla via, dice a parte a Rigoletto:",
-          "stageDirectionTranslation": "Sparafucile rientra con una bottiglia di vino e due bicchieri che depone sulla tavola: quindi batte col pomo della sua lunga spada due colpi al soffitto. A quel segnale una ridente giovane, in costume di zingara, scende a salti la scala. Il Duca corre per abbracciarla, ma ella gli sfugge. Frattanto Sparafucile, uscito sulla via, dice a parte a Rigoletto:",
+          "stageDirectionTranslation": "Sparafucile re-enters with a bottle of wine and two glasses, which he places on the table; then, with the pommel of his long sword, he strikes two blows against the ceiling. At that signal a laughing young woman, in gypsy costume, comes skipping down the stairs. The Duke runs to embrace her, but she eludes him. Meanwhile Sparafucile, stepping out onto the street, says aside to Rigoletto:",
           "lines": [
             {
               "id": "a3_s1_c20_l1",
@@ -5254,7 +5254,7 @@ export const rigolettoAct3: Act = {
           "id": "a3_s3_c27",
           "speaker": "Sparafucile",
           "stageDirection": "Maddalena sale al granaio e contempla il dormente, poi ripara alla meglio il balcone e scende portando con sé la spada. Nel frattempo Gilda comparisce dal fondo della via in costume virile, con stivali e speroni, e lentamente si avanza verso l'osteria, mentre Sparafucile continua a bere. Spessi lampi e tuoni.",
-          "stageDirectionTranslation": "Maddalena sale al granaio e contempla il dormente, poi ripara alla meglio il balcone e scende portando con sé la spada. Nel frattempo Gilda comparisce dal fondo della via in costume virile, con stivali e speroni, e lentamente si avanza verso l'osteria, mentre Sparafucile continua a bere. Spessi lampi e tuoni.",
+          "stageDirectionTranslation": "Maddalena climbs to the hayloft and contemplates the sleeping man, then repairs the shutter as best she can and descends bringing the sword with her. Meanwhile Gilda appears at the far end of the street in male attire, with boots and spurs, and slowly advances towards the inn, while Sparafucile continues drinking. Frequent flashes of lightning and thunder.",
           "lines": [
             {
               "id": "a3_s3_c27_l1",
