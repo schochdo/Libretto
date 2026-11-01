@@ -7676,7 +7676,7 @@ export const normaAct2: Act = {
             {
               "id": "a2_s6_c11_l3",
               "original": "E qui di sangue, sangue roman,",
-              "literal": "E qui di sangue, sangue roman,",
+              "literal": "And here with blood, Roman blood,",
               "tokens": [
                 {
                   "word": "E",
@@ -8780,7 +8780,7 @@ export const normaAct2: Act = {
             {
               "id": "a2_s7_c5_l16",
               "original": "Ecco il Dio sovra un raggio di sol!",
-              "literal": "Ecco il Dio sovra un raggio di sol!",
+              "literal": "Behold the God upon a ray of sun!",
               "tokens": [
                 {
                   "word": "Ecco",

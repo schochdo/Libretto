@@ -180,24 +180,36 @@ def main():
             has_sd = False
             has_sdt = False
             sd_val = ''
+            sdt_val = ''
             cue_id = ''
             cue_line_num = 0
             for line_idx, line in enumerate(lines, 1):
                 if '"id": "a' in line and '_l' not in line:
                     if has_sd and not has_sdt:
                         errors.append(f"[{op_name} {act_file.name}:{cue_line_num}] Missing stageDirectionTranslation for cue {cue_id}: {sd_val}")
+                    elif has_sd and has_sdt:
+                        # Rule 13: Stage direction translation must not be untranslated identical text
+                        if len(sd_val) > 10 and sd_val.strip() == sdt_val.strip() and not re.search(r'^(?:Tamino|Papageno|Pamina)', sd_val):
+                            errors.append(f"[{op_name} {act_file.name}:{cue_line_num}] Untranslated stage direction for cue {cue_id}: \"{sd_val}\"")
                     cue_id = line.strip()
                     cue_line_num = line_idx
                     has_sd = False
                     has_sdt = False
                     sd_val = ''
+                    sdt_val = ''
                 if '"stageDirection":' in line:
                     has_sd = True
-                    sd_val = line.strip()
+                    m = re.search(r'"stageDirection":\s*"([^"]+)"', line)
+                    sd_val = m.group(1) if m else ''
                 if '"stageDirectionTranslation":' in line:
                     has_sdt = True
+                    m = re.search(r'"stageDirectionTranslation":\s*"([^"]+)"', line)
+                    sdt_val = m.group(1) if m else ''
             if has_sd and not has_sdt:
                 errors.append(f"[{op_name} {act_file.name}:{cue_line_num}] Missing stageDirectionTranslation for cue {cue_id}: {sd_val}")
+            elif has_sd and has_sdt:
+                if len(sd_val) > 10 and sd_val.strip() == sdt_val.strip() and not re.search(r'^(?:Tamino|Papageno|Pamina)', sd_val):
+                    errors.append(f"[{op_name} {act_file.name}:{cue_line_num}] Untranslated stage direction for cue {cue_id}: \"{sd_val}\"")
 
             # Count cues & lines
             cues_count = len(re.findall(r'"id":\s*"a\d+_s\d+_c\d+"', content))

@@ -795,7 +795,7 @@ export const cosiFanTutteAct2: Act = {
             }
           ],
           "stageDirection": "fra sé; a Despina",
-          "stageDirectionTranslation": "fra sé; a Despina"
+          "stageDirectionTranslation": "to herself; to Despina"
         },
         {
           "id": "a2_s1_c13",
@@ -2731,7 +2731,7 @@ export const cosiFanTutteAct2: Act = {
             }
           ],
           "stageDirection": "fra sé; alle padrone",
-          "stageDirectionTranslation": "fra sé; alle padrone"
+          "stageDirectionTranslation": "to herself; to the mistresses"
         },
         {
           "id": "a2_s1_c24",
@@ -3705,7 +3705,7 @@ export const cosiFanTutteAct2: Act = {
             }
           ],
           "stageDirection": "fra sé; parte",
-          "stageDirectionTranslation": "fra sé; parte"
+          "stageDirectionTranslation": "to herself; she leaves"
         }
       ]
     },
@@ -6512,7 +6512,7 @@ export const cosiFanTutteAct2: Act = {
             }
           ],
           "stageDirection": "a Ferrando e Guglielmo; La barca s'allontana dalla sponda",
-          "stageDirectionTranslation": "a Ferrando e Guglielmo; La barca s'allontana dalla sponda"
+          "stageDirectionTranslation": "to Ferrando and Guglielmo; The boat draws away from the shore"
         },
         {
           "id": "a2_s4_c6",
@@ -7316,7 +7316,7 @@ export const cosiFanTutteAct2: Act = {
             }
           ],
           "stageDirection": "prende per mano Dorabella, mentre Despina prende Fiordiligi; agli amanti; alle signore",
-          "stageDirectionTranslation": "prende per mano Dorabella, mentre Despina prende Fiordiligi; agli amanti; alle signore"
+          "stageDirectionTranslation": "takes Dorabella by the hand, while Despina takes Fiordiligi; to the lovers; to the ladies"
         },
         {
           "id": "a2_s4_c17",
@@ -7859,7 +7859,7 @@ export const cosiFanTutteAct2: Act = {
             }
           ],
           "stageDirection": "mettendosi davanti alle due ragazze; Despina prende la mano di Dorabella, Don Alfonso quella di Fiordiligi; e fan rompere i lacci agli amanti, cui mettono al braccio dei medesimi",
-          "stageDirectionTranslation": "mettendosi davanti alle due ragazze; Despina prende la mano di Dorabella, Don Alfonso quella di Fiordiligi; e fan rompere i lacci agli amanti, cui mettono al braccio dei medesimi"
+          "stageDirectionTranslation": "stepping in front of the two girls; Despina takes Dorabella's hand, Don Alfonso takes Fiordiligi's; and they make the lovers untie their ribbons, which they place on the lovers' arms"
         },
         {
           "id": "a2_s4_c24",
@@ -8003,7 +8003,7 @@ export const cosiFanTutteAct2: Act = {
             }
           ],
           "stageDirection": "a parte, sottovoce; partono",
-          "stageDirectionTranslation": "a parte, sottovoce; partono"
+          "stageDirectionTranslation": "aside, in an undertone; they leave"
         }
       ]
     },
@@ -8792,7 +8792,7 @@ export const cosiFanTutteAct2: Act = {
             }
           ],
           "stageDirection": "fra sé; forte",
-          "stageDirectionTranslation": "fra sé; forte"
+          "stageDirectionTranslation": "to himself; loud"
         },
         {
           "id": "a2_s5_c16",
@@ -9486,7 +9486,7 @@ export const cosiFanTutteAct2: Act = {
             }
           ],
           "stageDirection": "fra sé; forte, mostrandole un ciondolo",
-          "stageDirectionTranslation": "fra sé; forte, mostrandole un ciondolo"
+          "stageDirectionTranslation": "to himself; loud, showing her a miniature locket"
         },
         {
           "id": "a2_s5_c25",
@@ -9855,7 +9855,7 @@ export const cosiFanTutteAct2: Act = {
             }
           ],
           "stageDirection": "fra sé; a Dorabella",
-          "stageDirectionTranslation": "fra sé; a Dorabella"
+          "stageDirectionTranslation": "to himself; to Dorabella"
         },
         {
           "id": "a2_s5_c31",
@@ -10146,7 +10146,7 @@ export const cosiFanTutteAct2: Act = {
             }
           ],
           "stageDirection": "fra sé; a Dorabella",
-          "stageDirectionTranslation": "fra sé; a Dorabella"
+          "stageDirectionTranslation": "to himself; to Dorabella"
         },
         {
           "id": "a2_s5_c39",
@@ -11027,7 +11027,7 @@ export const cosiFanTutteAct2: Act = {
             }
           ],
           "stageDirection": "fra sé; a Dorabella",
-          "stageDirectionTranslation": "fra sé; a Dorabella"
+          "stageDirectionTranslation": "to himself; to Dorabella"
         },
         {
           "id": "a2_s5_c51",
@@ -12384,7 +12384,7 @@ export const cosiFanTutteAct2: Act = {
             }
           ],
           "stageDirection": "lietissimo; mesto; parte",
-          "stageDirectionTranslation": "lietissimo; mesto; parte"
+          "stageDirectionTranslation": "overjoyed; mournful; leaves"
         }
       ]
     },
@@ -15848,7 +15848,7 @@ export const cosiFanTutteAct2: Act = {
             }
           ],
           "stageDirection": "furente; vuol partire",
-          "stageDirectionTranslation": "furente; vuol partire"
+          "stageDirectionTranslation": "furious; turns to leave"
         },
         {
           "id": "a2_s8_c26",
@@ -19395,7 +19395,7 @@ export const cosiFanTutteAct2: Act = {
             {
               "id": "a2_s10_c2_l1",
               "original": "Invan, Despina,",
-              "literal": "Invan, Despina,",
+              "literal": "In vain, Despina,",
               "tokens": [
                 {
                   "word": "Invan",
@@ -23201,7 +23201,7 @@ export const cosiFanTutteAct2: Act = {
             }
           ],
           "stageDirection": "fra sé; parte",
-          "stageDirectionTranslation": "fra sé; parte"
+          "stageDirectionTranslation": "to herself; she leaves"
         },
         {
           "id": "a2_s11_c9",
@@ -23444,7 +23444,7 @@ export const cosiFanTutteAct2: Act = {
             }
           ],
           "stageDirection": "fra sé; a Despina, che ritorna",
-          "stageDirectionTranslation": "fra sé; a Despina, che ritorna"
+          "stageDirectionTranslation": "to himself; to Despina, who returns"
         },
         {
           "id": "a2_s11_c11",
@@ -23677,7 +23677,7 @@ export const cosiFanTutteAct2: Act = {
             }
           ],
           "stageDirection": "fra sé; parte",
-          "stageDirectionTranslation": "fra sé; parte"
+          "stageDirectionTranslation": "to herself; she leaves"
         }
       ]
     },
@@ -24851,7 +24851,7 @@ export const cosiFanTutteAct2: Act = {
             }
           ],
           "stageDirection": "prende la spada dal tavolino, la sfodera, ecc.; s'inginocchia",
-          "stageDirectionTranslation": "prende la spada dal tavolino, la sfodera, ecc.; s'inginocchia"
+          "stageDirectionTranslation": "takes the sword from the table, draws it, etc.; kneels down"
         },
         {
           "id": "a2_s12_c8",
@@ -25571,7 +25571,7 @@ export const cosiFanTutteAct2: Act = {
             }
           ],
           "stageDirection": "tremando; Don Alfonso trattiene Guglielmo che vorrebbe entrare",
-          "stageDirectionTranslation": "tremando; Don Alfonso trattiene Guglielmo che vorrebbe entrare"
+          "stageDirectionTranslation": "trembling; Don Alfonso restrains Guglielmo who wants to enter"
         },
         {
           "id": "a2_s12_c19",
@@ -29126,7 +29126,7 @@ export const cosiFanTutteAct2: Act = {
             }
           ],
           "stageDirection": "entrando; mentre Don Alfonso canta, i suonatori accordano",
-          "stageDirectionTranslation": "entrando; mentre Don Alfonso canta, i suonatori accordano"
+          "stageDirectionTranslation": "entering; while Don Alfonso sings, the musicians tune their instruments"
         },
         {
           "id": "a2_s15_c4",
@@ -32555,7 +32555,7 @@ export const cosiFanTutteAct2: Act = {
             }
           ],
           "stageDirection": "fra sé; i servi portano un baule",
-          "stageDirectionTranslation": "fra sé; i servi portano un baule"
+          "stageDirectionTranslation": "to himself; the servants bring in a trunk"
         },
         {
           "id": "a2_s18_c8",
@@ -33451,7 +33451,7 @@ export const cosiFanTutteAct2: Act = {
             }
           ],
           "stageDirection": "alle ragazze; vanno per entrare nell'altra camera; le donne li arrestano",
-          "stageDirectionTranslation": "alle ragazze; vanno per entrare nell'altra camera; le donne li arrestano"
+          "stageDirectionTranslation": "to the girls; they move to enter the other room; the women stop them"
         },
         {
           "id": "a2_s18_c17",
@@ -33925,7 +33925,7 @@ export const cosiFanTutteAct2: Act = {
             }
           ],
           "stageDirection": "fra sé; Ferrando e Guglielmo entrano un momento in camera, poi sortono senza cappello, senza mantelli e senza mustacchi, ma coll'abito finto ecc. e burlano in modo ridicolo le amanti e Despina",
-          "stageDirectionTranslation": "fra sé; Ferrando e Guglielmo entrano un momento in camera, poi sortono senza cappello, senza mantelli e senza mustacchi, ma coll'abito finto ecc. e burlano in modo ridicolo le amanti e Despina"
+          "stageDirectionTranslation": "to himself; Ferrando and Guglielmo go into the room for a moment, then emerge without hats, cloaks, or false moustaches, but in their disguise costumes etc., and mock the lovers and Despina in a ridiculous manner"
         },
         {
           "id": "a2_s18_c22",

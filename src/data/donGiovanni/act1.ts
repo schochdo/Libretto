@@ -1260,7 +1260,7 @@ export const donGiovanniAct1: Act = {
             }
           ],
           "stageDirection": "con spada e lume; Donn'Anna, udendo la voce del padre, lascia Don Giovanni ed entra in casa.",
-          "stageDirectionTranslation": "con spada e lume; Donn'Anna, udendo la voce del padre, lascia Don Giovanni ed entra in casa."
+          "stageDirectionTranslation": "with sword and lantern; Donna Anna, hearing her father's voice, releases Don Giovanni and runs into the house."
         },
         {
           "id": "a1_s1_c13",
@@ -13427,7 +13427,7 @@ export const donGiovanniAct1: Act = {
             }
           ],
           "stageDirection": "a Zerlina, a parte; a Leporello, che lo vuol condur seco; a Zerlina; Masetto parte con Leporello ed i contadini",
-          "stageDirectionTranslation": "a Zerlina, a parte; a Leporello, che lo vuol condur seco; a Zerlina; Masetto parte con Leporello ed i contadini"
+          "stageDirectionTranslation": "to Zerlina, aside; to Leporello, who wants to lead him off; to Zerlina; Masetto departs with Leporello and the peasants"
         }
       ]
     },
@@ -18885,7 +18885,7 @@ export const donGiovanniAct1: Act = {
             }
           ],
           "stageDirection": "forte, a Don Giovanni; a parte, guardando Don Giovanni; Donn'Elvira parte",
-          "stageDirectionTranslation": "forte, a Don Giovanni; a parte, guardando Don Giovanni; Donn'Elvira parte"
+          "stageDirectionTranslation": "aloud, to Don Giovanni; aside, glaring at Don Giovanni; Donna Elvira departs"
         },
         {
           "id": "a1_s12_c20",
@@ -28184,7 +28184,7 @@ export const donGiovanniAct1: Act = {
             }
           ],
           "stageDirection": "S'ode un'orchestra in lontananza; Partono",
-          "stageDirectionTranslation": "S'ode un'orchestra in lontananza; Partono"
+          "stageDirectionTranslation": "An orchestra is heard in the distance; They depart"
         }
       ]
     },
@@ -29757,7 +29757,7 @@ export const donGiovanniAct1: Act = {
             }
           ],
           "stageDirection": "a parte; vengono portati e distribuiti i rinfreschi",
-          "stageDirectionTranslation": "a parte; vengono portati e distribuiti i rinfreschi"
+          "stageDirectionTranslation": "aside; refreshments are brought in and served"
         },
         {
           "id": "a1_s21_c8",
@@ -30480,7 +30480,7 @@ export const donGiovanniAct1: Act = {
             }
           ],
           "stageDirection": "a Leporello; Don Ottavio balla il minuetto con Donn'Anna",
-          "stageDirectionTranslation": "a Leporello; Don Ottavio balla il minuetto con Donn'Anna"
+          "stageDirectionTranslation": "to Leporello; Don Ottavio dances the minuet with Donna Anna"
         },
         {
           "id": "a1_s22_c5",
@@ -30814,7 +30814,7 @@ export const donGiovanniAct1: Act = {
             }
           ],
           "stageDirection": "a Leporello; a Zerlina; si mette a ballare una Controdanza con Zerlina",
-          "stageDirectionTranslation": "a Leporello; a Zerlina; si mette a ballare una Controdanza con Zerlina"
+          "stageDirectionTranslation": "to Leporello; to Zerlina; he begins dancing a contredanse with Zerlina"
         },
         {
           "id": "a1_s22_c11",
@@ -31140,7 +31140,7 @@ export const donGiovanniAct1: Act = {
             }
           ],
           "stageDirection": "a Ottavio; a Donn'Anna",
-          "stageDirectionTranslation": "a Ottavio; a Donn'Anna"
+          "stageDirectionTranslation": "to Ottavio; to Donna Anna"
         },
         {
           "id": "a1_s22_c17",
@@ -31423,7 +31423,7 @@ export const donGiovanniAct1: Act = {
             }
           ],
           "stageDirection": "Entra; fra loro",
-          "stageDirectionTranslation": "Entra; fra loro"
+          "stageDirectionTranslation": "Enters; among themselves"
         },
         {
           "id": "a1_s22_c21",
@@ -31536,7 +31536,7 @@ export const donGiovanniAct1: Act = {
             }
           ],
           "stageDirection": "di dentro; I suonatori partono",
-          "stageDirectionTranslation": "di dentro; I suonatori partono"
+          "stageDirectionTranslation": "from within; The musicians depart"
         },
         {
           "id": "a1_s22_c22",
@@ -32165,7 +32165,7 @@ export const donGiovanniAct1: Act = {
             }
           ],
           "stageDirection": "cavando una pistola; Si cavano la maschera",
-          "stageDirectionTranslation": "cavando una pistola; Si cavano la maschera"
+          "stageDirectionTranslation": "drawing a pistol; They remove their masks"
         },
         {
           "id": "a1_s22_c29",

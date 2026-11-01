@@ -1668,7 +1668,7 @@ export const faustAct5: Act = {
             {
               "id": "a5_s1_c14_l1",
               "original": "Mon cœur est",
-              "literal": "Mon cœur est",
+              "literal": "My heart is",
               "tokens": [
                 {
                   "word": "Mon",

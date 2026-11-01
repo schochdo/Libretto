@@ -4969,7 +4969,7 @@ export const faustAct4: Act = {
             {
               "id": "a4_s2_c14_l1",
               "original": "Vous qui faites l'",
-              "literal": "Vous qui faites l'",
+              "literal": "You who play the",
               "tokens": [
                 {
                   "word": "Vous",
@@ -7819,7 +7819,7 @@ export const faustAct4: Act = {
             {
               "id": "a4_s4_c19_l7",
               "original": "Et pardonne au pêcheur! -",
-              "literal": "Et pardonne au pêcheur! -",
+              "literal": "And forgive the sinner! –",
               "tokens": [
                 {
                   "word": "Et",

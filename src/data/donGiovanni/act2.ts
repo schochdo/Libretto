@@ -2195,7 +2195,7 @@ export const donGiovanniAct2: Act = {
             }
           ],
           "stageDirection": "con collera; Fanno cambio del mantello e del cappello",
-          "stageDirectionTranslation": "con collera; Fanno cambio del mantello e del cappello"
+          "stageDirectionTranslation": "in anger; They exchange cloak and hat"
         }
       ]
     },
@@ -5207,7 +5207,7 @@ export const donGiovanniAct2: Act = {
             }
           ],
           "stageDirection": "fingendo di uccidere qualcheduno; Fuggon assieme",
-          "stageDirectionTranslation": "fingendo di uccidere qualcheduno; Fuggon assieme"
+          "stageDirectionTranslation": "pretending to slay someone; They flee together"
         },
         {
           "id": "a2_s3_c26",
@@ -6170,7 +6170,7 @@ export const donGiovanniAct2: Act = {
             }
           ],
           "stageDirection": "forte; a' suoi; più forte",
-          "stageDirectionTranslation": "forte; a' suoi; più forte"
+          "stageDirectionTranslation": "loudly; to his men; louder"
         },
         {
           "id": "a2_s4_c7",
@@ -7441,7 +7441,7 @@ export const donGiovanniAct2: Act = {
             }
           ],
           "stageDirection": "accennando a destra; accennando a sinistra; ai Contadini; a Masetto; Partono i Contadini da opposte vie",
-          "stageDirectionTranslation": "accennando a destra; accennando a sinistra; ai Contadini; a Masetto; Partono i Contadini da opposte vie"
+          "stageDirectionTranslation": "pointing to the right; pointing to the left; to the peasants; to Masetto; The peasants depart in opposite directions"
         }
       ]
     },
@@ -10297,7 +10297,7 @@ export const donGiovanniAct2: Act = {
             }
           ],
           "stageDirection": "andando a tentone; sbaglia l'uscita",
-          "stageDirectionTranslation": "andando a tentone; sbaglia l'uscita"
+          "stageDirectionTranslation": "groping in the dark; misses the exit"
         }
       ]
     },
@@ -10797,7 +10797,7 @@ export const donGiovanniAct2: Act = {
             }
           ],
           "stageDirection": "dalla porta senza esser visto; Leporello, nell'uscire, s'incontra con Masetto e Zerlina.",
-          "stageDirectionTranslation": "dalla porta senza esser visto; Leporello, nell'uscire, s'incontra con Masetto e Zerlina."
+          "stageDirectionTranslation": "through the doorway unseen; as Leporello slips out, he bumps into Masetto and Zerlina."
         }
       ]
     },
@@ -12614,7 +12614,7 @@ export const donGiovanniAct2: Act = {
             }
           ],
           "stageDirection": "piano a Donna Elvira; a Zerlina; accennando a Donna Elvira; a Don Ottavio, con confusione; additando la porta dov'erasi chiuso per errore; fugge precipitosamente",
-          "stageDirectionTranslation": "piano a Donna Elvira; a Zerlina; accennando a Donna Elvira; a Don Ottavio, con confusione; additando la porta dov'erasi chiuso per errore; fugge precipitosamente"
+          "stageDirectionTranslation": "softly to Donna Elvira; to Zerlina; gesturing towards Donna Elvira; to Don Ottavio, flustered; pointing to the door where he had locked himself in by mistake; flees headlong"
         }
       ]
     },
@@ -13918,7 +13918,7 @@ export const donGiovanniAct2: Act = {
             }
           ],
           "stageDirection": "chiamando verso la scena; Si trascina dietro Leporello per tutta la scena.",
-          "stageDirectionTranslation": "chiamando verso la scena; Si trascina dietro Leporello per tutta la scena."
+          "stageDirectionTranslation": "calling offstage; He drags Leporello across the entire stage after him."
         },
         {
           "id": "a2_s11_c10",
@@ -16168,7 +16168,7 @@ export const donGiovanniAct2: Act = {
             }
           ],
           "stageDirection": "ad un contadino che passa in fondo della scena:; Il contadino parte.; Fa sforzi per sciogliersi, cade la finestra ove sta legato il capo della corda.; Corre via trascinando seco sedia e finestra.",
-          "stageDirectionTranslation": "ad un contadino che passa in fondo della scena:; Il contadino parte.; Fa sforzi per sciogliersi, cade la finestra ove sta legato il capo della corda.; Corre via trascinando seco sedia e finestra."
+          "stageDirectionTranslation": "to a peasant passing at the back of the stage; The peasant runs off; Leporello struggles to break free, the window frame to which the cord is tied collapses; He bolts away dragging the chair and window frame behind him."
         }
       ]
     },
@@ -17756,7 +17756,7 @@ export const donGiovanniAct2: Act = {
             }
           ],
           "stageDirection": "ridendo entra pel muretto; guardando l'orologio",
-          "stageDirectionTranslation": "ridendo entra pel muretto; guardando l'orologio",
+          "stageDirectionTranslation": "laughing, leaps over the low wall; looking at his watch",
           "pieceTitle": "Nr. 22 - Duetto"
         },
         {
@@ -21338,7 +21338,7 @@ export const donGiovanniAct2: Act = {
             }
           ],
           "stageDirection": "alla statua; la statua china la testa",
-          "stageDirectionTranslation": "alla statua; la statua china la testa"
+          "stageDirectionTranslation": "to the statue; the statue bows its head"
         },
         {
           "id": "a2_s15_c55",
@@ -23476,7 +23476,7 @@ export const donGiovanniAct2: Act = {
             }
           ],
           "stageDirection": "i suonatori cominciano; alludendo ad un pezzo di musica nell'opera «La cosa rara»",
-          "stageDirectionTranslation": "i suonatori cominciano; alludendo ad un pezzo di musica nell'opera «La cosa rara»"
+          "stageDirectionTranslation": "the musicians begin; referring to a musical piece from the opera 'Una cosa rara'"
         },
         {
           "id": "a2_s17_c3",
@@ -23853,7 +23853,7 @@ export const donGiovanniAct2: Act = {
             }
           ],
           "stageDirection": "muta il piatto; alludendo ad altr'opera di titolo «Fra due litiganti il terzo gode»",
-          "stageDirectionTranslation": "muta il piatto; alludendo ad altr'opera di titolo «Fra due litiganti il terzo gode»"
+          "stageDirectionTranslation": "changes the dish; referring to another opera titled 'Fra i due litiganti il terzo gode'"
         },
         {
           "id": "a2_s17_c9",
@@ -25176,7 +25176,7 @@ export const donGiovanniAct2: Act = {
             }
           ],
           "stageDirection": "alzandosi e facendo alzare Donna Elvira; con affettata tenerezza",
-          "stageDirectionTranslation": "alzandosi e facendo alzare Donna Elvira; con affettata tenerezza"
+          "stageDirectionTranslation": "rising and helping Donna Elvira up; with affected tenderness"
         },
         {
           "id": "a2_s18_c7",
@@ -26154,7 +26154,7 @@ export const donGiovanniAct2: Act = {
             }
           ],
           "stageDirection": "entra spaventato e chiude l'uscio; imitando i passi del Commendatore.",
-          "stageDirectionTranslation": "entra spaventato e chiude l'uscio; imitando i passi del Commendatore."
+          "stageDirectionTranslation": "rushes in terrified and slams the door shut; imitating the heavy footsteps of the Commendatore."
         },
         {
           "id": "a2_s18_c19",

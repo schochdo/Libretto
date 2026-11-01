@@ -8112,7 +8112,7 @@ export const toscaAct2: Act = {
           "id": "a2_s4_c73",
           "speaker": "Il Barone Scarpia",
           "stageDirection": "Sciarrone rientra e subito appare Cavaradossi svenuto, portato dai birri che lo depongono sul canapè. Tosca corre a lui, ma l'orrore della vista dell'amante insanguinato è così forte, ch'essa sgomentata si copre il volto per non vederlo - poi, vergognosa di questa sua debolezza, si inginocchia presso di lui, baciandolo e piangendo. Sciarrone, il Giudice, Roberti, lo Scrivano escono dal fondo, mentre, ad un cenno di Scarpia, Spoletta ed i birri si fermano.",
-          "stageDirectionTranslation": "Sciarrone rientra e subito appare Cavaradossi svenuto, portato dai birri che lo depongono sul canapè. Tosca corre a lui, ma l'orrore della vista dell'amante insanguinato è così forte, ch'essa sgomentata si copre il volto per non vederlo - poi, vergognosa di questa sua debolezza, si inginocchia presso di lui, baciandolo e piangendo. Sciarrone, il Giudice, Roberti, lo Scrivano escono dal fondo, mentre, ad un cenno di Scarpia, Spoletta ed i birri si fermano.",
+          "stageDirectionTranslation": "Sciarrone re-enters, and immediately Cavaradossi appears unconscious, carried in by the gendarmes who lay him upon the sofa. Tosca rushes to him, but the horror of seeing her bloodied lover is so overpowering that, stricken with terror, she covers her face—then, ashamed of her weakness, she kneels beside him, kissing him and weeping. Sciarrone, the Judge, Roberti, and the Clerk exit at the back, while at a gesture from Scarpia, Spoletta and the guards halt.",
           "lines": [
             {
               "id": "a2_s4_c73_l1",
@@ -14212,7 +14212,7 @@ export const toscaAct2: Act = {
           "id": "a2_s5_c52",
           "speaker": "Floria Tosca",
           "stageDirection": "Finalmente ha potuto prendere il coltello, che dissimula dietro di sé appoggiandosi alla tavola e sempre sorvegliando Scarpia. Questi ha finito di scrivere il salvacondotto, vi mette il sigillo, ripiega il foglio: quindi aprendo le braccia si avvicina a Tosca per avvincerla a sé.",
-          "stageDirectionTranslation": "Finalmente ha potuto prendere il coltello, che dissimula dietro di sé appoggiandosi alla tavola e sempre sorvegliando Scarpia. Questi ha finito di scrivere il salvacondotto, vi mette il sigillo, ripiega il foglio: quindi aprendo le braccia si avvicina a Tosca per avvincerla a sé.",
+          "stageDirectionTranslation": "At last she has managed to grasp the knife, concealing it behind her back as she leans against the table, keeping her eyes fixed on Scarpia. He finishes writing the safe-conduct, stamps it with the seal, and folds the paper; then, opening his arms, he approaches Tosca to clasp her to his chest.",
           "lines": [
             {
               "id": "a2_s5_c52_l1",

@@ -5055,7 +5055,7 @@ export const fidelioAct1: Act = {
             {
               "id": "a1_s4_c13_l2",
               "original": "Strafe verdient?",
-              "literal": "Strafe verdient?",
+              "literal": "Deserves punishment?",
               "tokens": []
             }
           ]

@@ -4477,7 +4477,7 @@ export const faustAct1: Act = {
             {
               "id": "a1_s2_c30_l1",
               "original": "En route!",
-              "literal": "En route!",
+              "literal": "On our way!",
               "tokens": [
                 {
                   "word": "En",

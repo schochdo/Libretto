@@ -6824,7 +6824,7 @@ export const nozzeDiFigaroAct3: Act = {
             }
           ],
           "stageDirection": "si volge vedendo Figaro che abbraccia Marcellina; vuol partire",
-          "stageDirectionTranslation": "si volge vedendo Figaro che abbraccia Marcellina; vuol partire"
+          "stageDirectionTranslation": "turns around seeing Figaro embracing Marcellina; turns to leave"
         },
         {
           "id": "a3_s5_c45",
@@ -8058,7 +8058,7 @@ export const nozzeDiFigaroAct3: Act = {
             }
           ],
           "stageDirection": "a Susanna; Corrono tutti quattro ad abbracciarsi; Il Conte e Don Curzio partono.",
-          "stageDirectionTranslation": "a Susanna; Corrono tutti quattro ad abbracciarsi; Il Conte e Don Curzio partono."
+          "stageDirectionTranslation": "to Susanna; All four rush to embrace each other; The Count and Don Curzio depart."
         }
       ]
     },
@@ -14264,7 +14264,7 @@ export const nozzeDiFigaroAct3: Act = {
             }
           ],
           "stageDirection": "finge di drizzarsi la gamba e poi si prova a ballare; vuol partire, il Conte lo richiama",
-          "stageDirectionTranslation": "finge di drizzarsi la gamba e poi si prova a ballare; vuol partire, il Conte lo richiama"
+          "stageDirectionTranslation": "pretends to straighten his leg and tries to dance; turns to leave, but the Count calls him back"
         },
         {
           "id": "a3_s13_c4",
@@ -14929,7 +14929,7 @@ export const nozzeDiFigaroAct3: Act = {
             }
           ],
           "stageDirection": "a Susanna che fa de' motti a Figaro; prende per mano Cherubino e lo presenta a Figaro",
-          "stageDirectionTranslation": "a Susanna che fa de' motti a Figaro; prende per mano Cherubino e lo presenta a Figaro"
+          "stageDirectionTranslation": "to Susanna who makes gestures to Figaro; takes Cherubino by the hand and presents him to Figaro"
         },
         {
           "id": "a3_s13_c13",
@@ -16008,7 +16008,7 @@ export const nozzeDiFigaroAct3: Act = {
             }
           ],
           "stageDirection": "I figuranti ballano. Susanna essendo in ginocchio durante il duo, tira il Conte per l'abito, gli mostra il bigliettino, dopo passa la mano dal lato degli spettatori alla testa, dove pare che il Conte le aggiusti il cappello, e gli dà il biglietto. Il Conte se lo mette furtivamente in seno, Susanna s'alza, e gli fa una riverenza. Figaro viene a riceverla, e si balla il fandango. Marecellina s'alza un po' più tardi. Bartolo viene a riceverla dalle mani della Contessa.",
-          "stageDirectionTranslation": "I figuranti ballano. Susanna essendo in ginocchio durante il duo, tira il Conte per l'abito, gli mostra il bigliettino, dopo passa la mano dal lato degli spettatori alla testa, dove pare che il Conte le aggiusti il cappello, e gli dà il biglietto. Il Conte se lo mette furtivamente in seno, Susanna s'alza, e gli fa una riverenza. Figaro viene a riceverla, e si balla il fandango. Marecellina s'alza un po' più tardi. Bartolo viene a riceverla dalle mani della Contessa."
+          "stageDirectionTranslation": "The extras dance. Susanna, being on her knees during the duet, tugs the Count's coat, shows him the note, then moves her hand on the audience's side to her head, where the Count appears to adjust her hat, and slips him the note. The Count surreptitiously tucks it into his breast; Susanna rises and curtseys to him. Figaro comes to take her, and the fandango is danced. Marcellina rises a little later; Bartolo receives her from the Countess's hands."
         },
         {
           "id": "a3_s14_c3",
@@ -16363,7 +16363,7 @@ export const nozzeDiFigaroAct3: Act = {
             }
           ],
           "stageDirection": "vede tutto e dice a Susanna; Il Conte legge, bacia il biglietto, cerca la spilla, la trova e se la mette alla manica del saio.",
-          "stageDirectionTranslation": "vede tutto e dice a Susanna; Il Conte legge, bacia il biglietto, cerca la spilla, la trova e se la mette alla manica del saio."
+          "stageDirectionTranslation": "sees everything and whispers to Susanna; The Count reads, kisses the note, looks for the pin, finds it and pins it to the sleeve of his coat."
         },
         {
           "id": "a3_s14_c5",

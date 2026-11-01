@@ -6715,7 +6715,7 @@ export const normaAct1: Act = {
             {
               "id": "a1_s4_c11_l2",
               "original": "E un sol del popolo empio",
-              "literal": "E un sol del popolo empio",
+              "literal": "And not a single one of the wicked people",
               "tokens": [
                 {
                   "word": "E",
@@ -6795,7 +6795,7 @@ export const normaAct1: Act = {
             {
               "id": "a1_s4_c11_l4",
               "original": "E primier da noi percosso",
-              "literal": "E primier da noi percosso",
+              "literal": "And struck down first by us",
               "tokens": [
                 {
                   "word": "E",
@@ -9338,7 +9338,7 @@ export const normaAct1: Act = {
             {
               "id": "a1_s6_c12_l1",
               "original": "E tu pure, ah, tu non sai",
-              "literal": "E tu pure, ah, tu non sai",
+              "literal": "And you too, ah, you do not know",
               "tokens": [
                 {
                   "word": "E",
@@ -11977,7 +11977,7 @@ export const normaAct1: Act = {
             {
               "id": "a1_s7_c2_l1",
               "original": "E qual ti turba strano timor,",
-              "literal": "E qual ti turba strano timor,",
+              "literal": "And what strange fear troubles you,",
               "tokens": [
                 {
                   "word": "E",
@@ -12205,7 +12205,7 @@ export const normaAct1: Act = {
             {
               "id": "a1_s7_c3_l5",
               "original": "E soffro s'io non li veggo.",
-              "literal": "E soffro s'io non li veggo.",
+              "literal": "And I suffer if I do not see them.",
               "tokens": [
                 {
                   "word": "E",

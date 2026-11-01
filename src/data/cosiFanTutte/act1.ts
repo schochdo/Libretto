@@ -773,7 +773,7 @@ export const cosiFanTutteAct1: Act = {
             }
           ],
           "stageDirection": "Metton mano alla spada; fra sé",
-          "stageDirectionTranslation": "Metton mano alla spada; fra sé"
+          "stageDirectionTranslation": "They put their hands to their swords; to himself"
         },
         {
           "id": "a1_s1_c5",
@@ -8694,7 +8694,7 @@ export const cosiFanTutteAct1: Act = {
             }
           ],
           "stageDirection": "fra sé; Si sente un tamburo in distanza",
-          "stageDirectionTranslation": "fra sé; Si sente un tamburo in distanza"
+          "stageDirectionTranslation": "to himself; A drum is heard in the distance"
         },
         {
           "id": "a1_s4_c24",
@@ -10140,7 +10140,7 @@ export const cosiFanTutteAct1: Act = {
             }
           ],
           "stageDirection": "Ecc.; mentre si ripete il coro, Ferrando e Guglielmo entrano nella barca che poi s'allontana tra suon di tamburi ecc. I soldati partono seguiti dagli uomini e dalle donne. Le amanti restano immobili sulla sponda del mare",
-          "stageDirectionTranslation": "Ecc.; mentre si ripete il coro, Ferrando e Guglielmo entrano nella barca che poi s'allontana tra suon di tamburi ecc. I soldati partono seguiti dagli uomini e dalle donne. Le amanti restano immobili sulla sponda del mare"
+          "stageDirectionTranslation": "Etc.; while the chorus is repeated, Ferrando and Guglielmo board the boat which then departs amid the sound of drums, etc. The soldiers march off followed by the men and women. The lovers remain motionless on the seashore."
         }
       ]
     },
@@ -12141,7 +12141,7 @@ export const cosiFanTutteAct1: Act = {
             }
           ],
           "stageDirection": "frullando il cioccolatte; Si forbe la bocca",
-          "stageDirectionTranslation": "frullando il cioccolatte; Si forbe la bocca"
+          "stageDirectionTranslation": "whisking the chocolate; She wipes her mouth"
         }
       ]
     },
@@ -12220,7 +12220,7 @@ export const cosiFanTutteAct1: Act = {
             }
           ],
           "stageDirection": "presentando il cioccolatte sopra una guantiera; Dorabella gitta tutto a terra",
-          "stageDirectionTranslation": "presentando il cioccolatte sopra una guantiera; Dorabella gitta tutto a terra",
+          "stageDirectionTranslation": "presenting the chocolate on a tray; Dorabella flings everything to the floor",
           "pieceTitle": "N. 11 - Aria"
         },
         {
@@ -15545,7 +15545,7 @@ export const cosiFanTutteAct1: Act = {
             }
           ],
           "stageDirection": "ridendo; partono",
-          "stageDirectionTranslation": "ridendo; partono"
+          "stageDirectionTranslation": "laughing; they leave"
         }
       ]
     },
@@ -18850,7 +18850,7 @@ export const cosiFanTutteAct1: Act = {
             }
           ],
           "stageDirection": "a Despina; Si ritira",
-          "stageDirectionTranslation": "a Despina; Si ritira"
+          "stageDirectionTranslation": "to Despina; He withdraws"
         },
         {
           "id": "a1_s11_c11",
@@ -22011,7 +22011,7 @@ export const cosiFanTutteAct1: Act = {
             }
           ],
           "stageDirection": "a Dorabella; a Don Alfonso",
-          "stageDirectionTranslation": "a Dorabella; a Don Alfonso"
+          "stageDirectionTranslation": "to Dorabella; to Don Alfonso"
         },
         {
           "id": "a1_s11_c45",
@@ -22106,7 +22106,7 @@ export const cosiFanTutteAct1: Act = {
             }
           ],
           "stageDirection": "sottovoce a Guglielmo; alle due amanti",
-          "stageDirectionTranslation": "sottovoce a Guglielmo; alle due amanti"
+          "stageDirectionTranslation": "in an undertone to Guglielmo; to the two lovers"
         },
         {
           "id": "a1_s11_c46",
@@ -27825,7 +27825,7 @@ export const cosiFanTutteAct1: Act = {
             }
           ],
           "stageDirection": "come sopra; Ferrando e Guglielmo, portando ciascuno una boccetta, entrano seguiti da Don Alfonso",
-          "stageDirectionTranslation": "come sopra; Ferrando e Guglielmo, portando ciascuno una boccetta, entrano seguiti da Don Alfonso"
+          "stageDirectionTranslation": "as above; Ferrando and Guglielmo, each carrying a phial, enter followed by Don Alfonso"
         },
         {
           "id": "a1_s15_c6",
@@ -29297,7 +29297,7 @@ export const cosiFanTutteAct1: Act = {
             }
           ],
           "stageDirection": "a Don Alfonso; Despina e Don Alfonso partono",
-          "stageDirectionTranslation": "a Don Alfonso; Despina e Don Alfonso partono"
+          "stageDirectionTranslation": "to Don Alfonso; Despina and Don Alfonso leave"
         },
         {
           "id": "a1_s15_c23",
@@ -29473,7 +29473,7 @@ export const cosiFanTutteAct1: Act = {
             }
           ],
           "stageDirection": "fra sé; ad alta voce",
-          "stageDirectionTranslation": "fra sé; ad alta voce"
+          "stageDirectionTranslation": "to himself; aloud"
         },
         {
           "id": "a1_s15_c25",
@@ -32197,7 +32197,7 @@ export const cosiFanTutteAct1: Act = {
             }
           ],
           "stageDirection": "sorgendo in piedi; Ferrando a Fiordaligi, e Guglielmo a Dorabella; abbracciano le amanti teneramente e bacian loro la mano",
-          "stageDirectionTranslation": "sorgendo in piedi; Ferrando a Fiordaligi, e Guglielmo a Dorabella; abbracciano le amanti teneramente e bacian loro la mano"
+          "stageDirectionTranslation": "rising to their feet; Ferrando to Fiordiligi, and Guglielmo to Dorabella; they embrace their lovers tenderly and kiss their hands"
         },
         {
           "id": "a1_s16_c18",
@@ -32476,7 +32476,7 @@ export const cosiFanTutteAct1: Act = {
             }
           ],
           "stageDirection": "fra sé; Ferrando a Fiordiligi, e Guglielmo a Dorabella",
-          "stageDirectionTranslation": "fra sé; Ferrando a Fiordiligi, e Guglielmo a Dorabella"
+          "stageDirectionTranslation": "to himself; Ferrando to Fiordiligi, and Guglielmo to Dorabella"
         },
         {
           "id": "a1_s16_c21",

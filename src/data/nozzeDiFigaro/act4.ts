@@ -9737,7 +9737,7 @@ export const nozzeDiFigaroAct4: Act = {
             }
           ],
           "stageDirection": "alla Contessa; le prende la mano e l'accarezza",
-          "stageDirectionTranslation": "alla Contessa; le prende la mano e l'accarezza"
+          "stageDirectionTranslation": "to the Countess; takes her hand and caresses it"
         },
         {
           "id": "a4_s11_c11",
@@ -10775,7 +10775,7 @@ export const nozzeDiFigaroAct4: Act = {
             }
           ],
           "stageDirection": "volendo dar un bacio alla Contessa; Il Conte, mettendosi tra la Contessa ed il paggio, riceve il bacio.; Cherubino entra da Barbarina.",
-          "stageDirectionTranslation": "volendo dar un bacio alla Contessa; Il Conte, mettendosi tra la Contessa ed il paggio, riceve il bacio.; Cherubino entra da Barbarina."
+          "stageDirectionTranslation": "trying to kiss the Countess; The Count, stepping between the Countess and the page, receives the kiss; Cherubino darts into Barbarina's room."
         },
         {
           "id": "a4_s12_c9",
@@ -14056,7 +14056,7 @@ export const nozzeDiFigaroAct4: Act = {
             }
           ],
           "stageDirection": "ancor uno; lo schiaffeggia a tempo",
-          "stageDirectionTranslation": "ancor uno; lo schiaffeggia a tempo"
+          "stageDirectionTranslation": "one more; slaps him right on cue"
         },
         {
           "id": "a4_s13_c19",

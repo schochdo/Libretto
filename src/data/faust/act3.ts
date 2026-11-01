@@ -2468,7 +2468,7 @@ export const faustAct3: Act = {
             {
               "id": "a3_s2_c5_l1",
               "original": "Il était un",
-              "literal": "Il était un",
+              "literal": "There was a",
               "tokens": [
                 {
                   "word": "Il",

@@ -6667,7 +6667,7 @@ export const nozzeDiFigaroAct1: Act = {
             }
           ],
           "stageDirection": "riverenza; riverenze",
-          "stageDirectionTranslation": "riverenza; riverenze"
+          "stageDirectionTranslation": "curtsey; curtseys"
         },
         {
           "id": "a1_s4_c12",
@@ -10814,7 +10814,7 @@ export const nozzeDiFigaroAct1: Act = {
             }
           ],
           "stageDirection": "Il Conte vuol nascondersi dietro il sedile: Susanna si frappone tra il paggio e lui: il Conte la spinge dolcemente. Ella rincula, intanto il paggio passa al davanti del sedile, si mette dentro in piedi, Susanna il ricopre colla vestaglia.",
-          "stageDirectionTranslation": "Il Conte vuol nascondersi dietro il sedile: Susanna si frappone tra il paggio e lui: il Conte la spinge dolcemente. Ella rincula, intanto il paggio passa al davanti del sedile, si mette dentro in piedi, Susanna il ricopre colla vestaglia."
+          "stageDirectionTranslation": "The Count tries to hide behind the armchair; Susanna steps between him and the page; the Count pushes her gently. She steps back, while the page slips into the front of the armchair, curls up on it, and Susanna covers him with the dressing gown."
         }
       ]
     },
@@ -13054,7 +13054,7 @@ export const nozzeDiFigaroAct1: Act = {
             }
           ],
           "stageDirection": "quasi svenuta; sostenendola",
-          "stageDirectionTranslation": "quasi svenuta; sostenendola"
+          "stageDirectionTranslation": "almost fainting; supporting her"
         },
         {
           "id": "a1_s7_c23",
@@ -13176,7 +13176,7 @@ export const nozzeDiFigaroAct1: Act = {
             }
           ],
           "stageDirection": "rinviene; staccandosi da tutti due",
-          "stageDirectionTranslation": "rinviene; staccandosi da tutti due"
+          "stageDirectionTranslation": "recovering; pulling away from both of them"
         },
         {
           "id": "a1_s7_c25",
@@ -17691,7 +17691,7 @@ export const nozzeDiFigaroAct1: Act = {
             }
           ],
           "stageDirection": "lo alza; Il Conte vuol partire, Susanna e Figaro l'arrestano.",
-          "stageDirectionTranslation": "lo alza; Il Conte vuol partire, Susanna e Figaro l'arrestano."
+          "stageDirectionTranslation": "lifts it; The Count turns to leave, Susanna and Figaro restrain him."
         },
         {
           "id": "a1_s8_c25",
@@ -18199,7 +18199,7 @@ export const nozzeDiFigaroAct1: Act = {
             {
               "id": "a1_s8_c29_l4",
               "original": "Narcisetto, Adoncino d'amor.",
-              "literal": "Narcisetto, Adoncino d'amor.",
+              "literal": "Little Narcissus, little Adonis of love.",
               "tokens": [
                 {
                   "word": "Narcisetto",

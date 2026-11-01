@@ -836,7 +836,7 @@ export const laTraviataAct1: Act = {
             }
           ],
           "stageDirection": "ad Alfredo; I servi frattanto avranno imbandito le vivande",
-          "stageDirectionTranslation": "ad Alfredo; I servi frattanto avranno imbandito le vivande"
+          "stageDirectionTranslation": "to Alfredo; Meanwhile the servants have served the dishes"
         },
         {
           "id": "a1_s2_c6",
@@ -955,7 +955,7 @@ export const laTraviataAct1: Act = {
             }
           ],
           "stageDirection": "ai servi; Un servo accenna di sì",
-          "stageDirectionTranslation": "ai servi; Un servo accenna di sì"
+          "stageDirectionTranslation": "to the servants; A servant nods yes"
         },
         {
           "id": "a1_s2_c7",
@@ -1037,7 +1037,7 @@ export const laTraviataAct1: Act = {
             }
           ],
           "stageDirection": "Siedono in modo che Violetta resti tra Alfredo e Gastone, di fronte vi sarà Flora, tra il Marchese ed il Barone, gli altri siedono a piacere. V'ha un momento di silenzio; frattanto passano i piatti, e Violetta e Gastone parlano sottovoce tra loro, poi:",
-          "stageDirectionTranslation": "Siedono in modo che Violetta resti tra Alfredo e Gastone, di fronte vi sarà Flora, tra il Marchese ed il Barone, gli altri siedono a piacere. V'ha un momento di silenzio; frattanto passano i piatti, e Violetta e Gastone parlano sottovoce tra loro, poi:"
+          "stageDirectionTranslation": "They sit so that Violetta is between Alfredo and Gastone, opposite them sits Flora between the Marquis and the Baron, and the others sit as they please. There is a moment of silence; meanwhile dishes are served, and Violetta and Gastone whisper together, then:"
         },
         {
           "id": "a1_s2_c8",
@@ -2076,7 +2076,7 @@ export const laTraviataAct1: Act = {
             }
           ],
           "stageDirection": "Il Barone accenna di no; ad Alfredo",
-          "stageDirectionTranslation": "Il Barone accenna di no; ad Alfredo"
+          "stageDirectionTranslation": "The Baron shakes his head; to Alfredo"
         },
         {
           "id": "a1_s2_c27",
@@ -4170,7 +4170,7 @@ export const laTraviataAct1: Act = {
             }
           ],
           "stageDirection": "guardandosi allo specchio; Volgendosi, s'accorge d'Alfredo",
-          "stageDirectionTranslation": "guardandosi allo specchio; Volgendosi, s'accorge d'Alfredo"
+          "stageDirectionTranslation": "looking into the mirror; Turning around, she notices Alfredo"
         },
         {
           "id": "a1_s3_c2",

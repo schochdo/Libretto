@@ -6238,7 +6238,7 @@ export const toscaAct3: Act = {
           "id": "a3_s4_c11",
           "speaker": "Floria Tosca",
           "stageDirection": "Cavaradossi segue l' Ufficiale dopo aver salutato Tosca, la quale si colloca a sinistra, nella casamatta, in modo però da poter spiare quanto succede sulla piattaforma. Essa vede l'Ufficiale ed il Sergente che conducono Cavaradossi presso il muro di faccia a lei; il Sergente vuol porre la benda agli occhi di Cavaradossi: questi, sorridendo, rifiuta. - Tali lugubri preparativi stancano la pazienza di Tosca.",
-          "stageDirectionTranslation": "Cavaradossi segue l' Ufficiale dopo aver salutato Tosca, la quale si colloca a sinistra, nella casamatta, in modo però da poter spiare quanto succede sulla piattaforma. Essa vede l'Ufficiale ed il Sergente che conducono Cavaradossi presso il muro di faccia a lei; il Sergente vuol porre la benda agli occhi di Cavaradossi: questi, sorridendo, rifiuta. - Tali lugubri preparativi stancano la pazienza di Tosca.",
+          "stageDirectionTranslation": "Cavaradossi follows the Officer after bidding farewell to Tosca, who positions herself to the left inside the casemate, in such a way that she can watch what happens on the platform. She watches the Officer and Sergeant lead Cavaradossi to the wall opposite her; the Sergeant attempts to blindfold Cavaradossi, who smilingly refuses. These grim preparations wear out Tosca's patience.",
           "lines": [
             {
               "id": "a3_s4_c11_l1",

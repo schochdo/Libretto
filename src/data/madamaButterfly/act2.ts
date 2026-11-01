@@ -3088,7 +3088,7 @@ export const butterflyAct2: Act = {
           "id": "a2_s2_c6",
           "speaker": "Sharpless",
           "stageDirection": "Butterfly, invita il Console a sedere presso il tavolino: Sharpless si lascia cadere grottescamente su di un cuscino: Butterfly si siede dall'altra parte e sorride maliziosamente dietro il ventaglio vedendo l'imbarazzo del Console; poi con molta grazia gli chiede:",
-          "stageDirectionTranslation": "Butterfly, invita il Console a sedere presso il tavolino: Sharpless si lascia cadere grottescamente su di un cuscino: Butterfly si siede dall'altra parte e sorride maliziosamente dietro il ventaglio vedendo l'imbarazzo del Console; poi con molta grazia gli chiede:",
+          "stageDirectionTranslation": "Butterfly invites the Consul to sit near the small table; Sharpless sinks awkwardly onto a cushion; Butterfly sits on the opposite side and smiles mischievously behind her fan seeing the Consul's embarrassment; then with great charm she asks him:",
           "lines": [
             {
               "id": "a2_s2_c6_l1",
@@ -6737,7 +6737,7 @@ export const butterflyAct2: Act = {
           "id": "a2_s2_c66",
           "speaker": "Madama Butterfly (Cio-Cio-San)",
           "stageDirection": "Yamadori, dopo aver salutato Sharpless, sospirando, se ne va, sale nel palanchino e si allontana seguito dai servi e da Goro. Butterfly ride ancora dietro il ventaglio. Sharpless siede sullo sgabello, assume un fare grave, serio, poi con gran rispetto ed una certa commozione invita Butterfly a sedere, e torna a tirar fuori di tasca la lettera.",
-          "stageDirectionTranslation": "Yamadori, dopo aver salutato Sharpless, sospirando, se ne va, sale nel palanchino e si allontana seguito dai servi e da Goro. Butterfly ride ancora dietro il ventaglio. Sharpless siede sullo sgabello, assume un fare grave, serio, poi con gran rispetto ed una certa commozione invita Butterfly a sedere, e torna a tirar fuori di tasca la lettera.",
+          "stageDirectionTranslation": "Yamadori, having bowed to Sharpless, departs with a sigh, steps into his palanquin, and moves away followed by the servants and Goro. Butterfly is still giggling behind her fan. Sharpless sits on the stool, adopts a grave, serious manner, then with deep respect and visible emotion invites Butterfly to be seated, and takes the letter from his pocket once again.",
           "lines": [
             {
               "id": "a2_s2_c66_l1",
@@ -7637,8 +7637,8 @@ export const butterflyAct2: Act = {
         {
           "id": "a2_s3_c16",
           "speaker": "Sharpless",
-          "stageDirection": "sbuffando",
-          "stageDirectionTranslation": "snorting",
+          "stageDirection": "sbuffando; si alza di scatto e ripone la lettera in tasca; fra sé",
+          "stageDirectionTranslation": "snorting; he jumps up abruptly and puts the letter back in his pocket; to himself",
           "lines": [
             {
               "id": "a2_s3_c16_l1",
@@ -7650,116 +7650,43 @@ export const butterflyAct2: Act = {
                   "lemma": "bene",
                   "pos": "adverb",
                   "meaning": "augmentative of bene; very well"
-                },
-                {
-                  "word": "si",
-                  "lemma": "si",
-                  "pos": "pronoun",
-                  "meaning": "oneself, himself, herself, itself, themselves / each other, one another"
-                },
-                {
-                  "word": "alza",
-                  "lemma": "alza",
-                  "pos": "verb",
-                  "meaning": "alza"
-                },
-                {
-                  "word": "di",
-                  "lemma": "di",
-                  "pos": "noun",
-                  "meaning": "of / by"
-                },
-                {
-                  "word": "scatto",
-                  "lemma": "scatto",
-                  "pos": "noun",
-                  "meaning": "release / trigger"
-                },
-                {
-                  "word": "eripone",
-                  "lemma": "eripone",
-                  "pos": "noun",
-                  "meaning": "eripone"
-                },
-                {
-                  "word": "la",
-                  "lemma": "la",
-                  "pos": "noun",
-                  "meaning": "the / her / it"
-                },
-                {
-                  "word": "lettera",
-                  "lemma": "lettera",
-                  "pos": "noun",
-                  "meaning": "letter"
-                },
-                {
-                  "word": "in",
-                  "lemma": "in",
-                  "pos": "noun",
-                  "meaning": "in / into"
-                },
-                {
-                  "word": "tasca",
-                  "lemma": "tasca",
-                  "pos": "noun",
-                  "meaning": "pocket"
                 }
               ]
             },
             {
               "id": "a2_s3_c16_l2",
-              "original": "fra sè",
-              "literal": "fra sè",
-              "tokens": [
-                {
-                  "word": "fra",
-                  "lemma": "fra",
-                  "pos": "noun",
-                  "meaning": "between / among"
-                },
-                {
-                  "word": "sè",
-                  "lemma": "sè",
-                  "pos": "noun",
-                  "meaning": "sè"
-                }
-              ]
-            },
-            {
-              "id": "a2_s3_c16_l3",
               "original": "Qui troncarla conviene...",
               "literal": "Here it is better to cut it short...",
               "tokens": [
                 {
                   "word": "Qui",
                   "lemma": "qui",
-                  "pos": "noun",
+                  "pos": "adverb",
                   "meaning": "here"
                 },
                 {
                   "word": "troncarla",
-                  "lemma": "troncar",
+                  "lemma": "troncare",
                   "pos": "verb",
-                  "meaning": "apocopic form of troncare (la: her / it)"
+                  "meaning": "to cut it short (troncare + la)"
                 },
                 {
                   "word": "conviene",
-                  "lemma": "conviene",
-                  "pos": "noun",
-                  "meaning": "it is fitting / suits / must"
+                  "lemma": "convenire",
+                  "pos": "verb",
+                  "meaning": "it is fitting / best (3rd singular present)"
                 }
               ]
             },
             {
-              "id": "a2_s3_c16_l4",
+              "id": "a2_s3_c16_l3",
               "original": "Quel diavolo d'un Pinkerton!",
               "literal": "That devil of a Pinkerton!",
               "tokens": [
                 {
                   "word": "Quel",
-                  "lemma": "quel",
-                  "pos": "noun",
+                  "lemma": "quello",
+                  "pos": "adjective",
                   "meaning": "that"
                 },
                 {
@@ -7769,16 +7696,10 @@ export const butterflyAct2: Act = {
                   "meaning": "devil"
                 },
                 {
-                  "word": "d",
-                  "lemma": "d",
-                  "pos": "noun",
-                  "meaning": "of"
-                },
-                {
-                  "word": "un",
-                  "lemma": "un",
-                  "pos": "noun",
-                  "meaning": "a / an"
+                  "word": "d'un",
+                  "lemma": "di uno",
+                  "pos": "preposition",
+                  "meaning": "of a"
                 },
                 {
                   "word": "Pinkerton",
@@ -7789,193 +7710,82 @@ export const butterflyAct2: Act = {
               ]
             },
             {
-              "id": "a2_s3_c16_l5",
+              "id": "a2_s3_c16_l4",
               "original": "Ebbene, che fareste, Madama Butterfly,",
               "literal": "Well, what would you do, Madame Butterfly,",
               "tokens": [
                 {
                   "word": "Ebbene",
                   "lemma": "ebbene",
-                  "pos": "noun",
-                  "meaning": "well then"
+                  "pos": "conjunction",
+                  "meaning": "well / and well"
                 },
                 {
                   "word": "che",
                   "lemma": "che",
-                  "pos": "noun",
-                  "meaning": "that / which / what"
+                  "pos": "pronoun",
+                  "meaning": "what"
                 },
                 {
                   "word": "fareste",
                   "lemma": "fare",
                   "pos": "verb",
-                  "meaning": "second-person plural conditional of fare"
+                  "meaning": "would you do (2nd plural conditional)"
                 },
                 {
                   "word": "Madama",
                   "lemma": "madama",
                   "pos": "noun",
-                  "meaning": "madam / lady (Madama Butterfly)"
+                  "meaning": "madam"
                 },
                 {
                   "word": "Butterfly",
                   "lemma": "Butterfly",
                   "pos": "noun",
-                  "meaning": "Madama Butterfly (Cio-Cio-San)"
+                  "meaning": "Butterfly"
                 }
               ]
             },
             {
-              "id": "a2_s3_c16_l6",
-              "original": "s'ei non dovesse ritornar più mair?",
-              "literal": "what if he never comes back?",
+              "id": "a2_s3_c16_l5",
+              "original": "s'ei non dovesse ritornar più mai?",
+              "literal": "if he should never return again?",
               "tokens": [
                 {
-                  "word": "s",
-                  "lemma": "s",
-                  "pos": "noun",
-                  "meaning": "oneself"
-                },
-                {
-                  "word": "ei",
-                  "lemma": "ei",
-                  "pos": "noun",
-                  "meaning": "he"
+                  "word": "s'ei",
+                  "lemma": "se egli",
+                  "pos": "conjunction",
+                  "meaning": "if he"
                 },
                 {
                   "word": "non",
                   "lemma": "non",
-                  "pos": "noun",
+                  "pos": "adverb",
                   "meaning": "not"
                 },
                 {
                   "word": "dovesse",
                   "lemma": "dovere",
                   "pos": "verb",
-                  "meaning": "third-person singular imperfect subjunctive of dovere"
+                  "meaning": "should (3rd singular subjunctive)"
                 },
                 {
                   "word": "ritornar",
-                  "lemma": "ritornar",
+                  "lemma": "ritornare",
                   "pos": "verb",
-                  "meaning": "apocopic form of ritornare"
+                  "meaning": "to return"
                 },
                 {
                   "word": "più",
                   "lemma": "più",
-                  "pos": "noun",
-                  "meaning": "more"
+                  "pos": "adverb",
+                  "meaning": "more / anymore"
                 },
                 {
-                  "word": "mair",
-                  "lemma": "mair",
-                  "pos": "noun",
-                  "meaning": "mair"
-                }
-              ]
-            },
-            {
-              "id": "a2_s3_c16_l7",
-              "original": "Due cose potri far:",
-              "literal": "Two things you can do:",
-              "tokens": [
-                {
-                  "word": "Due",
-                  "lemma": "due",
-                  "pos": "noun",
-                  "meaning": "two"
-                },
-                {
-                  "word": "cose",
-                  "lemma": "cose",
-                  "pos": "verb",
-                  "meaning": "cose"
-                },
-                {
-                  "word": "potri",
-                  "lemma": "potri",
-                  "pos": "noun",
-                  "meaning": "potri"
-                },
-                {
-                  "word": "far",
-                  "lemma": "far",
-                  "pos": "noun",
-                  "meaning": "to do / make"
-                }
-              ]
-            },
-            {
-              "id": "a2_s3_c16_l8",
-              "original": "tornar a divertir la gente, col cantar...",
-              "literal": "go back to entertaining people, with singing...",
-              "tokens": [
-                {
-                  "word": "tornar",
-                  "lemma": "tornar",
-                  "pos": "noun",
-                  "meaning": "to return"
-                },
-                {
-                  "word": "a",
-                  "lemma": "a",
-                  "pos": "noun",
-                  "meaning": "to / at"
-                },
-                {
-                  "word": "divertir",
-                  "lemma": "divertire",
-                  "pos": "verb",
-                  "meaning": "to turn away, to divert / to distract, to divert"
-                },
-                {
-                  "word": "la",
-                  "lemma": "la",
-                  "pos": "noun",
-                  "meaning": "the / her / it"
-                },
-                {
-                  "word": "gente",
-                  "lemma": "gente",
-                  "pos": "noun",
-                  "meaning": "people / folk"
-                },
-                {
-                  "word": "col",
-                  "lemma": "col",
-                  "pos": "noun",
-                  "meaning": "with-the"
-                },
-                {
-                  "word": "cantar",
-                  "lemma": "cantare",
-                  "pos": "noun",
-                  "meaning": "to sing"
-                }
-              ]
-            },
-            {
-              "id": "a2_s3_c16_l9",
-              "original": "oppur, meglio, morire.",
-              "literal": "or, better yet, die.",
-              "tokens": [
-                {
-                  "word": "oppur",
-                  "lemma": "oppur",
-                  "pos": "noun",
-                  "meaning": "or / or else"
-                },
-                {
-                  "word": "meglio",
-                  "lemma": "meglio",
-                  "pos": "noun",
-                  "meaning": "better"
-                },
-                {
-                  "word": "morire",
-                  "lemma": "morire",
-                  "pos": "verb",
-                  "meaning": "to die"
+                  "word": "mai",
+                  "lemma": "mai",
+                  "pos": "adverb",
+                  "meaning": "ever / never"
                 }
               ]
             }
@@ -8800,7 +8610,7 @@ export const butterflyAct2: Act = {
           "id": "a2_s3_c28",
           "speaker": "Madama Butterfly (Cio-Cio-San)",
           "stageDirection": "indicando mano mano, con dolcezza e con un po' di agitazione",
-          "stageDirectionTranslation": "indicando mano mano, con dolcezza e con un po' di agitazione",
+          "stageDirectionTranslation": "pointing step by step, with tenderness and slight agitation",
           "lines": [
             {
               "id": "a2_s3_c28_l1",

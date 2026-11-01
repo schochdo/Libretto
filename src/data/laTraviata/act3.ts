@@ -994,7 +994,7 @@ export const laTraviataAct3: Act = {
             }
           ],
           "stageDirection": "piano a parte; Esce",
-          "stageDirectionTranslation": "piano a parte; Esce"
+          "stageDirectionTranslation": "softly aside; Exits"
         }
       ]
     },
@@ -2701,7 +2701,7 @@ export const laTraviataAct3: Act = {
             }
           ],
           "stageDirection": "Trae dal seno una lettera; desolata; Si alza; Si guarda allo specchio; Siede",
-          "stageDirectionTranslation": "Trae dal seno una lettera; desolata; Si alza; Si guarda allo specchio; Siede"
+          "stageDirectionTranslation": "Takes a letter from her bosom; desolate; She rises; Looks into the mirror; Sits down"
         },
         {
           "id": "a3_s4_c2",
@@ -3696,7 +3696,7 @@ export const laTraviataAct3: Act = {
             }
           ],
           "stageDirection": "Andando verso l'uscio; Alfredo comparisce pallido per la commozione, ed ambedue, gettandosi le braccia al collo, esclamano:",
-          "stageDirectionTranslation": "Andando verso l'uscio; Alfredo comparisce pallido per la commozione, ed ambedue, gettandosi le braccia al collo, esclamano:"
+          "stageDirectionTranslation": "Going toward the doorway; Alfredo appears, pale with emotion, and both, throwing their arms around each other's neck, cry out:"
         },
         {
           "id": "a3_s6_c2",
@@ -4930,7 +4930,7 @@ export const laTraviataAct3: Act = {
             }
           ],
           "stageDirection": "sforzandosi; sforzandosi",
-          "stageDirectionTranslation": "sforzandosi; sforzandosi"
+          "stageDirectionTranslation": "forcing herself; forcing herself"
         },
         {
           "id": "a3_s6_c14",
@@ -5101,7 +5101,7 @@ export const laTraviataAct3: Act = {
             }
           ],
           "stageDirection": "alzandosi; Annina le presenta una veste ch'ella fa per indossare e impedita dalla debolezza, esclama:; Getta con dispetto la veste e ricade sulla sedia",
-          "stageDirectionTranslation": "alzandosi; Annina le presenta una veste ch'ella fa per indossare e impedita dalla debolezza, esclama:; Getta con dispetto la veste e ricade sulla sedia"
+          "stageDirectionTranslation": "rising; Annina brings her a gown which she attempts to put on, but overcome by weakness, she cries out:; She flings the gown away in despair and collapses back into the chair"
         },
         {
           "id": "a3_s6_c18",
@@ -5743,7 +5743,7 @@ export const laTraviataAct3: Act = {
             }
           ],
           "stageDirection": "ad Annina; sorgendo impetuosa",
-          "stageDirectionTranslation": "ad Annina; sorgendo impetuosa"
+          "stageDirectionTranslation": "to Annina; rising impetuously"
         },
         {
           "id": "a3_s6_c20",
@@ -8033,7 +8033,7 @@ export const laTraviataAct3: Act = {
             }
           ],
           "stageDirection": "trasalendo; Ricade sul canapè",
-          "stageDirectionTranslation": "trasalendo; Ricade sul canapè"
+          "stageDirectionTranslation": "startled; Collapses back onto the sofa"
         },
         {
           "id": "a3_s6_c37",

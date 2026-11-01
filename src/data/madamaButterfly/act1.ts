@@ -17388,7 +17388,7 @@ export const butterflyAct1: Act = {
           "id": "a1_s6_c17",
           "speaker": "Madama Butterfly (Cio-Cio-San)",
           "stageDirection": "sorridendo infantilmente",
-          "stageDirectionTranslation": "sorridendo infantilmente",
+          "stageDirectionTranslation": "smiling childishly",
           "lines": [
             {
               "id": "a1_s6_c17_l1",

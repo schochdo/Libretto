@@ -9071,7 +9071,7 @@ export const faustAct2: Act = {
             {
               "id": "a2_s5_c10_l17",
               "original": "Dans tous les yeux!",
-              "literal": "Dans tous les yeux!",
+              "literal": "In all eyes!",
               "tokens": [
                 {
                   "word": "Dans",

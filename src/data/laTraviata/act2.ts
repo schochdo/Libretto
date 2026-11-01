@@ -1930,7 +1930,7 @@ export const laTraviataAct2: Act = {
             }
           ],
           "stageDirection": "la prende; Annina e Giuseppe escono",
-          "stageDirectionTranslation": "la prende; Annina e Giuseppe escono"
+          "stageDirectionTranslation": "takes it; Annina and Giuseppe exit"
         }
       ]
     },
@@ -2076,7 +2076,7 @@ export const laTraviataAct2: Act = {
             }
           ],
           "stageDirection": "leggendo la lettera; Getta il foglio sul tavolino e siede",
-          "stageDirectionTranslation": "leggendo la lettera; Getta il foglio sul tavolino e siede"
+          "stageDirectionTranslation": "reading the letter; She throws the sheet onto the small table and sits"
         },
         {
           "id": "a2_s5_c2",
@@ -2509,7 +2509,7 @@ export const laTraviataAct2: Act = {
             }
           ],
           "stageDirection": "alzandosi risentita; per uscire",
-          "stageDirectionTranslation": "alzandosi risentita; per uscire"
+          "stageDirectionTranslation": "rising indignantly; turns to leave"
         },
         {
           "id": "a2_s5_c10",
@@ -6005,7 +6005,7 @@ export const laTraviataAct2: Act = {
             }
           ],
           "stageDirection": "con estremo dolore; a Germont, piangendo",
-          "stageDirectionTranslation": "con estremo dolore; a Germont, piangendo"
+          "stageDirectionTranslation": "with extreme grief; to Germont, weeping"
         },
         {
           "id": "a2_s5_c40",
@@ -6534,7 +6534,7 @@ export const laTraviataAct2: Act = {
             }
           ],
           "stageDirection": "S'abbracciano; Indicandogli il giardino, va per scrivere",
-          "stageDirectionTranslation": "S'abbracciano; Indicandogli il giardino, va per scrivere"
+          "stageDirectionTranslation": "They embrace; Pointing him to the garden, she goes to write"
         },
         {
           "id": "a2_s5_c48",
@@ -7664,7 +7664,7 @@ export const laTraviataAct2: Act = {
             }
           ],
           "stageDirection": "Annina parte; Scrive e poi suggella",
-          "stageDirectionTranslation": "Annina parte; Scrive e poi suggella"
+          "stageDirectionTranslation": "Annina departs; She writes and then seals the letter"
         },
         {
           "id": "a2_s6_c6",
@@ -8359,7 +8359,7 @@ export const laTraviataAct2: Act = {
             }
           ],
           "stageDirection": "molto agitata; mal frenato il pianto",
-          "stageDirectionTranslation": "molto agitata; mal frenato il pianto"
+          "stageDirectionTranslation": "greatly agitated; barely holding back her tears"
         },
         {
           "id": "a2_s6_c20",
@@ -8602,7 +8602,7 @@ export const laTraviataAct2: Act = {
             }
           ],
           "stageDirection": "sforzandosi; Corre in giardino",
-          "stageDirectionTranslation": "sforzandosi; Corre in giardino"
+          "stageDirectionTranslation": "forcing herself to remain calm; Runs into the garden"
         }
       ]
     },
@@ -9149,7 +9149,7 @@ export const laTraviataAct2: Act = {
             }
           ],
           "stageDirection": "Si vede il padre attraversare in lontananza il giardino; per uscire",
-          "stageDirectionTranslation": "Si vede il padre attraversare in lontananza il giardino; per uscire"
+          "stageDirectionTranslation": "His father is seen walking across the garden in the distance; turns to leave"
         },
         {
           "id": "a2_s7_c6",
@@ -9541,7 +9541,7 @@ export const laTraviataAct2: Act = {
             }
           ],
           "stageDirection": "Apre e legge; come fulminato grida; Volgendosi si trova a fronte del padre, nelle cui braccia si abbandona esclamando:",
-          "stageDirectionTranslation": "Apre e legge; come fulminato grida; Volgendosi si trova a fronte del padre, nelle cui braccia si abbandona esclamando:"
+          "stageDirectionTranslation": "He opens and reads it; cries out as if struck by lightning; Turning around, he finds himself face-to-face with his father, into whose arms he falls, crying out:"
         },
         {
           "id": "a2_s8_c2",
@@ -11026,7 +11026,7 @@ export const laTraviataAct2: Act = {
             }
           ],
           "stageDirection": "Scuotendosi, getta a caso gli occhi sulla tavola, vede la lettera di Flora, esclama:; Fugge precipitoso",
-          "stageDirectionTranslation": "Scuotendosi, getta a caso gli occhi sulla tavola, vede la lettera di Flora, esclama:; Fugge precipitoso"
+          "stageDirectionTranslation": "Pulling himself together, his eyes fall by chance on the table, he sees Flora's letter and cries out:; Flees headlong"
         },
         {
           "id": "a2_s8_c14",
@@ -11752,7 +11752,7 @@ export const laTraviataAct2: Act = {
             }
           ],
           "stageDirection": "Prendono la mano di Flora e l'osservano; Fanno lo stesso al Marchese",
-          "stageDirectionTranslation": "Prendono la mano di Flora e l'osservano; Fanno lo stesso al Marchese"
+          "stageDirectionTranslation": "They take Flora's hand and inspect it; They do the same to the Marquis"
         },
         {
           "id": "a2_s10_c3",
@@ -14373,7 +14373,7 @@ export const laTraviataAct2: Act = {
             }
           ],
           "stageDirection": "a Violetta, facendola sedere presso di sé sul divano; Il Dottore si avvicina ad esse, che sommessamente conversano. Il Marchese si trattiene a parte col Barone, Gastone taglia, Alfredo ed altri puntano, altri passeggiano",
-          "stageDirectionTranslation": "a Violetta, facendola sedere presso di sé sul divano; Il Dottore si avvicina ad esse, che sommessamente conversano. Il Marchese si trattiene a parte col Barone, Gastone taglia, Alfredo ed altri puntano, altri passeggiano"
+          "stageDirectionTranslation": "to Violetta, having her sit beside her on the sofa; The Doctor approaches them as they quietly converse. The Marquis talks aside with the Baron, Gastone deals the cards, Alfredo and others place bets, while others stroll about"
         },
         {
           "id": "a2_s12_c16",

@@ -5648,7 +5648,7 @@ export const nozzeDiFigaroAct2: Act = {
             }
           ],
           "stageDirection": "si misura con Cherubin; gli cava il manto",
-          "stageDirectionTranslation": "si misura con Cherubin; gli cava il manto"
+          "stageDirectionTranslation": "measures herself against Cherubino; takes off his cloak"
         },
         {
           "id": "a2_s2_c17",
@@ -7453,7 +7453,7 @@ export const nozzeDiFigaroAct2: Act = {
             }
           ],
           "stageDirection": "seguita ad acconciarlo ed a porgli la cuffia; piano alla Contessa",
-          "stageDirectionTranslation": "seguita ad acconciarlo ed a porgli la cuffia; piano alla Contessa"
+          "stageDirectionTranslation": "continues styling his hair and fitting the bonnet on him; softly to the Countess"
         },
         {
           "id": "a2_s2_c31",
@@ -9821,7 +9821,7 @@ export const nozzeDiFigaroAct2: Act = {
             }
           ],
           "stageDirection": "prende la chiave; corre ad aprire al Conte",
-          "stageDirectionTranslation": "prende la chiave; corre ad aprire al Conte"
+          "stageDirectionTranslation": "takes the key; runs to open the door for the Count"
         }
       ]
     },
@@ -13057,7 +13057,7 @@ export const nozzeDiFigaroAct2: Act = {
             }
           ],
           "stageDirection": "accostandosi or ad una, or ad un'altra porta; Cherubino accostandosi or ad una, or ad un'altra porta",
-          "stageDirectionTranslation": "accostandosi or ad una, or ad un'altra porta; Cherubino accostandosi or ad una, or ad un'altra porta"
+          "stageDirectionTranslation": "hurrying first to one door, then to another; Cherubino hurrying first to one door, then to another"
         },
         {
           "id": "a2_s4_c4",
@@ -13213,7 +13213,7 @@ export const nozzeDiFigaroAct2: Act = {
             }
           ],
           "stageDirection": "affacciandosi alla finestra; facendo moto di saltar giù",
-          "stageDirectionTranslation": "affacciandosi alla finestra; facendo moto di saltar giù"
+          "stageDirectionTranslation": "looking out the window; making a motion to jump down"
         },
         {
           "id": "a2_s4_c7",
@@ -13537,7 +13537,7 @@ export const nozzeDiFigaroAct2: Act = {
             }
           ],
           "stageDirection": "si scioglie; salta fuori",
-          "stageDirectionTranslation": "si scioglie; salta fuori"
+          "stageDirectionTranslation": "breaks free; jumps out"
         },
         {
           "id": "a2_s4_c11",
@@ -19259,7 +19259,7 @@ export const nozzeDiFigaroAct2: Act = {
             }
           ],
           "stageDirection": "a Figaro; mostrandogli il foglio",
-          "stageDirectionTranslation": "a Figaro; mostrandogli il foglio"
+          "stageDirectionTranslation": "to Figaro; showing him the paper"
         },
         {
           "id": "a2_s9_c6",
@@ -23359,7 +23359,7 @@ export const nozzeDiFigaroAct2: Act = {
             }
           ],
           "stageDirection": "additando la camera delle serve; fingendo d'aversi stroppiato il piede",
-          "stageDirectionTranslation": "additando la camera delle serve; fingendo d'aversi stroppiato il piede"
+          "stageDirectionTranslation": "pointing to the servants' room; pretending to have twisted his foot"
         },
         {
           "id": "a2_s10_c44",
@@ -23551,7 +23551,7 @@ export const nozzeDiFigaroAct2: Act = {
             }
           ],
           "stageDirection": "piano alla Contessa e Susanna; piano a Figaro",
-          "stageDirectionTranslation": "piano alla Contessa e Susanna; piano a Figaro"
+          "stageDirectionTranslation": "softly to the Countess and Susanna; softly to Figaro"
         },
         {
           "id": "a2_s10_c47",
@@ -23859,7 +23859,7 @@ export const nozzeDiFigaroAct2: Act = {
             }
           ],
           "stageDirection": "a Figaro; ad Antonio; ad Antonio",
-          "stageDirectionTranslation": "a Figaro; ad Antonio; ad Antonio"
+          "stageDirectionTranslation": "to Figaro; to Antonio; to Antonio"
         },
         {
           "id": "a2_s10_c52",
