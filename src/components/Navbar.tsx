@@ -198,15 +198,62 @@ export const Navbar: React.FC<NavbarProps> = ({
     return results;
   }, [currentOpera, searchQuery]);
 
+  // Comprehensive detection for iOS / iPadOS touch devices across all browsers
+  // (Safari, Brave with Shields Farbling, Chrome for iOS, Firefox for iOS, Edge for iOS)
   const isIOSTouch = React.useCallback(() => {
     if (typeof window === 'undefined') return false;
-    return (
-      /iPad|iPhone|iPod/.test(navigator.userAgent) ||
-      (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1)
-    );
+
+    // 1. Standard iOS User-Agent check (iPhone, iPod, iPad in mobile mode)
+    if (/iPad|iPhone|iPod/.test(navigator.userAgent)) return true;
+
+    // 2. WKWebView standalone property (unique to iOS/iPadOS WebKit, absent on desktop macOS)
+    if ('standalone' in navigator) return true;
+
+    // 3. iPadOS Desktop Site mode on Safari (MacIntel + maxTouchPoints >= 2)
+    if (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1) return true;
+
+    // 4. iPadOS in Brave / privacy browsers where maxTouchPoints is spoofed to 0 by fingerprint shields
+    // MacIntel platform + hardware touch events supported ('ontouchstart' in window or TouchEvent defined)
+    if (navigator.platform === 'MacIntel' && ('ontouchstart' in window || typeof TouchEvent !== 'undefined')) {
+      return true;
+    }
+
+    return false;
   }, []);
 
+  // Check if native browser element fullscreen is truly safe, enabled, and supported
+  const isNativeFsSupported = React.useCallback(() => {
+    if (typeof document === 'undefined') return false;
+
+    // On all iOS/iPadOS devices, native DOM element fullscreen is either completely unsupported
+    // (Brave/Chrome in WKWebView throws errors) or broken (Safari shows video player close 'X' and exits on scroll).
+    if (isIOSTouch()) return false;
+
+    const doc = document as any;
+    const docEl = document.documentElement as any;
+
+    const enabled = !!(
+      doc.fullscreenEnabled ||
+      doc.webkitFullscreenEnabled ||
+      doc.mozFullScreenEnabled ||
+      doc.msFullscreenEnabled
+    );
+
+    const hasFn = !!(
+      docEl.requestFullscreen ||
+      docEl.webkitRequestFullscreen ||
+      docEl.mozRequestFullScreen ||
+      docEl.msRequestFullscreen
+    );
+
+    return enabled && hasFn;
+  }, [isIOSTouch]);
+
   React.useEffect(() => {
+    // Only listen for native fullscreen events if native fullscreen is actually supported
+    // (prevents spurious resets on iPad / iOS / WKWebView)
+    if (!isNativeFsSupported()) return;
+
     const handleFsChange = () => {
       const doc = document as any;
       const isNativeFs = !!(
@@ -215,10 +262,9 @@ export const Navbar: React.FC<NavbarProps> = ({
         doc.mozFullScreenElement ||
         doc.msFullscreenElement
       );
-      if (!isIOSTouch()) {
-        setIsFullscreen(isNativeFs);
-      }
+      setIsFullscreen(isNativeFs);
     };
+
     document.addEventListener('fullscreenchange', handleFsChange);
     document.addEventListener('webkitfullscreenchange', handleFsChange);
     document.addEventListener('mozfullscreenchange', handleFsChange);
@@ -229,60 +275,75 @@ export const Navbar: React.FC<NavbarProps> = ({
       document.removeEventListener('mozfullscreenchange', handleFsChange);
       document.removeEventListener('MSFullscreenChange', handleFsChange);
     };
-  }, [isIOSTouch]);
+  }, [isNativeFsSupported]);
 
   // Escape key listener to exit fullscreen on all platforms (including iPad external keyboards)
   React.useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (e.key === 'Escape' && isFullscreen) {
-        if (!isIOSTouch()) {
-          const doc = document as any;
-          if (document.fullscreenElement || doc.webkitFullscreenElement) {
-            if (document.exitFullscreen) document.exitFullscreen().catch(() => {});
-            else if (doc.webkitExitFullscreen) doc.webkitExitFullscreen();
-          }
+        if (isNativeFsSupported()) {
+          try {
+            const doc = document as any;
+            if (document.fullscreenElement || doc.webkitFullscreenElement) {
+              if (typeof document.exitFullscreen === 'function') {
+                const res = document.exitFullscreen();
+                if (res && typeof res.catch === 'function') res.catch(() => {});
+              } else if (typeof doc.webkitExitFullscreen === 'function') {
+                doc.webkitExitFullscreen();
+              }
+            }
+          } catch (_) {}
         }
         setIsFullscreen(false);
       }
     };
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [isFullscreen, isIOSTouch]);
+  }, [isFullscreen, isNativeFsSupported]);
 
   const toggleFullscreen = () => {
-    // If on iOS / iPadOS Safari, DO NOT call webkitRequestFullscreen because Apple
-    // forcibly injects a large native 'X' overlay over the logo and exits on any scroll gesture.
-    // Instead, toggle in-app Immersive Fullscreen which sticks 100% reliably.
-    if (isIOSTouch()) {
+    // 1. If native fullscreen is not supported or on iPad/iOS (Brave, Safari, Chrome):
+    // Pure, instant, crash-proof in-app Immersive Fullscreen toggle!
+    if (!isNativeFsSupported()) {
       setIsFullscreen(prev => !prev);
       return;
     }
 
-    // On Desktop platforms (Mac Safari, Chrome, Edge, Firefox):
-    const doc = document as any;
-    const docEl = document.documentElement as any;
+    // 2. On desktop PC / Mac with native fullscreen support:
+    try {
+      const doc = document as any;
+      const docEl = document.documentElement as any;
+      const isNativeFs = !!(
+        document.fullscreenElement ||
+        doc.webkitFullscreenElement ||
+        doc.mozFullScreenElement ||
+        doc.msFullscreenElement
+      );
 
-    const isNativeFs = !!(
-      document.fullscreenElement ||
-      doc.webkitFullscreenElement ||
-      doc.mozFullScreenElement ||
-      doc.msFullscreenElement
-    );
-
-    if (!isNativeFs) {
-      if (docEl.requestFullscreen) {
-        docEl.requestFullscreen().catch(() => {});
-      } else if (docEl.webkitRequestFullscreen) {
-        docEl.webkitRequestFullscreen();
+      if (!isNativeFs) {
+        if (typeof docEl.requestFullscreen === 'function') {
+          const res = docEl.requestFullscreen();
+          if (res && typeof res.catch === 'function') {
+            res.catch(() => {});
+          }
+        } else if (typeof docEl.webkitRequestFullscreen === 'function') {
+          docEl.webkitRequestFullscreen();
+        }
+        setIsFullscreen(true);
+      } else {
+        if (typeof document.exitFullscreen === 'function') {
+          const res = document.exitFullscreen();
+          if (res && typeof res.catch === 'function') {
+            res.catch(() => {});
+          }
+        } else if (typeof doc.webkitExitFullscreen === 'function') {
+          doc.webkitExitFullscreen();
+        }
+        setIsFullscreen(false);
       }
-      setIsFullscreen(true);
-    } else {
-      if (document.exitFullscreen) {
-        document.exitFullscreen().catch(() => {});
-      } else if (doc.webkitExitFullscreen) {
-        doc.webkitExitFullscreen();
-      }
-      setIsFullscreen(false);
+    } catch (_) {
+      // Guaranteed fallback: toggle in-app fullscreen even if native API throws
+      setIsFullscreen(prev => !prev);
     }
   };
 
@@ -420,6 +481,7 @@ export const Navbar: React.FC<NavbarProps> = ({
 
             {/* Exit Fullscreen Button */}
             <button
+              type="button"
               onClick={toggleFullscreen}
               className="flex items-center gap-1.5 px-2.5 py-1.5 text-xs rounded-lg border font-medium transition-all hover:opacity-90 active:scale-95 shadow-2xs cursor-pointer min-h-[32px]"
               style={{
@@ -960,6 +1022,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             </button>
 
             <button
+              type="button"
               onClick={toggleFullscreen}
               className="p-1.5 rounded-lg border transition-all hover:opacity-85 shadow-2xs cursor-pointer min-w-[32px] min-h-[32px] flex items-center justify-center"
               style={{
