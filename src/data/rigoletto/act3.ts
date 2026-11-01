@@ -845,7 +845,7 @@ export const rigolettoAct3: Act = {
             {
               "id": "a3_s1_c20_l2",
               "original": "Qual piuma al vento,",
-              "literal": "Like a feather in the wind,",
+              "literal": "like a feather in the wind,",
               "tokens": [
                 {
                   "word": "Qual",
@@ -876,7 +876,7 @@ export const rigolettoAct3: Act = {
             {
               "id": "a3_s1_c20_l3",
               "original": "Muta d'accento",
-              "literal": "Changes tone of voice",
+              "literal": "changes tone of voice",
               "tokens": [
                 {
                   "word": "Muta",
@@ -901,7 +901,7 @@ export const rigolettoAct3: Act = {
             {
               "id": "a3_s1_c20_l4",
               "original": "E di pensiero.",
-              "literal": "And of thought.",
+              "literal": "and of thought.",
               "tokens": [
                 {
                   "word": "E",
@@ -926,7 +926,7 @@ export const rigolettoAct3: Act = {
             {
               "id": "a3_s1_c20_l5",
               "original": "Sempre un amabile",
-              "literal": "Always a lovely",
+              "literal": "Always a lovely,",
               "tokens": [
                 {
                   "word": "Sempre",
@@ -951,7 +951,7 @@ export const rigolettoAct3: Act = {
             {
               "id": "a3_s1_c20_l6",
               "original": "Leggiadro viso,",
-              "literal": "Graceful face,",
+              "literal": "graceful face,",
               "tokens": [
                 {
                   "word": "Leggiadro",
@@ -970,7 +970,7 @@ export const rigolettoAct3: Act = {
             {
               "id": "a3_s1_c20_l7",
               "original": "In pianto o in riso",
-              "literal": "In tears or in laughter",
+              "literal": "in tears or in laughter,",
               "tokens": [
                 {
                   "word": "In",
@@ -1007,7 +1007,7 @@ export const rigolettoAct3: Act = {
             {
               "id": "a3_s1_c20_l8",
               "original": "È menzognero.",
-              "literal": "Is deceitful.",
+              "literal": "is deceitful.",
               "tokens": [
                 {
                   "word": "È",
@@ -1139,7 +1139,8 @@ export const rigolettoAct3: Act = {
                   "pos": "noun",
                   "meaning": "heart"
                 }
-              ]
+              ],
+              "grammarNote": "'Mal cauto il core' (his incautious heart) is the direct object of 'confida' (entrusts) from the preceding line: 'Ever wretched is he who confides in her, who incautiously entrusts his heart to her.' The Duke claims that trusting a woman guarantees heartbreak, yet immediately adds in the next lines that life without women's love is meaningless."
             },
             {
               "id": "a3_s1_c20_l13",
@@ -1175,7 +1176,7 @@ export const rigolettoAct3: Act = {
             {
               "id": "a3_s1_c20_l14",
               "original": "Felice appieno",
-              "literal": "Completely happy",
+              "literal": "completely happy",
               "tokens": [
                 {
                   "word": "Felice",
@@ -1194,7 +1195,7 @@ export const rigolettoAct3: Act = {
             {
               "id": "a3_s1_c20_l15",
               "original": "Chi su quel seno",
-              "literal": "Who on that breast",
+              "literal": "who on that bosom",
               "tokens": [
                 {
                   "word": "Chi",
@@ -1225,7 +1226,7 @@ export const rigolettoAct3: Act = {
             {
               "id": "a3_s1_c20_l16",
               "original": "Non liba amore!",
-              "literal": "Does not drink of love!",
+              "literal": "does not drink of love!",
               "tokens": [
                 {
                   "word": "Non",
