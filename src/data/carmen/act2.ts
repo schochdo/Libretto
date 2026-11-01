@@ -6315,7 +6315,7 @@ export const carmenAct2: Act = {
             {
               "id": "a2_s2_c3_l1",
               "original": "Toréador, en garde !",
-              "literal": "Bullfighter, on guard!",
+              "literal": "Toreador, on guard!",
               "tokens": [
                 {
                   "word": "Toréador",
@@ -6326,600 +6326,40 @@ export const carmenAct2: Act = {
                 {
                   "word": "en",
                   "lemma": "en",
-                  "pos": "pronoun",
-                  "meaning": "of it / from there / in"
+                  "pos": "preposition",
+                  "meaning": "in / on"
                 },
                 {
                   "word": "garde",
                   "lemma": "garde",
                   "pos": "noun",
-                  "meaning": "guard / watch"
+                  "meaning": "guard"
                 }
               ]
             },
             {
               "id": "a2_s2_c3_l2",
-              "original": "Etc.",
-              "literal": "Etc.",
-              "tokens": [
-                {
-                  "word": "Etc",
-                  "lemma": "etc.",
-                  "pos": "adverb",
-                  "meaning": "et cetera / and so forth"
-                }
-              ]
-            },
-            {
-              "id": "a2_s2_c3_l3",
-              "original": "II",
-              "literal": "II",
-              "tokens": [
-                {
-                  "word": "II",
-                  "lemma": "II",
-                  "pos": "noun",
-                  "meaning": "II (second)"
-                }
-              ]
-            },
-            {
-              "id": "a2_s2_c3_l4",
-              "original": "Tout d’un coup l’on fait silence ;",
-              "literal": "All at once silence is made;",
-              "tokens": [
-                {
-                  "word": "Tout",
-                  "lemma": "tout",
-                  "pos": "pronoun",
-                  "meaning": "all / everything / whole (masc. sg.)"
-                },
-                {
-                  "word": "d",
-                  "lemma": "de",
-                  "pos": "preposition",
-                  "meaning": "of / from (elided)"
-                },
-                {
-                  "word": "un",
-                  "lemma": "un",
-                  "pos": "adjective",
-                  "meaning": "one / a"
-                },
-                {
-                  "word": "coup",
-                  "lemma": "coup",
-                  "pos": "noun",
-                  "meaning": "blow / shot / strike / stroke"
-                },
-                {
-                  "word": "l",
-                  "lemma": "le",
-                  "pos": "particle",
-                  "meaning": "the (elided)"
-                },
-                {
-                  "word": "on",
-                  "lemma": "on",
-                  "pos": "pronoun",
-                  "meaning": "one / we / they (impersonal subject)"
-                },
-                {
-                  "word": "fait",
-                  "lemma": "faire",
-                  "pos": "verb",
-                  "meaning": "does / makes (3rd sg. pres.)"
-                },
-                {
-                  "word": "silence",
-                  "lemma": "silence",
-                  "pos": "noun",
-                  "meaning": "silence"
-                }
-              ]
-            },
-            {
-              "id": "a2_s2_c3_l5",
-              "original": "Plus de cris ! que se passe-t-il ?",
-              "literal": "no more cries! what is happening?",
-              "tokens": [
-                {
-                  "word": "Plus",
-                  "lemma": "plus",
-                  "pos": "adverb",
-                  "meaning": "more / no more / any more"
-                },
-                {
-                  "word": "de",
-                  "lemma": "de",
-                  "pos": "preposition",
-                  "meaning": "of / from / by"
-                },
-                {
-                  "word": "cris",
-                  "lemma": "cri",
-                  "pos": "noun",
-                  "meaning": "cries / shouts"
-                },
-                {
-                  "word": "que",
-                  "lemma": "que",
-                  "pos": "pronoun",
-                  "meaning": "that / which / whom / what"
-                },
-                {
-                  "word": "se",
-                  "lemma": "se",
-                  "pos": "pronoun",
-                  "meaning": "himself / herself / themselves / each other"
-                },
-                {
-                  "word": "passe-t-il",
-                  "lemma": "passe",
-                  "pos": "verb",
-                  "meaning": "pass / pass (passe-t-il)"
-                }
-              ]
-            },
-            {
-              "id": "a2_s2_c3_l6",
-              "original": "C’est l’instant, le taureau s’élance",
-              "literal": "It is the moment, the bull charges",
-              "tokens": [
-                {
-                  "word": "C",
-                  "lemma": "ce",
-                  "pos": "pronoun",
-                  "meaning": "this / it (elided)"
-                },
-                {
-                  "word": "est",
-                  "lemma": "être",
-                  "pos": "verb",
-                  "meaning": "is (3rd sg. pres.)"
-                },
-                {
-                  "word": "l",
-                  "lemma": "le",
-                  "pos": "particle",
-                  "meaning": "the (elided)"
-                },
-                {
-                  "word": "instant",
-                  "lemma": "instant",
-                  "pos": "noun",
-                  "meaning": "instant / moment"
-                },
-                {
-                  "word": "le",
-                  "lemma": "le",
-                  "pos": "particle",
-                  "meaning": "the (masc. sg.)"
-                },
-                {
-                  "word": "taureau",
-                  "lemma": "taureau",
-                  "pos": "noun",
-                  "meaning": "bull"
-                },
-                {
-                  "word": "s",
-                  "lemma": "se",
-                  "pos": "pronoun",
-                  "meaning": "himself / herself (elided)"
-                },
-                {
-                  "word": "élance",
-                  "lemma": "élancer",
-                  "pos": "verb",
-                  "meaning": "darts forward / rushes forth (s'élance)"
-                }
-              ]
-            },
-            {
-              "id": "a2_s2_c3_l7",
-              "original": "En bondissant hors du toril…",
-              "literal": "bounding out of the toril...",
-              "tokens": [
-                {
-                  "word": "En",
-                  "lemma": "en",
-                  "pos": "pronoun",
-                  "meaning": "of it / from there / in"
-                },
-                {
-                  "word": "bondissant",
-                  "lemma": "bondir",
-                  "pos": "verb",
-                  "meaning": "bounding / leaping"
-                },
-                {
-                  "word": "hors",
-                  "lemma": "hors",
-                  "pos": "preposition",
-                  "meaning": "outside / out of (hors de)"
-                },
-                {
-                  "word": "du",
-                  "lemma": "du",
-                  "pos": "particle",
-                  "meaning": "of the / some (masc. partitive)"
-                },
-                {
-                  "word": "toril",
-                  "lemma": "toril",
-                  "pos": "noun",
-                  "meaning": "toril (bull enclosure before the arena)"
-                }
-              ]
-            },
-            {
-              "id": "a2_s2_c3_l8",
-              "original": "Il entre, il frappe, un cheval roule",
-              "literal": "He enters, he strikes, a horse rolls",
-              "tokens": [
-                {
-                  "word": "Il",
-                  "lemma": "il",
-                  "pos": "pronoun",
-                  "meaning": "he / it"
-                },
-                {
-                  "word": "entre",
-                  "lemma": "entre",
-                  "pos": "preposition",
-                  "meaning": "between / among"
-                },
-                {
-                  "word": "il",
-                  "lemma": "il",
-                  "pos": "pronoun",
-                  "meaning": "he / it"
-                },
-                {
-                  "word": "frappe",
-                  "lemma": "frapper",
-                  "pos": "verb",
-                  "meaning": "to strike / to knock (1st/3rd sg. pres.)"
-                },
-                {
-                  "word": "un",
-                  "lemma": "un",
-                  "pos": "adjective",
-                  "meaning": "one / a"
-                },
-                {
-                  "word": "cheval",
-                  "lemma": "cheval",
-                  "pos": "noun",
-                  "meaning": "horse"
-                },
-                {
-                  "word": "roule",
-                  "lemma": "rouler",
-                  "pos": "verb",
-                  "meaning": "rolls / roll"
-                }
-              ]
-            },
-            {
-              "id": "a2_s2_c3_l9",
-              "original": "En entraînant un picador :",
-              "literal": "dragging down a picador:",
-              "tokens": [
-                {
-                  "word": "En",
-                  "lemma": "en",
-                  "pos": "pronoun",
-                  "meaning": "of it / from there / in"
-                },
-                {
-                  "word": "entraînant",
-                  "lemma": "entraîner",
-                  "pos": "verb",
-                  "meaning": "sweeping away / drawing along"
-                },
-                {
-                  "word": "un",
-                  "lemma": "un",
-                  "pos": "adjective",
-                  "meaning": "one / a"
-                },
-                {
-                  "word": "picador",
-                  "lemma": "picador",
-                  "pos": "noun",
-                  "meaning": "picador (mounted bullfighter with lance)"
-                }
-              ]
-            },
-            {
-              "id": "a2_s2_c3_l10",
-              "original": "« Bravo, toro !… » hurle la foule,",
-              "literal": "'Bravo, toro!...' howls the crowd,",
-              "tokens": [
-                {
-                  "word": "Bravo",
-                  "lemma": "bravo",
-                  "pos": "interjection",
-                  "meaning": "bravo! / well done!"
-                },
-                {
-                  "word": "toro",
-                  "lemma": "toro",
-                  "pos": "noun",
-                  "meaning": "bull (Spanish: toro)"
-                },
-                {
-                  "word": "hurle",
-                  "lemma": "hurler",
-                  "pos": "verb",
-                  "meaning": "howls / yells"
-                },
-                {
-                  "word": "la",
-                  "lemma": "la",
-                  "pos": "interjection",
-                  "meaning": "la (sung syllable)"
-                },
-                {
-                  "word": "foule",
-                  "lemma": "foule",
-                  "pos": "noun",
-                  "meaning": "crowd / mob"
-                }
-              ]
-            },
-            {
-              "id": "a2_s2_c3_l11",
-              "original": "Le taureau va, vient, frappe encor…",
-              "literal": "the bull goes, comes, strikes again...",
-              "tokens": [
-                {
-                  "word": "Le",
-                  "lemma": "le",
-                  "pos": "particle",
-                  "meaning": "the (masc. sg.)"
-                },
-                {
-                  "word": "taureau",
-                  "lemma": "taureau",
-                  "pos": "noun",
-                  "meaning": "bull"
-                },
-                {
-                  "word": "va",
-                  "lemma": "aller",
-                  "pos": "verb",
-                  "meaning": "goes (3rd sg. pres.)"
-                },
-                {
-                  "word": "vient",
-                  "lemma": "venir",
-                  "pos": "verb",
-                  "meaning": "comes (3rd sg. pres.)"
-                },
-                {
-                  "word": "frappe",
-                  "lemma": "frapper",
-                  "pos": "verb",
-                  "meaning": "to strike / to knock (1st/3rd sg. pres.)"
-                },
-                {
-                  "word": "encor",
-                  "lemma": "encore",
-                  "pos": "adverb",
-                  "meaning": "still / yet / again"
-                }
-              ]
-            },
-            {
-              "id": "a2_s2_c3_l12",
-              "original": "En secouant ses banderilles,",
-              "literal": "Shaking his banderillas,",
-              "tokens": [
-                {
-                  "word": "En",
-                  "lemma": "en",
-                  "pos": "pronoun",
-                  "meaning": "of it / from there / in"
-                },
-                {
-                  "word": "secouant",
-                  "lemma": "secouer",
-                  "pos": "verb",
-                  "meaning": "shaking / tossing"
-                },
-                {
-                  "word": "ses",
-                  "lemma": "son",
-                  "pos": "pronoun",
-                  "meaning": "his / her / its (pl.)"
-                },
-                {
-                  "word": "banderilles",
-                  "lemma": "banderille",
-                  "pos": "noun",
-                  "meaning": "banderillas (barbed darts)"
-                }
-              ]
-            },
-            {
-              "id": "a2_s2_c3_l13",
-              "original": "Il court : le cirque est plein de sang ;",
-              "literal": "he runs: the circus is full of blood;",
-              "tokens": [
-                {
-                  "word": "Il",
-                  "lemma": "il",
-                  "pos": "pronoun",
-                  "meaning": "he / it"
-                },
-                {
-                  "word": "court",
-                  "lemma": "court",
-                  "pos": "adjective",
-                  "meaning": "short / brief"
-                },
-                {
-                  "word": "le",
-                  "lemma": "le",
-                  "pos": "particle",
-                  "meaning": "the (masc. sg.)"
-                },
-                {
-                  "word": "cirque",
-                  "lemma": "cirque",
-                  "pos": "noun",
-                  "meaning": "circus / amphitheater / arena"
-                },
-                {
-                  "word": "est",
-                  "lemma": "être",
-                  "pos": "verb",
-                  "meaning": "is (3rd sg. pres.)"
-                },
-                {
-                  "word": "plein",
-                  "lemma": "plein",
-                  "pos": "adjective",
-                  "meaning": "full (en plein: in the middle of)"
-                },
-                {
-                  "word": "de",
-                  "lemma": "de",
-                  "pos": "preposition",
-                  "meaning": "of / from / by"
-                },
-                {
-                  "word": "sang",
-                  "lemma": "sang",
-                  "pos": "noun",
-                  "meaning": "blood"
-                }
-              ]
-            },
-            {
-              "id": "a2_s2_c3_l14",
-              "original": "On se sauve, on franchit les grilles…",
-              "literal": "people flee, they leap over the barriers...",
-              "tokens": [
-                {
-                  "word": "On",
-                  "lemma": "on",
-                  "pos": "pronoun",
-                  "meaning": "one / we / they (impersonal subject)"
-                },
-                {
-                  "word": "se",
-                  "lemma": "se",
-                  "pos": "pronoun",
-                  "meaning": "himself / herself / themselves / each other"
-                },
-                {
-                  "word": "sauve",
-                  "lemma": "sauver",
-                  "pos": "verb",
-                  "meaning": "to save / to rescue (1st/3rd sg. pres.)"
-                },
-                {
-                  "word": "on",
-                  "lemma": "on",
-                  "pos": "pronoun",
-                  "meaning": "one / we / they (impersonal subject)"
-                },
-                {
-                  "word": "franchit",
-                  "lemma": "franchir",
-                  "pos": "verb",
-                  "meaning": "crosses / cleared / leaped over"
-                },
-                {
-                  "word": "les",
-                  "lemma": "le",
-                  "pos": "particle",
-                  "meaning": "the (pl.)"
-                },
-                {
-                  "word": "grilles",
-                  "lemma": "grille",
-                  "pos": "noun",
-                  "meaning": "gates / railings / bars"
-                }
-              ]
-            },
-            {
-              "id": "a2_s2_c3_l15",
-              "original": "Allons ! c’est ton tour maintenant.",
-              "literal": "Come! it is your turn now.",
-              "tokens": [
-                {
-                  "word": "Allons",
-                  "lemma": "aller",
-                  "pos": "verb",
-                  "meaning": "go / let us go (1st pl. pres.)"
-                },
-                {
-                  "word": "c",
-                  "lemma": "ce",
-                  "pos": "pronoun",
-                  "meaning": "this / it (elided)"
-                },
-                {
-                  "word": "est",
-                  "lemma": "être",
-                  "pos": "verb",
-                  "meaning": "is (3rd sg. pres.)"
-                },
-                {
-                  "word": "ton",
-                  "lemma": "ton",
-                  "pos": "pronoun",
-                  "meaning": "your (masc. sg.)"
-                },
-                {
-                  "word": "tour",
-                  "lemma": "tour",
-                  "pos": "noun",
-                  "meaning": "turn / trick / tower (à tour de bras: with all one's might)"
-                },
-                {
-                  "word": "maintenant",
-                  "lemma": "maintenant",
-                  "pos": "adverb",
-                  "meaning": "now / at present"
-                }
-              ]
-            },
-            {
-              "id": "a2_s2_c3_l16",
-              "original": "Toréador, en garde !",
-              "literal": "Bullfighter, on guard!",
+              "original": "Toréador ! Toréador !",
+              "literal": "Toreador! Toreador!",
               "tokens": [
                 {
                   "word": "Toréador",
                   "lemma": "toréador",
                   "pos": "noun",
-                  "meaning": "toreador / bullfighter"
+                  "meaning": "toreador"
                 },
                 {
-                  "word": "en",
-                  "lemma": "en",
-                  "pos": "pronoun",
-                  "meaning": "of it / from there / in"
-                },
-                {
-                  "word": "garde",
-                  "lemma": "garde",
+                  "word": "Toréador",
+                  "lemma": "toréador",
                   "pos": "noun",
-                  "meaning": "guard / watch"
+                  "meaning": "toreador"
                 }
               ]
             },
             {
-              "id": "a2_s2_c3_l17",
-              "original": "Et songe en combattant",
-              "literal": "And dream while fighting",
+              "id": "a2_s2_c3_l3",
+              "original": "Et songe bien, oui, songe en combattant",
+              "literal": "And think well, yes, think while fighting",
               "tokens": [
                 {
                   "word": "Et",
@@ -6931,38 +6371,56 @@ export const carmenAct2: Act = {
                   "word": "songe",
                   "lemma": "songer",
                   "pos": "verb",
-                  "meaning": "to dream / to reflect (1st/3rd sg. pres.)"
+                  "meaning": "think / dream (2nd sg. imper.)"
+                },
+                {
+                  "word": "bien",
+                  "lemma": "bien",
+                  "pos": "adverb",
+                  "meaning": "well"
+                },
+                {
+                  "word": "oui",
+                  "lemma": "oui",
+                  "pos": "particle",
+                  "meaning": "yes"
+                },
+                {
+                  "word": "songe",
+                  "lemma": "songer",
+                  "pos": "verb",
+                  "meaning": "think (2nd sg. imper.)"
                 },
                 {
                   "word": "en",
                   "lemma": "en",
-                  "pos": "pronoun",
-                  "meaning": "of it / from there / in"
+                  "pos": "preposition",
+                  "meaning": "while / in"
                 },
                 {
                   "word": "combattant",
-                  "lemma": "combattant",
-                  "pos": "noun",
-                  "meaning": "combatant / fighter"
+                  "lemma": "combattre",
+                  "pos": "verb",
+                  "meaning": "fighting (pres. part.)"
                 }
               ]
             },
             {
-              "id": "a2_s2_c3_l18",
-              "original": "Qu’un œil noir te regarde",
-              "literal": "that a dark eye watches you",
+              "id": "a2_s2_c3_l4",
+              "original": "qu’un œil noir te regarde,",
+              "literal": "that a dark eye watches you,",
               "tokens": [
                 {
-                  "word": "Qu",
+                  "word": "qu",
                   "lemma": "que",
-                  "pos": "pronoun",
-                  "meaning": "that / which (elided)"
+                  "pos": "conjunction",
+                  "meaning": "that"
                 },
                 {
                   "word": "un",
                   "lemma": "un",
-                  "pos": "adjective",
-                  "meaning": "one / a"
+                  "pos": "noun",
+                  "meaning": "a"
                 },
                 {
                   "word": "œil",
@@ -6974,29 +6432,29 @@ export const carmenAct2: Act = {
                   "word": "noir",
                   "lemma": "noir",
                   "pos": "adjective",
-                  "meaning": "black / dark (masc.)"
+                  "meaning": "black / dark"
                 },
                 {
                   "word": "te",
                   "lemma": "te",
                   "pos": "pronoun",
-                  "meaning": "you / to you"
+                  "meaning": "you"
                 },
                 {
                   "word": "regarde",
                   "lemma": "regarder",
                   "pos": "verb",
-                  "meaning": "to look at / to watch (1st/3rd sg. pres.)"
+                  "meaning": "looks at / watches (3rd sg. pres.)"
                 }
               ]
             },
             {
-              "id": "a2_s2_c3_l19",
-              "original": "Et que l’amour t’attend.",
-              "literal": "and that love awaits you.",
+              "id": "a2_s2_c3_l5",
+              "original": "et que l’amour t’attend !",
+              "literal": "and that love awaits you!",
               "tokens": [
                 {
-                  "word": "Et",
+                  "word": "et",
                   "lemma": "et",
                   "pos": "conjunction",
                   "meaning": "and"
@@ -7004,32 +6462,32 @@ export const carmenAct2: Act = {
                 {
                   "word": "que",
                   "lemma": "que",
-                  "pos": "pronoun",
-                  "meaning": "that / which / whom / what"
+                  "pos": "conjunction",
+                  "meaning": "that"
                 },
                 {
                   "word": "l",
                   "lemma": "le",
-                  "pos": "particle",
-                  "meaning": "the (elided)"
+                  "pos": "noun",
+                  "meaning": "the"
                 },
                 {
                   "word": "amour",
                   "lemma": "amour",
                   "pos": "noun",
-                  "meaning": "love / passion"
+                  "meaning": "love"
                 },
                 {
                   "word": "t",
                   "lemma": "te",
                   "pos": "pronoun",
-                  "meaning": "you / to you (elided)"
+                  "meaning": "you"
                 },
                 {
                   "word": "attend",
                   "lemma": "attendre",
                   "pos": "verb",
-                  "meaning": "waits / awaits (3rd sg. pres.)"
+                  "meaning": "awaits (3rd sg. pres.)"
                 }
               ]
             }
@@ -7044,7 +6502,7 @@ export const carmenAct2: Act = {
             {
               "id": "a2_s2_c4_l1",
               "original": "Toréador, en garde !",
-              "literal": "Bullfighter, on guard!",
+              "literal": "Toreador, on guard!",
               "tokens": [
                 {
                   "word": "Toréador",
@@ -7055,27 +6513,168 @@ export const carmenAct2: Act = {
                 {
                   "word": "en",
                   "lemma": "en",
-                  "pos": "pronoun",
-                  "meaning": "of it / from there / in"
+                  "pos": "preposition",
+                  "meaning": "in / on"
                 },
                 {
                   "word": "garde",
                   "lemma": "garde",
                   "pos": "noun",
-                  "meaning": "guard / watch"
+                  "meaning": "guard"
                 }
               ]
             },
             {
               "id": "a2_s2_c4_l2",
-              "original": "Etc.",
-              "literal": "Etc.",
+              "original": "Toréador ! Toréador !",
+              "literal": "Toreador! Toreador!",
               "tokens": [
                 {
-                  "word": "Etc",
-                  "lemma": "etc.",
+                  "word": "Toréador",
+                  "lemma": "toréador",
+                  "pos": "noun",
+                  "meaning": "toreador"
+                },
+                {
+                  "word": "Toréador",
+                  "lemma": "toréador",
+                  "pos": "noun",
+                  "meaning": "toreador"
+                }
+              ]
+            },
+            {
+              "id": "a2_s2_c4_l3",
+              "original": "Et songe bien, oui, songe en combattant",
+              "literal": "And think well, yes, think while fighting",
+              "tokens": [
+                {
+                  "word": "Et",
+                  "lemma": "et",
+                  "pos": "conjunction",
+                  "meaning": "and"
+                },
+                {
+                  "word": "songe",
+                  "lemma": "songer",
+                  "pos": "verb",
+                  "meaning": "think / dream (2nd sg. imper.)"
+                },
+                {
+                  "word": "bien",
+                  "lemma": "bien",
                   "pos": "adverb",
-                  "meaning": "et cetera / and so forth"
+                  "meaning": "well"
+                },
+                {
+                  "word": "oui",
+                  "lemma": "oui",
+                  "pos": "particle",
+                  "meaning": "yes"
+                },
+                {
+                  "word": "songe",
+                  "lemma": "songer",
+                  "pos": "verb",
+                  "meaning": "think (2nd sg. imper.)"
+                },
+                {
+                  "word": "en",
+                  "lemma": "en",
+                  "pos": "preposition",
+                  "meaning": "while / in"
+                },
+                {
+                  "word": "combattant",
+                  "lemma": "combattre",
+                  "pos": "verb",
+                  "meaning": "fighting (pres. part.)"
+                }
+              ]
+            },
+            {
+              "id": "a2_s2_c4_l4",
+              "original": "qu’un œil noir te regarde,",
+              "literal": "that a dark eye watches you,",
+              "tokens": [
+                {
+                  "word": "qu",
+                  "lemma": "que",
+                  "pos": "conjunction",
+                  "meaning": "that"
+                },
+                {
+                  "word": "un",
+                  "lemma": "un",
+                  "pos": "noun",
+                  "meaning": "a"
+                },
+                {
+                  "word": "œil",
+                  "lemma": "œil",
+                  "pos": "noun",
+                  "meaning": "eye"
+                },
+                {
+                  "word": "noir",
+                  "lemma": "noir",
+                  "pos": "adjective",
+                  "meaning": "black / dark"
+                },
+                {
+                  "word": "te",
+                  "lemma": "te",
+                  "pos": "pronoun",
+                  "meaning": "you"
+                },
+                {
+                  "word": "regarde",
+                  "lemma": "regarder",
+                  "pos": "verb",
+                  "meaning": "looks at / watches (3rd sg. pres.)"
+                }
+              ]
+            },
+            {
+              "id": "a2_s2_c4_l5",
+              "original": "et que l’amour t’attend !",
+              "literal": "and that love awaits you!",
+              "tokens": [
+                {
+                  "word": "et",
+                  "lemma": "et",
+                  "pos": "conjunction",
+                  "meaning": "and"
+                },
+                {
+                  "word": "que",
+                  "lemma": "que",
+                  "pos": "conjunction",
+                  "meaning": "that"
+                },
+                {
+                  "word": "l",
+                  "lemma": "le",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "amour",
+                  "lemma": "amour",
+                  "pos": "noun",
+                  "meaning": "love"
+                },
+                {
+                  "word": "t",
+                  "lemma": "te",
+                  "pos": "pronoun",
+                  "meaning": "you"
+                },
+                {
+                  "word": "attend",
+                  "lemma": "attendre",
+                  "pos": "verb",
+                  "meaning": "awaits (3rd sg. pres.)"
                 }
               ]
             }
@@ -8728,32 +8327,32 @@ export const carmenAct2: Act = {
             {
               "id": "a2_s2_c26_l1",
               "original": "Toréador, en garde !",
-              "literal": "Bullfighter, on guard!",
+              "literal": "Toreador, on guard!",
               "tokens": [
                 {
                   "word": "Toréador",
                   "lemma": "toréador",
                   "pos": "noun",
-                  "meaning": "toreador / bullfighter"
+                  "meaning": "toreador"
                 },
                 {
                   "word": "en",
                   "lemma": "en",
-                  "pos": "pronoun",
-                  "meaning": "of it / from there / in"
+                  "pos": "preposition",
+                  "meaning": "on"
                 },
                 {
                   "word": "garde",
                   "lemma": "garde",
                   "pos": "noun",
-                  "meaning": "guard / watch"
+                  "meaning": "guard"
                 }
               ]
             },
             {
               "id": "a2_s2_c26_l2",
               "original": "Et songe en combattant,",
-              "literal": "And dream while fighting,",
+              "literal": "And think while fighting,",
               "tokens": [
                 {
                   "word": "Et",
@@ -8765,32 +8364,105 @@ export const carmenAct2: Act = {
                   "word": "songe",
                   "lemma": "songer",
                   "pos": "verb",
-                  "meaning": "to dream / to reflect (1st/3rd sg. pres.)"
+                  "meaning": "think (2nd sg. imper.)"
                 },
                 {
                   "word": "en",
                   "lemma": "en",
-                  "pos": "pronoun",
-                  "meaning": "of it / from there / in"
+                  "pos": "preposition",
+                  "meaning": "while"
                 },
                 {
                   "word": "combattant",
-                  "lemma": "combattant",
-                  "pos": "noun",
-                  "meaning": "combatant / fighter"
+                  "lemma": "combattre",
+                  "pos": "verb",
+                  "meaning": "fighting (pres. part.)"
                 }
               ]
             },
             {
               "id": "a2_s2_c26_l3",
-              "original": "Etc.",
-              "literal": "etc.",
+              "original": "qu’un œil noir te regarde,",
+              "literal": "that a dark eye watches you,",
               "tokens": [
                 {
-                  "word": "Etc",
-                  "lemma": "etc.",
-                  "pos": "adverb",
-                  "meaning": "et cetera / and so forth"
+                  "word": "qu",
+                  "lemma": "que",
+                  "pos": "conjunction",
+                  "meaning": "that"
+                },
+                {
+                  "word": "un",
+                  "lemma": "un",
+                  "pos": "noun",
+                  "meaning": "a"
+                },
+                {
+                  "word": "œil",
+                  "lemma": "œil",
+                  "pos": "noun",
+                  "meaning": "eye"
+                },
+                {
+                  "word": "noir",
+                  "lemma": "noir",
+                  "pos": "adjective",
+                  "meaning": "dark / black"
+                },
+                {
+                  "word": "te",
+                  "lemma": "te",
+                  "pos": "pronoun",
+                  "meaning": "you"
+                },
+                {
+                  "word": "regarde",
+                  "lemma": "regarder",
+                  "pos": "verb",
+                  "meaning": "watches (3rd sg. pres.)"
+                }
+              ]
+            },
+            {
+              "id": "a2_s2_c26_l4",
+              "original": "et que l’amour t’attend !",
+              "literal": "and that love awaits you!",
+              "tokens": [
+                {
+                  "word": "et",
+                  "lemma": "et",
+                  "pos": "conjunction",
+                  "meaning": "and"
+                },
+                {
+                  "word": "que",
+                  "lemma": "que",
+                  "pos": "conjunction",
+                  "meaning": "that"
+                },
+                {
+                  "word": "l",
+                  "lemma": "le",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "amour",
+                  "lemma": "amour",
+                  "pos": "noun",
+                  "meaning": "love"
+                },
+                {
+                  "word": "t",
+                  "lemma": "te",
+                  "pos": "pronoun",
+                  "meaning": "you"
+                },
+                {
+                  "word": "attend",
+                  "lemma": "attendre",
+                  "pos": "verb",
+                  "meaning": "awaits (3rd sg. pres.)"
                 }
               ]
             }
@@ -12897,82 +12569,161 @@ export const carmenAct2: Act = {
             {
               "id": "a2_s4_c45_l1",
               "original": "En matière de tromperie,",
-              "literal": "In matters of deception,",
+              "literal": "In matters of deceit,",
               "tokens": [
                 {
                   "word": "En",
                   "lemma": "en",
-                  "pos": "pronoun",
-                  "meaning": "of it / from there / in"
+                  "pos": "preposition",
+                  "meaning": "in"
                 },
                 {
                   "word": "matière",
                   "lemma": "matière",
                   "pos": "noun",
-                  "meaning": "matter / material / subject"
+                  "meaning": "matter / subject"
                 },
                 {
                   "word": "de",
                   "lemma": "de",
                   "pos": "preposition",
-                  "meaning": "of / from / by"
+                  "meaning": "of"
                 },
                 {
                   "word": "tromperie",
                   "lemma": "tromperie",
                   "pos": "noun",
-                  "meaning": "deceit / trickery / fraud"
+                  "meaning": "deceit / deception"
                 }
               ]
             },
             {
               "id": "a2_s4_c45_l2",
-              "original": "De duperie,",
-              "literal": "of duping,",
+              "original": "de duperie,",
+              "literal": "of trickery,",
               "tokens": [
                 {
-                  "word": "De",
+                  "word": "de",
                   "lemma": "de",
                   "pos": "preposition",
-                  "meaning": "of / from / by"
+                  "meaning": "of"
                 },
                 {
                   "word": "duperie",
                   "lemma": "duperie",
                   "pos": "noun",
-                  "meaning": "trickery / deceit / delusion"
+                  "meaning": "trickery / duping"
                 }
               ]
             },
             {
               "id": "a2_s4_c45_l3",
-              "original": "De volerie,",
+              "original": "de volerie,",
               "literal": "of thievery,",
               "tokens": [
                 {
-                  "word": "De",
+                  "word": "de",
                   "lemma": "de",
                   "pos": "preposition",
-                  "meaning": "of / from / by"
+                  "meaning": "of"
                 },
                 {
                   "word": "volerie",
                   "lemma": "volerie",
                   "pos": "noun",
-                  "meaning": "theft / robbery / thieving"
+                  "meaning": "thievery / stealing"
                 }
               ]
             },
             {
               "id": "a2_s4_c45_l4",
-              "original": "Etc.",
-              "literal": "etc.",
+              "original": "il est toujours bon, sur ma foi,",
+              "literal": "it is always good, on my word,",
               "tokens": [
                 {
-                  "word": "Etc",
-                  "lemma": "etc.",
+                  "word": "il",
+                  "lemma": "il",
+                  "pos": "pronoun",
+                  "meaning": "it"
+                },
+                {
+                  "word": "est",
+                  "lemma": "être",
+                  "pos": "verb",
+                  "meaning": "is (3rd sg. pres.)"
+                },
+                {
+                  "word": "toujours",
+                  "lemma": "toujours",
                   "pos": "adverb",
-                  "meaning": "et cetera / and so forth"
+                  "meaning": "always"
+                },
+                {
+                  "word": "bon",
+                  "lemma": "bon",
+                  "pos": "adjective",
+                  "meaning": "good"
+                },
+                {
+                  "word": "sur",
+                  "lemma": "sur",
+                  "pos": "preposition",
+                  "meaning": "on / upon"
+                },
+                {
+                  "word": "ma",
+                  "lemma": "mon",
+                  "pos": "noun",
+                  "meaning": "my"
+                },
+                {
+                  "word": "foi",
+                  "lemma": "foi",
+                  "pos": "noun",
+                  "meaning": "faith / word"
+                }
+              ]
+            },
+            {
+              "id": "a2_s4_c45_l5",
+              "original": "d’avoir les femmes avec soi !",
+              "literal": "to have women with you!",
+              "tokens": [
+                {
+                  "word": "d",
+                  "lemma": "de",
+                  "pos": "preposition",
+                  "meaning": "to / of"
+                },
+                {
+                  "word": "avoir",
+                  "lemma": "avoir",
+                  "pos": "verb",
+                  "meaning": "have (infinitive)"
+                },
+                {
+                  "word": "les",
+                  "lemma": "le",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "femmes",
+                  "lemma": "femme",
+                  "pos": "noun",
+                  "meaning": "women"
+                },
+                {
+                  "word": "avec",
+                  "lemma": "avec",
+                  "pos": "preposition",
+                  "meaning": "with"
+                },
+                {
+                  "word": "soi",
+                  "lemma": "soi",
+                  "pos": "pronoun",
+                  "meaning": "oneself / you"
                 }
               ]
             }

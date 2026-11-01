@@ -1151,8 +1151,8 @@ export const aidaAct1: Act = {
             },
             {
               "id": "a1_s1_c6_l17",
-              "original": "Mistico raggio di luce e fior, ecc.",
-              "literal": "Mystical ray of light and flowers, etc.",
+              "original": "Mistico serto di luce e fior,",
+              "literal": "Mystical garland of light and flowers,",
               "tokens": [
                 {
                   "word": "Mistico",
@@ -1161,16 +1161,16 @@ export const aidaAct1: Act = {
                   "meaning": "mystical"
                 },
                 {
-                  "word": "raggio",
-                  "lemma": "raggio",
+                  "word": "serto",
+                  "lemma": "serto",
                   "pos": "noun",
-                  "meaning": "ray / beam of light"
+                  "meaning": "garland / wreath"
                 },
                 {
                   "word": "di",
                   "lemma": "di",
-                  "pos": "noun",
-                  "meaning": "of / by"
+                  "pos": "preposition",
+                  "meaning": "of"
                 },
                 {
                   "word": "luce",
@@ -1181,20 +1181,143 @@ export const aidaAct1: Act = {
                 {
                   "word": "e",
                   "lemma": "e",
-                  "pos": "noun",
+                  "pos": "conjunction",
                   "meaning": "and"
                 },
                 {
                   "word": "fior",
-                  "lemma": "fior",
+                  "lemma": "fiore",
                   "pos": "noun",
-                  "meaning": "flower / bloom"
+                  "meaning": "flowers"
+                }
+              ]
+            },
+            {
+              "id": "a1_s1_c6_l18",
+              "original": "Del mio pensiero tu sei regina,",
+              "literal": "Of my thought you are queen,",
+              "tokens": [
+                {
+                  "word": "Del",
+                  "lemma": "del",
+                  "pos": "preposition",
+                  "meaning": "of the"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "ecc",
+                  "word": "mio",
+                  "lemma": "mio",
                   "pos": "noun",
-                  "meaning": "ecc"
+                  "meaning": "my"
+                },
+                {
+                  "word": "pensiero",
+                  "lemma": "pensiero",
+                  "pos": "noun",
+                  "meaning": "thought"
+                },
+                {
+                  "word": "tu",
+                  "lemma": "tu",
+                  "pos": "pronoun",
+                  "meaning": "you"
+                },
+                {
+                  "word": "sei",
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "are (2nd sg. pres.)"
+                },
+                {
+                  "word": "regina",
+                  "lemma": "regina",
+                  "pos": "noun",
+                  "meaning": "queen"
+                }
+              ]
+            },
+            {
+              "id": "a1_s1_c6_l19",
+              "original": "Tu di mia vita sei lo splendor.",
+              "literal": "You of my life are the splendor.",
+              "tokens": [
+                {
+                  "word": "Tu",
+                  "lemma": "tu",
+                  "pos": "pronoun",
+                  "meaning": "you"
+                },
+                {
+                  "word": "di",
+                  "lemma": "di",
+                  "pos": "preposition",
+                  "meaning": "of"
+                },
+                {
+                  "word": "mia",
+                  "lemma": "mio",
+                  "pos": "noun",
+                  "meaning": "my"
+                },
+                {
+                  "word": "vita",
+                  "lemma": "vita",
+                  "pos": "noun",
+                  "meaning": "life"
+                },
+                {
+                  "word": "sei",
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "are (2nd sg. pres.)"
+                },
+                {
+                  "word": "lo",
+                  "lemma": "il",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "splendor",
+                  "lemma": "splendore",
+                  "pos": "noun",
+                  "meaning": "splendor"
+                }
+              ]
+            },
+            {
+              "id": "a1_s1_c6_l20",
+              "original": "Un trono vicino al sol!",
+              "literal": "A throne near the sun!",
+              "tokens": [
+                {
+                  "word": "Un",
+                  "lemma": "un",
+                  "pos": "noun",
+                  "meaning": "a"
+                },
+                {
+                  "word": "trono",
+                  "lemma": "trono",
+                  "pos": "noun",
+                  "meaning": "throne"
+                },
+                {
+                  "word": "vicino",
+                  "lemma": "vicino",
+                  "pos": "preposition",
+                  "meaning": "near"
+                },
+                {
+                  "word": "al",
+                  "lemma": "al",
+                  "pos": "preposition",
+                  "meaning": "to the"
+                },
+                {
+                  "word": "sol",
+                  "lemma": "sole",
+                  "pos": "noun",
+                  "meaning": "sun"
                 }
               ]
             }
@@ -6086,32 +6209,63 @@ export const aidaAct1: Act = {
             },
             {
               "id": "a1_s1_c45_l2",
-              "original": "Accorrete, Egizi eroi; ecc.",
-              "literal": "Hurry, Egyptian heroes; etc.",
+              "original": "Accorrete, Egizi eroi;",
+              "literal": "Hurry, Egyptian heroes;",
               "tokens": [
                 {
                   "word": "Accorrete",
                   "lemma": "accorrere",
                   "pos": "verb",
-                  "meaning": "second-person plural present indicative / second-person plural imperative"
+                  "meaning": "rush / hurry (2nd pl. imper.)"
                 },
                 {
                   "word": "Egizi",
                   "lemma": "egizio",
                   "pos": "adjective",
-                  "meaning": "masculine plural of egizio"
+                  "meaning": "Egyptian"
                 },
                 {
                   "word": "eroi",
                   "lemma": "eroe",
                   "pos": "noun",
-                  "meaning": "plural of eroe"
+                  "meaning": "heroes"
+                }
+              ]
+            },
+            {
+              "id": "a1_s1_c45_l3",
+              "original": "guerra ed esterminio allo stranier!",
+              "literal": "war and extermination to the foreigner!",
+              "tokens": [
+                {
+                  "word": "guerra",
+                  "lemma": "guerra",
+                  "pos": "noun",
+                  "meaning": "war"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "ecc",
+                  "word": "ed",
+                  "lemma": "e",
+                  "pos": "conjunction",
+                  "meaning": "and"
+                },
+                {
+                  "word": "esterminio",
+                  "lemma": "esterminio",
                   "pos": "noun",
-                  "meaning": "ecc"
+                  "meaning": "extermination / destruction"
+                },
+                {
+                  "word": "allo",
+                  "lemma": "al",
+                  "pos": "preposition",
+                  "meaning": "to the"
+                },
+                {
+                  "word": "stranier",
+                  "lemma": "straniero",
+                  "pos": "noun",
+                  "meaning": "foreigner / stranger"
                 }
               ]
             }
@@ -6123,8 +6277,8 @@ export const aidaAct1: Act = {
           "lines": [
             {
               "id": "a1_s1_c46_l1",
-              "original": "Gloria ai Numi! Ognun rammenti, ecc.",
-              "literal": "Glory to the Gods! Everyone remembers, etc.",
+              "original": "Gloria ai Numi! Ognun rammenti",
+              "literal": "Glory to the Gods! Everyone remember",
               "tokens": [
                 {
                   "word": "Gloria",
@@ -6134,33 +6288,150 @@ export const aidaAct1: Act = {
                 },
                 {
                   "word": "ai",
-                  "lemma": "ai",
-                  "pos": "noun",
-                  "meaning": "to-the"
+                  "lemma": "al",
+                  "pos": "preposition",
+                  "meaning": "to the"
                 },
                 {
                   "word": "Numi",
-                  "lemma": "numi",
+                  "lemma": "nume",
                   "pos": "noun",
-                  "meaning": "deities / gods"
+                  "meaning": "gods / deities"
                 },
                 {
                   "word": "Ognun",
-                  "lemma": "ognun",
-                  "pos": "noun",
+                  "lemma": "ognuno",
+                  "pos": "pronoun",
                   "meaning": "everyone"
                 },
                 {
                   "word": "rammenti",
-                  "lemma": "rammenti",
-                  "pos": "noun",
-                  "meaning": "you remember"
+                  "lemma": "rammentare",
+                  "pos": "verb",
+                  "meaning": "remember (3rd sg. subj.)"
+                }
+              ]
+            },
+            {
+              "id": "a1_s1_c46_l2",
+              "original": "ch'essi reggono gli eventi;",
+              "literal": "that they govern events;",
+              "tokens": [
+                {
+                  "word": "ch",
+                  "lemma": "che",
+                  "pos": "conjunction",
+                  "meaning": "that"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "ecc",
+                  "word": "essi",
+                  "lemma": "esso",
+                  "pos": "pronoun",
+                  "meaning": "they"
+                },
+                {
+                  "word": "reggono",
+                  "lemma": "reggere",
+                  "pos": "verb",
+                  "meaning": "rule / govern (3rd pl. pres.)"
+                },
+                {
+                  "word": "gli",
+                  "lemma": "il",
                   "pos": "noun",
-                  "meaning": "ecc"
+                  "meaning": "the"
+                },
+                {
+                  "word": "eventi",
+                  "lemma": "evento",
+                  "pos": "noun",
+                  "meaning": "events"
+                }
+              ]
+            },
+            {
+              "id": "a1_s1_c46_l3",
+              "original": "che di pace e di vittoria",
+              "literal": "that of peace and of victory",
+              "tokens": [
+                {
+                  "word": "che",
+                  "lemma": "che",
+                  "pos": "conjunction",
+                  "meaning": "that"
+                },
+                {
+                  "word": "di",
+                  "lemma": "di",
+                  "pos": "preposition",
+                  "meaning": "of"
+                },
+                {
+                  "word": "pace",
+                  "lemma": "pace",
+                  "pos": "noun",
+                  "meaning": "peace"
+                },
+                {
+                  "word": "e",
+                  "lemma": "e",
+                  "pos": "conjunction",
+                  "meaning": "and"
+                },
+                {
+                  "word": "di",
+                  "lemma": "di",
+                  "pos": "preposition",
+                  "meaning": "of"
+                },
+                {
+                  "word": "vittoria",
+                  "lemma": "vittoria",
+                  "pos": "noun",
+                  "meaning": "victory"
+                }
+              ]
+            },
+            {
+              "id": "a1_s1_c46_l4",
+              "original": "sol dai Numi il dono appar.",
+              "literal": "only from the Gods the gift appears.",
+              "tokens": [
+                {
+                  "word": "sol",
+                  "lemma": "solo",
+                  "pos": "adverb",
+                  "meaning": "only / solely"
+                },
+                {
+                  "word": "dai",
+                  "lemma": "dal",
+                  "pos": "preposition",
+                  "meaning": "from the"
+                },
+                {
+                  "word": "Numi",
+                  "lemma": "nume",
+                  "pos": "noun",
+                  "meaning": "gods"
+                },
+                {
+                  "word": "il",
+                  "lemma": "il",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "dono",
+                  "lemma": "dono",
+                  "pos": "noun",
+                  "meaning": "gift"
+                },
+                {
+                  "word": "appar",
+                  "lemma": "apparire",
+                  "pos": "verb",
+                  "meaning": "appears (3rd sg. pres.)"
                 }
               ]
             }
@@ -6215,30 +6486,30 @@ export const aidaAct1: Act = {
             },
             {
               "id": "a1_s1_c47_l2",
-              "original": "Sian barriera i nostri petti, ecc.",
-              "literal": "Let our breasts be a barrier, etc.",
+              "original": "Sian barriera i nostri petti,",
+              "literal": "Let our chests be a barrier,",
               "tokens": [
                 {
                   "word": "Sian",
-                  "lemma": "sian",
-                  "pos": "noun",
-                  "meaning": "they may be"
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "let them be (3rd pl. subj.)"
                 },
                 {
                   "word": "barriera",
                   "lemma": "barriera",
                   "pos": "noun",
-                  "meaning": "tollgate / barrier"
+                  "meaning": "barrier"
                 },
                 {
                   "word": "i",
-                  "lemma": "i",
+                  "lemma": "il",
                   "pos": "noun",
                   "meaning": "the"
                 },
                 {
                   "word": "nostri",
-                  "lemma": "nostri",
+                  "lemma": "nostro",
                   "pos": "noun",
                   "meaning": "our"
                 },
@@ -6246,13 +6517,50 @@ export const aidaAct1: Act = {
                   "word": "petti",
                   "lemma": "petto",
                   "pos": "noun",
-                  "meaning": "plural of petto"
+                  "meaning": "breasts / chests"
+                }
+              ]
+            },
+            {
+              "id": "a1_s1_c47_l3",
+              "original": "guerra, guerra ed esterminio allo stranier!",
+              "literal": "war, war and extermination to the foreigner!",
+              "tokens": [
+                {
+                  "word": "guerra",
+                  "lemma": "guerra",
+                  "pos": "noun",
+                  "meaning": "war"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "ecc",
+                  "word": "guerra",
+                  "lemma": "guerra",
                   "pos": "noun",
-                  "meaning": "ecc"
+                  "meaning": "war"
+                },
+                {
+                  "word": "ed",
+                  "lemma": "e",
+                  "pos": "conjunction",
+                  "meaning": "and"
+                },
+                {
+                  "word": "esterminio",
+                  "lemma": "esterminio",
+                  "pos": "noun",
+                  "meaning": "extermination"
+                },
+                {
+                  "word": "allo",
+                  "lemma": "al",
+                  "pos": "preposition",
+                  "meaning": "to the"
+                },
+                {
+                  "word": "stranier",
+                  "lemma": "straniero",
+                  "pos": "noun",
+                  "meaning": "foreigner"
                 }
               ]
             }
@@ -8197,26 +8505,26 @@ export const aidaAct1: Act = {
             },
             {
               "id": "a1_s1_c57_l37",
-              "original": "Numi, pietà del mio soffrir! ecc.",
-              "literal": "Gods, have pity on my suffering! etc.",
+              "original": "Numi, pietà del mio soffrir!",
+              "literal": "Gods, have pity on my suffering!",
               "tokens": [
                 {
                   "word": "Numi",
-                  "lemma": "numi",
+                  "lemma": "nume",
                   "pos": "noun",
-                  "meaning": "deities / gods"
+                  "meaning": "gods / deities"
                 },
                 {
                   "word": "pietà",
                   "lemma": "pietà",
                   "pos": "noun",
-                  "meaning": "pity / mercy / piety"
+                  "meaning": "pity / mercy"
                 },
                 {
                   "word": "del",
                   "lemma": "del",
-                  "pos": "noun",
-                  "meaning": "of-the"
+                  "pos": "preposition",
+                  "meaning": "of the"
                 },
                 {
                   "word": "mio",
@@ -8226,15 +8534,46 @@ export const aidaAct1: Act = {
                 },
                 {
                   "word": "soffrir",
-                  "lemma": "soffrir",
+                  "lemma": "soffrire",
                   "pos": "verb",
-                  "meaning": "apocopic form of soffrire"
+                  "meaning": "suffering (inf. as noun)"
+                }
+              ]
+            },
+            {
+              "id": "a1_s1_c57_l38",
+              "original": "Pietà, pietà del mio soffrir!",
+              "literal": "Pity, pity on my suffering!",
+              "tokens": [
+                {
+                  "word": "Pietà",
+                  "lemma": "pietà",
+                  "pos": "noun",
+                  "meaning": "pity / mercy"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "pietà",
+                  "lemma": "pietà",
+                  "pos": "noun",
+                  "meaning": "pity / mercy"
+                },
+                {
+                  "word": "del",
+                  "lemma": "del",
+                  "pos": "preposition",
+                  "meaning": "of the"
+                },
+                {
+                  "word": "mio",
+                  "lemma": "mio",
+                  "pos": "noun",
+                  "meaning": "my"
+                },
+                {
+                  "word": "soffrir",
+                  "lemma": "soffrire",
+                  "pos": "verb",
+                  "meaning": "suffering"
                 }
               ]
             }
@@ -9215,14 +9554,14 @@ export const aidaAct1: Act = {
             },
             {
               "id": "a1_s2_c14_l2",
-              "original": "Dal Dio temprato, ecc.",
-              "literal": "By the tempered God, etc.",
+              "original": "dal Dio temprato, renda salute,",
+              "literal": "tempered by God, give health,",
               "tokens": [
                 {
-                  "word": "Dal",
+                  "word": "dal",
                   "lemma": "dal",
-                  "pos": "noun",
-                  "meaning": "from-the"
+                  "pos": "preposition",
+                  "meaning": "by the"
                 },
                 {
                   "word": "Dio",
@@ -9232,15 +9571,58 @@ export const aidaAct1: Act = {
                 },
                 {
                   "word": "temprato",
-                  "lemma": "temprare",
-                  "pos": "verb",
-                  "meaning": "past participle of temprare"
+                  "lemma": "temprato",
+                  "pos": "adjective",
+                  "meaning": "tempered"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "ecc",
+                  "word": "renda",
+                  "lemma": "rendere",
+                  "pos": "verb",
+                  "meaning": "render / give (3rd sg. subj.)"
+                },
+                {
+                  "word": "salute",
+                  "lemma": "salute",
                   "pos": "noun",
-                  "meaning": "ecc"
+                  "meaning": "health / salvation"
+                }
+              ]
+            },
+            {
+              "id": "a1_s2_c14_l3",
+              "original": "terror, periglio all'oste oppressor!",
+              "literal": "terror, peril to the oppressor host!",
+              "tokens": [
+                {
+                  "word": "terror",
+                  "lemma": "terrore",
+                  "pos": "noun",
+                  "meaning": "terror"
+                },
+                {
+                  "word": "periglio",
+                  "lemma": "periglio",
+                  "pos": "noun",
+                  "meaning": "peril / danger"
+                },
+                {
+                  "word": "all",
+                  "lemma": "al",
+                  "pos": "preposition",
+                  "meaning": "to the"
+                },
+                {
+                  "word": "oste",
+                  "lemma": "oste",
+                  "pos": "noun",
+                  "meaning": "host / army"
+                },
+                {
+                  "word": "oppressor",
+                  "lemma": "oppressore",
+                  "pos": "noun",
+                  "meaning": "oppressor"
                 }
               ]
             }
@@ -9578,38 +9960,99 @@ export const aidaAct1: Act = {
             },
             {
               "id": "a1_s2_c17_l2",
-              "original": "Di questa sacra terra, ecc.",
-              "literal": "Of this sacred land, etc.",
+              "original": "di questa sacra terra, or ti difenda,",
+              "literal": "of this sacred land, now defend you,",
               "tokens": [
                 {
-                  "word": "Di",
+                  "word": "di",
                   "lemma": "di",
-                  "pos": "noun",
-                  "meaning": "of / by"
+                  "pos": "preposition",
+                  "meaning": "of"
                 },
                 {
                   "word": "questa",
-                  "lemma": "questa",
-                  "pos": "noun",
+                  "lemma": "questo",
+                  "pos": "adjective",
                   "meaning": "this"
                 },
                 {
                   "word": "sacra",
                   "lemma": "sacro",
                   "pos": "adjective",
-                  "meaning": "feminine singular of sacro"
+                  "meaning": "sacred"
                 },
                 {
                   "word": "terra",
                   "lemma": "terra",
                   "pos": "noun",
-                  "meaning": "earth / ground"
+                  "meaning": "land / earth"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "ecc",
+                  "word": "or",
+                  "lemma": "ora",
+                  "pos": "adverb",
+                  "meaning": "now"
+                },
+                {
+                  "word": "ti",
+                  "lemma": "ti",
+                  "pos": "pronoun",
+                  "meaning": "you"
+                },
+                {
+                  "word": "difenda",
+                  "lemma": "difendere",
+                  "pos": "verb",
+                  "meaning": "defend (3rd sg. subj.)"
+                }
+              ]
+            },
+            {
+              "id": "a1_s2_c17_l3",
+              "original": "sii scudo, o Nume, al patrio suol!",
+              "literal": "be a shield, o God, to our native soil!",
+              "tokens": [
+                {
+                  "word": "sii",
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "be (2nd sg. imper.)"
+                },
+                {
+                  "word": "scudo",
+                  "lemma": "scudo",
                   "pos": "noun",
-                  "meaning": "ecc"
+                  "meaning": "shield"
+                },
+                {
+                  "word": "o",
+                  "lemma": "o",
+                  "pos": "interjection",
+                  "meaning": "o"
+                },
+                {
+                  "word": "Nume",
+                  "lemma": "nume",
+                  "pos": "noun",
+                  "meaning": "god / deity"
+                },
+                {
+                  "word": "al",
+                  "lemma": "al",
+                  "pos": "preposition",
+                  "meaning": "to the"
+                },
+                {
+                  "word": "patrio",
+                  "lemma": "patrio",
+                  "pos": "adjective",
+                  "meaning": "native / fatherland"
+                },
+                {
+                  "word": "suol",
+                  "lemma": "suolo",
+                  "pos": "noun",
+                  "meaning": "soil / ground"
                 }
               ]
             }
@@ -9652,38 +10095,99 @@ export const aidaAct1: Act = {
             },
             {
               "id": "a1_s2_c18_l2",
-              "original": "Di questa sacra terra, ecc.",
-              "literal": "Of this sacred land, etc.",
+              "original": "di questa sacra terra, or ti difenda,",
+              "literal": "of this sacred land, now defend you,",
               "tokens": [
                 {
-                  "word": "Di",
+                  "word": "di",
                   "lemma": "di",
-                  "pos": "noun",
-                  "meaning": "of / by"
+                  "pos": "preposition",
+                  "meaning": "of"
                 },
                 {
                   "word": "questa",
-                  "lemma": "questa",
-                  "pos": "noun",
+                  "lemma": "questo",
+                  "pos": "adjective",
                   "meaning": "this"
                 },
                 {
                   "word": "sacra",
                   "lemma": "sacro",
                   "pos": "adjective",
-                  "meaning": "feminine singular of sacro"
+                  "meaning": "sacred"
                 },
                 {
                   "word": "terra",
                   "lemma": "terra",
                   "pos": "noun",
-                  "meaning": "earth / ground"
+                  "meaning": "land / earth"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "ecc",
+                  "word": "or",
+                  "lemma": "ora",
+                  "pos": "adverb",
+                  "meaning": "now"
+                },
+                {
+                  "word": "ti",
+                  "lemma": "ti",
+                  "pos": "pronoun",
+                  "meaning": "you"
+                },
+                {
+                  "word": "difenda",
+                  "lemma": "difendere",
+                  "pos": "verb",
+                  "meaning": "defend (3rd sg. subj.)"
+                }
+              ]
+            },
+            {
+              "id": "a1_s2_c18_l3",
+              "original": "sii scudo, o Nume, al patrio suol!",
+              "literal": "be a shield, o God, to our native soil!",
+              "tokens": [
+                {
+                  "word": "sii",
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "be (2nd sg. imper.)"
+                },
+                {
+                  "word": "scudo",
+                  "lemma": "scudo",
                   "pos": "noun",
-                  "meaning": "ecc"
+                  "meaning": "shield"
+                },
+                {
+                  "word": "o",
+                  "lemma": "o",
+                  "pos": "interjection",
+                  "meaning": "o"
+                },
+                {
+                  "word": "Nume",
+                  "lemma": "nume",
+                  "pos": "noun",
+                  "meaning": "god / deity"
+                },
+                {
+                  "word": "al",
+                  "lemma": "al",
+                  "pos": "preposition",
+                  "meaning": "to the"
+                },
+                {
+                  "word": "patrio",
+                  "lemma": "patrio",
+                  "pos": "adjective",
+                  "meaning": "native / fatherland"
+                },
+                {
+                  "word": "suol",
+                  "lemma": "suolo",
+                  "pos": "noun",
+                  "meaning": "soil / ground"
                 }
               ]
             }

@@ -381,8 +381,8 @@ export const faustAct2: Act = {
           "lines": [
             {
               "id": "a2_s1_c3_l1",
-              "original": "Jeune adepte",
-              "literal": "Young follower",
+              "original": "Jeune adepte du tonneau,",
+              "literal": "Young disciple of the cask,",
               "tokens": [
                 {
                   "word": "Jeune",
@@ -393,33 +393,63 @@ export const faustAct2: Act = {
                 {
                   "word": "adepte",
                   "lemma": "adepte",
-                  "pos": "adjective",
-                  "meaning": "adept, capable, adroit"
-                }
-              ]
-            },
-            {
-              "id": "a2_s1_c3_l2",
-              "original": "Du tonneau etc.",
-              "literal": "From the barrel etc.",
-              "tokens": [
+                  "pos": "noun",
+                  "meaning": "adept / follower"
+                },
                 {
-                  "word": "Du",
+                  "word": "du",
                   "lemma": "du",
-                  "pos": "particle",
-                  "meaning": "of the / some (masc. partitive)"
+                  "pos": "preposition",
+                  "meaning": "of the"
                 },
                 {
                   "word": "tonneau",
                   "lemma": "tonneau",
                   "pos": "noun",
-                  "meaning": "barrel / register ton"
+                  "meaning": "barrel / cask"
+                }
+              ]
+            },
+            {
+              "id": "a2_s1_c3_l2",
+              "original": "n'y rajoute pas d'eau!",
+              "literal": "do not add water to it!",
+              "tokens": [
+                {
+                  "word": "n",
+                  "lemma": "ne",
+                  "pos": "adverb",
+                  "meaning": "not"
                 },
                 {
-                  "word": "etc",
-                  "lemma": "etc",
+                  "word": "y",
+                  "lemma": "y",
+                  "pos": "pronoun",
+                  "meaning": "to it / there"
+                },
+                {
+                  "word": "rajoute",
+                  "lemma": "rajouter",
+                  "pos": "verb",
+                  "meaning": "add (2nd sg. imper.)"
+                },
+                {
+                  "word": "pas",
+                  "lemma": "pas",
+                  "pos": "adverb",
+                  "meaning": "not"
+                },
+                {
+                  "word": "d",
+                  "lemma": "de",
+                  "pos": "preposition",
+                  "meaning": "of"
+                },
+                {
+                  "word": "eau",
+                  "lemma": "eau",
                   "pos": "noun",
-                  "meaning": "etc"
+                  "meaning": "water"
                 }
               ]
             }

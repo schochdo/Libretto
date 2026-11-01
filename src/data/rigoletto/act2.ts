@@ -7928,32 +7928,241 @@ export const rigolettoAct2: Act = {
           "lines": [
             {
               "id": "a2_s3_c21_l1",
-              "original": "Come fulmin scagliato, ecc.",
-              "literal": "Like lightning thrown, etc.",
+              "original": "Sì, vendetta, tremenda vendetta",
+              "literal": "Yes, revenge, terrible revenge",
+              "tokens": [
+                {
+                  "word": "Sì",
+                  "lemma": "sì",
+                  "pos": "particle",
+                  "meaning": "yes"
+                },
+                {
+                  "word": "vendetta",
+                  "lemma": "vendetta",
+                  "pos": "noun",
+                  "meaning": "revenge / vengeance"
+                },
+                {
+                  "word": "tremenda",
+                  "lemma": "tremendo",
+                  "pos": "adjective",
+                  "meaning": "terrible / dreadful"
+                },
+                {
+                  "word": "vendetta",
+                  "lemma": "vendetta",
+                  "pos": "noun",
+                  "meaning": "revenge / vengeance"
+                }
+              ]
+            },
+            {
+              "id": "a2_s3_c21_l2",
+              "original": "di quest'anima è solo desio...",
+              "literal": "is the sole desire of this soul...",
+              "tokens": [
+                {
+                  "word": "di",
+                  "lemma": "di",
+                  "pos": "preposition",
+                  "meaning": "of"
+                },
+                {
+                  "word": "quest",
+                  "lemma": "questo",
+                  "pos": "adjective",
+                  "meaning": "this"
+                },
+                {
+                  "word": "anima",
+                  "lemma": "anima",
+                  "pos": "noun",
+                  "meaning": "soul"
+                },
+                {
+                  "word": "è",
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "is (3rd sg. pres.)"
+                },
+                {
+                  "word": "solo",
+                  "lemma": "solo",
+                  "pos": "adjective",
+                  "meaning": "only / sole"
+                },
+                {
+                  "word": "desio",
+                  "lemma": "desiderio",
+                  "pos": "noun",
+                  "meaning": "desire (poetic)"
+                }
+              ]
+            },
+            {
+              "id": "a2_s3_c21_l3",
+              "original": "di punirti già l'ora s'affretta,",
+              "literal": "the hour to punish you already hurries,",
+              "tokens": [
+                {
+                  "word": "di",
+                  "lemma": "di",
+                  "pos": "preposition",
+                  "meaning": "to / of"
+                },
+                {
+                  "word": "punirti",
+                  "lemma": "punire",
+                  "pos": "verb",
+                  "meaning": "punish you (inf. + ti)"
+                },
+                {
+                  "word": "già",
+                  "lemma": "già",
+                  "pos": "adverb",
+                  "meaning": "already"
+                },
+                {
+                  "word": "l",
+                  "lemma": "il",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "ora",
+                  "lemma": "ora",
+                  "pos": "noun",
+                  "meaning": "hour"
+                },
+                {
+                  "word": "s",
+                  "lemma": "si",
+                  "pos": "pronoun",
+                  "meaning": "itself"
+                },
+                {
+                  "word": "affretta",
+                  "lemma": "affrettare",
+                  "pos": "verb",
+                  "meaning": "hurries / hastens (3rd sg. pres.)"
+                }
+              ]
+            },
+            {
+              "id": "a2_s3_c21_l4",
+              "original": "che fatal per te tuonò.",
+              "literal": "which sounded fatal for you.",
+              "tokens": [
+                {
+                  "word": "che",
+                  "lemma": "che",
+                  "pos": "pronoun",
+                  "meaning": "which / that"
+                },
+                {
+                  "word": "fatal",
+                  "lemma": "fatale",
+                  "pos": "adjective",
+                  "meaning": "fatal / fateful"
+                },
+                {
+                  "word": "per",
+                  "lemma": "per",
+                  "pos": "preposition",
+                  "meaning": "for"
+                },
+                {
+                  "word": "te",
+                  "lemma": "te",
+                  "pos": "pronoun",
+                  "meaning": "you"
+                },
+                {
+                  "word": "tuonò",
+                  "lemma": "tuonare",
+                  "pos": "verb",
+                  "meaning": "thundered (3rd sg. past hist.)"
+                }
+              ]
+            },
+            {
+              "id": "a2_s3_c21_l5",
+              "original": "Come fulmin scagliato da Dio,",
+              "literal": "Like lightning hurled by God,",
               "tokens": [
                 {
                   "word": "Come",
                   "lemma": "come",
-                  "pos": "noun",
-                  "meaning": "as / how / like"
+                  "pos": "preposition",
+                  "meaning": "like / as"
                 },
                 {
                   "word": "fulmin",
                   "lemma": "fulmine",
                   "pos": "noun",
-                  "meaning": "lightning"
+                  "meaning": "lightning / thunderbolt"
                 },
                 {
                   "word": "scagliato",
                   "lemma": "scagliare",
                   "pos": "verb",
-                  "meaning": "past participle of scagliare"
+                  "meaning": "hurled / struck (past part.)"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "da",
+                  "lemma": "da",
+                  "pos": "preposition",
+                  "meaning": "by"
+                },
+                {
+                  "word": "Dio",
+                  "lemma": "dio",
+                  "pos": "noun",
+                  "meaning": "God"
+                }
+              ]
+            },
+            {
+              "id": "a2_s3_c21_l6",
+              "original": "te il buffone colpir ti saprà!",
+              "literal": "the jester will know how to strike you!",
+              "tokens": [
+                {
+                  "word": "te",
+                  "lemma": "te",
+                  "pos": "pronoun",
+                  "meaning": "you"
+                },
+                {
+                  "word": "il",
+                  "lemma": "il",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "buffone",
+                  "lemma": "buffone",
+                  "pos": "noun",
+                  "meaning": "jester / fool"
+                },
+                {
+                  "word": "colpir",
+                  "lemma": "colpire",
+                  "pos": "verb",
+                  "meaning": "to strike / hit"
+                },
+                {
+                  "word": "ti",
+                  "lemma": "ti",
+                  "pos": "pronoun",
+                  "meaning": "you"
+                },
+                {
+                  "word": "saprà",
+                  "lemma": "sapere",
+                  "pos": "verb",
+                  "meaning": "will know (3rd sg. fut.)"
                 }
               ]
             }
@@ -7965,783 +8174,259 @@ export const rigolettoAct2: Act = {
           "lines": [
             {
               "id": "a2_s3_c22_l1",
-              "original": "Perdonate, ecc.",
-              "literal": "Forgive, etc.",
+              "original": "O mio padre, qual gioia feroce",
+              "literal": "O my father, what fierce joy",
               "tokens": [
                 {
-                  "word": "Perdonate",
-                  "lemma": "perdonare",
-                  "pos": "verb",
-                  "meaning": "second-person plural present indicative / second-person plural imperative"
+                  "word": "O",
+                  "lemma": "o",
+                  "pos": "interjection",
+                  "meaning": "o"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "mio",
+                  "lemma": "mio",
+                  "pos": "noun",
+                  "meaning": "my"
+                },
+                {
+                  "word": "padre",
+                  "lemma": "padre",
+                  "pos": "noun",
+                  "meaning": "father"
+                },
+                {
+                  "word": "qual",
+                  "lemma": "quale",
+                  "pos": "adjective",
+                  "meaning": "what"
+                },
+                {
+                  "word": "gioia",
+                  "lemma": "gioia",
+                  "pos": "noun",
+                  "meaning": "joy"
+                },
+                {
+                  "word": "feroce",
+                  "lemma": "feroce",
+                  "pos": "adjective",
+                  "meaning": "fierce / savage"
                 }
               ]
             },
             {
               "id": "a2_s3_c22_l2",
-              "original": "Escono dal mezzo.",
-              "literal": "They exit the vehicle.",
+              "original": "balenarvi negli occhi vegg'io!...",
+              "literal": "I see flash in your eyes!...",
               "tokens": [
                 {
-                  "word": "Escono",
-                  "lemma": "uscire",
+                  "word": "balenarvi",
+                  "lemma": "balenare",
                   "pos": "verb",
-                  "meaning": "third-person plural present indicative of uscire"
+                  "meaning": "flash in you (inf. + vi)"
                 },
                 {
-                  "word": "dal",
-                  "lemma": "dal",
-                  "pos": "noun",
-                  "meaning": "from-the"
+                  "word": "negli",
+                  "lemma": "nel",
+                  "pos": "preposition",
+                  "meaning": "in the"
                 },
                 {
-                  "word": "mezzo",
-                  "lemma": "mezzo",
+                  "word": "occhi",
+                  "lemma": "occhio",
                   "pos": "noun",
-                  "meaning": "half, middle / means, method"
+                  "meaning": "eyes"
+                },
+                {
+                  "word": "vegg",
+                  "lemma": "vedere",
+                  "pos": "verb",
+                  "meaning": "I see (1st sg. pres. poetic)"
+                },
+                {
+                  "word": "io",
+                  "lemma": "io",
+                  "pos": "pronoun",
+                  "meaning": "I"
                 }
               ]
             },
             {
               "id": "a2_s3_c22_l3",
-              "original": "La sponda destra del Mincio. A sinistra è una casa a due piani, mezzo diroccata, la cui fronte lascia vedere per una grande arcata l'interno d'una rustica osteria al pian terreno, ed una rozza scala che mette al granaio, entro cui, da un balcone senza imposte, si vede un lettuccio. Nella facciata che guarda la strada è una porta che s'apre per di dentro; il muro poi è sì pieno difessure, che dal di fuori si può facilmente scorgere quanto avviene nell'interno. Infondo, la deserta parte del Mincio, che scorre dietro un parapetto in mezza ruina; di là dal fiume è Mantova.",
-              "literal": "The right bank of the Mincio. On the left is a two-storey house, half in ruins, whose front allows you to see through a large arch the interior of a rustic inn on the ground floor, and a rough staircase that leads to the granary, within which, from a balcony without shutters, you can see a bed. On the facade facing the street there is a door that opens from the inside; the wall is so full of cracks that from the outside you can easily see what is happening inside. In the background, the deserted part of the Mincio, which flows behind a parapet in half ruin; across the river is Mantua.",
+              "original": "Perdonate... a noi pure una voce",
+              "literal": "Forgive... to us as well a voice",
               "tokens": [
                 {
-                  "word": "La",
-                  "lemma": "la",
-                  "pos": "particle",
-                  "meaning": "the"
-                },
-                {
-                  "word": "sponda",
-                  "lemma": "sponda",
-                  "pos": "noun",
-                  "meaning": "bank, riparian / shore"
-                },
-                {
-                  "word": "destra",
-                  "lemma": "destra",
-                  "pos": "noun",
-                  "meaning": "right hand / right"
-                },
-                {
-                  "word": "del",
-                  "lemma": "del",
-                  "pos": "noun",
-                  "meaning": "of-the"
-                },
-                {
-                  "word": "Mincio",
-                  "lemma": "mincio",
-                  "pos": "noun",
-                  "meaning": "a river in Lombardy"
-                },
-                {
-                  "word": "A",
-                  "lemma": "a",
-                  "pos": "noun",
-                  "meaning": "to / at"
-                },
-                {
-                  "word": "sinistra",
-                  "lemma": "sinistra",
-                  "pos": "noun",
-                  "meaning": "left hand / left"
-                },
-                {
-                  "word": "è",
-                  "lemma": "è",
-                  "pos": "noun",
-                  "meaning": "is"
-                },
-                {
-                  "word": "una",
-                  "lemma": "una",
-                  "pos": "noun",
-                  "meaning": "a / an"
-                },
-                {
-                  "word": "casa",
-                  "lemma": "casa",
-                  "pos": "noun",
-                  "meaning": "house"
+                  "word": "Perdonate",
+                  "lemma": "perdonare",
+                  "pos": "verb",
+                  "meaning": "forgive (2nd pl. imper.)"
                 },
                 {
                   "word": "a",
                   "lemma": "a",
-                  "pos": "noun",
-                  "meaning": "to / at"
+                  "pos": "preposition",
+                  "meaning": "to"
                 },
                 {
-                  "word": "due",
-                  "lemma": "due",
-                  "pos": "noun",
-                  "meaning": "two"
+                  "word": "noi",
+                  "lemma": "noi",
+                  "pos": "pronoun",
+                  "meaning": "us"
                 },
                 {
-                  "word": "piani",
-                  "lemma": "piano",
-                  "pos": "noun",
-                  "meaning": "plural of piano / plans"
-                },
-                {
-                  "word": "mezzo",
-                  "lemma": "mezzo",
-                  "pos": "noun",
-                  "meaning": "half, middle / means, method"
-                },
-                {
-                  "word": "diroccata",
-                  "lemma": "diroccato",
-                  "pos": "adjective",
-                  "meaning": "feminine singular of diroccato"
-                },
-                {
-                  "word": "la",
-                  "lemma": "la",
-                  "pos": "noun",
-                  "meaning": "the / her / it"
-                },
-                {
-                  "word": "cui",
-                  "lemma": "cui",
-                  "pos": "noun",
-                  "meaning": "whom / whose"
-                },
-                {
-                  "word": "fronte",
-                  "lemma": "fronte",
-                  "pos": "noun",
-                  "meaning": "forehead / brow"
-                },
-                {
-                  "word": "lascia",
-                  "lemma": "lasciare",
-                  "pos": "verb",
-                  "meaning": "leaves / lets"
-                },
-                {
-                  "word": "vedere",
-                  "lemma": "vedere",
-                  "pos": "noun",
-                  "meaning": "to see"
-                },
-                {
-                  "word": "per",
-                  "lemma": "per",
-                  "pos": "noun",
-                  "meaning": "for / through"
-                },
-                {
-                  "word": "una",
-                  "lemma": "una",
-                  "pos": "noun",
-                  "meaning": "a / an"
-                },
-                {
-                  "word": "grande",
-                  "lemma": "grande",
-                  "pos": "noun",
-                  "meaning": "great / big"
-                },
-                {
-                  "word": "arcata",
-                  "lemma": "arcata",
-                  "pos": "noun",
-                  "meaning": "arcade, arch, span / arch"
-                },
-                {
-                  "word": "l",
-                  "lemma": "l",
-                  "pos": "noun",
-                  "meaning": "the"
-                },
-                {
-                  "word": "interno",
-                  "lemma": "interno",
-                  "pos": "adjective",
-                  "meaning": "inside, indoor; internal, interior, inner / domestic, home, inland"
-                },
-                {
-                  "word": "d",
-                  "lemma": "d",
-                  "pos": "noun",
-                  "meaning": "of"
-                },
-                {
-                  "word": "una",
-                  "lemma": "una",
-                  "pos": "noun",
-                  "meaning": "a / an"
-                },
-                {
-                  "word": "rustica",
-                  "lemma": "rustico",
-                  "pos": "adjective",
-                  "meaning": "feminine singular of rustico"
-                },
-                {
-                  "word": "osteria",
-                  "lemma": "osteria",
-                  "pos": "noun",
-                  "meaning": "inn / tavern"
-                },
-                {
-                  "word": "al",
-                  "lemma": "al",
-                  "pos": "noun",
-                  "meaning": "to-the"
-                },
-                {
-                  "word": "pian",
-                  "lemma": "pian",
-                  "pos": "noun",
-                  "meaning": "pian"
-                },
-                {
-                  "word": "terreno",
-                  "lemma": "terreno",
-                  "pos": "adjective",
-                  "meaning": "ground / earthly, worldly, terrene, terrestrial"
-                },
-                {
-                  "word": "ed",
-                  "lemma": "ed",
-                  "pos": "noun",
-                  "meaning": "and"
-                },
-                {
-                  "word": "una",
-                  "lemma": "una",
-                  "pos": "noun",
-                  "meaning": "a / an"
-                },
-                {
-                  "word": "rozza",
-                  "lemma": "rozzo",
-                  "pos": "adjective",
-                  "meaning": "feminine singular of rozzo"
-                },
-                {
-                  "word": "scala",
-                  "lemma": "scala",
-                  "pos": "verb",
-                  "meaning": "scala"
-                },
-                {
-                  "word": "che",
-                  "lemma": "che",
-                  "pos": "noun",
-                  "meaning": "that / which / what"
-                },
-                {
-                  "word": "mette",
-                  "lemma": "mette",
-                  "pos": "noun",
-                  "meaning": "puts"
-                },
-                {
-                  "word": "al",
-                  "lemma": "al",
-                  "pos": "noun",
-                  "meaning": "to-the"
-                },
-                {
-                  "word": "granaio",
-                  "lemma": "granaio",
-                  "pos": "noun",
-                  "meaning": "granary, barn / region that produces much grain; a breadbasket"
-                },
-                {
-                  "word": "entro",
-                  "lemma": "entro",
-                  "pos": "noun",
-                  "meaning": "within / inside"
-                },
-                {
-                  "word": "cui",
-                  "lemma": "cui",
-                  "pos": "noun",
-                  "meaning": "whom / whose"
-                },
-                {
-                  "word": "da",
-                  "lemma": "da",
-                  "pos": "noun",
-                  "meaning": "from / by"
-                },
-                {
-                  "word": "un",
-                  "lemma": "un",
-                  "pos": "noun",
-                  "meaning": "a / an"
-                },
-                {
-                  "word": "balcone",
-                  "lemma": "balcone",
-                  "pos": "noun",
-                  "meaning": "balcony"
-                },
-                {
-                  "word": "senza",
-                  "lemma": "senza",
-                  "pos": "noun",
-                  "meaning": "without"
-                },
-                {
-                  "word": "imposte",
-                  "lemma": "imposto",
-                  "pos": "adjective",
-                  "meaning": "feminine plural of imposto"
-                },
-                {
-                  "word": "si",
-                  "lemma": "si",
-                  "pos": "noun",
-                  "meaning": "oneself / himself / herself / themselves"
-                },
-                {
-                  "word": "vede",
-                  "lemma": "vede",
-                  "pos": "noun",
-                  "meaning": "sees"
-                },
-                {
-                  "word": "un",
-                  "lemma": "un",
-                  "pos": "noun",
-                  "meaning": "a / an"
-                },
-                {
-                  "word": "lettuccio",
-                  "lemma": "lettuccio",
-                  "pos": "verb",
-                  "meaning": "lettuccio"
-                },
-                {
-                  "word": "Nella",
-                  "lemma": "nella",
-                  "pos": "noun",
-                  "meaning": "in-the"
-                },
-                {
-                  "word": "facciata",
-                  "lemma": "facciare",
-                  "pos": "verb",
-                  "meaning": "past participle"
-                },
-                {
-                  "word": "che",
-                  "lemma": "che",
-                  "pos": "noun",
-                  "meaning": "that / which / what"
-                },
-                {
-                  "word": "guarda",
-                  "lemma": "guardare",
-                  "pos": "verb",
-                  "meaning": "look! / he looks"
-                },
-                {
-                  "word": "la",
-                  "lemma": "la",
-                  "pos": "noun",
-                  "meaning": "the / her / it"
-                },
-                {
-                  "word": "strada",
-                  "lemma": "strada",
-                  "pos": "noun",
-                  "meaning": "road / street"
-                },
-                {
-                  "word": "è",
-                  "lemma": "è",
-                  "pos": "noun",
-                  "meaning": "is"
-                },
-                {
-                  "word": "una",
-                  "lemma": "una",
-                  "pos": "noun",
-                  "meaning": "a / an"
-                },
-                {
-                  "word": "porta",
-                  "lemma": "porta",
-                  "pos": "noun",
-                  "meaning": "door / gate"
-                },
-                {
-                  "word": "che",
-                  "lemma": "che",
-                  "pos": "noun",
-                  "meaning": "that / which / what"
-                },
-                {
-                  "word": "s",
-                  "lemma": "s",
-                  "pos": "noun",
-                  "meaning": "oneself"
-                },
-                {
-                  "word": "apre",
-                  "lemma": "aprire",
-                  "pos": "verb",
-                  "meaning": "opens"
-                },
-                {
-                  "word": "per",
-                  "lemma": "per",
-                  "pos": "noun",
-                  "meaning": "for / through"
-                },
-                {
-                  "word": "di",
-                  "lemma": "di",
-                  "pos": "noun",
-                  "meaning": "of / by"
-                },
-                {
-                  "word": "dentro",
-                  "lemma": "dentro",
-                  "pos": "noun",
-                  "meaning": "inside"
-                },
-                {
-                  "word": "il",
-                  "lemma": "il",
-                  "pos": "noun",
-                  "meaning": "the"
-                },
-                {
-                  "word": "muro",
-                  "lemma": "muro",
-                  "pos": "noun",
-                  "meaning": "wall"
-                },
-                {
-                  "word": "poi",
-                  "lemma": "poi",
-                  "pos": "noun",
-                  "meaning": "then / later"
-                },
-                {
-                  "word": "è",
-                  "lemma": "è",
-                  "pos": "noun",
-                  "meaning": "is"
-                },
-                {
-                  "word": "sì",
-                  "lemma": "sì",
-                  "pos": "noun",
-                  "meaning": "yes"
-                },
-                {
-                  "word": "pieno",
-                  "lemma": "pieno",
-                  "pos": "verb",
-                  "meaning": "pieno"
-                },
-                {
-                  "word": "difessure",
-                  "lemma": "difessure",
-                  "pos": "noun",
-                  "meaning": "difessure"
-                },
-                {
-                  "word": "che",
-                  "lemma": "che",
-                  "pos": "noun",
-                  "meaning": "that / which / what"
-                },
-                {
-                  "word": "dal",
-                  "lemma": "dal",
-                  "pos": "noun",
-                  "meaning": "from-the"
-                },
-                {
-                  "word": "di",
-                  "lemma": "di",
-                  "pos": "noun",
-                  "meaning": "of / by"
-                },
-                {
-                  "word": "fuori",
-                  "lemma": "fuori",
-                  "pos": "noun",
-                  "meaning": "outside"
-                },
-                {
-                  "word": "si",
-                  "lemma": "si",
-                  "pos": "noun",
-                  "meaning": "oneself / himself / herself / themselves"
-                },
-                {
-                  "word": "può",
-                  "lemma": "potere",
-                  "pos": "verb",
-                  "meaning": "can / may one?"
-                },
-                {
-                  "word": "facilmente",
-                  "lemma": "facilmente",
+                  "word": "pure",
+                  "lemma": "pure",
                   "pos": "adverb",
-                  "meaning": "easily / probably"
+                  "meaning": "also / as well"
                 },
                 {
-                  "word": "scorgere",
-                  "lemma": "scorgere",
-                  "pos": "verb",
-                  "meaning": "meanings related to perception: / to see ; to catch glimpses of, make out"
-                },
-                {
-                  "word": "quanto",
-                  "lemma": "quanto",
-                  "pos": "verb",
-                  "meaning": "quanto"
-                },
-                {
-                  "word": "avviene",
-                  "lemma": "avvenire",
-                  "pos": "verb",
-                  "meaning": "third-person singular present indicative of avvenire"
-                },
-                {
-                  "word": "nell",
-                  "lemma": "nell",
+                  "word": "una",
+                  "lemma": "una",
                   "pos": "noun",
-                  "meaning": "in-the"
+                  "meaning": "a"
                 },
                 {
-                  "word": "interno",
-                  "lemma": "interno",
-                  "pos": "adjective",
-                  "meaning": "inside, indoor; internal, interior, inner / domestic, home, inland"
-                },
-                {
-                  "word": "Infondo",
-                  "lemma": "infondere",
-                  "pos": "verb",
-                  "meaning": "first-person singular present indicative of infondere"
-                },
-                {
-                  "word": "la",
-                  "lemma": "la",
+                  "word": "voce",
+                  "lemma": "voce",
                   "pos": "noun",
-                  "meaning": "the / her / it"
-                },
-                {
-                  "word": "deserta",
-                  "lemma": "deserto",
-                  "pos": "adjective",
-                  "meaning": "feminine singular of deserto"
-                },
-                {
-                  "word": "parte",
-                  "lemma": "parte",
-                  "pos": "noun",
-                  "meaning": "part / departs"
-                },
-                {
-                  "word": "del",
-                  "lemma": "del",
-                  "pos": "noun",
-                  "meaning": "of-the"
-                },
-                {
-                  "word": "Mincio",
-                  "lemma": "mincio",
-                  "pos": "noun",
-                  "meaning": "a river in Lombardy"
-                },
-                {
-                  "word": "che",
-                  "lemma": "che",
-                  "pos": "noun",
-                  "meaning": "that / which / what"
-                },
-                {
-                  "word": "scorre",
-                  "lemma": "scorrere",
-                  "pos": "verb",
-                  "meaning": "third-person singular present indicative of scorrere"
-                },
-                {
-                  "word": "dietro",
-                  "lemma": "dietro",
-                  "pos": "noun",
-                  "meaning": "behind"
-                },
-                {
-                  "word": "un",
-                  "lemma": "un",
-                  "pos": "noun",
-                  "meaning": "a / an"
-                },
-                {
-                  "word": "parapetto",
-                  "lemma": "parapetto",
-                  "pos": "noun",
-                  "meaning": "parapet / balustrade"
-                },
-                {
-                  "word": "in",
-                  "lemma": "in",
-                  "pos": "noun",
-                  "meaning": "in / into"
-                },
-                {
-                  "word": "mezza",
-                  "lemma": "mezza",
-                  "pos": "noun",
-                  "meaning": "half-hour / half past , especially 12:30"
-                },
-                {
-                  "word": "ruina",
-                  "lemma": "ruina",
-                  "pos": "noun",
-                  "meaning": "alternative form of rovina"
-                },
-                {
-                  "word": "di",
-                  "lemma": "di",
-                  "pos": "noun",
-                  "meaning": "of / by"
-                },
-                {
-                  "word": "là",
-                  "lemma": "là",
-                  "pos": "noun",
-                  "meaning": "there"
-                },
-                {
-                  "word": "dal",
-                  "lemma": "dal",
-                  "pos": "noun",
-                  "meaning": "from-the"
-                },
-                {
-                  "word": "fiume",
-                  "lemma": "fiume",
-                  "pos": "noun",
-                  "meaning": "river"
-                },
-                {
-                  "word": "è",
-                  "lemma": "è",
-                  "pos": "noun",
-                  "meaning": "is"
-                },
-                {
-                  "word": "Mantova",
-                  "lemma": "mantova",
-                  "pos": "noun",
-                  "meaning": "Mantua"
+                  "meaning": "voice"
                 }
               ]
             },
             {
               "id": "a2_s3_c22_l4",
-              "original": "È notte. Gilda e Rigoletto inquieti sono sulla strada, Sparafucile nell'interno dell'osteria.",
-              "literal": "It's night. Gilda and Rigoletto are restless on the street, Sparafucile is inside the tavern.",
+              "original": "di perdono dal cielo verrà...",
+              "literal": "of forgiveness from heaven will come...",
               "tokens": [
                 {
-                  "word": "È",
-                  "lemma": "è",
-                  "pos": "noun",
-                  "meaning": "is"
+                  "word": "di",
+                  "lemma": "di",
+                  "pos": "preposition",
+                  "meaning": "of"
                 },
                 {
-                  "word": "notte",
-                  "lemma": "notte",
+                  "word": "perdono",
+                  "lemma": "perdono",
                   "pos": "noun",
-                  "meaning": "night"
+                  "meaning": "pardon / forgiveness"
                 },
                 {
-                  "word": "Gilda",
-                  "lemma": "Gilda",
-                  "pos": "noun",
-                  "meaning": "Gilda (Rigoletto's daughter)"
+                  "word": "dal",
+                  "lemma": "dal",
+                  "pos": "preposition",
+                  "meaning": "from the"
                 },
                 {
-                  "word": "e",
-                  "lemma": "e",
+                  "word": "cielo",
+                  "lemma": "cielo",
                   "pos": "noun",
-                  "meaning": "and"
+                  "meaning": "heaven / sky"
                 },
                 {
-                  "word": "Rigoletto",
-                  "lemma": "Rigoletto",
-                  "pos": "noun",
-                  "meaning": "Rigoletto (court jester)"
+                  "word": "verrà",
+                  "lemma": "venire",
+                  "pos": "verb",
+                  "meaning": "will come (3rd sg. fut.)"
+                }
+              ]
+            },
+            {
+              "id": "a2_s3_c22_l5",
+              "original": "Mi tradiva, pur l'amo, gran Dio,",
+              "literal": "He betrayed me, yet I love him, great God,",
+              "tokens": [
+                {
+                  "word": "Mi",
+                  "lemma": "mi",
+                  "pos": "pronoun",
+                  "meaning": "me"
                 },
                 {
-                  "word": "inquieti",
-                  "lemma": "inquieto",
+                  "word": "tradiva",
+                  "lemma": "tradire",
+                  "pos": "verb",
+                  "meaning": "he betrayed (3rd sg. imperf.)"
+                },
+                {
+                  "word": "pur",
+                  "lemma": "pure",
+                  "pos": "conjunction",
+                  "meaning": "yet / nevertheless"
+                },
+                {
+                  "word": "l",
+                  "lemma": "il",
+                  "pos": "pronoun",
+                  "meaning": "him"
+                },
+                {
+                  "word": "amo",
+                  "lemma": "amare",
+                  "pos": "verb",
+                  "meaning": "I love (1st sg. pres.)"
+                },
+                {
+                  "word": "gran",
+                  "lemma": "grande",
                   "pos": "adjective",
-                  "meaning": "masculine plural of inquieto"
+                  "meaning": "great"
                 },
                 {
-                  "word": "sono",
-                  "lemma": "sono",
+                  "word": "Dio",
+                  "lemma": "dio",
                   "pos": "noun",
-                  "meaning": "am / are"
+                  "meaning": "God"
+                }
+              ]
+            },
+            {
+              "id": "a2_s3_c22_l6",
+              "original": "per l'ingrato ti chiedo pietà!",
+              "literal": "for the ungrateful one I ask your mercy!",
+              "tokens": [
+                {
+                  "word": "per",
+                  "lemma": "per",
+                  "pos": "preposition",
+                  "meaning": "for"
                 },
                 {
-                  "word": "sulla",
-                  "lemma": "sulla",
+                  "word": "l",
+                  "lemma": "il",
                   "pos": "noun",
-                  "meaning": "on-the"
+                  "meaning": "the"
                 },
                 {
-                  "word": "strada",
-                  "lemma": "strada",
+                  "word": "ingrato",
+                  "lemma": "ingrato",
                   "pos": "noun",
-                  "meaning": "road / street"
+                  "meaning": "ungrateful one"
                 },
                 {
-                  "word": "Sparafucile",
-                  "lemma": "Sparafucile",
+                  "word": "ti",
+                  "lemma": "ti",
+                  "pos": "pronoun",
+                  "meaning": "you (to you)"
+                },
+                {
+                  "word": "chiedo",
+                  "lemma": "chiedere",
+                  "pos": "verb",
+                  "meaning": "I ask (1st sg. pres.)"
+                },
+                {
+                  "word": "pietà",
+                  "lemma": "pietà",
                   "pos": "noun",
-                  "meaning": "Sparafucile (assassin)"
-                },
-                {
-                  "word": "nell",
-                  "lemma": "nell",
-                  "pos": "noun",
-                  "meaning": "in-the"
-                },
-                {
-                  "word": "interno",
-                  "lemma": "interno",
-                  "pos": "adjective",
-                  "meaning": "inside, indoor; internal, interior, inner / domestic, home, inland"
-                },
-                {
-                  "word": "dell",
-                  "lemma": "dell",
-                  "pos": "noun",
-                  "meaning": "of-the"
-                },
-                {
-                  "word": "osteria",
-                  "lemma": "osteria",
-                  "pos": "noun",
-                  "meaning": "inn / barrelhouse"
+                  "meaning": "pity / mercy"
                 }
               ]
             }
-          ]
+          ],
+          "stageDirection": "Escono dal mezzo.",
+          "stageDirectionTranslation": "They exit through the center door."
         }
       ]
     }

@@ -315,9 +315,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "la",
-                  "lemma": "la",
-                  "pos": "interjection",
-                  "meaning": "la (sung syllable)"
+                  "lemma": "le",
+                  "pos": "noun",
+                  "meaning": "the (fem. sg.)"
                 },
                 {
                   "word": "place",
@@ -329,14 +329,94 @@ export const carmenAct1: Act = {
             },
             {
               "id": "a1_s1_c3_l2",
-              "original": "Etc.",
-              "literal": "etc.",
+              "original": "chacun passe,",
+              "literal": "everyone passes,",
               "tokens": [
                 {
-                  "word": "Etc",
-                  "lemma": "etc.",
-                  "pos": "adverb",
-                  "meaning": "et cetera / and so forth"
+                  "word": "chacun",
+                  "lemma": "chacun",
+                  "pos": "pronoun",
+                  "meaning": "everyone / each one"
+                },
+                {
+                  "word": "passe",
+                  "lemma": "passer",
+                  "pos": "verb",
+                  "meaning": "passes / goes by (3rd sg. pres.)"
+                }
+              ]
+            },
+            {
+              "id": "a1_s1_c3_l3",
+              "original": "chacun vient, chacun va;",
+              "literal": "everyone comes, everyone goes;",
+              "tokens": [
+                {
+                  "word": "chacun",
+                  "lemma": "chacun",
+                  "pos": "pronoun",
+                  "meaning": "everyone / each one"
+                },
+                {
+                  "word": "vient",
+                  "lemma": "venir",
+                  "pos": "verb",
+                  "meaning": "comes (3rd sg. pres.)"
+                },
+                {
+                  "word": "chacun",
+                  "lemma": "chacun",
+                  "pos": "pronoun",
+                  "meaning": "everyone / each one"
+                },
+                {
+                  "word": "va",
+                  "lemma": "aller",
+                  "pos": "verb",
+                  "meaning": "goes (3rd sg. pres.)"
+                }
+              ]
+            },
+            {
+              "id": "a1_s1_c3_l4",
+              "original": "drôles de gens que ces gens-là!",
+              "literal": "strange people are those people there!",
+              "tokens": [
+                {
+                  "word": "drôles",
+                  "lemma": "drôle",
+                  "pos": "adjective",
+                  "meaning": "strange / funny / odd"
+                },
+                {
+                  "word": "de",
+                  "lemma": "de",
+                  "pos": "preposition",
+                  "meaning": "of"
+                },
+                {
+                  "word": "gens",
+                  "lemma": "gens",
+                  "pos": "noun",
+                  "meaning": "people"
+                },
+                {
+                  "word": "que",
+                  "lemma": "que",
+                  "pos": "conjunction",
+                  "meaning": "than / as / that"
+                },
+                {
+                  "word": "ces",
+                  "lemma": "ce",
+                  "pos": "adjective",
+                  "meaning": "these / those"
+                },
+                {
+                  "word": "gens-là",
+                  "lemma": "gens",
+                  "pos": "noun",
+                  "meaning": "those people"
                 }
               ]
             }
@@ -2095,8 +2175,8 @@ export const carmenAct1: Act = {
           "lines": [
             {
               "id": "a1_s1_c27_l1",
-              "original": "Sur la place",
-              "literal": "On the square",
+              "original": "Sur la place,",
+              "literal": "On the square,",
               "tokens": [
                 {
                   "word": "Sur",
@@ -2106,9 +2186,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "la",
-                  "lemma": "la",
-                  "pos": "interjection",
-                  "meaning": "la (sung syllable)"
+                  "lemma": "le",
+                  "pos": "noun",
+                  "meaning": "the (fem. sg.)"
                 },
                 {
                   "word": "place",
@@ -2120,33 +2200,94 @@ export const carmenAct1: Act = {
             },
             {
               "id": "a1_s1_c27_l2",
-              "original": "Chacun passe,",
+              "original": "chacun passe,",
               "literal": "everyone passes,",
               "tokens": [
                 {
-                  "word": "Chacun",
+                  "word": "chacun",
                   "lemma": "chacun",
                   "pos": "pronoun",
-                  "meaning": "each one / everyone (masc.)"
+                  "meaning": "everyone / each one"
                 },
                 {
                   "word": "passe",
                   "lemma": "passer",
                   "pos": "verb",
-                  "meaning": "to pass / to spend time (1st/3rd sg. pres.)"
+                  "meaning": "passes / goes by (3rd sg. pres.)"
                 }
               ]
             },
             {
               "id": "a1_s1_c27_l3",
-              "original": "Etc.",
-              "literal": "etc.",
+              "original": "chacun vient, chacun va;",
+              "literal": "everyone comes, everyone goes;",
               "tokens": [
                 {
-                  "word": "Etc",
-                  "lemma": "etc.",
-                  "pos": "adverb",
-                  "meaning": "et cetera / and so forth"
+                  "word": "chacun",
+                  "lemma": "chacun",
+                  "pos": "pronoun",
+                  "meaning": "everyone / each one"
+                },
+                {
+                  "word": "vient",
+                  "lemma": "venir",
+                  "pos": "verb",
+                  "meaning": "comes (3rd sg. pres.)"
+                },
+                {
+                  "word": "chacun",
+                  "lemma": "chacun",
+                  "pos": "pronoun",
+                  "meaning": "everyone / each one"
+                },
+                {
+                  "word": "va",
+                  "lemma": "aller",
+                  "pos": "verb",
+                  "meaning": "goes (3rd sg. pres.)"
+                }
+              ]
+            },
+            {
+              "id": "a1_s1_c27_l4",
+              "original": "drôles de gens que ces gens-là!",
+              "literal": "strange people are those people there!",
+              "tokens": [
+                {
+                  "word": "drôles",
+                  "lemma": "drôle",
+                  "pos": "adjective",
+                  "meaning": "strange / funny / odd"
+                },
+                {
+                  "word": "de",
+                  "lemma": "de",
+                  "pos": "preposition",
+                  "meaning": "of"
+                },
+                {
+                  "word": "gens",
+                  "lemma": "gens",
+                  "pos": "noun",
+                  "meaning": "people"
+                },
+                {
+                  "word": "que",
+                  "lemma": "que",
+                  "pos": "conjunction",
+                  "meaning": "than / as / that"
+                },
+                {
+                  "word": "ces",
+                  "lemma": "ce",
+                  "pos": "adjective",
+                  "meaning": "these / those"
+                },
+                {
+                  "word": "gens-là",
+                  "lemma": "gens",
+                  "pos": "noun",
+                  "meaning": "those people"
                 }
               ]
             }
@@ -8564,14 +8705,50 @@ export const carmenAct1: Act = {
             },
             {
               "id": "a1_s4_c3_l16",
-              "original": "Etc.",
-              "literal": "etc.",
+              "original": "Qui vers les cieux monte, monte parfumée;",
+              "literal": "Which toward the heavens rises, rises perfumed;",
               "tokens": [
                 {
-                  "word": "Etc",
-                  "lemma": "etc.",
-                  "pos": "adverb",
-                  "meaning": "et cetera / and so forth"
+                  "word": "Qui",
+                  "lemma": "qui",
+                  "pos": "pronoun",
+                  "meaning": "who / which"
+                },
+                {
+                  "word": "vers",
+                  "lemma": "vers",
+                  "pos": "preposition",
+                  "meaning": "toward"
+                },
+                {
+                  "word": "les",
+                  "lemma": "le",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "cieux",
+                  "lemma": "ciel",
+                  "pos": "noun",
+                  "meaning": "heavens / skies"
+                },
+                {
+                  "word": "monte",
+                  "lemma": "monter",
+                  "pos": "verb",
+                  "meaning": "rises / climbs (3rd sg. pres.)"
+                },
+                {
+                  "word": "monte",
+                  "lemma": "monter",
+                  "pos": "verb",
+                  "meaning": "rises / climbs (3rd sg. pres.)"
+                },
+                {
+                  "word": "parfumée",
+                  "lemma": "parfumé",
+                  "pos": "adjective",
+                  "meaning": "perfumed / fragrant"
                 }
               ]
             },
@@ -8769,14 +8946,50 @@ export const carmenAct1: Act = {
             },
             {
               "id": "a1_s4_c3_l23",
-              "original": "Etc.",
-              "literal": "etc.",
+              "original": "Qui vers les cieux monte, monte parfumée...",
+              "literal": "Which toward the heavens rises, rises perfumed...",
               "tokens": [
                 {
-                  "word": "Etc",
-                  "lemma": "etc.",
-                  "pos": "adverb",
-                  "meaning": "et cetera / and so forth"
+                  "word": "Qui",
+                  "lemma": "qui",
+                  "pos": "pronoun",
+                  "meaning": "who / which"
+                },
+                {
+                  "word": "vers",
+                  "lemma": "vers",
+                  "pos": "preposition",
+                  "meaning": "toward"
+                },
+                {
+                  "word": "les",
+                  "lemma": "le",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "cieux",
+                  "lemma": "ciel",
+                  "pos": "noun",
+                  "meaning": "heavens / skies"
+                },
+                {
+                  "word": "monte",
+                  "lemma": "monter",
+                  "pos": "verb",
+                  "meaning": "rises / climbs (3rd sg. pres.)"
+                },
+                {
+                  "word": "monte",
+                  "lemma": "monter",
+                  "pos": "verb",
+                  "meaning": "rises / climbs (3rd sg. pres.)"
+                },
+                {
+                  "word": "parfumée",
+                  "lemma": "parfumé",
+                  "pos": "adjective",
+                  "meaning": "perfumed / fragrant"
                 }
               ]
             }
@@ -9038,14 +9251,50 @@ export const carmenAct1: Act = {
             },
             {
               "id": "a1_s4_c5_l5",
-              "original": "Etc.",
-              "literal": "etc.",
+              "original": "Qui vers les cieux monte, monte parfumée...",
+              "literal": "Which toward the heavens rises, rises perfumed...",
               "tokens": [
                 {
-                  "word": "Etc",
-                  "lemma": "etc.",
-                  "pos": "adverb",
-                  "meaning": "et cetera / and so forth"
+                  "word": "Qui",
+                  "lemma": "qui",
+                  "pos": "pronoun",
+                  "meaning": "who / which"
+                },
+                {
+                  "word": "vers",
+                  "lemma": "vers",
+                  "pos": "preposition",
+                  "meaning": "toward"
+                },
+                {
+                  "word": "les",
+                  "lemma": "le",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "cieux",
+                  "lemma": "ciel",
+                  "pos": "noun",
+                  "meaning": "heavens / skies"
+                },
+                {
+                  "word": "monte",
+                  "lemma": "monter",
+                  "pos": "verb",
+                  "meaning": "rises / climbs (3rd sg. pres.)"
+                },
+                {
+                  "word": "monte",
+                  "lemma": "monter",
+                  "pos": "verb",
+                  "meaning": "rises / climbs (3rd sg. pres.)"
+                },
+                {
+                  "word": "parfumée",
+                  "lemma": "parfumé",
+                  "pos": "adjective",
+                  "meaning": "perfumed / fragrant"
                 }
               ]
             }
@@ -11070,14 +11319,172 @@ export const carmenAct1: Act = {
             },
             {
               "id": "a1_s5_c8_l3",
-              "original": "Etc.",
-              "literal": "etc.",
+              "original": "Il n'a jamais, jamais connu de loi;",
+              "literal": "It has never, never known any law;",
               "tokens": [
                 {
-                  "word": "Etc",
-                  "lemma": "etc.",
+                  "word": "Il",
+                  "lemma": "il",
+                  "pos": "pronoun",
+                  "meaning": "he / it"
+                },
+                {
+                  "word": "n",
+                  "lemma": "ne",
                   "pos": "adverb",
-                  "meaning": "et cetera / and so forth"
+                  "meaning": "not"
+                },
+                {
+                  "word": "a",
+                  "lemma": "avoir",
+                  "pos": "verb",
+                  "meaning": "has (3rd sg. pres.)"
+                },
+                {
+                  "word": "jamais",
+                  "lemma": "jamais",
+                  "pos": "adverb",
+                  "meaning": "never"
+                },
+                {
+                  "word": "jamais",
+                  "lemma": "jamais",
+                  "pos": "adverb",
+                  "meaning": "never"
+                },
+                {
+                  "word": "connu",
+                  "lemma": "connaître",
+                  "pos": "verb",
+                  "meaning": "known (past part.)"
+                },
+                {
+                  "word": "de",
+                  "lemma": "de",
+                  "pos": "preposition",
+                  "meaning": "of / any"
+                },
+                {
+                  "word": "loi",
+                  "lemma": "loi",
+                  "pos": "noun",
+                  "meaning": "law"
+                }
+              ]
+            },
+            {
+              "id": "a1_s5_c8_l4",
+              "original": "Si tu ne m'aimes pas, je t'aime;",
+              "literal": "If you do not love me, I love you;",
+              "tokens": [
+                {
+                  "word": "Si",
+                  "lemma": "si",
+                  "pos": "conjunction",
+                  "meaning": "if"
+                },
+                {
+                  "word": "tu",
+                  "lemma": "tu",
+                  "pos": "pronoun",
+                  "meaning": "you"
+                },
+                {
+                  "word": "ne",
+                  "lemma": "ne",
+                  "pos": "adverb",
+                  "meaning": "not"
+                },
+                {
+                  "word": "m",
+                  "lemma": "me",
+                  "pos": "pronoun",
+                  "meaning": "me"
+                },
+                {
+                  "word": "aimes",
+                  "lemma": "aimer",
+                  "pos": "verb",
+                  "meaning": "love (2nd sg. pres.)"
+                },
+                {
+                  "word": "pas",
+                  "lemma": "pas",
+                  "pos": "adverb",
+                  "meaning": "not"
+                },
+                {
+                  "word": "je",
+                  "lemma": "je",
+                  "pos": "pronoun",
+                  "meaning": "I"
+                },
+                {
+                  "word": "t",
+                  "lemma": "te",
+                  "pos": "pronoun",
+                  "meaning": "you"
+                },
+                {
+                  "word": "aime",
+                  "lemma": "aimer",
+                  "pos": "verb",
+                  "meaning": "love (1st sg. pres.)"
+                }
+              ]
+            },
+            {
+              "id": "a1_s5_c8_l5",
+              "original": "Si je t'aime, prends garde à toi!",
+              "literal": "If I love you, beware!",
+              "tokens": [
+                {
+                  "word": "Si",
+                  "lemma": "si",
+                  "pos": "conjunction",
+                  "meaning": "if"
+                },
+                {
+                  "word": "je",
+                  "lemma": "je",
+                  "pos": "pronoun",
+                  "meaning": "I"
+                },
+                {
+                  "word": "t",
+                  "lemma": "te",
+                  "pos": "pronoun",
+                  "meaning": "you"
+                },
+                {
+                  "word": "aime",
+                  "lemma": "aimer",
+                  "pos": "verb",
+                  "meaning": "love (1st sg. pres.)"
+                },
+                {
+                  "word": "prends",
+                  "lemma": "prendre",
+                  "pos": "verb",
+                  "meaning": "take / beware (2nd sg. imper.)"
+                },
+                {
+                  "word": "garde",
+                  "lemma": "garde",
+                  "pos": "noun",
+                  "meaning": "guard / care"
+                },
+                {
+                  "word": "à",
+                  "lemma": "à",
+                  "pos": "preposition",
+                  "meaning": "to"
+                },
+                {
+                  "word": "toi",
+                  "lemma": "toi",
+                  "pos": "pronoun",
+                  "meaning": "you"
                 }
               ]
             }
@@ -13745,13 +14152,13 @@ export const carmenAct1: Act = {
           "lines": [
             {
               "id": "a1_s7_c18_l1",
-              "original": "Ma mère, je la vois, etc.",
-              "literal": "My mother, I see her, etc.",
+              "original": "Ma mère, je la vois… je revois mon village…",
+              "literal": "My mother, I see her... I see again my village...",
               "tokens": [
                 {
                   "word": "Ma",
                   "lemma": "mon",
-                  "pos": "pronoun",
+                  "pos": "noun",
                   "meaning": "my (fem. sg.)"
                 },
                 {
@@ -13764,25 +14171,98 @@ export const carmenAct1: Act = {
                   "word": "je",
                   "lemma": "je",
                   "pos": "pronoun",
-                  "meaning": "I (1st person subject)"
+                  "meaning": "I"
                 },
                 {
                   "word": "la",
-                  "lemma": "la",
-                  "pos": "interjection",
-                  "meaning": "la (sung syllable)"
+                  "lemma": "le",
+                  "pos": "noun",
+                  "meaning": "her"
                 },
                 {
                   "word": "vois",
                   "lemma": "voir",
                   "pos": "verb",
-                  "meaning": "see (1st/2nd sg. pres.)"
+                  "meaning": "see (1st sg. pres.)"
                 },
                 {
-                  "word": "etc",
-                  "lemma": "etc.",
+                  "word": "je",
+                  "lemma": "je",
+                  "pos": "pronoun",
+                  "meaning": "I"
+                },
+                {
+                  "word": "revois",
+                  "lemma": "revoir",
+                  "pos": "verb",
+                  "meaning": "see again (1st sg. pres.)"
+                },
+                {
+                  "word": "mon",
+                  "lemma": "mon",
+                  "pos": "noun",
+                  "meaning": "my (masc. sg.)"
+                },
+                {
+                  "word": "village",
+                  "lemma": "village",
+                  "pos": "noun",
+                  "meaning": "village"
+                }
+              ]
+            },
+            {
+              "id": "a1_s7_c18_l2",
+              "original": "Ô souvenirs d'autrefois, doux souvenirs du pays!",
+              "literal": "O memories of the past, sweet memories of my homeland!",
+              "tokens": [
+                {
+                  "word": "Ô",
+                  "lemma": "ô",
+                  "pos": "interjection",
+                  "meaning": "o"
+                },
+                {
+                  "word": "souvenirs",
+                  "lemma": "souvenir",
+                  "pos": "noun",
+                  "meaning": "memories / recollections"
+                },
+                {
+                  "word": "d",
+                  "lemma": "de",
+                  "pos": "preposition",
+                  "meaning": "of"
+                },
+                {
+                  "word": "autrefois",
+                  "lemma": "autrefois",
                   "pos": "adverb",
-                  "meaning": "et cetera / and so forth"
+                  "meaning": "formerly / in the past"
+                },
+                {
+                  "word": "doux",
+                  "lemma": "doux",
+                  "pos": "adjective",
+                  "meaning": "sweet / gentle"
+                },
+                {
+                  "word": "souvenirs",
+                  "lemma": "souvenir",
+                  "pos": "noun",
+                  "meaning": "memories"
+                },
+                {
+                  "word": "du",
+                  "lemma": "du",
+                  "pos": "preposition",
+                  "meaning": "of the"
+                },
+                {
+                  "word": "pays",
+                  "lemma": "pays",
+                  "pos": "noun",
+                  "meaning": "country / homeland"
                 }
               ]
             }
@@ -13794,14 +14274,14 @@ export const carmenAct1: Act = {
           "lines": [
             {
               "id": "a1_s7_c19_l1",
-              "original": "Sa mère, il la revoit, etc.",
-              "literal": "His mother, he sees her again, etc.",
+              "original": "Sa mère, il la revoit… il revoit son village…",
+              "literal": "His mother, he sees her again... he sees again his village...",
               "tokens": [
                 {
                   "word": "Sa",
                   "lemma": "son",
-                  "pos": "pronoun",
-                  "meaning": "his / her / its (fem. sg.)"
+                  "pos": "noun",
+                  "meaning": "his (fem. sg.)"
                 },
                 {
                   "word": "mère",
@@ -13813,25 +14293,98 @@ export const carmenAct1: Act = {
                   "word": "il",
                   "lemma": "il",
                   "pos": "pronoun",
-                  "meaning": "he / it"
+                  "meaning": "he"
                 },
                 {
                   "word": "la",
-                  "lemma": "la",
-                  "pos": "interjection",
-                  "meaning": "la (sung syllable)"
+                  "lemma": "le",
+                  "pos": "noun",
+                  "meaning": "her"
                 },
                 {
                   "word": "revoit",
                   "lemma": "revoir",
                   "pos": "verb",
-                  "meaning": "sees again"
+                  "meaning": "sees again (3rd sg. pres.)"
                 },
                 {
-                  "word": "etc",
-                  "lemma": "etc.",
+                  "word": "il",
+                  "lemma": "il",
+                  "pos": "pronoun",
+                  "meaning": "he"
+                },
+                {
+                  "word": "revoit",
+                  "lemma": "revoir",
+                  "pos": "verb",
+                  "meaning": "sees again (3rd sg. pres.)"
+                },
+                {
+                  "word": "son",
+                  "lemma": "son",
+                  "pos": "noun",
+                  "meaning": "his (masc. sg.)"
+                },
+                {
+                  "word": "village",
+                  "lemma": "village",
+                  "pos": "noun",
+                  "meaning": "village"
+                }
+              ]
+            },
+            {
+              "id": "a1_s7_c19_l2",
+              "original": "Ô souvenirs d'autrefois, doux souvenirs du pays!",
+              "literal": "O memories of the past, sweet memories of the homeland!",
+              "tokens": [
+                {
+                  "word": "Ô",
+                  "lemma": "ô",
+                  "pos": "interjection",
+                  "meaning": "o"
+                },
+                {
+                  "word": "souvenirs",
+                  "lemma": "souvenir",
+                  "pos": "noun",
+                  "meaning": "memories / recollections"
+                },
+                {
+                  "word": "d",
+                  "lemma": "de",
+                  "pos": "preposition",
+                  "meaning": "of"
+                },
+                {
+                  "word": "autrefois",
+                  "lemma": "autrefois",
                   "pos": "adverb",
-                  "meaning": "et cetera / and so forth"
+                  "meaning": "formerly / in the past"
+                },
+                {
+                  "word": "doux",
+                  "lemma": "doux",
+                  "pos": "adjective",
+                  "meaning": "sweet / gentle"
+                },
+                {
+                  "word": "souvenirs",
+                  "lemma": "souvenir",
+                  "pos": "noun",
+                  "meaning": "memories"
+                },
+                {
+                  "word": "du",
+                  "lemma": "du",
+                  "pos": "preposition",
+                  "meaning": "of the"
+                },
+                {
+                  "word": "pays",
+                  "lemma": "pays",
+                  "pos": "noun",
+                  "meaning": "country / homeland"
                 }
               ]
             }
@@ -14918,13 +15471,13 @@ export const carmenAct1: Act = {
           "lines": [
             {
               "id": "a1_s7_c26_l1",
-              "original": "Ma mère, je la vois, etc…",
-              "literal": "My mother, I see her, etc...",
+              "original": "Ma mère, je la vois… oui, je revois mon village!",
+              "literal": "My mother, I see her... yes, I see again my village!",
               "tokens": [
                 {
                   "word": "Ma",
                   "lemma": "mon",
-                  "pos": "pronoun",
+                  "pos": "noun",
                   "meaning": "my (fem. sg.)"
                 },
                 {
@@ -14937,25 +15490,92 @@ export const carmenAct1: Act = {
                   "word": "je",
                   "lemma": "je",
                   "pos": "pronoun",
-                  "meaning": "I (1st person subject)"
+                  "meaning": "I"
                 },
                 {
                   "word": "la",
-                  "lemma": "la",
-                  "pos": "interjection",
-                  "meaning": "la (sung syllable)"
+                  "lemma": "le",
+                  "pos": "noun",
+                  "meaning": "her"
                 },
                 {
                   "word": "vois",
                   "lemma": "voir",
                   "pos": "verb",
-                  "meaning": "see (1st/2nd sg. pres.)"
+                  "meaning": "see (1st sg. pres.)"
                 },
                 {
-                  "word": "etc",
-                  "lemma": "etc.",
-                  "pos": "adverb",
-                  "meaning": "et cetera / and so forth"
+                  "word": "oui",
+                  "lemma": "oui",
+                  "pos": "particle",
+                  "meaning": "yes"
+                },
+                {
+                  "word": "je",
+                  "lemma": "je",
+                  "pos": "pronoun",
+                  "meaning": "I"
+                },
+                {
+                  "word": "revois",
+                  "lemma": "revoir",
+                  "pos": "verb",
+                  "meaning": "see again (1st sg. pres.)"
+                },
+                {
+                  "word": "mon",
+                  "lemma": "mon",
+                  "pos": "noun",
+                  "meaning": "my (masc. sg.)"
+                },
+                {
+                  "word": "village",
+                  "lemma": "village",
+                  "pos": "noun",
+                  "meaning": "village"
+                }
+              ]
+            },
+            {
+              "id": "a1_s7_c26_l2",
+              "original": "Ô souvenirs chéris, souvenirs du pays!",
+              "literal": "O cherished memories, memories of my homeland!",
+              "tokens": [
+                {
+                  "word": "Ô",
+                  "lemma": "ô",
+                  "pos": "interjection",
+                  "meaning": "o"
+                },
+                {
+                  "word": "souvenirs",
+                  "lemma": "souvenir",
+                  "pos": "noun",
+                  "meaning": "memories"
+                },
+                {
+                  "word": "chéris",
+                  "lemma": "chéri",
+                  "pos": "adjective",
+                  "meaning": "cherished / beloved"
+                },
+                {
+                  "word": "souvenirs",
+                  "lemma": "souvenir",
+                  "pos": "noun",
+                  "meaning": "memories"
+                },
+                {
+                  "word": "du",
+                  "lemma": "du",
+                  "pos": "preposition",
+                  "meaning": "of the"
+                },
+                {
+                  "word": "pays",
+                  "lemma": "pays",
+                  "pos": "noun",
+                  "meaning": "country / homeland"
                 }
               ]
             }
@@ -14967,14 +15587,14 @@ export const carmenAct1: Act = {
           "lines": [
             {
               "id": "a1_s7_c27_l1",
-              "original": "Sa mère, il la revoit, etc…",
-              "literal": "His mother, he sees her again, etc...",
+              "original": "Sa mère, il la revoit… oui, il revoit son village!",
+              "literal": "His mother, he sees her again... yes, he sees again his village!",
               "tokens": [
                 {
                   "word": "Sa",
                   "lemma": "son",
-                  "pos": "pronoun",
-                  "meaning": "his / her / its (fem. sg.)"
+                  "pos": "noun",
+                  "meaning": "his (fem. sg.)"
                 },
                 {
                   "word": "mère",
@@ -14986,25 +15606,92 @@ export const carmenAct1: Act = {
                   "word": "il",
                   "lemma": "il",
                   "pos": "pronoun",
-                  "meaning": "he / it"
+                  "meaning": "he"
                 },
                 {
                   "word": "la",
-                  "lemma": "la",
-                  "pos": "interjection",
-                  "meaning": "la (sung syllable)"
+                  "lemma": "le",
+                  "pos": "noun",
+                  "meaning": "her"
                 },
                 {
                   "word": "revoit",
                   "lemma": "revoir",
                   "pos": "verb",
-                  "meaning": "sees again"
+                  "meaning": "sees again (3rd sg. pres.)"
                 },
                 {
-                  "word": "etc",
-                  "lemma": "etc.",
-                  "pos": "adverb",
-                  "meaning": "et cetera / and so forth"
+                  "word": "oui",
+                  "lemma": "oui",
+                  "pos": "particle",
+                  "meaning": "yes"
+                },
+                {
+                  "word": "il",
+                  "lemma": "il",
+                  "pos": "pronoun",
+                  "meaning": "he"
+                },
+                {
+                  "word": "revoit",
+                  "lemma": "revoir",
+                  "pos": "verb",
+                  "meaning": "sees again (3rd sg. pres.)"
+                },
+                {
+                  "word": "son",
+                  "lemma": "son",
+                  "pos": "noun",
+                  "meaning": "his (masc. sg.)"
+                },
+                {
+                  "word": "village",
+                  "lemma": "village",
+                  "pos": "noun",
+                  "meaning": "village"
+                }
+              ]
+            },
+            {
+              "id": "a1_s7_c27_l2",
+              "original": "Ô souvenirs chéris, souvenirs du pays!",
+              "literal": "O cherished memories, memories of the homeland!",
+              "tokens": [
+                {
+                  "word": "Ô",
+                  "lemma": "ô",
+                  "pos": "interjection",
+                  "meaning": "o"
+                },
+                {
+                  "word": "souvenirs",
+                  "lemma": "souvenir",
+                  "pos": "noun",
+                  "meaning": "memories"
+                },
+                {
+                  "word": "chéris",
+                  "lemma": "chéri",
+                  "pos": "adjective",
+                  "meaning": "cherished / beloved"
+                },
+                {
+                  "word": "souvenirs",
+                  "lemma": "souvenir",
+                  "pos": "noun",
+                  "meaning": "memories"
+                },
+                {
+                  "word": "du",
+                  "lemma": "du",
+                  "pos": "preposition",
+                  "meaning": "of the"
+                },
+                {
+                  "word": "pays",
+                  "lemma": "pays",
+                  "pos": "noun",
+                  "meaning": "country / homeland"
                 }
               ]
             }
@@ -18164,14 +18851,14 @@ export const carmenAct1: Act = {
           "lines": [
             {
               "id": "a1_s8_c23_l1",
-              "original": "La Manuelita disait…",
-              "literal": "Manuelita was saying...",
+              "original": "La Manuelita disait",
+              "literal": "Manuelita was saying",
               "tokens": [
                 {
                   "word": "La",
-                  "lemma": "la",
-                  "pos": "interjection",
-                  "meaning": "la (sung syllable)"
+                  "lemma": "le",
+                  "pos": "noun",
+                  "meaning": "the (fem. sg.)"
                 },
                 {
                   "word": "Manuelita",
@@ -18183,20 +18870,118 @@ export const carmenAct1: Act = {
                   "word": "disait",
                   "lemma": "dire",
                   "pos": "verb",
-                  "meaning": "said (3rd sg. imperf.)"
+                  "meaning": "was saying (3rd sg. imperf.)"
                 }
               ]
             },
             {
               "id": "a1_s8_c23_l2",
-              "original": "Etc.",
-              "literal": "etc.",
+              "original": "et répétait à voix haute,",
+              "literal": "and repeated loudly,",
               "tokens": [
                 {
-                  "word": "Etc",
-                  "lemma": "etc.",
-                  "pos": "adverb",
-                  "meaning": "et cetera / and so forth"
+                  "word": "et",
+                  "lemma": "et",
+                  "pos": "conjunction",
+                  "meaning": "and"
+                },
+                {
+                  "word": "répétait",
+                  "lemma": "répéter",
+                  "pos": "verb",
+                  "meaning": "repeated (3rd sg. imperf.)"
+                },
+                {
+                  "word": "à",
+                  "lemma": "à",
+                  "pos": "preposition",
+                  "meaning": "at / with"
+                },
+                {
+                  "word": "voix",
+                  "lemma": "voix",
+                  "pos": "noun",
+                  "meaning": "voice"
+                },
+                {
+                  "word": "haute",
+                  "lemma": "haut",
+                  "pos": "adjective",
+                  "meaning": "loud / high (fem.)"
+                }
+              ]
+            },
+            {
+              "id": "a1_s8_c23_l3",
+              "original": "qu'elle achèterait sans faute",
+              "literal": "that she would buy without fail",
+              "tokens": [
+                {
+                  "word": "qu",
+                  "lemma": "que",
+                  "pos": "conjunction",
+                  "meaning": "that"
+                },
+                {
+                  "word": "elle",
+                  "lemma": "elle",
+                  "pos": "pronoun",
+                  "meaning": "she"
+                },
+                {
+                  "word": "achèterait",
+                  "lemma": "acheter",
+                  "pos": "verb",
+                  "meaning": "would buy (3rd sg. cond.)"
+                },
+                {
+                  "word": "sans",
+                  "lemma": "sans",
+                  "pos": "preposition",
+                  "meaning": "without"
+                },
+                {
+                  "word": "faute",
+                  "lemma": "faute",
+                  "pos": "noun",
+                  "meaning": "fault / fail"
+                }
+              ]
+            },
+            {
+              "id": "a1_s8_c23_l4",
+              "original": "un âne qui lui plaisait!",
+              "literal": "a donkey that pleased her!",
+              "tokens": [
+                {
+                  "word": "un",
+                  "lemma": "un",
+                  "pos": "noun",
+                  "meaning": "a"
+                },
+                {
+                  "word": "âne",
+                  "lemma": "âne",
+                  "pos": "noun",
+                  "meaning": "donkey"
+                },
+                {
+                  "word": "qui",
+                  "lemma": "qui",
+                  "pos": "pronoun",
+                  "meaning": "who / which"
+                },
+                {
+                  "word": "lui",
+                  "lemma": "lui",
+                  "pos": "pronoun",
+                  "meaning": "her / to her"
+                },
+                {
+                  "word": "plaisait",
+                  "lemma": "plaire",
+                  "pos": "verb",
+                  "meaning": "pleased (3rd sg. imperf.)"
                 }
               ]
             }
@@ -18208,39 +18993,131 @@ export const carmenAct1: Act = {
           "lines": [
             {
               "id": "a1_s8_c24_l1",
-              "original": "Alors la Carmencita…",
-              "literal": "Then the Carmencita...",
+              "original": "Alors la Carmencita,",
+              "literal": "Then Carmencita,",
               "tokens": [
                 {
                   "word": "Alors",
                   "lemma": "alors",
                   "pos": "adverb",
-                  "meaning": "then / at that time"
+                  "meaning": "then"
                 },
                 {
                   "word": "la",
-                  "lemma": "la",
-                  "pos": "interjection",
-                  "meaning": "la (sung syllable)"
+                  "lemma": "le",
+                  "pos": "noun",
+                  "meaning": "the (fem. sg.)"
                 },
                 {
                   "word": "Carmencita",
                   "lemma": "Carmencita",
                   "pos": "noun",
-                  "meaning": "Carmencita (little Carmen)"
+                  "meaning": "Carmencita"
                 }
               ]
             },
             {
               "id": "a1_s8_c24_l2",
-              "original": "Etc.",
-              "literal": "etc.",
+              "original": "railleuse à son ordinaire,",
+              "literal": "mocking as was her custom,",
               "tokens": [
                 {
-                  "word": "Etc",
-                  "lemma": "etc.",
-                  "pos": "adverb",
-                  "meaning": "et cetera / and so forth"
+                  "word": "railleuse",
+                  "lemma": "railleur",
+                  "pos": "adjective",
+                  "meaning": "mocking / teasing (fem.)"
+                },
+                {
+                  "word": "à",
+                  "lemma": "à",
+                  "pos": "preposition",
+                  "meaning": "at / to"
+                },
+                {
+                  "word": "son",
+                  "lemma": "son",
+                  "pos": "noun",
+                  "meaning": "her"
+                },
+                {
+                  "word": "ordinaire",
+                  "lemma": "ordinaire",
+                  "pos": "noun",
+                  "meaning": "custom / ordinary"
+                }
+              ]
+            },
+            {
+              "id": "a1_s8_c24_l3",
+              "original": "dit: « Un âne, pour quoi faire?",
+              "literal": "said: 'A donkey, what for?",
+              "tokens": [
+                {
+                  "word": "dit",
+                  "lemma": "dire",
+                  "pos": "verb",
+                  "meaning": "said (3rd sg. past hist.)"
+                },
+                {
+                  "word": "Un",
+                  "lemma": "un",
+                  "pos": "noun",
+                  "meaning": "a"
+                },
+                {
+                  "word": "âne",
+                  "lemma": "âne",
+                  "pos": "noun",
+                  "meaning": "donkey"
+                },
+                {
+                  "word": "pour",
+                  "lemma": "pour",
+                  "pos": "preposition",
+                  "meaning": "for"
+                },
+                {
+                  "word": "quoi",
+                  "lemma": "quoi",
+                  "pos": "pronoun",
+                  "meaning": "what"
+                },
+                {
+                  "word": "faire",
+                  "lemma": "faire",
+                  "pos": "verb",
+                  "meaning": "to do / make"
+                }
+              ]
+            },
+            {
+              "id": "a1_s8_c24_l4",
+              "original": "un balai te suffira! »",
+              "literal": "a broom will suffice you!'",
+              "tokens": [
+                {
+                  "word": "un",
+                  "lemma": "un",
+                  "pos": "noun",
+                  "meaning": "a"
+                },
+                {
+                  "word": "balai",
+                  "lemma": "balai",
+                  "pos": "noun",
+                  "meaning": "broom"
+                },
+                {
+                  "word": "te",
+                  "lemma": "te",
+                  "pos": "pronoun",
+                  "meaning": "you / to you"
+                },
+                {
+                  "word": "suffira",
+                  "lemma": "suffire",
+                  "pos": "verb",
+                  "meaning": "will suffice (3rd sg. fut.)"
                 }
               ]
             }

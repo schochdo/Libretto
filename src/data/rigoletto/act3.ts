@@ -1249,14 +1249,14 @@ export const rigolettoAct3: Act = {
             },
             {
               "id": "a3_s1_c20_l17",
-              "original": "La donna è mobile, ecc.",
-              "literal": "Woman is fickle, etc.",
+              "original": "La donna è mobil",
+              "literal": "Woman is fickle",
               "tokens": [
                 {
                   "word": "La",
-                  "lemma": "la",
+                  "lemma": "il",
                   "pos": "noun",
-                  "meaning": "the / her / it"
+                  "meaning": "the"
                 },
                 {
                   "word": "donna",
@@ -1266,24 +1266,148 @@ export const rigolettoAct3: Act = {
                 },
                 {
                   "word": "è",
-                  "lemma": "è",
-                  "pos": "noun",
-                  "meaning": "is"
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "is (3rd sg. pres.)"
                 },
                 {
-                  "word": "mobile",
+                  "word": "mobil",
                   "lemma": "mobile",
-                  "pos": "noun",
-                  "meaning": "fickle / mobile / piece of furniture"
+                  "pos": "adjective",
+                  "meaning": "fickle / mobile"
+                }
+              ]
+            },
+            {
+              "id": "a3_s1_c20_l18",
+              "original": "qual piuma al vento,",
+              "literal": "like a feather in the wind,",
+              "tokens": [
+                {
+                  "word": "qual",
+                  "lemma": "quale",
+                  "pos": "adjective",
+                  "meaning": "like / as"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "piuma",
+                  "lemma": "piuma",
+                  "pos": "noun",
+                  "meaning": "feather / plume"
+                },
+                {
+                  "word": "al",
+                  "lemma": "al",
+                  "pos": "preposition",
+                  "meaning": "in the / to the"
+                },
+                {
+                  "word": "vento",
+                  "lemma": "vento",
+                  "pos": "noun",
+                  "meaning": "wind"
                 }
-              ],
-              "grammarNote": "'Woman is fickle like a feather in the wind.' Verdi's iconic canzone expressing cynical disdain for women's loyalty."
+              ]
+            },
+            {
+              "id": "a3_s1_c20_l19",
+              "original": "muta d'accento",
+              "literal": "changes tone of voice",
+              "tokens": [
+                {
+                  "word": "muta",
+                  "lemma": "mutare",
+                  "pos": "verb",
+                  "meaning": "changes / shifts (3rd sg. pres.)"
+                },
+                {
+                  "word": "d",
+                  "lemma": "di",
+                  "pos": "preposition",
+                  "meaning": "of / in"
+                },
+                {
+                  "word": "accento",
+                  "lemma": "accento",
+                  "pos": "noun",
+                  "meaning": "tone of voice / accent"
+                }
+              ]
+            },
+            {
+              "id": "a3_s1_c20_l20",
+              "original": "e di pensier,",
+              "literal": "and of thought,",
+              "tokens": [
+                {
+                  "word": "e",
+                  "lemma": "e",
+                  "pos": "conjunction",
+                  "meaning": "and"
+                },
+                {
+                  "word": "di",
+                  "lemma": "di",
+                  "pos": "preposition",
+                  "meaning": "of"
+                },
+                {
+                  "word": "pensier",
+                  "lemma": "pensiero",
+                  "pos": "noun",
+                  "meaning": "thought"
+                }
+              ]
+            },
+            {
+              "id": "a3_s1_c20_l21",
+              "original": "e di pensier,",
+              "literal": "and of thought,",
+              "tokens": [
+                {
+                  "word": "e",
+                  "lemma": "e",
+                  "pos": "conjunction",
+                  "meaning": "and"
+                },
+                {
+                  "word": "di",
+                  "lemma": "di",
+                  "pos": "preposition",
+                  "meaning": "of"
+                },
+                {
+                  "word": "pensier",
+                  "lemma": "pensiero",
+                  "pos": "noun",
+                  "meaning": "thought"
+                }
+              ]
+            },
+            {
+              "id": "a3_s1_c20_l22",
+              "original": "e di pensier!",
+              "literal": "and of thought!",
+              "tokens": [
+                {
+                  "word": "e",
+                  "lemma": "e",
+                  "pos": "conjunction",
+                  "meaning": "and"
+                },
+                {
+                  "word": "di",
+                  "lemma": "di",
+                  "pos": "preposition",
+                  "meaning": "of"
+                },
+                {
+                  "word": "pensier",
+                  "lemma": "pensiero",
+                  "pos": "noun",
+                  "meaning": "thought"
+                }
+              ]
             }
           ]
         },
@@ -4854,14 +4978,14 @@ export const rigolettoAct3: Act = {
             },
             {
               "id": "a3_s3_c23_l2",
-              "original": "La donna è mobile, ecc.",
-              "literal": "The woman is mobile, etc.",
+              "original": "La donna è mobil...",
+              "literal": "Woman is fickle...",
               "tokens": [
                 {
                   "word": "La",
-                  "lemma": "la",
+                  "lemma": "il",
                   "pos": "noun",
-                  "meaning": "the / her / it"
+                  "meaning": "the"
                 },
                 {
                   "word": "donna",
@@ -4871,24 +4995,98 @@ export const rigolettoAct3: Act = {
                 },
                 {
                   "word": "è",
-                  "lemma": "è",
-                  "pos": "noun",
-                  "meaning": "is"
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "is (3rd sg. pres.)"
                 },
                 {
-                  "word": "mobile",
+                  "word": "mobil",
                   "lemma": "mobile",
-                  "pos": "noun",
-                  "meaning": "fickle / mobile / piece of furniture"
+                  "pos": "adjective",
+                  "meaning": "fickle / mobile"
+                }
+              ]
+            },
+            {
+              "id": "a3_s3_c23_l3",
+              "original": "qual piuma al vento...",
+              "literal": "like a feather in the wind...",
+              "tokens": [
+                {
+                  "word": "qual",
+                  "lemma": "quale",
+                  "pos": "adjective",
+                  "meaning": "like / as"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "piuma",
+                  "lemma": "piuma",
+                  "pos": "noun",
+                  "meaning": "feather / plume"
+                },
+                {
+                  "word": "al",
+                  "lemma": "al",
+                  "pos": "preposition",
+                  "meaning": "in the / to the"
+                },
+                {
+                  "word": "vento",
+                  "lemma": "vento",
+                  "pos": "noun",
+                  "meaning": "wind"
                 }
-              ],
-              "grammarNote": "'Woman is fickle like a feather in the wind.' Verdi's iconic canzone expressing cynical disdain for women's loyalty."
+              ]
+            },
+            {
+              "id": "a3_s3_c23_l4",
+              "original": "muta d'accento...",
+              "literal": "changes tone of voice...",
+              "tokens": [
+                {
+                  "word": "muta",
+                  "lemma": "mutare",
+                  "pos": "verb",
+                  "meaning": "changes / shifts (3rd sg. pres.)"
+                },
+                {
+                  "word": "d",
+                  "lemma": "di",
+                  "pos": "preposition",
+                  "meaning": "of / in"
+                },
+                {
+                  "word": "accento",
+                  "lemma": "accento",
+                  "pos": "noun",
+                  "meaning": "tone of voice / accent"
+                }
+              ]
+            },
+            {
+              "id": "a3_s3_c23_l5",
+              "original": "e di pensier...",
+              "literal": "and of thought...",
+              "tokens": [
+                {
+                  "word": "e",
+                  "lemma": "e",
+                  "pos": "conjunction",
+                  "meaning": "and"
+                },
+                {
+                  "word": "di",
+                  "lemma": "di",
+                  "pos": "preposition",
+                  "meaning": "of"
+                },
+                {
+                  "word": "pensier",
+                  "lemma": "pensiero",
+                  "pos": "noun",
+                  "meaning": "thought"
+                }
+              ]
             }
           ]
         },
@@ -9229,14 +9427,14 @@ export const rigolettoAct3: Act = {
           "lines": [
             {
               "id": "a3_s4_c10_l1",
-              "original": "La donna è mobile, ecc.",
-              "literal": "The woman is mobile, etc.",
+              "original": "La donna è mobil",
+              "literal": "Woman is fickle",
               "tokens": [
                 {
                   "word": "La",
-                  "lemma": "la",
+                  "lemma": "il",
                   "pos": "noun",
-                  "meaning": "the / her / it"
+                  "meaning": "the"
                 },
                 {
                   "word": "donna",
@@ -9246,24 +9444,254 @@ export const rigolettoAct3: Act = {
                 },
                 {
                   "word": "è",
-                  "lemma": "è",
-                  "pos": "noun",
-                  "meaning": "is"
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "is (3rd sg. pres.)"
                 },
                 {
-                  "word": "mobile",
+                  "word": "mobil",
                   "lemma": "mobile",
-                  "pos": "noun",
-                  "meaning": "fickle / mobile / piece of furniture"
+                  "pos": "adjective",
+                  "meaning": "fickle / mobile"
+                }
+              ]
+            },
+            {
+              "id": "a3_s4_c10_l2",
+              "original": "qual piuma al vento,",
+              "literal": "like a feather in the wind,",
+              "tokens": [
+                {
+                  "word": "qual",
+                  "lemma": "quale",
+                  "pos": "adjective",
+                  "meaning": "like / as"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "piuma",
+                  "lemma": "piuma",
+                  "pos": "noun",
+                  "meaning": "feather / plume"
+                },
+                {
+                  "word": "al",
+                  "lemma": "al",
+                  "pos": "preposition",
+                  "meaning": "in the / to the"
+                },
+                {
+                  "word": "vento",
+                  "lemma": "vento",
+                  "pos": "noun",
+                  "meaning": "wind"
                 }
-              ],
-              "grammarNote": "'Woman is fickle like a feather in the wind.' Verdi's iconic canzone expressing cynical disdain for women's loyalty."
+              ]
+            },
+            {
+              "id": "a3_s4_c10_l3",
+              "original": "muta d'accento",
+              "literal": "changes tone of voice",
+              "tokens": [
+                {
+                  "word": "muta",
+                  "lemma": "mutare",
+                  "pos": "verb",
+                  "meaning": "changes / shifts (3rd sg. pres.)"
+                },
+                {
+                  "word": "d",
+                  "lemma": "di",
+                  "pos": "preposition",
+                  "meaning": "of / in"
+                },
+                {
+                  "word": "accento",
+                  "lemma": "accento",
+                  "pos": "noun",
+                  "meaning": "tone of voice / accent"
+                }
+              ]
+            },
+            {
+              "id": "a3_s4_c10_l4",
+              "original": "e di pensier!",
+              "literal": "and of thought!",
+              "tokens": [
+                {
+                  "word": "e",
+                  "lemma": "e",
+                  "pos": "conjunction",
+                  "meaning": "and"
+                },
+                {
+                  "word": "di",
+                  "lemma": "di",
+                  "pos": "preposition",
+                  "meaning": "of"
+                },
+                {
+                  "word": "pensier",
+                  "lemma": "pensiero",
+                  "pos": "noun",
+                  "meaning": "thought"
+                }
+              ]
+            },
+            {
+              "id": "a3_s4_c10_l5",
+              "original": "È menzogner!...",
+              "literal": "She is deceitful!...",
+              "tokens": [
+                {
+                  "word": "È",
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "is (3rd sg. pres.)"
+                },
+                {
+                  "word": "menzogner",
+                  "lemma": "menzognero",
+                  "pos": "adjective",
+                  "meaning": "deceitful / false"
+                }
+              ]
+            },
+            {
+              "id": "a3_s4_c10_l6",
+              "original": "La donna è mobil...",
+              "literal": "Woman is fickle...",
+              "tokens": [
+                {
+                  "word": "La",
+                  "lemma": "il",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "donna",
+                  "lemma": "donna",
+                  "pos": "noun",
+                  "meaning": "woman"
+                },
+                {
+                  "word": "è",
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "is (3rd sg. pres.)"
+                },
+                {
+                  "word": "mobil",
+                  "lemma": "mobile",
+                  "pos": "adjective",
+                  "meaning": "fickle / mobile"
+                }
+              ]
+            },
+            {
+              "id": "a3_s4_c10_l7",
+              "original": "qual piuma al vento,",
+              "literal": "like a feather in the wind,",
+              "tokens": [
+                {
+                  "word": "qual",
+                  "lemma": "quale",
+                  "pos": "adjective",
+                  "meaning": "like / as"
+                },
+                {
+                  "word": "piuma",
+                  "lemma": "piuma",
+                  "pos": "noun",
+                  "meaning": "feather / plume"
+                },
+                {
+                  "word": "al",
+                  "lemma": "al",
+                  "pos": "preposition",
+                  "meaning": "in the / to the"
+                },
+                {
+                  "word": "vento",
+                  "lemma": "vento",
+                  "pos": "noun",
+                  "meaning": "wind"
+                }
+              ]
+            },
+            {
+              "id": "a3_s4_c10_l8",
+              "original": "muta d'accento",
+              "literal": "changes tone of voice",
+              "tokens": [
+                {
+                  "word": "muta",
+                  "lemma": "mutare",
+                  "pos": "verb",
+                  "meaning": "changes / shifts (3rd sg. pres.)"
+                },
+                {
+                  "word": "d",
+                  "lemma": "di",
+                  "pos": "preposition",
+                  "meaning": "of / in"
+                },
+                {
+                  "word": "accento",
+                  "lemma": "accento",
+                  "pos": "noun",
+                  "meaning": "tone of voice / accent"
+                }
+              ]
+            },
+            {
+              "id": "a3_s4_c10_l9",
+              "original": "e di pensier,",
+              "literal": "and of thought,",
+              "tokens": [
+                {
+                  "word": "e",
+                  "lemma": "e",
+                  "pos": "conjunction",
+                  "meaning": "and"
+                },
+                {
+                  "word": "di",
+                  "lemma": "di",
+                  "pos": "preposition",
+                  "meaning": "of"
+                },
+                {
+                  "word": "pensier",
+                  "lemma": "pensiero",
+                  "pos": "noun",
+                  "meaning": "thought"
+                }
+              ]
+            },
+            {
+              "id": "a3_s4_c10_l10",
+              "original": "e di pensier!...",
+              "literal": "and of thought!...",
+              "tokens": [
+                {
+                  "word": "e",
+                  "lemma": "e",
+                  "pos": "conjunction",
+                  "meaning": "and"
+                },
+                {
+                  "word": "di",
+                  "lemma": "di",
+                  "pos": "preposition",
+                  "meaning": "of"
+                },
+                {
+                  "word": "pensier",
+                  "lemma": "pensiero",
+                  "pos": "noun",
+                  "meaning": "thought"
+                }
+              ]
             }
           ]
         },

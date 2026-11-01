@@ -8,6 +8,12 @@ Enforces the strict Libretto machine translation standard across all works:
 3. Length ratio validation per sentence to prevent loose paraphrasing or narrative inflation.
 4. Validation that all lines have faithful literal translations and valid morphological tokens.
 5. Verification of act settings, character rosters, and opera summaries.
+6. Zero scraped web footers, cookie banners, tracking scripts, or external links.
+7. Zero placeholder tokens (e.g. '(French opera term)', 'TODO', 'TBD').
+8. Zero empty token meanings or empty lemmas across all tokens.
+9. Zero invalid POS tags (enforces TypeScript Token.pos union enum).
+10. Zero raw HTML tags (e.g. <i>, <b>, <br>) or HTML entities leaking into display text.
+11. Zero printer shorthand ('ecc', 'etc') or abbreviation tokens in sung dialogue lines.
 """
 
 import glob
@@ -18,6 +24,17 @@ from pathlib import Path
 
 ROOT_DIR = Path(__file__).parent.parent
 DATA_DIR = ROOT_DIR / 'src' / 'data'
+
+VALID_POS = {
+    'noun', 'verb', 'adjective', 'adverb', 'pronoun',
+    'preposition', 'conjunction', 'interjection', 'particle', 'idiom'
+}
+
+TAG_PATTERN = re.compile(r'<[^>]+>')
+ENTITY_PATTERN = re.compile(r'&[a-zA-Z0-9#]+;')
+TOKEN_PATTERN = re.compile(
+    r'\{\s*\"word\":\s*\"([^\"]*)\",\s*\"lemma\":\s*\"([^\"]*)\",\s*\"pos\":\s*\"([^\"]*)\",\s*\"meaning\":\s*\"([^\"]*)\"\s*\}'
+)
 
 def split_sentences(text: str) -> list[str]:
     if not text:
@@ -39,6 +56,7 @@ def main():
     total_scenes = 0
     total_cues = 0
     total_lines = 0
+    total_tokens = 0
     errors = []
     warnings = []
 
@@ -66,7 +84,44 @@ def main():
             with open(act_file, 'r', encoding='utf-8') as f:
                 content = f.read()
 
-            # Check Act Settings
+            # 1. Zero web footer junk
+            for junk in ['cookieconsent', 'Opera-Arias', '<script', 'google-analytics']:
+                if junk.lower() in content.lower():
+                    errors.append(f"[{op_name} {act_file.name}] Scraped web footer / script detected: {junk}")
+
+            # 2. Zero placeholders
+            if '(French opera term)' in content or '(Italian opera term)' in content:
+                errors.append(f"[{op_name} {act_file.name}] Placeholder '(opera term)' detected")
+
+            # 3. Zero HTML tags or entities in string literals
+            for lnum, line in enumerate(content.splitlines(), 1):
+                for str_m in re.finditer(r'\"([^\"]*)\"', line):
+                    val = str_m.group(1)
+                    if TAG_PATTERN.search(val):
+                        errors.append(f"[{op_name} {act_file.name}:{lnum}] Raw HTML tag in display text: \"{val[:50]}\"")
+                    if ENTITY_PATTERN.search(val):
+                        errors.append(f"[{op_name} {act_file.name}:{lnum}] Raw HTML entity in display text: \"{val[:50]}\"")
+
+            # 4. Token validation (completeness, valid POS, and zero shorthand tokens)
+            tokens = TOKEN_PATTERN.findall(content)
+            total_tokens += len(tokens)
+            for w, l, pos, m in tokens:
+                if not m.strip():
+                    errors.append(f"[{op_name} {act_file.name}] Empty meaning for token '{w}'")
+                if not l.strip():
+                    errors.append(f"[{op_name} {act_file.name}] Empty lemma for token '{w}'")
+                if pos not in VALID_POS:
+                    errors.append(f"[{op_name} {act_file.name}] Invalid POS '{pos}' on token '{w}'")
+                if w.lower() in ('ecc', 'etc', 'ecc.', 'etc.'):
+                    errors.append(f"[{op_name} {act_file.name}] Printer shorthand token '{w}' detected")
+
+            # 5. Zero printer shorthand ('ecc', 'etc') in sung dialogue lines
+            for m in re.finditer(r'\"original\":\s*\"([^\"]*)\"', content):
+                orig = m.group(1)
+                if re.search(r'\b(?:ecc|etc)\b', orig, re.I) and 'etchalar' not in orig.lower():
+                    errors.append(f"[{op_name} {act_file.name}] Printer shorthand 'ecc/etc' in sung line: \"{orig}\"")
+
+            # 6. Check Act Settings
             orig_set = re.findall(r'["\']?originalSetting["\']?\s*:\s*("(?:\\.|[^"\\])*"|\'(?:\\.|[^\'\\])*\'|`(?:\\.|[^`\\])*`)', content)
             trans_set = re.findall(r'["\']?setting["\']?\s*:\s*("(?:\\.|[^"\\])*"|\'(?:\\.|[^\'\\])*\'|`(?:\\.|[^`\\])*`)', content)
 
@@ -75,10 +130,7 @@ def main():
             if not trans_set:
                 errors.append(f"[{op_name} {act_file.name}] Missing setting on Act")
 
-            # Extract Scenes
-            scene_matches = re.findall(r'\{[^{}]*?"sceneNumber":\s*(\d+)[^{}]*?"title":\s*("[^"]*")[^{}]*?\}', content)
-            
-            # Find description pairs
+            # 6. Extract Scenes & Description Pairs
             desc_pairs = re.findall(
                 r'["\']?originalDescription["\']?\s*:\s*("(?:\\.|[^"\\])*"|\'(?:\\.|[^\'\\])*\'|`(?:\\.|[^`\\])*`)\s*,\s*["\']?description["\']?\s*:\s*("(?:\\.|[^"\\])*"|\'(?:\\.|[^\'\\])*\'|`(?:\\.|[^`\\])*`)',
                 content
@@ -111,7 +163,6 @@ def main():
                         f"  TRANS: {trans_sents}"
                     )
                 else:
-                    # Check ratio for each sentence to detect narrative paraphrasing / synopsis filler
                     for s_num, (o_s, t_s) in enumerate(zip(orig_sents, trans_sents), 1):
                         ratio = len(t_s) / max(len(o_s), 1)
                         if ratio > 2.5 or ratio < 0.35:
@@ -121,7 +172,7 @@ def main():
                                 f"  TRANS: {t_s}"
                             )
 
-            # Check stageDirectionTranslations across all cues
+            # 7. Check stageDirectionTranslations across all cues
             lines = content.splitlines()
             has_sd = False
             has_sdt = False
@@ -155,6 +206,7 @@ def main():
     print(f"  • Total Scenes Audited: {total_scenes}")
     print(f"  • Total Cues Audited:   {total_cues:,}")
     print(f"  • Total Lines Audited:  {total_lines:,}")
+    print(f"  • Total Tokens Audited: {total_tokens:,}")
     print(f"  • Warnings:             {len(warnings)}")
     print(f"  • Standard Violations:  {len(errors)}")
 
@@ -165,11 +217,14 @@ def main():
 
     if errors:
         print("\nSTANDARD VIOLATIONS DETECTED:")
-        for e in errors:
+        for e in errors[:50]:
             print(f"  ✗ {e}")
+        if len(errors) > 50:
+            print(f"  ... and {len(errors) - 50} more errors.")
         sys.exit(1)
 
     print("\n✓ 100% of operas comply with the Libretto literal machine translation standard!")
+    print("✓ Zero web footers, zero placeholders, zero empty meanings, and zero HTML tags detected.")
     print("=" * 70)
 
 if __name__ == '__main__':

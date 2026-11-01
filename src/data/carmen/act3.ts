@@ -8240,14 +8240,14 @@ export const carmenAct3: Act = {
                 {
                   "word": "Quant",
                   "lemma": "quant",
-                  "pos": "preposition",
-                  "meaning": "as for / regarding (quant à)"
+                  "pos": "adverb",
+                  "meaning": "as for"
                 },
                 {
                   "word": "au",
                   "lemma": "au",
                   "pos": "preposition",
-                  "meaning": "to the / at the (masc.)"
+                  "meaning": "to the"
                 },
                 {
                   "word": "douanier",
@@ -8259,7 +8259,7 @@ export const carmenAct3: Act = {
                   "word": "c",
                   "lemma": "ce",
                   "pos": "pronoun",
-                  "meaning": "this / it (elided)"
+                  "meaning": "it / this"
                 },
                 {
                   "word": "est",
@@ -8270,27 +8270,149 @@ export const carmenAct3: Act = {
                 {
                   "word": "notre",
                   "lemma": "notre",
-                  "pos": "pronoun",
-                  "meaning": "our (sg.)"
+                  "pos": "noun",
+                  "meaning": "our"
                 },
                 {
                   "word": "affaire",
                   "lemma": "affaire",
                   "pos": "noun",
-                  "meaning": "matter / business / affair"
+                  "meaning": "affair / business"
                 }
               ]
             },
             {
               "id": "a3_s3_c21_l2",
-              "original": "Etc.",
-              "literal": "etc.",
+              "original": "tout comme un autre il aime à plaire,",
+              "literal": "just like anyone else he likes to please,",
               "tokens": [
                 {
-                  "word": "Etc",
-                  "lemma": "etc.",
+                  "word": "tout",
+                  "lemma": "tout",
                   "pos": "adverb",
-                  "meaning": "et cetera / and so forth"
+                  "meaning": "just / completely"
+                },
+                {
+                  "word": "comme",
+                  "lemma": "comme",
+                  "pos": "preposition",
+                  "meaning": "like / as"
+                },
+                {
+                  "word": "un",
+                  "lemma": "un",
+                  "pos": "noun",
+                  "meaning": "an"
+                },
+                {
+                  "word": "autre",
+                  "lemma": "autre",
+                  "pos": "pronoun",
+                  "meaning": "other"
+                },
+                {
+                  "word": "il",
+                  "lemma": "il",
+                  "pos": "pronoun",
+                  "meaning": "he"
+                },
+                {
+                  "word": "aime",
+                  "lemma": "aimer",
+                  "pos": "verb",
+                  "meaning": "likes / loves (3rd sg. pres.)"
+                },
+                {
+                  "word": "à",
+                  "lemma": "à",
+                  "pos": "preposition",
+                  "meaning": "to"
+                },
+                {
+                  "word": "plaire",
+                  "lemma": "plaire",
+                  "pos": "verb",
+                  "meaning": "to please"
+                }
+              ]
+            },
+            {
+              "id": "a3_s3_c21_l3",
+              "original": "il aime à faire le galant,",
+              "literal": "he likes to play the gallant,",
+              "tokens": [
+                {
+                  "word": "il",
+                  "lemma": "il",
+                  "pos": "pronoun",
+                  "meaning": "he"
+                },
+                {
+                  "word": "aime",
+                  "lemma": "aimer",
+                  "pos": "verb",
+                  "meaning": "likes (3rd sg. pres.)"
+                },
+                {
+                  "word": "à",
+                  "lemma": "à",
+                  "pos": "preposition",
+                  "meaning": "to"
+                },
+                {
+                  "word": "faire",
+                  "lemma": "faire",
+                  "pos": "verb",
+                  "meaning": "to make / do / play"
+                },
+                {
+                  "word": "le",
+                  "lemma": "le",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "galant",
+                  "lemma": "galant",
+                  "pos": "noun",
+                  "meaning": "gallant / courteous man"
+                }
+              ]
+            },
+            {
+              "id": "a3_s3_c21_l4",
+              "original": "ah ! laissez-nous passer en avant !",
+              "literal": "ah! let us pass on ahead!",
+              "tokens": [
+                {
+                  "word": "ah",
+                  "lemma": "ah",
+                  "pos": "interjection",
+                  "meaning": "ah"
+                },
+                {
+                  "word": "laissez-nous",
+                  "lemma": "laisser",
+                  "pos": "verb",
+                  "meaning": "let us (laisser + nous)"
+                },
+                {
+                  "word": "passer",
+                  "lemma": "passer",
+                  "pos": "verb",
+                  "meaning": "to pass"
+                },
+                {
+                  "word": "en",
+                  "lemma": "en",
+                  "pos": "preposition",
+                  "meaning": "in / on"
+                },
+                {
+                  "word": "avant",
+                  "lemma": "avant",
+                  "pos": "adverb",
+                  "meaning": "ahead / forward"
                 }
               ]
             }
@@ -8468,14 +8590,14 @@ export const carmenAct3: Act = {
                 {
                   "word": "Quant",
                   "lemma": "quant",
-                  "pos": "preposition",
-                  "meaning": "as for / regarding (quant à)"
+                  "pos": "adverb",
+                  "meaning": "as for"
                 },
                 {
                   "word": "au",
                   "lemma": "au",
                   "pos": "preposition",
-                  "meaning": "to the / at the (masc.)"
+                  "meaning": "to the"
                 },
                 {
                   "word": "douanier",
@@ -8487,7 +8609,7 @@ export const carmenAct3: Act = {
                   "word": "c",
                   "lemma": "ce",
                   "pos": "pronoun",
-                  "meaning": "this / it (elided)"
+                  "meaning": "it / this"
                 },
                 {
                   "word": "est",
@@ -8498,27 +8620,149 @@ export const carmenAct3: Act = {
                 {
                   "word": "notre",
                   "lemma": "notre",
-                  "pos": "pronoun",
-                  "meaning": "our (sg.)"
+                  "pos": "noun",
+                  "meaning": "our"
                 },
                 {
                   "word": "affaire",
                   "lemma": "affaire",
                   "pos": "noun",
-                  "meaning": "matter / business / affair"
+                  "meaning": "affair / business"
                 }
               ]
             },
             {
               "id": "a3_s3_c23_l2",
-              "original": "Etc.",
-              "literal": "etc.",
+              "original": "tout comme un autre il aime à plaire,",
+              "literal": "just like anyone else he likes to please,",
               "tokens": [
                 {
-                  "word": "Etc",
-                  "lemma": "etc.",
+                  "word": "tout",
+                  "lemma": "tout",
                   "pos": "adverb",
-                  "meaning": "et cetera / and so forth"
+                  "meaning": "just / completely"
+                },
+                {
+                  "word": "comme",
+                  "lemma": "comme",
+                  "pos": "preposition",
+                  "meaning": "like / as"
+                },
+                {
+                  "word": "un",
+                  "lemma": "un",
+                  "pos": "noun",
+                  "meaning": "an"
+                },
+                {
+                  "word": "autre",
+                  "lemma": "autre",
+                  "pos": "pronoun",
+                  "meaning": "other"
+                },
+                {
+                  "word": "il",
+                  "lemma": "il",
+                  "pos": "pronoun",
+                  "meaning": "he"
+                },
+                {
+                  "word": "aime",
+                  "lemma": "aimer",
+                  "pos": "verb",
+                  "meaning": "likes / loves (3rd sg. pres.)"
+                },
+                {
+                  "word": "à",
+                  "lemma": "à",
+                  "pos": "preposition",
+                  "meaning": "to"
+                },
+                {
+                  "word": "plaire",
+                  "lemma": "plaire",
+                  "pos": "verb",
+                  "meaning": "to please"
+                }
+              ]
+            },
+            {
+              "id": "a3_s3_c23_l3",
+              "original": "il aime à faire le galant,",
+              "literal": "he likes to play the gallant,",
+              "tokens": [
+                {
+                  "word": "il",
+                  "lemma": "il",
+                  "pos": "pronoun",
+                  "meaning": "he"
+                },
+                {
+                  "word": "aime",
+                  "lemma": "aimer",
+                  "pos": "verb",
+                  "meaning": "likes (3rd sg. pres.)"
+                },
+                {
+                  "word": "à",
+                  "lemma": "à",
+                  "pos": "preposition",
+                  "meaning": "to"
+                },
+                {
+                  "word": "faire",
+                  "lemma": "faire",
+                  "pos": "verb",
+                  "meaning": "to make / do / play"
+                },
+                {
+                  "word": "le",
+                  "lemma": "le",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "galant",
+                  "lemma": "galant",
+                  "pos": "noun",
+                  "meaning": "gallant / courteous man"
+                }
+              ]
+            },
+            {
+              "id": "a3_s3_c23_l4",
+              "original": "ah ! laissez-nous passer en avant !",
+              "literal": "ah! let us pass on ahead!",
+              "tokens": [
+                {
+                  "word": "ah",
+                  "lemma": "ah",
+                  "pos": "interjection",
+                  "meaning": "ah"
+                },
+                {
+                  "word": "laissez-nous",
+                  "lemma": "laisser",
+                  "pos": "verb",
+                  "meaning": "let us (laisser + nous)"
+                },
+                {
+                  "word": "passer",
+                  "lemma": "passer",
+                  "pos": "verb",
+                  "meaning": "to pass"
+                },
+                {
+                  "word": "en",
+                  "lemma": "en",
+                  "pos": "preposition",
+                  "meaning": "in / on"
+                },
+                {
+                  "word": "avant",
+                  "lemma": "avant",
+                  "pos": "adverb",
+                  "meaning": "ahead / forward"
                 }
               ]
             }
@@ -14197,32 +14441,112 @@ export const carmenAct3: Act = {
                   "word": "Enfin",
                   "lemma": "enfin",
                   "pos": "adverb",
-                  "meaning": "finally / at last"
+                  "meaning": "at last / finally"
                 },
                 {
                   "word": "ma",
                   "lemma": "mon",
-                  "pos": "pronoun",
+                  "pos": "noun",
                   "meaning": "my (fem. sg.)"
                 },
                 {
                   "word": "colère",
                   "lemma": "colère",
                   "pos": "noun",
-                  "meaning": "anger / rage / wrath"
+                  "meaning": "anger / rage"
                 }
               ]
             },
             {
               "id": "a3_s6_c34_l2",
-              "original": "Etc.",
-              "literal": "etc.",
+              "original": "trouve à qui parler !",
+              "literal": "finds someone to speak to!",
               "tokens": [
                 {
-                  "word": "Etc",
-                  "lemma": "etc.",
+                  "word": "trouve",
+                  "lemma": "trouver",
+                  "pos": "verb",
+                  "meaning": "finds (3rd sg. pres.)"
+                },
+                {
+                  "word": "à",
+                  "lemma": "à",
+                  "pos": "preposition",
+                  "meaning": "to"
+                },
+                {
+                  "word": "qui",
+                  "lemma": "qui",
+                  "pos": "pronoun",
+                  "meaning": "whom / who"
+                },
+                {
+                  "word": "parler",
+                  "lemma": "parler",
+                  "pos": "verb",
+                  "meaning": "to speak"
+                }
+              ]
+            },
+            {
+              "id": "a3_s6_c34_l3",
+              "original": "Le sang, je l’espère,",
+              "literal": "Blood, I hope,",
+              "tokens": [
+                {
+                  "word": "Le",
+                  "lemma": "le",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "sang",
+                  "lemma": "sang",
+                  "pos": "noun",
+                  "meaning": "blood"
+                },
+                {
+                  "word": "je",
+                  "lemma": "je",
+                  "pos": "pronoun",
+                  "meaning": "I"
+                },
+                {
+                  "word": "l",
+                  "lemma": "le",
+                  "pos": "noun",
+                  "meaning": "it"
+                },
+                {
+                  "word": "espère",
+                  "lemma": "espérer",
+                  "pos": "verb",
+                  "meaning": "hope (1st sg. pres.)"
+                }
+              ]
+            },
+            {
+              "id": "a3_s6_c34_l4",
+              "original": "va bientôt couler !",
+              "literal": "will soon flow!",
+              "tokens": [
+                {
+                  "word": "va",
+                  "lemma": "aller",
+                  "pos": "verb",
+                  "meaning": "goes / will (3rd sg. pres.)"
+                },
+                {
+                  "word": "bientôt",
+                  "lemma": "bientôt",
                   "pos": "adverb",
-                  "meaning": "et cetera / and so forth"
+                  "meaning": "soon"
+                },
+                {
+                  "word": "couler",
+                  "lemma": "couler",
+                  "pos": "verb",
+                  "meaning": "to flow / run"
                 }
               ]
             }
@@ -14235,32 +14559,112 @@ export const carmenAct3: Act = {
             {
               "id": "a3_s6_c35_l1",
               "original": "Quelle maladresse !",
-              "literal": "What awkwardness!",
+              "literal": "What clumsiness!",
               "tokens": [
                 {
                   "word": "Quelle",
                   "lemma": "quel",
                   "pos": "adjective",
-                  "meaning": "what / which (fem.)"
+                  "meaning": "what (fem. sg.)"
                 },
                 {
                   "word": "maladresse",
                   "lemma": "maladresse",
                   "pos": "noun",
-                  "meaning": "clumsiness / awkwardness / blunder"
+                  "meaning": "clumsiness / awkwardness"
                 }
               ]
             },
             {
               "id": "a3_s6_c35_l2",
-              "original": "Etc.",
-              "literal": "etc.",
+              "original": "J’en rirais vraiment,",
+              "literal": "I would truly laugh at it,",
               "tokens": [
                 {
-                  "word": "Etc",
-                  "lemma": "etc.",
+                  "word": "J",
+                  "lemma": "je",
+                  "pos": "pronoun",
+                  "meaning": "I"
+                },
+                {
+                  "word": "en",
+                  "lemma": "en",
+                  "pos": "pronoun",
+                  "meaning": "at it / of it"
+                },
+                {
+                  "word": "rirais",
+                  "lemma": "rire",
+                  "pos": "verb",
+                  "meaning": "would laugh (1st sg. cond.)"
+                },
+                {
+                  "word": "vraiment",
+                  "lemma": "vraiment",
                   "pos": "adverb",
-                  "meaning": "et cetera / and so forth"
+                  "meaning": "truly / really"
+                }
+              ]
+            },
+            {
+              "id": "a3_s6_c35_l3",
+              "original": "si pour ma maîtresse",
+              "literal": "if for my mistress",
+              "tokens": [
+                {
+                  "word": "si",
+                  "lemma": "si",
+                  "pos": "conjunction",
+                  "meaning": "if"
+                },
+                {
+                  "word": "pour",
+                  "lemma": "pour",
+                  "pos": "preposition",
+                  "meaning": "for"
+                },
+                {
+                  "word": "ma",
+                  "lemma": "mon",
+                  "pos": "noun",
+                  "meaning": "my"
+                },
+                {
+                  "word": "maîtresse",
+                  "lemma": "maîtresse",
+                  "pos": "noun",
+                  "meaning": "mistress / lady"
+                }
+              ]
+            },
+            {
+              "id": "a3_s6_c35_l4",
+              "original": "je n’étais tremblant !",
+              "literal": "I were not trembling!",
+              "tokens": [
+                {
+                  "word": "je",
+                  "lemma": "je",
+                  "pos": "pronoun",
+                  "meaning": "I"
+                },
+                {
+                  "word": "n",
+                  "lemma": "ne",
+                  "pos": "adverb",
+                  "meaning": "not"
+                },
+                {
+                  "word": "étais",
+                  "lemma": "être",
+                  "pos": "verb",
+                  "meaning": "was (1st sg. imperf.)"
+                },
+                {
+                  "word": "tremblant",
+                  "lemma": "trembler",
+                  "pos": "verb",
+                  "meaning": "trembling (pres. part.)"
                 }
               ]
             }

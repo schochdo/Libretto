@@ -3582,36 +3582,36 @@ export const normaAct2: Act = {
             },
             {
               "id": "a2_s3_c21_l3",
-              "original": "Mira, o Norma, a' tuoi ginocchi, ecc.",
-              "literal": "Look, O Norma, at your knees, etc.",
+              "original": "Mira, o Norma, a' tuoi ginocchi",
+              "literal": "Look, o Norma, at your knees",
               "tokens": [
                 {
                   "word": "Mira",
-                  "lemma": "mira",
-                  "pos": "noun",
-                  "meaning": "aim / goal / behold"
+                  "lemma": "mirare",
+                  "pos": "verb",
+                  "meaning": "look (2nd sg. imper.)"
                 },
                 {
                   "word": "o",
                   "lemma": "o",
-                  "pos": "noun",
-                  "meaning": "or"
+                  "pos": "interjection",
+                  "meaning": "o"
                 },
                 {
                   "word": "Norma",
                   "lemma": "Norma",
                   "pos": "noun",
-                  "meaning": "Norma (high priestess of the Druids)"
+                  "meaning": "Norma"
                 },
                 {
                   "word": "a",
                   "lemma": "a",
-                  "pos": "noun",
-                  "meaning": "to / at"
+                  "pos": "preposition",
+                  "meaning": "at"
                 },
                 {
                   "word": "tuoi",
-                  "lemma": "tuoi",
+                  "lemma": "tuo",
                   "pos": "noun",
                   "meaning": "your"
                 },
@@ -3619,16 +3619,120 @@ export const normaAct2: Act = {
                   "word": "ginocchi",
                   "lemma": "ginocchio",
                   "pos": "noun",
-                  "meaning": "plural of ginocchio"
+                  "meaning": "knees"
+                }
+              ]
+            },
+            {
+              "id": "a2_s3_c21_l4",
+              "original": "questi cari pargoletti;",
+              "literal": "these dear little children;",
+              "tokens": [
+                {
+                  "word": "questi",
+                  "lemma": "questo",
+                  "pos": "adjective",
+                  "meaning": "these"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "cari",
+                  "lemma": "caro",
+                  "pos": "adjective",
+                  "meaning": "dear"
+                },
+                {
+                  "word": "pargoletti",
+                  "lemma": "pargoletto",
+                  "pos": "noun",
+                  "meaning": "little children"
                 }
-              ],
-              "grammarNote": "'Look, o Norma, at your knees these dear little ones crying.' The sublime bel canto duet where Adalgisa pleads for Norma's children and refuses to marry Pollione."
+              ]
+            },
+            {
+              "id": "a2_s3_c21_l5",
+              "original": "ah! per te pietà si tocchi,",
+              "literal": "ah! let pity be touched for you,",
+              "tokens": [
+                {
+                  "word": "ah",
+                  "lemma": "ah",
+                  "pos": "interjection",
+                  "meaning": "ah"
+                },
+                {
+                  "word": "per",
+                  "lemma": "per",
+                  "pos": "preposition",
+                  "meaning": "for"
+                },
+                {
+                  "word": "te",
+                  "lemma": "te",
+                  "pos": "pronoun",
+                  "meaning": "you"
+                },
+                {
+                  "word": "pietà",
+                  "lemma": "pietà",
+                  "pos": "noun",
+                  "meaning": "pity"
+                },
+                {
+                  "word": "si",
+                  "lemma": "si",
+                  "pos": "pronoun",
+                  "meaning": "itself"
+                },
+                {
+                  "word": "tocchi",
+                  "lemma": "toccare",
+                  "pos": "verb",
+                  "meaning": "touch (3rd sg. subj.)"
+                }
+              ]
+            },
+            {
+              "id": "a2_s3_c21_l6",
+              "original": "se non hai di te pietà!",
+              "literal": "if you have no pity on yourself!",
+              "tokens": [
+                {
+                  "word": "se",
+                  "lemma": "se",
+                  "pos": "conjunction",
+                  "meaning": "if"
+                },
+                {
+                  "word": "non",
+                  "lemma": "non",
+                  "pos": "adverb",
+                  "meaning": "not"
+                },
+                {
+                  "word": "hai",
+                  "lemma": "avere",
+                  "pos": "verb",
+                  "meaning": "have (2nd sg. pres.)"
+                },
+                {
+                  "word": "di",
+                  "lemma": "di",
+                  "pos": "preposition",
+                  "meaning": "of / on"
+                },
+                {
+                  "word": "te",
+                  "lemma": "te",
+                  "pos": "pronoun",
+                  "meaning": "yourself"
+                },
+                {
+                  "word": "pietà",
+                  "lemma": "pietà",
+                  "pos": "noun",
+                  "meaning": "pity"
+                }
+              ]
             }
           ]
         },
@@ -3638,36 +3742,36 @@ export const normaAct2: Act = {
           "lines": [
             {
               "id": "a2_s3_c22_l1",
-              "original": "Ah! Perchè, perchè la mia costanza, ecc.",
-              "literal": "Ah! Why, because my constancy, etc.",
+              "original": "Ah! perché, perché la mia costanza",
+              "literal": "Ah! why, why my constancy",
               "tokens": [
                 {
                   "word": "Ah",
                   "lemma": "ah",
-                  "pos": "noun",
+                  "pos": "interjection",
                   "meaning": "ah"
                 },
                 {
-                  "word": "Perchè",
-                  "lemma": "perchè",
+                  "word": "perché",
+                  "lemma": "perché",
                   "pos": "adverb",
-                  "meaning": "misspelling of perché"
+                  "meaning": "why"
                 },
                 {
-                  "word": "perchè",
-                  "lemma": "perchè",
+                  "word": "perché",
+                  "lemma": "perché",
                   "pos": "adverb",
-                  "meaning": "misspelling of perché"
+                  "meaning": "why"
                 },
                 {
                   "word": "la",
-                  "lemma": "la",
+                  "lemma": "il",
                   "pos": "noun",
-                  "meaning": "the / her / it"
+                  "meaning": "the"
                 },
                 {
                   "word": "mia",
-                  "lemma": "mia",
+                  "lemma": "mio",
                   "pos": "noun",
                   "meaning": "my"
                 },
@@ -3675,13 +3779,136 @@ export const normaAct2: Act = {
                   "word": "costanza",
                   "lemma": "costanza",
                   "pos": "noun",
-                  "meaning": "constancy / steadfastness"
+                  "meaning": "constancy / resolve"
+                }
+              ]
+            },
+            {
+              "id": "a2_s3_c22_l2",
+              "original": "vuoi scemar con questi pianti?",
+              "literal": "do you wish to lessen with these tears?",
+              "tokens": [
+                {
+                  "word": "vuoi",
+                  "lemma": "volere",
+                  "pos": "verb",
+                  "meaning": "do you want (2nd sg. pres.)"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
+                  "word": "scemar",
+                  "lemma": "scemare",
+                  "pos": "verb",
+                  "meaning": "to diminish / lessen"
+                },
+                {
+                  "word": "con",
+                  "lemma": "con",
+                  "pos": "preposition",
+                  "meaning": "with"
+                },
+                {
+                  "word": "questi",
+                  "lemma": "questo",
+                  "pos": "adjective",
+                  "meaning": "these"
+                },
+                {
+                  "word": "pianti",
+                  "lemma": "pianto",
+                  "pos": "noun",
+                  "meaning": "tears / weeping"
+                }
+              ]
+            },
+            {
+              "id": "a2_s3_c22_l3",
+              "original": "Più non v'ha per me speranza,",
+              "literal": "No longer is there hope for me,",
+              "tokens": [
+                {
+                  "word": "Più",
+                  "lemma": "più",
                   "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "meaning": "more / longer"
+                },
+                {
+                  "word": "non",
+                  "lemma": "non",
+                  "pos": "adverb",
+                  "meaning": "not"
+                },
+                {
+                  "word": "v",
+                  "lemma": "vi",
+                  "pos": "pronoun",
+                  "meaning": "there"
+                },
+                {
+                  "word": "ha",
+                  "lemma": "avere",
+                  "pos": "verb",
+                  "meaning": "is / has (3rd sg. pres.)"
+                },
+                {
+                  "word": "per",
+                  "lemma": "per",
+                  "pos": "preposition",
+                  "meaning": "for"
+                },
+                {
+                  "word": "me",
+                  "lemma": "me",
+                  "pos": "pronoun",
+                  "meaning": "me"
+                },
+                {
+                  "word": "speranza",
+                  "lemma": "speranza",
+                  "pos": "noun",
+                  "meaning": "hope"
+                }
+              ]
+            },
+            {
+              "id": "a2_s3_c22_l4",
+              "original": "io nol posso, nol poss'io!",
+              "literal": "I cannot do it, I cannot!",
+              "tokens": [
+                {
+                  "word": "io",
+                  "lemma": "io",
+                  "pos": "pronoun",
+                  "meaning": "I"
+                },
+                {
+                  "word": "nol",
+                  "lemma": "non",
+                  "pos": "adverb",
+                  "meaning": "not it"
+                },
+                {
+                  "word": "posso",
+                  "lemma": "potere",
+                  "pos": "verb",
+                  "meaning": "I can (1st sg. pres.)"
+                },
+                {
+                  "word": "nol",
+                  "lemma": "non",
+                  "pos": "adverb",
+                  "meaning": "not it"
+                },
+                {
+                  "word": "poss",
+                  "lemma": "potere",
+                  "pos": "verb",
+                  "meaning": "can (1st sg. pres.)"
+                },
+                {
+                  "word": "io",
+                  "lemma": "io",
+                  "pos": "pronoun",
+                  "meaning": "I"
                 }
               ]
             }
@@ -12277,36 +12504,36 @@ export const normaAct2: Act = {
           "lines": [
             {
               "id": "a2_s10_c31_l1",
-              "original": "Già mi pasco ne' tuoi sguardi, ecc",
-              "literal": "I already feed on your looks, etc",
+              "original": "Già mi pasco ne' tuoi sguardi;",
+              "literal": "Already I feast upon your looks;",
               "tokens": [
                 {
                   "word": "Già",
                   "lemma": "già",
-                  "pos": "noun",
+                  "pos": "adverb",
                   "meaning": "already"
                 },
                 {
                   "word": "mi",
                   "lemma": "mi",
-                  "pos": "noun",
-                  "meaning": "me / to-me"
+                  "pos": "pronoun",
+                  "meaning": "myself"
                 },
                 {
                   "word": "pasco",
-                  "lemma": "pasco",
-                  "pos": "noun",
-                  "meaning": "pasture / feeding"
+                  "lemma": "pascere",
+                  "pos": "verb",
+                  "meaning": "I feast / feed (1st sg. pres.)"
                 },
                 {
                   "word": "ne",
-                  "lemma": "ne",
-                  "pos": "noun",
-                  "meaning": "of-it / of-them"
+                  "lemma": "in",
+                  "pos": "preposition",
+                  "meaning": "in the"
                 },
                 {
                   "word": "tuoi",
-                  "lemma": "tuoi",
+                  "lemma": "tuo",
                   "pos": "noun",
                   "meaning": "your"
                 },
@@ -12314,13 +12541,136 @@ export const normaAct2: Act = {
                   "word": "sguardi",
                   "lemma": "sguardo",
                   "pos": "noun",
-                  "meaning": "plural of sguardo"
+                  "meaning": "looks / glances"
+                }
+              ]
+            },
+            {
+              "id": "a2_s10_c31_l2",
+              "original": "del tuo pene omai son paga;",
+              "literal": "for your pains now I am satisfied;",
+              "tokens": [
+                {
+                  "word": "del",
+                  "lemma": "del",
+                  "pos": "preposition",
+                  "meaning": "of / for the"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "ecc",
+                  "word": "tuo",
+                  "lemma": "tuo",
                   "pos": "noun",
-                  "meaning": "ecc"
+                  "meaning": "your"
+                },
+                {
+                  "word": "pene",
+                  "lemma": "pena",
+                  "pos": "noun",
+                  "meaning": "pains / punishments"
+                },
+                {
+                  "word": "omai",
+                  "lemma": "omai",
+                  "pos": "adverb",
+                  "meaning": "now / by now (poetic)"
+                },
+                {
+                  "word": "son",
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "I am (1st sg. pres.)"
+                },
+                {
+                  "word": "paga",
+                  "lemma": "pago",
+                  "pos": "adjective",
+                  "meaning": "satisfied / content"
+                }
+              ]
+            },
+            {
+              "id": "a2_s10_c31_l3",
+              "original": "l'ardir mio ti renda pago,",
+              "literal": "let my courage satisfy you,",
+              "tokens": [
+                {
+                  "word": "l",
+                  "lemma": "il",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "ardir",
+                  "lemma": "ardire",
+                  "pos": "noun",
+                  "meaning": "boldness / courage"
+                },
+                {
+                  "word": "mio",
+                  "lemma": "mio",
+                  "pos": "noun",
+                  "meaning": "my"
+                },
+                {
+                  "word": "ti",
+                  "lemma": "ti",
+                  "pos": "pronoun",
+                  "meaning": "you"
+                },
+                {
+                  "word": "renda",
+                  "lemma": "rendere",
+                  "pos": "verb",
+                  "meaning": "make / render (3rd sg. subj.)"
+                },
+                {
+                  "word": "pago",
+                  "lemma": "pago",
+                  "pos": "adjective",
+                  "meaning": "satisfied"
+                }
+              ]
+            },
+            {
+              "id": "a2_s10_c31_l4",
+              "original": "trema adesso al par di me!",
+              "literal": "tremble now just as I did!",
+              "tokens": [
+                {
+                  "word": "trema",
+                  "lemma": "tremare",
+                  "pos": "verb",
+                  "meaning": "tremble (2nd sg. imper.)"
+                },
+                {
+                  "word": "adesso",
+                  "lemma": "adesso",
+                  "pos": "adverb",
+                  "meaning": "now"
+                },
+                {
+                  "word": "al",
+                  "lemma": "al",
+                  "pos": "preposition",
+                  "meaning": "to the"
+                },
+                {
+                  "word": "par",
+                  "lemma": "pari",
+                  "pos": "adjective",
+                  "meaning": "equal / like"
+                },
+                {
+                  "word": "di",
+                  "lemma": "di",
+                  "pos": "preposition",
+                  "meaning": "of"
+                },
+                {
+                  "word": "me",
+                  "lemma": "me",
+                  "pos": "pronoun",
+                  "meaning": "me"
                 }
               ]
             }
@@ -16387,14 +16737,14 @@ export const normaAct2: Act = {
             },
             {
               "id": "a2_s11_c49_l3",
-              "original": "Quel pianto il dice, ecc.",
-              "literal": "That cry says it, etc.",
+              "original": "Quel pianto il dice: io son perdonata!",
+              "literal": "Those tears say it: I am forgiven!",
               "tokens": [
                 {
                   "word": "Quel",
-                  "lemma": "quel",
-                  "pos": "noun",
-                  "meaning": "that"
+                  "lemma": "quello",
+                  "pos": "adjective",
+                  "meaning": "that / those"
                 },
                 {
                   "word": "pianto",
@@ -16405,20 +16755,75 @@ export const normaAct2: Act = {
                 {
                   "word": "il",
                   "lemma": "il",
-                  "pos": "noun",
-                  "meaning": "the"
+                  "pos": "pronoun",
+                  "meaning": "it"
                 },
                 {
                   "word": "dice",
                   "lemma": "dire",
                   "pos": "verb",
-                  "meaning": "says"
+                  "meaning": "says (3rd sg. pres.)"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
+                  "word": "io",
+                  "lemma": "io",
+                  "pos": "pronoun",
+                  "meaning": "I"
+                },
+                {
+                  "word": "son",
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "am (1st sg. pres.)"
+                },
+                {
+                  "word": "perdonata",
+                  "lemma": "perdonare",
+                  "pos": "verb",
+                  "meaning": "forgiven (past part. fem.)"
+                }
+              ]
+            },
+            {
+              "id": "a2_s11_c49_l4",
+              "original": "Deh! non lasciarmi nell'ora estrema!",
+              "literal": "Ah! do not leave me in the final hour!",
+              "tokens": [
+                {
+                  "word": "Deh",
+                  "lemma": "deh",
+                  "pos": "interjection",
+                  "meaning": "ah / pray"
+                },
+                {
+                  "word": "non",
+                  "lemma": "non",
                   "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "meaning": "not"
+                },
+                {
+                  "word": "lasciarmi",
+                  "lemma": "lasciare",
+                  "pos": "verb",
+                  "meaning": "leave me (inf. + mi)"
+                },
+                {
+                  "word": "nell",
+                  "lemma": "nel",
+                  "pos": "preposition",
+                  "meaning": "in the"
+                },
+                {
+                  "word": "ora",
+                  "lemma": "ora",
+                  "pos": "noun",
+                  "meaning": "hour"
+                },
+                {
+                  "word": "estrema",
+                  "lemma": "estremo",
+                  "pos": "adjective",
+                  "meaning": "last / extreme"
                 }
               ]
             }
@@ -16430,44 +16835,99 @@ export const normaAct2: Act = {
           "lines": [
             {
               "id": "a2_s11_c50_l1",
-              "original": "Più non chiedo, oh ciel! ecc.",
-              "literal": "I don't ask anymore, oh heaven! etc.",
+              "original": "Più non chiedo, oh ciel! dal cielo;",
+              "literal": "No more do I ask, oh heaven! from heaven;",
               "tokens": [
                 {
                   "word": "Più",
                   "lemma": "più",
-                  "pos": "noun",
+                  "pos": "adverb",
                   "meaning": "more"
                 },
                 {
                   "word": "non",
                   "lemma": "non",
-                  "pos": "noun",
+                  "pos": "adverb",
                   "meaning": "not"
                 },
                 {
                   "word": "chiedo",
-                  "lemma": "chiedo",
-                  "pos": "noun",
-                  "meaning": "ask / demand"
+                  "lemma": "chiedere",
+                  "pos": "verb",
+                  "meaning": "I ask (1st sg. pres.)"
                 },
                 {
                   "word": "oh",
                   "lemma": "oh",
-                  "pos": "noun",
+                  "pos": "interjection",
                   "meaning": "oh"
                 },
                 {
                   "word": "ciel",
-                  "lemma": "ciel",
+                  "lemma": "cielo",
                   "pos": "noun",
-                  "meaning": "sky / heaven"
+                  "meaning": "heaven"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "dal",
+                  "lemma": "dal",
+                  "pos": "preposition",
+                  "meaning": "from the"
+                },
+                {
+                  "word": "cielo",
+                  "lemma": "cielo",
+                  "pos": "noun",
+                  "meaning": "heaven"
+                }
+              ]
+            },
+            {
+              "id": "a2_s11_c50_l2",
+              "original": "io ti seguo al rogo, o cara!",
+              "literal": "I follow you to the pyre, o beloved!",
+              "tokens": [
+                {
+                  "word": "io",
+                  "lemma": "io",
+                  "pos": "pronoun",
+                  "meaning": "I"
+                },
+                {
+                  "word": "ti",
+                  "lemma": "ti",
+                  "pos": "pronoun",
+                  "meaning": "you"
+                },
+                {
+                  "word": "seguo",
+                  "lemma": "seguire",
+                  "pos": "verb",
+                  "meaning": "I follow (1st sg. pres.)"
+                },
+                {
+                  "word": "al",
+                  "lemma": "al",
+                  "pos": "preposition",
+                  "meaning": "to the"
+                },
+                {
+                  "word": "rogo",
+                  "lemma": "rogo",
+                  "pos": "noun",
+                  "meaning": "funeral pyre / stake"
+                },
+                {
+                  "word": "o",
+                  "lemma": "o",
+                  "pos": "interjection",
+                  "meaning": "o"
+                },
+                {
+                  "word": "cara",
+                  "lemma": "caro",
+                  "pos": "adjective",
+                  "meaning": "dear / beloved"
                 }
               ]
             }
@@ -16648,57 +17108,75 @@ export const normaAct2: Act = {
           "lines": [
             {
               "id": "a2_s11_c52_l1",
-              "original": "Che mai spera? ecc.",
-              "literal": "What on earth do you hope for? etc.",
+              "original": "Che mai spera? Il ciel s'accenda!",
+              "literal": "What can she hope for? Let heaven be inflamed!",
               "tokens": [
                 {
                   "word": "Che",
                   "lemma": "che",
-                  "pos": "noun",
-                  "meaning": "that / which / what"
+                  "pos": "pronoun",
+                  "meaning": "what"
                 },
                 {
                   "word": "mai",
                   "lemma": "mai",
-                  "pos": "noun",
-                  "meaning": "never / ever"
+                  "pos": "adverb",
+                  "meaning": "ever"
                 },
                 {
                   "word": "spera",
-                  "lemma": "spera",
+                  "lemma": "sperare",
                   "pos": "verb",
-                  "meaning": "spera"
+                  "meaning": "she hopes (3rd sg. pres.)"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "Il",
+                  "lemma": "il",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "ciel",
+                  "lemma": "cielo",
+                  "pos": "noun",
+                  "meaning": "heaven"
+                },
+                {
+                  "word": "s",
+                  "lemma": "si",
+                  "pos": "pronoun",
+                  "meaning": "itself"
+                },
+                {
+                  "word": "accenda",
+                  "lemma": "accendere",
+                  "pos": "verb",
+                  "meaning": "ignite / inflame (3rd sg. subj.)"
                 }
               ]
             },
             {
               "id": "a2_s11_c52_l2",
               "original": "Vanne al rogo!",
-              "literal": "Go to the stake!",
+              "literal": "Go to the pyre!",
               "tokens": [
                 {
                   "word": "Vanne",
-                  "lemma": "vanne",
+                  "lemma": "andare",
                   "pos": "verb",
-                  "meaning": "compound of va', the second-person singular imperative form of andare, with ne"
+                  "meaning": "go there (2nd sg. imper. + ne)"
                 },
                 {
                   "word": "al",
                   "lemma": "al",
-                  "pos": "noun",
-                  "meaning": "to-the"
+                  "pos": "preposition",
+                  "meaning": "to the"
                 },
                 {
                   "word": "rogo",
                   "lemma": "rogo",
                   "pos": "noun",
-                  "meaning": "pyre / bonfire; any great fire"
+                  "meaning": "pyre / stake"
                 }
               ]
             }

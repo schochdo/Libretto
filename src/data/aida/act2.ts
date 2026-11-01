@@ -7509,81 +7509,75 @@ export const aidaAct2: Act = {
                 {
                   "word": "Ma",
                   "lemma": "ma",
-                  "pos": "noun",
+                  "pos": "conjunction",
                   "meaning": "but"
                 },
                 {
                   "word": "tu",
                   "lemma": "tu",
-                  "pos": "noun",
+                  "pos": "pronoun",
                   "meaning": "you"
                 },
                 {
                   "word": "Re",
                   "lemma": "re",
                   "pos": "noun",
-                  "meaning": "king"
+                  "meaning": "King"
                 },
                 {
                   "word": "tu",
                   "lemma": "tu",
-                  "pos": "noun",
+                  "pos": "pronoun",
                   "meaning": "you"
                 },
                 {
                   "word": "signore",
                   "lemma": "signore",
                   "pos": "noun",
-                  "meaning": "Lord / Master / Sir"
+                  "meaning": "lord"
                 },
                 {
                   "word": "possente",
                   "lemma": "possente",
                   "pos": "adjective",
-                  "meaning": "strong, powerful"
+                  "meaning": "mighty / powerful"
                 }
               ]
             },
             {
               "id": "a2_s2_c18_l2",
-              "original": "A costoro ti volgi clemente, ecc.",
-              "literal": "To these you turn clemently, etc.",
+              "original": "a costoro ti volgi clemente...",
+              "literal": "turn mercifully to these people...",
               "tokens": [
                 {
-                  "word": "A",
+                  "word": "a",
                   "lemma": "a",
-                  "pos": "noun",
-                  "meaning": "to / at"
+                  "pos": "preposition",
+                  "meaning": "to"
                 },
                 {
                   "word": "costoro",
-                  "lemma": "costoro",
-                  "pos": "noun",
-                  "meaning": "these people / them"
+                  "lemma": "costui",
+                  "pos": "pronoun",
+                  "meaning": "these people"
                 },
                 {
                   "word": "ti",
                   "lemma": "ti",
-                  "pos": "noun",
-                  "meaning": "you / to-you"
+                  "pos": "pronoun",
+                  "meaning": "yourself"
                 },
                 {
                   "word": "volgi",
                   "lemma": "volgere",
                   "pos": "verb",
-                  "meaning": "second-person singular present indicative / second-person singular imperative"
+                  "meaning": "turn (2nd sg. imper.)"
                 },
                 {
                   "word": "clemente",
                   "lemma": "clemente",
                   "pos": "adjective",
-                  "meaning": "mild, lenient, clement"
-                },
-                {
-                  "word": "ecc",
-                  "lemma": "ecc",
-                  "pos": "noun",
-                  "meaning": "ecc"
+                  "meaning": "clement / merciful"
                 }
               ]
             }
@@ -8221,81 +8215,75 @@ export const aidaAct2: Act = {
                 {
                   "word": "Ma",
                   "lemma": "ma",
-                  "pos": "noun",
+                  "pos": "conjunction",
                   "meaning": "but"
                 },
                 {
                   "word": "tu",
                   "lemma": "tu",
-                  "pos": "noun",
+                  "pos": "pronoun",
                   "meaning": "you"
                 },
                 {
                   "word": "Re",
                   "lemma": "re",
                   "pos": "noun",
-                  "meaning": "king"
+                  "meaning": "King"
                 },
                 {
                   "word": "tu",
                   "lemma": "tu",
-                  "pos": "noun",
+                  "pos": "pronoun",
                   "meaning": "you"
                 },
                 {
                   "word": "signore",
                   "lemma": "signore",
                   "pos": "noun",
-                  "meaning": "Lord / Master / Sir"
+                  "meaning": "lord"
                 },
                 {
                   "word": "possente",
                   "lemma": "possente",
                   "pos": "adjective",
-                  "meaning": "strong, powerful"
+                  "meaning": "mighty / powerful"
                 }
               ]
             },
             {
               "id": "a2_s2_c24_l2",
-              "original": "A costoro ti volgi clemente, ecc.",
-              "literal": "To these you turn clemently, etc.",
+              "original": "a costoro ti volgi clemente...",
+              "literal": "turn mercifully to these people...",
               "tokens": [
                 {
-                  "word": "A",
+                  "word": "a",
                   "lemma": "a",
-                  "pos": "noun",
-                  "meaning": "to / at"
+                  "pos": "preposition",
+                  "meaning": "to"
                 },
                 {
                   "word": "costoro",
-                  "lemma": "costoro",
-                  "pos": "noun",
-                  "meaning": "these people / them"
+                  "lemma": "costui",
+                  "pos": "pronoun",
+                  "meaning": "these people"
                 },
                 {
                   "word": "ti",
                   "lemma": "ti",
-                  "pos": "noun",
-                  "meaning": "you / to-you"
+                  "pos": "pronoun",
+                  "meaning": "yourself"
                 },
                 {
                   "word": "volgi",
                   "lemma": "volgere",
                   "pos": "verb",
-                  "meaning": "second-person singular present indicative / second-person singular imperative"
+                  "meaning": "turn (2nd sg. imper.)"
                 },
                 {
                   "word": "clemente",
                   "lemma": "clemente",
                   "pos": "adjective",
-                  "meaning": "mild, lenient, clement"
-                },
-                {
-                  "word": "ecc",
-                  "lemma": "ecc",
-                  "pos": "noun",
-                  "meaning": "ecc"
+                  "meaning": "clement / merciful"
                 }
               ]
             }
@@ -9679,12 +9667,12 @@ export const aidaAct2: Act = {
           "lines": [
             {
               "id": "a2_s2_c38_l1",
-              "original": "Tua pietà, tua clemenze imploriamo, ecc.",
-              "literal": "We implore your mercy, your clemency, etc.",
+              "original": "Tua pietà, tua clemenza imploriamo,",
+              "literal": "Your mercy, your clemency we implore,",
               "tokens": [
                 {
                   "word": "Tua",
-                  "lemma": "tua",
+                  "lemma": "tuo",
                   "pos": "noun",
                   "meaning": "your"
                 },
@@ -9692,31 +9680,74 @@ export const aidaAct2: Act = {
                   "word": "pietà",
                   "lemma": "pietà",
                   "pos": "noun",
-                  "meaning": "pity / mercy / piety"
+                  "meaning": "pity / mercy"
                 },
                 {
                   "word": "tua",
-                  "lemma": "tua",
+                  "lemma": "tuo",
                   "pos": "noun",
                   "meaning": "your"
                 },
                 {
-                  "word": "clemenze",
+                  "word": "clemenza",
                   "lemma": "clemenza",
                   "pos": "noun",
-                  "meaning": "plural of clemenza"
+                  "meaning": "clemency / mercy"
                 },
                 {
                   "word": "imploriamo",
                   "lemma": "implorare",
                   "pos": "verb",
-                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
+                  "meaning": "we implore (1st pl. pres.)"
+                }
+              ]
+            },
+            {
+              "id": "a2_s2_c38_l2",
+              "original": "deh! sia il tuo scettro a percuoter!",
+              "literal": "ah! let your scepter refrain from striking!",
+              "tokens": [
+                {
+                  "word": "deh",
+                  "lemma": "deh",
+                  "pos": "interjection",
+                  "meaning": "ah / pray"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "ecc",
+                  "word": "sia",
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "let it be (3rd sg. subj.)"
+                },
+                {
+                  "word": "il",
+                  "lemma": "il",
                   "pos": "noun",
-                  "meaning": "ecc"
+                  "meaning": "the"
+                },
+                {
+                  "word": "tuo",
+                  "lemma": "tuo",
+                  "pos": "noun",
+                  "meaning": "your"
+                },
+                {
+                  "word": "scettro",
+                  "lemma": "scettro",
+                  "pos": "noun",
+                  "meaning": "scepter"
+                },
+                {
+                  "word": "a",
+                  "lemma": "a",
+                  "pos": "preposition",
+                  "meaning": "to"
+                },
+                {
+                  "word": "percuoter",
+                  "lemma": "percuotere",
+                  "pos": "verb",
+                  "meaning": "strike"
                 }
               ]
             }
@@ -10363,56 +10394,87 @@ export const aidaAct2: Act = {
           "lines": [
             {
               "id": "a2_s2_c44_l1",
-              "original": "Ma tu, o Re, tu signore possente, ecc.",
-              "literal": "But you, O King, you mighty lord, etc.",
+              "original": "Ma tu, o Re, tu signore possente,",
+              "literal": "But you, o King, you mighty lord,",
               "tokens": [
                 {
                   "word": "Ma",
                   "lemma": "ma",
-                  "pos": "noun",
+                  "pos": "conjunction",
                   "meaning": "but"
                 },
                 {
                   "word": "tu",
                   "lemma": "tu",
-                  "pos": "noun",
+                  "pos": "pronoun",
                   "meaning": "you"
                 },
                 {
                   "word": "o",
                   "lemma": "o",
-                  "pos": "noun",
-                  "meaning": "or"
+                  "pos": "interjection",
+                  "meaning": "o"
                 },
                 {
                   "word": "Re",
                   "lemma": "re",
                   "pos": "noun",
-                  "meaning": "king"
+                  "meaning": "King"
                 },
                 {
                   "word": "tu",
                   "lemma": "tu",
-                  "pos": "noun",
+                  "pos": "pronoun",
                   "meaning": "you"
                 },
                 {
                   "word": "signore",
                   "lemma": "signore",
                   "pos": "noun",
-                  "meaning": "Lord / Master / Sir"
+                  "meaning": "lord"
                 },
                 {
                   "word": "possente",
                   "lemma": "possente",
                   "pos": "adjective",
-                  "meaning": "strong, powerful"
+                  "meaning": "mighty"
+                }
+              ]
+            },
+            {
+              "id": "a2_s2_c44_l2",
+              "original": "a costoro ti volgi clemente...",
+              "literal": "turn mercifully to these people...",
+              "tokens": [
+                {
+                  "word": "a",
+                  "lemma": "a",
+                  "pos": "preposition",
+                  "meaning": "to"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "costoro",
+                  "lemma": "costui",
+                  "pos": "pronoun",
+                  "meaning": "these people"
+                },
+                {
+                  "word": "ti",
+                  "lemma": "ti",
+                  "pos": "pronoun",
+                  "meaning": "yourself"
+                },
+                {
+                  "word": "volgi",
+                  "lemma": "volgere",
+                  "pos": "verb",
+                  "meaning": "turn (2nd sg. imper.)"
+                },
+                {
+                  "word": "clemente",
+                  "lemma": "clemente",
+                  "pos": "adjective",
+                  "meaning": "clement / merciful"
                 }
               ]
             }
@@ -10424,8 +10486,8 @@ export const aidaAct2: Act = {
           "lines": [
             {
               "id": "a2_s2_c45_l1",
-              "original": "(Il dolor la rende più bella, ecc.)",
-              "literal": "(Grief makes her even more beautiful, etc.)",
+              "original": "Il dolor che in quel volto favella,",
+              "literal": "The grief that speaks in that face,",
               "tokens": [
                 {
                   "word": "Il",
@@ -10437,37 +10499,86 @@ export const aidaAct2: Act = {
                   "word": "dolor",
                   "lemma": "dolore",
                   "pos": "noun",
-                  "meaning": "ache, pain / sorrow, grief"
+                  "meaning": "grief / sorrow"
+                },
+                {
+                  "word": "che",
+                  "lemma": "che",
+                  "pos": "pronoun",
+                  "meaning": "that / which"
+                },
+                {
+                  "word": "in",
+                  "lemma": "in",
+                  "pos": "preposition",
+                  "meaning": "in"
+                },
+                {
+                  "word": "quel",
+                  "lemma": "quello",
+                  "pos": "adjective",
+                  "meaning": "that"
+                },
+                {
+                  "word": "volto",
+                  "lemma": "volto",
+                  "pos": "noun",
+                  "meaning": "face"
+                },
+                {
+                  "word": "favella",
+                  "lemma": "favellare",
+                  "pos": "verb",
+                  "meaning": "speaks (3rd sg. pres.)"
+                }
+              ]
+            },
+            {
+              "id": "a2_s2_c45_l2",
+              "original": "al mio sguardo la rende più bella;",
+              "literal": "to my gaze makes her even more beautiful;",
+              "tokens": [
+                {
+                  "word": "al",
+                  "lemma": "al",
+                  "pos": "preposition",
+                  "meaning": "to the"
+                },
+                {
+                  "word": "mio",
+                  "lemma": "mio",
+                  "pos": "noun",
+                  "meaning": "my"
+                },
+                {
+                  "word": "sguardo",
+                  "lemma": "sguardo",
+                  "pos": "noun",
+                  "meaning": "gaze / look"
                 },
                 {
                   "word": "la",
                   "lemma": "la",
-                  "pos": "noun",
-                  "meaning": "the / her / it"
+                  "pos": "pronoun",
+                  "meaning": "her"
                 },
                 {
                   "word": "rende",
                   "lemma": "rendere",
                   "pos": "verb",
-                  "meaning": "third-person singular present indicative of rendere"
+                  "meaning": "makes / renders (3rd sg. pres.)"
                 },
                 {
                   "word": "più",
                   "lemma": "più",
-                  "pos": "noun",
+                  "pos": "adverb",
                   "meaning": "more"
                 },
                 {
                   "word": "bella",
                   "lemma": "bello",
                   "pos": "adjective",
-                  "meaning": "beautiful / fair (feminine)"
-                },
-                {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "meaning": "beautiful"
                 }
               ]
             }
@@ -10479,56 +10590,87 @@ export const aidaAct2: Act = {
           "lines": [
             {
               "id": "a2_s2_c46_l1",
-              "original": "Ma tu, o Re, tu signore possente, ecc.",
-              "literal": "But you, O King, you mighty lord, etc.",
+              "original": "Ma tu, o Re, tu signore possente,",
+              "literal": "But you, o King, you mighty lord,",
               "tokens": [
                 {
                   "word": "Ma",
                   "lemma": "ma",
-                  "pos": "noun",
+                  "pos": "conjunction",
                   "meaning": "but"
                 },
                 {
                   "word": "tu",
                   "lemma": "tu",
-                  "pos": "noun",
+                  "pos": "pronoun",
                   "meaning": "you"
                 },
                 {
                   "word": "o",
                   "lemma": "o",
-                  "pos": "noun",
-                  "meaning": "or"
+                  "pos": "interjection",
+                  "meaning": "o"
                 },
                 {
                   "word": "Re",
                   "lemma": "re",
                   "pos": "noun",
-                  "meaning": "king"
+                  "meaning": "King"
                 },
                 {
                   "word": "tu",
                   "lemma": "tu",
-                  "pos": "noun",
+                  "pos": "pronoun",
                   "meaning": "you"
                 },
                 {
                   "word": "signore",
                   "lemma": "signore",
                   "pos": "noun",
-                  "meaning": "Lord / Master / Sir"
+                  "meaning": "lord"
                 },
                 {
                   "word": "possente",
                   "lemma": "possente",
                   "pos": "adjective",
-                  "meaning": "strong, powerful"
+                  "meaning": "mighty"
+                }
+              ]
+            },
+            {
+              "id": "a2_s2_c46_l2",
+              "original": "a costoro ti volgi clemente...",
+              "literal": "turn mercifully to these people...",
+              "tokens": [
+                {
+                  "word": "a",
+                  "lemma": "a",
+                  "pos": "preposition",
+                  "meaning": "to"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "costoro",
+                  "lemma": "costui",
+                  "pos": "pronoun",
+                  "meaning": "these people"
+                },
+                {
+                  "word": "ti",
+                  "lemma": "ti",
+                  "pos": "pronoun",
+                  "meaning": "yourself"
+                },
+                {
+                  "word": "volgi",
+                  "lemma": "volgere",
+                  "pos": "verb",
+                  "meaning": "turn (2nd sg. imper.)"
+                },
+                {
+                  "word": "clemente",
+                  "lemma": "clemente",
+                  "pos": "adjective",
+                  "meaning": "clement / merciful"
                 }
               ]
             }
@@ -10540,50 +10682,93 @@ export const aidaAct2: Act = {
           "lines": [
             {
               "id": "a2_s2_c47_l1",
-              "original": "La pietà sale ai Numi gradita, ecc.",
-              "literal": "Mercy ascends pleasing to the Gods, etc.",
+              "original": "La pietà sale ai Numi gradita,",
+              "literal": "Mercy ascends pleasing to the Gods,",
               "tokens": [
                 {
                   "word": "La",
-                  "lemma": "la",
+                  "lemma": "il",
                   "pos": "noun",
-                  "meaning": "the / her / it"
+                  "meaning": "the"
                 },
                 {
                   "word": "pietà",
                   "lemma": "pietà",
                   "pos": "noun",
-                  "meaning": "pity / mercy / piety"
+                  "meaning": "pity / mercy"
                 },
                 {
                   "word": "sale",
-                  "lemma": "sale",
-                  "pos": "noun",
-                  "meaning": "salt / rises"
+                  "lemma": "salire",
+                  "pos": "verb",
+                  "meaning": "ascends (3rd sg. pres.)"
                 },
                 {
                   "word": "ai",
-                  "lemma": "ai",
-                  "pos": "noun",
-                  "meaning": "to-the"
+                  "lemma": "al",
+                  "pos": "preposition",
+                  "meaning": "to the"
                 },
                 {
                   "word": "Numi",
-                  "lemma": "numi",
+                  "lemma": "nume",
                   "pos": "noun",
-                  "meaning": "deities / gods"
+                  "meaning": "gods"
                 },
                 {
                   "word": "gradita",
                   "lemma": "gradito",
                   "pos": "adjective",
-                  "meaning": "feminine singular of gradito"
+                  "meaning": "pleasing / welcome"
+                }
+              ]
+            },
+            {
+              "id": "a2_s2_c47_l2",
+              "original": "e ai potenti fa scettro ed allor.",
+              "literal": "and for the mighty makes scepter and laurels.",
+              "tokens": [
+                {
+                  "word": "e",
+                  "lemma": "e",
+                  "pos": "conjunction",
+                  "meaning": "and"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "ai",
+                  "lemma": "al",
+                  "pos": "preposition",
+                  "meaning": "to the"
+                },
+                {
+                  "word": "potenti",
+                  "lemma": "potente",
+                  "pos": "noun",
+                  "meaning": "mighty ones / rulers"
+                },
+                {
+                  "word": "fa",
+                  "lemma": "fare",
+                  "pos": "verb",
+                  "meaning": "makes (3rd sg. pres.)"
+                },
+                {
+                  "word": "scettro",
+                  "lemma": "scettro",
+                  "pos": "noun",
+                  "meaning": "scepter"
+                },
+                {
+                  "word": "ed",
+                  "lemma": "e",
+                  "pos": "conjunction",
+                  "meaning": "and"
+                },
+                {
+                  "word": "allor",
+                  "lemma": "alloro",
+                  "pos": "noun",
+                  "meaning": "laurel"
                 }
               ]
             }
@@ -10595,50 +10780,81 @@ export const aidaAct2: Act = {
           "lines": [
             {
               "id": "a2_s2_c48_l1",
-              "original": "Sì, dai Numi percossi noi siamo, ecc.",
-              "literal": "Yes, we are stricken by the Gods, etc.",
+              "original": "Sì, dai Numi percossi noi siamo,",
+              "literal": "Yes, we are stricken by the Gods,",
               "tokens": [
                 {
                   "word": "Sì",
                   "lemma": "sì",
-                  "pos": "noun",
+                  "pos": "particle",
                   "meaning": "yes"
                 },
                 {
                   "word": "dai",
-                  "lemma": "dai",
-                  "pos": "noun",
-                  "meaning": "givest"
+                  "lemma": "dal",
+                  "pos": "preposition",
+                  "meaning": "by the"
                 },
                 {
                   "word": "Numi",
-                  "lemma": "numi",
+                  "lemma": "nume",
                   "pos": "noun",
-                  "meaning": "deities / gods"
+                  "meaning": "gods"
                 },
                 {
                   "word": "percossi",
-                  "lemma": "percosso",
+                  "lemma": "percuotere",
                   "pos": "verb",
-                  "meaning": "masculine plural of percosso"
+                  "meaning": "stricken / struck (past part. pl.)"
                 },
                 {
                   "word": "noi",
                   "lemma": "noi",
-                  "pos": "noun",
+                  "pos": "pronoun",
                   "meaning": "we"
                 },
                 {
                   "word": "siamo",
-                  "lemma": "siamo",
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "are (1st pl. pres.)"
+                }
+              ]
+            },
+            {
+              "id": "a2_s2_c48_l2",
+              "original": "tua pietà, tua clemenza imploriamo!",
+              "literal": "your pity, your clemency we implore!",
+              "tokens": [
+                {
+                  "word": "tua",
+                  "lemma": "tuo",
                   "pos": "noun",
-                  "meaning": "are"
+                  "meaning": "your"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "pietà",
+                  "lemma": "pietà",
+                  "pos": "noun",
+                  "meaning": "pity"
+                },
+                {
+                  "word": "tua",
+                  "lemma": "tuo",
+                  "pos": "noun",
+                  "meaning": "your"
+                },
+                {
+                  "word": "clemenza",
+                  "lemma": "clemenza",
+                  "pos": "noun",
+                  "meaning": "clemency"
+                },
+                {
+                  "word": "imploriamo",
+                  "lemma": "implorare",
+                  "pos": "verb",
+                  "meaning": "we implore (1st pl. pres.)"
                 }
               ]
             }
@@ -10650,50 +10866,87 @@ export const aidaAct2: Act = {
           "lines": [
             {
               "id": "a2_s2_c49_l1",
-              "original": "Struggi, o Re, queste ciurme feroci, ecc.",
-              "literal": "Destroy, O King, these ferocious hordes, etc.",
+              "original": "Struggi, o Re, queste ciurme feroci,",
+              "literal": "Destroy, o King, these fierce hordes,",
               "tokens": [
                 {
                   "word": "Struggi",
-                  "lemma": "struggi",
+                  "lemma": "struggere",
                   "pos": "verb",
-                  "meaning": "struggi"
+                  "meaning": "destroy / crush (2nd sg. imper.)"
                 },
                 {
                   "word": "o",
                   "lemma": "o",
-                  "pos": "noun",
-                  "meaning": "or"
+                  "pos": "interjection",
+                  "meaning": "o"
                 },
                 {
                   "word": "Re",
                   "lemma": "re",
                   "pos": "noun",
-                  "meaning": "king"
+                  "meaning": "King"
                 },
                 {
                   "word": "queste",
-                  "lemma": "queste",
-                  "pos": "noun",
+                  "lemma": "questo",
+                  "pos": "adjective",
                   "meaning": "these"
                 },
                 {
                   "word": "ciurme",
                   "lemma": "ciurma",
                   "pos": "noun",
-                  "meaning": "plural of ciurma"
+                  "meaning": "hordes / crews"
                 },
                 {
                   "word": "feroci",
                   "lemma": "feroce",
                   "pos": "adjective",
-                  "meaning": "plural of feroce"
+                  "meaning": "ferocious / fierce"
+                }
+              ]
+            },
+            {
+              "id": "a2_s2_c49_l2",
+              "original": "chiudi il core alle perfide voci!",
+              "literal": "close your heart to treacherous voices!",
+              "tokens": [
+                {
+                  "word": "chiudi",
+                  "lemma": "chiudere",
+                  "pos": "verb",
+                  "meaning": "close (2nd sg. imper.)"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "il",
+                  "lemma": "il",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "core",
+                  "lemma": "cuore",
+                  "pos": "noun",
+                  "meaning": "heart"
+                },
+                {
+                  "word": "alle",
+                  "lemma": "al",
+                  "pos": "preposition",
+                  "meaning": "to the"
+                },
+                {
+                  "word": "perfide",
+                  "lemma": "perfido",
+                  "pos": "adjective",
+                  "meaning": "treacherous / perfidious"
+                },
+                {
+                  "word": "voci",
+                  "lemma": "voce",
+                  "pos": "noun",
+                  "meaning": "voices"
                 }
               ]
             }
@@ -10797,38 +11050,75 @@ export const aidaAct2: Act = {
           "lines": [
             {
               "id": "a2_s2_c51_l1",
-              "original": "(Ed io sola, avvilita, ecc.)",
-              "literal": "(And I alone, abased, etc.)",
+              "original": "Ed io sola, avvilita, reietta,",
+              "literal": "And I alone, degraded, rejected,",
               "tokens": [
                 {
                   "word": "Ed",
-                  "lemma": "ed",
-                  "pos": "noun",
+                  "lemma": "e",
+                  "pos": "conjunction",
                   "meaning": "and"
                 },
                 {
                   "word": "io",
                   "lemma": "io",
-                  "pos": "noun",
+                  "pos": "pronoun",
                   "meaning": "I"
                 },
                 {
                   "word": "sola",
                   "lemma": "solo",
                   "pos": "adjective",
-                  "meaning": "alone (feminine)"
+                  "meaning": "alone"
                 },
                 {
                   "word": "avvilita",
-                  "lemma": "avvilito",
+                  "lemma": "avvilire",
                   "pos": "verb",
-                  "meaning": "feminine singular of avvilito"
+                  "meaning": "degraded / humiliated (past part.)"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "reietta",
+                  "lemma": "reietto",
+                  "pos": "adjective",
+                  "meaning": "cast out / rejected"
+                }
+              ]
+            },
+            {
+              "id": "a2_s2_c51_l2",
+              "original": "la vendetta ho nel cor!",
+              "literal": "have revenge in my heart!",
+              "tokens": [
+                {
+                  "word": "la",
+                  "lemma": "il",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "vendetta",
+                  "lemma": "vendetta",
+                  "pos": "noun",
+                  "meaning": "revenge"
+                },
+                {
+                  "word": "ho",
+                  "lemma": "avere",
+                  "pos": "verb",
+                  "meaning": "I have (1st sg. pres.)"
+                },
+                {
+                  "word": "nel",
+                  "lemma": "nel",
+                  "pos": "preposition",
+                  "meaning": "in the"
+                },
+                {
+                  "word": "cor",
+                  "lemma": "cuore",
+                  "pos": "noun",
+                  "meaning": "heart"
                 }
               ]
             }
@@ -13520,74 +13810,68 @@ export const aidaAct2: Act = {
             {
               "id": "a2_s2_c74_l1",
               "original": "Fa cor: la tua patria",
-              "literal": "Fa cor: your homeland",
+              "literal": "Take heart: your homeland",
               "tokens": [
                 {
                   "word": "Fa",
                   "lemma": "fare",
                   "pos": "verb",
-                  "meaning": "does / makes"
+                  "meaning": "make / take (2nd sg. imper.)"
                 },
                 {
                   "word": "cor",
-                  "lemma": "cor",
+                  "lemma": "cuore",
                   "pos": "noun",
-                  "meaning": "heart"
+                  "meaning": "heart / courage"
                 },
                 {
                   "word": "la",
-                  "lemma": "la",
+                  "lemma": "il",
                   "pos": "noun",
-                  "meaning": "the / her / it"
+                  "meaning": "the"
                 },
                 {
                   "word": "tua",
-                  "lemma": "tua",
+                  "lemma": "tuo",
                   "pos": "noun",
                   "meaning": "your"
                 },
                 {
                   "word": "patria",
                   "lemma": "patria",
-                  "pos": "verb",
-                  "meaning": "patria"
+                  "pos": "noun",
+                  "meaning": "homeland"
                 }
               ]
             },
             {
               "id": "a2_s2_c74_l2",
-              "original": "I lieti eventi aspetta; ecc.",
-              "literal": "Await happy events; etc.",
+              "original": "i lieti eventi aspetta;",
+              "literal": "awaits happy events;",
               "tokens": [
                 {
-                  "word": "I",
-                  "lemma": "i",
+                  "word": "i",
+                  "lemma": "il",
                   "pos": "noun",
                   "meaning": "the"
                 },
                 {
                   "word": "lieti",
-                  "lemma": "lieti",
-                  "pos": "verb",
-                  "meaning": "lieti"
+                  "lemma": "lieto",
+                  "pos": "adjective",
+                  "meaning": "joyful / happy"
                 },
                 {
                   "word": "eventi",
                   "lemma": "evento",
                   "pos": "noun",
-                  "meaning": "plural of evento"
+                  "meaning": "events"
                 },
                 {
                   "word": "aspetta",
-                  "lemma": "aspetta",
-                  "pos": "noun",
-                  "meaning": "waits"
-                },
-                {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "lemma": "aspettare",
+                  "pos": "verb",
+                  "meaning": "awaits (3rd sg. pres.)"
                 }
               ]
             }
@@ -13599,8 +13883,8 @@ export const aidaAct2: Act = {
           "lines": [
             {
               "id": "a2_s2_c75_l1",
-              "original": "Gloria, all'egitto! ad Iside, ecc.",
-              "literal": "Glory to Egypt! To Isis, etc.",
+              "original": "Gloria all'Egitto! ad Iside,",
+              "literal": "Glory to Egypt! to Isis,",
               "tokens": [
                 {
                   "word": "Gloria",
@@ -13610,33 +13894,64 @@ export const aidaAct2: Act = {
                 },
                 {
                   "word": "all",
-                  "lemma": "all",
-                  "pos": "noun",
-                  "meaning": "to-the"
+                  "lemma": "al",
+                  "pos": "preposition",
+                  "meaning": "to the"
                 },
                 {
-                  "word": "egitto",
-                  "lemma": "egitto",
+                  "word": "Egitto",
+                  "lemma": "Egitto",
                   "pos": "noun",
-                  "meaning": "Egypt / Egypt"
+                  "meaning": "Egypt"
                 },
                 {
                   "word": "ad",
-                  "lemma": "ad",
-                  "pos": "noun",
-                  "meaning": "to / at"
+                  "lemma": "a",
+                  "pos": "preposition",
+                  "meaning": "to"
                 },
                 {
                   "word": "Iside",
-                  "lemma": "iside",
+                  "lemma": "Iside",
                   "pos": "noun",
-                  "meaning": "Isis / a female given name, equivalent to English Isis"
+                  "meaning": "Isis"
+                }
+              ]
+            },
+            {
+              "id": "a2_s2_c75_l2",
+              "original": "che il sacro suol protegge!",
+              "literal": "who protects the sacred soil!",
+              "tokens": [
+                {
+                  "word": "che",
+                  "lemma": "che",
+                  "pos": "pronoun",
+                  "meaning": "who / that"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "il",
+                  "lemma": "il",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "sacro",
+                  "lemma": "sacro",
+                  "pos": "adjective",
+                  "meaning": "sacred"
+                },
+                {
+                  "word": "suol",
+                  "lemma": "suolo",
+                  "pos": "noun",
+                  "meaning": "soil"
+                },
+                {
+                  "word": "protegge",
+                  "lemma": "proteggere",
+                  "pos": "verb",
+                  "meaning": "protects (3rd sg. pres.)"
                 }
               ]
             }
@@ -13648,38 +13963,69 @@ export const aidaAct2: Act = {
           "lines": [
             {
               "id": "a2_s2_c76_l1",
-              "original": "Inni leviamo ad Iside, ecc.",
-              "literal": "Let us raise hymns to Isis, etc.",
+              "original": "Inni leviamo ad Iside,",
+              "literal": "Hymns let us raise to Isis,",
               "tokens": [
                 {
                   "word": "Inni",
-                  "lemma": "inni",
-                  "pos": "verb",
-                  "meaning": "inni"
+                  "lemma": "inno",
+                  "pos": "noun",
+                  "meaning": "hymns"
                 },
                 {
                   "word": "leviamo",
                   "lemma": "levare",
                   "pos": "verb",
-                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
+                  "meaning": "let us raise (1st pl. imper.)"
                 },
                 {
                   "word": "ad",
-                  "lemma": "ad",
-                  "pos": "noun",
-                  "meaning": "to / at"
+                  "lemma": "a",
+                  "pos": "preposition",
+                  "meaning": "to"
                 },
                 {
                   "word": "Iside",
-                  "lemma": "iside",
+                  "lemma": "Iside",
                   "pos": "noun",
-                  "meaning": "Isis / a female given name, equivalent to English Isis"
+                  "meaning": "Isis"
+                }
+              ]
+            },
+            {
+              "id": "a2_s2_c76_l2",
+              "original": "che il sacro suol difende!",
+              "literal": "who defends the sacred soil!",
+              "tokens": [
+                {
+                  "word": "che",
+                  "lemma": "che",
+                  "pos": "pronoun",
+                  "meaning": "who / that"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "il",
+                  "lemma": "il",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "sacro",
+                  "lemma": "sacro",
+                  "pos": "adjective",
+                  "meaning": "sacred"
+                },
+                {
+                  "word": "suol",
+                  "lemma": "suolo",
+                  "pos": "noun",
+                  "meaning": "soil"
+                },
+                {
+                  "word": "difende",
+                  "lemma": "difendere",
+                  "pos": "verb",
+                  "meaning": "defends (3rd sg. pres.)"
                 }
               ]
             }
@@ -13900,8 +14246,8 @@ export const aidaAct2: Act = {
           "lines": [
             {
               "id": "a2_s2_c78_l1",
-              "original": "Gloria al clemente Egizio, ecc.",
-              "literal": "Glory to the merciful Egyptian, etc.",
+              "original": "Gloria al clemente Egizio,",
+              "literal": "Glory to the merciful Egyptian,",
               "tokens": [
                 {
                   "word": "Gloria",
@@ -13912,26 +14258,75 @@ export const aidaAct2: Act = {
                 {
                   "word": "al",
                   "lemma": "al",
-                  "pos": "noun",
-                  "meaning": "to-the"
+                  "pos": "preposition",
+                  "meaning": "to the"
                 },
                 {
                   "word": "clemente",
                   "lemma": "clemente",
                   "pos": "adjective",
-                  "meaning": "mild, lenient, clement"
+                  "meaning": "clement / merciful"
                 },
                 {
                   "word": "Egizio",
                   "lemma": "egizio",
-                  "pos": "adjective",
-                  "meaning": "Egyptian / synonym of egiziano"
+                  "pos": "noun",
+                  "meaning": "Egyptian"
+                }
+              ]
+            },
+            {
+              "id": "a2_s2_c78_l2",
+              "original": "che ci ridona ai liberi respiri del mattin!",
+              "literal": "who restores us to the free breaths of morning!",
+              "tokens": [
+                {
+                  "word": "che",
+                  "lemma": "che",
+                  "pos": "pronoun",
+                  "meaning": "who / that"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "ci",
+                  "lemma": "ci",
+                  "pos": "pronoun",
+                  "meaning": "us"
+                },
+                {
+                  "word": "ridona",
+                  "lemma": "ridonare",
+                  "pos": "verb",
+                  "meaning": "restores / gives back (3rd sg. pres.)"
+                },
+                {
+                  "word": "ai",
+                  "lemma": "al",
+                  "pos": "preposition",
+                  "meaning": "to the"
+                },
+                {
+                  "word": "liberi",
+                  "lemma": "libero",
+                  "pos": "adjective",
+                  "meaning": "free"
+                },
+                {
+                  "word": "respiri",
+                  "lemma": "respiro",
+                  "pos": "noun",
+                  "meaning": "breaths"
+                },
+                {
+                  "word": "del",
+                  "lemma": "del",
+                  "pos": "preposition",
+                  "meaning": "of the"
+                },
+                {
+                  "word": "mattin",
+                  "lemma": "mattino",
+                  "pos": "noun",
+                  "meaning": "morning"
                 }
               ]
             }

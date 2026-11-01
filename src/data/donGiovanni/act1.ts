@@ -10327,32 +10327,105 @@ export const donGiovanniAct1: Act = {
           "lines": [
             {
               "id": "a1_s7_c2_l1",
-              "original": "La ra la, ecc.",
-              "literal": "La ra la, etc.",
+              "original": "La ra la, la ra la, la ra la!",
+              "literal": "La ra la, la ra la, la ra la!",
               "tokens": [
                 {
                   "word": "La",
                   "lemma": "la",
-                  "pos": "noun",
-                  "meaning": "the / her / it"
+                  "pos": "interjection",
+                  "meaning": "la (sung syllable)"
                 },
                 {
                   "word": "ra",
                   "lemma": "ra",
-                  "pos": "noun",
-                  "meaning": "Ra"
+                  "pos": "interjection",
+                  "meaning": "ra"
                 },
                 {
                   "word": "la",
                   "lemma": "la",
-                  "pos": "noun",
-                  "meaning": "the / her / it"
+                  "pos": "interjection",
+                  "meaning": "la"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "la",
+                  "lemma": "la",
+                  "pos": "interjection",
+                  "meaning": "la"
+                },
+                {
+                  "word": "ra",
+                  "lemma": "ra",
+                  "pos": "interjection",
+                  "meaning": "ra"
+                },
+                {
+                  "word": "la",
+                  "lemma": "la",
+                  "pos": "interjection",
+                  "meaning": "la"
+                },
+                {
+                  "word": "la",
+                  "lemma": "la",
+                  "pos": "interjection",
+                  "meaning": "la"
+                },
+                {
+                  "word": "ra",
+                  "lemma": "ra",
+                  "pos": "interjection",
+                  "meaning": "ra"
+                },
+                {
+                  "word": "la",
+                  "lemma": "la",
+                  "pos": "interjection",
+                  "meaning": "la"
+                }
+              ]
+            },
+            {
+              "id": "a1_s7_c2_l2",
+              "original": "Che piacer, che piacer che sarà!",
+              "literal": "What pleasure, what pleasure it will be!",
+              "tokens": [
+                {
+                  "word": "Che",
+                  "lemma": "che",
+                  "pos": "adjective",
+                  "meaning": "what"
+                },
+                {
+                  "word": "piacer",
+                  "lemma": "piacere",
+                  "pos": "noun",
+                  "meaning": "pleasure"
+                },
+                {
+                  "word": "che",
+                  "lemma": "che",
+                  "pos": "adjective",
+                  "meaning": "what"
+                },
+                {
+                  "word": "piacer",
+                  "lemma": "piacere",
+                  "pos": "noun",
+                  "meaning": "pleasure"
+                },
+                {
+                  "word": "che",
+                  "lemma": "che",
+                  "pos": "pronoun",
+                  "meaning": "that"
+                },
+                {
+                  "word": "sarà",
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "will be (3rd sg. fut.)"
                 }
               ]
             }
@@ -10615,32 +10688,105 @@ export const donGiovanniAct1: Act = {
           "lines": [
             {
               "id": "a1_s7_c4_l1",
-              "original": "La ra la, ecc.",
-              "literal": "La ra la, etc.",
+              "original": "La ra la, la ra la, la ra la!",
+              "literal": "La ra la, la ra la, la ra la!",
               "tokens": [
                 {
                   "word": "La",
                   "lemma": "la",
-                  "pos": "noun",
-                  "meaning": "the / her / it"
+                  "pos": "interjection",
+                  "meaning": "la (sung syllable)"
                 },
                 {
                   "word": "ra",
                   "lemma": "ra",
-                  "pos": "noun",
-                  "meaning": "Ra"
+                  "pos": "interjection",
+                  "meaning": "ra"
                 },
                 {
                   "word": "la",
                   "lemma": "la",
-                  "pos": "noun",
-                  "meaning": "the / her / it"
+                  "pos": "interjection",
+                  "meaning": "la"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "la",
+                  "lemma": "la",
+                  "pos": "interjection",
+                  "meaning": "la"
+                },
+                {
+                  "word": "ra",
+                  "lemma": "ra",
+                  "pos": "interjection",
+                  "meaning": "ra"
+                },
+                {
+                  "word": "la",
+                  "lemma": "la",
+                  "pos": "interjection",
+                  "meaning": "la"
+                },
+                {
+                  "word": "la",
+                  "lemma": "la",
+                  "pos": "interjection",
+                  "meaning": "la"
+                },
+                {
+                  "word": "ra",
+                  "lemma": "ra",
+                  "pos": "interjection",
+                  "meaning": "ra"
+                },
+                {
+                  "word": "la",
+                  "lemma": "la",
+                  "pos": "interjection",
+                  "meaning": "la"
+                }
+              ]
+            },
+            {
+              "id": "a1_s7_c4_l2",
+              "original": "Che piacer, che piacer che sarà!",
+              "literal": "What pleasure, what pleasure it will be!",
+              "tokens": [
+                {
+                  "word": "Che",
+                  "lemma": "che",
+                  "pos": "adjective",
+                  "meaning": "what"
+                },
+                {
+                  "word": "piacer",
+                  "lemma": "piacere",
+                  "pos": "noun",
+                  "meaning": "pleasure"
+                },
+                {
+                  "word": "che",
+                  "lemma": "che",
+                  "pos": "adjective",
+                  "meaning": "what"
+                },
+                {
+                  "word": "piacer",
+                  "lemma": "piacere",
+                  "pos": "noun",
+                  "meaning": "pleasure"
+                },
+                {
+                  "word": "che",
+                  "lemma": "che",
+                  "pos": "pronoun",
+                  "meaning": "that"
+                },
+                {
+                  "word": "sarà",
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "will be (3rd sg. fut.)"
                 }
               ]
             },
@@ -10740,49 +10886,6 @@ export const donGiovanniAct1: Act = {
                   "lemma": "suonare",
                   "pos": "verb",
                   "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
-                }
-              ]
-            },
-            {
-              "id": "a1_s7_c4_l5",
-              "original": "Che piacer, che piacer che sarà!",
-              "literal": "What a pleasure, what a pleasure it will be!",
-              "tokens": [
-                {
-                  "word": "Che",
-                  "lemma": "che",
-                  "pos": "noun",
-                  "meaning": "that / which / what"
-                },
-                {
-                  "word": "piacer",
-                  "lemma": "piacer",
-                  "pos": "noun",
-                  "meaning": "pleasure"
-                },
-                {
-                  "word": "che",
-                  "lemma": "che",
-                  "pos": "noun",
-                  "meaning": "that / which / what"
-                },
-                {
-                  "word": "piacer",
-                  "lemma": "piacer",
-                  "pos": "noun",
-                  "meaning": "pleasure"
-                },
-                {
-                  "word": "che",
-                  "lemma": "che",
-                  "pos": "noun",
-                  "meaning": "that / which / what"
-                },
-                {
-                  "word": "sarà",
-                  "lemma": "sarà",
-                  "pos": "noun",
-                  "meaning": "will be"
                 }
               ]
             }
@@ -26987,38 +27090,125 @@ export const donGiovanniAct1: Act = {
           "lines": [
             {
               "id": "a1_s18_c2_l1",
-              "original": "Sù! svegliatevi da bravi, ecc.",
-              "literal": "Come on! wake up like a good guy, etc.",
+              "original": "Sù! svegliatevi da bravi,",
+              "literal": "Come on! wake up like good fellows,",
               "tokens": [
                 {
                   "word": "Sù",
-                  "lemma": "sù",
+                  "lemma": "su",
                   "pos": "adverb",
-                  "meaning": "misspelling of su"
+                  "meaning": "up / come on"
                 },
                 {
                   "word": "svegliatevi",
-                  "lemma": "svegliarsi",
+                  "lemma": "svegliare",
                   "pos": "verb",
-                  "meaning": "second-person plural imperative of svegliarsi"
+                  "meaning": "wake up (2nd pl. imper. + vi)"
                 },
                 {
                   "word": "da",
                   "lemma": "da",
-                  "pos": "noun",
-                  "meaning": "from / by"
+                  "pos": "preposition",
+                  "meaning": "as / like"
                 },
                 {
                   "word": "bravi",
                   "lemma": "bravo",
                   "pos": "adjective",
-                  "meaning": "masculine plural of bravo"
+                  "meaning": "good / brave (pl.)"
+                }
+              ]
+            },
+            {
+              "id": "a1_s18_c2_l2",
+              "original": "su, coraggio, o buona gente!",
+              "literal": "up, courage, o good people!",
+              "tokens": [
+                {
+                  "word": "su",
+                  "lemma": "su",
+                  "pos": "adverb",
+                  "meaning": "up"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
+                  "word": "coraggio",
+                  "lemma": "coraggio",
+                  "pos": "noun",
+                  "meaning": "courage"
+                },
+                {
+                  "word": "o",
+                  "lemma": "o",
+                  "pos": "interjection",
+                  "meaning": "o"
+                },
+                {
+                  "word": "buona",
+                  "lemma": "buono",
+                  "pos": "adjective",
+                  "meaning": "good"
+                },
+                {
+                  "word": "gente",
+                  "lemma": "gente",
+                  "pos": "noun",
+                  "meaning": "people"
+                }
+              ]
+            },
+            {
+              "id": "a1_s18_c2_l3",
+              "original": "Vogliam star allegramente,",
+              "literal": "We want to be merry,",
+              "tokens": [
+                {
+                  "word": "Vogliam",
+                  "lemma": "volere",
+                  "pos": "verb",
+                  "meaning": "we want (1st pl. pres.)"
+                },
+                {
+                  "word": "star",
+                  "lemma": "stare",
+                  "pos": "verb",
+                  "meaning": "to stay / be"
+                },
+                {
+                  "word": "allegramente",
+                  "lemma": "allegramente",
                   "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "meaning": "merrily / joyfully"
+                }
+              ]
+            },
+            {
+              "id": "a1_s18_c2_l4",
+              "original": "vogliam ridere e scherzar!",
+              "literal": "we want to laugh and joke!",
+              "tokens": [
+                {
+                  "word": "vogliam",
+                  "lemma": "volere",
+                  "pos": "verb",
+                  "meaning": "we want (1st pl. pres.)"
+                },
+                {
+                  "word": "ridere",
+                  "lemma": "ridere",
+                  "pos": "verb",
+                  "meaning": "to laugh"
+                },
+                {
+                  "word": "e",
+                  "lemma": "e",
+                  "pos": "conjunction",
+                  "meaning": "and"
+                },
+                {
+                  "word": "scherzar",
+                  "lemma": "scherzare",
+                  "pos": "verb",
+                  "meaning": "to joke / jest"
                 }
               ]
             }

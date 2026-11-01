@@ -4029,38 +4029,105 @@ export const rigolettoAct1: Act = {
           "lines": [
             {
               "id": "a1_s1_c60_l1",
-              "original": "Che coglier mi puote? ecc.",
-              "literal": "What can you get from me? etc.",
+              "original": "Che coglier mi puote? Di loro non temo;",
+              "literal": "What can happen to me? I do not fear them;",
               "tokens": [
                 {
                   "word": "Che",
                   "lemma": "che",
-                  "pos": "noun",
-                  "meaning": "that / which / what"
+                  "pos": "pronoun",
+                  "meaning": "what / that"
                 },
                 {
                   "word": "coglier",
                   "lemma": "cogliere",
                   "pos": "verb",
-                  "meaning": "to pick, to gather / to grasp, to seize, to take"
+                  "meaning": "to catch / seize / strike"
                 },
                 {
                   "word": "mi",
                   "lemma": "mi",
-                  "pos": "noun",
-                  "meaning": "me / to-me"
+                  "pos": "pronoun",
+                  "meaning": "me / to me"
                 },
                 {
                   "word": "puote",
-                  "lemma": "puote",
+                  "lemma": "potere",
                   "pos": "verb",
-                  "meaning": "archaic form of può, third-person singular present indicative of potere"
+                  "meaning": "can / is able (3rd sg. pres. poetic)"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "ecc",
+                  "word": "Di",
+                  "lemma": "di",
+                  "pos": "preposition",
+                  "meaning": "of / about"
+                },
+                {
+                  "word": "loro",
+                  "lemma": "loro",
+                  "pos": "pronoun",
+                  "meaning": "them"
+                },
+                {
+                  "word": "non",
+                  "lemma": "non",
+                  "pos": "adverb",
+                  "meaning": "not"
+                },
+                {
+                  "word": "temo",
+                  "lemma": "temere",
+                  "pos": "verb",
+                  "meaning": "I fear (1st sg. pres.)"
+                }
+              ]
+            },
+            {
+              "id": "a1_s1_c60_l2",
+              "original": "del Duca un protetto qual mai punirà?",
+              "literal": "who would ever punish a protégé of the Duke?",
+              "tokens": [
+                {
+                  "word": "del",
+                  "lemma": "del",
+                  "pos": "preposition",
+                  "meaning": "of the"
+                },
+                {
+                  "word": "Duca",
+                  "lemma": "duca",
                   "pos": "noun",
-                  "meaning": "ecc"
+                  "meaning": "Duke"
+                },
+                {
+                  "word": "un",
+                  "lemma": "un",
+                  "pos": "noun",
+                  "meaning": "a / an"
+                },
+                {
+                  "word": "protetto",
+                  "lemma": "protetto",
+                  "pos": "noun",
+                  "meaning": "protégé / favorite"
+                },
+                {
+                  "word": "qual",
+                  "lemma": "quale",
+                  "pos": "pronoun",
+                  "meaning": "which one / who"
+                },
+                {
+                  "word": "mai",
+                  "lemma": "mai",
+                  "pos": "adverb",
+                  "meaning": "ever"
+                },
+                {
+                  "word": "punirà",
+                  "lemma": "punire",
+                  "pos": "verb",
+                  "meaning": "will punish (3rd sg. fut.)"
                 }
               ]
             }
@@ -4072,50 +4139,111 @@ export const rigolettoAct1: Act = {
           "lines": [
             {
               "id": "a1_s1_c61_l1",
-              "original": "Ah, sempre tu spingi lo scherzo, ecc.",
-              "literal": "Ah, you always push the joke, etc.",
+              "original": "Ah, sempre tu spingi lo scherzo all'estremo,",
+              "literal": "Ah, you always push the joke to the extreme,",
               "tokens": [
                 {
                   "word": "Ah",
                   "lemma": "ah",
-                  "pos": "noun",
+                  "pos": "interjection",
                   "meaning": "ah"
                 },
                 {
                   "word": "sempre",
                   "lemma": "sempre",
-                  "pos": "noun",
+                  "pos": "adverb",
                   "meaning": "always"
                 },
                 {
                   "word": "tu",
                   "lemma": "tu",
-                  "pos": "noun",
+                  "pos": "pronoun",
                   "meaning": "you"
                 },
                 {
                   "word": "spingi",
                   "lemma": "spingere",
                   "pos": "verb",
-                  "meaning": "second-person singular present indicative / second-person singular imperative"
+                  "meaning": "push / drive (2nd sg. pres.)"
                 },
                 {
                   "word": "lo",
-                  "lemma": "lo",
+                  "lemma": "il",
                   "pos": "noun",
-                  "meaning": "the / him / it"
+                  "meaning": "the"
                 },
                 {
                   "word": "scherzo",
                   "lemma": "scherzo",
                   "pos": "noun",
-                  "meaning": "joke, jest, trick, hoax, frolic / joke, trifle, cinch"
+                  "meaning": "joke / jest"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "ecc",
+                  "word": "all",
+                  "lemma": "al",
+                  "pos": "preposition",
+                  "meaning": "to the"
+                },
+                {
+                  "word": "estremo",
+                  "lemma": "estremo",
                   "pos": "noun",
-                  "meaning": "ecc"
+                  "meaning": "extreme"
+                }
+              ]
+            },
+            {
+              "id": "a1_s1_c61_l2",
+              "original": "quell'odio che sfidi schernir non si dee.",
+              "literal": "that hatred which you defy must not be mocked.",
+              "tokens": [
+                {
+                  "word": "quell",
+                  "lemma": "quello",
+                  "pos": "adjective",
+                  "meaning": "that"
+                },
+                {
+                  "word": "odio",
+                  "lemma": "odio",
+                  "pos": "noun",
+                  "meaning": "hatred"
+                },
+                {
+                  "word": "che",
+                  "lemma": "che",
+                  "pos": "pronoun",
+                  "meaning": "that / which"
+                },
+                {
+                  "word": "sfidi",
+                  "lemma": "sfidare",
+                  "pos": "verb",
+                  "meaning": "you defy (2nd sg. pres.)"
+                },
+                {
+                  "word": "schernir",
+                  "lemma": "schernire",
+                  "pos": "verb",
+                  "meaning": "to mock / scoff at"
+                },
+                {
+                  "word": "non",
+                  "lemma": "non",
+                  "pos": "adverb",
+                  "meaning": "not"
+                },
+                {
+                  "word": "si",
+                  "lemma": "si",
+                  "pos": "pronoun",
+                  "meaning": "one / itself"
+                },
+                {
+                  "word": "dee",
+                  "lemma": "dovere",
+                  "pos": "verb",
+                  "meaning": "ought to / must (3rd sg. pres. poetic)"
                 }
               ]
             }
@@ -4231,26 +4359,87 @@ export const rigolettoAct1: Act = {
             },
             {
               "id": "a1_s1_c62_l3",
-              "original": "Sì, vendetta! ecc.",
-              "literal": "Yes, revenge! etc.",
+              "original": "Sì, vendetta! Vendetta del pazzo! Vendetta!",
+              "literal": "Yes, revenge! Revenge on the madman! Revenge!",
               "tokens": [
                 {
                   "word": "Sì",
                   "lemma": "sì",
-                  "pos": "noun",
+                  "pos": "particle",
                   "meaning": "yes"
                 },
                 {
                   "word": "vendetta",
                   "lemma": "vendetta",
                   "pos": "noun",
-                  "meaning": "vengeance / revenge"
+                  "meaning": "revenge / vengeance"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "Vendetta",
+                  "lemma": "vendetta",
+                  "pos": "noun",
+                  "meaning": "revenge / vengeance"
+                },
+                {
+                  "word": "del",
+                  "lemma": "del",
+                  "pos": "preposition",
+                  "meaning": "of the"
+                },
+                {
+                  "word": "pazzo",
+                  "lemma": "pazzo",
+                  "pos": "noun",
+                  "meaning": "madman / jester"
+                },
+                {
+                  "word": "Vendetta",
+                  "lemma": "vendetta",
+                  "pos": "noun",
+                  "meaning": "revenge / vengeance"
+                }
+              ]
+            },
+            {
+              "id": "a1_s1_c62_l4",
+              "original": "A tutti un'offesa, vendetta sarà!",
+              "literal": "An offense to everyone, revenge it shall be!",
+              "tokens": [
+                {
+                  "word": "A",
+                  "lemma": "a",
+                  "pos": "preposition",
+                  "meaning": "to"
+                },
+                {
+                  "word": "tutti",
+                  "lemma": "tutto",
+                  "pos": "pronoun",
+                  "meaning": "all / everyone"
+                },
+                {
+                  "word": "un",
+                  "lemma": "un",
+                  "pos": "noun",
+                  "meaning": "an"
+                },
+                {
+                  "word": "offesa",
+                  "lemma": "offesa",
+                  "pos": "noun",
+                  "meaning": "offense / insult"
+                },
+                {
+                  "word": "vendetta",
+                  "lemma": "vendetta",
+                  "pos": "noun",
+                  "meaning": "revenge / vengeance"
+                },
+                {
+                  "word": "sarà",
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "will be (3rd sg. fut.)"
                 }
               ]
             }
@@ -5739,56 +5928,50 @@ export const rigolettoAct1: Act = {
             },
             {
               "id": "a1_s1_c78_l4",
-              "original": "Va', trema, o vegliardo, dell'ira sovrana, ecc.",
-              "literal": "Go, tremble, O old man, at the sovereign wrath, etc.",
+              "original": "Va', trema, o vegliardo, dell'ira sovrana;",
+              "literal": "Go, tremble, o old man, at sovereign wrath;",
               "tokens": [
                 {
                   "word": "Va",
                   "lemma": "andare",
                   "pos": "verb",
-                  "meaning": "goes / go!"
+                  "meaning": "go (2nd sg. imper.)"
                 },
                 {
                   "word": "trema",
                   "lemma": "tremare",
                   "pos": "verb",
-                  "meaning": "third-person singular present / second-person singular imperative"
+                  "meaning": "tremble (2nd sg. imper.)"
                 },
                 {
                   "word": "o",
                   "lemma": "o",
-                  "pos": "noun",
-                  "meaning": "or"
+                  "pos": "interjection",
+                  "meaning": "o"
                 },
                 {
                   "word": "vegliardo",
                   "lemma": "vegliardo",
                   "pos": "noun",
-                  "meaning": "old man, especially one who inspires respect and reverence."
+                  "meaning": "old man / patriarch"
                 },
                 {
                   "word": "dell",
-                  "lemma": "dell",
-                  "pos": "noun",
-                  "meaning": "of-the"
+                  "lemma": "del",
+                  "pos": "preposition",
+                  "meaning": "of the"
                 },
                 {
                   "word": "ira",
                   "lemma": "ira",
-                  "pos": "verb",
-                  "meaning": "ira"
+                  "pos": "noun",
+                  "meaning": "wrath / anger"
                 },
                 {
                   "word": "sovrana",
                   "lemma": "sovrano",
                   "pos": "adjective",
-                  "meaning": "feminine singular of sovrano"
-                },
-                {
-                  "word": "ecc",
-                  "lemma": "ecc",
-                  "pos": "noun",
-                  "meaning": "ecc"
+                  "meaning": "sovereign / supreme"
                 }
               ]
             },
@@ -5923,26 +6106,93 @@ export const rigolettoAct1: Act = {
             },
             {
               "id": "a1_s1_c79_l2",
-              "original": "Che orrore! ecc.",
-              "literal": "How horrible! etc.",
+              "original": "Che orrore! Quel vecchio che orrore!",
+              "literal": "What horror! That old man, what horror!",
               "tokens": [
                 {
                   "word": "Che",
                   "lemma": "che",
-                  "pos": "noun",
-                  "meaning": "that / which / what"
+                  "pos": "adjective",
+                  "meaning": "what"
                 },
                 {
                   "word": "orrore",
                   "lemma": "orrore",
                   "pos": "noun",
-                  "meaning": "horror / disgust, loathing"
+                  "meaning": "horror"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "Quel",
+                  "lemma": "quello",
+                  "pos": "adjective",
+                  "meaning": "that"
+                },
+                {
+                  "word": "vecchio",
+                  "lemma": "vecchio",
+                  "pos": "noun",
+                  "meaning": "old man"
+                },
+                {
+                  "word": "che",
+                  "lemma": "che",
+                  "pos": "adjective",
+                  "meaning": "what"
+                },
+                {
+                  "word": "orrore",
+                  "lemma": "orrore",
+                  "pos": "noun",
+                  "meaning": "horror"
+                }
+              ]
+            },
+            {
+              "id": "a1_s1_c79_l3",
+              "original": "Un'ora fatale fu questa per me!",
+              "literal": "A fatal hour was this for me!",
+              "tokens": [
+                {
+                  "word": "Un",
+                  "lemma": "un",
+                  "pos": "noun",
+                  "meaning": "a"
+                },
+                {
+                  "word": "ora",
+                  "lemma": "ora",
+                  "pos": "noun",
+                  "meaning": "hour"
+                },
+                {
+                  "word": "fatale",
+                  "lemma": "fatale",
+                  "pos": "adjective",
+                  "meaning": "fatal / fateful"
+                },
+                {
+                  "word": "fu",
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "was (3rd sg. past hist.)"
+                },
+                {
+                  "word": "questa",
+                  "lemma": "questo",
+                  "pos": "pronoun",
+                  "meaning": "this"
+                },
+                {
+                  "word": "per",
+                  "lemma": "per",
+                  "pos": "preposition",
+                  "meaning": "for"
+                },
+                {
+                  "word": "me",
+                  "lemma": "me",
+                  "pos": "pronoun",
+                  "meaning": "me"
                 }
               ]
             }
@@ -5956,47 +6206,115 @@ export const rigolettoAct1: Act = {
           "lines": [
             {
               "id": "a1_s1_c80_l1",
-              "original": "Sii maledetto! e tu serpente, ecc.",
-              "literal": "Be damned! and you serpent, etc.",
+              "original": "Sii maledetto! E tu, serpente,",
+              "literal": "Be cursed! And you, snake,",
               "tokens": [
                 {
                   "word": "Sii",
-                  "lemma": "sii",
-                  "pos": "noun",
-                  "meaning": "be"
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "be (2nd sg. imper.)"
                 },
                 {
                   "word": "maledetto",
-                  "lemma": "maledetto",
+                  "lemma": "maledire",
                   "pos": "verb",
-                  "meaning": "maledetto"
+                  "meaning": "cursed / damned (past part.)"
                 },
                 {
-                  "word": "e",
+                  "word": "E",
                   "lemma": "e",
-                  "pos": "noun",
+                  "pos": "conjunction",
                   "meaning": "and"
                 },
                 {
                   "word": "tu",
                   "lemma": "tu",
-                  "pos": "noun",
+                  "pos": "pronoun",
                   "meaning": "you"
                 },
                 {
                   "word": "serpente",
                   "lemma": "serpente",
                   "pos": "noun",
-                  "meaning": "snake"
-                },
-                {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "meaning": "serpent / snake"
                 }
               ],
               "grammarNote": "'Be cursed!' Monterone pronounces the terrifying curse that seals the fate of both the Duke and Rigoletto."
+            },
+            {
+              "id": "a1_s1_c80_l2",
+              "original": "tu che d'un padre ridi al dolore,",
+              "literal": "you who laugh at a father's grief,",
+              "tokens": [
+                {
+                  "word": "tu",
+                  "lemma": "tu",
+                  "pos": "pronoun",
+                  "meaning": "you"
+                },
+                {
+                  "word": "che",
+                  "lemma": "che",
+                  "pos": "pronoun",
+                  "meaning": "who"
+                },
+                {
+                  "word": "d",
+                  "lemma": "di",
+                  "pos": "preposition",
+                  "meaning": "of"
+                },
+                {
+                  "word": "un",
+                  "lemma": "un",
+                  "pos": "noun",
+                  "meaning": "a"
+                },
+                {
+                  "word": "padre",
+                  "lemma": "padre",
+                  "pos": "noun",
+                  "meaning": "father"
+                },
+                {
+                  "word": "ridi",
+                  "lemma": "ridere",
+                  "pos": "verb",
+                  "meaning": "laugh (2nd sg. pres.)"
+                },
+                {
+                  "word": "al",
+                  "lemma": "al",
+                  "pos": "preposition",
+                  "meaning": "at the"
+                },
+                {
+                  "word": "dolore",
+                  "lemma": "dolore",
+                  "pos": "noun",
+                  "meaning": "pain / grief"
+                }
+              ]
+            },
+            {
+              "id": "a1_s1_c80_l3",
+              "original": "sii maledetto!",
+              "literal": "be cursed!",
+              "tokens": [
+                {
+                  "word": "sii",
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "be (2nd sg. imper.)"
+                },
+                {
+                  "word": "maledetto",
+                  "lemma": "maledire",
+                  "pos": "verb",
+                  "meaning": "cursed / damned (past part.)"
+                }
+              ]
             }
           ]
         }
@@ -11912,26 +12230,26 @@ export const rigolettoAct1: Act = {
           "lines": [
             {
               "id": "a1_s3_c42_l1",
-              "original": "Ah! veglia, o donna, ecc.",
-              "literal": "Ah! stay awake, oh woman, etc.",
+              "original": "Ah! veglia, o donna, questo fiore",
+              "literal": "Ah, watch over, o woman, this flower",
               "tokens": [
                 {
                   "word": "Ah",
                   "lemma": "ah",
-                  "pos": "noun",
+                  "pos": "interjection",
                   "meaning": "ah"
                 },
                 {
                   "word": "veglia",
-                  "lemma": "veglia",
-                  "pos": "noun",
-                  "meaning": "vigil, watch / all-night party or other gathering"
+                  "lemma": "vegliare",
+                  "pos": "verb",
+                  "meaning": "watch over / guard (2nd sg. imper.)"
                 },
                 {
                   "word": "o",
                   "lemma": "o",
-                  "pos": "noun",
-                  "meaning": "or"
+                  "pos": "interjection",
+                  "meaning": "o"
                 },
                 {
                   "word": "donna",
@@ -11940,21 +12258,144 @@ export const rigolettoAct1: Act = {
                   "meaning": "woman"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "questo",
+                  "lemma": "questo",
+                  "pos": "adjective",
+                  "meaning": "this"
+                },
+                {
+                  "word": "fiore",
+                  "lemma": "fiore",
+                  "pos": "noun",
+                  "meaning": "flower"
                 }
               ]
             },
             {
               "id": "a1_s3_c42_l2",
+              "original": "che a te puro confidai;",
+              "literal": "which pure I entrusted to you;",
+              "tokens": [
+                {
+                  "word": "che",
+                  "lemma": "che",
+                  "pos": "pronoun",
+                  "meaning": "which / that"
+                },
+                {
+                  "word": "a",
+                  "lemma": "a",
+                  "pos": "preposition",
+                  "meaning": "to"
+                },
+                {
+                  "word": "te",
+                  "lemma": "te",
+                  "pos": "pronoun",
+                  "meaning": "you"
+                },
+                {
+                  "word": "puro",
+                  "lemma": "puro",
+                  "pos": "adjective",
+                  "meaning": "pure"
+                },
+                {
+                  "word": "confidai",
+                  "lemma": "confidare",
+                  "pos": "verb",
+                  "meaning": "I entrusted (1st sg. past hist.)"
+                }
+              ]
+            },
+            {
+              "id": "a1_s3_c42_l3",
+              "original": "veglia ognor, e non sia mai",
+              "literal": "watch always, and let it never be",
+              "tokens": [
+                {
+                  "word": "veglia",
+                  "lemma": "vegliare",
+                  "pos": "verb",
+                  "meaning": "watch (2nd sg. imper.)"
+                },
+                {
+                  "word": "ognor",
+                  "lemma": "ognora",
+                  "pos": "adverb",
+                  "meaning": "always / ever (poetic)"
+                },
+                {
+                  "word": "e",
+                  "lemma": "e",
+                  "pos": "conjunction",
+                  "meaning": "and"
+                },
+                {
+                  "word": "non",
+                  "lemma": "non",
+                  "pos": "adverb",
+                  "meaning": "not"
+                },
+                {
+                  "word": "sia",
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "may it be (3rd sg. subj.)"
+                },
+                {
+                  "word": "mai",
+                  "lemma": "mai",
+                  "pos": "adverb",
+                  "meaning": "never / ever"
+                }
+              ]
+            },
+            {
+              "id": "a1_s3_c42_l4",
+              "original": "che vacilli il suo candor.",
+              "literal": "that her innocence waver.",
+              "tokens": [
+                {
+                  "word": "che",
+                  "lemma": "che",
+                  "pos": "conjunction",
+                  "meaning": "that"
+                },
+                {
+                  "word": "vacilli",
+                  "lemma": "vacillare",
+                  "pos": "verb",
+                  "meaning": "waver / falter (3rd sg. subj.)"
+                },
+                {
+                  "word": "il",
+                  "lemma": "il",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "suo",
+                  "lemma": "suo",
+                  "pos": "noun",
+                  "meaning": "her / its"
+                },
+                {
+                  "word": "candor",
+                  "lemma": "candore",
+                  "pos": "noun",
+                  "meaning": "purity / innocence"
+                }
+              ]
+            },
+            {
+              "id": "a1_s3_c42_l5",
               "original": "Mia figlia, addio!",
-              "literal": "My daughter, goodbye!",
+              "literal": "My daughter, farewell!",
               "tokens": [
                 {
                   "word": "Mia",
-                  "lemma": "mia",
+                  "lemma": "mio",
                   "pos": "noun",
                   "meaning": "my"
                 },
@@ -11982,39 +12423,156 @@ export const rigolettoAct1: Act = {
           "lines": [
             {
               "id": "a1_s3_c43_l1",
-              "original": "Oh, quanto affetto! ecc.",
-              "literal": "Oh, how much affection! etc.",
+              "original": "Oh, quanto affetto! qual cura paterna!",
+              "literal": "Oh, how much affection! what fatherly care!",
               "tokens": [
                 {
                   "word": "Oh",
                   "lemma": "oh",
-                  "pos": "noun",
+                  "pos": "interjection",
                   "meaning": "oh"
                 },
                 {
                   "word": "quanto",
                   "lemma": "quanto",
-                  "pos": "verb",
-                  "meaning": "quanto"
+                  "pos": "adverb",
+                  "meaning": "how much"
                 },
                 {
                   "word": "affetto",
                   "lemma": "affetto",
-                  "pos": "adjective",
-                  "meaning": "affected"
+                  "pos": "noun",
+                  "meaning": "affection / love"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "qual",
+                  "lemma": "quale",
+                  "pos": "adjective",
+                  "meaning": "what"
+                },
+                {
+                  "word": "cura",
+                  "lemma": "cura",
+                  "pos": "noun",
+                  "meaning": "care / concern"
+                },
+                {
+                  "word": "paterna",
+                  "lemma": "paterno",
+                  "pos": "adjective",
+                  "meaning": "paternal / fatherly"
                 }
               ]
             },
             {
               "id": "a1_s3_c43_l2",
+              "original": "Non temer, o padre mio;",
+              "literal": "Do not fear, o my father;",
+              "tokens": [
+                {
+                  "word": "Non",
+                  "lemma": "non",
+                  "pos": "adverb",
+                  "meaning": "not"
+                },
+                {
+                  "word": "temer",
+                  "lemma": "temere",
+                  "pos": "verb",
+                  "meaning": "fear (inf. imper.)"
+                },
+                {
+                  "word": "o",
+                  "lemma": "o",
+                  "pos": "interjection",
+                  "meaning": "o"
+                },
+                {
+                  "word": "padre",
+                  "lemma": "padre",
+                  "pos": "noun",
+                  "meaning": "father"
+                },
+                {
+                  "word": "mio",
+                  "lemma": "mio",
+                  "pos": "noun",
+                  "meaning": "my"
+                }
+              ]
+            },
+            {
+              "id": "a1_s3_c43_l3",
+              "original": "lassù in ciel veglia un angelo",
+              "literal": "up there in heaven an angel watches",
+              "tokens": [
+                {
+                  "word": "lassù",
+                  "lemma": "lassù",
+                  "pos": "adverb",
+                  "meaning": "up there"
+                },
+                {
+                  "word": "in",
+                  "lemma": "in",
+                  "pos": "preposition",
+                  "meaning": "in"
+                },
+                {
+                  "word": "ciel",
+                  "lemma": "cielo",
+                  "pos": "noun",
+                  "meaning": "heaven / sky"
+                },
+                {
+                  "word": "veglia",
+                  "lemma": "vegliare",
+                  "pos": "verb",
+                  "meaning": "watches / keeps vigil (3rd sg. pres.)"
+                },
+                {
+                  "word": "un",
+                  "lemma": "un",
+                  "pos": "noun",
+                  "meaning": "an"
+                },
+                {
+                  "word": "angelo",
+                  "lemma": "angelo",
+                  "pos": "noun",
+                  "meaning": "angel"
+                }
+              ]
+            },
+            {
+              "id": "a1_s3_c43_l4",
+              "original": "che la difenderà.",
+              "literal": "who will defend her.",
+              "tokens": [
+                {
+                  "word": "che",
+                  "lemma": "che",
+                  "pos": "pronoun",
+                  "meaning": "who / that"
+                },
+                {
+                  "word": "la",
+                  "lemma": "la",
+                  "pos": "pronoun",
+                  "meaning": "her"
+                },
+                {
+                  "word": "difenderà",
+                  "lemma": "difendere",
+                  "pos": "verb",
+                  "meaning": "will defend (3rd sg. fut.)"
+                }
+              ]
+            },
+            {
+              "id": "a1_s3_c43_l5",
               "original": "Mio padre, addio!",
-              "literal": "My father, goodbye!",
+              "literal": "My father, farewell!",
               "tokens": [
                 {
                   "word": "Mio",
@@ -14992,13 +15550,149 @@ export const rigolettoAct1: Act = {
             },
             {
               "id": "a1_s5_c1_l12",
-              "original": "Caro nome, ecc.",
-              "literal": "Dear name, etc.",
+              "original": "Caro nome che il mio cor",
+              "literal": "Dear name that made my heart",
               "tokens": [
                 {
                   "word": "Caro",
                   "lemma": "caro",
+                  "pos": "adjective",
+                  "meaning": "dear / beloved"
+                },
+                {
+                  "word": "nome",
+                  "lemma": "nome",
                   "pos": "noun",
+                  "meaning": "name"
+                },
+                {
+                  "word": "che",
+                  "lemma": "che",
+                  "pos": "pronoun",
+                  "meaning": "that / which"
+                },
+                {
+                  "word": "il",
+                  "lemma": "il",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "mio",
+                  "lemma": "mio",
+                  "pos": "noun",
+                  "meaning": "my"
+                },
+                {
+                  "word": "cor",
+                  "lemma": "cuore",
+                  "pos": "noun",
+                  "meaning": "heart"
+                }
+              ]
+            },
+            {
+              "id": "a1_s5_c1_l13",
+              "original": "festi primo palpitar...",
+              "literal": "first palpitate...",
+              "tokens": [
+                {
+                  "word": "festi",
+                  "lemma": "fare",
+                  "pos": "verb",
+                  "meaning": "you made (2nd sg. past hist. poetic)"
+                },
+                {
+                  "word": "primo",
+                  "lemma": "primo",
+                  "pos": "adverb",
+                  "meaning": "first"
+                },
+                {
+                  "word": "palpitar",
+                  "lemma": "palpitare",
+                  "pos": "verb",
+                  "meaning": "to throb / palpitate"
+                }
+              ]
+            },
+            {
+              "id": "a1_s5_c1_l14",
+              "original": "col pensier il mio desir",
+              "literal": "with my thought my desire",
+              "tokens": [
+                {
+                  "word": "col",
+                  "lemma": "con",
+                  "pos": "preposition",
+                  "meaning": "with the"
+                },
+                {
+                  "word": "pensier",
+                  "lemma": "pensiero",
+                  "pos": "noun",
+                  "meaning": "thought"
+                },
+                {
+                  "word": "il",
+                  "lemma": "il",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "mio",
+                  "lemma": "mio",
+                  "pos": "noun",
+                  "meaning": "my"
+                },
+                {
+                  "word": "desir",
+                  "lemma": "desiderio",
+                  "pos": "noun",
+                  "meaning": "desire"
+                }
+              ]
+            },
+            {
+              "id": "a1_s5_c1_l15",
+              "original": "a te sempre volerà...",
+              "literal": "will always fly to you...",
+              "tokens": [
+                {
+                  "word": "a",
+                  "lemma": "a",
+                  "pos": "preposition",
+                  "meaning": "to"
+                },
+                {
+                  "word": "te",
+                  "lemma": "te",
+                  "pos": "pronoun",
+                  "meaning": "you"
+                },
+                {
+                  "word": "sempre",
+                  "lemma": "sempre",
+                  "pos": "adverb",
+                  "meaning": "always"
+                },
+                {
+                  "word": "volerà",
+                  "lemma": "volare",
+                  "pos": "verb",
+                  "meaning": "will fly (3rd sg. fut.)"
+                }
+              ]
+            },
+            {
+              "id": "a1_s5_c1_l16",
+              "original": "Caro nome, tuo sarà!",
+              "literal": "Dear name, yours it shall be!",
+              "tokens": [
+                {
+                  "word": "Caro",
+                  "lemma": "caro",
+                  "pos": "adjective",
                   "meaning": "dear"
                 },
                 {
@@ -15008,10 +15702,16 @@ export const rigolettoAct1: Act = {
                   "meaning": "name"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "tuo",
+                  "lemma": "tuo",
+                  "pos": "pronoun",
+                  "meaning": "yours"
+                },
+                {
+                  "word": "sarà",
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "it will be (3rd sg. fut.)"
                 }
               ]
             }
@@ -16652,94 +17352,180 @@ export const rigolettoAct1: Act = {
             },
             {
               "id": "a1_s6_c24_l7",
-              "original": "Cheti, cheti, ecc.",
-              "literal": "Cheti, cheti, etc.",
+              "original": "Cheti, cheti, rubiamgli l'amante,",
+              "literal": "Quietly, quietly, let us steal his lover,",
               "tokens": [
                 {
                   "word": "Cheti",
                   "lemma": "cheto",
                   "pos": "adjective",
-                  "meaning": "masculine plural of cheto"
+                  "meaning": "quiet / stealthy"
                 },
                 {
                   "word": "cheti",
                   "lemma": "cheto",
                   "pos": "adjective",
-                  "meaning": "masculine plural of cheto"
+                  "meaning": "quiet / stealthy"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "rubiamgli",
+                  "lemma": "rubare",
+                  "pos": "verb",
+                  "meaning": "let us steal from him (1st pl. imper. + gli)"
+                },
+                {
+                  "word": "l",
+                  "lemma": "il",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "amante",
+                  "lemma": "amante",
+                  "pos": "noun",
+                  "meaning": "mistress / lover"
                 }
               ]
             },
             {
               "id": "a1_s6_c24_l8",
-              "original": "Derisore sì audace, ecc.",
-              "literal": "Derisory yes audacious, etc.",
+              "original": "e la Corte doman riderà!",
+              "literal": "and tomorrow the Court will laugh!",
               "tokens": [
                 {
-                  "word": "Derisore",
-                  "lemma": "derisore",
-                  "pos": "noun",
-                  "meaning": "mocker, derider"
+                  "word": "e",
+                  "lemma": "e",
+                  "pos": "conjunction",
+                  "meaning": "and"
                 },
                 {
-                  "word": "sì",
-                  "lemma": "sì",
+                  "word": "la",
+                  "lemma": "il",
                   "pos": "noun",
-                  "meaning": "yes"
+                  "meaning": "the"
                 },
                 {
-                  "word": "audace",
-                  "lemma": "audace",
+                  "word": "Corte",
+                  "lemma": "corte",
                   "pos": "noun",
-                  "meaning": "audacious / bold"
+                  "meaning": "court"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
+                  "word": "doman",
+                  "lemma": "domani",
                   "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "meaning": "tomorrow"
+                },
+                {
+                  "word": "riderà",
+                  "lemma": "ridere",
+                  "pos": "verb",
+                  "meaning": "will laugh (3rd sg. fut.)"
                 }
               ]
             },
             {
               "id": "a1_s6_c24_l9",
-              "original": "Zitti... cheti... attenti all'opra.",
-              "literal": "Shut up... keep quiet... pay attention to the work.",
+              "original": "Derisore sì audace, costante",
+              "literal": "A mocker so bold and constant",
+              "tokens": [
+                {
+                  "word": "Derisore",
+                  "lemma": "derisore",
+                  "pos": "noun",
+                  "meaning": "mocker / derider"
+                },
+                {
+                  "word": "sì",
+                  "lemma": "sì",
+                  "pos": "adverb",
+                  "meaning": "so / thus"
+                },
+                {
+                  "word": "audace",
+                  "lemma": "audace",
+                  "pos": "adjective",
+                  "meaning": "bold / audacious"
+                },
+                {
+                  "word": "costante",
+                  "lemma": "costante",
+                  "pos": "adjective",
+                  "meaning": "constant / persistent"
+                }
+              ]
+            },
+            {
+              "id": "a1_s6_c24_l10",
+              "original": "a sua volta schernito sarà!",
+              "literal": "in his turn mocked will be!",
+              "tokens": [
+                {
+                  "word": "a",
+                  "lemma": "a",
+                  "pos": "preposition",
+                  "meaning": "in / at"
+                },
+                {
+                  "word": "sua",
+                  "lemma": "suo",
+                  "pos": "noun",
+                  "meaning": "his"
+                },
+                {
+                  "word": "volta",
+                  "lemma": "volta",
+                  "pos": "noun",
+                  "meaning": "turn / time"
+                },
+                {
+                  "word": "schernito",
+                  "lemma": "schernire",
+                  "pos": "verb",
+                  "meaning": "mocked / derided (past part.)"
+                },
+                {
+                  "word": "sarà",
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "will be (3rd sg. fut.)"
+                }
+              ]
+            },
+            {
+              "id": "a1_s6_c24_l11",
+              "original": "Zitti... cheti... attenti all'opra!",
+              "literal": "Hush... quietly... careful at the work!",
               "tokens": [
                 {
                   "word": "Zitti",
                   "lemma": "zitto",
-                  "pos": "interjection",
-                  "meaning": "quiet! (plural)"
+                  "pos": "adjective",
+                  "meaning": "silent / hush"
                 },
                 {
                   "word": "cheti",
                   "lemma": "cheto",
                   "pos": "adjective",
-                  "meaning": "masculine plural of cheto"
+                  "meaning": "quiet / stealthy"
                 },
                 {
                   "word": "attenti",
-                  "lemma": "attenti",
-                  "pos": "noun",
-                  "meaning": "attentive / watch out"
+                  "lemma": "attento",
+                  "pos": "adjective",
+                  "meaning": "careful / attentive"
                 },
                 {
                   "word": "all",
-                  "lemma": "all",
-                  "pos": "noun",
-                  "meaning": "to-the"
+                  "lemma": "al",
+                  "pos": "preposition",
+                  "meaning": "to the"
                 },
                 {
                   "word": "opra",
-                  "lemma": "oprare",
-                  "pos": "verb",
-                  "meaning": "third-person singular present indicative / second-person singular imperative"
+                  "lemma": "opera",
+                  "pos": "noun",
+                  "meaning": "work / deed (poetic)"
                 }
               ]
             }

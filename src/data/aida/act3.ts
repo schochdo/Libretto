@@ -6533,38 +6533,100 @@ export const aidaAct3: Act = {
           "lines": [
             {
               "id": "a3_s1_c59_l1",
-              "original": "Là... tra foreste vergini, ecc.",
-              "literal": "There... amidst virgin forests, etc.",
+              "original": "Là... tra foreste vergini,",
+              "literal": "There... amidst virgin forests,",
               "tokens": [
                 {
                   "word": "Là",
                   "lemma": "là",
-                  "pos": "noun",
+                  "pos": "adverb",
                   "meaning": "there"
                 },
                 {
                   "word": "tra",
                   "lemma": "tra",
-                  "pos": "noun",
-                  "meaning": "between / among"
+                  "pos": "preposition",
+                  "meaning": "amidst / between"
                 },
                 {
                   "word": "foreste",
-                  "lemma": "foreste",
-                  "pos": "verb",
-                  "meaning": "foreste"
+                  "lemma": "foresta",
+                  "pos": "noun",
+                  "meaning": "forests"
                 },
                 {
                   "word": "vergini",
                   "lemma": "vergine",
-                  "pos": "noun",
-                  "meaning": "plural of vergine"
+                  "pos": "adjective",
+                  "meaning": "virgin"
+                }
+              ]
+            },
+            {
+              "id": "a3_s1_c59_l2",
+              "original": "di fior profumate,",
+              "literal": "fragrant with flowers,",
+              "tokens": [
+                {
+                  "word": "di",
+                  "lemma": "di",
+                  "pos": "preposition",
+                  "meaning": "of / with"
                 },
                 {
-                  "word": "ecc",
-                  "lemma": "eccetera",
-                  "pos": "adverb",
-                  "meaning": "etc. / and so forth"
+                  "word": "fior",
+                  "lemma": "fiore",
+                  "pos": "noun",
+                  "meaning": "flowers"
+                },
+                {
+                  "word": "profumate",
+                  "lemma": "profumato",
+                  "pos": "adjective",
+                  "meaning": "perfumed / fragrant"
+                }
+              ]
+            },
+            {
+              "id": "a3_s1_c59_l3",
+              "original": "in estasi beate la terra oblierem!",
+              "literal": "in blissful ecstasy we shall forget the earth!",
+              "tokens": [
+                {
+                  "word": "in",
+                  "lemma": "in",
+                  "pos": "preposition",
+                  "meaning": "in"
+                },
+                {
+                  "word": "estasi",
+                  "lemma": "estasi",
+                  "pos": "noun",
+                  "meaning": "ecstasy"
+                },
+                {
+                  "word": "beate",
+                  "lemma": "beato",
+                  "pos": "adjective",
+                  "meaning": "blessed / blissful"
+                },
+                {
+                  "word": "la",
+                  "lemma": "il",
+                  "pos": "noun",
+                  "meaning": "the"
+                },
+                {
+                  "word": "terra",
+                  "lemma": "terra",
+                  "pos": "noun",
+                  "meaning": "earth / world"
+                },
+                {
+                  "word": "oblierem",
+                  "lemma": "obliare",
+                  "pos": "verb",
+                  "meaning": "we shall forget (1st pl. fut. poetic)"
                 }
               ]
             }
