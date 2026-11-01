@@ -26,9 +26,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Pigri",
-                  "lemma": "pigri",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "pigro",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of pigro"
                 },
                 {
                   "word": "ed",
@@ -38,9 +38,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "obesi",
-                  "lemma": "obesi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "obeso",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of obeso"
                 },
                 {
                   "word": "son",
@@ -62,9 +62,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "giapponesi",
-                  "lemma": "giapponesi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "giapponese",
+                  "pos": "adjective",
+                  "meaning": "plural of giapponese"
                 }
               ]
             },
@@ -82,8 +82,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "americano",
                   "lemma": "americano",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "American, United Statesian, US-American, Yankee"
                 },
                 {
                   "word": "Iddio",
@@ -99,9 +99,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "persuasa",
-                  "lemma": "persuasa",
+                  "lemma": "persuaso",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of persuaso"
                 }
               ]
             },
@@ -155,8 +155,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "imlori",
                   "lemma": "imlori",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "imlori"
                 }
               ]
             },
@@ -179,7 +179,7 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -191,9 +191,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "ignori",
-                  "lemma": "ignori",
+                  "lemma": "ignorare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             },
@@ -246,16 +246,16 @@ export const butterflyAct2: Act = {
               "literal": "remains pensive",
               "tokens": [
                 {
-                  "word": "<i>rimane",
-                  "lemma": "<i>rimane",
+                  "word": "rimane",
+                  "lemma": "rimanere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of rimanere"
                 },
                 {
                   "word": "pensierosa",
-                  "lemma": "pensierosa",
+                  "lemma": "pensieroso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "feminine singular of pensieroso"
                 }
               ]
             },
@@ -266,9 +266,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Suzuki",
-                  "lemma": "suzuki",
+                  "lemma": "Suzuki",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Suzuki (Cio-Cio-San's servant)"
                 },
                 {
                   "word": "si",
@@ -297,8 +297,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "parete",
                   "lemma": "parete",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "wall / side, surface, wall"
                 },
                 {
                   "word": "del",
@@ -325,10 +325,10 @@ export const butterflyAct2: Act = {
                   "meaning": "the"
                 },
                 {
-                  "word": "giardino.</i>",
-                  "lemma": "giardino.</i>",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "giardino",
+                  "lemma": "giardino",
+                  "pos": "noun",
+                  "meaning": "garden"
                 }
               ]
             }
@@ -347,9 +347,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Suzuki",
-                  "lemma": "suzuki",
+                  "lemma": "Suzuki",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Suzuki (Cio-Cio-San's servant)"
                 },
                 {
                   "word": "è",
@@ -360,8 +360,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "lungi",
                   "lemma": "lungi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "distant, far / far"
                 },
                 {
                   "word": "la",
@@ -476,7 +476,7 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "S",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -538,8 +538,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "arnese",
                   "lemma": "arnese",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "armour/armor / a part of an armour/armor"
                 }
               ]
             }
@@ -585,9 +585,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Tornerà",
-                  "lemma": "tornerà",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "tornare",
+                  "pos": "verb",
+                  "meaning": "third-person singular future of tornare"
                 }
               ]
             }
@@ -612,9 +612,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "dispone",
-                  "lemma": "dispone",
+                  "lemma": "disporre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of disporre"
                 }
               ]
             },
@@ -639,13 +639,13 @@ export const butterflyAct2: Act = {
                   "word": "Console",
                   "lemma": "console",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "consul"
                 },
                 {
                   "word": "provveda",
-                  "lemma": "provveda",
+                  "lemma": "provvedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "alla",
@@ -713,9 +713,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "cure",
-                  "lemma": "cure",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "cura",
+                  "pos": "noun",
+                  "meaning": "plural of cura"
                 }
               ]
             },
@@ -738,9 +738,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "rifornì",
-                  "lemma": "rifornì",
+                  "lemma": "rifornire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of rifornire"
                 },
                 {
                   "word": "di",
@@ -750,9 +750,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "serrature",
-                  "lemma": "serrature",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "serratura",
+                  "pos": "noun",
+                  "meaning": "plural of serratura"
                 }
               ]
             },
@@ -763,7 +763,7 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -781,15 +781,15 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "volessi",
-                  "lemma": "volessi",
+                  "lemma": "volere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second-person singular imperfect subjunctive of volere"
                 },
                 {
                   "word": "ritornar",
                   "lemma": "ritornar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of ritornare"
                 },
                 {
                   "word": "mai",
@@ -915,7 +915,7 @@ export const butterflyAct2: Act = {
                   "word": "tener",
                   "lemma": "tener",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of tenere"
                 },
                 {
                   "word": "ben",
@@ -949,9 +949,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "parenti",
-                  "lemma": "parenti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "parente",
+                  "pos": "noun",
+                  "meaning": "plural of parente"
                 }
               ]
             },
@@ -974,9 +974,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "dolori",
-                  "lemma": "dolori",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "dolore",
+                  "pos": "noun",
+                  "meaning": "plural of dolore"
                 },
                 {
                   "word": "e",
@@ -1012,8 +1012,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "custodia",
                   "lemma": "custodia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "care / custody"
                 },
                 {
                   "word": "la",
@@ -1078,9 +1078,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Butterfly",
-                  "lemma": "butterfly",
+                  "lemma": "Butterfly",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Madama Butterfly (Cio-Cio-San)"
                 }
               ]
             }
@@ -1111,7 +1111,7 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -1143,8 +1143,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "straniero",
                   "lemma": "straniero",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "foreign, alien"
                 },
                 {
                   "word": "marito",
@@ -1173,9 +1173,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "tornato",
-                  "lemma": "tornato",
+                  "lemma": "tornare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of tornare"
                 },
                 {
                   "word": "al",
@@ -1230,15 +1230,15 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
                 {
                   "word": "uccido",
-                  "lemma": "uccido",
+                  "lemma": "uccidere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of uccidere"
                 }
               ]
             },
@@ -1249,7 +1249,7 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Quell",
-                  "lemma": "quell'",
+                  "lemma": "quell",
                   "pos": "noun",
                   "meaning": "that"
                 },
@@ -1292,9 +1292,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "domandai",
-                  "lemma": "domandai",
+                  "lemma": "domandare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of domandare"
                 }
               ]
             },
@@ -1344,7 +1344,7 @@ export const butterflyAct2: Act = {
                   "word": "celarmi",
                   "lemma": "celarmi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive celare with mi"
                 },
                 {
                   "word": "la",
@@ -1367,15 +1367,15 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "sorridendo",
-                  "lemma": "sorridendo",
+                  "lemma": "sorridere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of sorridere"
                 },
                 {
                   "word": "rispose",
-                  "lemma": "rispose",
+                  "lemma": "rispondere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of rispondere"
                 }
               ]
             },
@@ -1392,9 +1392,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Butterfly",
-                  "lemma": "butterfly",
+                  "lemma": "Butterfly",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Madama Butterfly (Cio-Cio-San)"
                 },
                 {
                   "word": "piccina",
@@ -1404,9 +1404,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "mogliettina",
-                  "lemma": "mogliettina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "moglie",
+                  "pos": "noun",
+                  "meaning": "diminutive of moglie"
                 }
               ]
             },
@@ -1417,9 +1417,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "tornerò",
-                  "lemma": "tornerò",
+                  "lemma": "tornare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of tornare"
                 },
                 {
                   "word": "colle",
@@ -1447,9 +1447,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "serena",
-                  "lemma": "serena",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sereno",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of sereno"
                 }
               ]
             },
@@ -1479,8 +1479,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "nidiata",
                   "lemma": "nidiata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "brood / litter"
                 },
                 {
                   "word": "il",
@@ -1490,9 +1490,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "petti",
-                  "lemma": "petti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "petto",
+                  "pos": "noun",
+                  "meaning": "plural of petto"
                 },
                 {
                   "word": "rosso",
@@ -1509,9 +1509,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Tornerà",
-                  "lemma": "tornerà",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "tornare",
+                  "pos": "verb",
+                  "meaning": "third-person singular future of tornare"
                 }
               ]
             }
@@ -1530,9 +1530,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Speriam",
-                  "lemma": "speriam",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "speriamo",
+                  "pos": "verb",
+                  "meaning": "first-person plural present present subjunctive/imperative of sperare"
                 }
               ]
             }
@@ -1569,9 +1569,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Tornerà",
-                  "lemma": "tornerà",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "tornare",
+                  "pos": "verb",
+                  "meaning": "third-person singular future of tornare"
                 }
               ]
             }
@@ -1590,9 +1590,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Tornerà",
-                  "lemma": "tornerà",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "tornare",
+                  "pos": "verb",
+                  "meaning": "third-person singular future of tornare"
                 }
               ]
             }
@@ -1661,8 +1661,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "manca",
                   "lemma": "manca",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "left hand / left"
                 }
               ]
             },
@@ -1718,9 +1718,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "levarsi",
-                  "lemma": "levarsi",
+                  "lemma": "levare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "reflexive of levare / to get up, stand up"
                 },
                 {
                   "word": "un",
@@ -1755,21 +1755,21 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "dall",
-                  "lemma": "dall'",
+                  "lemma": "dall",
                   "pos": "noun",
                   "meaning": "from-the"
                 },
                 {
                   "word": "estremo",
                   "lemma": "estremo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "extreme,  utmost,  farthest, terminal,  outermost / drastic"
                 },
                 {
                   "word": "confin",
-                  "lemma": "confin",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "confine",
+                  "pos": "noun",
+                  "meaning": "border, frontier / boundary"
                 },
                 {
                   "word": "del",
@@ -1885,9 +1885,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "romba",
-                  "lemma": "romba",
+                  "lemma": "rombare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "il",
@@ -1959,15 +1959,15 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "scendo",
-                  "lemma": "scendo",
+                  "lemma": "scendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of scendere"
                 },
                 {
                   "word": "incontro",
                   "lemma": "incontro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "towards"
                 },
                 {
                   "word": "Io",
@@ -2015,8 +2015,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "ciglio",
                   "lemma": "ciglio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "eyelash / eyebrow"
                 },
                 {
                   "word": "del",
@@ -2112,15 +2112,15 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "lunga",
-                  "lemma": "lunga",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "lungo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of lungo"
                 },
                 {
                   "word": "attesa",
-                  "lemma": "attesa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "atteso",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of atteso"
                 }
               ]
             },
@@ -2137,9 +2137,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "uscito",
-                  "lemma": "uscito",
+                  "lemma": "uscire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of uscire"
                 },
                 {
                   "word": "dalla",
@@ -2155,9 +2155,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "cittadina",
-                  "lemma": "cittadina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "cittadino",
+                  "pos": "noun",
+                  "meaning": "small town / female equivalent of cittadino"
                 }
               ]
             },
@@ -2205,15 +2205,15 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
                 {
                   "word": "avvia",
-                  "lemma": "avvia",
+                  "lemma": "avviare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "per",
@@ -2230,8 +2230,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "collina",
                   "lemma": "collina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "hill"
                 }
               ]
             },
@@ -2292,8 +2292,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "giunto",
                   "lemma": "giunto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "joint, link, connection"
                 }
               ]
             },
@@ -2341,9 +2341,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Butterfly",
-                  "lemma": "butterfly",
+                  "lemma": "Butterfly",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Madama Butterfly (Cio-Cio-San)"
                 },
                 {
                   "word": "dalla",
@@ -2353,9 +2353,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "lontana",
-                  "lemma": "lontana",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "lontano",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of lontano"
                 }
               ]
             },
@@ -2373,8 +2373,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "snza",
                   "lemma": "snza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "snza"
                 },
                 {
                   "word": "dar",
@@ -2415,9 +2415,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "nascosta",
-                  "lemma": "nascosta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "nascosto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of nascosto"
                 }
               ]
             },
@@ -2447,8 +2447,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "celia",
                   "lemma": "celia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a female given name from Latin"
                 }
               ]
             },
@@ -2508,8 +2508,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "incontro",
                   "lemma": "incontro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "towards"
                 }
               ]
             },
@@ -2570,14 +2570,14 @@ export const butterflyAct2: Act = {
                 {
                   "word": "iccina",
                   "lemma": "iccina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "iccina"
                 },
                 {
                   "word": "mogliettina",
-                  "lemma": "mogliettina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "moglie",
+                  "pos": "noun",
+                  "meaning": "diminutive of moglie"
                 }
               ]
             },
@@ -2601,8 +2601,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "verbena",
                   "lemma": "verbena",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "verbena, vervain"
                 }
               ]
             },
@@ -2637,9 +2637,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "dava",
-                  "lemma": "dava",
+                  "lemma": "dare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect indicative of dare"
                 },
                 {
                   "word": "al",
@@ -2698,9 +2698,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "prometto",
-                  "lemma": "prometto",
+                  "lemma": "promettere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of promettere"
                 }
               ]
             },
@@ -2749,8 +2749,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "consicura",
                   "lemma": "consicura",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "consicura"
                 },
                 {
                   "word": "fede",
@@ -2778,10 +2778,10 @@ export const butterflyAct2: Act = {
               "literal": "Butterfly and Suzuki embrace each other deeply moved.",
               "tokens": [
                 {
-                  "word": "<i>Butterfly",
-                  "lemma": "<i>butterfly",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "Butterfly",
+                  "lemma": "Butterfly",
+                  "pos": "noun",
+                  "meaning": "Madama Butterfly (Cio-Cio-San)"
                 },
                 {
                   "word": "e",
@@ -2791,9 +2791,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Suzuki",
-                  "lemma": "suzuki",
+                  "lemma": "Suzuki",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Suzuki (Cio-Cio-San's servant)"
                 },
                 {
                   "word": "si",
@@ -2803,15 +2803,15 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "abbracciano",
-                  "lemma": "abbracciano",
+                  "lemma": "abbracciare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of abbracciare"
                 },
                 {
                   "word": "commosse",
-                  "lemma": "commosse",
+                  "lemma": "commosso",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine plural of commosso"
                 }
               ]
             },
@@ -2822,21 +2822,21 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Butterfly",
-                  "lemma": "butterfly",
+                  "lemma": "Butterfly",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Madama Butterfly (Cio-Cio-San)"
                 },
                 {
                   "word": "congeda",
-                  "lemma": "congeda",
+                  "lemma": "congedare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "Suzuki",
-                  "lemma": "suzuki",
+                  "lemma": "Suzuki",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Suzuki (Cio-Cio-San's servant)"
                 },
                 {
                   "word": "che",
@@ -2852,7 +2852,7 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "dall",
-                  "lemma": "dall'",
+                  "lemma": "dall",
                   "pos": "noun",
                   "meaning": "from-the"
                 },
@@ -2896,7 +2896,7 @@ export const butterflyAct2: Act = {
                   "word": "mestamente",
                   "lemma": "mestamente",
                   "pos": "adverb",
-                  "meaning": ""
+                  "meaning": "sadly"
                 },
                 {
                   "word": "collo",
@@ -2932,14 +2932,14 @@ export const butterflyAct2: Act = {
                 {
                   "word": "compariono",
                   "lemma": "compariono",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "compariono"
                 },
                 {
                   "word": "Goro",
-                  "lemma": "goro",
+                  "lemma": "Goro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Goro (nakodo / marriage broker)"
                 },
                 {
                   "word": "e",
@@ -2949,15 +2949,15 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Sharpless",
-                  "lemma": "sharpless",
+                  "lemma": "Sharpless",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Sharpless (United States consul at Nagasaki)"
                 },
                 {
                   "word": "Goro",
-                  "lemma": "goro",
+                  "lemma": "Goro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Goro (nakodo / marriage broker)"
                 },
                 {
                   "word": "guarda",
@@ -2991,9 +2991,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Butterfly",
-                  "lemma": "butterfly",
+                  "lemma": "Butterfly",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Madama Butterfly (Cio-Cio-San)"
                 },
                 {
                   "word": "e",
@@ -3015,9 +3015,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Sharpless",
-                  "lemma": "sharpless",
+                  "lemma": "Sharpless",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Sharpless (United States consul at Nagasaki)"
                 },
                 {
                   "word": "che",
@@ -3032,10 +3032,10 @@ export const butterflyAct2: Act = {
                   "meaning": "the / him / it"
                 },
                 {
-                  "word": "segue:</i>",
-                  "lemma": "segue:</i>",
+                  "word": "segue",
+                  "lemma": "seguire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of seguire"
                 }
               ]
             }
@@ -3052,7 +3052,7 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "C",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
@@ -3095,8 +3095,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "scusa",
                   "lemma": "scusa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apology, excuse / excuse, justification, pretext"
                 }
               ]
             },
@@ -3109,13 +3109,13 @@ export const butterflyAct2: Act = {
                   "word": "Madama",
                   "lemma": "madama",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "madam / lady (Madama Butterfly)"
                 },
                 {
                   "word": "Butterfly",
-                  "lemma": "butterfly",
+                  "lemma": "Butterfly",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Madama Butterfly (Cio-Cio-San)"
                 }
               ]
             }
@@ -3136,13 +3136,13 @@ export const butterflyAct2: Act = {
                   "word": "Madama",
                   "lemma": "madama",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "madam / lady (Madama Butterfly)"
                 },
                 {
                   "word": "Pinkerton",
-                  "lemma": "pinkerton",
+                  "lemma": "Pinkerton",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "B. F. Pinkerton (Lieutenant in the US Navy)"
                 },
                 {
                   "word": "Prego",
@@ -3200,7 +3200,7 @@ export const butterflyAct2: Act = {
                   "word": "Console",
                   "lemma": "console",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "consul"
                 },
                 {
                   "word": "signor",
@@ -3212,7 +3212,7 @@ export const butterflyAct2: Act = {
                   "word": "Console",
                   "lemma": "console",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "consul"
                 }
               ]
             }
@@ -3237,9 +3237,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "ravvisate",
-                  "lemma": "ravvisate",
+                  "lemma": "ravvisare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -3276,9 +3276,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "americana",
-                  "lemma": "americana",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "americano",
+                  "pos": "noun",
+                  "meaning": "female equivalent of americano; female American"
                 }
               ]
             }
@@ -3316,15 +3316,15 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Avi",
-                  "lemma": "avi",
+                  "lemma": "avo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of avo"
                 },
                 {
                   "word": "antenati",
-                  "lemma": "antenati",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "antenato",
+                  "pos": "noun",
+                  "meaning": "plural of antenato"
                 },
                 {
                   "word": "tutti",
@@ -3382,9 +3382,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Fumate",
-                  "lemma": "fumate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "fumare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -3528,9 +3528,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Preferite",
-                  "lemma": "preferite",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "preferito",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of preferito"
                 },
                 {
                   "word": "forse",
@@ -3546,15 +3546,15 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "sigarette",
-                  "lemma": "sigarette",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sigaretta",
+                  "pos": "noun",
+                  "meaning": "plural of sigaretta"
                 },
                 {
                   "word": "americane",
-                  "lemma": "americane",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "americano",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of americano"
                 }
               ]
             }
@@ -3600,7 +3600,7 @@ export const butterflyAct2: Act = {
                   "word": "mostrarvi",
                   "lemma": "mostrarvi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive mostrare with vi"
                 }
               ]
             }
@@ -3658,21 +3658,21 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Benjamin",
-                  "lemma": "benjamin",
+                  "lemma": "Benjamin",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Benjamin"
                 },
                 {
                   "word": "Franklin",
-                  "lemma": "franklin",
+                  "lemma": "Franklin",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Franklin"
                 },
                 {
                   "word": "Pinkerton",
-                  "lemma": "pinkerton",
+                  "lemma": "Pinkerton",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "B. F. Pinkerton (Lieutenant in the US Navy)"
                 }
               ]
             }
@@ -3728,9 +3728,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Perfetta",
-                  "lemma": "perfetta",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "perfetto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of perfetto"
                 }
               ]
             }
@@ -3793,7 +3793,7 @@ export const butterflyAct2: Act = {
                   "word": "Giappone",
                   "lemma": "giappone",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Japan"
                 }
               ]
             },
@@ -3812,7 +3812,7 @@ export const butterflyAct2: Act = {
                   "word": "farvi",
                   "lemma": "farvi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive fare with vi"
                 },
                 {
                   "word": "una",
@@ -3823,8 +3823,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "domanda",
                   "lemma": "domanda",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "question / request, demand, claim, application"
                 }
               ]
             }
@@ -3899,8 +3899,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "America",
                   "lemma": "america",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "America, the Americas"
                 },
                 {
                   "word": "i",
@@ -3910,9 +3910,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "pettirossi",
-                  "lemma": "pettirossi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pettirosso",
+                  "pos": "noun",
+                  "meaning": "plural of pettirosso"
                 }
               ]
             }
@@ -4046,7 +4046,7 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -4059,8 +4059,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "promesso",
                   "lemma": "promesso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "promised / betrothed"
                 }
               ]
             },
@@ -4079,7 +4079,7 @@ export const butterflyAct2: Act = {
                   "word": "ritornar",
                   "lemma": "ritornar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of ritornare"
                 },
                 {
                   "word": "nella",
@@ -4095,9 +4095,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "beata",
-                  "lemma": "beata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "beato",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of beato"
                 }
               ]
             },
@@ -4121,14 +4121,14 @@ export const butterflyAct2: Act = {
                 {
                   "word": "pettirosso",
                   "lemma": "pettirosso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "European robin"
                 },
                 {
                   "word": "rifà",
-                  "lemma": "rifà",
+                  "lemma": "rifare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of rifare"
                 },
                 {
                   "word": "la",
@@ -4139,8 +4139,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "nidiata",
                   "lemma": "nidiata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "brood / litter"
                 }
               ]
             },
@@ -4169,9 +4169,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "rifatta",
-                  "lemma": "rifatta",
+                  "lemma": "rifatto",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of rifatto"
                 },
                 {
                   "word": "per",
@@ -4213,8 +4213,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "uò",
                   "lemma": "uò",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "uò"
                 },
                 {
                   "word": "darsi",
@@ -4249,15 +4249,15 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "usi",
-                  "lemma": "usi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "uso",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of uso"
                 },
                 {
                   "word": "nidiar",
                   "lemma": "nidiar",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "nidiar"
                 },
                 {
                   "word": "men",
@@ -4313,7 +4313,7 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "c",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
@@ -4332,8 +4332,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "nakodo",
                   "lemma": "nakodo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "nakodo"
                 }
               ]
             },
@@ -4377,9 +4377,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Godo",
-                  "lemma": "godo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "godere",
+                  "pos": "verb",
+                  "meaning": "first-person singular present indicative of godere"
                 }
               ]
             }
@@ -4417,9 +4417,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "osò",
-                  "lemma": "osò",
+                  "lemma": "osare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of osare"
                 },
                 {
                   "word": "No",
@@ -4442,9 +4442,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "rispondete",
-                  "lemma": "rispondete",
+                  "lemma": "rispondere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "alla",
@@ -4454,9 +4454,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "dimanda",
-                  "lemma": "dimanda",
+                  "lemma": "dimandare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "mia",
@@ -4487,9 +4487,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "rincresce",
-                  "lemma": "rincresce",
+                  "lemma": "rincrescere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of rincrescere"
                 },
                 {
                   "word": "ma",
@@ -4499,9 +4499,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "ignoro",
-                  "lemma": "ignoro",
+                  "lemma": "ignorare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of ignorare"
                 }
               ]
             },
@@ -4525,14 +4525,14 @@ export const butterflyAct2: Act = {
                 {
                   "word": "studiato",
                   "lemma": "studiato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "affected"
                 },
                 {
                   "word": "ornitologia",
                   "lemma": "ornitologia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "ornithology"
                 }
               ]
             }
@@ -4549,9 +4549,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Orni",
-                  "lemma": "orni",
+                  "lemma": "orno",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of orno"
                 }
               ]
             }
@@ -4569,8 +4569,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "tologia",
                   "lemma": "tologia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "tologia"
                 }
               ]
             }
@@ -4606,8 +4606,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "insomma",
                   "lemma": "insomma",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "in short, in sum, in a word, in conclusion / then, well, after all"
                 }
               ]
             }
@@ -4632,9 +4632,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Dicevamo",
-                  "lemma": "dicevamo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "dire",
+                  "pos": "verb",
+                  "meaning": "first-person plural imperfect indicative of dire"
                 }
               ]
             }
@@ -4665,9 +4665,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Goro",
-                  "lemma": "goro",
+                  "lemma": "Goro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Goro (nakodo / marriage broker)"
                 },
                 {
                   "word": "appena",
@@ -4677,15 +4677,15 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "B.F",
-                  "lemma": "b.f",
+                  "lemma": "B.f",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "B.f"
                 },
                 {
                   "word": "Pinkerton",
-                  "lemma": "pinkerton",
+                  "lemma": "Pinkerton",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "B. F. Pinkerton (Lieutenant in the US Navy)"
                 }
               ]
             },
@@ -4734,7 +4734,7 @@ export const butterflyAct2: Act = {
                   "word": "assediare",
                   "lemma": "assediare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to besiege, to lay siege to / to weigh on, to trouble"
                 }
               ]
             },
@@ -4769,9 +4769,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "presenti",
-                  "lemma": "presenti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "presente",
+                  "pos": "adjective",
+                  "meaning": "plural of presente"
                 },
                 {
                   "word": "per",
@@ -4783,7 +4783,7 @@ export const butterflyAct2: Act = {
                   "word": "ridarmi",
                   "lemma": "ridarmi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive ridare with mi"
                 }
               ]
             },
@@ -4837,9 +4837,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "promette",
-                  "lemma": "promette",
+                  "lemma": "promettere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of promettere"
                 },
                 {
                   "word": "tesori",
@@ -4862,8 +4862,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "scimunito",
                   "lemma": "scimunito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "stupid, foolish, silly"
                 }
               ]
             }
@@ -4894,9 +4894,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Yamadori",
-                  "lemma": "yamadori",
+                  "lemma": "Yamadori",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Prince Yamadori"
                 }
               ]
             },
@@ -4956,9 +4956,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "parenti",
-                  "lemma": "parenti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "parente",
+                  "pos": "noun",
+                  "meaning": "plural of parente"
                 },
                 {
                   "word": "l",
@@ -4980,9 +4980,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "rinnegata",
-                  "lemma": "rinnegata",
+                  "lemma": "rinnegato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of rinnegato"
                 }
               ]
             }
@@ -5028,9 +5028,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Yamadori",
-                  "lemma": "yamadori",
+                  "lemma": "Yamadori",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Prince Yamadori"
                 },
                 {
                   "word": "ancor",
@@ -5047,12 +5047,12 @@ export const butterflyAct2: Act = {
                 {
                   "word": "pene",
                   "lemma": "pene",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "penis"
                 },
                 {
                   "word": "dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
@@ -5070,7 +5070,7 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -5082,9 +5082,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "deluso",
-                  "lemma": "deluso",
+                  "lemma": "deludere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of deludere"
                 }
               ],
               "grammarNote": "'Yamadori, are the pangs of unrequited love still tormenting you?' Butterfly playfully yet firmly rebuffs the wealthy suitor."
@@ -5102,9 +5102,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "tagliate",
-                  "lemma": "tagliate",
+                  "lemma": "tagliare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative/subjunctive / second-person plural imperative"
                 },
                 {
                   "word": "ancor",
@@ -5120,9 +5120,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "vene",
-                  "lemma": "vene",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vena",
+                  "pos": "noun",
+                  "meaning": "plural of vena"
                 },
                 {
                   "word": "se",
@@ -5199,9 +5199,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "moleste",
-                  "lemma": "moleste",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "molesto",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of molesto"
                 }
               ]
             },
@@ -5225,14 +5225,14 @@ export const butterflyAct2: Act = {
                 {
                   "word": "inutil",
                   "lemma": "inutil",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "apocopic form of inutile"
                 },
                 {
                   "word": "sospirar",
                   "lemma": "sospirar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of sospirare"
                 }
               ]
             }
@@ -5264,14 +5264,14 @@ export const butterflyAct2: Act = {
                 {
                   "word": "omai",
                   "lemma": "omai",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "contraction of oggimai"
                 },
                 {
                   "word": "toglieste",
-                  "lemma": "toglieste",
+                  "lemma": "togliere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural past historic / second-person plural imperfect subjunctive"
                 }
               ]
             },
@@ -5288,15 +5288,15 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "doveste",
-                  "lemma": "doveste",
+                  "lemma": "dovere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural past historic / second-person plural imperfect subjunctive"
                 },
                 {
                   "word": "abituar",
                   "lemma": "abituar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of abituare"
                 }
               ]
             }
@@ -5325,9 +5325,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "sposate",
-                  "lemma": "sposate",
+                  "lemma": "sposare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "tutto",
@@ -5337,9 +5337,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "quante",
-                  "lemma": "quante",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "quanto",
+                  "pos": "particle",
+                  "meaning": "feminine plural of quanto"
                 }
               ]
             },
@@ -5363,8 +5363,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "divorzio",
                   "lemma": "divorzio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "divorce"
                 },
                 {
                   "word": "mi",
@@ -5375,8 +5375,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "francò",
                   "lemma": "francò",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "francò"
                 }
               ]
             }
@@ -5393,9 +5393,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Obbligata",
-                  "lemma": "obbligata",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "obbligato",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of obbligato"
                 }
               ]
             }
@@ -5430,9 +5430,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "giurerei",
-                  "lemma": "giurerei",
+                  "lemma": "giurare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular conditional of giurare"
                 },
                 {
                   "word": "fede",
@@ -5443,8 +5443,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "costante",
                   "lemma": "costante",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "constant, persistent, consistent / uniform, even"
                 }
               ]
             }
@@ -5506,9 +5506,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "trasmetter",
-                  "lemma": "trasmetter",
+                  "lemma": "trasmettere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to transmit, transfer, pass on, hand down, convey, communicate / to send, forward"
                 },
                 {
                   "word": "non",
@@ -5518,9 +5518,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "riesco",
-                  "lemma": "riesco",
+                  "lemma": "riuscire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of riuscire"
                 }
               ]
             }
@@ -5539,9 +5539,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Ville",
-                  "lemma": "ville",
+                  "lemma": "villa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of villa"
                 },
                 {
                   "word": "servi",
@@ -5570,9 +5570,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Omara",
-                  "lemma": "omara",
+                  "lemma": "Omara",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Omara"
                 },
                 {
                   "word": "un",
@@ -5583,14 +5583,14 @@ export const butterflyAct2: Act = {
                 {
                   "word": "palazzo",
                   "lemma": "palazzo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a royal palace / a palatial urban building, a palazzo"
                 },
                 {
                   "word": "principesco",
                   "lemma": "principesco",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "princely"
                 }
               ]
             }
@@ -5615,9 +5615,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "legata",
-                  "lemma": "legata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "legato",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of legato"
                 },
                 {
                   "word": "è",
@@ -5652,9 +5652,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "GORO",
-                  "lemma": "goro",
+                  "lemma": "Goro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Goro (nakodo / marriage broker)"
                 },
                 {
                   "word": "e",
@@ -5664,9 +5664,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "YAMADORI",
-                  "lemma": "yamadori",
+                  "lemma": "Yamadori",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Prince Yamadori"
                 }
               ]
             },
@@ -5677,9 +5677,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Maritata",
-                  "lemma": "maritata",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "maritato",
+                  "pos": "verb",
+                  "meaning": "feminine singular of maritato"
                 },
                 {
                   "word": "ancor",
@@ -5852,8 +5852,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "abbandono",
                   "lemma": "abbandono",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "abandonment / desertion"
                 },
                 {
                   "word": "al",
@@ -5864,14 +5864,14 @@ export const butterflyAct2: Act = {
                 {
                   "word": "divorzio",
                   "lemma": "divorzio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "divorce"
                 },
                 {
                   "word": "equiparò",
-                  "lemma": "equiparò",
+                  "lemma": "equiparare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of equiparare"
                 }
               ]
             }
@@ -5901,8 +5901,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "giapponese",
                   "lemma": "giapponese",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "Japanese / stubborn"
                 }
               ]
             },
@@ -6145,9 +6145,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "divorziar",
-                  "lemma": "divorziar",
+                  "lemma": "divorziare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to divorce, to get divorced"
                 },
                 {
                   "word": "si",
@@ -6183,8 +6183,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "America",
                   "lemma": "america",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "America, the Americas"
                 },
                 {
                   "word": "questo",
@@ -6286,8 +6286,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "giudice",
                   "lemma": "giudice",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "judge, magistrate / umpire, judge"
                 },
                 {
                   "word": "serio",
@@ -6298,8 +6298,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "impettito",
                   "lemma": "impettito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "stiff"
                 }
               ]
             },
@@ -6349,13 +6349,13 @@ export const butterflyAct2: Act = {
                   "word": "andarsene",
                   "lemma": "andarsene",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to go away / depart"
                 },
                 {
                   "word": "Sentiam",
-                  "lemma": "sentiam",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "sentire",
+                  "pos": "verb",
+                  "meaning": "let us hear / listen (sentiamo)"
                 },
                 {
                   "word": "perché",
@@ -6378,9 +6378,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "seccato",
-                  "lemma": "seccato",
+                  "lemma": "seccare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "annoyed / dried / bothered"
                 },
                 {
                   "word": "del",
@@ -6390,9 +6390,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "coniugato",
-                  "lemma": "coniugato",
+                  "lemma": "coniugare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "married / wed"
                 }
               ]
             },
@@ -6416,8 +6416,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "magistrato",
                   "lemma": "magistrato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "magistrate"
                 }
               ]
             },
@@ -6453,8 +6453,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "prigione",
                   "lemma": "prigione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "prison / jail"
                 }
               ]
             },
@@ -6465,9 +6465,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Suzuki",
-                  "lemma": "suzuki",
+                  "lemma": "Suzuki",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Suzuki (Cio-Cio-San's servant)"
                 },
                 {
                   "word": "il",
@@ -6478,8 +6478,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "thè",
                   "lemma": "thè",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "misspelling of tè"
                 }
               ]
             }
@@ -6498,9 +6498,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Udiste",
-                  "lemma": "udiste",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "udire",
+                  "pos": "verb",
+                  "meaning": "second-person plural past historic / second-person plural imperfect subjunctive"
                 }
               ]
             }
@@ -6525,9 +6525,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "rattrista",
-                  "lemma": "rattrista",
+                  "lemma": "rattristare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "una",
@@ -6550,8 +6550,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "cecità",
                   "lemma": "cecità",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "blindness"
                 }
               ]
             }
@@ -6570,9 +6570,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Segnalata",
-                  "lemma": "segnalata",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "segnalato",
+                  "pos": "verb",
+                  "meaning": "feminine singular of segnalato"
                 },
                 {
                   "word": "è",
@@ -6606,9 +6606,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Pinkerton",
-                  "lemma": "pinkerton",
+                  "lemma": "Pinkerton",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "B. F. Pinkerton (Lieutenant in the US Navy)"
                 }
               ]
             }
@@ -6627,9 +6627,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Quand'essa",
-                  "lemma": "quand'essa",
+                  "lemma": "Quand'essa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Quand'essa"
                 },
                 {
                   "word": "lo",
@@ -6639,9 +6639,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "riveda",
-                  "lemma": "riveda",
+                  "lemma": "rivedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 }
               ]
             }
@@ -6678,9 +6678,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "mostratsi",
-                  "lemma": "mostratsi",
+                  "lemma": "mostrare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative (si: oneself / him / her)"
                 }
               ]
             },
@@ -6715,13 +6715,13 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "levarla",
-                  "lemma": "levarla",
+                  "lemma": "levar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of levare (la: her / it)"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -6760,9 +6760,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "permette",
-                  "lemma": "permette",
+                  "lemma": "permettere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of permettere"
                 }
               ]
             },
@@ -6779,15 +6779,15 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "persone",
-                  "lemma": "persone",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "persona",
+                  "pos": "noun",
+                  "meaning": "plural of persona"
                 },
                 {
                   "word": "moleste",
-                  "lemma": "moleste",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "molesto",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of molesto"
                 }
               ]
             }
@@ -6844,8 +6844,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "pien",
                   "lemma": "pien",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "apocopic form of pieno"
                 },
                 {
                   "word": "di",
@@ -6856,8 +6856,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "cordoglio",
                   "lemma": "cordoglio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "condolences / grief, affliction, sorrow"
                 },
                 {
                   "word": "ma",
@@ -6925,9 +6925,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "voleste",
-                  "lemma": "voleste",
+                  "lemma": "volere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural past historic / second-person plural imperfect subjunctive"
                 }
               ]
             }
@@ -6953,8 +6953,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "guaio",
                   "lemma": "guaio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "lament, lamentation, cry / hardship, misfortune"
                 },
                 {
                   "word": "è",
@@ -7076,8 +7076,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "migliore",
                   "lemma": "migliore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "better / the best"
                 },
                 {
                   "word": "del",
@@ -7100,9 +7100,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Incominciate",
-                  "lemma": "incominciate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "incominciare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative/subjunctive / second-person plural imperative"
                 }
               ]
             }
@@ -7127,9 +7127,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "cercherete",
-                  "lemma": "cercherete",
+                  "lemma": "cercare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "you will seek / look for"
                 },
                 {
                   "word": "quel",
@@ -7274,15 +7274,15 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Taccio",
-                  "lemma": "taccio",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "tacere",
+                  "pos": "verb",
+                  "meaning": "first-person singular present indicative of tacere / first-person singular present indicative of tacciare"
                 },
                 {
                   "word": "taccio",
-                  "lemma": "taccio",
+                  "lemma": "tacere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of tacere / first-person singular present indicative of tacciare"
                 },
                 {
                   "word": "più",
@@ -7360,9 +7360,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "passati",
-                  "lemma": "passati",
+                  "lemma": "passare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "passed / gone by"
                 }
               ]
             }
@@ -7405,9 +7405,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "contati",
-                  "lemma": "contati",
+                  "lemma": "contato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "masculine plural of contato"
                 }
               ]
             }
@@ -7438,9 +7438,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Butterfly",
-                  "lemma": "butterfly",
+                  "lemma": "Butterfly",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Madama Butterfly"
                 },
                 {
                   "word": "non",
@@ -7456,9 +7456,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "rammenta",
-                  "lemma": "rammenta",
+                  "lemma": "rammentare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "remembers / remind"
                 },
                 {
                   "word": "più",
@@ -7501,9 +7501,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Suzuki",
-                  "lemma": "suzuki",
+                  "lemma": "Suzuki",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Suzuki (Cio-Cio-San's servant)"
                 },
                 {
                   "word": "dillo",
@@ -7538,9 +7538,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "rammenta",
-                  "lemma": "rammenta",
+                  "lemma": "rammentare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "remembers / remind"
                 },
                 {
                   "word": "più",
@@ -7567,7 +7567,7 @@ export const butterflyAct2: Act = {
                   "word": "Pazienza",
                   "lemma": "pazienza",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "patience, endurance, forbearance / suffering"
                 }
               ]
             },
@@ -7717,9 +7717,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "raccomando",
-                  "lemma": "raccomando",
+                  "lemma": "raccomandare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of raccomandare"
                 },
                 {
                   "word": "perché",
@@ -7729,9 +7729,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "vogliate",
-                  "lemma": "vogliate",
+                  "lemma": "volere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present subjunctive / second-person plural imperative"
                 },
                 {
                   "word": "con",
@@ -7742,14 +7742,14 @@ export const butterflyAct2: Act = {
                 {
                   "word": "circospezione",
                   "lemma": "circospezione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "circumspection, caution / stealth"
                 },
                 {
                   "word": "prepararla",
                   "lemma": "prepararla",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive preparare with la"
                 }
               ]
             }
@@ -7847,15 +7847,15 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Benone",
-                  "lemma": "benone",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "bene",
+                  "pos": "adverb",
+                  "meaning": "augmentative of bene; very well"
                 },
                 {
-                  "word": "<i>si",
-                  "lemma": "<i>si",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "si",
+                  "lemma": "si",
+                  "pos": "pronoun",
+                  "meaning": "oneself, himself, herself, itself, themselves / each other, one another"
                 },
                 {
                   "word": "alza",
@@ -7872,14 +7872,14 @@ export const butterflyAct2: Act = {
                 {
                   "word": "scatto",
                   "lemma": "scatto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "release / trigger"
                 },
                 {
                   "word": "eripone",
                   "lemma": "eripone",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "eripone"
                 },
                 {
                   "word": "la",
@@ -7919,10 +7919,10 @@ export const butterflyAct2: Act = {
                   "meaning": "between / among"
                 },
                 {
-                  "word": "sè</i>",
-                  "lemma": "sè</i>",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "sè",
+                  "lemma": "sè",
+                  "pos": "noun",
+                  "meaning": "sè"
                 }
               ]
             },
@@ -7939,9 +7939,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "troncarla",
-                  "lemma": "troncarla",
+                  "lemma": "troncar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of troncare (la: her / it)"
                 },
                 {
                   "word": "conviene",
@@ -7970,7 +7970,7 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -7982,9 +7982,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Pinkerton",
-                  "lemma": "pinkerton",
+                  "lemma": "Pinkerton",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "B. F. Pinkerton (Lieutenant in the US Navy)"
                 }
               ]
             },
@@ -8007,21 +8007,21 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "fareste",
-                  "lemma": "fareste",
+                  "lemma": "fare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural conditional of fare"
                 },
                 {
                   "word": "Madama",
                   "lemma": "madama",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "madam / lady (Madama Butterfly)"
                 },
                 {
                   "word": "Butterfly",
-                  "lemma": "butterfly",
+                  "lemma": "Butterfly",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Madama Butterfly (Cio-Cio-San)"
                 }
               ]
             },
@@ -8032,7 +8032,7 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -8050,15 +8050,15 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "dovesse",
-                  "lemma": "dovesse",
+                  "lemma": "dovere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect subjunctive of dovere"
                 },
                 {
                   "word": "ritornar",
                   "lemma": "ritornar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of ritornare"
                 },
                 {
                   "word": "più",
@@ -8069,8 +8069,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "mair",
                   "lemma": "mair",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mair"
                 }
               ]
             },
@@ -8094,8 +8094,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "potri",
                   "lemma": "potri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "potri"
                 },
                 {
                   "word": "far",
@@ -8124,9 +8124,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "divertir",
-                  "lemma": "divertir",
+                  "lemma": "divertire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to turn away, to divert / to distract, to divert"
                 },
                 {
                   "word": "la",
@@ -8200,7 +8200,7 @@ export const butterflyAct2: Act = {
                   "word": "strapparvi",
                   "lemma": "strapparvi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive strappare with vi"
                 },
                 {
                   "word": "assai",
@@ -8228,15 +8228,15 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "miraggi",
-                  "lemma": "miraggi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "miraggio",
+                  "pos": "noun",
+                  "meaning": "plural of miraggio"
                 },
                 {
                   "word": "ingannatori",
-                  "lemma": "ingannatori",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ingannatore",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of ingannatore"
                 }
               ]
             },
@@ -8247,9 +8247,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Accogliete",
-                  "lemma": "accogliete",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "accogliere",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "la",
@@ -8260,8 +8260,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "proposta",
                   "lemma": "proposta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "proposal"
                 },
                 {
                   "word": "di",
@@ -8283,9 +8283,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Yamadori",
-                  "lemma": "yamadori",
+                  "lemma": "Yamadori",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Prince Yamadori"
                 }
               ]
             }
@@ -8419,9 +8419,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Suzuki",
-                  "lemma": "suzuki",
+                  "lemma": "Suzuki",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Suzuki (Cio-Cio-San's servant)"
                 },
                 {
                   "word": "presto",
@@ -8501,9 +8501,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "scacciate",
-                  "lemma": "scacciate",
+                  "lemma": "scacciare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative/subjunctive / second-person plural imperative"
                 }
               ]
             }
@@ -8554,7 +8554,7 @@ export const butterflyAct2: Act = {
                   "word": "insistere",
                   "lemma": "insistere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to insist on something; to harp on / to persist in doing something; to persevere in"
                 },
                 {
                   "word": "non",
@@ -8564,9 +8564,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "vale",
-                  "lemma": "vale",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "valere",
+                  "pos": "verb",
+                  "meaning": "third-person singular present indicative of valere"
                 }
               ]
             }
@@ -8593,7 +8593,7 @@ export const butterflyAct2: Act = {
                   "word": "brutale",
                   "lemma": "brutale",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "rough, brutal"
                 },
                 {
                   "word": "non",
@@ -8610,8 +8610,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "nego",
                   "lemma": "nego",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of niego (“denial, refusal”)"
                 }
               ]
             }
@@ -8731,9 +8731,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "creduto",
-                  "lemma": "creduto",
+                  "lemma": "credere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of credere"
                 },
                 {
                   "word": "morir",
@@ -8774,9 +8774,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "passan",
-                  "lemma": "passan",
+                  "lemma": "passare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of passare"
                 },
                 {
                   "word": "le",
@@ -8786,9 +8786,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "nuvole",
-                  "lemma": "nuvole",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "nuvola",
+                  "pos": "noun",
+                  "meaning": "plural of nuvola"
                 },
                 {
                   "word": "sul",
@@ -8817,7 +8817,7 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -8829,9 +8829,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "scordata",
-                  "lemma": "scordata",
+                  "lemma": "scordato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of scordato"
                 }
               ]
             },
@@ -8841,10 +8841,10 @@ export const butterflyAct2: Act = {
               "literal": "Butterfly runs into the room on the left.",
               "tokens": [
                 {
-                  "word": "<i>Butterfly",
-                  "lemma": "<i>butterfly",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "Butterfly",
+                  "lemma": "Butterfly",
+                  "pos": "noun",
+                  "meaning": "Madama Butterfly (Cio-Cio-San)"
                 },
                 {
                   "word": "corre",
@@ -8885,15 +8885,15 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Butterfly",
-                  "lemma": "butterfly",
+                  "lemma": "Butterfly",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Madama Butterfly (Cio-Cio-San)"
                 },
                 {
                   "word": "rientra",
-                  "lemma": "rientra",
+                  "lemma": "rientrare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "trionfalmente",
@@ -8903,9 +8903,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "tenendo",
-                  "lemma": "tenendo",
+                  "lemma": "tenere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of tenere"
                 },
                 {
                   "word": "il",
@@ -8964,8 +8964,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "mostra",
                   "lemma": "mostra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "exhibition, show"
                 },
                 {
                   "word": "a",
@@ -8975,15 +8975,15 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Sharpless",
-                  "lemma": "sharpless",
+                  "lemma": "Sharpless",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Sharpless (United States consul at Nagasaki)"
                 },
                 {
-                  "word": "gloriandosene.</i>",
-                  "lemma": "gloriandosene.</i>",
+                  "word": "gloriandosene",
+                  "lemma": "gloriare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of gloriare (sene: sene)"
                 }
               ]
             }
@@ -9066,7 +9066,7 @@ export const butterflyAct2: Act = {
                   "word": "scordare",
                   "lemma": "scordare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to put out of tune"
                 }
               ]
             }
@@ -9143,8 +9143,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "bimbo",
                   "lemma": "bimbo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "child, baby"
                 },
                 {
                   "word": "del",
@@ -9154,9 +9154,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Giappon",
-                  "lemma": "giappon",
+                  "lemma": "giappone",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Japan"
                 },
                 {
                   "word": "occhi",
@@ -9166,9 +9166,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "azzurrini",
-                  "lemma": "azzurrini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "azzurrino",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of azzurrino"
                 }
               ]
             },
@@ -9209,13 +9209,13 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "ricciolini",
-                  "lemma": "ricciolini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ricciolino",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of ricciolino"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -9228,8 +9228,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "schietto",
                   "lemma": "schietto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "pure, undiluted, clear / frank, straightforward"
                 }
               ]
             }
@@ -9255,8 +9255,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "palese",
                   "lemma": "palese",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "clear, evident"
                 },
                 {
                   "word": "e",
@@ -9266,9 +9266,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Pinkerton",
-                  "lemma": "pinkerton",
+                  "lemma": "Pinkerton",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "B. F. Pinkerton (Lieutenant in the US Navy)"
                 },
                 {
                   "word": "lo",
@@ -9331,8 +9331,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "quand'egli",
                   "lemma": "quand'egli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "quand'egli"
                 },
                 {
                   "word": "stava",
@@ -9411,9 +9411,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "scriverete",
-                  "lemma": "scriverete",
+                  "lemma": "scrivere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural future of scrivere"
                 }
               ]
             },
@@ -9485,9 +9485,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "saprete",
-                  "lemma": "saprete",
+                  "lemma": "sapere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural future of sapere"
                 },
                 {
                   "word": "dir",
@@ -9497,7 +9497,7 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -9515,7 +9515,7 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -9564,9 +9564,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "mari",
-                  "lemma": "mari",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "mare",
+                  "pos": "noun",
+                  "meaning": "plural of mare / plural of maro"
                 }
               ]
             },
@@ -9576,10 +9576,10 @@ export const butterflyAct2: Act = {
               "literal": "seating the child on the cushion and kneeling beside him",
               "tokens": [
                 {
-                  "word": "<i>mettendo",
-                  "lemma": "<i>mettendo",
+                  "word": "mettendo",
+                  "lemma": "mettere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of mettere"
                 },
                 {
                   "word": "il",
@@ -9590,8 +9590,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "bimbo",
                   "lemma": "bimbo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "child, baby"
                 },
                 {
                   "word": "a",
@@ -9614,8 +9614,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "cuscino",
                   "lemma": "cuscino",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "cushion, pillow"
                 },
                 {
                   "word": "e",
@@ -9625,9 +9625,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "inginocchiandosi",
-                  "lemma": "inginocchiandosi",
+                  "lemma": "inginocchiarsi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of inginocchiarsi"
                 },
                 {
                   "word": "vicino",
@@ -9664,7 +9664,7 @@ export const butterflyAct2: Act = {
                   "word": "teneramente",
                   "lemma": "teneramente",
                   "pos": "adverb",
-                  "meaning": ""
+                  "meaning": "tenderly / softly"
                 },
                 {
                   "word": "il",
@@ -9673,10 +9673,10 @@ export const butterflyAct2: Act = {
                   "meaning": "the"
                 },
                 {
-                  "word": "bambino</i>",
-                  "lemma": "bambino</i>",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "bambino",
+                  "lemma": "bambino",
+                  "pos": "noun",
+                  "meaning": "child, baby, toddler, tot / boy, young boy"
                 }
               ]
             },
@@ -9694,8 +9694,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "cos'ebbe",
                   "lemma": "cos'ebbe",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "cos'ebbe"
                 },
                 {
                   "word": "cuore",
@@ -9769,7 +9769,7 @@ export const butterflyAct2: Act = {
                   "word": "prenderti",
                   "lemma": "prenderti",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive prendere with ti"
                 },
                 {
                   "word": "in",
@@ -9805,8 +9805,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "pioggia",
                   "lemma": "pioggia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "rain / shower"
                 },
                 {
                   "word": "e",
@@ -9847,8 +9847,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "città",
                   "lemma": "città",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "town, city"
                 }
               ]
             },
@@ -9865,9 +9865,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "guadagnarsi",
-                  "lemma": "guadagnarsi",
+                  "lemma": "guadagnare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "reflexive of guadagnare / to obtain something useful"
                 },
                 {
                   "word": "il",
@@ -9896,8 +9896,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "vestimento",
                   "lemma": "vestimento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "garment / clothing"
                 }
               ]
             },
@@ -9920,15 +9920,15 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "impietosite",
-                  "lemma": "impietosite",
+                  "lemma": "impietosire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "genti",
-                  "lemma": "genti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "gente",
+                  "pos": "noun",
+                  "meaning": "plural of gente"
                 }
               ]
             },
@@ -9951,15 +9951,15 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "tremante",
-                  "lemma": "tremante",
+                  "lemma": "tremare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "present participle of tremare"
                 },
                 {
                   "word": "stenderà",
-                  "lemma": "stenderà",
+                  "lemma": "stendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of stendere"
                 }
               ]
             },
@@ -9976,15 +9976,15 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Udite",
-                  "lemma": "udite",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "udire",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "udite",
-                  "lemma": "udite",
+                  "lemma": "udire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -10069,9 +10069,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "muovetevi",
-                  "lemma": "muovetevi",
+                  "lemma": "muoversi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural imperative of muoversi"
                 },
                 {
                   "word": "a",
@@ -10100,15 +10100,15 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Butterfly",
-                  "lemma": "butterfly",
+                  "lemma": "Butterfly",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Madama Butterfly (Cio-Cio-San)"
                 },
                 {
                   "word": "orribile",
                   "lemma": "orribile",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "horrible, loathsome / awful, dreadful"
                 },
                 {
                   "word": "destino",
@@ -10118,9 +10118,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "danzerà",
-                  "lemma": "danzerà",
+                  "lemma": "danzare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of danzare"
                 },
                 {
                   "word": "per",
@@ -10180,15 +10180,15 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Chesha",
-                  "lemma": "chesha",
+                  "lemma": "Chesha",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Chesha"
                 },
                 {
                   "word": "canterà",
-                  "lemma": "canterà",
+                  "lemma": "cantare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of cantare"
                 }
               ]
             },
@@ -10248,14 +10248,14 @@ export const butterflyAct2: Act = {
                 {
                   "word": "sighizzo",
                   "lemma": "sighizzo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sighizzo"
                 },
                 {
                   "word": "finirà",
-                  "lemma": "finirà",
+                  "lemma": "finire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of finire"
                 }
               ]
             },
@@ -10328,8 +10328,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "disonore",
                   "lemma": "disonore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "dishonour/dishonor / disgrace"
                 },
                 {
                   "word": "porta",
@@ -10370,9 +10370,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "danzar",
-                  "lemma": "danzar",
+                  "lemma": "danzare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to dance"
                 }
               ]
             },
@@ -10415,7 +10415,7 @@ export const butterflyAct2: Act = {
                   "word": "troncar",
                   "lemma": "troncar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of troncare"
                 }
               ]
             },
@@ -10478,9 +10478,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "scendo",
-                  "lemma": "scendo",
+                  "lemma": "scendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of scendere"
                 },
                 {
                   "word": "al",
@@ -10502,9 +10502,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "perdonate",
-                  "lemma": "perdonate",
+                  "lemma": "perdonare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -10535,9 +10535,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "dàgli",
-                  "lemma": "dàgli",
+                  "lemma": "dare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of dare (gli: to him)"
                 },
                 {
                   "word": "la",
@@ -10586,9 +10586,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "biondi",
-                  "lemma": "biondi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "biondo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of biondo"
                 }
               ]
             },
@@ -10706,14 +10706,14 @@ export const butterflyAct2: Act = {
                 {
                   "word": "babbo",
                   "lemma": "babbo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "dad, daddy"
                 },
                 {
                   "word": "scrivendogli",
-                  "lemma": "scrivendogli",
+                  "lemma": "scrivere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of scrivere (gli: to him)"
                 }
               ]
             },
@@ -10785,9 +10785,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "chiamerò",
-                  "lemma": "chiamerò",
+                  "lemma": "chiamare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of chiamare"
                 }
               ]
             }
@@ -10842,9 +10842,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "prometto",
-                  "lemma": "prometto",
+                  "lemma": "promettere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of promettere"
                 }
               ]
             }
@@ -10865,13 +10865,13 @@ export const butterflyAct2: Act = {
                   "word": "Vespa",
                   "lemma": "vespa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "wasp / alternative letter-case form of Vespa; motor scooter"
                 },
                 {
                   "word": "Rospa",
-                  "lemma": "rospa",
+                  "lemma": "Rospa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Rospa"
                 },
                 {
                   "word": "maledetto",
@@ -10887,16 +10887,16 @@ export const butterflyAct2: Act = {
               "literal": "enters violently dragging Goro who tries in vain to escape from her.",
               "tokens": [
                 {
-                  "word": "<i>entra",
-                  "lemma": "<i>entra",
+                  "word": "entra",
+                  "lemma": "entrare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "trascinando",
-                  "lemma": "trascinando",
+                  "lemma": "trascinare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of trascinare"
                 },
                 {
                   "word": "con",
@@ -10907,14 +10907,14 @@ export const butterflyAct2: Act = {
                 {
                   "word": "violenza",
                   "lemma": "violenza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "violence"
                 },
                 {
                   "word": "Goro",
-                  "lemma": "goro",
+                  "lemma": "Goro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Goro (nakodo / marriage broker)"
                 },
                 {
                   "word": "che",
@@ -10932,7 +10932,7 @@ export const butterflyAct2: Act = {
                   "word": "inutilmente",
                   "lemma": "inutilmente",
                   "pos": "adverb",
-                  "meaning": ""
+                  "meaning": "in vain, uselessly, unnecessarily, needlessly"
                 },
                 {
                   "word": "di",
@@ -10944,7 +10944,7 @@ export const butterflyAct2: Act = {
                   "word": "sfuggirle",
                   "lemma": "sfuggirle",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive sfuggire with le"
                 }
               ]
             },
@@ -10962,8 +10962,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "acuto",
                   "lemma": "acuto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "acute / sharp"
                 },
                 {
                   "word": "di",
@@ -10972,10 +10972,10 @@ export const butterflyAct2: Act = {
                   "meaning": "of / by"
                 },
                 {
-                  "word": "Goro.</i>",
-                  "lemma": "goro.</i>",
+                  "word": "Goro",
+                  "lemma": "Goro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Goro (nakodo / marriage broker)"
                 }
               ]
             }
@@ -11027,9 +11027,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "ronza",
-                  "lemma": "ronza",
+                  "lemma": "ronzare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "intorno",
@@ -11094,9 +11094,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "spargendo",
-                  "lemma": "spargendo",
+                  "lemma": "spargere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of spargere"
                 },
                 {
                   "word": "va",
@@ -11150,8 +11150,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "bimbo",
                   "lemma": "bimbo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "child, baby"
                 },
                 {
                   "word": "sia",
@@ -11176,9 +11176,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Dicevo",
-                  "lemma": "dicevo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "dire",
+                  "pos": "verb",
+                  "meaning": "first-person singular imperfect indicative of dire"
                 },
                 {
                   "word": "solo",
@@ -11214,8 +11214,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "America",
                   "lemma": "america",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "America, the Americas"
                 }
               ]
             },
@@ -11269,9 +11269,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "trarrà",
-                  "lemma": "trarrà",
+                  "lemma": "trarre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of trarre"
                 },
                 {
                   "word": "sempre",
@@ -11282,8 +11282,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "reietto",
                   "lemma": "reietto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pariah, outcast"
                 },
                 {
                   "word": "la",
@@ -11311,9 +11311,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "genti",
-                  "lemma": "genti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "gente",
+                  "pos": "noun",
+                  "meaning": "plural of gente"
                 }
               ]
             },
@@ -11323,16 +11323,16 @@ export const butterflyAct2: Act = {
               "literal": "wild cry from Butterfly",
               "tokens": [
                 {
-                  "word": "<i>grido",
-                  "lemma": "<i>grido",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "grido",
+                  "lemma": "grido",
+                  "pos": "noun",
+                  "meaning": "cry, shout / cry"
                 },
                 {
                   "word": "selvaggio",
                   "lemma": "selvaggio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "wild, savage / savage, primitive"
                 },
                 {
                   "word": "di",
@@ -11342,9 +11342,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Butterfly",
-                  "lemma": "butterfly",
+                  "lemma": "Butterfly",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Madama Butterfly (Cio-Cio-San)"
                 }
               ]
             },
@@ -11374,8 +11374,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "reliquario",
                   "lemma": "reliquario",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of reliquiario"
                 },
                 {
                   "word": "e",
@@ -11414,10 +11414,10 @@ export const butterflyAct2: Act = {
                   "meaning": "stands / stays"
                 },
                 {
-                  "word": "appeso</i>",
-                  "lemma": "appeso</i>",
+                  "word": "appeso",
+                  "lemma": "appendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of appendere"
                 }
               ]
             }
@@ -11448,21 +11448,21 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "menti",
-                  "lemma": "menti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "mente",
+                  "pos": "noun",
+                  "meaning": "plural of mente"
                 },
                 {
                   "word": "menti",
-                  "lemma": "menti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "mente",
+                  "pos": "noun",
+                  "meaning": "plural of mente"
                 },
                 {
                   "word": "menti",
-                  "lemma": "menti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "mente",
+                  "pos": "noun",
+                  "meaning": "plural of mente"
                 }
               ]
             },
@@ -11479,9 +11479,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "menti",
-                  "lemma": "menti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "mente",
+                  "pos": "noun",
+                  "meaning": "plural of mente"
                 }
               ]
             }
@@ -11516,15 +11516,15 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
                 {
                   "word": "uccido",
-                  "lemma": "uccido",
+                  "lemma": "uccidere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of uccidere"
                 }
               ]
             }
@@ -11582,10 +11582,10 @@ export const butterflyAct2: Act = {
               "literal": "Goro flees. Butterfly remains motionless as if petrified.",
               "tokens": [
                 {
-                  "word": "<i>Goro",
-                  "lemma": "<i>goro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "Goro",
+                  "lemma": "Goro",
+                  "pos": "noun",
+                  "meaning": "Goro (nakodo / marriage broker)"
                 },
                 {
                   "word": "fugge",
@@ -11595,15 +11595,15 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Butterfly",
-                  "lemma": "butterfly",
+                  "lemma": "Butterfly",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Madama Butterfly (Cio-Cio-San)"
                 },
                 {
                   "word": "rimane",
-                  "lemma": "rimane",
+                  "lemma": "rimanere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of rimanere"
                 },
                 {
                   "word": "immobile",
@@ -11619,9 +11619,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "impietrita",
-                  "lemma": "impietrita",
+                  "lemma": "impietrito",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of impietrito"
                 }
               ]
             },
@@ -11632,9 +11632,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Butterfly",
-                  "lemma": "butterfly",
+                  "lemma": "Butterfly",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Madama Butterfly (Cio-Cio-San)"
                 },
                 {
                   "word": "si",
@@ -11694,7 +11694,7 @@ export const butterflyAct2: Act = {
                   "word": "riporre",
                   "lemma": "riporre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to place, etc. again / to shelve"
                 },
                 {
                   "word": "il",
@@ -11703,10 +11703,10 @@ export const butterflyAct2: Act = {
                   "meaning": "the"
                 },
                 {
-                  "word": "coltello.</i>",
-                  "lemma": "coltello.</i>",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "coltello",
+                  "lemma": "coltello",
+                  "pos": "noun",
+                  "meaning": "knife"
                 }
               ]
             }
@@ -11775,8 +11775,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "conforto",
                   "lemma": "conforto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "comfort, consolation, solace / support"
                 }
               ]
             },
@@ -11842,9 +11842,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "vendicator",
-                  "lemma": "vendicator",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vendicatore",
+                  "pos": "adjective",
+                  "meaning": "avenging"
                 }
               ]
             },
@@ -11873,9 +11873,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "lontan",
-                  "lemma": "lontan",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "lontano",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of lontano"
                 },
                 {
                   "word": "nella",
@@ -11904,9 +11904,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "lontan",
-                  "lemma": "lontan",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "lontano",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of lontano"
                 },
                 {
                   "word": "ci",
@@ -12028,14 +12028,14 @@ export const butterflyAct2: Act = {
                 {
                   "word": "vessillo",
                   "lemma": "vessillo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "standard / banner, ensign"
                 },
                 {
                   "word": "Americano",
                   "lemma": "americano",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "American, United Statesian, US-American, Yankee"
                 },
                 {
                   "word": "delle",
@@ -12064,9 +12064,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "governa",
-                  "lemma": "governa",
+                  "lemma": "governare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "per",
@@ -12078,7 +12078,7 @@ export const butterflyAct2: Act = {
                   "word": "ancorare",
                   "lemma": "ancorare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to anchor / to moor"
                 }
               ]
             },
@@ -12088,10 +12088,10 @@ export const butterflyAct2: Act = {
               "literal": "takes a spyglass from the small table and runs out to the terrace to look",
               "tokens": [
                 {
-                  "word": "<i>prende",
-                  "lemma": "<i>prende",
+                  "word": "prende",
+                  "lemma": "prendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of prendere"
                 },
                 {
                   "word": "sul",
@@ -12102,8 +12102,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "tavolino",
                   "lemma": "tavolino",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a small table, an occasional table, a card table / stage of a microscope"
                 },
                 {
                   "word": "un",
@@ -12114,8 +12114,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "cannocchiale",
                   "lemma": "cannocchiale",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "telescope / spyglass"
                 },
                 {
                   "word": "e",
@@ -12138,8 +12138,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "terrazzo",
                   "lemma": "terrazzo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "balcony / terrace"
                 },
                 {
                   "word": "ad",
@@ -12151,7 +12151,7 @@ export const butterflyAct2: Act = {
                   "word": "osservare",
                   "lemma": "osservare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to observe, watch, study, examine / to observe, remark, point out, object, notice"
                 }
               ]
             },
@@ -12168,9 +12168,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "tremante",
-                  "lemma": "tremante",
+                  "lemma": "tremare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "present participle of tremare"
                 },
                 {
                   "word": "per",
@@ -12187,14 +12187,14 @@ export const butterflyAct2: Act = {
                 {
                   "word": "emozione",
                   "lemma": "emozione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "emotion / excitement"
                 },
                 {
                   "word": "appunta",
-                  "lemma": "appunta",
+                  "lemma": "appuntare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "il",
@@ -12205,8 +12205,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "cannocchiale",
                   "lemma": "cannocchiale",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "telescope / spyglass"
                 },
                 {
                   "word": "verso",
@@ -12245,10 +12245,10 @@ export const butterflyAct2: Act = {
                   "meaning": "to / at"
                 },
                 {
-                  "word": "Suzuki:</i>",
-                  "lemma": "suzuki:</i>",
+                  "word": "Suzuki",
+                  "lemma": "Suzuki",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Suzuki (Cio-Cio-San's servant)"
                 }
               ]
             },
@@ -12259,9 +12259,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Reggimi",
-                  "lemma": "reggimi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "reggere",
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative / second-person singular imperative (mi: me)"
                 },
                 {
                   "word": "la",
@@ -12277,7 +12277,7 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -12295,9 +12295,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "discerna",
-                  "lemma": "discerna",
+                  "lemma": "discernere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "il",
@@ -12359,13 +12359,13 @@ export const butterflyAct2: Act = {
                   "word": "Abramo",
                   "lemma": "abramo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Abram, Abraham / a male given name from Hebrew, equivalent to English Abram or Abraham"
                 },
                 {
                   "word": "Lincoln",
-                  "lemma": "lincoln",
+                  "lemma": "Lincoln",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Lincoln"
                 }
               ]
             },
@@ -12389,8 +12389,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "mentito",
                   "lemma": "mentito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "false / fake, sham, imitation"
                 },
                 {
                   "word": "tutti",
@@ -12431,9 +12431,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "sapevo",
-                  "lemma": "sapevo",
+                  "lemma": "sapere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular imperfect indicative of sapere"
                 },
                 {
                   "word": "sol",
@@ -12487,8 +12487,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "scimunito",
                   "lemma": "scimunito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "stupid, foolish, silly"
                 },
                 {
                   "word": "tuo",
@@ -12499,8 +12499,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "dubbio",
                   "lemma": "dubbio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "doubtful, uncertain, dubious, questionable"
                 }
               ]
             },
@@ -12518,8 +12518,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "giunto",
                   "lemma": "giunto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "joint, link, connection"
                 },
                 {
                   "word": "è",
@@ -12530,8 +12530,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "giunto",
                   "lemma": "giunto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "joint, link, connection"
                 }
               ]
             },
@@ -12549,8 +12549,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "giunto",
                   "lemma": "giunto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "joint, link, connection"
                 },
                 {
                   "word": "proprio",
@@ -12609,9 +12609,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "dispera",
-                  "lemma": "dispera",
+                  "lemma": "disperare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -12622,9 +12622,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Trionfa",
-                  "lemma": "trionfa",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "trionfare",
+                  "pos": "verb",
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "il",
@@ -12684,20 +12684,20 @@ export const butterflyAct2: Act = {
                 {
                   "word": "fe",
                   "lemma": "fe",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fe"
                 },
                 {
                   "word": "trionfa",
-                  "lemma": "trionfa",
+                  "lemma": "trionfare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "intera",
-                  "lemma": "intera",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "intero",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of intero"
                 }
               ]
             },
@@ -12726,7 +12726,7 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -12744,10 +12744,10 @@ export const butterflyAct2: Act = {
               "literal": "jubilant, runs to the terrace",
               "tokens": [
                 {
-                  "word": "<i>giubilante",
-                  "lemma": "<i>giubilante",
+                  "word": "giubilante",
+                  "lemma": "giubilare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "present participle of giubilare"
                 },
                 {
                   "word": "corre",
@@ -12764,8 +12764,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "terrazzo",
                   "lemma": "terrazzo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "balcony / terrace"
                 }
               ]
             },
@@ -12782,9 +12782,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Suzuki",
-                  "lemma": "suzuki",
+                  "lemma": "Suzuki",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Suzuki (Cio-Cio-San's servant)"
                 },
                 {
                   "word": "che",
@@ -12806,9 +12806,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "seguita",
-                  "lemma": "seguita",
+                  "lemma": "seguito",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of seguito"
                 },
                 {
                   "word": "sul",
@@ -12817,10 +12817,10 @@ export const butterflyAct2: Act = {
                   "meaning": "on-the"
                 },
                 {
-                  "word": "terrazzo</i>",
-                  "lemma": "terrazzo</i>",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "terrazzo",
+                  "lemma": "terrazzo",
+                  "pos": "noun",
+                  "meaning": "balcony / terrace"
                 }
               ]
             },
@@ -12831,9 +12831,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Scuoti",
-                  "lemma": "scuoti",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "scuotere",
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "quella",
@@ -12873,9 +12873,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "quetatevi",
-                  "lemma": "quetatevi",
+                  "lemma": "quetare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative (vi: you)"
                 },
                 {
                   "word": "quel",
@@ -12944,14 +12944,14 @@ export const butterflyAct2: Act = {
                 {
                   "word": "dovermo",
                   "lemma": "dovermo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "dovermo"
                 },
                 {
                   "word": "aspettar",
                   "lemma": "aspettar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of aspettare"
                 }
               ]
             },
@@ -13032,9 +13032,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "ore",
-                  "lemma": "ore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ora",
+                  "pos": "noun",
+                  "meaning": "plural of ora"
                 },
                 {
                   "word": "forse",
@@ -13070,8 +13070,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "pien",
                   "lemma": "pien",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "apocopic form of pieno"
                 },
                 {
                   "word": "di",
@@ -13124,9 +13124,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "faville",
-                  "lemma": "faville",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "favilla",
+                  "pos": "noun",
+                  "meaning": "plural of favilla"
                 }
               ]
             },
@@ -13242,19 +13242,19 @@ export const butterflyAct2: Act = {
                   "word": "Pesco",
                   "lemma": "pesco",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "peach tree"
                 },
                 {
                   "word": "viola",
                   "lemma": "viola",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "purple, violet"
                 },
                 {
                   "word": "gelsomin",
-                  "lemma": "gelsomin",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "gelsomino",
+                  "pos": "noun",
+                  "meaning": "jasmine, jessamine"
                 }
               ]
             },
@@ -13278,8 +13278,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "cespo",
                   "lemma": "cespo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "tuft / ellipsis of cespo di lattuga; head of lettuce"
                 },
                 {
                   "word": "o",
@@ -13289,15 +13289,15 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "erba",
                   "lemma": "erba",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "grass / herb"
                 },
                 {
                   "word": "o",
@@ -13307,7 +13307,7 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -13319,9 +13319,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "fiorì",
-                  "lemma": "fiorì",
+                  "lemma": "fiorire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of fiorire"
                 }
               ]
             }
@@ -13346,13 +13346,13 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "squallor",
-                  "lemma": "squallor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "squallore",
+                  "pos": "noun",
+                  "meaning": "wretchedness, bleakness / misery"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -13382,9 +13382,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "giardin",
-                  "lemma": "giardin",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "giardino",
+                  "pos": "noun",
+                  "meaning": "garden"
                 }
               ]
             }
@@ -13431,9 +13431,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "olezzi",
-                  "lemma": "olezzi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "olezzo",
+                  "pos": "noun",
+                  "meaning": "plural of olezzo"
                 },
                 {
                   "word": "qui",
@@ -13464,13 +13464,13 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "squallor",
-                  "lemma": "squallor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "squallore",
+                  "pos": "noun",
+                  "meaning": "wretchedness, bleakness / misery"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -13500,9 +13500,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "giardin",
-                  "lemma": "giardin",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "giardino",
+                  "pos": "noun",
+                  "meaning": "garden"
                 }
               ]
             },
@@ -13546,9 +13546,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Cogline",
-                  "lemma": "cogline",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "cogli",
+                  "pos": "verb",
+                  "meaning": "contraction of con gli; with the (ne: of it / of them)"
                 },
                 {
                   "word": "ancora",
@@ -13597,9 +13597,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "veniste",
-                  "lemma": "veniste",
+                  "lemma": "venire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural past historic of venire"
                 },
                 {
                   "word": "a",
@@ -13611,7 +13611,7 @@ export const butterflyAct2: Act = {
                   "word": "riguardare",
                   "lemma": "riguardare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to concern, regard, be about, deal with, speak to / to take care of, look after"
                 }
               ]
             },
@@ -13623,8 +13623,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "lungi",
                   "lemma": "lungi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "distant, far / far"
                 },
                 {
                   "word": "piangendo",
@@ -13640,15 +13640,15 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "deserta",
-                  "lemma": "deserta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "deserto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of deserto"
                 },
                 {
                   "word": "immensità",
                   "lemma": "immensità",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "immensity"
                 }
               ]
             }
@@ -13665,9 +13665,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Giunse",
-                  "lemma": "giunse",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "giungere",
+                  "pos": "verb",
+                  "meaning": "third-person singular past historic of giungere"
                 },
                 {
                   "word": "l",
@@ -13678,8 +13678,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "atterso",
                   "lemma": "atterso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "atterso"
                 },
                 {
                   "word": "nulla",
@@ -13720,9 +13720,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "diedi",
-                  "lemma": "diedi",
+                  "lemma": "dare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of dare"
                 },
                 {
                   "word": "pianto",
@@ -13756,9 +13756,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "suosi",
-                  "lemma": "suosi",
+                  "lemma": "suo",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "his, her, its / your (si: oneself / him / her)"
                 },
                 {
                   "word": "fior",
@@ -13796,8 +13796,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "Spoglio",
                   "lemma": "spoglio",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "empty / bare"
                 },
                 {
                   "word": "è",
@@ -13814,8 +13814,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "orto",
                   "lemma": "orto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "vegetable garden / market garden"
                 }
               ]
             }
@@ -13833,8 +13833,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "Spoglio",
                   "lemma": "spoglio",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "empty / bare"
                 },
                 {
                   "word": "è",
@@ -13851,8 +13851,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "orto",
                   "lemma": "orto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "vegetable garden / market garden"
                 }
               ]
             },
@@ -13869,15 +13869,15 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
                   "word": "aiuta",
-                  "lemma": "aiuta",
+                  "lemma": "aiutare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -13921,8 +13921,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "soglia",
                   "lemma": "soglia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "threshold"
                 }
               ]
             }
@@ -14013,9 +14013,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "olezzi",
-                  "lemma": "olezzi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "olezzo",
+                  "pos": "noun",
+                  "meaning": "plural of olezzo"
                 },
                 {
                   "word": "qui",
@@ -14050,9 +14050,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "olezzi",
-                  "lemma": "olezzi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "olezzo",
+                  "pos": "noun",
+                  "meaning": "plural of olezzo"
                 },
                 {
                   "word": "qui",
@@ -14075,9 +14075,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Seminiamo",
-                  "lemma": "seminiamo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "seminare",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "intorno",
@@ -14106,9 +14106,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Seminiamo",
-                  "lemma": "seminiamo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "seminare",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "intorno",
@@ -14137,9 +14137,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "seminiamo",
-                  "lemma": "seminiamo",
+                  "lemma": "seminare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "intorno",
@@ -14250,9 +14250,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "olezzi",
-                  "lemma": "olezzi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "olezzo",
+                  "pos": "noun",
+                  "meaning": "plural of olezzo"
                 },
                 {
                   "word": "qui",
@@ -14281,9 +14281,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "viole",
-                  "lemma": "viole",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "viola",
+                  "pos": "noun",
+                  "meaning": "plural of viola"
                 }
               ]
             }
@@ -14312,9 +14312,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "spandi",
-                  "lemma": "spandi",
+                  "lemma": "spandere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative of spandere"
                 }
               ]
             }
@@ -14331,9 +14331,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Seminiamo",
-                  "lemma": "seminiamo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "seminare",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "intorno",
@@ -14362,9 +14362,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Seminiamo",
-                  "lemma": "seminiamo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "seminare",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "intorno",
@@ -14399,21 +14399,21 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "sedil",
-                  "lemma": "sedil",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sedile",
+                  "pos": "noun",
+                  "meaning": "seat / bench"
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
                 {
                   "word": "inghirlandi",
-                  "lemma": "inghirlandi",
+                  "lemma": "inghirlandare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             },
@@ -14430,21 +14430,21 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "convolvi",
-                  "lemma": "convolvi",
+                  "lemma": "convolvere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
                 {
                   "word": "inghirlandi",
-                  "lemma": "inghirlandi",
+                  "lemma": "inghirlandare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             },
@@ -14467,9 +14467,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "viole",
-                  "lemma": "viole",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "viola",
+                  "pos": "noun",
+                  "meaning": "plural of viola"
                 },
                 {
                   "word": "intorno",
@@ -14479,9 +14479,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "spandi",
-                  "lemma": "spandi",
+                  "lemma": "spandere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative of spandere"
                 }
               ]
             },
@@ -14492,9 +14492,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "seminiamo",
-                  "lemma": "seminiamo",
+                  "lemma": "seminare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "intorno",
@@ -14537,9 +14537,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "spandi",
-                  "lemma": "spandi",
+                  "lemma": "spandere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative of spandere"
                 }
               ]
             },
@@ -14575,9 +14575,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "spandi",
-                  "lemma": "spandi",
+                  "lemma": "spandere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative of spandere"
                 },
                 {
                   "word": "gigli",
@@ -14587,9 +14587,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "viole",
-                  "lemma": "viole",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "viola",
+                  "pos": "noun",
+                  "meaning": "plural of viola"
                 }
               ]
             },
@@ -14600,9 +14600,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "seminiamo",
-                  "lemma": "seminiamo",
+                  "lemma": "seminare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "intorno",
@@ -14625,9 +14625,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "BUTTERFLY",
-                  "lemma": "butterfly",
+                  "lemma": "Butterfly",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Madama Butterfly (Cio-Cio-San)"
                 },
                 {
                   "word": "e",
@@ -14637,9 +14637,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "SUZUKI",
-                  "lemma": "suzuki",
+                  "lemma": "Suzuki",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Suzuki (Cio-Cio-San's servant)"
                 }
               ]
             },
@@ -14650,9 +14650,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Gettiamo",
-                  "lemma": "gettiamo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "gettare",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "a",
@@ -14681,9 +14681,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "mammole",
-                  "lemma": "mammole",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "mammola",
+                  "pos": "noun",
+                  "meaning": "plural of mammola"
                 },
                 {
                   "word": "e",
@@ -14693,9 +14693,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "tuberose",
-                  "lemma": "tuberose",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tuberoso",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of tuberoso"
                 }
               ]
             },
@@ -14706,9 +14706,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "corolle",
-                  "lemma": "corolle",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "corolla",
+                  "pos": "noun",
+                  "meaning": "plural of corolla"
                 },
                 {
                   "word": "di",
@@ -14718,9 +14718,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "verbene",
-                  "lemma": "verbene",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "verbena",
+                  "pos": "noun",
+                  "meaning": "plural of verbena"
                 }
               ]
             },
@@ -14731,13 +14731,13 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "petali",
-                  "lemma": "petali",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "petalo",
+                  "pos": "noun",
+                  "meaning": "plural of petalo"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -14762,9 +14762,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "Corolle",
-                  "lemma": "corolle",
+                  "lemma": "corolla",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of corolla"
                 },
                 {
                   "word": "di",
@@ -14774,9 +14774,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "verbene",
-                  "lemma": "verbene",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "verbena",
+                  "pos": "noun",
+                  "meaning": "plural of verbena"
                 }
               ]
             },
@@ -14787,13 +14787,13 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "petali",
-                  "lemma": "petali",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "petalo",
+                  "pos": "noun",
+                  "meaning": "plural of petalo"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -14832,9 +14832,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "vienmi",
-                  "lemma": "vienmi",
+                  "lemma": "vien",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of viene (mi: me)"
                 },
                 {
                   "word": "ad",
@@ -14844,9 +14844,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "adornar",
-                  "lemma": "adornar",
+                  "lemma": "adornare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to adorn"
                 }
               ]
             },
@@ -14871,7 +14871,7 @@ export const butterflyAct2: Act = {
                   "word": "portami",
                   "lemma": "portami",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of porta, the second-person singular imperative form of portare, with mi"
                 },
                 {
                   "word": "il",
@@ -14882,8 +14882,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "bimbo",
                   "lemma": "bimbo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "child, baby"
                 }
               ]
             }
@@ -14988,9 +14988,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "riguardò",
-                  "lemma": "riguardò",
+                  "lemma": "riguardare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of riguardare"
                 }
               ]
             },
@@ -15007,9 +15007,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "lontan",
-                  "lemma": "lontan",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "lontano",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of lontano"
                 },
                 {
                   "word": "troppo",
@@ -15069,8 +15069,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "carmino",
                   "lemma": "carmino",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "carmino"
                 }
               ]
             },
@@ -15106,8 +15106,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "piccino",
                   "lemma": "piccino",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "little, small, tiny"
                 }
               ]
             },
@@ -15131,8 +15131,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "veglia",
                   "lemma": "veglia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "vigil, watch / all-night party or other gathering"
                 },
                 {
                   "word": "non",
@@ -15162,8 +15162,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "vôte",
                   "lemma": "vôte",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "vôte"
                 },
                 {
                   "word": "per",
@@ -15174,8 +15174,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "pallore",
                   "lemma": "pallore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "paleness, pallor"
                 },
                 {
                   "word": "le",
@@ -15218,9 +15218,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "movete",
-                  "lemma": "movete",
+                  "lemma": "muovere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "che",
@@ -15230,7 +15230,7 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -15250,7 +15250,7 @@ export const butterflyAct2: Act = {
                   "word": "ravviare",
                   "lemma": "ravviare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to tidy or tidy up"
                 },
                 {
                   "word": "i",
@@ -15324,9 +15324,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Bonzo",
-                  "lemma": "bonzo",
+                  "lemma": "Bonzo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "the Bonze (Cio-Cio-San's uncle)"
                 }
               ]
             },
@@ -15367,9 +15367,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "contenti",
-                  "lemma": "contenti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "contento",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of contento"
                 }
               ]
             },
@@ -15386,9 +15386,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Yamadori",
-                  "lemma": "yamadori",
+                  "lemma": "Yamadori",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Prince Yamadori"
                 },
                 {
                   "word": "coi",
@@ -15404,9 +15404,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "languori",
-                  "lemma": "languori",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "languore",
+                  "pos": "noun",
+                  "meaning": "plural of languore"
                 }
               ]
             },
@@ -15423,9 +15423,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "scornati",
-                  "lemma": "scornati",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "scornato",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of scornato"
                 },
                 {
                   "word": "beffati",
@@ -15442,9 +15442,9 @@ export const butterflyAct2: Act = {
               "tokens": [
                 {
                   "word": "spennati",
-                  "lemma": "spennati",
+                  "lemma": "spennato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "masculine plural of spennato"
                 },
                 {
                   "word": "gli",
@@ -15454,9 +15454,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "ingrati",
-                  "lemma": "ingrati",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ingrato",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of ingrato"
                 }
               ]
             }
@@ -15509,8 +15509,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "obi",
                   "lemma": "obi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "an obi"
                 },
                 {
                   "word": "che",
@@ -15520,9 +15520,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "vestii",
-                  "lemma": "vestii",
+                  "lemma": "vestire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of vestire"
                 },
                 {
                   "word": "da",
@@ -15546,12 +15546,12 @@ export const butterflyAct2: Act = {
                 {
                   "word": "Quà",
                   "lemma": "quà",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "misspelling of qua"
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -15615,8 +15615,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "indosso",
                   "lemma": "indosso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "on"
                 },
                 {
                   "word": "il",
@@ -15670,8 +15670,8 @@ export const butterflyAct2: Act = {
                 {
                   "word": "papvero",
                   "lemma": "papvero",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "papvero"
                 },
                 {
                   "word": "rosso",
@@ -15727,9 +15727,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "shosi",
-                  "lemma": "shosi",
+                  "lemma": "sho",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "sho (si: oneself / him / her)"
                 },
                 {
                   "word": "or",
@@ -15751,9 +15751,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "forellini",
-                  "lemma": "forellini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "forellino",
+                  "pos": "noun",
+                  "meaning": "plural of forellino"
                 },
                 {
                   "word": "per",
@@ -15763,9 +15763,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "riguardar",
-                  "lemma": "riguardar",
+                  "lemma": "riguardare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to concern, regard, be about, deal with, speak to / to take care of, look after"
                 }
               ]
             },
@@ -15782,9 +15782,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "starem",
-                  "lemma": "starem",
+                  "lemma": "stare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural future of stare"
                 },
                 {
                   "word": "zitti",
@@ -15800,9 +15800,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "topolini",
-                  "lemma": "topolini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "topolino",
+                  "pos": "noun",
+                  "meaning": "plural of topolino"
                 },
                 {
                   "word": "ad",
@@ -15814,7 +15814,7 @@ export const butterflyAct2: Act = {
                   "word": "aspettar",
                   "lemma": "aspettar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of aspettare"
                 }
               ]
             },
@@ -15824,10 +15824,10 @@ export const butterflyAct2: Act = {
               "literal": "Night falls deeper and deeper. Suzuki closes the shoji at the rear. Butterfly leads the child near the shoji...",
               "tokens": [
                 {
-                  "word": "<i>Scende",
-                  "lemma": "<i>scende",
+                  "word": "Scende",
+                  "lemma": "scendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of scendere"
                 },
                 {
                   "word": "sempre",
@@ -15855,9 +15855,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Suzuki",
-                  "lemma": "suzuki",
+                  "lemma": "Suzuki",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Suzuki (Cio-Cio-San's servant)"
                 },
                 {
                   "word": "chiude",
@@ -15873,9 +15873,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "shosi",
-                  "lemma": "shosi",
+                  "lemma": "sho",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "sho (si: oneself / him / her)"
                 },
                 {
                   "word": "nel",
@@ -15891,15 +15891,15 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "Butterfly",
-                  "lemma": "butterfly",
+                  "lemma": "Butterfly",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Madama Butterfly (Cio-Cio-San)"
                 },
                 {
                   "word": "conduce",
-                  "lemma": "conduce",
+                  "lemma": "condurre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of condurre"
                 },
                 {
                   "word": "il",
@@ -15927,9 +15927,9 @@ export const butterflyAct2: Act = {
                 },
                 {
                   "word": "shosi",
-                  "lemma": "shosi",
+                  "lemma": "sho",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "sho (si: oneself / him / her)"
                 }
               ]
             },

@@ -26,9 +26,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Dormono",
-                  "lemma": "dormono",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "dormire",
+                  "pos": "verb",
+                  "meaning": "third-person plural present indicative of dormire"
                 },
                 {
                   "word": "entrambi",
@@ -53,7 +53,7 @@ export const normaAct2: Act = {
                   "word": "vedran",
                   "lemma": "vedran",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of vedranno"
                 },
                 {
                   "word": "la",
@@ -88,9 +88,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "percuote",
-                  "lemma": "percuote",
+                  "lemma": "percuotere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of percuotere"
                 }
               ]
             },
@@ -107,9 +107,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "pentirti",
-                  "lemma": "pentirti",
+                  "lemma": "pentirsi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular infinitive of pentirsi"
                 },
                 {
                   "word": "o",
@@ -146,7 +146,7 @@ export const normaAct2: Act = {
                   "word": "ponno",
                   "lemma": "ponno",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "alternative form of possono"
                 },
                 {
                   "word": "Qui",
@@ -157,8 +157,8 @@ export const normaAct2: Act = {
                 {
                   "word": "supplizio",
                   "lemma": "supplizio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "torture / torment"
                 }
               ]
             },
@@ -188,14 +188,14 @@ export const normaAct2: Act = {
                 {
                   "word": "obbrobrio",
                   "lemma": "obbrobrio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "disgrace, shame, opprobrium / mess, eyesore"
                 },
                 {
                   "word": "avrian",
                   "lemma": "avrian",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "avrian"
                 }
               ]
             },
@@ -207,14 +207,14 @@ export const normaAct2: Act = {
                 {
                   "word": "Peggior",
                   "lemma": "peggior",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "apocopic form of peggiore"
                 },
                 {
                   "word": "supplizio",
                   "lemma": "supplizio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "torture / torment"
                 },
                 {
                   "word": "assai",
@@ -231,13 +231,13 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Schiavi",
-                  "lemma": "schiavi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "schiavo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of schiavo"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -250,8 +250,8 @@ export const normaAct2: Act = {
                 {
                   "word": "matrigna",
                   "lemma": "matrigna",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "stepmother"
                 }
               ]
             },
@@ -275,8 +275,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Giammai",
                   "lemma": "giammai",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "never / sometimes, at times"
                 }
               ]
             },
@@ -287,9 +287,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Muoiano",
-                  "lemma": "muoiano",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "morire",
+                  "pos": "verb",
+                  "meaning": "third-person plural present subjunctive / third-person plural imperative"
                 },
                 {
                   "word": "sì",
@@ -320,7 +320,7 @@ export const normaAct2: Act = {
                   "word": "avvicinarmi",
                   "lemma": "avvicinarmi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive avvicinare with mi"
                 }
               ]
             },
@@ -338,8 +338,8 @@ export const normaAct2: Act = {
                 {
                   "word": "gel",
                   "lemma": "gel",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "gel"
                 },
                 {
                   "word": "mi",
@@ -392,9 +392,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "solleva",
-                  "lemma": "solleva",
+                  "lemma": "sollevare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "il",
@@ -423,15 +423,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "figli",
-                  "lemma": "figli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "figlio",
+                  "pos": "noun",
+                  "meaning": "plural of figlio"
                 },
                 {
                   "word": "uccido",
-                  "lemma": "uccido",
+                  "lemma": "uccidere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of uccidere"
                 }
               ]
             },
@@ -442,15 +442,15 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Teneri",
-                  "lemma": "teneri",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "tenero",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of tenero"
                 },
                 {
                   "word": "figli",
-                  "lemma": "figli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "figlio",
+                  "pos": "noun",
+                  "meaning": "plural of figlio"
                 }
               ]
             },
@@ -480,8 +480,8 @@ export const normaAct2: Act = {
                 {
                   "word": "delizia",
                   "lemma": "delizia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "delight"
                 },
                 {
                   "word": "mia",
@@ -555,13 +555,13 @@ export const normaAct2: Act = {
                   "word": "mirar",
                   "lemma": "mirar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of mirare"
                 },
                 {
                   "word": "credei",
-                  "lemma": "credei",
+                  "lemma": "credere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of credere"
                 }
               ]
             },
@@ -590,9 +590,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "svenerò",
-                  "lemma": "svenerò",
+                  "lemma": "svenare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of svenare"
                 }
               ]
             },
@@ -640,9 +640,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Pollione",
-                  "lemma": "pollione",
+                  "lemma": "Pollione",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Pollione (Roman proconsul in Gaul)"
                 },
                 {
                   "word": "son",
@@ -652,9 +652,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "figli",
-                  "lemma": "figli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "figlio",
+                  "pos": "noun",
+                  "meaning": "plural of figlio"
                 }
               ]
             },
@@ -678,8 +678,8 @@ export const normaAct2: Act = {
                 {
                   "word": "delitto",
                   "lemma": "delitto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "crime, offence/offense, felony, misdemeanour / murder, homicide"
                 }
               ]
             },
@@ -714,9 +714,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "morti",
-                  "lemma": "morti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "morte",
+                  "pos": "noun",
+                  "meaning": "plural of morte / plural of morto"
                 }
               ]
             },
@@ -728,8 +728,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Muoian",
                   "lemma": "muoian",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "apocopic form of muoiano"
                 },
                 {
                   "word": "per",
@@ -794,9 +794,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "somigli",
-                  "lemma": "somigli",
+                  "lemma": "somigliare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             },
@@ -807,9 +807,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Feriam",
-                  "lemma": "feriam",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ferire",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 }
               ]
             },
@@ -844,9 +844,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "figli",
-                  "lemma": "figli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "figlio",
+                  "pos": "noun",
+                  "meaning": "plural of figlio"
                 }
               ]
             },
@@ -863,9 +863,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Clotilde",
-                  "lemma": "clotilde",
+                  "lemma": "Clotilde",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Clotilde (Norma's confidante)"
                 }
               ]
             }
@@ -897,9 +897,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Adalgisa",
-                  "lemma": "adalgisa",
+                  "lemma": "Adalgisa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Adalgisa (virgin of the temple of Irminsul)"
                 },
                 {
                   "word": "a",
@@ -916,8 +916,8 @@ export const normaAct2: Act = {
                 {
                   "word": "guida",
                   "lemma": "guida",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "guide / driving"
                 }
               ]
             }
@@ -963,7 +963,7 @@ export const normaAct2: Act = {
                   "word": "Solitaria",
                   "lemma": "solitaria",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a single-handed achievement"
                 },
                 {
                   "word": "si",
@@ -1004,9 +1004,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "plora",
-                  "lemma": "plora",
+                  "lemma": "plorare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -1035,9 +1035,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "emendi",
-                  "lemma": "emendi",
+                  "lemma": "emendare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "il",
@@ -1085,8 +1085,8 @@ export const normaAct2: Act = {
                 {
                   "word": "mora",
                   "lemma": "mora",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mulberry ; fruit of a plant of the genus Morus / blackberry , and similar fruits such as loganberry; fruit of a plant of the genus Rubus"
                 }
               ]
             }
@@ -1132,9 +1132,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Norma",
-                  "lemma": "norma",
+                  "lemma": "Norma",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Norma (high priestess of the Druids)"
                 }
               ]
             },
@@ -1181,9 +1181,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "pallor",
-                  "lemma": "pallor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pallore",
+                  "pos": "noun",
+                  "meaning": "paleness, pallor"
                 }
               ]
             }
@@ -1200,9 +1200,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Pallor",
-                  "lemma": "pallor",
+                  "lemma": "pallore",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "paleness, pallor"
                 },
                 {
                   "word": "di",
@@ -1244,8 +1244,8 @@ export const normaAct2: Act = {
                 {
                   "word": "onta",
                   "lemma": "onta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "shame, disgrace / insult, affront"
                 },
                 {
                   "word": "mia",
@@ -1261,9 +1261,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "rivelo",
-                  "lemma": "rivelo",
+                  "lemma": "rivelare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of rivelare"
                 }
               ]
             },
@@ -1281,8 +1281,8 @@ export const normaAct2: Act = {
                 {
                   "word": "preghiera",
                   "lemma": "preghiera",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "prayer / request"
                 },
                 {
                   "word": "sola",
@@ -1310,9 +1310,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "adempi",
-                  "lemma": "adempi",
+                  "lemma": "adempiere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -1342,8 +1342,8 @@ export const normaAct2: Act = {
                 {
                   "word": "merta",
                   "lemma": "merta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "merta"
                 }
               ]
             },
@@ -1361,8 +1361,8 @@ export const normaAct2: Act = {
                 {
                   "word": "presente",
                   "lemma": "presente",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "present / this"
                 },
                 {
                   "word": "mio",
@@ -1372,9 +1372,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "duol",
-                  "lemma": "duol",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "duolo",
+                  "pos": "noun",
+                  "meaning": "sorrow / grief / pain"
                 }
               ]
             },
@@ -1397,15 +1397,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "duol",
-                  "lemma": "duol",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "duolo",
+                  "pos": "noun",
+                  "meaning": "sorrow / grief / pain"
                 },
                 {
                   "word": "futuro",
                   "lemma": "futuro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "future / soon-to-be"
                 }
               ]
             }
@@ -1440,9 +1440,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "prometto",
-                  "lemma": "prometto",
+                  "lemma": "promettere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of promettere"
                 }
               ]
             }
@@ -1466,8 +1466,8 @@ export const normaAct2: Act = {
                 {
                   "word": "giura",
                   "lemma": "giura",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "guild"
                 }
               ]
             }
@@ -1515,13 +1515,13 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Purgar",
-                  "lemma": "purgar",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "purgare",
+                  "pos": "verb",
+                  "meaning": "to purge; to purify"
                 },
                 {
                   "word": "quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
@@ -1540,9 +1540,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Contaminata",
-                  "lemma": "contaminata",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "contaminato",
+                  "pos": "verb",
+                  "meaning": "feminine singular of contaminato"
                 },
                 {
                   "word": "dalla",
@@ -1578,26 +1578,26 @@ export const normaAct2: Act = {
                 {
                   "word": "risoluto",
                   "lemma": "risoluto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "resolute, determined"
                 },
                 {
                   "word": "nè",
                   "lemma": "nè",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "conjunction",
+                  "meaning": "misspelling of né"
                 },
                 {
                   "word": "trar",
                   "lemma": "trar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of trarre"
                 },
                 {
                   "word": "meco",
                   "lemma": "meco",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "pronoun",
+                  "meaning": "with me"
                 },
                 {
                   "word": "io",
@@ -1626,9 +1626,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "infelici",
-                  "lemma": "infelici",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "infelice",
+                  "pos": "adjective",
+                  "meaning": "plural of infelice"
                 }
               ]
             },
@@ -1658,8 +1658,8 @@ export const normaAct2: Act = {
                 {
                   "word": "affido",
                   "lemma": "affido",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "synonym of affidamento ”)"
                 }
               ]
             }
@@ -1706,9 +1706,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "affidi",
-                  "lemma": "affidi",
+                  "lemma": "affidare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             }
@@ -1732,8 +1732,8 @@ export const normaAct2: Act = {
                 {
                   "word": "romano",
                   "lemma": "romano",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "Roman / Roman Catholic"
                 },
                 {
                   "word": "campo",
@@ -1743,9 +1743,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "guidali",
-                  "lemma": "guidali",
+                  "lemma": "guida",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "guide / driving (li: them)"
                 },
                 {
                   "word": "a",
@@ -1774,9 +1774,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "nominar",
-                  "lemma": "nominar",
+                  "lemma": "nominare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to name, call, dub / to mention"
                 },
                 {
                   "word": "non",
@@ -1867,8 +1867,8 @@ export const normaAct2: Act = {
                 {
                   "word": "crudo",
                   "lemma": "crudo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "raw, uncooked / hard"
                 }
               ]
             },
@@ -1904,8 +1904,8 @@ export const normaAct2: Act = {
                 {
                   "word": "moro",
                   "lemma": "moro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mulberry tree"
                 }
               ]
             }
@@ -1959,9 +1959,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "figli",
-                  "lemma": "figli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "figlio",
+                  "pos": "noun",
+                  "meaning": "plural of figlio"
                 },
                 {
                   "word": "suoi",
@@ -1971,7 +1971,7 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -1991,8 +1991,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Deh",
                   "lemma": "deh",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "pray! / ah! / alas!"
                 },
                 {
                   "word": "Con",
@@ -2033,9 +2033,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "sostieni",
-                  "lemma": "sostieni",
+                  "lemma": "sostenere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "li",
@@ -2045,9 +2045,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "difendi",
-                  "lemma": "difendi",
+                  "lemma": "difendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -2076,9 +2076,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "onori",
-                  "lemma": "onori",
+                  "lemma": "onorare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "e",
@@ -2088,9 +2088,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "fasci",
-                  "lemma": "fasci",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fascio",
+                  "pos": "noun",
+                  "meaning": "plural of fascio"
                 }
               ]
             },
@@ -2113,9 +2113,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "figli",
-                  "lemma": "figli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "figlio",
+                  "pos": "noun",
+                  "meaning": "plural of figlio"
                 },
                 {
                   "word": "ei",
@@ -2125,15 +2125,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "fian",
-                  "lemma": "fian",
+                  "lemma": "essere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "shall be (pl.)"
                 },
                 {
                   "word": "serbati",
-                  "lemma": "serbati",
+                  "lemma": "serbato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "masculine plural of serbato"
                 }
               ]
             },
@@ -2193,21 +2193,21 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Schiavi",
-                  "lemma": "schiavi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "schiavo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of schiavo"
                 },
                 {
                   "word": "abbietti",
-                  "lemma": "abbietti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "abbietto",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of abbietto"
                 },
                 {
                   "word": "abbandonati",
-                  "lemma": "abbandonati",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "abbandonato",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of abbandonato"
                 }
               ]
             },
@@ -2218,9 +2218,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Basti",
-                  "lemma": "basti",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "bastare",
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "a",
@@ -2242,9 +2242,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "disprezzata",
-                  "lemma": "disprezzata",
+                  "lemma": "disprezzato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of disprezzato"
                 }
               ]
             },
@@ -2261,9 +2261,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "tradita",
-                  "lemma": "tradita",
+                  "lemma": "tradito",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of tradito"
                 },
                 {
                   "word": "io",
@@ -2298,15 +2298,15 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Adalgisa",
-                  "lemma": "adalgisa",
+                  "lemma": "Adalgisa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Adalgisa (virgin of the temple of Irminsul)"
                 },
                 {
                   "word": "deh",
                   "lemma": "deh",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "pray! / ah! / alas!"
                 },
                 {
                   "word": "ti",
@@ -2316,9 +2316,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "muova",
-                  "lemma": "muova",
+                  "lemma": "muovere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 }
               ]
             },
@@ -2372,9 +2372,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Norma",
-                  "lemma": "norma",
+                  "lemma": "Norma",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Norma (high priestess of the Druids)"
                 },
                 {
                   "word": "ah",
@@ -2384,9 +2384,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Norma",
-                  "lemma": "norma",
+                  "lemma": "Norma",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Norma (high priestess of the Druids)"
                 },
                 {
                   "word": "ancora",
@@ -2396,9 +2396,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "amata",
-                  "lemma": "amata",
+                  "lemma": "amato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of amato"
                 }
               ]
             },
@@ -2458,9 +2458,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "figli",
-                  "lemma": "figli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "figlio",
+                  "pos": "noun",
+                  "meaning": "plural of figlio"
                 }
               ]
             },
@@ -2495,9 +2495,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "fia",
-                  "lemma": "fia",
+                  "lemma": "essere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "shall be (poetic future of essere)"
                 },
                 {
                   "word": "mai",
@@ -2514,7 +2514,7 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -2532,9 +2532,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "tolga",
-                  "lemma": "tolga",
+                  "lemma": "togliere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "a",
@@ -2550,9 +2550,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "arene",
-                  "lemma": "arene",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "arena",
+                  "pos": "noun",
+                  "meaning": "plural of arena"
                 }
               ]
             }
@@ -2575,9 +2575,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "giurasti",
-                  "lemma": "giurasti",
+                  "lemma": "giurare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular past historic of giurare"
                 }
               ]
             }
@@ -2600,9 +2600,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "giurai",
-                  "lemma": "giurai",
+                  "lemma": "giurare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of giurare"
                 }
               ]
             },
@@ -2692,15 +2692,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "all",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
                 {
                   "word": "ingrato",
                   "lemma": "ingrato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "ungrateful, ingrate / thankless, unrewarding, unpleasant, difficult"
                 }
               ]
             },
@@ -2723,9 +2723,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "reco",
-                  "lemma": "reco",
+                  "lemma": "recare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of recare"
                 },
                 {
                   "word": "i",
@@ -2772,7 +2772,7 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -2784,9 +2784,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "destato",
-                  "lemma": "destato",
+                  "lemma": "destare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of destare"
                 }
               ]
             },
@@ -2797,21 +2797,21 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Parlerà",
-                  "lemma": "parlerà",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "parlare",
+                  "pos": "verb",
+                  "meaning": "third-person singular future of parlare"
                 },
                 {
                   "word": "sublimi",
-                  "lemma": "sublimi",
+                  "lemma": "sublimare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "accenti",
-                  "lemma": "accenti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "accento",
+                  "pos": "noun",
+                  "meaning": "plural of accento"
                 }
               ]
             },
@@ -2847,8 +2847,8 @@ export const normaAct2: Act = {
                 {
                   "word": "natura",
                   "lemma": "natura",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "nature / essence, character"
                 }
               ]
             },
@@ -2859,9 +2859,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Ridestar",
-                  "lemma": "ridestar",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ridestare",
+                  "pos": "verb",
+                  "meaning": "to reawaken / to revive, resurrect"
                 },
                 {
                   "word": "in",
@@ -2920,9 +2920,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "secura",
-                  "lemma": "secura",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "securo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of securo"
                 }
               ]
             },
@@ -2933,9 +2933,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Norma",
-                  "lemma": "norma",
+                  "lemma": "Norma",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Norma (high priestess of the Druids)"
                 },
                 {
                   "word": "ancor",
@@ -2951,9 +2951,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "regnerà",
-                  "lemma": "regnerà",
+                  "lemma": "regnare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of regnare"
                 }
               ]
             }
@@ -2970,7 +2970,7 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -2988,9 +2988,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "preghi",
-                  "lemma": "preghi",
+                  "lemma": "pregare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             },
@@ -3014,8 +3014,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Giammai",
                   "lemma": "giammai",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "never / sometimes, at times"
                 },
                 {
                   "word": "Ah",
@@ -3044,9 +3044,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Norma",
-                  "lemma": "norma",
+                  "lemma": "Norma",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Norma (high priestess of the Druids)"
                 },
                 {
                   "word": "ti",
@@ -3057,8 +3057,8 @@ export const normaAct2: Act = {
                 {
                   "word": "piega",
                   "lemma": "piega",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fold / pleat"
                 }
               ]
             }
@@ -3093,7 +3093,7 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -3112,9 +3112,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Parti",
-                  "lemma": "parti",
+                  "lemma": "parte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of parte"
                 },
                 {
                   "word": "Va",
@@ -3150,8 +3150,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Giammai",
                   "lemma": "giammai",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "never / sometimes, at times"
                 },
                 {
                   "word": "Ah",
@@ -3186,9 +3186,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Norma",
-                  "lemma": "norma",
+                  "lemma": "Norma",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Norma (high priestess of the Druids)"
                 },
                 {
                   "word": "a",
@@ -3204,9 +3204,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "ginocchi",
-                  "lemma": "ginocchi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ginocchio",
+                  "pos": "noun",
+                  "meaning": "plural of ginocchio"
                 }
               ],
               "grammarNote": "'Look, o Norma, at your knees these dear little ones crying.' The sublime bel canto duet where Adalgisa pleads for Norma's children and refuses to marry Pollione."
@@ -3236,9 +3236,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "pargoletti",
-                  "lemma": "pargoletti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pargoletto",
+                  "pos": "noun",
+                  "meaning": "plural of pargoletto"
                 }
               ]
             },
@@ -3255,9 +3255,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Pietade",
-                  "lemma": "pietade",
+                  "lemma": "pietà",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "pity / mercy / compassion"
                 },
                 {
                   "word": "di",
@@ -3348,14 +3348,14 @@ export const normaAct2: Act = {
                 {
                   "word": "Perchè",
                   "lemma": "perchè",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "misspelling of perché"
                 },
                 {
                   "word": "perchè",
                   "lemma": "perchè",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "misspelling of perché"
                 },
                 {
                   "word": "la",
@@ -3372,8 +3372,8 @@ export const normaAct2: Act = {
                 {
                   "word": "costanza",
                   "lemma": "costanza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "constancy / steadfastness"
                 }
               ]
             },
@@ -3390,9 +3390,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "scemar",
-                  "lemma": "scemar",
+                  "lemma": "scemare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to decrease, to reduce, to diminish / to draw off a bit of wine from"
                 },
                 {
                   "word": "con",
@@ -3402,15 +3402,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "molli",
-                  "lemma": "molli",
+                  "lemma": "mollare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "affetti",
-                  "lemma": "affetti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "affetto",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of affetto"
                 }
               ]
             },
@@ -3531,9 +3531,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "pargoletti",
-                  "lemma": "pargoletti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pargoletto",
+                  "pos": "noun",
+                  "meaning": "plural of pargoletto"
                 }
               ]
             },
@@ -3599,9 +3599,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Norma",
-                  "lemma": "norma",
+                  "lemma": "Norma",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Norma (high priestess of the Druids)"
                 },
                 {
                   "word": "a",
@@ -3617,15 +3617,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "ginocchi",
-                  "lemma": "ginocchi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ginocchio",
+                  "pos": "noun",
+                  "meaning": "plural of ginocchio"
                 },
                 {
-                  "word": "<i>ecc.</i>",
-                  "lemma": "<i>ecc.</i>",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "ecc",
+                  "lemma": "eccetera",
+                  "pos": "adverb",
+                  "meaning": "etc. / and so forth"
                 }
               ],
               "grammarNote": "'Look, o Norma, at your knees these dear little ones crying.' The sublime bel canto duet where Adalgisa pleads for Norma's children and refuses to marry Pollione."
@@ -3650,14 +3650,14 @@ export const normaAct2: Act = {
                 {
                   "word": "Perchè",
                   "lemma": "perchè",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "misspelling of perché"
                 },
                 {
                   "word": "perchè",
                   "lemma": "perchè",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "misspelling of perché"
                 },
                 {
                   "word": "la",
@@ -3674,14 +3674,14 @@ export const normaAct2: Act = {
                 {
                   "word": "costanza",
                   "lemma": "costanza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "constancy / steadfastness"
                 },
                 {
-                  "word": "<i>ecc.</i>",
-                  "lemma": "<i>ecc.</i>",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "ecc",
+                  "lemma": "eccetera",
+                  "pos": "adverb",
+                  "meaning": "etc. / and so forth"
                 }
               ]
             }
@@ -3698,21 +3698,21 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Cedi",
-                  "lemma": "cedi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "cedere",
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "Deh",
                   "lemma": "deh",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "pray! / ah! / alas!"
                 },
                 {
                   "word": "cedi",
-                  "lemma": "cedi",
+                  "lemma": "cedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -3736,8 +3736,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Lasciami",
                   "lemma": "lasciami",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of lascia, the second-person singular imperative form of lasciare, with mi"
                 },
                 {
                   "word": "Ei",
@@ -3747,7 +3747,7 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -3790,9 +3790,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "pente",
-                  "lemma": "pente",
+                  "lemma": "pentirsi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of pentirsi"
                 }
               ]
             }
@@ -3840,13 +3840,13 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "amai",
-                  "lemma": "amai",
+                  "lemma": "amare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of amare"
                 },
                 {
                   "word": "Quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
@@ -3877,9 +3877,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "amistade",
-                  "lemma": "amistade",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "amicizia",
+                  "pos": "noun",
+                  "meaning": "friendship"
                 },
                 {
                   "word": "or",
@@ -3915,8 +3915,8 @@ export const normaAct2: Act = {
                 {
                   "word": "giovinetta",
                   "lemma": "giovinetta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "young girl"
                 },
                 {
                   "word": "E",
@@ -3946,8 +3946,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Renderti",
                   "lemma": "renderti",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of the infinitive rendere with ti"
                 },
                 {
                   "word": "i",
@@ -3957,9 +3957,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "dritti",
-                  "lemma": "dritti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "dritto",
+                  "pos": "noun",
+                  "meaning": "plural of dritto"
                 },
                 {
                   "word": "tuoi",
@@ -3983,8 +3983,8 @@ export const normaAct2: Act = {
                 {
                   "word": "teco",
                   "lemma": "teco",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "pronoun",
+                  "meaning": "with thee / with you"
                 },
                 {
                   "word": "al",
@@ -4027,13 +4027,13 @@ export const normaAct2: Act = {
                   "word": "celarmi",
                   "lemma": "celarmi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive celare with mi"
                 },
                 {
                   "word": "ognor",
-                  "lemma": "ognor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ognora",
+                  "pos": "adverb",
+                  "meaning": "always / ever"
                 }
               ]
             }
@@ -4069,8 +4069,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Abbracciami",
                   "lemma": "abbracciami",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of abbraccia, the second-person singular imperative form of abbracciare, with mi"
                 }
               ]
             },
@@ -4127,20 +4127,20 @@ export const normaAct2: Act = {
                 {
                   "word": "fino",
                   "lemma": "fino",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "till, until, as far as"
                 },
                 {
                   "word": "all",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
                 {
                   "word": "ore",
-                  "lemma": "ore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ora",
+                  "pos": "noun",
+                  "meaning": "plural of ora"
                 },
                 {
                   "word": "estreme",
@@ -4158,9 +4158,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Compagna",
-                  "lemma": "compagna",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "compagno",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of compagno"
                 },
                 {
                   "word": "tua",
@@ -4170,7 +4170,7 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -4195,9 +4195,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "ricovrarci",
-                  "lemma": "ricovrarci",
+                  "lemma": "ricovrare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "synonym of ricoverare (ci: us)"
                 },
                 {
                   "word": "insieme",
@@ -4252,8 +4252,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Teco",
                   "lemma": "teco",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "pronoun",
+                  "meaning": "with thee / with you"
                 },
                 {
                   "word": "del",
@@ -4264,20 +4264,20 @@ export const normaAct2: Act = {
                 {
                   "word": "fato",
                   "lemma": "fato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fate, destiny"
                 },
                 {
                   "word": "all",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
                 {
                   "word": "onte",
-                  "lemma": "onte",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "onta",
+                  "pos": "noun",
+                  "meaning": "plural of onta"
                 }
               ]
             },
@@ -4294,9 +4294,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "opporrò",
-                  "lemma": "opporrò",
+                  "lemma": "opporre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of opporre"
                 },
                 {
                   "word": "la",
@@ -4320,8 +4320,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Finchè",
                   "lemma": "finchè",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "conjunction",
+                  "meaning": "misspelling of finché"
                 },
                 {
                   "word": "il",
@@ -4368,9 +4368,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "senta",
-                  "lemma": "senta",
+                  "lemma": "sentire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "sul",
@@ -4426,9 +4426,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "partì",
-                  "lemma": "partì",
+                  "lemma": "partire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of partire"
                 }
               ]
             },
@@ -4440,8 +4440,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Finora",
                   "lemma": "finora",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "so far, till now, up to now, yet"
                 },
                 {
                   "word": "è",
@@ -4495,8 +4495,8 @@ export const normaAct2: Act = {
                 {
                   "word": "feri",
                   "lemma": "feri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "feri"
                 },
                 {
                   "word": "carmi",
@@ -4519,13 +4519,13 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "fragor",
-                  "lemma": "fragor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fragore",
+                  "pos": "noun",
+                  "meaning": "roar / rumble"
                 },
                 {
                   "word": "dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
@@ -4568,7 +4568,7 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
@@ -4587,15 +4587,15 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
                 {
                   "word": "insegne",
-                  "lemma": "insegne",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "insegna",
+                  "pos": "noun",
+                  "meaning": "plural of insegna"
                 },
                 {
                   "word": "il",
@@ -4605,9 +4605,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "ventilar",
-                  "lemma": "ventilar",
+                  "lemma": "ventilare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to ventilate, to air / to air"
                 }
               ]
             },
@@ -4631,8 +4631,8 @@ export const normaAct2: Act = {
                 {
                   "word": "inciampo",
                   "lemma": "inciampo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "obstacle / stumbling block"
                 }
               ]
             },
@@ -4655,9 +4655,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "turbi",
-                  "lemma": "turbi",
+                  "lemma": "turbare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "non",
@@ -4673,9 +4673,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "arresti",
-                  "lemma": "arresti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "arresto",
+                  "pos": "noun",
+                  "meaning": "plural of arresto"
                 }
               ]
             },
@@ -4686,15 +4686,15 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Attendiam",
-                  "lemma": "attendiam",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "attendere",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "attendiam",
-                  "lemma": "attendiam",
+                  "lemma": "attendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 }
               ]
             },
@@ -4718,8 +4718,8 @@ export const normaAct2: Act = {
                 {
                   "word": "inciampo",
                   "lemma": "inciampo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "obstacle / stumbling block"
                 }
               ]
             },
@@ -4742,9 +4742,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "turbi",
-                  "lemma": "turbi",
+                  "lemma": "turbare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "non",
@@ -4760,9 +4760,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "arresti",
-                  "lemma": "arresti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "arresto",
+                  "pos": "noun",
+                  "meaning": "plural of arresto"
                 }
               ]
             },
@@ -4803,7 +4803,7 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -4829,8 +4829,8 @@ export const normaAct2: Act = {
                 {
                   "word": "grand'opra",
                   "lemma": "grand'opra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "grand'opra"
                 },
                 {
                   "word": "a",
@@ -4840,9 +4840,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "consumar",
-                  "lemma": "consumar",
+                  "lemma": "consumare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to consume, use, use up, wear out, burn / to waste, dissipate, spend, get through"
                 }
               ]
             }
@@ -4870,9 +4870,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Guerrieri",
-                  "lemma": "guerrieri",
+                  "lemma": "guerriero",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of guerriero"
                 },
                 {
                   "word": "A",
@@ -4890,7 +4890,7 @@ export const normaAct2: Act = {
                   "word": "venirne",
                   "lemma": "venirne",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "alternative form of venirsene"
                 }
               ]
             },
@@ -4901,33 +4901,33 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Credea",
-                  "lemma": "credea",
+                  "lemma": "Credea",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Credea"
                 },
                 {
                   "word": "foriero",
                   "lemma": "foriero",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "heralding, announcing, harbingering"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "avvenir",
-                  "lemma": "avvenir",
+                  "lemma": "avvenire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to happen, to occur"
                 },
                 {
                   "word": "migliore",
                   "lemma": "migliore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "better / the best"
                 }
               ]
             },
@@ -4946,7 +4946,7 @@ export const normaAct2: Act = {
                   "word": "generoso",
                   "lemma": "generoso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "generous / liberal, prodigal"
                 },
                 {
                   "word": "ardore",
@@ -5019,14 +5019,14 @@ export const normaAct2: Act = {
                 {
                   "word": "credea",
                   "lemma": "credea",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "credea"
                 },
                 {
                   "word": "secondar",
-                  "lemma": "secondar",
+                  "lemma": "secondare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to follow, to come behind / to follow, to understand"
                 }
               ]
             },
@@ -5098,9 +5098,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "selve",
-                  "lemma": "selve",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "selva",
+                  "pos": "noun",
+                  "meaning": "plural of selva"
                 }
               ]
             },
@@ -5117,15 +5117,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "abborrito",
-                  "lemma": "abborrito",
+                  "lemma": "abborrire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of abborrire"
                 },
                 {
                   "word": "Proconsole",
                   "lemma": "proconsole",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "proconsul"
                 },
                 {
                   "word": "non",
@@ -5155,8 +5155,8 @@ export const normaAct2: Act = {
                 {
                   "word": "riede",
                   "lemma": "riede",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "riede"
                 },
                 {
                   "word": "al",
@@ -5166,9 +5166,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Tebro",
-                  "lemma": "tebro",
+                  "lemma": "Tebro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Tebro"
                 }
               ]
             }
@@ -5197,9 +5197,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "temuto",
-                  "lemma": "temuto",
+                  "lemma": "temere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of temere"
                 },
                 {
                   "word": "il",
@@ -5216,8 +5216,8 @@ export const normaAct2: Act = {
                 {
                   "word": "fiero",
                   "lemma": "fiero",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "fierce, specifically: / cruel, merciless"
                 }
               ]
             },
@@ -5235,8 +5235,8 @@ export const normaAct2: Act = {
                 {
                   "word": "condottiero",
                   "lemma": "condottiero",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "leader / condottiere"
                 }
               ]
             },
@@ -5253,15 +5253,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Pollione",
-                  "lemma": "pollione",
+                  "lemma": "Pollione",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Pollione (Roman proconsul in Gaul)"
                 },
                 {
                   "word": "succede",
-                  "lemma": "succede",
+                  "lemma": "succedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of succedere"
                 }
               ]
             }
@@ -5284,9 +5284,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Norma",
-                  "lemma": "norma",
+                  "lemma": "Norma",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Norma (high priestess of the Druids)"
                 },
                 {
                   "word": "il",
@@ -5327,9 +5327,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "consigliera",
-                  "lemma": "consigliera",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "consigliere",
+                  "pos": "noun",
+                  "meaning": "female equivalent of consigliere"
                 },
                 {
                   "word": "ancor",
@@ -5364,9 +5364,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Norma",
-                  "lemma": "norma",
+                  "lemma": "Norma",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Norma (high priestess of the Druids)"
                 },
                 {
                   "word": "la",
@@ -5382,9 +5382,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "investigai",
-                  "lemma": "investigai",
+                  "lemma": "investigare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of investigare"
                 }
               ]
             }
@@ -5445,14 +5445,14 @@ export const normaAct2: Act = {
                 {
                   "word": "fato",
                   "lemma": "fato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fate, destiny"
                 },
                 {
                   "word": "piegar",
-                  "lemma": "piegar",
+                  "lemma": "piegare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to fold / to fold up"
                 },
                 {
                   "word": "la",
@@ -5476,8 +5476,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Separarci",
                   "lemma": "separarci",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of the infinitive separare with ci"
                 },
                 {
                   "word": "e",
@@ -5518,15 +5518,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "fallito",
-                  "lemma": "fallito",
+                  "lemma": "fallire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of fallire"
                 },
                 {
                   "word": "intento",
                   "lemma": "intento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "intent on, concentrating on, busy at"
                 }
               ]
             }
@@ -5551,7 +5551,7 @@ export const normaAct2: Act = {
                   "word": "finger",
                   "lemma": "finger",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of fingere"
                 },
                 {
                   "word": "sempre",
@@ -5576,9 +5576,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Cruda",
-                  "lemma": "cruda",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "crudo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of crudo"
                 },
                 {
                   "word": "legge",
@@ -5619,9 +5619,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Tebro",
-                  "lemma": "tebro",
+                  "lemma": "Tebro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Tebro"
                 },
                 {
                   "word": "al",
@@ -5632,14 +5632,14 @@ export const normaAct2: Act = {
                 {
                   "word": "giogo",
                   "lemma": "giogo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "yoke / summit, ridge"
                 },
                 {
                   "word": "indegno",
                   "lemma": "indegno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "unworthy, undeserving / disgusting, despicable"
                 }
               ]
             },
@@ -5675,7 +5675,7 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "All",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
@@ -5687,9 +5687,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "anelo",
-                  "lemma": "anelo",
+                  "lemma": "anelare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of anelare"
                 }
               ]
             },
@@ -5707,8 +5707,8 @@ export const normaAct2: Act = {
                 {
                   "word": "nemico",
                   "lemma": "nemico",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "enemy, foe"
                 },
                 {
                   "word": "è",
@@ -5761,9 +5761,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "simular",
-                  "lemma": "simular",
+                  "lemma": "simulare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to simulate, to fake, to feign, to pretend"
                 }
               ]
             }
@@ -5792,9 +5792,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "fingiamo",
-                  "lemma": "fingiamo",
+                  "lemma": "fingere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "se",
@@ -5812,13 +5812,13 @@ export const normaAct2: Act = {
                   "word": "finger",
                   "lemma": "finger",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of fingere"
                 },
                 {
                   "word": "giovi",
-                  "lemma": "giovi",
+                  "lemma": "giovare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             },
@@ -5865,9 +5865,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "covi",
-                  "lemma": "covi",
+                  "lemma": "covare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             }
@@ -5884,9 +5884,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Divoriam",
-                  "lemma": "divoriam",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "divorare",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "in",
@@ -5909,8 +5909,8 @@ export const normaAct2: Act = {
                 {
                   "word": "sdegno",
                   "lemma": "sdegno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "indignation, resentment / enmity, animosity"
                 }
               ]
             },
@@ -5940,8 +5940,8 @@ export const normaAct2: Act = {
                 {
                   "word": "estinto",
                   "lemma": "estinto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "extinguished / extinct"
                 },
                 {
                   "word": "il",
@@ -5951,9 +5951,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "creda",
-                  "lemma": "creda",
+                  "lemma": "credere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 }
               ]
             },
@@ -5988,9 +5988,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "desto",
-                  "lemma": "desto",
+                  "lemma": "destare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of destare"
                 },
                 {
                   "word": "ei",
@@ -6001,8 +6001,8 @@ export const normaAct2: Act = {
                 {
                   "word": "rieda",
                   "lemma": "rieda",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "rieda"
                 }
               ]
             },
@@ -6031,9 +6031,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "divampar",
-                  "lemma": "divampar",
+                  "lemma": "divampare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to flare up or break out"
                 }
               ]
             }
@@ -6105,7 +6105,7 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
@@ -6154,9 +6154,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "fingiam",
-                  "lemma": "fingiam",
+                  "lemma": "fingere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "se",
@@ -6174,13 +6174,13 @@ export const normaAct2: Act = {
                   "word": "finger",
                   "lemma": "finger",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of fingere"
                 },
                 {
                   "word": "giovi",
-                  "lemma": "giovi",
+                  "lemma": "giovare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             },
@@ -6204,8 +6204,8 @@ export const normaAct2: Act = {
                 {
                   "word": "furore",
                   "lemma": "furore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fury, violence / frenzy"
                 },
                 {
                   "word": "in",
@@ -6227,9 +6227,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "covi",
-                  "lemma": "covi",
+                  "lemma": "covare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             },
@@ -6295,7 +6295,7 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
@@ -6338,9 +6338,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Simuliamo",
-                  "lemma": "simuliamo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "simulare",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "sì",
@@ -6381,9 +6381,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "simular",
-                  "lemma": "simular",
+                  "lemma": "simulare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to simulate, to fake, to feign, to pretend"
                 }
               ]
             },
@@ -6412,9 +6412,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "desto",
-                  "lemma": "desto",
+                  "lemma": "destare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of destare"
                 },
                 {
                   "word": "ei",
@@ -6425,8 +6425,8 @@ export const normaAct2: Act = {
                 {
                   "word": "rieda",
                   "lemma": "rieda",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "rieda"
                 }
               ]
             },
@@ -6455,9 +6455,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "divampar",
-                  "lemma": "divampar",
+                  "lemma": "divampare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to flare up or break out"
                 }
               ]
             }
@@ -6480,9 +6480,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "fingiamo",
-                  "lemma": "fingiamo",
+                  "lemma": "fingere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "è",
@@ -6504,9 +6504,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "simular",
-                  "lemma": "simular",
+                  "lemma": "simulare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to simulate, to fake, to feign, to pretend"
                 }
               ]
             },
@@ -6523,9 +6523,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "fingiamo",
-                  "lemma": "fingiamo",
+                  "lemma": "fingere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 }
               ]
             }
@@ -6559,9 +6559,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "tornerà",
-                  "lemma": "tornerà",
+                  "lemma": "tornare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of tornare"
                 }
               ]
             },
@@ -6585,8 +6585,8 @@ export const normaAct2: Act = {
                 {
                   "word": "fidanza",
                   "lemma": "fidanza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "trust, faith / safe-conduct"
                 },
                 {
                   "word": "è",
@@ -6597,8 +6597,8 @@ export const normaAct2: Act = {
                 {
                   "word": "posta",
                   "lemma": "posta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mail, post / post office"
                 },
                 {
                   "word": "in",
@@ -6608,9 +6608,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Adalgisa",
-                  "lemma": "adalgisa",
+                  "lemma": "Adalgisa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Adalgisa (virgin of the temple of Irminsul)"
                 }
               ]
             },
@@ -6627,9 +6627,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "tornerà",
-                  "lemma": "tornerà",
+                  "lemma": "tornare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of tornare"
                 },
                 {
                   "word": "pentito",
@@ -6647,8 +6647,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Supplichevole",
                   "lemma": "supplichevole",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "imploring"
                 },
                 {
                   "word": "amante",
@@ -6696,9 +6696,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Sparisce",
-                  "lemma": "sparisce",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "sparire",
+                  "pos": "verb",
+                  "meaning": "third-person singular present indicative of sparire"
                 },
                 {
                   "word": "il",
@@ -6709,8 +6709,8 @@ export const normaAct2: Act = {
                 {
                   "word": "nuvol",
                   "lemma": "nuvol",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apocopic form of nuvola"
                 },
                 {
                   "word": "nero",
@@ -6740,8 +6740,8 @@ export const normaAct2: Act = {
                 {
                   "word": "premea",
                   "lemma": "premea",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "premea"
                 },
                 {
                   "word": "la",
@@ -6782,15 +6782,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
                   "word": "arride",
-                  "lemma": "arride",
+                  "lemma": "arridere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of arridere"
                 }
               ]
             },
@@ -6856,9 +6856,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "felici",
-                  "lemma": "felici",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "felice",
+                  "pos": "adjective",
+                  "meaning": "plural of felice"
                 }
               ]
             },
@@ -6869,9 +6869,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Clotilde",
-                  "lemma": "clotilde",
+                  "lemma": "Clotilde",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Clotilde (Norma's confidante)"
                 }
               ]
             }
@@ -6894,15 +6894,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Norma",
-                  "lemma": "norma",
+                  "lemma": "Norma",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Norma (high priestess of the Druids)"
                 },
                 {
                   "word": "Uopo",
                   "lemma": "uopo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "need"
                 },
                 {
                   "word": "è",
@@ -6912,7 +6912,7 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -6964,7 +6964,7 @@ export const normaAct2: Act = {
                   "word": "Lassa",
                   "lemma": "lassa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "laisse, tirade / lead, leash"
                 }
               ]
             }
@@ -6983,13 +6983,13 @@ export const normaAct2: Act = {
                   "word": "Favella",
                   "lemma": "favella",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "speech / speech, utterance"
                 },
                 {
                   "word": "Favella",
                   "lemma": "favella",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "speech / speech, utterance"
                 }
               ]
             }
@@ -7007,20 +7007,20 @@ export const normaAct2: Act = {
                 {
                   "word": "Indarno",
                   "lemma": "indarno",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "in vain / fruitlessly"
                 },
                 {
                   "word": "parlò",
-                  "lemma": "parlò",
+                  "lemma": "parlare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of parlare"
                 },
                 {
                   "word": "Adalgisa",
-                  "lemma": "adalgisa",
+                  "lemma": "Adalgisa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Adalgisa (virgin of the temple of Irminsul)"
                 },
                 {
                   "word": "e",
@@ -7063,7 +7063,7 @@ export const normaAct2: Act = {
                   "word": "fidarmi",
                   "lemma": "fidarmi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive fidare with mi"
                 },
                 {
                   "word": "di",
@@ -7080,8 +7080,8 @@ export const normaAct2: Act = {
                 {
                   "word": "dovea",
                   "lemma": "dovea",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "dovea"
                 }
               ]
             },
@@ -7106,7 +7106,7 @@ export const normaAct2: Act = {
                   "word": "uscirmi",
                   "lemma": "uscirmi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive uscire with mi"
                 }
               ]
             },
@@ -7154,21 +7154,21 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Presentarsi",
-                  "lemma": "presentarsi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "presentare",
+                  "pos": "verb",
+                  "meaning": "reflexive of presentare / to present oneself, show oneself, appear, face, arrive"
                 },
                 {
                   "word": "all",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
                 {
                   "word": "empio",
                   "lemma": "empio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "impious, profane / cruel"
                 },
                 {
                   "word": "ella",
@@ -7178,9 +7178,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "tramava",
-                  "lemma": "tramava",
+                  "lemma": "tramare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect indicative of tramare"
                 }
               ]
             }
@@ -7216,8 +7216,8 @@ export const normaAct2: Act = {
                 {
                   "word": "tempio",
                   "lemma": "tempio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "temple / temple"
                 }
               ]
             },
@@ -7234,9 +7234,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "dolente",
-                  "lemma": "dolente",
+                  "lemma": "dolere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "present participle of dolere"
                 }
               ]
             },
@@ -7247,9 +7247,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Implora",
-                  "lemma": "implora",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "implorare",
+                  "pos": "verb",
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "di",
@@ -7259,9 +7259,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "profferir",
-                  "lemma": "profferir",
+                  "lemma": "profferire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "alternative form of proferire"
                 },
                 {
                   "word": "suoi",
@@ -7271,9 +7271,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "voti",
-                  "lemma": "voti",
+                  "lemma": "votare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             }
@@ -7329,13 +7329,13 @@ export const normaAct2: Act = {
                   "word": "rapirla",
                   "lemma": "rapirla",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive rapire with la"
                 },
                 {
                   "word": "giura",
                   "lemma": "giura",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "guild"
                 }
               ]
             },
@@ -7347,12 +7347,12 @@ export const normaAct2: Act = {
                 {
                   "word": "Anco",
                   "lemma": "anco",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "alternative form of anche"
                 },
                 {
                   "word": "all",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
@@ -7372,7 +7372,7 @@ export const normaAct2: Act = {
                   "word": "Nume",
                   "lemma": "nume",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a god, particularly that of Greco-Roman mythology"
                 }
               ]
             }
@@ -7403,15 +7403,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "fellon",
-                  "lemma": "fellon",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fellone",
+                  "pos": "noun",
+                  "meaning": "traitor, felon / scoundrel, villain"
                 },
                 {
                   "word": "presume",
-                  "lemma": "presume",
+                  "lemma": "presumere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of presumere"
                 }
               ]
             },
@@ -7428,9 +7428,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "previen",
-                  "lemma": "previen",
+                  "lemma": "prevenire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of prevenire"
                 },
                 {
                   "word": "mia",
@@ -7483,9 +7483,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "roman",
-                  "lemma": "roman",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "romano",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of romano"
                 }
               ]
             },
@@ -7496,15 +7496,15 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Scorreran",
-                  "lemma": "scorreran",
+                  "lemma": "Scorreran",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Scorreran"
                 },
                 {
                   "word": "torrenti",
-                  "lemma": "torrenti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "torrente",
+                  "pos": "noun",
+                  "meaning": "plural of torrente"
                 }
               ]
             }
@@ -7532,9 +7532,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Squilla",
-                  "lemma": "squilla",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "squillare",
+                  "pos": "verb",
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "il",
@@ -7545,8 +7545,8 @@ export const normaAct2: Act = {
                 {
                   "word": "bronzo",
                   "lemma": "bronzo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "bronze / bell, especially church bell"
                 },
                 {
                   "word": "del",
@@ -7569,9 +7569,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Norma",
-                  "lemma": "norma",
+                  "lemma": "Norma",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Norma (high priestess of the Druids)"
                 },
                 {
                   "word": "Che",
@@ -7594,9 +7594,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Percosso",
-                  "lemma": "percosso",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "percuotere",
+                  "pos": "verb",
+                  "meaning": "past participle of percuotere"
                 },
                 {
                   "word": "lo",
@@ -7612,15 +7612,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "Irminsul",
-                  "lemma": "irminsul",
+                  "lemma": "Irminsul",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Irminsul"
                 }
               ]
             },
@@ -7649,15 +7649,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "decreti",
-                  "lemma": "decreti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "decreto",
+                  "pos": "noun",
+                  "meaning": "plural of decreto"
                 },
                 {
                   "word": "intima",
-                  "lemma": "intima",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "intimo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of intimo"
                 }
               ]
             }
@@ -7681,14 +7681,14 @@ export const normaAct2: Act = {
                 {
                   "word": "strage",
                   "lemma": "strage",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a massacre, a mass murder, a butchery, a slaughter / a large or profitable hunting trip"
                 },
                 {
                   "word": "sterminio",
                   "lemma": "sterminio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "extermination, eradication / an enormous amount or quantity"
                 }
               ]
             }
@@ -7742,15 +7742,15 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "S",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
                 {
                   "word": "imponea",
                   "lemma": "imponea",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "imponea"
                 },
                 {
                   "word": "pel",
@@ -7810,15 +7810,15 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Stragi",
-                  "lemma": "stragi",
+                  "lemma": "strage",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of strage"
                 },
                 {
                   "word": "furore",
                   "lemma": "furore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fury, violence / frenzy"
                 },
                 {
                   "word": "e",
@@ -7828,9 +7828,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "morti",
-                  "lemma": "morti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "morte",
+                  "pos": "noun",
+                  "meaning": "plural of morte / plural of morto"
                 }
               ]
             },
@@ -7848,8 +7848,8 @@ export const normaAct2: Act = {
                 {
                   "word": "cantico",
                   "lemma": "cantico",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "canticle"
                 },
                 {
                   "word": "di",
@@ -7865,9 +7865,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "alzate",
-                  "lemma": "alzate",
+                  "lemma": "alzare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "o",
@@ -7877,9 +7877,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "forti",
-                  "lemma": "forti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "forte",
+                  "pos": "adjective",
+                  "meaning": "plural of forte"
                 }
               ]
             },
@@ -7936,13 +7936,13 @@ export const normaAct2: Act = {
                   "word": "Strage",
                   "lemma": "strage",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a massacre, a mass murder, a butchery, a slaughter / a large or profitable hunting trip"
                 },
                 {
                   "word": "strage",
                   "lemma": "strage",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a massacre, a mass murder, a butchery, a slaughter / a large or profitable hunting trip"
                 }
               ]
             }
@@ -7977,15 +7977,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "galliche",
-                  "lemma": "galliche",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "gallico",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of gallico"
                 },
                 {
                   "word": "selve",
-                  "lemma": "selve",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "selva",
+                  "pos": "noun",
+                  "meaning": "plural of selva"
                 }
               ],
               "grammarNote": "'War, war! Let the Gallic forests resound with the clash of arms!' The fierce chorus of Druids and warriors summoned by Norma's shield strike."
@@ -7997,9 +7997,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Quante",
-                  "lemma": "quante",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "quanto",
+                  "pos": "particle",
+                  "meaning": "feminine plural of quanto"
                 },
                 {
                   "word": "han",
@@ -8010,14 +8010,14 @@ export const normaAct2: Act = {
                 {
                   "word": "quercie",
                   "lemma": "quercie",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "quercie"
                 },
                 {
                   "word": "producon",
-                  "lemma": "producon",
+                  "lemma": "produrre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of produrre"
                 },
                 {
                   "word": "guerrier",
@@ -8047,20 +8047,20 @@ export const normaAct2: Act = {
                 {
                   "word": "gregge",
                   "lemma": "gregge",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "flock"
                 },
                 {
                   "word": "fameliche",
-                  "lemma": "fameliche",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "famelico",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of famelico"
                 },
                 {
                   "word": "belve",
-                  "lemma": "belve",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "belva",
+                  "pos": "noun",
+                  "meaning": "plural of belva"
                 }
               ]
             },
@@ -8077,15 +8077,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Romani",
-                  "lemma": "romani",
+                  "lemma": "romano",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of Romano"
                 },
                 {
                   "word": "van",
                   "lemma": "van",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "van"
                 },
                 {
                   "word": "essi",
@@ -8132,15 +8132,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "galliche",
-                  "lemma": "galliche",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "gallico",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of gallico"
                 },
                 {
                   "word": "scuri",
-                  "lemma": "scuri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "scure",
+                  "pos": "noun",
+                  "meaning": "plural of scure"
                 }
               ]
             },
@@ -8152,8 +8152,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Fino",
                   "lemma": "fino",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "till, until, as far as"
                 },
                 {
                   "word": "al",
@@ -8169,9 +8169,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "bagnate",
-                  "lemma": "bagnate",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bagnato",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of bagnato"
                 },
                 {
                   "word": "ne",
@@ -8206,9 +8206,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "flutti",
-                  "lemma": "flutti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "flutto",
+                  "pos": "noun",
+                  "meaning": "plural of flutto"
                 },
                 {
                   "word": "dei",
@@ -8218,15 +8218,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Ligeri",
-                  "lemma": "ligeri",
+                  "lemma": "Ligeri",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ligeri"
                 },
                 {
                   "word": "impuri",
-                  "lemma": "impuri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "impuro",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of impuro"
                 }
               ]
             },
@@ -8243,9 +8243,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "gorgoglia",
-                  "lemma": "gorgoglia",
+                  "lemma": "gorgogliare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "con",
@@ -8256,8 +8256,8 @@ export const normaAct2: Act = {
                 {
                   "word": "funebre",
                   "lemma": "funebre",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "funeral / funereal, mournful"
                 },
                 {
                   "word": "suon",
@@ -8276,19 +8276,19 @@ export const normaAct2: Act = {
                   "word": "Strage",
                   "lemma": "strage",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a massacre, a mass murder, a butchery, a slaughter / a large or profitable hunting trip"
                 },
                 {
                   "word": "strage",
                   "lemma": "strage",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a massacre, a mass murder, a butchery, a slaughter / a large or profitable hunting trip"
                 },
                 {
                   "word": "sterminio",
                   "lemma": "sterminio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "extermination, eradication / an enormous amount or quantity"
                 },
                 {
                   "word": "vendetta",
@@ -8311,9 +8311,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "comincia",
-                  "lemma": "comincia",
+                  "lemma": "cominciare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "si",
@@ -8323,13 +8323,13 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "compie",
-                  "lemma": "compie",
+                  "lemma": "compiere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of compiere or compire"
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -8354,9 +8354,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "biade",
-                  "lemma": "biade",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "biada",
+                  "pos": "noun",
+                  "meaning": "plural of biada"
                 },
                 {
                   "word": "da",
@@ -8366,15 +8366,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "falci",
-                  "lemma": "falci",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "falce",
+                  "pos": "noun",
+                  "meaning": "plural of falce"
                 },
                 {
                   "word": "mietute",
-                  "lemma": "mietute",
+                  "lemma": "mietuto",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine plural of mietuto"
                 }
               ]
             },
@@ -8409,15 +8409,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "schiere",
-                  "lemma": "schiere",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "schiera",
+                  "pos": "noun",
+                  "meaning": "plural of schiera"
                 },
                 {
                   "word": "cadute",
-                  "lemma": "cadute",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "caduta",
+                  "pos": "noun",
+                  "meaning": "plural of caduta"
                 }
               ]
             },
@@ -8428,9 +8428,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Tronchi",
-                  "lemma": "tronchi",
+                  "lemma": "tronco",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of tronco"
                 },
                 {
                   "word": "i",
@@ -8441,14 +8441,14 @@ export const normaAct2: Act = {
                 {
                   "word": "vanni",
                   "lemma": "vanni",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "vans, wings"
                 },
                 {
                   "word": "recisi",
-                  "lemma": "recisi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "reciso",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of reciso"
                 },
                 {
                   "word": "gli",
@@ -8473,7 +8473,7 @@ export const normaAct2: Act = {
                   "word": "Abbattuta",
                   "lemma": "abbattuta",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "synonym of abbattimento / a section of a wood where trees have been cut down"
                 },
                 {
                   "word": "ecco",
@@ -8490,8 +8490,8 @@ export const normaAct2: Act = {
                 {
                   "word": "aquila",
                   "lemma": "aquila",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "eagle / eagle"
                 },
                 {
                   "word": "al",
@@ -8522,7 +8522,7 @@ export const normaAct2: Act = {
                   "word": "mirare",
                   "lemma": "mirare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to aim, to take aim, to sight, to point / to admire, to gaze, to contemplate, to stare"
                 },
                 {
                   "word": "il",
@@ -8539,14 +8539,14 @@ export const normaAct2: Act = {
                 {
                   "word": "de",
                   "lemma": "de",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "alternative form of di"
                 },
                 {
                   "word": "figli",
-                  "lemma": "figli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "figlio",
+                  "pos": "noun",
+                  "meaning": "plural of figlio"
                 }
               ]
             },
@@ -8619,14 +8619,14 @@ export const normaAct2: Act = {
                 {
                   "word": "Nè",
                   "lemma": "nè",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "conjunction",
+                  "meaning": "misspelling of né"
                 },
                 {
                   "word": "compi",
-                  "lemma": "compi",
+                  "lemma": "compiere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "il",
@@ -8637,8 +8637,8 @@ export const normaAct2: Act = {
                 {
                   "word": "rito",
                   "lemma": "rito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "rite; ritual"
                 },
                 {
                   "word": "o",
@@ -8648,9 +8648,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Norma",
-                  "lemma": "norma",
+                  "lemma": "Norma",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Norma (high priestess of the Druids)"
                 }
               ]
             },
@@ -8662,8 +8662,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Nè",
                   "lemma": "nè",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "conjunction",
+                  "meaning": "misspelling of né"
                 },
                 {
                   "word": "la",
@@ -8674,14 +8674,14 @@ export const normaAct2: Act = {
                 {
                   "word": "vittima",
                   "lemma": "vittima",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "victim"
                 },
                 {
                   "word": "accenni",
-                  "lemma": "accenni",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "accenno",
+                  "pos": "noun",
+                  "meaning": "plural of accenno"
                 }
               ]
             }
@@ -8704,9 +8704,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "fia",
-                  "lemma": "fia",
+                  "lemma": "essere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "shall be (poetic future of essere)"
                 },
                 {
                   "word": "pronta",
@@ -8760,15 +8760,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "vittime",
-                  "lemma": "vittime",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vittima",
+                  "pos": "noun",
+                  "meaning": "plural of vittima"
                 },
                 {
                   "word": "mancò",
-                  "lemma": "mancò",
+                  "lemma": "mancare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of mancare"
                 }
               ]
             },
@@ -8792,8 +8792,8 @@ export const normaAct2: Act = {
                 {
                   "word": "tumulto",
                   "lemma": "tumulto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "commotion, uproar / turmoil, tumult"
                 }
               ]
             }
@@ -8834,14 +8834,14 @@ export const normaAct2: Act = {
                 {
                   "word": "tempio",
                   "lemma": "tempio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "temple / temple"
                 },
                 {
                   "word": "insulto",
                   "lemma": "insulto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "insult, abuse, slur / insult"
                 }
               ]
             },
@@ -8865,8 +8865,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Romano",
                   "lemma": "romano",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "Roman / Roman Catholic"
                 }
               ]
             },
@@ -8883,15 +8883,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "sacra",
-                  "lemma": "sacra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sacro",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of sacro"
                 },
                 {
                   "word": "chiostra",
                   "lemma": "chiostra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "circle, ring / enclosure"
                 }
               ]
             },
@@ -8908,15 +8908,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "vergini",
-                  "lemma": "vergini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vergine",
+                  "pos": "noun",
+                  "meaning": "plural of vergine"
                 },
                 {
                   "word": "alunne",
-                  "lemma": "alunne",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "alunna",
+                  "pos": "noun",
+                  "meaning": "plural of alunna"
                 },
                 {
                   "word": "egli",
@@ -8958,8 +8958,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Romano",
                   "lemma": "romano",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "Roman / Roman Catholic"
                 }
               ]
             }
@@ -8983,8 +8983,8 @@ export const normaAct2: Act = {
                 {
                   "word": "ascolto",
                   "lemma": "ascolto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "listening / reception"
                 },
                 {
                   "word": "Se",
@@ -9001,8 +9001,8 @@ export const normaAct2: Act = {
                 {
                   "word": "foss'egli",
                   "lemma": "foss'egli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "foss'egli"
                 }
               ]
             }
@@ -9072,8 +9072,8 @@ export const normaAct2: Act = {
                 {
                   "word": "desso",
                   "lemma": "desso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "pronoun",
+                  "meaning": "alternative form of esso"
                 }
               ]
             }
@@ -9096,9 +9096,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Pollion",
-                  "lemma": "pollion",
+                  "lemma": "Pollion",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Pollion"
                 }
               ]
             }
@@ -9121,9 +9121,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "vendicata",
-                  "lemma": "vendicata",
+                  "lemma": "vendicato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of vendicato"
                 },
                 {
                   "word": "adesso",
@@ -9147,14 +9147,14 @@ export const normaAct2: Act = {
                 {
                   "word": "Sacrilego",
                   "lemma": "sacrilego",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "sacrilegious"
                 },
                 {
                   "word": "nemico",
                   "lemma": "nemico",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "enemy, foe"
                 },
                 {
                   "word": "e",
@@ -9176,9 +9176,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "spinse",
-                  "lemma": "spinse",
+                  "lemma": "spingere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of spingere"
                 }
               ]
             },
@@ -9195,9 +9195,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "violar",
-                  "lemma": "violar",
+                  "lemma": "violare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to break, violate, infringe, profane, run afoul of / to rape"
                 },
                 {
                   "word": "queste",
@@ -9207,15 +9207,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "temute",
-                  "lemma": "temute",
+                  "lemma": "temuto",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine plural of temuto"
                 },
                 {
                   "word": "soglie",
-                  "lemma": "soglie",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "soglia",
+                  "pos": "noun",
+                  "meaning": "plural of soglia"
                 }
               ]
             },
@@ -9234,7 +9234,7 @@ export const normaAct2: Act = {
                   "word": "sfidar",
                   "lemma": "sfidar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of sfidare"
                 },
                 {
                   "word": "l",
@@ -9250,15 +9250,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "Irminsul",
-                  "lemma": "irminsul",
+                  "lemma": "Irminsul",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Irminsul"
                 }
               ]
             }
@@ -9295,7 +9295,7 @@ export const normaAct2: Act = {
                   "word": "interrogarmi",
                   "lemma": "interrogarmi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive interrogare with mi"
                 }
               ]
             }
@@ -9320,15 +9320,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "ferir",
-                  "lemma": "ferir",
+                  "lemma": "ferire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to wound, to injure, to hurt"
                 },
                 {
                   "word": "deggio",
                   "lemma": "deggio",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "alternative form of devo, first-person singular present indicative of dovere"
                 }
               ]
             },
@@ -9339,9 +9339,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Scostatevi",
-                  "lemma": "scostatevi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "scostarsi",
+                  "pos": "verb",
+                  "meaning": "second-person plural imperative of scostarsi"
                 }
               ]
             }
@@ -9365,14 +9365,14 @@ export const normaAct2: Act = {
                 {
                   "word": "veggio",
                   "lemma": "veggio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "hot water bottle"
                 },
                 {
                   "word": "Norma",
-                  "lemma": "norma",
+                  "lemma": "Norma",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Norma (high priestess of the Druids)"
                 }
               ]
             }
@@ -9395,9 +9395,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Norma",
-                  "lemma": "norma",
+                  "lemma": "Norma",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Norma (high priestess of the Druids)"
                 }
               ]
             }
@@ -9432,9 +9432,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "impugna",
-                  "lemma": "impugna",
+                  "lemma": "impugnare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -9445,9 +9445,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Vendica",
-                  "lemma": "vendica",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "vendico",
+                  "pos": "verb",
+                  "meaning": "feminine singular of vendico"
                 },
                 {
                   "word": "il",
@@ -9484,9 +9484,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Feriam",
-                  "lemma": "feriam",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ferire",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 }
               ]
             },
@@ -9522,9 +9522,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "tremi",
-                  "lemma": "tremi",
+                  "lemma": "tremare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             }
@@ -9554,8 +9554,8 @@ export const normaAct2: Act = {
                 {
                   "word": "poss'io",
                   "lemma": "poss'io",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "poss'io"
                 }
               ]
             }
@@ -9578,27 +9578,27 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "fia",
-                  "lemma": "fia",
+                  "lemma": "essere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "shall be (poetic future of essere)"
                 },
                 {
                   "word": "Perchè",
                   "lemma": "perchè",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "misspelling of perché"
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
                 {
                   "word": "arresti",
-                  "lemma": "arresti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "arresto",
+                  "pos": "noun",
+                  "meaning": "plural of arresto"
                 }
               ]
             }
@@ -9615,9 +9615,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Poss'io",
-                  "lemma": "poss'io",
+                  "lemma": "Poss'io",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Poss'io"
                 },
                 {
                   "word": "sentir",
@@ -9673,13 +9673,13 @@ export const normaAct2: Act = {
                   "word": "deggio",
                   "lemma": "deggio",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "alternative form of devo, first-person singular present indicative of dovere"
                 },
                 {
                   "word": "interrogarlo",
                   "lemma": "interrogarlo",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive interrogare with lo"
                 }
               ]
             },
@@ -9690,9 +9690,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Investigar",
-                  "lemma": "investigar",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "investigare",
+                  "pos": "verb",
+                  "meaning": "to investigate, to examine"
                 },
                 {
                   "word": "qual",
@@ -9714,9 +9714,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "insidiata",
-                  "lemma": "insidiata",
+                  "lemma": "insidiato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of insidiato"
                 }
               ]
             },
@@ -9734,14 +9734,14 @@ export const normaAct2: Act = {
                 {
                   "word": "complice",
                   "lemma": "complice",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "accomplice"
                 },
                 {
                   "word": "ministra",
-                  "lemma": "ministra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ministro",
+                  "pos": "noun",
+                  "meaning": "female equivalent of ministro"
                 }
               ]
             },
@@ -9770,9 +9770,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "persuase",
-                  "lemma": "persuase",
+                  "lemma": "persuadere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of persuadere"
                 },
                 {
                   "word": "a",
@@ -9789,8 +9789,8 @@ export const normaAct2: Act = {
                 {
                   "word": "estremo",
                   "lemma": "estremo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "extreme,  utmost,  farthest, terminal,  outermost / drastic"
                 }
               ]
             },
@@ -9801,9 +9801,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Ite",
-                  "lemma": "ite",
+                  "lemma": "Ite",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ite"
                 },
                 {
                   "word": "per",
@@ -9949,15 +9949,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "potria",
-                  "lemma": "potria",
+                  "lemma": "potere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "could / might (poetic conditional)"
                 },
                 {
                   "word": "spezzar",
                   "lemma": "spezzar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of spezzare"
                 },
                 {
                   "word": "tuoi",
@@ -9968,8 +9968,8 @@ export const normaAct2: Act = {
                 {
                   "word": "nodi",
                   "lemma": "nodi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Knots, nodes; plural of nodo"
                 }
               ]
             },
@@ -10017,9 +10017,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "nol",
-                  "lemma": "nol",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "non lo",
+                  "pos": "particle",
+                  "meaning": "not it / not him (non + lo)"
                 },
                 {
                   "word": "dei",
@@ -10098,7 +10098,7 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "M",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -10141,9 +10141,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "figli",
-                  "lemma": "figli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "figlio",
+                  "pos": "noun",
+                  "meaning": "plural of figlio"
                 },
                 {
                   "word": "tuoi",
@@ -10160,9 +10160,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Giurar",
-                  "lemma": "giurar",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "giurare",
+                  "pos": "verb",
+                  "meaning": "to swear, vow"
                 },
                 {
                   "word": "dei",
@@ -10178,7 +10178,7 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -10209,15 +10209,15 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Adalgisa",
-                  "lemma": "adalgisa",
+                  "lemma": "Adalgisa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Adalgisa (virgin of the temple of Irminsul)"
                 },
                 {
                   "word": "fuggirai",
-                  "lemma": "fuggirai",
+                  "lemma": "fuggire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular future of fuggire"
                 }
               ]
             },
@@ -10228,7 +10228,7 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "All",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
@@ -10253,8 +10253,8 @@ export const normaAct2: Act = {
                 {
                   "word": "torrai",
                   "lemma": "torrai",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "torrai"
                 }
               ]
             },
@@ -10332,9 +10332,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "rivedrò",
-                  "lemma": "rivedrò",
+                  "lemma": "rivedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of rivedere"
                 }
               ]
             },
@@ -10347,7 +10347,7 @@ export const normaAct2: Act = {
                   "word": "Giura",
                   "lemma": "giura",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "guild"
                 }
               ]
             }
@@ -10409,13 +10409,13 @@ export const normaAct2: Act = {
                   "word": "Giura",
                   "lemma": "giura",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "guild"
                 },
                 {
                   "word": "giura",
                   "lemma": "giura",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "guild"
                 }
               ]
             }
@@ -10444,9 +10444,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "morrò",
-                  "lemma": "morrò",
+                  "lemma": "morirò",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "literary form of morirò"
                 }
               ]
             }
@@ -10500,8 +10500,8 @@ export const normaAct2: Act = {
                 {
                   "word": "furore",
                   "lemma": "furore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fury, violence / frenzy"
                 }
               ]
             },
@@ -10543,7 +10543,7 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -10555,15 +10555,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "piombi",
-                  "lemma": "piombi",
+                  "lemma": "piombare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "attendo",
-                  "lemma": "attendo",
+                  "lemma": "attendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of attendere"
                 }
               ]
             }
@@ -10610,9 +10610,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "figli",
-                  "lemma": "figli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "figlio",
+                  "pos": "noun",
+                  "meaning": "plural of figlio"
                 },
                 {
                   "word": "in",
@@ -10704,14 +10704,14 @@ export const normaAct2: Act = {
                 {
                   "word": "sovr'essi",
                   "lemma": "sovr'essi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sovr'essi"
                 },
                 {
                   "word": "alzai",
-                  "lemma": "alzai",
+                  "lemma": "alzare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of alzare"
                 },
                 {
                   "word": "la",
@@ -10722,8 +10722,8 @@ export const normaAct2: Act = {
                 {
                   "word": "punta",
                   "lemma": "punta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "point, head, tip, top, peak, end / toe"
                 }
               ]
             },
@@ -10783,9 +10783,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "ferii",
-                  "lemma": "ferii",
+                  "lemma": "ferire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of ferire"
                 },
                 {
                   "word": "ma",
@@ -10814,9 +10814,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Consumar",
-                  "lemma": "consumar",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "consumare",
+                  "pos": "verb",
+                  "meaning": "to consume, use, use up, wear out, burn / to waste, dissipate, spend, get through"
                 },
                 {
                   "word": "potrei",
@@ -10833,8 +10833,8 @@ export const normaAct2: Act = {
                 {
                   "word": "eccesso",
                   "lemma": "eccesso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "excess, surplus / glut"
                 }
               ]
             },
@@ -10863,7 +10863,7 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -10895,14 +10895,14 @@ export const normaAct2: Act = {
                 {
                   "word": "poss'io",
                   "lemma": "poss'io",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "poss'io"
                 },
                 {
                   "word": "dimenticar",
                   "lemma": "dimenticar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of dimenticare"
                 }
               ]
             }
@@ -10968,9 +10968,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "pugnal",
-                  "lemma": "pugnal",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pugnale",
+                  "pos": "noun",
+                  "meaning": "dagger"
                 },
                 {
                   "word": "tu",
@@ -10986,9 +10986,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "vibrar",
-                  "lemma": "vibrar",
+                  "lemma": "vibrare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to vibrate / to rattle"
                 }
               ]
             },
@@ -11017,9 +11017,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "porgi",
-                  "lemma": "porgi",
+                  "lemma": "porgere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -11073,9 +11073,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "cada",
-                  "lemma": "cada",
+                  "lemma": "cadere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "io",
@@ -11129,9 +11129,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Romani",
-                  "lemma": "romani",
+                  "lemma": "romano",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of Romano"
                 },
                 {
                   "word": "a",
@@ -11142,8 +11142,8 @@ export const normaAct2: Act = {
                 {
                   "word": "cento",
                   "lemma": "cento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "hundred, one hundred"
                 },
                 {
                   "word": "a",
@@ -11154,8 +11154,8 @@ export const normaAct2: Act = {
                 {
                   "word": "cento",
                   "lemma": "cento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "hundred, one hundred"
                 }
               ]
             },
@@ -11166,27 +11166,27 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Fian",
-                  "lemma": "fian",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "shall be (pl.)"
                 },
                 {
                   "word": "mietuti",
-                  "lemma": "mietuti",
+                  "lemma": "mietuto",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "masculine plural of mietuto"
                 },
                 {
                   "word": "fian",
-                  "lemma": "fian",
+                  "lemma": "essere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "shall be (pl.)"
                 },
                 {
                   "word": "distrutti",
-                  "lemma": "distrutti",
+                  "lemma": "distrutto",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "masculine plural of distrutto"
                 }
               ]
             },
@@ -11203,9 +11203,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Adalgisa",
-                  "lemma": "adalgisa",
+                  "lemma": "Adalgisa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Adalgisa (virgin of the temple of Irminsul)"
                 }
               ]
             }
@@ -11242,8 +11242,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Infedele",
                   "lemma": "infedele",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "unfaithful, faithless, false / unfaithful, adulterous"
                 },
                 {
                   "word": "a",
@@ -11259,9 +11259,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "voti",
-                  "lemma": "voti",
+                  "lemma": "votare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             }
@@ -11303,21 +11303,21 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Adalgisa",
-                  "lemma": "adalgisa",
+                  "lemma": "Adalgisa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Adalgisa (virgin of the temple of Irminsul)"
                 },
                 {
                   "word": "fia",
-                  "lemma": "fia",
+                  "lemma": "essere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "shall be (poetic future of essere)"
                 },
                 {
                   "word": "punita",
-                  "lemma": "punita",
+                  "lemma": "punito",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of punito"
                 }
               ]
             },
@@ -11340,9 +11340,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "perirà",
-                  "lemma": "perirà",
+                  "lemma": "perire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of perire"
                 },
                 {
                   "word": "sì",
@@ -11352,9 +11352,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "perirà",
-                  "lemma": "perirà",
+                  "lemma": "perire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of perire"
                 }
               ]
             }
@@ -11463,15 +11463,15 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Preghi",
-                  "lemma": "preghi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "pregare",
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "alfine",
                   "lemma": "alfine",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "finally, at last"
                 }
               ]
             },
@@ -11483,8 +11483,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Indegno",
                   "lemma": "indegno",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "unworthy, undeserving / disgusting, despicable"
                 },
                 {
                   "word": "È",
@@ -11539,7 +11539,7 @@ export const normaAct2: Act = {
                   "word": "ferire",
                   "lemma": "ferire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to wound, to injure, to hurt"
                 }
               ]
             },
@@ -11588,7 +11588,7 @@ export const normaAct2: Act = {
                   "word": "ferire",
                   "lemma": "ferire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to wound, to injure, to hurt"
                 }
               ]
             },
@@ -11612,8 +11612,8 @@ export const normaAct2: Act = {
                 {
                   "word": "pasco",
                   "lemma": "pasco",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pasture / feeding"
                 },
                 {
                   "word": "ne",
@@ -11629,9 +11629,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "sguardi",
-                  "lemma": "sguardi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sguardo",
+                  "pos": "noun",
+                  "meaning": "plural of sguardo"
                 }
               ]
             },
@@ -11654,9 +11654,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "duol",
-                  "lemma": "duol",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "duolo",
+                  "pos": "noun",
+                  "meaning": "sorrow / grief / pain"
                 },
                 {
                   "word": "del",
@@ -11692,8 +11692,8 @@ export const normaAct2: Act = {
                 {
                   "word": "alfine",
                   "lemma": "alfine",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "finally, at last"
                 },
                 {
                   "word": "io",
@@ -11711,7 +11711,7 @@ export const normaAct2: Act = {
                   "word": "farti",
                   "lemma": "farti",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive fare with ti"
                 }
               ]
             },
@@ -11771,15 +11771,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "T",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
                 {
                   "word": "appaghi",
-                  "lemma": "appaghi",
+                  "lemma": "appagare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "il",
@@ -11796,8 +11796,8 @@ export const normaAct2: Act = {
                 {
                   "word": "terrore",
                   "lemma": "terrore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "terror, fright, dread"
                 }
               ]
             },
@@ -11863,9 +11863,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "sfoga",
-                  "lemma": "sfoga",
+                  "lemma": "sfogare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "il",
@@ -11882,8 +11882,8 @@ export const normaAct2: Act = {
                 {
                   "word": "furore",
                   "lemma": "furore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fury, violence / frenzy"
                 }
               ]
             },
@@ -11900,9 +11900,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "risparmia",
-                  "lemma": "risparmia",
+                  "lemma": "risparmiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "un",
@@ -11925,15 +11925,15 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Basti",
-                  "lemma": "basti",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "bastare",
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "basti",
-                  "lemma": "basti",
+                  "lemma": "bastare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "a",
@@ -11945,7 +11945,7 @@ export const normaAct2: Act = {
                   "word": "vendicarti",
                   "lemma": "vendicarti",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive vendicare with ti"
                 }
               ]
             },
@@ -11956,7 +11956,7 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -11974,9 +11974,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "sveni",
-                  "lemma": "sveni",
+                  "lemma": "svenare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "innanzi",
@@ -12043,7 +12043,7 @@ export const normaAct2: Act = {
                   "word": "ferire",
                   "lemma": "ferire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to wound, to injure, to hurt"
                 }
               ]
             }
@@ -12066,15 +12066,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "T",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
                 {
                   "word": "appaghi",
-                  "lemma": "appaghi",
+                  "lemma": "appagare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "il",
@@ -12091,8 +12091,8 @@ export const normaAct2: Act = {
                 {
                   "word": "terrore",
                   "lemma": "terrore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "terror, fright, dread"
                 }
               ]
             }
@@ -12185,7 +12185,7 @@ export const normaAct2: Act = {
                   "word": "ferire",
                   "lemma": "ferire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to wound, to injure, to hurt"
                 }
               ]
             }
@@ -12214,9 +12214,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "sfoga",
-                  "lemma": "sfoga",
+                  "lemma": "sfogare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "il",
@@ -12233,8 +12233,8 @@ export const normaAct2: Act = {
                 {
                   "word": "furore",
                   "lemma": "furore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fury, violence / frenzy"
                 }
               ]
             },
@@ -12251,9 +12251,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "risparmia",
-                  "lemma": "risparmia",
+                  "lemma": "risparmiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "un",
@@ -12295,8 +12295,8 @@ export const normaAct2: Act = {
                 {
                   "word": "pasco",
                   "lemma": "pasco",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pasture / feeding"
                 },
                 {
                   "word": "ne",
@@ -12312,9 +12312,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "sguardi",
-                  "lemma": "sguardi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sguardo",
+                  "pos": "noun",
+                  "meaning": "plural of sguardo"
                 },
                 {
                   "word": "ecc",
@@ -12349,9 +12349,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "basti",
-                  "lemma": "basti",
+                  "lemma": "bastare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "il",
@@ -12380,7 +12380,7 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -12398,9 +12398,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "sveni",
-                  "lemma": "sveni",
+                  "lemma": "svenare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "innanzi",
@@ -12466,15 +12466,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "osi",
-                  "lemma": "osi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "oso",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of oso"
                 },
                 {
                   "word": "Scostati",
-                  "lemma": "scostati",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "scostato",
+                  "pos": "verb",
+                  "meaning": "masculine plural of scostato"
                 }
               ]
             }
@@ -12534,21 +12534,21 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "ministri",
-                  "lemma": "ministri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ministro",
+                  "pos": "noun",
+                  "meaning": "plural of ministro"
                 },
                 {
                   "word": "sacerdoti",
-                  "lemma": "sacerdoti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sacerdote",
+                  "pos": "noun",
+                  "meaning": "plural of sacerdote"
                 },
                 {
                   "word": "accorrete",
-                  "lemma": "accorrete",
+                  "lemma": "accorrere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -12574,7 +12574,7 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "All",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
@@ -12601,13 +12601,13 @@ export const normaAct2: Act = {
                   "word": "Nuova",
                   "lemma": "nuova",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "news"
                 },
                 {
                   "word": "vittima",
                   "lemma": "vittima",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "victim"
                 },
                 {
                   "word": "io",
@@ -12617,9 +12617,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "svelo",
-                  "lemma": "svelo",
+                  "lemma": "svelare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of svelare"
                 }
               ]
             },
@@ -12636,15 +12636,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "spergiura",
-                  "lemma": "spergiura",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "spergiuro",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of spergiuro"
                 },
                 {
                   "word": "sacerdotessa",
                   "lemma": "sacerdotessa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "priestess"
                 }
               ]
             },
@@ -12661,21 +12661,21 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "sacri",
-                  "lemma": "sacri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sacro",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of sacro"
                 },
                 {
                   "word": "voti",
-                  "lemma": "voti",
+                  "lemma": "votare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "infranse",
-                  "lemma": "infranse",
+                  "lemma": "infrangere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of infrangere"
                 }
               ]
             },
@@ -12686,9 +12686,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Tradì",
-                  "lemma": "tradì",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "tradire",
+                  "pos": "verb",
+                  "meaning": "third-person singular past historic of tradire"
                 },
                 {
                   "word": "la",
@@ -12735,9 +12735,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "avi",
-                  "lemma": "avi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "avo",
+                  "pos": "noun",
+                  "meaning": "plural of avo"
                 },
                 {
                   "word": "offese",
@@ -12767,8 +12767,8 @@ export const normaAct2: Act = {
                 {
                   "word": "delitto",
                   "lemma": "delitto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "crime, offence/offense, felony, misdemeanour / murder, homicide"
                 },
                 {
                   "word": "O",
@@ -12804,8 +12804,8 @@ export const normaAct2: Act = {
                 {
                   "word": "palese",
                   "lemma": "palese",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "clear, evident"
                 }
               ]
             }
@@ -12828,9 +12828,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "preparate",
-                  "lemma": "preparate",
+                  "lemma": "preparare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "il",
@@ -12841,8 +12841,8 @@ export const normaAct2: Act = {
                 {
                   "word": "rogo",
                   "lemma": "rogo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pyre / bonfire; any great fire"
                 }
               ]
             }
@@ -12890,9 +12890,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Norma",
-                  "lemma": "norma",
+                  "lemma": "Norma",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Norma (high priestess of the Druids)"
                 },
                 {
                   "word": "pietà",
@@ -12921,9 +12921,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "svela",
-                  "lemma": "svela",
+                  "lemma": "svelare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -12940,9 +12940,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Udite",
-                  "lemma": "udite",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "udire",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -12977,9 +12977,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "accusar",
-                  "lemma": "accusar",
+                  "lemma": "accusare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to accuse / to blame"
                 }
               ]
             },
@@ -13039,9 +13039,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "dessa",
-                  "lemma": "dessa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "desso",
+                  "pos": "pronoun",
+                  "meaning": "feminine singular of desso"
                 }
               ]
             }
@@ -13126,9 +13126,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Norma",
-                  "lemma": "norma",
+                  "lemma": "Norma",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Norma (high priestess of the Druids)"
                 }
               ]
             }
@@ -13164,14 +13164,14 @@ export const normaAct2: Act = {
                 {
                   "word": "rogo",
                   "lemma": "rogo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pyre / bonfire; any great fire"
                 },
                 {
                   "word": "ergete",
-                  "lemma": "ergete",
+                  "lemma": "ergere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -13188,15 +13188,15 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "D",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "orrore",
                   "lemma": "orrore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "horror / disgust, loathing"
                 },
                 {
                   "word": "io",
@@ -13232,8 +13232,8 @@ export const normaAct2: Act = {
                 {
                   "word": "manca",
                   "lemma": "manca",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "left hand / left"
                 },
                 {
                   "word": "il",
@@ -13269,8 +13269,8 @@ export const normaAct2: Act = {
                 {
                   "word": "delinquente",
                   "lemma": "delinquente",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "delinquent, criminal / scoundrel, wretch"
                 }
               ]
             }
@@ -13299,9 +13299,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "credete",
-                  "lemma": "credete",
+                  "lemma": "credere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -13318,9 +13318,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Norma",
-                  "lemma": "norma",
+                  "lemma": "Norma",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Norma (high priestess of the Druids)"
                 },
                 {
                   "word": "non",
@@ -13423,9 +13423,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "tradisti",
-                  "lemma": "tradisti",
+                  "lemma": "tradire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular past historic of tradire"
                 },
                 {
                   "word": "qual",
@@ -13441,9 +13441,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "perdesti",
-                  "lemma": "perdesti",
+                  "lemma": "perdere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular past historic of perdere"
                 }
               ]
             },
@@ -13454,7 +13454,7 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
@@ -13466,9 +13466,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "orrenda",
-                  "lemma": "orrenda",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "orrendo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of orrendo"
                 },
                 {
                   "word": "ti",
@@ -13478,9 +13478,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "manifesti",
-                  "lemma": "manifesti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "manifesto",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of manifesto"
                 }
               ]
             },
@@ -13509,9 +13509,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "tentasti",
-                  "lemma": "tentasti",
+                  "lemma": "tentare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular past historic of tentare"
                 },
                 {
                   "word": "invano",
@@ -13535,8 +13535,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Romano",
                   "lemma": "romano",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "Roman / Roman Catholic"
                 },
                 {
                   "word": "tu",
@@ -13578,8 +13578,8 @@ export const normaAct2: Act = {
                 {
                   "word": "nume",
                   "lemma": "nume",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a god, particularly that of Greco-Roman mythology"
                 },
                 {
                   "word": "un",
@@ -13590,8 +13590,8 @@ export const normaAct2: Act = {
                 {
                   "word": "fato",
                   "lemma": "fato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fate, destiny"
                 },
                 {
                   "word": "di",
@@ -13688,14 +13688,14 @@ export const normaAct2: Act = {
                 {
                   "word": "rogo",
                   "lemma": "rogo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pyre / bonfire; any great fire"
                 },
                 {
                   "word": "istesso",
                   "lemma": "istesso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "particle",
+                  "meaning": "alternative form of stesso"
                 },
                 {
                   "word": "che",
@@ -13725,8 +13725,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Sotterra",
                   "lemma": "sotterra",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "underground"
                 },
                 {
                   "word": "ancora",
@@ -13785,7 +13785,7 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -13797,9 +13797,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "conosciuta",
-                  "lemma": "conosciuta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "conosciuto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of conosciuto"
                 }
               ]
             },
@@ -13811,8 +13811,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Sublime",
                   "lemma": "sublime",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "sublime"
                 },
                 {
                   "word": "donna",
@@ -13828,7 +13828,7 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -13840,9 +13840,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "perduta",
-                  "lemma": "perduta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "perduto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of perduto"
                 }
               ]
             },
@@ -13883,9 +13883,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "rinato",
-                  "lemma": "rinato",
+                  "lemma": "rinascere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of rinascere"
                 }
               ]
             },
@@ -13903,14 +13903,14 @@ export const normaAct2: Act = {
                 {
                   "word": "disperato",
                   "lemma": "disperato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "hopeless, desperate, despairing"
                 },
                 {
                   "word": "furente",
                   "lemma": "furente",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "furious"
                 },
                 {
                   "word": "egli",
@@ -13933,9 +13933,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Moriamo",
-                  "lemma": "moriamo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "morire",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "insieme",
@@ -13957,9 +13957,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "moriamo",
-                  "lemma": "moriamo",
+                  "lemma": "morire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 }
               ]
             },
@@ -13977,14 +13977,14 @@ export const normaAct2: Act = {
                 {
                   "word": "estremo",
                   "lemma": "estremo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "extreme,  utmost,  farthest, terminal,  outermost / drastic"
                 },
                 {
                   "word": "accento",
                   "lemma": "accento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "stress / accent"
                 },
                 {
                   "word": "sarà",
@@ -13994,7 +13994,7 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -14006,7 +14006,7 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -14037,9 +14037,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "morendo",
-                  "lemma": "morendo",
+                  "lemma": "morire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of morire: dying"
                 },
                 {
                   "word": "non",
@@ -14049,7 +14049,7 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -14057,7 +14057,7 @@ export const normaAct2: Act = {
                   "word": "abborrire",
                   "lemma": "abborrire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "alternative form of aborrire"
                 }
               ]
             },
@@ -14118,8 +14118,8 @@ export const normaAct2: Act = {
                 {
                   "word": "feci",
                   "lemma": "feci",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "faeces/feces"
                 },
                 {
                   "word": "o",
@@ -14185,9 +14185,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "rassicura",
-                  "lemma": "rassicura",
+                  "lemma": "rassicurare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -14244,8 +14244,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Canuto",
                   "lemma": "canuto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "grey, hoary, white / hoary-haired"
                 },
                 {
                   "word": "padre",
@@ -14267,9 +14267,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "scongiura",
-                  "lemma": "scongiura",
+                  "lemma": "scongiurare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -14292,9 +14292,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "deliri",
-                  "lemma": "deliri",
+                  "lemma": "delirare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "di",
@@ -14316,9 +14316,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "menti",
-                  "lemma": "menti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "mente",
+                  "pos": "noun",
+                  "meaning": "plural of mente"
                 }
               ]
             },
@@ -14335,15 +14335,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "stolti",
-                  "lemma": "stolti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "stolto",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of stolto"
                 },
                 {
                   "word": "accenti",
-                  "lemma": "accenti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "accento",
+                  "pos": "noun",
+                  "meaning": "plural of accento"
                 },
                 {
                   "word": "uscir",
@@ -14385,8 +14385,8 @@ export const normaAct2: Act = {
                 {
                   "word": "severo",
                   "lemma": "severo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "severe / strict"
                 },
                 {
                   "word": "che",
@@ -14402,7 +14402,7 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -14428,8 +14428,8 @@ export const normaAct2: Act = {
                 {
                   "word": "stassi",
                   "lemma": "stassi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a surname"
                 },
                 {
                   "word": "muto",
@@ -14457,9 +14457,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "sospende",
-                  "lemma": "sospende",
+                  "lemma": "sospendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of sospendere"
                 }
               ]
             },
@@ -14472,7 +14472,7 @@ export const normaAct2: Act = {
                   "word": "Indizio",
                   "lemma": "indizio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "evidence / clue, inkling"
                 },
                 {
                   "word": "è",
@@ -14489,8 +14489,8 @@ export const normaAct2: Act = {
                 {
                   "word": "indizio",
                   "lemma": "indizio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "evidence / clue, inkling"
                 },
                 {
                   "word": "espresso",
@@ -14520,14 +14520,14 @@ export const normaAct2: Act = {
                 {
                   "word": "eccesso",
                   "lemma": "eccesso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "excess, surplus / glut"
                 },
                 {
                   "word": "punir",
-                  "lemma": "punir",
+                  "lemma": "punire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to punish"
                 },
                 {
                   "word": "non",
@@ -14538,8 +14538,8 @@ export const normaAct2: Act = {
                 {
                   "word": "de",
                   "lemma": "de",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "alternative form of di"
                 }
               ]
             },
@@ -14580,9 +14580,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "punir",
-                  "lemma": "punir",
+                  "lemma": "punire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to punish"
                 },
                 {
                   "word": "non",
@@ -14593,8 +14593,8 @@ export const normaAct2: Act = {
                 {
                   "word": "de",
                   "lemma": "de",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "alternative form of di"
                 }
               ]
             },
@@ -14605,27 +14605,27 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Norma",
-                  "lemma": "norma",
+                  "lemma": "Norma",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Norma (high priestess of the Druids)"
                 },
                 {
                   "word": "Deh",
                   "lemma": "deh",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "pray! / ah! / alas!"
                 },
                 {
                   "word": "Norma",
-                  "lemma": "norma",
+                  "lemma": "Norma",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Norma (high priestess of the Druids)"
                 },
                 {
                   "word": "scolpati",
-                  "lemma": "scolpati",
+                  "lemma": "scolpato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "masculine plural of scolpato"
                 }
               ]
             },
@@ -14699,9 +14699,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "figli",
-                  "lemma": "figli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "figlio",
+                  "pos": "noun",
+                  "meaning": "plural of figlio"
                 }
               ]
             }
@@ -14724,9 +14724,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Miseri",
-                  "lemma": "miseri",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "misero",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of misero"
                 },
                 {
                   "word": "Oh",
@@ -14769,9 +14769,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "figli",
-                  "lemma": "figli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "figlio",
+                  "pos": "noun",
+                  "meaning": "plural of figlio"
                 }
               ]
             }
@@ -14815,9 +14815,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Norma",
-                  "lemma": "norma",
+                  "lemma": "Norma",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Norma (high priestess of the Druids)"
                 },
                 {
                   "word": "sei",
@@ -14859,14 +14859,14 @@ export const normaAct2: Act = {
                 {
                   "word": "oltre",
                   "lemma": "oltre",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "farther, further, past, by, on / longer, more"
                 },
                 {
                   "word": "umana",
-                  "lemma": "umana",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "umano",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of umano"
                 },
                 {
                   "word": "idea",
@@ -14889,9 +14889,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Empia",
-                  "lemma": "empia",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "empio",
+                  "pos": "adjective",
+                  "meaning": "feminine of empio"
                 }
               ]
             }
@@ -14916,7 +14916,7 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -14941,9 +14941,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Scostati",
-                  "lemma": "scostati",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "scostato",
+                  "pos": "verb",
+                  "meaning": "masculine plural of scostato"
                 }
               ]
             }
@@ -14963,18 +14963,18 @@ export const normaAct2: Act = {
                 {
                   "word": "Deh",
                   "lemma": "deh",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "pray! / ah! / alas!"
                 },
                 {
                   "word": "Deh",
                   "lemma": "deh",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "pray! / ah! / alas!"
                 },
                 {
                   "word": "M",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -15011,9 +15011,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "dolor",
-                  "lemma": "dolor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "dolore",
+                  "pos": "noun",
+                  "meaning": "ache, pain / sorrow, grief"
                 }
               ]
             }
@@ -15076,9 +15076,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Acquetati",
-                  "lemma": "acquetati",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "acquetato",
+                  "pos": "verb",
+                  "meaning": "masculine plural of acquetato"
                 }
               ]
             },
@@ -15089,9 +15089,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Clotilde",
-                  "lemma": "clotilde",
+                  "lemma": "Clotilde",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Clotilde (Norma's confidante)"
                 },
                 {
                   "word": "ha",
@@ -15107,9 +15107,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "figli",
-                  "lemma": "figli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "figlio",
+                  "pos": "noun",
+                  "meaning": "plural of figlio"
                 },
                 {
                   "word": "miei",
@@ -15138,9 +15138,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "raccogli",
-                  "lemma": "raccogli",
+                  "lemma": "raccogliere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "e",
@@ -15156,9 +15156,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "barbari",
-                  "lemma": "barbari",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bárbaro",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of bárbaro"
                 }
               ]
             },
@@ -15169,9 +15169,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Gl'invola",
-                  "lemma": "gl'invola",
+                  "lemma": "Gl'invola",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Gl'invola"
                 },
                 {
                   "word": "insiem",
@@ -15213,8 +15213,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Giammai",
                   "lemma": "giammai",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "never / sometimes, at times"
                 },
                 {
                   "word": "Va",
@@ -15225,8 +15225,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Lasciami",
                   "lemma": "lasciami",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of lascia, the second-person singular imperative form of lasciare, with mi"
                 }
               ]
             }
@@ -15319,9 +15319,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "dolor",
-                  "lemma": "dolor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "dolore",
+                  "pos": "noun",
+                  "meaning": "ache, pain / sorrow, grief"
                 }
               ]
             }
@@ -15372,8 +15372,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Deh",
                   "lemma": "deh",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "pray! / ah! / alas!"
                 },
                 {
                   "word": "Non",
@@ -15385,13 +15385,13 @@ export const normaAct2: Act = {
                   "word": "volerli",
                   "lemma": "volerli",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive volere with li"
                 },
                 {
                   "word": "vittime",
-                  "lemma": "vittime",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vittima",
+                  "pos": "noun",
+                  "meaning": "plural of vittima"
                 }
               ],
               "grammarNote": "'Ah! Do not make them victims of my own sin!' Norma's heartrending plea to her father Oroveso to protect her innocent sons."
@@ -15422,8 +15422,8 @@ export const normaAct2: Act = {
                 {
                   "word": "errore",
                   "lemma": "errore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mistake, error, slip, howler, blunder, goof / wandering;  moral deviation"
                 }
               ]
             },
@@ -15435,8 +15435,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Deh",
                   "lemma": "deh",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "pray! / ah! / alas!"
                 },
                 {
                   "word": "Non",
@@ -15448,7 +15448,7 @@ export const normaAct2: Act = {
                   "word": "troncar",
                   "lemma": "troncar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of troncare"
                 },
                 {
                   "word": "sul",
@@ -15471,7 +15471,7 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Quell",
-                  "lemma": "quell'",
+                  "lemma": "quell",
                   "pos": "noun",
                   "meaning": "that"
                 },
@@ -15551,9 +15551,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "pietade",
-                  "lemma": "pietade",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pietà",
+                  "pos": "noun",
+                  "meaning": "pity / mercy / compassion"
                 }
               ]
             },
@@ -15824,9 +15824,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Contenta",
-                  "lemma": "contenta",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "contento",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of contento"
                 },
                 {
                   "word": "il",
@@ -15837,8 +15837,8 @@ export const normaAct2: Act = {
                 {
                   "word": "rogo",
                   "lemma": "rogo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pyre / bonfire; any great fire"
                 },
                 {
                   "word": "io",
@@ -15848,9 +15848,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "ascenderò",
-                  "lemma": "ascenderò",
+                  "lemma": "ascendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of ascendere"
                 }
               ]
             }
@@ -15948,8 +15948,8 @@ export const normaAct2: Act = {
                 {
                   "word": "rogo",
                   "lemma": "rogo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pyre / bonfire; any great fire"
                 },
                 {
                   "word": "io",
@@ -15959,9 +15959,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "ascenderò",
-                  "lemma": "ascenderò",
+                  "lemma": "ascendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of ascendere"
                 }
               ]
             }
@@ -15978,9 +15978,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Oppresso",
-                  "lemma": "oppresso",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "opprimere",
+                  "pos": "verb",
+                  "meaning": "past participle of opprimere"
                 },
                 {
                   "word": "è",
@@ -16064,9 +16064,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "duol",
-                  "lemma": "duol",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "duolo",
+                  "pos": "noun",
+                  "meaning": "sorrow / grief / pain"
                 },
                 {
                   "word": "Oh",
@@ -16076,9 +16076,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "duol",
-                  "lemma": "duol",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "duolo",
+                  "pos": "noun",
+                  "meaning": "sorrow / grief / pain"
                 }
               ]
             },
@@ -16108,9 +16108,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Consolarm'io",
-                  "lemma": "consolarm'io",
+                  "lemma": "Consolarm'io",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Consolarm'io"
                 },
                 {
                   "word": "mai",
@@ -16182,9 +16182,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "respinta",
-                  "lemma": "respinta",
+                  "lemma": "respinto",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of respinto"
                 },
                 {
                   "word": "è",
@@ -16201,8 +16201,8 @@ export const normaAct2: Act = {
                 {
                   "word": "preghiera",
                   "lemma": "preghiera",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "prayer / request"
                 }
               ]
             },
@@ -16225,9 +16225,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "spogli",
-                  "lemma": "spogli",
+                  "lemma": "spogliare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "il",
@@ -16274,9 +16274,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "copra",
-                  "lemma": "copra",
+                  "lemma": "coprire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "di",
@@ -16286,9 +16286,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "squallor",
-                  "lemma": "squallor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "squallore",
+                  "pos": "noun",
+                  "meaning": "wretchedness, bleakness / misery"
                 }
               ]
             },
@@ -16348,15 +16348,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "mel",
-                  "lemma": "mel",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "mela",
+                  "pos": "noun",
+                  "meaning": "plural of mela"
                 },
                 {
                   "word": "prometti",
-                  "lemma": "prometti",
+                  "lemma": "promettere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -16415,10 +16415,10 @@ export const normaAct2: Act = {
                   "meaning": "says"
                 },
                 {
-                  "word": "<i>ecc.</i>",
-                  "lemma": "<i>ecc.</i>",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "ecc",
+                  "lemma": "eccetera",
+                  "pos": "adverb",
+                  "meaning": "etc. / and so forth"
                 }
               ]
             }
@@ -16464,10 +16464,10 @@ export const normaAct2: Act = {
                   "meaning": "sky / heaven"
                 },
                 {
-                  "word": "<i>ecc.</i>",
-                  "lemma": "<i>ecc.</i>",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "ecc",
+                  "lemma": "eccetera",
+                  "pos": "adverb",
+                  "meaning": "etc. / and so forth"
                 }
               ]
             }
@@ -16490,9 +16490,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Cessa",
-                  "lemma": "cessa",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "cessare",
+                  "pos": "verb",
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "infelice",
@@ -16515,15 +16515,15 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "tel",
-                  "lemma": "tel",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tele",
+                  "pos": "noun",
+                  "meaning": "telly , TV"
                 },
                 {
                   "word": "prometto",
-                  "lemma": "prometto",
+                  "lemma": "promettere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of promettere"
                 },
                 {
                   "word": "ah",
@@ -16564,9 +16564,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "duol",
-                  "lemma": "duol",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "duolo",
+                  "pos": "noun",
+                  "meaning": "sorrow / grief / pain"
                 },
                 {
                   "word": "Oh",
@@ -16576,9 +16576,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "duol",
-                  "lemma": "duol",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "duolo",
+                  "pos": "noun",
+                  "meaning": "sorrow / grief / pain"
                 }
               ]
             },
@@ -16608,9 +16608,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Consolarm'io",
-                  "lemma": "consolarm'io",
+                  "lemma": "Consolarm'io",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Consolarm'io"
                 },
                 {
                   "word": "mai",
@@ -16670,10 +16670,10 @@ export const normaAct2: Act = {
                   "meaning": "spera"
                 },
                 {
-                  "word": "<i>ecc.</i>",
-                  "lemma": "<i>ecc.</i>",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "ecc",
+                  "lemma": "eccetera",
+                  "pos": "adverb",
+                  "meaning": "etc. / and so forth"
                 }
               ]
             },
@@ -16685,8 +16685,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Vanne",
                   "lemma": "vanne",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of va', the second-person singular imperative form of andare, with ne"
                 },
                 {
                   "word": "al",
@@ -16697,8 +16697,8 @@ export const normaAct2: Act = {
                 {
                   "word": "rogo",
                   "lemma": "rogo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pyre / bonfire; any great fire"
                 }
               ]
             }
@@ -16768,8 +16768,8 @@ export const normaAct2: Act = {
                 {
                   "word": "Vanne",
                   "lemma": "vanne",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of va', the second-person singular imperative form of andare, with ne"
                 },
                 {
                   "word": "al",
@@ -16780,8 +16780,8 @@ export const normaAct2: Act = {
                 {
                   "word": "rogo",
                   "lemma": "rogo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pyre / bonfire; any great fire"
                 },
                 {
                   "word": "ed",
@@ -16804,8 +16804,8 @@ export const normaAct2: Act = {
                 {
                   "word": "scempio",
                   "lemma": "scempio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "single / single"
                 }
               ]
             },
@@ -16816,9 +16816,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Purghi",
-                  "lemma": "purghi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "purgare",
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "l",
@@ -16829,8 +16829,8 @@ export const normaAct2: Act = {
                 {
                   "word": "ara",
                   "lemma": "ara",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "the base upon which objects were sacrificed to the gods by fire / pyre"
                 },
                 {
                   "word": "e",
@@ -16853,8 +16853,8 @@ export const normaAct2: Act = {
                 {
                   "word": "tempio",
                   "lemma": "tempio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "temple / temple"
                 }
               ]
             },
@@ -16871,9 +16871,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "estinta",
-                  "lemma": "estinta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "estinto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of estinto"
                 },
                 {
                   "word": "ancor",
@@ -16909,8 +16909,8 @@ export const normaAct2: Act = {
                 {
                   "word": "rogo",
                   "lemma": "rogo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pyre / bonfire; any great fire"
                 },
                 {
                   "word": "o",
@@ -16920,9 +16920,9 @@ export const normaAct2: Act = {
                 },
                 {
                   "word": "Norma",
-                  "lemma": "norma",
+                  "lemma": "Norma",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Norma (high priestess of the Druids)"
                 },
                 {
                   "word": "è",
@@ -16976,9 +16976,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Incomincia",
-                  "lemma": "incomincia",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "incominciare",
+                  "pos": "verb",
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "eterno",
@@ -17049,9 +17049,9 @@ export const normaAct2: Act = {
               "tokens": [
                 {
                   "word": "Sgorga",
-                  "lemma": "sgorga",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "sgorgare",
+                  "pos": "verb",
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "o",
@@ -17100,7 +17100,7 @@ export const normaAct2: Act = {
                   "word": "genitor",
                   "lemma": "genitor",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of genitore"
                 }
               ]
             },
@@ -17110,7 +17110,7 @@ export const normaAct2: Act = {
               "literal": "Pollione and Norma are dragged to the pyre.",
               "tokens": [
                 {
-                  "word": "<i>Pollione",
+                  "word": "Pollione",
                   "lemma": "Pollione",
                   "pos": "noun",
                   "meaning": "Pollione"
@@ -17146,7 +17146,7 @@ export const normaAct2: Act = {
                   "meaning": "to the"
                 },
                 {
-                  "word": "rogo.</i>",
+                  "word": "rogo",
                   "lemma": "rogo",
                   "pos": "noun",
                   "meaning": "pyre / stake"

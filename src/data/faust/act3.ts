@@ -26,9 +26,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Faites-lui",
-                  "lemma": "faites-lui",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "faire",
+                  "pos": "verb",
+                  "meaning": "make to him / offer him"
                 },
                 {
                   "word": "mes",
@@ -38,9 +38,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "aveux",
-                  "lemma": "aveux",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "aveu",
+                  "pos": "noun",
+                  "meaning": "plural of aveu"
                 }
               ],
               "grammarNote": "'Carry my vows to her, bring my wishes to her, fragrant flowers!' Siébel's tender garden aria leaving flowers for Marguerite."
@@ -64,9 +64,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "vœux",
-                  "lemma": "vœux",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vœu",
+                  "pos": "noun",
+                  "meaning": "vows / wishes / prayers"
                 }
               ]
             },
@@ -84,8 +84,8 @@ export const faustAct3: Act = {
                 {
                   "word": "écloses",
                   "lemma": "écloses",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "écloses"
                 },
                 {
                   "word": "près",
@@ -114,9 +114,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Dites-lui",
-                  "lemma": "dites-lui",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "dire",
+                  "pos": "verb",
+                  "meaning": "tell him / say to him"
                 },
                 {
                   "word": "qu",
@@ -194,9 +194,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Languit",
-                  "lemma": "languit",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "languir",
+                  "pos": "verb",
+                  "meaning": "third-person singular present indicative / third-person singular past historic"
                 },
                 {
                   "word": "d",
@@ -219,9 +219,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Révélez",
-                  "lemma": "révélez",
+                  "lemma": "révéler",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "à",
@@ -275,8 +275,8 @@ export const faustAct3: Act = {
                 {
                   "word": "flamme",
                   "lemma": "flamme",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "flame / talent, brilliance"
                 }
               ]
             },
@@ -305,9 +305,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "exhale",
-                  "lemma": "exhale",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "exhaler",
+                  "pos": "verb",
+                  "meaning": "first/third-person singular present indicative/subjunctive / second-person singular imperative"
                 },
                 {
                   "word": "avec",
@@ -330,9 +330,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Parfums",
-                  "lemma": "parfums",
+                  "lemma": "parfum",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of parfum"
                 },
                 {
                   "word": "plus",
@@ -355,9 +355,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Fanée",
-                  "lemma": "fanée",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fané",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of fané"
                 }
               ]
             },
@@ -375,8 +375,8 @@ export const faustAct3: Act = {
                 {
                   "word": "sorcier",
                   "lemma": "sorcier",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sorcerer, magician, warlock"
                 },
                 {
                   "word": "que",
@@ -392,9 +392,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "condamne",
-                  "lemma": "condamne",
+                  "lemma": "condamner",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/third-person singular present indicative/subjunctive / second-person singular imperative"
                 }
               ]
             },
@@ -424,8 +424,8 @@ export const faustAct3: Act = {
                 {
                   "word": "malheur",
                   "lemma": "malheur",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mishap, misfortune / sadness, unhappiness"
                 }
               ]
             },
@@ -479,8 +479,8 @@ export const faustAct3: Act = {
                 {
                   "word": "fane",
                   "lemma": "fane",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "dry leaf / the leaves attached to vegetables, but which are themselves not usually consumed, such as those of carrot, radishes and cauliflowers"
                 }
               ]
             },
@@ -492,8 +492,8 @@ export const faustAct3: Act = {
                 {
                   "word": "Toucher",
                   "lemma": "toucher",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "the act of touching / a way of touching"
                 },
                 {
                   "word": "une",
@@ -528,9 +528,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "trempais",
-                  "lemma": "trempais",
+                  "lemma": "tremper",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second-person singular imperfect indicative of tremper"
                 },
                 {
                   "word": "mes",
@@ -564,9 +564,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "bénite",
-                  "lemma": "bénite",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bénit",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of bénit"
                 }
               ]
             },
@@ -602,8 +602,8 @@ export const faustAct3: Act = {
                 {
                   "word": "chaque",
                   "lemma": "chaque",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "each / every"
                 },
                 {
                   "word": "soir",
@@ -625,9 +625,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "Marguerite",
-                  "lemma": "marguerite",
+                  "lemma": "Marguerite",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Marguerite (young maiden)"
                 }
               ]
             },
@@ -681,9 +681,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "fanent",
-                  "lemma": "fanent",
+                  "lemma": "faner",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative/subjunctive of faner"
                 },
                 {
                   "word": "Non",
@@ -693,9 +693,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "Satan",
-                  "lemma": "satan",
+                  "lemma": "Satan",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Satan / the Devil"
                 },
                 {
                   "word": "je",
@@ -706,8 +706,8 @@ export const faustAct3: Act = {
                 {
                   "word": "ris",
                   "lemma": "ris",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "reef"
                 },
                 {
                   "word": "de",
@@ -830,7 +830,7 @@ export const faustAct3: Act = {
                   "word": "connaître",
                   "lemma": "connaître",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to know , to be familiar with / to know, to experience"
                 }
               ]
             },
@@ -848,8 +848,8 @@ export const faustAct3: Act = {
                 {
                   "word": "émoi",
                   "lemma": "émoi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "agitation; emotion; vicissitude / excitement"
                 },
                 {
                   "word": "qu",
@@ -879,7 +879,7 @@ export const faustAct3: Act = {
                   "word": "naître",
                   "lemma": "naître",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to be born"
                 }
               ]
             },
@@ -982,9 +982,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "effarouche",
-                  "lemma": "effarouche",
+                  "lemma": "effaroucher",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/third-person singular present indicative/subjunctive / second-person singular imperative"
                 }
               ]
             },
@@ -1058,7 +1058,7 @@ export const faustAct3: Act = {
                   "word": "déposer",
                   "lemma": "déposer",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to put down , lay down / to deposit"
                 }
               ]
             },
@@ -1131,9 +1131,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Suivez-moi",
-                  "lemma": "suivez-moi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "suivre",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative (suivez-moi)"
                 }
               ]
             }
@@ -1156,9 +1156,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "regardes-tu",
-                  "lemma": "regardes-tu",
+                  "lemma": "regarder",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative/subjunctive of regarder (regardes-tu)"
                 },
                 {
                   "word": "là",
@@ -1181,9 +1181,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Siebel",
-                  "lemma": "siebel",
+                  "lemma": "Siébel",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Siébel (youth in love with Marguerite)"
                 },
                 {
                   "word": "votre",
@@ -1212,9 +1212,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Siebel",
-                  "lemma": "siebel",
+                  "lemma": "Siébel",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Siébel (youth in love with Marguerite)"
                 }
               ]
             }
@@ -1245,9 +1245,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "voila",
-                  "lemma": "voila",
+                  "lemma": "voiler",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of voiler"
                 }
               ]
             }
@@ -1273,8 +1273,8 @@ export const faustAct3: Act = {
                 {
                   "word": "bouquet",
                   "lemma": "bouquet",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "bouquet, bunch / a set or selection of something"
                 },
                 {
                   "word": "n",
@@ -1284,9 +1284,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "est-il",
-                  "lemma": "est-il",
+                  "lemma": "être",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "is he / is it"
                 },
                 {
                   "word": "pas",
@@ -1363,9 +1363,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "raconterai",
-                  "lemma": "raconterai",
+                  "lemma": "raconter",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of raconter"
                 },
                 {
                   "word": "demain",
@@ -1388,8 +1388,8 @@ export const faustAct3: Act = {
                 {
                   "word": "histoire",
                   "lemma": "histoire",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "story / history"
                 }
               ]
             },
@@ -1526,7 +1526,7 @@ export const faustAct3: Act = {
                   "word": "Séducteur",
                   "lemma": "séducteur",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "seducer"
                 }
               ]
             }
@@ -1543,9 +1543,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Attendez-moi",
-                  "lemma": "attendez-moi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "attendre",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative (attendez-moi)"
                 },
                 {
                   "word": "là",
@@ -1562,8 +1562,8 @@ export const faustAct3: Act = {
                 {
                   "word": "docteur",
                   "lemma": "docteur",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a doctor / a doctor , especially a male doctor"
                 }
               ]
             },
@@ -1617,8 +1617,8 @@ export const faustAct3: Act = {
                 {
                   "word": "élève",
                   "lemma": "élève",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "schoolboy, pupil, student / schoolchild, pupil, student"
                 }
               ]
             },
@@ -1660,8 +1660,8 @@ export const faustAct3: Act = {
                 {
                   "word": "trésor",
                   "lemma": "trésor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "treasure / treasure"
                 }
               ]
             },
@@ -1680,7 +1680,7 @@ export const faustAct3: Act = {
                   "word": "merveilleux",
                   "lemma": "merveilleux",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "marvelous, brilliant"
                 },
                 {
                   "word": "plus",
@@ -1804,14 +1804,14 @@ export const faustAct3: Act = {
                 {
                   "word": "óbéis",
                   "lemma": "óbéis",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "óbéis"
                 },
                 {
                   "word": "Daignez",
-                  "lemma": "daignez",
+                  "lemma": "daigner",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "m",
@@ -1853,14 +1853,14 @@ export const faustAct3: Act = {
                 {
                   "word": "trouble",
                   "lemma": "trouble",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "trouble / disorder"
                 },
                 {
                   "word": "inconnu",
                   "lemma": "inconnu",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "unknown, obscure, unfamiliar, strange"
                 },
                 {
                   "word": "me",
@@ -1870,9 +1870,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "pénètre",
-                  "lemma": "pénètre",
+                  "lemma": "pénétrer",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/third-person singular present indicative/subjunctive / second-person singular imperative"
                 }
               ]
             },
@@ -1890,8 +1890,8 @@ export const faustAct3: Act = {
                 {
                   "word": "sens",
                   "lemma": "sens",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "meaning, sense / sense, sensation"
                 },
                 {
                   "word": "l",
@@ -1944,15 +1944,15 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "O",
-                  "lemma": "o",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ô",
+                  "pos": "interjection",
+                  "meaning": "O! / oh!"
                 },
                 {
                   "word": "Marguerite",
-                  "lemma": "marguerite",
+                  "lemma": "Marguerite",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Marguerite (young maiden)"
                 },
                 {
                   "word": "à",
@@ -1968,9 +1968,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "pieds",
-                  "lemma": "pieds",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pied",
+                  "pos": "noun",
+                  "meaning": "plural of pied"
                 },
                 {
                   "word": "me",
@@ -2011,8 +2011,8 @@ export const faustAct3: Act = {
                 {
                   "word": "Alerte",
                   "lemma": "alerte",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "alert / agile"
                 },
                 {
                   "word": "la",
@@ -2022,9 +2022,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "voila",
-                  "lemma": "voila",
+                  "lemma": "voiler",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of voiler"
                 },
                 {
                   "word": "Si",
@@ -2041,8 +2041,8 @@ export const faustAct3: Act = {
                 {
                   "word": "bouquet",
                   "lemma": "bouquet",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "bouquet, bunch / a set or selection of something"
                 },
                 {
                   "word": "l",
@@ -2052,9 +2052,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "emporte",
-                  "lemma": "emporte",
+                  "lemma": "emporter",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/third-person singular present indicative/subjunctive / second-person singular imperative"
                 }
               ]
             },
@@ -2078,8 +2078,8 @@ export const faustAct3: Act = {
                 {
                   "word": "écrin",
                   "lemma": "écrin",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "jewel case, jewel box / box"
                 },
                 {
                   "word": "je",
@@ -2089,9 +2089,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "consens",
-                  "lemma": "consens",
+                  "lemma": "consentir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "à",
@@ -2132,9 +2132,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Fuyons",
-                  "lemma": "fuyons",
+                  "lemma": "fuir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative / first-person plural imperative"
                 },
                 {
                   "word": "je",
@@ -2196,8 +2196,8 @@ export const faustAct3: Act = {
                 {
                   "word": "scrupule",
                   "lemma": "scrupule",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "scruple, compunction, qualm"
                 },
                 {
                   "word": "vous",
@@ -2233,8 +2233,8 @@ export const faustAct3: Act = {
                 {
                   "word": "seuil",
                   "lemma": "seuil",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "threshold ; doorstep / threshold, level"
                 },
                 {
                   "word": "de",
@@ -2276,14 +2276,14 @@ export const faustAct3: Act = {
                 {
                   "word": "écrin",
                   "lemma": "écrin",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "jewel case, jewel box / box"
                 },
                 {
                   "word": "placé",
-                  "lemma": "placé",
+                  "lemma": "placer",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of placer"
                 },
                 {
                   "word": "venez",
@@ -2453,9 +2453,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "nomme",
-                  "lemma": "nomme",
+                  "lemma": "nommer",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/third-person singular present indicative/subjunctive / second-person singular imperative"
                 }
               ]
             }
@@ -2526,9 +2526,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "sentit",
-                  "lemma": "sentit",
+                  "lemma": "sentir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of sentir"
                 },
                 {
                   "word": "venir",
@@ -2557,9 +2557,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Etendu",
-                  "lemma": "etendu",
+                  "lemma": "Etendu",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Etendu"
                 },
                 {
                   "word": "sur",
@@ -2575,15 +2575,15 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "froide",
-                  "lemma": "froide",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "froid",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of froid"
                 },
                 {
                   "word": "couche",
                   "lemma": "couche",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "bed / nappy/diaper"
                 }
               ]
             },
@@ -2655,9 +2655,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "fit",
-                  "lemma": "fit",
+                  "lemma": "faire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of faire"
                 },
                 {
                   "word": "un",
@@ -2668,14 +2668,14 @@ export const faustAct3: Act = {
                 {
                   "word": "suprème",
                   "lemma": "suprème",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "suprème"
                 },
                 {
                   "word": "effort",
                   "lemma": "effort",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "effort"
                 }
               ]
             },
@@ -2734,9 +2734,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "rougi",
-                  "lemma": "rougi",
+                  "lemma": "rougir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of rougir"
                 },
                 {
                   "word": "d",
@@ -2821,8 +2821,8 @@ export const faustAct3: Act = {
                 {
                   "word": "but",
                   "lemma": "but",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "aim / goal"
                 },
                 {
                   "word": "une",
@@ -2863,9 +2863,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "trembla",
-                  "lemma": "trembla",
+                  "lemma": "trembler",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of trembler"
                 },
                 {
                   "word": "dans",
@@ -2912,9 +2912,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "rendit",
-                  "lemma": "rendit",
+                  "lemma": "rendre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of rendre"
                 },
                 {
                   "word": "l",
@@ -2949,9 +2949,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "seigneurs",
-                  "lemma": "seigneurs",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "seigneur",
+                  "pos": "noun",
+                  "meaning": "plural of seigneur"
                 },
                 {
                   "word": "ont",
@@ -2973,9 +2973,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "airs",
-                  "lemma": "airs",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "air",
+                  "pos": "noun",
+                  "meaning": "plural of air"
                 },
                 {
                   "word": "si",
@@ -2985,9 +2985,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "résolus",
-                  "lemma": "résolus",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "résolu",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of résolu"
                 }
               ]
             },
@@ -3011,8 +3011,8 @@ export const faustAct3: Act = {
                 {
                   "word": "douceur",
                   "lemma": "douceur",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "softness, tenderness / sweetness"
                 }
               ]
             },
@@ -3066,9 +3066,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "Valentin",
-                  "lemma": "valentin",
+                  "lemma": "Valentin",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Valentin (soldier / Marguerite's brother)"
                 },
                 {
                   "word": "si",
@@ -3115,9 +3115,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "reverrai",
-                  "lemma": "reverrai",
+                  "lemma": "revoir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of revoir"
                 },
                 {
                   "word": "me",
@@ -3166,8 +3166,8 @@ export const faustAct3: Act = {
                 {
                   "word": "bouquet",
                   "lemma": "bouquet",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "bouquet, bunch / a set or selection of something"
                 }
               ]
             },
@@ -3196,9 +3196,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "Siebel",
-                  "lemma": "siebel",
+                  "lemma": "Siébel",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Siébel (youth in love with Marguerite)"
                 },
                 {
                   "word": "sans",
@@ -3246,9 +3246,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "vois-je",
-                  "lemma": "vois-je",
+                  "lemma": "voir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second-person singular indicative present / second-person singular imperative (vois-je)"
                 },
                 {
                   "word": "là",
@@ -3290,14 +3290,14 @@ export const faustAct3: Act = {
                 {
                   "word": "coffret",
                   "lemma": "coffret",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "small box or chest; casket, tin, case; cassette / box set"
                 },
                 {
                   "word": "peut-il",
-                  "lemma": "peut-il",
+                  "lemma": "pouvoir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of pouvoir (peut-il)"
                 },
                 {
                   "word": "venir",
@@ -3339,8 +3339,8 @@ export const faustAct3: Act = {
                 {
                   "word": "toucher",
                   "lemma": "toucher",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "the act of touching / a way of touching"
                 },
                 {
                   "word": "et",
@@ -3351,8 +3351,8 @@ export const faustAct3: Act = {
                 {
                   "word": "pourtant",
                   "lemma": "pourtant",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "however, yet"
                 },
                 {
                   "word": "Voici",
@@ -3369,8 +3369,8 @@ export const faustAct3: Act = {
                 {
                   "word": "clef",
                   "lemma": "clef",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative spelling of clé / clef"
                 },
                 {
                   "word": "je",
@@ -3411,9 +3411,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "ouvrais",
-                  "lemma": "ouvrais",
+                  "lemma": "ouvrir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second-person singular imperfect indicative of ouvrir"
                 },
                 {
                   "word": "ma",
@@ -3430,8 +3430,8 @@ export const faustAct3: Act = {
                 {
                   "word": "tremble",
                   "lemma": "tremble",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "aspen"
                 },
                 {
                   "word": "Pourquoi",
@@ -3478,9 +3478,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "ouvrant",
-                  "lemma": "ouvrant",
+                  "lemma": "ouvrir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "present participle of ouvrir"
                 },
                 {
                   "word": "rien",
@@ -3521,9 +3521,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "O",
-                  "lemma": "o",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ô",
+                  "pos": "interjection",
+                  "meaning": "O! / oh!"
                 },
                 {
                   "word": "Dieu",
@@ -3545,15 +3545,15 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "bijoux",
-                  "lemma": "bijoux",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bijou",
+                  "pos": "noun",
+                  "meaning": "plural of bijou"
                 },
                 {
                   "word": "est-ce",
-                  "lemma": "est-ce",
+                  "lemma": "être",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "is it / is this (est-ce que: does / is)"
                 },
                 {
                   "word": "un",
@@ -3564,8 +3564,8 @@ export const faustAct3: Act = {
                 {
                   "word": "rève",
                   "lemma": "rève",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "rève"
                 },
                 {
                   "word": "charmant",
@@ -3594,9 +3594,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "éblouit",
-                  "lemma": "éblouit",
+                  "lemma": "éblouir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / third-person singular past historic"
                 },
                 {
                   "word": "ou",
@@ -3619,8 +3619,8 @@ export const faustAct3: Act = {
                 {
                   "word": "veille",
                   "lemma": "veille",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "the day before, the eve / the era or while before something; eve"
                 }
               ]
             },
@@ -3674,14 +3674,14 @@ export const faustAct3: Act = {
                 {
                   "word": "richesse",
                   "lemma": "richesse",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "wealth / richness"
                 },
                 {
                   "word": "pareille",
-                  "lemma": "pareille",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pareil",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of pareil"
                 }
               ]
             },
@@ -3704,9 +3704,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "osais",
-                  "lemma": "osais",
+                  "lemma": "oser",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second-person singular imperfect indicative of oser"
                 },
                 {
                   "word": "seulement",
@@ -3766,9 +3766,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "pendants",
-                  "lemma": "pendants",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pendant",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of pendant"
                 },
                 {
                   "word": "d",
@@ -3779,8 +3779,8 @@ export const faustAct3: Act = {
                 {
                   "word": "oreille",
                   "lemma": "oreille",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "ear"
                 }
               ]
             },
@@ -3841,8 +3841,8 @@ export const faustAct3: Act = {
                 {
                   "word": "cassette",
                   "lemma": "cassette",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "treasure box / small box"
                 }
               ]
             },
@@ -3860,8 +3860,8 @@ export const faustAct3: Act = {
                 {
                   "word": "miroir",
                   "lemma": "miroir",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mirror"
                 },
                 {
                   "word": "comment",
@@ -3922,8 +3922,8 @@ export const faustAct3: Act = {
                 {
                   "word": "ris",
                   "lemma": "ris",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "reef"
                 },
                 {
                   "word": "de",
@@ -3977,8 +3977,8 @@ export const faustAct3: Act = {
                 {
                   "word": "miroir",
                   "lemma": "miroir",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mirror"
                 }
               ]
             },
@@ -3989,9 +3989,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Est-ce",
-                  "lemma": "est-ce",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "être",
+                  "pos": "verb",
+                  "meaning": "is it / is this (est-ce que: does / is)"
                 },
                 {
                   "word": "toi",
@@ -4001,9 +4001,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "Marguerite",
-                  "lemma": "marguerite",
+                  "lemma": "Marguerite",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Marguerite (young maiden)"
                 }
               ]
             },
@@ -4014,9 +4014,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Réponds-moi",
-                  "lemma": "réponds-moi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "répondre",
+                  "pos": "verb",
+                  "meaning": "first/second-person singular present indicative / second-person singular imperative (réponds-moi)"
                 },
                 {
                   "word": "réponds",
@@ -4316,8 +4316,8 @@ export const faustAct3: Act = {
                 {
                   "word": "demoiselle",
                   "lemma": "demoiselle",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "damsel, maiden / Miss"
                 }
               ]
             },
@@ -4359,9 +4359,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Achevons",
-                  "lemma": "achevons",
+                  "lemma": "achever",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative / first-person plural imperative"
                 },
                 {
                   "word": "la",
@@ -4372,8 +4372,8 @@ export const faustAct3: Act = {
                 {
                   "word": "métamorphose",
                   "lemma": "métamorphose",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "metamorphosis"
                 }
               ]
             },
@@ -4416,7 +4416,7 @@ export const faustAct3: Act = {
                   "word": "essayer",
                   "lemma": "essayer",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to test, to try on / to try, to attempt"
                 }
               ]
             },
@@ -4434,8 +4434,8 @@ export const faustAct3: Act = {
                 {
                   "word": "bracelet",
                   "lemma": "bracelet",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "bracelet"
                 },
                 {
                   "word": "et",
@@ -4452,8 +4452,8 @@ export const faustAct3: Act = {
                 {
                   "word": "collier",
                   "lemma": "collier",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a necklace, string-shaped jewel worn around the neck / collar"
                 }
               ]
             },
@@ -4476,9 +4476,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "pare",
-                  "lemma": "pare",
+                  "lemma": "parer",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/third-person singular present indicative/subjunctive / second-person singular imperative"
                 },
                 {
                   "word": "du",
@@ -4489,8 +4489,8 @@ export const faustAct3: Act = {
                 {
                   "word": "bracelet",
                   "lemma": "bracelet",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "bracelet"
                 },
                 {
                   "word": "et",
@@ -4506,9 +4506,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "lève",
-                  "lemma": "lève",
+                  "lemma": "lever",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/third-person singular present indicative/subjunctive / second-person singular imperative"
                 }
               ]
             },
@@ -4586,8 +4586,8 @@ export const faustAct3: Act = {
                 {
                   "word": "pose",
                   "lemma": "pose",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "installation, the act of laying, putting down / pose"
                 }
               ]
             },
@@ -4611,8 +4611,8 @@ export const faustAct3: Act = {
                 {
                   "word": "ris",
                   "lemma": "ris",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "reef"
                 },
                 {
                   "word": "de",
@@ -4666,8 +4666,8 @@ export const faustAct3: Act = {
                 {
                   "word": "miroir",
                   "lemma": "miroir",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mirror"
                 }
               ]
             },
@@ -4678,9 +4678,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Est-ce",
-                  "lemma": "est-ce",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "être",
+                  "pos": "verb",
+                  "meaning": "is it / is this (est-ce que: does / is)"
                 },
                 {
                   "word": "toi",
@@ -4690,9 +4690,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "Marguerite",
-                  "lemma": "marguerite",
+                  "lemma": "Marguerite",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Marguerite (young maiden)"
                 }
               ]
             },
@@ -4703,15 +4703,15 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Reponds-moi",
-                  "lemma": "reponds-moi",
+                  "lemma": "Reponds-moi",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Reponds-moi"
                 },
                 {
                   "word": "reponds",
                   "lemma": "reponds",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "reponds"
                 },
                 {
                   "word": "vite",
@@ -4815,8 +4815,8 @@ export const faustAct3: Act = {
                 {
                   "word": "demoiselle",
                   "lemma": "demoiselle",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "damsel, maiden / Miss"
                 }
               ]
             },
@@ -4858,9 +4858,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Marguerite",
-                  "lemma": "marguerite",
+                  "lemma": "Marguerite",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Marguerite (young maiden)"
                 },
                 {
                   "word": "ce",
@@ -5071,9 +5071,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "vois-je",
-                  "lemma": "vois-je",
+                  "lemma": "voir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second-person singular indicative present / second-person singular imperative (vois-je)"
                 },
                 {
                   "word": "comme",
@@ -5115,8 +5115,8 @@ export const faustAct3: Act = {
                 {
                   "word": "ange",
                   "lemma": "ange",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "angel"
                 },
                 {
                   "word": "D",
@@ -5151,8 +5151,8 @@ export const faustAct3: Act = {
                 {
                   "word": "écrin",
                   "lemma": "écrin",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "jewel case, jewel box / box"
                 }
               ]
             }
@@ -5202,14 +5202,14 @@ export const faustAct3: Act = {
                 {
                   "word": "mégarde",
                   "lemma": "mégarde",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "oversight, inattention"
                 },
                 {
                   "word": "apporté",
-                  "lemma": "apporté",
+                  "lemma": "apporter",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of apporter"
                 }
               ]
             }
@@ -5257,9 +5257,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "bijoux",
-                  "lemma": "bijoux",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bijou",
+                  "pos": "noun",
+                  "meaning": "plural of bijou"
                 },
                 {
                   "word": "sont",
@@ -5294,8 +5294,8 @@ export const faustAct3: Act = {
                 {
                   "word": "demoiselle",
                   "lemma": "demoiselle",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "damsel, maiden / Miss"
                 }
               ]
             },
@@ -5337,8 +5337,8 @@ export const faustAct3: Act = {
                 {
                   "word": "cadeau",
                   "lemma": "cadeau",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "present, gift"
                 },
                 {
                   "word": "d",
@@ -5411,7 +5411,7 @@ export const faustAct3: Act = {
                   "word": "généreux",
                   "lemma": "généreux",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "generous, kind"
                 }
               ]
             }
@@ -5436,15 +5436,15 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "Marthe",
-                  "lemma": "marthe",
+                  "lemma": "Marthe",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Dame Marthe Schwerlein"
                 },
                 {
                   "word": "Schwertlein",
-                  "lemma": "schwertlein",
+                  "lemma": "Schwertlein",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Schwertlein"
                 },
                 {
                   "word": "s",
@@ -5532,7 +5532,7 @@ export const faustAct3: Act = {
                   "word": "oser",
                   "lemma": "oser",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to dare / to be allowed to"
                 },
                 {
                   "word": "ainsi",
@@ -5550,7 +5550,7 @@ export const faustAct3: Act = {
                   "word": "présenter",
                   "lemma": "présenter",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to present, to introduce / to show, to present"
                 },
                 {
                   "word": "chez",
@@ -5616,8 +5616,8 @@ export const faustAct3: Act = {
                 {
                   "word": "accueil",
                   "lemma": "accueil",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "reception, hospitality / acceptance"
                 },
                 {
                   "word": "aux",
@@ -5627,9 +5627,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "bijoux",
-                  "lemma": "bijoux",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bijou",
+                  "pos": "noun",
+                  "meaning": "plural of bijou"
                 }
               ]
             },
@@ -5646,15 +5646,15 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "Marthe",
-                  "lemma": "marthe",
+                  "lemma": "Marthe",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Dame Marthe Schwerlein"
                 },
                 {
                   "word": "Schwertlein",
-                  "lemma": "schwertlein",
+                  "lemma": "Schwertlein",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Schwertlein"
                 }
               ]
             }
@@ -5702,9 +5702,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "nouvelle",
-                  "lemma": "nouvelle",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "nouveau",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of nouveau"
                 }
               ]
             },
@@ -5776,8 +5776,8 @@ export const faustAct3: Act = {
                 {
                   "word": "gaieté",
                   "lemma": "gaieté",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "gaiety"
                 }
               ]
             },
@@ -5801,8 +5801,8 @@ export const faustAct3: Act = {
                 {
                   "word": "madame",
                   "lemma": "madame",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a title or form of address for a woman, formerly for a married woman and now commonly for any adult woman regardless of marital status, used both in direct and third-person address / madam, Mrs. or Ms.; a title used with a woman's full name or surname, or  her first name"
                 },
                 {
                   "word": "est",
@@ -5886,9 +5886,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "est-ce",
-                  "lemma": "est-ce",
+                  "lemma": "être",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "is it / is this (est-ce que: does / is)"
                 },
                 {
                   "word": "donc",
@@ -5930,33 +5930,33 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "O",
-                  "lemma": "o",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ô",
+                  "pos": "interjection",
+                  "meaning": "O! / oh!"
                 },
                 {
                   "word": "calamité",
                   "lemma": "calamité",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "calamity, disaster"
                 },
                 {
                   "word": "O",
-                  "lemma": "o",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ô",
+                  "pos": "interjection",
+                  "meaning": "O! / oh!"
                 },
                 {
                   "word": "nouvelle",
-                  "lemma": "nouvelle",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "nouveau",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of nouveau"
                 },
                 {
                   "word": "imprévue",
-                  "lemma": "imprévue",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "imprévu",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of imprévu"
                 }
               ]
             }
@@ -5976,8 +5976,8 @@ export const faustAct3: Act = {
                 {
                   "word": "Malgré",
                   "lemma": "malgré",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "despite, in spite of / against  will, despite  protest"
                 },
                 {
                   "word": "moi",
@@ -6000,8 +6000,8 @@ export const faustAct3: Act = {
                 {
                   "word": "tremble",
                   "lemma": "tremble",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "aspen"
                 }
               ]
             },
@@ -6018,9 +6018,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "tressaille",
-                  "lemma": "tressaille",
+                  "lemma": "tressaillir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second-person singular present indicative/subjunctive / second-person singular imperative"
                 },
                 {
                   "word": "à",
@@ -6064,8 +6064,8 @@ export const faustAct3: Act = {
                 {
                   "word": "fièvre",
                   "lemma": "fièvre",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fever"
                 },
                 {
                   "word": "de",
@@ -6082,8 +6082,8 @@ export const faustAct3: Act = {
                 {
                   "word": "sens",
                   "lemma": "sens",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "meaning, sense / sense, sensation"
                 },
                 {
                   "word": "se",
@@ -6093,9 +6093,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "dissipe",
-                  "lemma": "dissipe",
+                  "lemma": "dissiper",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/third-person singular present indicative/subjunctive / second-person singular imperative"
                 },
                 {
                   "word": "à",
@@ -6145,8 +6145,8 @@ export const faustAct3: Act = {
                 {
                   "word": "madame",
                   "lemma": "madame",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a title or form of address for a woman, formerly for a married woman and now commonly for any adult woman regardless of marital status, used both in direct and third-person address / madam, Mrs. or Ms.; a title used with a woman's full name or surname, or  her first name"
                 },
                 {
                   "word": "est",
@@ -6205,9 +6205,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "apportez-vous",
-                  "lemma": "apportez-vous",
+                  "lemma": "apporter",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative of apporter / second-person plural imperative of apporter (apportez-vous)"
                 },
                 {
                   "word": "rien",
@@ -6292,14 +6292,14 @@ export const faustAct3: Act = {
                 {
                   "word": "dès",
                   "lemma": "dès",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "Audio ): / from […] onward; starting from; as early as, as soon as"
                 },
                 {
                   "word": "aujourd'hui",
                   "lemma": "aujourd'hui",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "today / nowadays"
                 }
               ]
             },
@@ -6317,8 +6317,8 @@ export const faustAct3: Act = {
                 {
                   "word": "quelqu'un",
                   "lemma": "quelqu'un",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "pronoun",
+                  "meaning": "one / someone, somebody, anyone, anybody"
                 },
                 {
                   "word": "qui",
@@ -6334,9 +6334,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "remplace",
-                  "lemma": "remplace",
+                  "lemma": "remplacer",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/third-person singular present indicative/subjunctive / second-person singular imperative"
                 }
               ]
             }
@@ -6379,9 +6379,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "bijoux",
-                  "lemma": "bijoux",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bijou",
+                  "pos": "noun",
+                  "meaning": "plural of bijou"
                 }
               ]
             }
@@ -6404,9 +6404,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "bijoux",
-                  "lemma": "bijoux",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bijou",
+                  "pos": "noun",
+                  "meaning": "plural of bijou"
                 },
                 {
                   "word": "ne",
@@ -6512,7 +6512,7 @@ export const faustAct3: Act = {
                   "word": "échanger",
                   "lemma": "échanger",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to exchange, to swap"
                 },
                 {
                   "word": "avec",
@@ -6554,8 +6554,8 @@ export const faustAct3: Act = {
                 {
                   "word": "hyménée",
                   "lemma": "hyménée",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Hymenea"
                 }
               ]
             }
@@ -6585,8 +6585,8 @@ export const faustAct3: Act = {
                 {
                   "word": "Plaît-il",
                   "lemma": "plaît-il",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "idiom",
+                  "meaning": "I beg your pardon? come again?"
                 }
               ]
             }
@@ -6611,9 +6611,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "cruelle",
-                  "lemma": "cruelle",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "cruel",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of cruel"
                 },
                 {
                   "word": "destinée",
@@ -6707,9 +6707,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "conjure",
-                  "lemma": "conjure",
+                  "lemma": "conjurer",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/third-person singular present indicative/subjunctive / second-person singular imperative"
                 }
               ]
             }
@@ -6794,9 +6794,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "voisine",
-                  "lemma": "voisine",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "voisin",
+                  "pos": "noun",
+                  "meaning": "female equivalent of voisin"
                 },
                 {
                   "word": "est",
@@ -6819,8 +6819,8 @@ export const faustAct3: Act = {
                 {
                   "word": "mûre",
                   "lemma": "mûre",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mulberry / blackberry"
                 }
               ]
             }
@@ -6855,9 +6855,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "conjure",
-                  "lemma": "conjure",
+                  "lemma": "conjurer",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/third-person singular present indicative/subjunctive / second-person singular imperative"
                 }
               ]
             }
@@ -6881,14 +6881,14 @@ export const faustAct3: Act = {
                 {
                   "word": "noble",
                   "lemma": "noble",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "noble, aristocratic / nonsynthetic, natural; fine"
                 },
                 {
                   "word": "allure",
                   "lemma": "allure",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "appearance, look / speed, pace"
                 }
               ]
             }
@@ -6905,9 +6905,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Ame",
-                  "lemma": "ame",
+                  "lemma": "Ame",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ame"
                 },
                 {
                   "word": "douce",
@@ -6923,9 +6923,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "pure",
-                  "lemma": "pure",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pur",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of pur"
                 }
               ]
             }
@@ -6967,8 +6967,8 @@ export const faustAct3: Act = {
                 {
                   "word": "mûre",
                   "lemma": "mûre",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mulberry / blackberry"
                 }
               ]
             }
@@ -6997,15 +6997,15 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "voyagez",
-                  "lemma": "voyagez",
+                  "lemma": "voyager",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "toujour",
                   "lemma": "toujour",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "toujour"
                 }
               ]
             }
@@ -7028,21 +7028,21 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "Dure",
-                  "lemma": "dure",
+                  "lemma": "durer",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/third-person singular present indicative/subjunctive / second-person singular imperative"
                 },
                 {
                   "word": "nécessité",
                   "lemma": "nécessité",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "necessity; need"
                 },
                 {
                   "word": "Madame",
                   "lemma": "madame",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a title or form of address for a woman, formerly for a married woman and now commonly for any adult woman regardless of marital status, used both in direct and third-person address / madam, Mrs. or Ms.; a title used with a woman's full name or surname, or  her first name"
                 }
               ]
             },
@@ -7053,15 +7053,15 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Dure",
-                  "lemma": "dure",
+                  "lemma": "durer",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/third-person singular present indicative/subjunctive / second-person singular imperative"
                 },
                 {
                   "word": "nécessité",
                   "lemma": "nécessité",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "necessity; need"
                 }
               ]
             },
@@ -7090,9 +7090,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "parents",
-                  "lemma": "parents",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "parent",
+                  "pos": "noun",
+                  "meaning": "plural of parent"
                 },
                 {
                   "word": "sans",
@@ -7103,8 +7103,8 @@ export const faustAct3: Act = {
                 {
                   "word": "fêmme",
                   "lemma": "fêmme",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fêmme"
                 },
                 {
                   "word": "Ah",
@@ -7133,9 +7133,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "sied",
-                  "lemma": "sied",
+                  "lemma": "seoir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of seoir"
                 },
                 {
                   "word": "encore",
@@ -7189,8 +7189,8 @@ export const faustAct3: Act = {
                 {
                   "word": "combien",
                   "lemma": "combien",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "how much / how much"
                 },
                 {
                   "word": "il",
@@ -7227,7 +7227,7 @@ export const faustAct3: Act = {
                   "word": "vieillir",
                   "lemma": "vieillir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to grow old, to age / to make  look older"
                 },
                 {
                   "word": "seul",
@@ -7244,8 +7244,8 @@ export const faustAct3: Act = {
                 {
                   "word": "égoiste",
                   "lemma": "égoiste",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "égoiste"
                 }
               ]
             }
@@ -7274,9 +7274,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "frémi",
-                  "lemma": "frémi",
+                  "lemma": "frémir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of frémir"
                 },
                 {
                   "word": "souvent",
@@ -7325,7 +7325,7 @@ export const faustAct3: Act = {
                   "word": "horrible",
                   "lemma": "horrible",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "horrible"
                 },
                 {
                   "word": "pensée",
@@ -7367,8 +7367,8 @@ export const faustAct3: Act = {
                 {
                   "word": "heurre",
                   "lemma": "heurre",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "heurre"
                 },
                 {
                   "word": "en",
@@ -7398,8 +7398,8 @@ export const faustAct3: Act = {
                 {
                   "word": "Digne",
                   "lemma": "digne",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "worthy / having dignity; dignified"
                 },
                 {
                   "word": "seigneur",
@@ -7409,9 +7409,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "songez-y",
-                  "lemma": "songez-y",
+                  "lemma": "songer",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative (songez-y)"
                 },
                 {
                   "word": "bien",
@@ -7467,9 +7467,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Songez-y",
-                  "lemma": "songez-y",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "songer",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative (songez-y)"
                 },
                 {
                   "word": "bien",
@@ -7536,8 +7536,8 @@ export const faustAct3: Act = {
                 {
                   "word": "frère",
                   "lemma": "frère",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "brother / brother"
                 },
                 {
                   "word": "est",
@@ -7621,8 +7621,8 @@ export const faustAct3: Act = {
                 {
                   "word": "malheur",
                   "lemma": "malheur",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mishap, misfortune / sadness, unhappiness"
                 }
               ]
             },
@@ -7639,9 +7639,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "perdis",
-                  "lemma": "perdis",
+                  "lemma": "perdre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second-person singular past historic of perdre"
                 },
                 {
                   "word": "ma",
@@ -7658,8 +7658,8 @@ export const faustAct3: Act = {
                 {
                   "word": "sœur",
                   "lemma": "sœur",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sister"
                 }
               ]
             },
@@ -7677,8 +7677,8 @@ export const faustAct3: Act = {
                 {
                   "word": "ange",
                   "lemma": "ange",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "angel"
                 },
                 {
                   "word": "Elle",
@@ -7739,7 +7739,7 @@ export const faustAct3: Act = {
                   "word": "unique",
                   "lemma": "unique",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "unique / only"
                 },
                 {
                   "word": "souci",
@@ -7768,9 +7768,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "soins",
-                  "lemma": "soins",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "soin",
+                  "pos": "noun",
+                  "meaning": "plural of soin"
                 },
                 {
                   "word": "hélas",
@@ -7792,9 +7792,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "peines",
-                  "lemma": "peines",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "peine",
+                  "pos": "noun",
+                  "meaning": "plural of peine"
                 }
               ]
             },
@@ -7847,9 +7847,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "pleines",
-                  "lemma": "pleines",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "plein",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of plein"
                 }
               ]
             },
@@ -7910,8 +7910,8 @@ export const faustAct3: Act = {
                 {
                   "word": "Sitôt",
                   "lemma": "sitôt",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "immediately / no sooner, soon after"
                 },
                 {
                   "word": "qu",
@@ -7933,9 +7933,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "éveillait",
-                  "lemma": "éveillait",
+                  "lemma": "éveiller",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect indicative of éveiller"
                 },
                 {
                   "word": "vite",
@@ -7959,8 +7959,8 @@ export const faustAct3: Act = {
                 {
                   "word": "falait",
                   "lemma": "falait",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "falait"
                 },
                 {
                   "word": "que",
@@ -8019,9 +8019,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "Marguerite",
-                  "lemma": "marguerite",
+                  "lemma": "Marguerite",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Marguerite (young maiden)"
                 }
               ]
             },
@@ -8081,9 +8081,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "reprendrais",
-                  "lemma": "reprendrais",
+                  "lemma": "reprendre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second-person singular conditional of reprendre"
                 },
                 {
                   "word": "bien",
@@ -8183,7 +8183,7 @@ export const faustAct3: Act = {
                   "word": "semblable",
                   "lemma": "semblable",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "similar"
                 },
                 {
                   "word": "à",
@@ -8225,8 +8225,8 @@ export const faustAct3: Act = {
                 {
                   "word": "ange",
                   "lemma": "ange",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "angel"
                 },
                 {
                   "word": "oui",
@@ -8273,9 +8273,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "moquez-vous",
-                  "lemma": "moquez-vous",
+                  "lemma": "moquer",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative (moquez-vous)"
                 }
               ]
             }
@@ -8310,9 +8310,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "admire",
-                  "lemma": "admire",
+                  "lemma": "admirer",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/third-person singular present indicative/subjunctive / second-person singular imperative"
                 }
               ]
             }
@@ -8409,9 +8409,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "riez",
-                  "lemma": "riez",
+                  "lemma": "rire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "sans",
@@ -8503,8 +8503,8 @@ export const faustAct3: Act = {
                 {
                   "word": "pourtant",
                   "lemma": "pourtant",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "however, yet"
                 },
                 {
                   "word": "j",
@@ -8533,9 +8533,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Laisse-moi",
-                  "lemma": "laisse-moi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "laisser",
+                  "pos": "verb",
+                  "meaning": "leave me / let me (laisser + moi)"
                 },
                 {
                   "word": "ton",
@@ -8578,7 +8578,7 @@ export const faustAct3: Act = {
                   "word": "a-t-il",
                   "lemma": "a-t-il",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "The interrogative form of avoir in the third-person singular masculine. / A form of avoir  in the third-person singular masculine, used after reporting direct speech."
                 },
                 {
                   "word": "pas",
@@ -8634,7 +8634,7 @@ export const faustAct3: Act = {
                   "word": "redouter",
                   "lemma": "redouter",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to dread, to fear"
                 }
               ]
             },
@@ -8781,9 +8781,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "riez",
-                  "lemma": "riez",
+                  "lemma": "rire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "sans",
@@ -8845,7 +8845,7 @@ export const faustAct3: Act = {
                   "word": "hâter",
                   "lemma": "hâter",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to speed up, hasten / to hurry"
                 }
               ]
             },
@@ -8911,9 +8911,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "accusez",
-                  "lemma": "accusez",
+                  "lemma": "accuser",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "pas",
@@ -8992,15 +8992,15 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Faut-il",
-                  "lemma": "faut-il",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "falloir",
+                  "pos": "verb",
+                  "meaning": "must one / is it necessary"
                 },
                 {
                   "word": "attester",
                   "lemma": "attester",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to attest; to support with evidence"
                 }
               ]
             },
@@ -9081,9 +9081,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Retirez-vous",
-                  "lemma": "retirez-vous",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "retirer",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative (retirez-vous)"
                 },
                 {
                   "word": "Voici",
@@ -9145,9 +9145,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Laissez-moi",
-                  "lemma": "laissez-moi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "laisser",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative (laissez-moi)"
                 }
               ]
             }
@@ -9172,9 +9172,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "méchante",
-                  "lemma": "méchante",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "méchant",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of méchant"
                 },
                 {
                   "word": "on",
@@ -9190,9 +9190,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "fuit",
-                  "lemma": "fuit",
+                  "lemma": "fuir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / third-person singular past historic"
                 }
               ]
             }
@@ -9218,8 +9218,8 @@ export const faustAct3: Act = {
                 {
                   "word": "entretien",
                   "lemma": "entretien",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "upkeep / welfare, well-being"
                 },
                 {
                   "word": "devient",
@@ -9236,8 +9236,8 @@ export const faustAct3: Act = {
                 {
                   "word": "tendre",
                   "lemma": "tendre",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "tender"
                 }
               ]
             },
@@ -9248,9 +9248,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Esquivons-nous",
-                  "lemma": "esquivons-nous",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "esquiver",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative / first-person plural imperative (esquivons-nous)"
                 }
               ]
             }
@@ -9399,9 +9399,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "éloigne",
-                  "lemma": "éloigne",
+                  "lemma": "éloigner",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/third-person singular present indicative/subjunctive / second-person singular imperative"
                 }
               ]
             }
@@ -9420,7 +9420,7 @@ export const faustAct3: Act = {
                   "word": "Cours",
                   "lemma": "cours",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "stream of water, river / course"
                 },
                 {
                   "word": "après",
@@ -9437,8 +9437,8 @@ export const faustAct3: Act = {
                 {
                   "word": "Ouf",
                   "lemma": "ouf",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "phew!, whew! / Used to represent the cry of a pig."
                 }
               ]
             },
@@ -9531,7 +9531,7 @@ export const faustAct3: Act = {
                   "word": "épouser",
                   "lemma": "épouser",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to marry, to wed / to marry, to get married, wed"
                 },
                 {
                   "word": "le",
@@ -9562,9 +9562,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Marguerite",
-                  "lemma": "marguerite",
+                  "lemma": "Marguerite",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Marguerite (young maiden)"
                 }
               ]
             }
@@ -9777,8 +9777,8 @@ export const faustAct3: Act = {
                 {
                   "word": "Plaît-il",
                   "lemma": "plaît-il",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "idiom",
+                  "meaning": "I beg your pardon? come again?"
                 }
               ]
             }
@@ -9807,9 +9807,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "Siebel",
-                  "lemma": "siebel",
+                  "lemma": "Siébel",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Siébel (youth in love with Marguerite)"
                 }
               ]
             }
@@ -9860,8 +9860,8 @@ export const faustAct3: Act = {
                 {
                   "word": "jardin",
                   "lemma": "jardin",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "garden"
                 },
                 {
                   "word": "de",
@@ -9871,9 +9871,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "Marguerite",
-                  "lemma": "marguerite",
+                  "lemma": "Marguerite",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Marguerite (young maiden)"
                 }
               ]
             },
@@ -9890,9 +9890,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "venez-vous",
-                  "lemma": "venez-vous",
+                  "lemma": "venir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative (venez-vous)"
                 },
                 {
                   "word": "chercher",
@@ -9908,9 +9908,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "pareille",
-                  "lemma": "pareille",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pareil",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of pareil"
                 },
                 {
                   "word": "heure",
@@ -9990,7 +9990,7 @@ export const faustAct3: Act = {
                   "word": "promptement",
                   "lemma": "promptement",
                   "pos": "adverb",
-                  "meaning": ""
+                  "meaning": "promptly, shortly, quickly"
                 },
                 {
                   "word": "les",
@@ -10000,9 +10000,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "talons",
-                  "lemma": "talons",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "talon",
+                  "pos": "noun",
+                  "meaning": "plural of talon"
                 }
               ]
             }
@@ -10046,9 +10046,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "diraient",
-                  "lemma": "diraient",
+                  "lemma": "dire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural conditional of dire"
                 },
                 {
                   "word": "les",
@@ -10058,9 +10058,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "voisins",
-                  "lemma": "voisins",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "voisin",
+                  "pos": "noun",
+                  "meaning": "plural of voisin"
                 }
               ]
             },
@@ -10083,9 +10083,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "montrez-moi",
-                  "lemma": "montrez-moi",
+                  "lemma": "montrer",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative (montrez-moi)"
                 },
                 {
                   "word": "le",
@@ -10301,9 +10301,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "tienne",
-                  "lemma": "tienne",
+                  "lemma": "tenir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/third-person singular present subjunctive of tenir"
                 }
               ]
             },
@@ -10314,21 +10314,21 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Laisse-moi",
-                  "lemma": "laisse-moi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "laisser",
+                  "pos": "verb",
+                  "meaning": "leave me / let me (laisser + moi)"
                 },
                 {
                   "word": "laisse-moi",
-                  "lemma": "laisse-moi",
+                  "lemma": "laisser",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "leave me / let me (laisser + moi)"
                 },
                 {
                   "word": "contempler",
                   "lemma": "contempler",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to contemplate / to look at"
                 },
                 {
                   "word": "ton",
@@ -10364,14 +10364,14 @@ export const faustAct3: Act = {
                 {
                   "word": "pâle",
                   "lemma": "pâle",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "pale / pale"
                 },
                 {
                   "word": "clarté",
                   "lemma": "clarté",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "light, illumination / clarity"
                 }
               ]
             },
@@ -10395,8 +10395,8 @@ export const faustAct3: Act = {
                 {
                   "word": "astre",
                   "lemma": "astre",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "celestial body, astronomical object / star"
                 },
                 {
                   "word": "de",
@@ -10437,8 +10437,8 @@ export const faustAct3: Act = {
                 {
                   "word": "nuage",
                   "lemma": "nuage",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "cloud"
                 }
               ]
             },
@@ -10451,7 +10451,7 @@ export const faustAct3: Act = {
                   "word": "Caresse",
                   "lemma": "caresse",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "caress; stroke"
                 },
                 {
                   "word": "ta",
@@ -10462,8 +10462,8 @@ export const faustAct3: Act = {
                 {
                   "word": "beauté",
                   "lemma": "beauté",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "beauty"
                 }
               ]
             }
@@ -10482,9 +10482,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "O",
-                  "lemma": "o",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ô",
+                  "pos": "interjection",
+                  "meaning": "O! / oh!"
                 },
                 {
                   "word": "silence",
@@ -10508,13 +10508,13 @@ export const faustAct3: Act = {
                   "word": "ineffable",
                   "lemma": "ineffable",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "ineffable"
                 },
                 {
                   "word": "mystère",
                   "lemma": "mystère",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mystery / mystery play"
                 }
               ]
             },
@@ -10532,8 +10532,8 @@ export const faustAct3: Act = {
                 {
                   "word": "langueur",
                   "lemma": "langueur",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "languor"
                 }
               ]
             },
@@ -10587,8 +10587,8 @@ export const faustAct3: Act = {
                 {
                   "word": "solitaire",
                   "lemma": "solitaire",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "solitary, alone"
                 }
               ]
             },
@@ -10661,8 +10661,8 @@ export const faustAct3: Act = {
                 {
                   "word": "grace",
                   "lemma": "grace",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "grace"
                 }
               ]
             }
@@ -10685,9 +10685,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "est-ce",
-                  "lemma": "est-ce",
+                  "lemma": "être",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "is it / is this (est-ce que: does / is)"
                 },
                 {
                   "word": "donc",
@@ -10804,9 +10804,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "basse",
-                  "lemma": "basse",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bas",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of bas"
                 }
               ]
             }
@@ -10996,9 +10996,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "éclose",
-                  "lemma": "éclose",
+                  "lemma": "éclos",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of éclos"
                 },
                 {
                   "word": "sous",
@@ -11064,8 +11064,8 @@ export const faustAct3: Act = {
                 {
                   "word": "oracle",
                   "lemma": "oracle",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "oracle"
                 },
                 {
                   "word": "du",
@@ -11112,9 +11112,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "comprends-tu",
-                  "lemma": "comprends-tu",
+                  "lemma": "comprendre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of comprendre / second-person singular present indicative (comprends-tu)"
                 },
                 {
                   "word": "ce",
@@ -11131,8 +11131,8 @@ export const faustAct3: Act = {
                 {
                   "word": "sublime",
                   "lemma": "sublime",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "sublime, extraordinary"
                 },
                 {
                   "word": "et",
@@ -11193,8 +11193,8 @@ export const faustAct3: Act = {
                 {
                   "word": "ardeur",
                   "lemma": "ardeur",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "intense heat / ardour, fervour, passion"
                 },
                 {
                   "word": "toujours",
@@ -11204,9 +11204,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "nouvelle",
-                  "lemma": "nouvelle",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "nouveau",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of nouveau"
                 }
               ]
             },
@@ -11254,14 +11254,14 @@ export const faustAct3: Act = {
                 {
                   "word": "joie",
                   "lemma": "joie",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "joy"
                 },
                 {
                   "word": "éternelle",
-                  "lemma": "éternelle",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "éternel",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of éternel"
                 }
               ]
             }
@@ -11278,9 +11278,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Éternelle",
-                  "lemma": "éternelle",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "éternel",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of éternel"
                 }
               ]
             }
@@ -11297,9 +11297,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "O",
-                  "lemma": "o",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ô",
+                  "pos": "interjection",
+                  "meaning": "O! / oh!"
                 },
                 {
                   "word": "nuit",
@@ -11329,7 +11329,7 @@ export const faustAct3: Act = {
                   "word": "radieux",
                   "lemma": "radieux",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "radiant"
                 }
               ]
             },
@@ -11340,21 +11340,21 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "O",
-                  "lemma": "o",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ô",
+                  "pos": "interjection",
+                  "meaning": "O! / oh!"
                 },
                 {
                   "word": "douces",
-                  "lemma": "douces",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "doux",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of doux"
                 },
                 {
                   "word": "flammes",
-                  "lemma": "flammes",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "flamme",
+                  "pos": "noun",
+                  "meaning": "plural of flamme"
                 }
               ]
             },
@@ -11379,7 +11379,7 @@ export const faustAct3: Act = {
                   "word": "silencieux",
                   "lemma": "silencieux",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "silent / quiet"
                 }
               ]
             },
@@ -11391,8 +11391,8 @@ export const faustAct3: Act = {
                 {
                   "word": "Verse",
                   "lemma": "verse",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "only used in sinus verse"
                 },
                 {
                   "word": "les",
@@ -11532,9 +11532,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "appartiens",
-                  "lemma": "appartiens",
+                  "lemma": "appartenir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "je",
@@ -11606,9 +11606,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Marguerite",
-                  "lemma": "marguerite",
+                  "lemma": "Marguerite",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Marguerite (young maiden)"
                 }
               ]
             }
@@ -11650,9 +11650,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Cruelle",
-                  "lemma": "cruelle",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "cruel",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of cruel"
                 }
               ]
             }
@@ -11675,9 +11675,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "chancelle",
-                  "lemma": "chancelle",
+                  "lemma": "chanceler",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/third-person singular present indicative/subjunctive / second-person singular imperative"
                 }
               ]
             }
@@ -11718,9 +11718,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "cruelle",
-                  "lemma": "cruelle",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "cruel",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of cruel"
                 }
               ]
             }
@@ -11739,9 +11739,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Laissez-moi",
-                  "lemma": "laissez-moi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "laisser",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative (laissez-moi)"
                 }
               ]
             },
@@ -11796,8 +11796,8 @@ export const faustAct3: Act = {
                 {
                   "word": "tremble",
                   "lemma": "tremble",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "aspen"
                 },
                 {
                   "word": "hélas",
@@ -11875,9 +11875,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "Marguerite",
-                  "lemma": "marguerite",
+                  "lemma": "Marguerite",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Marguerite (young maiden)"
                 }
               ]
             }
@@ -11956,8 +11956,8 @@ export const faustAct3: Act = {
                 {
                   "word": "douleur",
                   "lemma": "douleur",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pain / distress"
                 }
               ]
             },
@@ -12005,15 +12005,15 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "O",
-                  "lemma": "o",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ô",
+                  "pos": "interjection",
+                  "meaning": "O! / oh!"
                 },
                 {
                   "word": "Marguerite",
-                  "lemma": "marguerite",
+                  "lemma": "Marguerite",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Marguerite (young maiden)"
                 }
               ]
             }
@@ -12099,9 +12099,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "aveux",
-                  "lemma": "aveux",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "aveu",
+                  "pos": "noun",
+                  "meaning": "plural of aveu"
                 }
               ]
             },
@@ -12132,7 +12132,7 @@ export const faustAct3: Act = {
                   "word": "taire",
                   "lemma": "taire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to be quiet, to be silent / to shut up , to be quiet, to fall silent, to stop talking"
                 }
               ]
             },
@@ -12192,9 +12192,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "vœux",
-                  "lemma": "vœux",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vœu",
+                  "pos": "noun",
+                  "meaning": "vows / wishes / prayers"
                 }
               ]
             },
@@ -12250,15 +12250,15 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Divine",
-                  "lemma": "divine",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "divin",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of divin"
                 },
                 {
                   "word": "pureté",
                   "lemma": "pureté",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "purity"
                 }
               ]
             },
@@ -12270,14 +12270,14 @@ export const faustAct3: Act = {
                 {
                   "word": "Chaste",
                   "lemma": "chaste",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "chaste; celibate"
                 },
                 {
                   "word": "innocence",
                   "lemma": "innocence",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "innocence"
                 }
               ]
             },
@@ -12301,8 +12301,8 @@ export const faustAct3: Act = {
                 {
                   "word": "puissance",
                   "lemma": "puissance",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "power / dominion"
                 }
               ]
             },
@@ -12350,9 +12350,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "obéis",
-                  "lemma": "obéis",
+                  "lemma": "obéir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second-person singular present indicative / first/second-person singular past historic"
                 },
                 {
                   "word": "Mais",
@@ -12394,8 +12394,8 @@ export const faustAct3: Act = {
                 {
                   "word": "dès",
                   "lemma": "dès",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "Audio ): / from […] onward; starting from; as early as, as soon as"
                 },
                 {
                   "word": "l",
@@ -12406,8 +12406,8 @@ export const faustAct3: Act = {
                 {
                   "word": "aurore",
                   "lemma": "aurore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "aurora / dawn"
                 }
               ]
             },
@@ -12468,9 +12468,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Répète-moi",
-                  "lemma": "répète-moi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "répéter",
+                  "pos": "verb",
+                  "meaning": "first/third-person singular present indicative/subjunctive / second-person singular imperative (répète-moi)"
                 },
                 {
                   "word": "ce",
@@ -12487,8 +12487,8 @@ export const faustAct3: Act = {
                 {
                   "word": "aveu",
                   "lemma": "aveu",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "oath of allegiance / confession"
                 }
               ]
             },
@@ -12554,8 +12554,8 @@ export const faustAct3: Act = {
                 {
                   "word": "Félicité",
                   "lemma": "félicité",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "bliss, happiness, felicity"
                 },
                 {
                   "word": "du",
@@ -12577,9 +12577,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "fuyons",
-                  "lemma": "fuyons",
+                  "lemma": "fuir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative / first-person plural imperative"
                 }
               ]
             }
@@ -12677,9 +12677,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "auriez",
-                  "lemma": "auriez",
+                  "lemma": "avoir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural conditional of avoir"
                 },
                 {
                   "word": "grand",
@@ -12696,8 +12696,8 @@ export const faustAct3: Act = {
                 {
                   "word": "docteur",
                   "lemma": "docteur",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a doctor / a doctor , especially a male doctor"
                 }
               ]
             },
@@ -12726,9 +12726,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "renvoyât",
-                  "lemma": "renvoyât",
+                  "lemma": "renvoyer",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect subjunctive of renvoyer"
                 },
                 {
                   "word": "à",
@@ -12745,8 +12745,8 @@ export const faustAct3: Act = {
                 {
                   "word": "école",
                   "lemma": "école",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "school"
                 }
               ]
             }
@@ -12763,9 +12763,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Laisse-moi",
-                  "lemma": "laisse-moi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "laisser",
+                  "pos": "verb",
+                  "meaning": "leave me / let me (laisser + moi)"
                 }
               ]
             }
@@ -12782,9 +12782,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Daignez",
-                  "lemma": "daignez",
+                  "lemma": "daigner",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "seulement",
@@ -12801,9 +12801,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Ecouter",
-                  "lemma": "ecouter",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "Ecouter",
+                  "pos": "noun",
+                  "meaning": "Ecouter"
                 },
                 {
                   "word": "un",
@@ -12852,7 +12852,7 @@ export const faustAct3: Act = {
                   "word": "conter",
                   "lemma": "conter",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to recount"
                 },
                 {
                   "word": "aux",
@@ -12862,9 +12862,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "étoiles",
-                  "lemma": "étoiles",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "étoile",
+                  "pos": "noun",
+                  "meaning": "plural of étoile"
                 }
               ]
             },
@@ -12919,8 +12919,8 @@ export const faustAct3: Act = {
                 {
                   "word": "fenêtre",
                   "lemma": "fenêtre",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "window"
                 }
               ]
             }
@@ -12964,8 +12964,8 @@ export const faustAct3: Act = {
                 {
                   "word": "trouble",
                   "lemma": "trouble",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "trouble / disorder"
                 },
                 {
                   "word": "en",
@@ -13025,8 +13025,8 @@ export const faustAct3: Act = {
                 {
                   "word": "murmure",
                   "lemma": "murmure",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "murmur"
                 }
               ]
             },
@@ -13068,8 +13068,8 @@ export const faustAct3: Act = {
                 {
                   "word": "nature",
                   "lemma": "nature",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "nature / lexical category"
                 }
               ]
             },
@@ -13086,9 +13086,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "redisent",
-                  "lemma": "redisent",
+                  "lemma": "redire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative/subjunctive of redire"
                 },
                 {
                   "word": "en",
@@ -13099,8 +13099,8 @@ export const faustAct3: Act = {
                 {
                   "word": "chœur",
                   "lemma": "chœur",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "choir / chorus"
                 }
               ]
             },
@@ -13196,9 +13196,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "sourit",
-                  "lemma": "sourit",
+                  "lemma": "sourire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / third-person singular past historic"
                 },
                 {
                   "word": "l",
@@ -13233,9 +13233,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Est-ce",
-                  "lemma": "est-ce",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "être",
+                  "pos": "verb",
+                  "meaning": "is it / is this (est-ce que: does / is)"
                 },
                 {
                   "word": "de",
@@ -13289,14 +13289,14 @@ export const faustAct3: Act = {
                 {
                   "word": "feuille",
                   "lemma": "feuille",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "leaf / sheet"
                 },
                 {
                   "word": "tremble",
                   "lemma": "tremble",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "aspen"
                 },
                 {
                   "word": "et",
@@ -13306,9 +13306,9 @@ export const faustAct3: Act = {
                 },
                 {
                   "word": "palpite",
-                  "lemma": "palpite",
+                  "lemma": "palpiter",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/third-person singular present indicative/subjunctive / second-person singular imperative"
                 }
               ]
             },
@@ -13332,8 +13332,8 @@ export const faustAct3: Act = {
                 {
                   "word": "presse",
                   "lemma": "presse",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "press, papers / press"
                 },
                 {
                   "word": "ton",
@@ -13363,8 +13363,8 @@ export const faustAct3: Act = {
                 {
                   "word": "bien-aimé",
                   "lemma": "bien-aimé",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "beloved, well-loved"
                 },
                 {
                   "word": "Viens",
@@ -13389,9 +13389,9 @@ export const faustAct3: Act = {
               "tokens": [
                 {
                   "word": "Marguerite",
-                  "lemma": "marguerite",
+                  "lemma": "Marguerite",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Marguerite (young maiden)"
                 }
               ]
             }
@@ -13432,14 +13432,14 @@ export const faustAct3: Act = {
                 {
                   "word": "Hein",
                   "lemma": "hein",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "huh, hey, eh"
                 },
                 {
-                  "word": "hein!",
-                  "lemma": "hein!",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "hein",
+                  "lemma": "hein",
+                  "pos": "interjection",
+                  "meaning": "huh, hey, eh"
                 }
               ]
             }

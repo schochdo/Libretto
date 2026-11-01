@@ -32,15 +32,15 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "aborrita",
-                  "lemma": "aborrita",
+                  "lemma": "aborrito",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of aborrito"
                 },
                 {
                   "word": "rivale",
                   "lemma": "rivale",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "rival"
                 },
                 {
                   "word": "a",
@@ -57,8 +57,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "sfuggia",
                   "lemma": "sfuggia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sfuggia"
                 }
               ]
             },
@@ -75,15 +75,15 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "Sacerdoti",
-                  "lemma": "sacerdoti",
+                  "lemma": "sacerdote",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of sacerdote"
                 },
                 {
                   "word": "Radamès",
-                  "lemma": "radamès",
+                  "lemma": "Radamès",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Radamès (captain of the Egyptian guard)"
                 },
                 {
                   "word": "attende",
@@ -107,8 +107,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "traditor",
                   "lemma": "traditor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apocopic form of traditore"
                 },
                 {
                   "word": "la",
@@ -119,8 +119,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "pena.--Traditore",
                   "lemma": "pena.--traditore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pena.--traditore"
                 }
               ]
             },
@@ -155,9 +155,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "rivelò",
-                  "lemma": "rivelò",
+                  "lemma": "rivelare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of rivelare"
                 },
                 {
                   "word": "di",
@@ -193,8 +193,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "segreto",
                   "lemma": "segreto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "secret"
                 },
                 {
                   "word": "egli",
@@ -212,8 +212,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "volea",
                   "lemma": "volea",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "volea"
                 }
               ]
             },
@@ -242,9 +242,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "Traditori",
-                  "lemma": "traditori",
+                  "lemma": "traditore",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of traditore"
                 },
                 {
                   "word": "tutti",
@@ -359,14 +359,14 @@ export const aidaAct4: Act = {
                 {
                   "word": "Disperato",
                   "lemma": "disperato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "hopeless, desperate, despairing"
                 },
                 {
                   "word": "insano",
                   "lemma": "insano",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "insane, mad"
                 }
               ]
             },
@@ -383,7 +383,7 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
@@ -438,7 +438,7 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -450,15 +450,15 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "potesse",
-                  "lemma": "potesse",
+                  "lemma": "potere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect subjunctive of potere"
                 },
                 {
                   "word": "amarmi",
                   "lemma": "amarmi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive amare with mi"
                 }
               ]
             },
@@ -477,7 +477,7 @@ export const aidaAct4: Act = {
                   "word": "salvarlo",
                   "lemma": "salvarlo",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive salvare with lo"
                 },
                 {
                   "word": "E",
@@ -506,9 +506,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "tenti",
-                  "lemma": "tenti",
+                  "lemma": "tentare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "Guardie",
@@ -518,9 +518,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "Radamès",
-                  "lemma": "radamès",
+                  "lemma": "Radamès",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Radamès (captain of the Egyptian guard)"
                 },
                 {
                   "word": "qui",
@@ -561,15 +561,15 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "Sacerdoti",
-                  "lemma": "sacerdoti",
+                  "lemma": "sacerdote",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of sacerdote"
                 },
                 {
                   "word": "adunansi",
-                  "lemma": "adunansi",
+                  "lemma": "adunare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of adunare (si: oneself / him / her)"
                 }
               ]
             },
@@ -580,9 +580,9 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Arbitri",
-                  "lemma": "arbitri",
+                  "lemma": "arbitrio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of arbitrio / plural of arbitro"
                 },
                 {
                   "word": "del",
@@ -599,8 +599,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "fato",
                   "lemma": "fato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fate, destiny"
                 }
               ]
             },
@@ -617,21 +617,21 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
                 {
                   "word": "accusa",
                   "lemma": "accusa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "accusation / charge"
                 },
                 {
                   "word": "orribile",
                   "lemma": "orribile",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "horrible, loathsome / awful, dreadful"
                 }
               ]
             },
@@ -643,8 +643,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "Scolparti",
                   "lemma": "scolparti",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of the infinitive scolpare with ti"
                 },
                 {
                   "word": "ancor",
@@ -654,7 +654,7 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -685,9 +685,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "scolpa",
-                  "lemma": "scolpa",
+                  "lemma": "scolpare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "e",
@@ -721,9 +721,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "pregherò",
-                  "lemma": "pregherò",
+                  "lemma": "pregare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of pregare"
                 },
                 {
                   "word": "dal",
@@ -734,8 +734,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "trono",
                   "lemma": "trono",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "throne"
                 }
               ]
             },
@@ -752,9 +752,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "nunzia",
-                  "lemma": "nunzia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "nunzio",
+                  "pos": "noun",
+                  "meaning": "female equivalent of nunzio"
                 },
                 {
                   "word": "di",
@@ -826,9 +826,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "discolpe",
-                  "lemma": "discolpe",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "discolpa",
+                  "pos": "noun",
+                  "meaning": "plural of discolpa"
                 },
                 {
                   "word": "i",
@@ -839,8 +839,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "giudici",
                   "lemma": "giudici",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Judges, Book of Judges"
                 }
               ]
             },
@@ -864,8 +864,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "urdan",
                   "lemma": "urdan",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "urdan"
                 },
                 {
                   "word": "l",
@@ -876,8 +876,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "accento",
                   "lemma": "accento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "stress / accent"
                 }
               ]
             },
@@ -889,8 +889,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "Dinanzi",
                   "lemma": "dinanzi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "front / previous"
                 },
                 {
                   "word": "ai",
@@ -907,8 +907,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "agl'uomini",
                   "lemma": "agl'uomini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "agl'uomini"
                 }
               ]
             },
@@ -962,9 +962,9 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Profferse",
-                  "lemma": "profferse",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "profferire",
+                  "pos": "verb",
+                  "meaning": "third-person singular past historic of profferire"
                 },
                 {
                   "word": "il",
@@ -981,8 +981,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "incauto",
                   "lemma": "incauto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "rash, imprudent"
                 }
               ]
             },
@@ -1000,8 +1000,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "segreto",
                   "lemma": "segreto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "secret"
                 },
                 {
                   "word": "è",
@@ -1085,9 +1085,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "restò",
-                  "lemma": "restò",
+                  "lemma": "restare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of restare"
                 }
               ]
             }
@@ -1104,9 +1104,9 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Salvati",
-                  "lemma": "salvati",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "salvato",
+                  "pos": "verb",
+                  "meaning": "masculine plural of salvato"
                 },
                 {
                   "word": "dunque",
@@ -1122,9 +1122,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "scolpati",
-                  "lemma": "scolpati",
+                  "lemma": "scolpato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "masculine plural of scolpato"
                 }
               ]
             }
@@ -1166,9 +1166,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "morrai",
-                  "lemma": "morrai",
+                  "lemma": "morire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular future of morire"
                 }
               ]
             }
@@ -1204,13 +1204,13 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Aborro",
-                  "lemma": "aborro",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "aborrire",
+                  "pos": "verb",
+                  "meaning": "first-person singular present indicative of aborrire"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -1223,8 +1223,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "gaudio",
                   "lemma": "gaudio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "overjoy, ecstasy, especially of spiritual or religious nature / joy, happiness"
                 }
               ]
             },
@@ -1242,14 +1242,14 @@ export const aidaAct4: Act = {
                 {
                   "word": "fante",
                   "lemma": "fante",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "infantryman / jack, knave"
                 },
                 {
                   "word": "inaridita",
-                  "lemma": "inaridita",
+                  "lemma": "inaridito",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of inaridito"
                 }
               ]
             },
@@ -1260,9 +1260,9 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Svanita",
-                  "lemma": "svanita",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "svanito",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of svanito"
                 },
                 {
                   "word": "ogni",
@@ -1341,8 +1341,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "dêi",
                   "lemma": "dêi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "dêi"
                 },
                 {
                   "word": "vivere",
@@ -1365,7 +1365,7 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "all",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
@@ -1383,9 +1383,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "vivrai",
-                  "lemma": "vivrai",
+                  "lemma": "vivere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular future of vivere"
                 }
               ]
             },
@@ -1420,9 +1420,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "orribili",
-                  "lemma": "orribili",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "orribile",
+                  "pos": "adjective",
+                  "meaning": "plural of orribile"
                 }
               ]
             },
@@ -1457,9 +1457,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "provai",
-                  "lemma": "provai",
+                  "lemma": "provare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of provare"
                 }
               ]
             },
@@ -1470,21 +1470,21 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "T",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
                 {
                   "word": "amai",
-                  "lemma": "amai",
+                  "lemma": "amare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of amare"
                 },
                 {
                   "word": "soffersi",
-                  "lemma": "soffersi",
+                  "lemma": "soffrire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of soffrire"
                 },
                 {
                   "word": "tanto",
@@ -1501,9 +1501,9 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Vegliai",
-                  "lemma": "vegliai",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "vegliare",
+                  "pos": "verb",
+                  "meaning": "first-person singular past historic of vegliare"
                 },
                 {
                   "word": "le",
@@ -1513,9 +1513,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "notti",
-                  "lemma": "notti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "notte",
+                  "pos": "noun",
+                  "meaning": "plural of notte"
                 },
                 {
                   "word": "in",
@@ -1557,8 +1557,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "trono",
                   "lemma": "trono",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "throne"
                 },
                 {
                   "word": "e",
@@ -1680,8 +1680,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "tradia",
                   "lemma": "tradia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "tradia"
                 }
               ]
             }
@@ -1742,8 +1742,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "infamia",
                   "lemma": "infamia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "infamy"
                 }
               ]
             },
@@ -1754,7 +1754,7 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "M",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -1778,7 +1778,7 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -1809,9 +1809,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "appien",
-                  "lemma": "appien",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "appieno",
+                  "pos": "adverb",
+                  "meaning": "fully"
                 },
                 {
                   "word": "mi",
@@ -1821,9 +1821,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "festi",
-                  "lemma": "festi",
+                  "lemma": "fare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular past historic of fare"
                 }
               ]
             },
@@ -1834,9 +1834,9 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Aida",
-                  "lemma": "aida",
+                  "lemma": "Aida",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Aida (Ethiopian princess)"
                 },
                 {
                   "word": "a",
@@ -1852,9 +1852,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "togliesti",
-                  "lemma": "togliesti",
+                  "lemma": "togliere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular past historic of togliere"
                 }
               ]
             },
@@ -1865,9 +1865,9 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Spenta",
-                  "lemma": "spenta",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "spento",
+                  "pos": "verb",
+                  "meaning": "feminine singular of spento"
                 },
                 {
                   "word": "l",
@@ -1914,9 +1914,9 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Offri",
-                  "lemma": "offri",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "offrire",
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "la",
@@ -1982,8 +1982,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "origine",
                   "lemma": "origine",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "origin, derivation"
                 }
               ]
             },
@@ -2006,9 +2006,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "Aida",
-                  "lemma": "aida",
+                  "lemma": "Aida",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Aida (Ethiopian princess)"
                 }
               ]
             }
@@ -2051,14 +2051,14 @@ export const aidaAct4: Act = {
                 {
                   "word": "disperato",
                   "lemma": "disperato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "hopeless, desperate, despairing"
                 },
                 {
                   "word": "anelito",
                   "lemma": "anelito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pant, wheeze / breath"
                 }
               ]
             },
@@ -2069,21 +2069,21 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
                 {
                   "word": "orde",
-                  "lemma": "orde",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "orda",
+                  "pos": "noun",
+                  "meaning": "plural of orda"
                 },
                 {
                   "word": "fuggitive",
-                  "lemma": "fuggitive",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fuggitivo",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of fuggitivo"
                 }
               ]
             },
@@ -2100,9 +2100,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "cadde",
-                  "lemma": "cadde",
+                  "lemma": "cadere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of cadere"
                 },
                 {
                   "word": "il",
@@ -2156,9 +2156,9 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Sparve",
-                  "lemma": "sparve",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "sparire and sparere",
+                  "pos": "verb",
+                  "meaning": "third-person singular past historic of sparire and sparere"
                 },
                 {
                   "word": "né",
@@ -2174,9 +2174,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "novella",
-                  "lemma": "novella",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "novello",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of novello"
                 }
               ]
             },
@@ -2187,7 +2187,7 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "S",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -2230,9 +2230,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "adducano",
-                  "lemma": "adducano",
+                  "lemma": "addurre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present subjunctive / third-person plural imperative"
                 }
               ]
             },
@@ -2245,7 +2245,7 @@ export const aidaAct4: Act = {
                   "word": "Salva",
                   "lemma": "salva",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "discharge of an unloaded gun, often for celebratory purposes; volley, salvo / loud collective manifestation of approval or disapproval; salvo, volley, storm"
                 },
                 {
                   "word": "alle",
@@ -2255,9 +2255,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "patrie",
-                  "lemma": "patrie",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "patrio",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of patrio"
                 },
                 {
                   "word": "mura",
@@ -2280,9 +2280,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "ignori",
-                  "lemma": "ignori",
+                  "lemma": "ignorare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "la",
@@ -2293,8 +2293,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "sventura",
                   "lemma": "sventura",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "misfortune, mishap"
                 }
               ]
             },
@@ -2329,9 +2329,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "morrà",
-                  "lemma": "morrà",
+                  "lemma": "morire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of morire"
                 }
               ]
             }
@@ -2354,7 +2354,7 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -2380,7 +2380,7 @@ export const aidaAct4: Act = {
                   "word": "giurami",
                   "lemma": "giurami",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of giura, the second-person singular imperative form of giurare, with mi"
                 }
               ]
             },
@@ -2434,9 +2434,9 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Nol",
-                  "lemma": "nol",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "non lo",
+                  "pos": "particle",
+                  "meaning": "not it / not him (non + lo)"
                 },
                 {
                   "word": "posso",
@@ -2472,8 +2472,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "rinunzia",
                   "lemma": "rinunzia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of rinuncia"
                 }
               ]
             },
@@ -2508,9 +2508,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "vivrai",
-                  "lemma": "vivrai",
+                  "lemma": "vivere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular future of vivere"
                 }
               ]
             }
@@ -2527,9 +2527,9 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Nol",
-                  "lemma": "nol",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "non lo",
+                  "pos": "particle",
+                  "meaning": "not it / not him (non + lo)"
                 },
                 {
                   "word": "posso",
@@ -2590,8 +2590,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "rinunzia",
                   "lemma": "rinunzia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of rinuncia"
                 }
               ]
             }
@@ -2652,8 +2652,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "insano",
                   "lemma": "insano",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "insane, mad"
                 }
               ]
             }
@@ -2726,14 +2726,14 @@ export const aidaAct4: Act = {
                 {
                   "word": "salva",
                   "lemma": "salva",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "discharge of an unloaded gun, often for celebratory purposes; volley, salvo / loud collective manifestation of approval or disapproval; salvo, volley, storm"
                 },
                 {
                   "word": "sciagurato",
                   "lemma": "sciagurato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "wretched / unfortunate"
                 }
               ]
             },
@@ -2762,7 +2762,7 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -2788,8 +2788,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "furore",
                   "lemma": "furore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fury, violence / frenzy"
                 },
                 {
                   "word": "hai",
@@ -2805,9 +2805,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "cangiato",
-                  "lemma": "cangiato",
+                  "lemma": "cangiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of cangiare"
                 }
               ]
             },
@@ -2830,15 +2830,15 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
                 {
                   "word": "egual",
                   "lemma": "egual",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "apocopic form of eguale"
                 },
                 {
                   "word": "non",
@@ -2862,8 +2862,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "De",
                   "lemma": "de",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "alternative form of di"
                 },
                 {
                   "word": "miei",
@@ -2873,9 +2873,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "pianti",
-                  "lemma": "pianti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pianto",
+                  "pos": "noun",
+                  "meaning": "plural of pianto"
                 },
                 {
                   "word": "la",
@@ -2922,9 +2922,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "compirà",
-                  "lemma": "compirà",
+                  "lemma": "compiere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of compiere or compire"
                 }
               ]
             }
@@ -2972,8 +2972,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "supremo",
                   "lemma": "supremo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "supreme"
                 }
               ]
             },
@@ -3008,15 +3008,15 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
-                  "word": "`e",
-                  "lemma": "`e",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "e",
+                  "lemma": "e",
+                  "pos": "particle",
+                  "meaning": "The fifth letter of the Italian alphabet, called e and written in the Latin script."
                 },
                 {
                   "word": "dato",
@@ -3039,9 +3039,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "subir",
-                  "lemma": "subir",
+                  "lemma": "subire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to undergo, stand, go through / to suffer, sustain, experience, receive"
                 },
                 {
                   "word": "l",
@@ -3052,14 +3052,14 @@ export const aidaAct4: Act = {
                 {
                   "word": "estremo",
                   "lemma": "estremo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "extreme,  utmost,  farthest, terminal,  outermost / drastic"
                 },
                 {
                   "word": "fato",
                   "lemma": "fato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fate, destiny"
                 }
               ]
             },
@@ -3070,15 +3070,15 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Gaudii",
-                  "lemma": "gaudii",
+                  "lemma": "Gaudii",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Gaudii"
                 },
                 {
                   "word": "immensi",
-                  "lemma": "immensi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "immenso",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of immenso"
                 },
                 {
                   "word": "il",
@@ -3119,9 +3119,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "umana",
-                  "lemma": "umana",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "umano",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of umano"
                 },
                 {
                   "word": "più",
@@ -3214,8 +3214,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "salva",
                   "lemma": "salva",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "discharge of an unloaded gun, often for celebratory purposes; volley, salvo / loud collective manifestation of approval or disapproval; salvo, volley, storm"
                 }
               ]
             },
@@ -3227,8 +3227,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "De",
                   "lemma": "de",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "alternative form of di"
                 },
                 {
                   "word": "miei",
@@ -3238,9 +3238,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "pianti",
-                  "lemma": "pianti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pianto",
+                  "pos": "noun",
+                  "meaning": "plural of pianto"
                 },
                 {
                   "word": "la",
@@ -3287,9 +3287,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "compirà",
-                  "lemma": "compirà",
+                  "lemma": "compiere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of compiere or compire"
                 }
               ]
             }
@@ -3309,8 +3309,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "Ohimè",
                   "lemma": "ohimè",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "oh dear! / oops!"
                 },
                 {
                   "word": "morir",
@@ -3351,8 +3351,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "salva",
                   "lemma": "salva",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "discharge of an unloaded gun, often for celebratory purposes; volley, salvo / loud collective manifestation of approval or disapproval; salvo, volley, storm"
                 }
               ]
             },
@@ -3418,9 +3418,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "gettai",
-                  "lemma": "gettai",
+                  "lemma": "gettare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of gettare"
                 },
                 {
                   "word": "Ora",
@@ -3442,9 +3442,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "impreco",
-                  "lemma": "impreco",
+                  "lemma": "imprecare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of imprecare"
                 }
               ]
             },
@@ -3456,8 +3456,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "Atroce",
                   "lemma": "atroce",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "atrocious / terrible, dreadful"
                 },
                 {
                   "word": "gelosia",
@@ -3540,9 +3540,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "segnasti",
-                  "lemma": "segnasti",
+                  "lemma": "segnare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular past historic of segnare"
                 }
               ]
             },
@@ -3565,9 +3565,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "fatali",
-                  "lemma": "fatali",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fatale",
+                  "pos": "adjective",
+                  "meaning": "plural of fatale"
                 }
               ]
             },
@@ -3578,15 +3578,15 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Gl'inesorati",
-                  "lemma": "gl'inesorati",
+                  "lemma": "Gl'inesorati",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Gl'inesorati"
                 },
                 {
                   "word": "minstri",
                   "lemma": "minstri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "minstri"
                 },
                 {
                   "word": "di",
@@ -3615,7 +3615,7 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -3633,9 +3633,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "vegga",
-                  "lemma": "vegga",
+                  "lemma": "vedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "quelle",
@@ -3719,9 +3719,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "gettai",
-                  "lemma": "gettai",
+                  "lemma": "gettare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of gettare"
                 }
               ]
             }
@@ -3742,7 +3742,7 @@ export const aidaAct4: Act = {
                   "word": "Spirto",
                   "lemma": "spirto",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "alternative form of spirito"
                 },
                 {
                   "word": "del",
@@ -3754,7 +3754,7 @@ export const aidaAct4: Act = {
                   "word": "Nume",
                   "lemma": "nume",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a god, particularly that of Greco-Roman mythology"
                 },
                 {
                   "word": "sovra",
@@ -3770,9 +3770,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "discendi",
-                  "lemma": "discendi",
+                  "lemma": "discendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -3789,9 +3789,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "avviva",
-                  "lemma": "avviva",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "avvivare",
+                  "pos": "verb",
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "al",
@@ -3807,15 +3807,15 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
                 {
                   "word": "eterna",
-                  "lemma": "eterna",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "eterno",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of eterno"
                 },
                 {
                   "word": "luce",
@@ -3857,14 +3857,14 @@ export const aidaAct4: Act = {
                 {
                   "word": "giustizia",
                   "lemma": "giustizia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "justice, fairness, equity / law, justice, law enforcement"
                 },
                 {
                   "word": "apprendi",
-                  "lemma": "apprendi",
+                  "lemma": "apprendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -3907,9 +3907,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "straziato",
-                  "lemma": "straziato",
+                  "lemma": "straziare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of straziare"
                 },
                 {
                   "word": "core",
@@ -3950,9 +3950,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "salvate",
-                  "lemma": "salvate",
+                  "lemma": "salvare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "o",
@@ -3976,8 +3976,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "Disperato",
                   "lemma": "disperato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "hopeless, desperate, despairing"
                 },
                 {
                   "word": "tremendo",
@@ -3986,10 +3986,10 @@ export const aidaAct4: Act = {
                   "meaning": "tremendous / dreadful"
                 },
                 {
-                  "word": "`e",
-                  "lemma": "`e",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "e",
+                  "lemma": "e",
+                  "pos": "particle",
+                  "meaning": "The fifth letter of the Italian alphabet, called e and written in the Latin script."
                 },
                 {
                   "word": "il",
@@ -4026,7 +4026,7 @@ export const aidaAct4: Act = {
                   "word": "Spirto",
                   "lemma": "spirto",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "alternative form of spirito"
                 },
                 {
                   "word": "del",
@@ -4038,7 +4038,7 @@ export const aidaAct4: Act = {
                   "word": "Nume",
                   "lemma": "nume",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a god, particularly that of Greco-Roman mythology"
                 },
                 {
                   "word": "sovra",
@@ -4054,9 +4054,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "discendi",
-                  "lemma": "discendi",
+                  "lemma": "discendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -4092,8 +4092,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "salva",
                   "lemma": "salva",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "discharge of an unloaded gun, often for celebratory purposes; volley, salvo / loud collective manifestation of approval or disapproval; salvo, volley, storm"
                 }
               ]
             },
@@ -4122,9 +4122,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "Ohim`e",
-                  "lemma": "ohim`e",
+                  "lemma": "Ohim`e",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ohim`e"
                 }
               ]
             }
@@ -4141,21 +4141,21 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Radamès",
-                  "lemma": "radamès",
+                  "lemma": "Radamès",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Radamès (captain of the Egyptian guard)"
                 },
                 {
                   "word": "Radamès",
-                  "lemma": "radamès",
+                  "lemma": "Radamès",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Radamès (captain of the Egyptian guard)"
                 },
                 {
                   "word": "Radamès",
-                  "lemma": "radamès",
+                  "lemma": "Radamès",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Radamès (captain of the Egyptian guard)"
                 },
                 {
                   "word": "Tu",
@@ -4165,9 +4165,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "rivelasti",
-                  "lemma": "rivelasti",
+                  "lemma": "rivelare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular past historic of rivelare"
                 }
               ]
             },
@@ -4196,9 +4196,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "segreti",
-                  "lemma": "segreti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "segreto",
+                  "pos": "noun",
+                  "meaning": "plural of segreto"
                 },
                 {
                   "word": "allo",
@@ -4209,8 +4209,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "straniero",
                   "lemma": "straniero",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "foreign, alien"
                 }
               ]
             },
@@ -4221,9 +4221,9 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Discolpati",
-                  "lemma": "discolpati",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "discolpato",
+                  "pos": "verb",
+                  "meaning": "masculine plural of discolpato"
                 }
               ]
             }
@@ -4240,9 +4240,9 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Discolpati",
-                  "lemma": "discolpati",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "discolpato",
+                  "pos": "verb",
+                  "meaning": "masculine plural of discolpato"
                 }
               ]
             }
@@ -4265,9 +4265,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "tace",
-                  "lemma": "tace",
+                  "lemma": "tacere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of tacere"
                 }
               ]
             }
@@ -4286,7 +4286,7 @@ export const aidaAct4: Act = {
                   "word": "Traditor",
                   "lemma": "traditor",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "apocopic form of traditore"
                 }
               ]
             }
@@ -4358,21 +4358,21 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Radamès",
-                  "lemma": "radamès",
+                  "lemma": "Radamès",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Radamès (captain of the Egyptian guard)"
                 },
                 {
                   "word": "Radamès",
-                  "lemma": "radamès",
+                  "lemma": "Radamès",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Radamès (captain of the Egyptian guard)"
                 },
                 {
                   "word": "Radamès",
-                  "lemma": "radamès",
+                  "lemma": "Radamès",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Radamès (captain of the Egyptian guard)"
                 },
                 {
                   "word": "Tu",
@@ -4382,9 +4382,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "disertasti",
-                  "lemma": "disertasti",
+                  "lemma": "disertare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular past historic of disertare"
                 }
               ]
             },
@@ -4426,8 +4426,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "precedea",
                   "lemma": "precedea",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "precedea"
                 },
                 {
                   "word": "la",
@@ -4438,8 +4438,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "pugna",
                   "lemma": "pugna",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fight, battle, combat / dispute, quarrel"
                 }
               ]
             },
@@ -4450,9 +4450,9 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Discolpati",
-                  "lemma": "discolpati",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "discolpato",
+                  "pos": "verb",
+                  "meaning": "masculine plural of discolpato"
                 }
               ]
             }
@@ -4469,9 +4469,9 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Discolpati",
-                  "lemma": "discolpati",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "discolpato",
+                  "pos": "verb",
+                  "meaning": "masculine plural of discolpato"
                 }
               ]
             }
@@ -4494,9 +4494,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "tace",
-                  "lemma": "tace",
+                  "lemma": "tacere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of tacere"
                 }
               ]
             }
@@ -4515,7 +4515,7 @@ export const aidaAct4: Act = {
                   "word": "Traditor",
                   "lemma": "traditor",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "apocopic form of traditore"
                 }
               ]
             }
@@ -4556,9 +4556,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "salvate",
-                  "lemma": "salvate",
+                  "lemma": "salvare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "Numi",
@@ -4587,21 +4587,21 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Radamès",
-                  "lemma": "radamès",
+                  "lemma": "Radamès",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Radamès (captain of the Egyptian guard)"
                 },
                 {
                   "word": "Radamès",
-                  "lemma": "radamès",
+                  "lemma": "Radamès",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Radamès (captain of the Egyptian guard)"
                 },
                 {
                   "word": "Radamès",
-                  "lemma": "radamès",
+                  "lemma": "Radamès",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Radamès (captain of the Egyptian guard)"
                 },
                 {
                   "word": "Tu",
@@ -4612,14 +4612,14 @@ export const aidaAct4: Act = {
                 {
                   "word": "fè",
                   "lemma": "fè",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fè"
                 },
                 {
                   "word": "violasti",
-                  "lemma": "violasti",
+                  "lemma": "violare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular past historic of violare"
                 }
               ]
             },
@@ -4643,8 +4643,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "spergiuro",
                   "lemma": "spergiuro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "faithless"
                 },
                 {
                   "word": "al",
@@ -4660,7 +4660,7 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "all",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
@@ -4679,9 +4679,9 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Discolpati",
-                  "lemma": "discolpati",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "discolpato",
+                  "pos": "verb",
+                  "meaning": "masculine plural of discolpato"
                 }
               ]
             }
@@ -4698,9 +4698,9 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Discolpati",
-                  "lemma": "discolpati",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "discolpato",
+                  "pos": "verb",
+                  "meaning": "masculine plural of discolpato"
                 }
               ]
             }
@@ -4723,9 +4723,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "tace",
-                  "lemma": "tace",
+                  "lemma": "tacere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of tacere"
                 }
               ]
             }
@@ -4744,7 +4744,7 @@ export const aidaAct4: Act = {
                   "word": "Traditor",
                   "lemma": "traditor",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "apocopic form of traditore"
                 }
               ]
             }
@@ -4785,9 +4785,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "salvate",
-                  "lemma": "salvate",
+                  "lemma": "salvare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "Numi",
@@ -4816,9 +4816,9 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Radamès",
-                  "lemma": "radamès",
+                  "lemma": "Radamès",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Radamès (captain of the Egyptian guard)"
                 },
                 {
                   "word": "è",
@@ -4828,9 +4828,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "deciso",
-                  "lemma": "deciso",
+                  "lemma": "decidere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of decidere"
                 },
                 {
                   "word": "il",
@@ -4847,8 +4847,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "fato",
                   "lemma": "fato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fate, destiny"
                 }
               ]
             },
@@ -4865,9 +4865,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "infami",
-                  "lemma": "infami",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "infame",
+                  "pos": "adjective",
+                  "meaning": "plural of infame"
                 },
                 {
                   "word": "la",
@@ -4915,8 +4915,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "ara",
                   "lemma": "ara",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "the base upon which objects were sacrificed to the gods by fire / pyre"
                 },
                 {
                   "word": "del",
@@ -4928,13 +4928,13 @@ export const aidaAct4: Act = {
                   "word": "Nume",
                   "lemma": "nume",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a god, particularly that of Greco-Roman mythology"
                 },
                 {
                   "word": "sdegnato",
-                  "lemma": "sdegnato",
+                  "lemma": "sdegnare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of sdegnare"
                 }
               ]
             },
@@ -4963,15 +4963,15 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "fia",
-                  "lemma": "fia",
+                  "lemma": "essere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "shall be (poetic future of essere)"
                 },
                 {
                   "word": "schiuso",
-                  "lemma": "schiuso",
+                  "lemma": "schiudere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of schiudere"
                 },
                 {
                   "word": "l",
@@ -4982,8 +4982,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "avel",
                   "lemma": "avel",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "avel"
                 }
               ]
             }
@@ -5025,8 +5025,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "tomba",
                   "lemma": "tomba",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "tomb, grave / a very narrow and gloomy habitation or room"
                 },
                 {
                   "word": "Oh",
@@ -5037,8 +5037,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "gl'infami",
                   "lemma": "gl'infami",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "gl'infami"
                 }
               ]
             },
@@ -5049,7 +5049,7 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "N",
-                  "lemma": "n'",
+                  "lemma": "n",
                   "pos": "noun",
                   "meaning": "of-it"
                 },
@@ -5079,15 +5079,15 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "paghi",
-                  "lemma": "paghi",
+                  "lemma": "pagare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "giammai",
                   "lemma": "giammai",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "never / sometimes, at times"
                 }
               ]
             },
@@ -5116,9 +5116,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "ministri",
-                  "lemma": "ministri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ministro",
+                  "pos": "noun",
+                  "meaning": "plural of ministro"
                 },
                 {
                   "word": "del",
@@ -5149,19 +5149,19 @@ export const aidaAct4: Act = {
                   "word": "Traditor",
                   "lemma": "traditor",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "apocopic form of traditore"
                 },
                 {
                   "word": "Traditor",
                   "lemma": "traditor",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "apocopic form of traditore"
                 },
                 {
                   "word": "Traditor",
                   "lemma": "traditor",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "apocopic form of traditore"
                 }
               ]
             }
@@ -5180,15 +5180,15 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Sacerdoti",
-                  "lemma": "sacerdoti",
+                  "lemma": "sacerdote",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of sacerdote"
                 },
                 {
                   "word": "compiste",
-                  "lemma": "compiste",
+                  "lemma": "compire and compiere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural past historic / second-person plural imperfect subjunctive"
                 },
                 {
                   "word": "un",
@@ -5199,8 +5199,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "delitto",
                   "lemma": "delitto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "crime, offence/offense, felony, misdemeanour / murder, homicide"
                 }
               ]
             },
@@ -5211,15 +5211,15 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Tigri",
-                  "lemma": "tigri",
+                  "lemma": "tigre",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of tigre"
                 },
                 {
                   "word": "infami",
-                  "lemma": "infami",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "infame",
+                  "pos": "adjective",
+                  "meaning": "plural of infame"
                 },
                 {
                   "word": "di",
@@ -5235,9 +5235,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "assetate",
-                  "lemma": "assetate",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "assetato",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of assetato"
                 }
               ]
             },
@@ -5284,9 +5284,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "oltraggiate",
-                  "lemma": "oltraggiate",
+                  "lemma": "oltraggiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative/subjunctive / second-person plural imperative"
                 }
               ]
             },
@@ -5303,9 +5303,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "punite",
-                  "lemma": "punite",
+                  "lemma": "punire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "chi",
@@ -5315,9 +5315,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "colpe",
-                  "lemma": "colpe",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "colpa",
+                  "pos": "noun",
+                  "meaning": "plural of colpa"
                 },
                 {
                   "word": "non",
@@ -5353,8 +5353,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "traditor",
                   "lemma": "traditor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apocopic form of traditore"
                 }
               ]
             }
@@ -5378,8 +5378,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "traditor",
                   "lemma": "traditor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apocopic form of traditore"
                 }
               ]
             }
@@ -5396,9 +5396,9 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Morrà",
-                  "lemma": "morrà",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "morire",
+                  "pos": "verb",
+                  "meaning": "third-person singular future of morire"
                 }
               ]
             }
@@ -5419,11 +5419,11 @@ export const aidaAct4: Act = {
                   "word": "Sacerdote",
                   "lemma": "sacerdote",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "priest, clergyman"
                 },
                 {
                   "word": "quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
@@ -5441,9 +5441,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "uccidi",
-                  "lemma": "uccidi",
+                  "lemma": "uccidere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -5522,12 +5522,12 @@ export const aidaAct4: Act = {
                 {
                   "word": "anatema",
                   "lemma": "anatema",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "anathema"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -5545,9 +5545,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "straziato",
-                  "lemma": "straziato",
+                  "lemma": "straziare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of straziare"
                 }
               ]
             },
@@ -5588,9 +5588,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "ricadrà",
-                  "lemma": "ricadrà",
+                  "lemma": "ricadere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of ricadere"
                 }
               ]
             }
@@ -5614,8 +5614,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "traditor",
                   "lemma": "traditor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apocopic form of traditore"
                 }
               ]
             }
@@ -5639,8 +5639,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "traditor",
                   "lemma": "traditor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apocopic form of traditore"
                 }
               ]
             }
@@ -5657,9 +5657,9 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Morrà",
-                  "lemma": "morrà",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "morire",
+                  "pos": "verb",
+                  "meaning": "third-person singular future of morire"
                 }
               ]
             }
@@ -5712,9 +5712,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "oltraggiate",
-                  "lemma": "oltraggiate",
+                  "lemma": "oltraggiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative/subjunctive / second-person plural imperative"
                 }
               ]
             },
@@ -5731,9 +5731,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "punite",
-                  "lemma": "punite",
+                  "lemma": "punire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "chi",
@@ -5743,9 +5743,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "colpe",
-                  "lemma": "colpe",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "colpa",
+                  "pos": "noun",
+                  "meaning": "plural of colpa"
                 },
                 {
                   "word": "non",
@@ -5785,16 +5785,16 @@ export const aidaAct4: Act = {
                   "meaning": "not"
                 },
                 {
-                  "word": "`e",
-                  "lemma": "`e",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "e",
+                  "lemma": "e",
+                  "pos": "particle",
+                  "meaning": "The fifth letter of the Italian alphabet, called e and written in the Latin script."
                 },
                 {
                   "word": "traditor",
                   "lemma": "traditor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apocopic form of traditore"
                 },
                 {
                   "word": "pietà",
@@ -5819,9 +5819,9 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Morrà",
-                  "lemma": "morrà",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "morire",
+                  "pos": "verb",
+                  "meaning": "third-person singular future of morire"
                 }
               ]
             },
@@ -5839,14 +5839,14 @@ export const aidaAct4: Act = {
                 {
                   "word": "traditor",
                   "lemma": "traditor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apocopic form of traditore"
                 },
                 {
                   "word": "Morrà",
-                  "lemma": "morrà",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "morire",
+                  "pos": "verb",
+                  "meaning": "third-person singular future of morire"
                 }
               ]
             },
@@ -5859,19 +5859,19 @@ export const aidaAct4: Act = {
                   "word": "Traditor",
                   "lemma": "traditor",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "apocopic form of traditore"
                 },
                 {
                   "word": "Traditor",
                   "lemma": "traditor",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "apocopic form of traditore"
                 },
                 {
                   "word": "Traditor",
                   "lemma": "traditor",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "apocopic form of traditore"
                 }
               ]
             }
@@ -5890,9 +5890,9 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Empia",
-                  "lemma": "empia",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "empio",
+                  "pos": "adjective",
+                  "meaning": "feminine of empio"
                 },
                 {
                   "word": "razza",
@@ -5904,7 +5904,7 @@ export const aidaAct4: Act = {
                   "word": "Anatema",
                   "lemma": "anatema",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "anathema"
                 },
                 {
                   "word": "su",
@@ -5951,9 +5951,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "scenderà",
-                  "lemma": "scenderà",
+                  "lemma": "scendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of scendere"
                 }
               ]
             },
@@ -5966,7 +5966,7 @@ export const aidaAct4: Act = {
                   "word": "Anatema",
                   "lemma": "anatema",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "anathema"
                 },
                 {
                   "word": "su",
@@ -6017,8 +6017,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "pietra",
                   "lemma": "pietra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "stone"
                 },
                 {
                   "word": "sovra",
@@ -6067,8 +6067,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "tomba",
                   "lemma": "tomba",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "tomb, grave / a very narrow and gloomy habitation or room"
                 },
                 {
                   "word": "mia",
@@ -6134,8 +6134,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "revedrò",
                   "lemma": "revedrò",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "revedrò"
                 },
                 {
                   "word": "più",
@@ -6145,9 +6145,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "Aida",
-                  "lemma": "aida",
+                  "lemma": "Aida",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Aida (Ethiopian princess)"
                 }
               ]
             },
@@ -6158,9 +6158,9 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Aida",
-                  "lemma": "aida",
+                  "lemma": "Aida",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Aida (Ethiopian princess)"
                 },
                 {
                   "word": "ove",
@@ -6195,8 +6195,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "almeno",
                   "lemma": "almeno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "at least"
                 }
               ]
             },
@@ -6243,9 +6243,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "orrenda",
-                  "lemma": "orrenda",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "orrendo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of orrendo"
                 }
               ]
             },
@@ -6262,9 +6262,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "ignorar",
-                  "lemma": "ignorar",
+                  "lemma": "ignorare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "not to know, to ignore, to be unaware of / to ignore, not to pay attention, to shrug off, to disregard"
                 },
                 {
                   "word": "Qual",
@@ -6275,8 +6275,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "gemito",
                   "lemma": "gemito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "groan, moan"
                 },
                 {
                   "word": "Una",
@@ -6305,9 +6305,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "vision",
-                  "lemma": "vision",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "visione",
+                  "pos": "noun",
+                  "meaning": "vision / sight"
                 },
                 {
                   "word": "No",
@@ -6323,9 +6323,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "umana",
-                  "lemma": "umana",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "umano",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of umano"
                 },
                 {
                   "word": "È",
@@ -6354,9 +6354,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "Aida",
-                  "lemma": "aida",
+                  "lemma": "Aida",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Aida (Ethiopian princess)"
                 }
               ]
             }
@@ -6417,8 +6417,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "tomba",
                   "lemma": "tomba",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "tomb, grave / a very narrow and gloomy habitation or room"
                 }
               ]
             }
@@ -6436,8 +6436,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "Presago",
                   "lemma": "presago",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "boding, foreboding"
                 },
                 {
                   "word": "il",
@@ -6466,8 +6466,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "condanna",
                   "lemma": "condanna",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sentence / condemnation"
                 }
               ]
             },
@@ -6491,8 +6491,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "tomba",
                   "lemma": "tomba",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "tomb, grave / a very narrow and gloomy habitation or room"
                 },
                 {
                   "word": "che",
@@ -6514,15 +6514,15 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
                 {
                   "word": "apriva",
-                  "lemma": "apriva",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "aprire",
+                  "pos": "verb",
+                  "meaning": "third-person singular imperfect indicative of aprire"
                 }
               ]
             },
@@ -6539,15 +6539,15 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "penetrai",
-                  "lemma": "penetrai",
+                  "lemma": "penetrare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of penetrare"
                 },
                 {
                   "word": "furtiva",
-                  "lemma": "furtiva",
+                  "lemma": "furtivo",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "feminine singular of furtivo"
                 }
               ]
             },
@@ -6570,9 +6570,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "lontana",
-                  "lemma": "lontana",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "lontano",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of lontano"
                 },
                 {
                   "word": "da",
@@ -6625,9 +6625,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "desiai",
-                  "lemma": "desiai",
+                  "lemma": "desiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of desiare"
                 },
                 {
                   "word": "morire",
@@ -6662,9 +6662,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "pura",
-                  "lemma": "pura",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "puro",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of puro"
                 },
                 {
                   "word": "e",
@@ -6705,7 +6705,7 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -6787,7 +6787,7 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "T",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -6795,7 +6795,7 @@ export const aidaAct4: Act = {
                   "word": "avea",
                   "lemma": "avea",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "alternative form of aveva"
                 },
                 {
                   "word": "il",
@@ -6829,9 +6829,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "creata",
-                  "lemma": "creata",
+                  "lemma": "creato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of creato"
                 }
               ]
             },
@@ -6854,15 +6854,15 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
                 {
                   "word": "uccido",
-                  "lemma": "uccido",
+                  "lemma": "uccidere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of uccidere"
                 },
                 {
                   "word": "per",
@@ -6874,13 +6874,13 @@ export const aidaAct4: Act = {
                   "word": "averti",
                   "lemma": "averti",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive avere with ti"
                 },
                 {
                   "word": "amata",
-                  "lemma": "amata",
+                  "lemma": "amato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of amato"
                 }
               ]
             },
@@ -6903,9 +6903,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "morrai",
-                  "lemma": "morrai",
+                  "lemma": "morire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular future of morire"
                 }
               ]
             },
@@ -6922,15 +6922,15 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
                 {
                   "word": "amai",
-                  "lemma": "amai",
+                  "lemma": "amare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of amare"
                 }
               ]
             },
@@ -7012,8 +7012,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "Radiante",
                   "lemma": "radiante",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "beaming, radiant"
                 },
                 {
                   "word": "a",
@@ -7029,15 +7029,15 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
                 {
                   "word": "appressa",
-                  "lemma": "appressa",
+                  "lemma": "appressare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -7054,21 +7054,21 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "adduce",
-                  "lemma": "adduce",
+                  "lemma": "addurre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of addurre"
                 },
                 {
                   "word": "eterni",
-                  "lemma": "eterni",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "eterno",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of eterno"
                 },
                 {
                   "word": "gaudii",
                   "lemma": "gaudii",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "gaudii"
                 }
               ]
             },
@@ -7098,12 +7098,12 @@ export const aidaAct4: Act = {
                 {
                   "word": "vanni",
                   "lemma": "vanni",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "vans, wings"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -7146,9 +7146,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "dischiudersi",
-                  "lemma": "dischiudersi",
+                  "lemma": "dischiudere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to open ; to part / to disclose, reveal (si: oneself / him / her)"
                 }
               ]
             },
@@ -7160,8 +7160,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "Ivi",
                   "lemma": "ivi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "there, therein / there, therein"
                 },
                 {
                   "word": "ogni",
@@ -7177,9 +7177,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "cessa",
-                  "lemma": "cessa",
+                  "lemma": "cessare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -7191,14 +7191,14 @@ export const aidaAct4: Act = {
                 {
                   "word": "Ivi",
                   "lemma": "ivi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "there, therein / there, therein"
                 },
                 {
                   "word": "comincia",
-                  "lemma": "comincia",
+                  "lemma": "cominciare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "l",
@@ -7209,8 +7209,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "estasi",
                   "lemma": "estasi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "ecstasy"
                 }
               ]
             },
@@ -7221,7 +7221,7 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "D",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -7235,7 +7235,7 @@ export const aidaAct4: Act = {
                   "word": "immortale",
                   "lemma": "immortale",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "immortal, eternal, everlasting, undying, deathless"
                 },
                 {
                   "word": "amor",
@@ -7266,9 +7266,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "Fthà",
-                  "lemma": "fthà",
+                  "lemma": "Fthà",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Fthà"
                 },
                 {
                   "word": "del",
@@ -7297,9 +7297,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "animator",
-                  "lemma": "animator",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "animatore",
+                  "pos": "adjective",
+                  "meaning": "guiding / driving"
                 }
               ]
             }
@@ -7369,8 +7369,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "tripudio",
                   "lemma": "tripudio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "exultation, jubilation / blaze"
                 }
               ]
             },
@@ -7387,9 +7387,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "Sacerdoti",
-                  "lemma": "sacerdoti",
+                  "lemma": "sacerdote",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of sacerdote"
                 }
               ]
             }
@@ -7419,8 +7419,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "inno",
                   "lemma": "inno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "hymn, song, anthem"
                 },
                 {
                   "word": "di",
@@ -7469,9 +7469,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "forti",
-                  "lemma": "forti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "forte",
+                  "pos": "adjective",
+                  "meaning": "plural of forte"
                 },
                 {
                   "word": "braccia",
@@ -7489,8 +7489,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "Smuoverti",
                   "lemma": "smuoverti",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of the infinitive smuovere with ti"
                 },
                 {
                   "word": "potranno",
@@ -7513,8 +7513,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "pietra",
                   "lemma": "pietra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "stone"
                 }
               ]
             }
@@ -7543,27 +7543,27 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
                 {
                   "word": "invochiamo",
-                  "lemma": "invochiamo",
+                  "lemma": "invocare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
                 {
                   "word": "invochiam",
-                  "lemma": "invochiam",
+                  "lemma": "invocare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 }
               ]
             }
@@ -7599,8 +7599,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "finito",
                   "lemma": "finito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "finished / finite"
                 }
               ]
             },
@@ -7712,8 +7712,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "valle",
                   "lemma": "valle",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "valley"
                 },
                 {
                   "word": "di",
@@ -7723,9 +7723,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "pianti",
-                  "lemma": "pianti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pianto",
+                  "pos": "noun",
+                  "meaning": "plural of pianto"
                 }
               ],
               "grammarNote": "'O earth, farewell; farewell, valley of tears.' The celestial closing duet of Radamès and Aida embracing death as earthly sorrow dissolves."
@@ -7750,8 +7750,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "gaudio",
                   "lemma": "gaudio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "overjoy, ecstasy, especially of spiritual or religious nature / joy, happiness"
                 },
                 {
                   "word": "che",
@@ -7767,15 +7767,15 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "dolor",
-                  "lemma": "dolor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "dolore",
+                  "pos": "noun",
+                  "meaning": "ache, pain / sorrow, grief"
                 },
                 {
                   "word": "svanì",
-                  "lemma": "svanì",
+                  "lemma": "svanire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of svanire"
                 }
               ]
             },
@@ -7834,15 +7834,15 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "alme",
-                  "lemma": "alme",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "anima",
+                  "pos": "noun",
+                  "meaning": "souls / spirits (pl.)"
                 },
                 {
                   "word": "erranti",
-                  "lemma": "erranti",
+                  "lemma": "errante",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "plural of errante"
                 }
               ]
             },
@@ -7855,7 +7855,7 @@ export const aidaAct4: Act = {
                   "word": "Volano",
                   "lemma": "volano",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "shuttlecock / badminton"
                 },
                 {
                   "word": "al",
@@ -7871,15 +7871,15 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
                 {
                   "word": "interno",
                   "lemma": "interno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "inside, indoor; internal, interior, inner / domestic, home, inland"
                 },
                 {
                   "word": "dì",
@@ -7908,9 +7908,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "Fthà",
-                  "lemma": "fthà",
+                  "lemma": "Fthà",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Fthà"
                 },
                 {
                   "word": "noi",
@@ -7920,15 +7920,15 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
                 {
                   "word": "invochiam",
-                  "lemma": "invochiam",
+                  "lemma": "invocare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 }
               ]
             }
@@ -8006,9 +8006,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "valli",
-                  "lemma": "valli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "valle",
+                  "pos": "noun",
+                  "meaning": "plural of valle"
                 },
                 {
                   "word": "di",
@@ -8018,9 +8018,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "pianti",
-                  "lemma": "pianti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pianto",
+                  "pos": "noun",
+                  "meaning": "plural of pianto"
                 }
               ]
             }
@@ -8045,7 +8045,7 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -8083,8 +8083,8 @@ export const aidaAct4: Act = {
                 {
                   "word": "gaudio",
                   "lemma": "gaudio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "overjoy, ecstasy, especially of spiritual or religious nature / joy, happiness"
                 },
                 {
                   "word": "che",
@@ -8100,15 +8100,15 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "dolor",
-                  "lemma": "dolor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "dolore",
+                  "pos": "noun",
+                  "meaning": "ache, pain / sorrow, grief"
                 },
                 {
                   "word": "svanì",
-                  "lemma": "svanì",
+                  "lemma": "svanire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of svanire"
                 }
               ]
             }
@@ -8126,14 +8126,14 @@ export const aidaAct4: Act = {
                 {
                   "word": "salma",
                   "lemma": "salma",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "body, corpse / remains"
                 },
                 {
                   "word": "adorata",
-                  "lemma": "adorata",
+                  "lemma": "adorato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of adorato"
                 }
               ]
             }
@@ -8199,15 +8199,15 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Isi",
-                  "lemma": "isi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "i",
+                  "pos": "verb",
+                  "meaning": "The ninth letter of the Italian alphabet, called i and written in the Latin script. (si: oneself / him / her)"
                 },
                 {
                   "word": "placata",
-                  "lemma": "placata",
+                  "lemma": "placato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of placato"
                 }
               ]
             }
@@ -8260,15 +8260,15 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "alme",
-                  "lemma": "alme",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "anima",
+                  "pos": "noun",
+                  "meaning": "souls / spirits (pl.)"
                 },
                 {
                   "word": "erranti",
-                  "lemma": "erranti",
+                  "lemma": "errante",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "plural of errante"
                 }
               ]
             }
@@ -8285,15 +8285,15 @@ export const aidaAct4: Act = {
               "tokens": [
                 {
                   "word": "Isi",
-                  "lemma": "isi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "i",
+                  "pos": "verb",
+                  "meaning": "The ninth letter of the Italian alphabet, called i and written in the Latin script. (si: oneself / him / her)"
                 },
                 {
                   "word": "placata",
-                  "lemma": "placata",
+                  "lemma": "placato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of placato"
                 },
                 {
                   "word": "ti",
@@ -8303,9 +8303,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "schiuda",
-                  "lemma": "schiuda",
+                  "lemma": "schiudere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "il",
@@ -8336,7 +8336,7 @@ export const aidaAct4: Act = {
                   "word": "Volano",
                   "lemma": "volano",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "shuttlecock / badminton"
                 },
                 {
                   "word": "al",
@@ -8352,7 +8352,7 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
@@ -8389,15 +8389,15 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
                 {
                   "word": "invochiam",
-                  "lemma": "invochiam",
+                  "lemma": "invocare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 }
               ]
             }
@@ -8445,9 +8445,9 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "Fthà",
-                  "lemma": "fthà",
+                  "lemma": "Fthà",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Fthà"
                 }
               ]
             }
@@ -8509,7 +8509,7 @@ export const aidaAct4: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -8571,7 +8571,7 @@ export const aidaAct4: Act = {
                   "meaning": "immense / boundless"
                 },
                 {
-                  "word": "Fthà!",
+                  "word": "Fthà",
                   "lemma": "Fthà",
                   "pos": "noun",
                   "meaning": "Ptah (ancient Egyptian creator god)"

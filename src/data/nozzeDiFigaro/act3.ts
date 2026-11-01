@@ -31,8 +31,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "imbarazzo",
                   "lemma": "imbarazzo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "obstacle, trouble, difficulty / embarrassment, awkwardness"
                 },
                 {
                   "word": "è",
@@ -74,8 +74,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "anonimo",
                   "lemma": "anonimo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "anonymous"
                 }
               ]
             },
@@ -93,8 +93,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "cameriera",
                   "lemma": "cameriera",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "waitress / maid, housemaid"
                 },
                 {
                   "word": "in",
@@ -105,8 +105,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "gabinetto",
                   "lemma": "gabinetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "cabinet / ministry, government"
                 },
                 {
                   "word": "chiusa",
@@ -130,14 +130,14 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "padrona",
                   "lemma": "padrona",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mistress, lady / owner"
                 },
                 {
                   "word": "confusa",
-                  "lemma": "confusa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "confuso",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of confuso"
                 },
                 {
                   "word": "un",
@@ -159,9 +159,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "salta",
-                  "lemma": "salta",
+                  "lemma": "saltare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present / second-person singular imperative"
                 }
               ]
             },
@@ -179,8 +179,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "balcone",
                   "lemma": "balcone",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "balcony"
                 },
                 {
                   "word": "in",
@@ -191,8 +191,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "giardino...un",
                   "lemma": "giardino...un",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "giardino...un"
                 },
                 {
                   "word": "altro",
@@ -203,8 +203,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "appresso",
                   "lemma": "appresso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "nearby"
                 }
               ]
             },
@@ -240,8 +240,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "desso",
                   "lemma": "desso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "pronoun",
+                  "meaning": "alternative form of esso"
                 }
               ]
             },
@@ -276,9 +276,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "Potrebbe",
-                  "lemma": "potrebbe",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "potere",
+                  "pos": "verb",
+                  "meaning": "third-person singular conditional of potere"
                 },
                 {
                   "word": "forse",
@@ -302,8 +302,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "de",
                   "lemma": "de",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "alternative form of di"
                 },
                 {
                   "word": "miei",
@@ -314,8 +314,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "vassalli...a",
                   "lemma": "vassalli...a",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "vassalli...a"
                 },
                 {
                   "word": "simil",
@@ -345,8 +345,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "comune",
                   "lemma": "comune",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "mutual, common / usual, ordinary, common"
                 },
                 {
                   "word": "l",
@@ -376,7 +376,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Contessa",
                   "lemma": "contessa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Countess (Countess Almaviva / Rosina)"
                 }
               ]
             },
@@ -406,8 +406,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "dubbio",
                   "lemma": "dubbio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "doubtful, uncertain, dubious, questionable"
                 },
                 {
                   "word": "l",
@@ -417,9 +417,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "offende",
-                  "lemma": "offende",
+                  "lemma": "offendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of offendere"
                 }
               ]
             },
@@ -436,9 +436,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "rispetta",
-                  "lemma": "rispetta",
+                  "lemma": "rispettare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "troppo",
@@ -516,9 +516,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "diamin",
-                  "lemma": "diamin",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "diamine",
+                  "pos": "interjection",
+                  "meaning": "an expression of wonder, impatience or irritation"
                 },
                 {
                   "word": "l",
@@ -547,8 +547,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "errore",
                   "lemma": "errore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mistake, error, slip, howler, blunder, goof / wandering;  moral deviation"
                 }
               ]
             }
@@ -594,7 +594,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "digli",
                   "lemma": "digli",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of di, the second-person singular imperative form of dire, with gli"
                 }
               ]
             },
@@ -617,9 +617,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "attenda",
-                  "lemma": "attenda",
+                  "lemma": "attendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "in",
@@ -651,9 +651,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Saprò",
-                  "lemma": "saprò",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "sapere",
+                  "pos": "verb",
+                  "meaning": "first-person singular future of sapere"
                 },
                 {
                   "word": "se",
@@ -663,9 +663,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "Cherubino",
-                  "lemma": "cherubino",
+                  "lemma": "Cherubino",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Cherubino (the Count's page)"
                 }
               ]
             },
@@ -683,8 +683,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "giunto",
                   "lemma": "giunto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "joint, link, connection"
                 },
                 {
                   "word": "a",
@@ -696,7 +696,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Siviglia",
                   "lemma": "siviglia",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Seville / Seville"
                 },
                 {
                   "word": "A",
@@ -713,8 +713,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "oggetto",
                   "lemma": "oggetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "object"
                 }
               ]
             },
@@ -732,14 +732,14 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "mandato",
                   "lemma": "mandato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mandate, charge, commission, task / warrant, order, writ, summons"
                 },
                 {
                   "word": "Basilio",
-                  "lemma": "basilio",
+                  "lemma": "Basilio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Basilio (music teacher)"
                 }
               ]
             }
@@ -774,9 +774,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "Figaro",
-                  "lemma": "figaro",
+                  "lemma": "Figaro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Figaro (valet to Count Almaviva)"
                 }
               ]
             }
@@ -838,8 +838,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "vece",
                   "lemma": "vece",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "change / vicissitude"
                 },
                 {
                   "word": "tua",
@@ -864,7 +864,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "andarci",
                   "lemma": "andarci",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive andare with ci"
                 },
                 {
                   "word": "io",
@@ -874,9 +874,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "medesma",
-                  "lemma": "medesma",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "medesmo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of medesmo"
                 }
               ]
             }
@@ -912,15 +912,15 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "dovrebbe",
-                  "lemma": "dovrebbe",
+                  "lemma": "dovere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular conditional of dovere"
                 },
                 {
                   "word": "ritornar",
                   "lemma": "ritornar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of ritornare"
                 }
               ]
             }
@@ -980,7 +980,7 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -1023,8 +1023,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "riposo",
                   "lemma": "riposo",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "rest, repose, break / sleep, rest"
                 }
               ]
             }
@@ -1067,7 +1067,7 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -1079,9 +1079,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "tradito",
-                  "lemma": "tradito",
+                  "lemma": "tradire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of tradire"
                 }
               ]
             },
@@ -1105,8 +1105,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "segreto",
                   "lemma": "segreto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "secret"
                 },
                 {
                   "word": "mio",
@@ -1159,9 +1159,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "sposar",
-                  "lemma": "sposar",
+                  "lemma": "sposare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to cause  to get married, to give a spouse to, to marry / to embrace, to espouse, to join"
                 },
                 {
                   "word": "la",
@@ -1190,9 +1190,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Marcellina",
-                  "lemma": "marcellina",
+                  "lemma": "Marcellina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Marcellina (housekeeper)"
                 },
                 {
                   "word": "Signor",
@@ -1221,9 +1221,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "bramate",
-                  "lemma": "bramate",
+                  "lemma": "bramare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -1363,15 +1363,15 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "soliti",
-                  "lemma": "soliti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "solito",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of solito"
                 },
                 {
                   "word": "vapori",
-                  "lemma": "vapori",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vapore",
+                  "pos": "noun",
+                  "meaning": "plural of vapore"
                 }
               ]
             },
@@ -1407,8 +1407,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "fiaschetto",
                   "lemma": "fiaschetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a small bottle, typically containing smelling salts / a hint"
                 },
                 {
                   "word": "degli",
@@ -1418,9 +1418,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "odori",
-                  "lemma": "odori",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "odore",
+                  "pos": "noun",
+                  "meaning": "plural of odore / herbs"
                 }
               ]
             }
@@ -1468,9 +1468,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "riporto",
-                  "lemma": "riporto",
+                  "lemma": "riporgere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of riporgere"
                 }
               ]
             }
@@ -1513,8 +1513,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "Ritenerlo",
                   "lemma": "ritenerlo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of the infinitive ritenere with lo"
                 },
                 {
                   "word": "per",
@@ -1581,8 +1581,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "mali",
                   "lemma": "mali",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Mali"
                 }
               ]
             },
@@ -1605,9 +1605,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "triviali",
-                  "lemma": "triviali",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "triviale",
+                  "pos": "adjective",
+                  "meaning": "plural of triviale"
                 }
               ]
             }
@@ -1685,7 +1685,7 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -1693,7 +1693,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "ottenerlo",
                   "lemma": "ottenerlo",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive ottenere with lo"
                 }
               ]
             }
@@ -1710,15 +1710,15 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Pagando",
-                  "lemma": "pagando",
+                  "lemma": "pagare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of pagare"
                 },
                 {
                   "word": "Marcellina",
-                  "lemma": "marcellina",
+                  "lemma": "Marcellina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Marcellina (housekeeper)"
                 }
               ]
             },
@@ -1736,8 +1736,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "dote",
                   "lemma": "dote",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "dowry, dower / gift, talent"
                 },
                 {
                   "word": "che",
@@ -1759,9 +1759,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "prometteste",
-                  "lemma": "prometteste",
+                  "lemma": "promettere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural past historic / second-person plural imperfect subjunctive"
                 }
               ]
             }
@@ -1778,7 +1778,7 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -1821,13 +1821,13 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Credea",
-                  "lemma": "credea",
+                  "lemma": "Credea",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Credea"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -1835,7 +1835,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "averlo",
                   "lemma": "averlo",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive avere with lo"
                 },
                 {
                   "word": "inteso",
@@ -1871,8 +1871,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "voluto",
                   "lemma": "voluto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "deliberate, intentional / wanted, desired"
                 },
                 {
                   "word": "aveste",
@@ -1891,7 +1891,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "intendermi",
                   "lemma": "intendermi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive intendere with mi"
                 },
                 {
                   "word": "voi",
@@ -1971,7 +1971,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Eccellenza",
                   "lemma": "eccellenza",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "excellence, greatness, pre-eminence / Excellence"
                 },
                 {
                   "word": "il",
@@ -2019,8 +2019,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "finora",
                   "lemma": "finora",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "so far, till now, up to now, yet"
                 }
               ]
             },
@@ -2037,9 +2037,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "languir",
-                  "lemma": "languir",
+                  "lemma": "languire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to languish / to pine"
                 },
                 {
                   "word": "così",
@@ -2081,8 +2081,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "ognora",
                   "lemma": "ognora",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "always, continually"
                 }
               ]
             },
@@ -2148,9 +2148,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "giardin",
-                  "lemma": "giardin",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "giardino",
+                  "pos": "noun",
+                  "meaning": "garden"
                 },
                 {
                   "word": "verrai",
@@ -2234,9 +2234,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "mancherai",
-                  "lemma": "mancherai",
+                  "lemma": "mancare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular future of mancare"
                 }
               ]
             }
@@ -2365,8 +2365,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "Scusatemi",
                   "lemma": "scusatemi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of scusate, the second-person plural imperative form of scusare, with mi"
                 },
                 {
                   "word": "se",
@@ -2401,9 +2401,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "intendete",
-                  "lemma": "intendete",
+                  "lemma": "intendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "amor",
@@ -2445,8 +2445,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "meco",
                   "lemma": "meco",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "pronoun",
+                  "meaning": "with me"
                 }
               ]
             },
@@ -2458,8 +2458,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "stamattina",
                   "lemma": "stamattina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "this morning"
                 },
                 {
                   "word": "sì",
@@ -2469,9 +2469,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "austera",
-                  "lemma": "austera",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "austero",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of austero"
                 }
               ]
             }
@@ -2500,19 +2500,19 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
                 {
                   "word": "ivi",
                   "lemma": "ivi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "there, therein / there, therein"
                 },
                 {
                   "word": "c",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
@@ -2549,9 +2549,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "Basilio",
-                  "lemma": "basilio",
+                  "lemma": "Basilio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Basilio (music teacher)"
                 }
               ]
             },
@@ -2586,9 +2586,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "parlò",
-                  "lemma": "parlò",
+                  "lemma": "parlare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of parlare"
                 }
               ]
             }
@@ -2618,8 +2618,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "bisogno",
                   "lemma": "bisogno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "need / excrement, faeces"
                 }
               ]
             },
@@ -2632,7 +2632,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "abbiam",
                   "lemma": "abbiam",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of abbiamo"
                 },
                 {
                   "word": "noi",
@@ -2654,9 +2654,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "Basilio",
-                  "lemma": "basilio",
+                  "lemma": "Basilio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Basilio (music teacher)"
                 }
               ]
             }
@@ -2716,9 +2716,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "prometti",
-                  "lemma": "prometti",
+                  "lemma": "promettere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "poi",
@@ -2747,9 +2747,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "manchi",
-                  "lemma": "manchi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "manco",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of manco"
                 },
                 {
                   "word": "oh",
@@ -2785,7 +2785,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Contessa",
                   "lemma": "contessa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Countess (Countess Almaviva / Rosina)"
                 }
               ]
             },
@@ -2796,9 +2796,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "attenderà",
-                  "lemma": "attenderà",
+                  "lemma": "attendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of attendere"
                 },
                 {
                   "word": "il",
@@ -2809,8 +2809,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "fiaschetto",
                   "lemma": "fiaschetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a small bottle, typically containing smelling salts / a hint"
                 }
               ]
             }
@@ -2913,9 +2913,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Carissima",
-                  "lemma": "carissima",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "carissimo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of carissimo"
                 }
               ]
             }
@@ -2974,8 +2974,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "senz'altro",
                   "lemma": "senz'altro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "certainly, definitely, of course"
                 }
               ]
             }
@@ -2992,9 +2992,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Forbitevi",
-                  "lemma": "forbitevi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "forbito",
+                  "pos": "verb",
+                  "meaning": "feminine plural of forbito (vi: you)"
                 },
                 {
                   "word": "la",
@@ -3023,8 +3023,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "scaltro",
                   "lemma": "scaltro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "shrewd, astute / cunning, sly, slick"
                 }
               ]
             }
@@ -3100,8 +3100,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "avvocato",
                   "lemma": "avvocato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "lawyer, counsel, solicitor, barrister / advocate, defender, intercessor"
                 }
               ]
             },
@@ -3124,9 +3124,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "vinta",
-                  "lemma": "vinta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vinto",
+                  "pos": "noun",
+                  "meaning": "female equivalent of vinto"
                 },
                 {
                   "word": "la",
@@ -3137,8 +3137,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "causa",
                   "lemma": "causa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "cause / lawsuit"
                 }
               ]
             }
@@ -3205,9 +3205,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "vinta",
-                  "lemma": "vinta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vinto",
+                  "pos": "noun",
+                  "meaning": "female equivalent of vinto"
                 },
                 {
                   "word": "la",
@@ -3218,8 +3218,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "causa",
                   "lemma": "causa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "cause / lawsuit"
                 },
                 {
                   "word": "Cosa",
@@ -3267,14 +3267,14 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "cadea",
                   "lemma": "cadea",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "cadea"
                 },
                 {
                   "word": "Perfidi",
-                  "lemma": "perfidi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "perfido",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of perfido"
                 },
                 {
                   "word": "Io",
@@ -3317,7 +3317,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "punirvi",
                   "lemma": "punirvi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive punire with vi"
                 },
                 {
                   "word": "A",
@@ -3353,8 +3353,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "sentenza",
                   "lemma": "sentenza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "verdict, judgment, ruling / sentence"
                 },
                 {
                   "word": "sarà",
@@ -3370,7 +3370,7 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -3382,9 +3382,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "pagasse",
-                  "lemma": "pagasse",
+                  "lemma": "pagare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect subjunctive of pagare"
                 }
               ]
             },
@@ -3407,9 +3407,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "pretendente",
-                  "lemma": "pretendente",
+                  "lemma": "pretendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "present participle of pretendere"
                 }
               ]
             },
@@ -3421,8 +3421,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "Pagarla",
                   "lemma": "pagarla",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "to pay / Used other than figuratively or idiomatically: compound of the infinitive pagare with la."
                 },
                 {
                   "word": "In",
@@ -3439,8 +3439,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "maniera",
                   "lemma": "maniera",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "manner, way / style"
                 },
                 {
                   "word": "E",
@@ -3456,7 +3456,7 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -3468,9 +3468,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "Antonio",
-                  "lemma": "antonio",
+                  "lemma": "Antonio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Antonio (gardener)"
                 }
               ]
             },
@@ -3500,20 +3500,20 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "incognito",
                   "lemma": "incognito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "unknown / unaware; ignorant"
                 },
                 {
                   "word": "Figaro",
-                  "lemma": "figaro",
+                  "lemma": "Figaro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Figaro (valet to Count Almaviva)"
                 },
                 {
                   "word": "ricusa",
-                  "lemma": "ricusa",
+                  "lemma": "ricusare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -3543,8 +3543,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "nipote",
                   "lemma": "nipote",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "grandchild, grandson, granddaughter / nephew, niece, nibling"
                 },
                 {
                   "word": "in",
@@ -3567,9 +3567,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Coltivando",
-                  "lemma": "coltivando",
+                  "lemma": "coltivare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of coltivare"
                 },
                 {
                   "word": "l",
@@ -3580,8 +3580,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "orgoglio",
                   "lemma": "orgoglio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pride"
                 }
               ]
             },
@@ -3642,8 +3642,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "raggiro",
                   "lemma": "raggiro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "deceit, deception, fraud, scam"
                 },
                 {
                   "word": "il",
@@ -3758,7 +3758,7 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -3771,8 +3771,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "desio",
                   "lemma": "desio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "desire"
                 }
               ]
             },
@@ -3789,9 +3789,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "posseder",
-                  "lemma": "posseder",
+                  "lemma": "possedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to possess, have, own / to master"
                 },
                 {
                   "word": "dovrà",
@@ -3826,7 +3826,7 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -3845,9 +3845,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "unita",
-                  "lemma": "unita",
+                  "lemma": "unito",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of unito"
                 },
                 {
                   "word": "a",
@@ -3870,8 +3870,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "oggetto",
                   "lemma": "oggetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "object"
                 }
               ]
             },
@@ -3900,9 +3900,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "destò",
-                  "lemma": "destò",
+                  "lemma": "destare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of destare"
                 },
                 {
                   "word": "un",
@@ -3913,8 +3913,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "affetto",
                   "lemma": "affetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "affected"
                 }
               ]
             },
@@ -3982,7 +3982,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "lasciarti",
                   "lemma": "lasciarti",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive lasciare with ti"
                 },
                 {
                   "word": "in",
@@ -4048,9 +4048,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "nascesti",
-                  "lemma": "nascesti",
+                  "lemma": "nascere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular past historic of nascere"
                 },
                 {
                   "word": "audace",
@@ -4092,8 +4092,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "tormento",
                   "lemma": "tormento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "torment / agony"
                 }
               ]
             },
@@ -4154,8 +4154,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "infelicità",
                   "lemma": "infelicità",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "unhappiness, misery"
                 }
               ]
             },
@@ -4203,9 +4203,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "vendette",
-                  "lemma": "vendette",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vendetta",
+                  "pos": "noun",
+                  "meaning": "plural of vendetta"
                 },
                 {
                   "word": "mie",
@@ -4222,7 +4222,7 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
@@ -4234,9 +4234,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "consola",
-                  "lemma": "consola",
+                  "lemma": "consolare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -4253,9 +4253,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "giubilar",
-                  "lemma": "giubilar",
+                  "lemma": "giubilare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to rejoice / to send off, to retire  after long service; to pension"
                 },
                 {
                   "word": "mi",
@@ -4300,9 +4300,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "decisa",
-                  "lemma": "decisa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "deciso",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of deciso"
                 },
                 {
                   "word": "la",
@@ -4313,8 +4313,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "lite",
                   "lemma": "lite",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a quarrel, row, altercation, fight / a suit, lawsuit"
                 }
               ]
             },
@@ -4333,7 +4333,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "pagarla",
                   "lemma": "pagarla",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to pay / Used other than figuratively or idiomatically: compound of the infinitive pagare with la."
                 },
                 {
                   "word": "o",
@@ -4345,7 +4345,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "sposarla",
                   "lemma": "sposarla",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive sposare with la"
                 },
                 {
                   "word": "ora",
@@ -4355,9 +4355,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "ammutite",
-                  "lemma": "ammutite",
+                  "lemma": "ammutire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -4382,8 +4382,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "respiro",
                   "lemma": "respiro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "breath"
                 }
               ]
             }
@@ -4413,8 +4413,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "moro",
                   "lemma": "moro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mulberry tree"
                 }
               ]
             }
@@ -4455,7 +4455,7 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -4473,15 +4473,15 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
                 {
                   "word": "adoro",
-                  "lemma": "adoro",
+                  "lemma": "adorare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of adorare"
                 }
               ]
             }
@@ -4500,19 +4500,19 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Eccellenza",
                   "lemma": "eccellenza",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "excellence, greatness, pre-eminence / Excellence"
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
                   "word": "appello",
                   "lemma": "appello",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "plea, appeal, call / roll call"
                 }
               ]
             }
@@ -4536,8 +4536,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "giusta",
                   "lemma": "giusta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "according to, in accordance with / close to, nearby"
                 },
                 {
                   "word": "la",
@@ -4548,8 +4548,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "sentenza",
                   "lemma": "sentenza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "verdict, judgment, ruling / sentence"
                 }
               ]
             },
@@ -4568,7 +4568,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "pagar",
                   "lemma": "pagar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of pagare"
                 },
                 {
                   "word": "o",
@@ -4578,9 +4578,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "sposar",
-                  "lemma": "sposar",
+                  "lemma": "sposare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to cause  to get married, to give a spouse to, to marry / to embrace, to espouse, to join"
                 },
                 {
                   "word": "bravo",
@@ -4592,13 +4592,13 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Curzio",
-                  "lemma": "curzio",
+                  "lemma": "Curzio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Curzio (judge)"
                 }
               ]
             }
@@ -4635,7 +4635,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Eccellenza",
                   "lemma": "eccellenza",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "excellence, greatness, pre-eminence / Excellence"
                 }
               ]
             }
@@ -4658,15 +4658,15 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "superba",
-                  "lemma": "superba",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "superbo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of superbo"
                 },
                 {
                   "word": "sentenza",
                   "lemma": "sentenza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "verdict, judgment, ruling / sentence"
                 }
               ]
             }
@@ -4695,9 +4695,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "superba",
-                  "lemma": "superba",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "superbo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of superbo"
                 }
               ]
             }
@@ -4726,9 +4726,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "vendicati",
-                  "lemma": "vendicati",
+                  "lemma": "vendicato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "masculine plural of vendicato"
                 }
               ]
             }
@@ -4815,7 +4815,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "pagarla",
                   "lemma": "pagarla",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to pay / Used other than figuratively or idiomatically: compound of the infinitive pagare with la."
                 },
                 {
                   "word": "o",
@@ -4827,7 +4827,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "sposarla",
                   "lemma": "sposarla",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive sposare with la"
                 },
                 {
                   "word": "Lei",
@@ -4837,7 +4837,7 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -4849,9 +4849,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "prestati",
-                  "lemma": "prestati",
+                  "lemma": "prestato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "masculine plural of prestato"
                 }
               ]
             },
@@ -4880,9 +4880,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "duri",
-                  "lemma": "duri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "duro",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of duro"
                 }
               ]
             }
@@ -4937,14 +4937,14 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "assenso",
                   "lemma": "assenso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "assent"
                 },
                 {
                   "word": "de",
                   "lemma": "de",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "alternative form of di"
                 },
                 {
                   "word": "miei",
@@ -4954,15 +4954,15 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "nobili",
-                  "lemma": "nobili",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "nobile",
+                  "pos": "adjective",
+                  "meaning": "plural of nobile"
                 },
                 {
                   "word": "parenti",
-                  "lemma": "parenti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "parente",
+                  "pos": "noun",
+                  "meaning": "plural of parente"
                 }
               ]
             }
@@ -5030,7 +5030,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "cercarli",
                   "lemma": "cercarli",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive cercare with li"
                 }
               ]
             },
@@ -5079,7 +5079,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "trovarli",
                   "lemma": "trovarli",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive trovare with li"
                 }
               ]
             }
@@ -5102,9 +5102,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "bambin",
-                  "lemma": "bambin",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bambina",
+                  "pos": "noun",
+                  "meaning": "plural of bambina"
                 },
                 {
                   "word": "trovato",
@@ -5134,8 +5134,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "perduto",
                   "lemma": "perduto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "lost"
                 },
                 {
                   "word": "dottor",
@@ -5151,9 +5151,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "rubato",
-                  "lemma": "rubato",
+                  "lemma": "rubare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of rubare"
                 }
               ]
             }
@@ -5240,8 +5240,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "testimonio",
                   "lemma": "testimonio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "testimony / evidence, proof"
                 }
               ]
             }
@@ -5276,9 +5276,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "gemme",
-                  "lemma": "gemme",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "gemma",
+                  "pos": "noun",
+                  "meaning": "plural of gemma"
                 },
                 {
                   "word": "e",
@@ -5294,9 +5294,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "ricamati",
-                  "lemma": "ricamati",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ricamato",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of ricamato"
                 },
                 {
                   "word": "panni",
@@ -5331,9 +5331,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "teneri",
-                  "lemma": "teneri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tenero",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of tenero"
                 },
                 {
                   "word": "anni",
@@ -5357,8 +5357,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "ritrovaro",
                   "lemma": "ritrovaro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "ritrovaro"
                 },
                 {
                   "word": "addosso",
@@ -5374,9 +5374,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "masnadieri",
-                  "lemma": "masnadieri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "masnadiere",
+                  "pos": "noun",
+                  "meaning": "plural of masnadiere / plural of masnadiero"
                 }
               ]
             },
@@ -5394,14 +5394,14 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "gl'indizi",
                   "lemma": "gl'indizi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "gl'indizi"
                 },
                 {
                   "word": "veri",
-                  "lemma": "veri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vero",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of vero"
                 }
               ]
             },
@@ -5425,14 +5425,14 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "nascita",
                   "lemma": "nascita",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "birth"
                 },
                 {
                   "word": "illustre",
                   "lemma": "illustre",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "illustrious, renowned, famous, distinguished / notorious"
                 },
                 {
                   "word": "e",
@@ -5486,14 +5486,14 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "impresso",
                   "lemma": "impresso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "impressed, stamped, imprinted"
                 },
                 {
                   "word": "geroglifico",
                   "lemma": "geroglifico",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "hieroglyphic"
                 }
               ]
             }
@@ -5517,14 +5517,14 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "spatola",
                   "lemma": "spatola",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "spatula, paddle / palette knife"
                 },
                 {
                   "word": "impressa",
-                  "lemma": "impressa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "impresso",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of impresso"
                 },
                 {
                   "word": "al",
@@ -5578,8 +5578,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "chi'l",
                   "lemma": "chi'l",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "chi'l"
                 },
                 {
                   "word": "disse",
@@ -5672,13 +5672,13 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "DON",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "CURZIO",
-                  "lemma": "curzio",
+                  "lemma": "Curzio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Curzio (judge)"
                 },
                 {
                   "word": "IL",
@@ -5690,7 +5690,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "CONTE",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 },
                 {
                   "word": "e",
@@ -5700,9 +5700,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "BARTOLO",
-                  "lemma": "bartolo",
+                  "lemma": "Bartolo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Doctor Bartolo"
                 }
               ]
             },
@@ -5734,7 +5734,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Raffaello",
                   "lemma": "raffaello",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Raphael"
                 }
               ]
             }
@@ -5775,9 +5775,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "rapir",
-                  "lemma": "rapir",
+                  "lemma": "rapire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to kidnap or abduct / to captivate"
                 }
               ]
             }
@@ -5807,8 +5807,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "castello",
                   "lemma": "castello",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "castle / castello"
                 }
               ]
             }
@@ -5858,7 +5858,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Balia",
                   "lemma": "balia",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "wet nurse / birds from the family Muscicapidae"
                 }
               ]
             }
@@ -5908,7 +5908,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "CONTE",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 },
                 {
                   "word": "e",
@@ -5920,13 +5920,13 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "DON",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "CURZIO",
-                  "lemma": "curzio",
+                  "lemma": "Curzio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Curzio (judge)"
                 }
               ]
             },
@@ -6023,9 +6023,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Riconosci",
-                  "lemma": "riconosci",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "riconoscere",
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative of riconoscere"
                 },
                 {
                   "word": "in",
@@ -6042,8 +6042,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "amplesso",
                   "lemma": "amplesso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "intercourse / embrace"
                 }
               ],
               "grammarNote": "The classic recognition sextet: Marcellina and Bartolo discover Figaro is their long-lost son Emmanuel."
@@ -6155,9 +6155,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "arrossir",
-                  "lemma": "arrossir",
+                  "lemma": "arrossire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to blush"
                 }
               ]
             }
@@ -6178,7 +6178,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Resistenza",
                   "lemma": "resistenza",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "resistance / stamina, endurance"
                 },
                 {
                   "word": "la",
@@ -6189,8 +6189,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "coscienza",
                   "lemma": "coscienza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "conscience / consciousness"
                 }
               ]
             },
@@ -6302,8 +6302,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "imeneo",
                   "lemma": "imeneo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "hymeneal"
                 },
                 {
                   "word": "non",
@@ -6357,8 +6357,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "stordito",
                   "lemma": "stordito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "dazed, stunned"
                 }
               ]
             },
@@ -6401,7 +6401,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "partir",
                   "lemma": "partir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of partire"
                 }
               ]
             },
@@ -6412,9 +6412,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "MARCELLINA",
-                  "lemma": "marcellina",
+                  "lemma": "Marcellina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Marcellina (housekeeper)"
                 },
                 {
                   "word": "e",
@@ -6424,9 +6424,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "BARTOLO",
-                  "lemma": "bartolo",
+                  "lemma": "Bartolo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Doctor Bartolo"
                 }
               ]
             },
@@ -6462,15 +6462,15 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Parenti",
-                  "lemma": "parenti",
+                  "lemma": "parente",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of parente"
                 },
                 {
                   "word": "amati",
                   "lemma": "amati",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of ama, the second-person singular imperative form of amare, with ti"
                 }
               ]
             }
@@ -6489,9 +6489,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Alto,alto",
-                  "lemma": "alto,alto",
+                  "lemma": "Alto,alto",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Alto,alto"
                 },
                 {
                   "word": "signor",
@@ -6503,7 +6503,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Conte",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 }
               ]
             },
@@ -6520,9 +6520,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "doppie",
-                  "lemma": "doppie",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "doppio",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of doppio"
                 },
                 {
                   "word": "son",
@@ -6559,7 +6559,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "pagar",
                   "lemma": "pagar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of pagare"
                 },
                 {
                   "word": "vengo",
@@ -6575,9 +6575,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "Figaro",
-                  "lemma": "figaro",
+                  "lemma": "Figaro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Figaro (valet to Count Almaviva)"
                 }
               ]
             },
@@ -6602,7 +6602,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "porlo",
                   "lemma": "porlo",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive porre with lo"
                 },
                 {
                   "word": "in",
@@ -6633,7 +6633,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "CONTE",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 },
                 {
                   "word": "e",
@@ -6645,13 +6645,13 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "DON",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "CURZIO",
-                  "lemma": "curzio",
+                  "lemma": "Curzio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Curzio (judge)"
                 }
               ]
             },
@@ -6668,9 +6668,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "sappiam",
-                  "lemma": "sappiam",
+                  "lemma": "sapere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative of sapere / first-person plural present subjunctive"
                 },
                 {
                   "word": "com'è",
@@ -6699,9 +6699,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "osservate",
-                  "lemma": "osservate",
+                  "lemma": "osservare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "un",
@@ -6742,7 +6742,7 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -6779,9 +6779,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "giusti",
-                  "lemma": "giusti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "giusto",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of giusto"
                 },
                 {
                   "word": "Dei",
@@ -6798,8 +6798,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "infedeltà",
                   "lemma": "infedeltà",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "unfaithfulness, faithlessness / unfaithfulness, inaccuracy"
                 }
               ]
             },
@@ -6817,8 +6817,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "iniquo",
                   "lemma": "iniquo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "iniquitous, unjust / evil, wicked"
                 }
               ]
             }
@@ -6843,15 +6843,15 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
                 {
                   "word": "arresta",
-                  "lemma": "arresta",
+                  "lemma": "arrestare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present / second-person singular imperative"
                 }
               ]
             },
@@ -6914,15 +6914,15 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "MARCELLINA",
-                  "lemma": "marcellina",
+                  "lemma": "Marcellina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Marcellina (housekeeper)"
                 },
                 {
                   "word": "BARTOLO",
-                  "lemma": "bartolo",
+                  "lemma": "Bartolo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Doctor Bartolo"
                 },
                 {
                   "word": "e",
@@ -6932,9 +6932,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "FIGARO",
-                  "lemma": "figaro",
+                  "lemma": "Figaro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Figaro (valet to Count Almaviva)"
                 }
               ]
             },
@@ -6958,8 +6958,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "effetto",
                   "lemma": "effetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "effect / appearance, show"
                 },
                 {
                   "word": "di",
@@ -7045,9 +7045,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "smanio",
-                  "lemma": "smanio",
+                  "lemma": "smaniare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of smaniare"
                 },
                 {
                   "word": "dal",
@@ -7058,8 +7058,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "furore",
                   "lemma": "furore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fury, violence / frenzy"
                 }
               ]
             },
@@ -7144,8 +7144,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "furore",
                   "lemma": "furore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fury, violence / frenzy"
                 }
               ]
             },
@@ -7169,8 +7169,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "gliela",
                   "lemma": "gliela",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "pronoun",
+                  "meaning": "it to him, her or them"
                 },
                 {
                   "word": "fa",
@@ -7199,9 +7199,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "smanio",
-                  "lemma": "smanio",
+                  "lemma": "smaniare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of smaniare"
                 },
                 {
                   "word": "dal",
@@ -7212,8 +7212,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "furore",
                   "lemma": "furore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fury, violence / frenzy"
                 }
               ]
             },
@@ -7280,14 +7280,14 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "sdegno",
                   "lemma": "sdegno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "indignation, resentment / enmity, animosity"
                 },
                 {
                   "word": "calmate",
-                  "lemma": "calmate",
+                  "lemma": "calmare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -7310,9 +7310,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "figliuola",
-                  "lemma": "figliuola",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "figliuolo",
+                  "pos": "noun",
+                  "meaning": "female equivalent of figliuolo"
                 }
               ]
             },
@@ -7335,9 +7335,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "abbracciate",
-                  "lemma": "abbracciate",
+                  "lemma": "abbracciare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative/subjunctive / second-person plural imperative"
                 }
               ]
             },
@@ -7406,9 +7406,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "BARTOLO",
-                  "lemma": "bartolo",
+                  "lemma": "Bartolo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Doctor Bartolo"
                 },
                 {
                   "word": "IL",
@@ -7420,19 +7420,19 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "CONTE",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 },
                 {
                   "word": "DON",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "CURZIO",
-                  "lemma": "curzio",
+                  "lemma": "Curzio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Curzio (judge)"
                 },
                 {
                   "word": "e",
@@ -7442,9 +7442,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "MARCELLINA",
-                  "lemma": "marcellina",
+                  "lemma": "Marcellina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Marcellina (housekeeper)"
                 }
               ]
             },
@@ -7608,9 +7608,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "BARTOLO",
-                  "lemma": "bartolo",
+                  "lemma": "Bartolo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Doctor Bartolo"
                 },
                 {
                   "word": "IL",
@@ -7622,19 +7622,19 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "CONTE",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 },
                 {
                   "word": "DON",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "CURZIO",
-                  "lemma": "curzio",
+                  "lemma": "Curzio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Curzio (judge)"
                 },
                 {
                   "word": "e",
@@ -7644,9 +7644,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "MARCELLINA",
-                  "lemma": "marcellina",
+                  "lemma": "Marcellina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Marcellina (housekeeper)"
                 }
               ]
             },
@@ -7789,15 +7789,15 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "MARCELLINA",
-                  "lemma": "marcellina",
+                  "lemma": "Marcellina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Marcellina (housekeeper)"
                 },
                 {
                   "word": "BARTOLO",
-                  "lemma": "bartolo",
+                  "lemma": "Bartolo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Doctor Bartolo"
                 },
                 {
                   "word": "e",
@@ -7807,9 +7807,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "FIGARO",
-                  "lemma": "figaro",
+                  "lemma": "Figaro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Figaro (valet to Count Almaviva)"
                 }
               ]
             },
@@ -7870,7 +7870,7 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
@@ -7895,9 +7895,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "resister",
-                  "lemma": "resister",
+                  "lemma": "resistere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to resist / to withstand"
                 },
                 {
                   "word": "or",
@@ -7922,13 +7922,13 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "DON",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "CURZIO",
-                  "lemma": "curzio",
+                  "lemma": "Curzio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Curzio (judge)"
                 },
                 {
                   "word": "ed",
@@ -7946,7 +7946,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "CONTE",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 }
               ]
             },
@@ -7964,14 +7964,14 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "fiero",
                   "lemma": "fiero",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "fierce, specifically: / cruel, merciless"
                 },
                 {
                   "word": "tormento",
                   "lemma": "tormento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "torment / agony"
                 }
               ]
             },
@@ -8007,15 +8007,15 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "quell",
-                  "lemma": "quell'",
+                  "lemma": "quell",
                   "pos": "noun",
                   "meaning": "that"
                 },
                 {
-                  "word": "/quest",
-                  "lemma": "/quest",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "quest",
+                  "lemma": "quest",
+                  "pos": "noun",
+                  "meaning": "quest"
                 },
                 {
                   "word": "anima",
@@ -8038,9 +8038,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "resister",
-                  "lemma": "resister",
+                  "lemma": "resistere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to resist / to withstand"
                 },
                 {
                   "word": "or",
@@ -8081,8 +8081,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "Eccovi",
                   "lemma": "eccovi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "compound of ecco with vi"
                 },
                 {
                   "word": "oh",
@@ -8117,8 +8117,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "frutto",
                   "lemma": "frutto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fruit / fruit"
                 }
               ]
             },
@@ -8129,7 +8129,7 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
@@ -8211,9 +8211,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "rimoti",
-                  "lemma": "rimoti",
+                  "lemma": "rimare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of rimare (ti: thee / you)"
                 },
                 {
                   "word": "egli",
@@ -8292,8 +8292,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "nozze",
                   "lemma": "nozze",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "wedding"
                 },
                 {
                   "word": "farem",
@@ -8340,9 +8340,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "doppie",
-                  "lemma": "doppie",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "doppio",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of doppio"
                 },
                 {
                   "word": "saranno",
@@ -8402,9 +8402,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "danar",
-                  "lemma": "danar",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "danaro",
+                  "pos": "noun",
+                  "meaning": "alternative form of denaro (“money”)"
                 },
                 {
                   "word": "che",
@@ -8451,8 +8451,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "dote",
                   "lemma": "dote",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "dowry, dower / gift, talent"
                 }
               ]
             }
@@ -8543,15 +8543,15 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Bravi",
-                  "lemma": "bravi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "bravo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of bravo"
                 },
                 {
                   "word": "gittate",
-                  "lemma": "gittate",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "gittata",
+                  "pos": "noun",
+                  "meaning": "plural of gittata"
                 },
                 {
                   "word": "pur",
@@ -8561,7 +8561,7 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -8580,8 +8580,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "ognora",
                   "lemma": "ognora",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "always, continually"
                 }
               ]
             }
@@ -8598,9 +8598,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Voliamo",
-                  "lemma": "voliamo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "volare",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "ad",
@@ -8610,13 +8610,13 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "informar",
-                  "lemma": "informar",
+                  "lemma": "informare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to inform, tell, report, notify"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -8642,8 +8642,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "madama",
                   "lemma": "madama",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "madam / lady (Madama Butterfly)"
                 },
                 {
                   "word": "e",
@@ -8702,9 +8702,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "contenta",
-                  "lemma": "contenta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "contento",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of contento"
                 }
               ]
             },
@@ -8715,15 +8715,15 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "FIGARO",
-                  "lemma": "figaro",
+                  "lemma": "Figaro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Figaro (valet to Count Almaviva)"
                 },
                 {
                   "word": "BARTOLO",
-                  "lemma": "bartolo",
+                  "lemma": "Bartolo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Doctor Bartolo"
                 },
                 {
                   "word": "e",
@@ -8733,9 +8733,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "MARCELLINA",
-                  "lemma": "marcellina",
+                  "lemma": "Marcellina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Marcellina (housekeeper)"
                 }
               ]
             },
@@ -8765,15 +8765,15 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "MARCELLINA",
-                  "lemma": "marcellina",
+                  "lemma": "Marcellina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Marcellina (housekeeper)"
                 },
                 {
                   "word": "BARTOLO",
-                  "lemma": "bartolo",
+                  "lemma": "Bartolo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Doctor Bartolo"
                 },
                 {
                   "word": "e",
@@ -8783,9 +8783,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "FIGARO",
-                  "lemma": "figaro",
+                  "lemma": "Figaro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Figaro (valet to Count Almaviva)"
                 }
               ]
             },
@@ -8802,9 +8802,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "schiatti",
-                  "lemma": "schiatti",
+                  "lemma": "schiattare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "il",
@@ -8822,7 +8822,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Conte",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 },
                 {
                   "word": "al",
@@ -8923,9 +8923,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "ritroverai",
-                  "lemma": "ritroverai",
+                  "lemma": "ritrovare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular future of ritrovare"
                 }
               ]
             },
@@ -8967,8 +8967,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "castello",
                   "lemma": "castello",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "castle / castello"
                 }
               ]
             },
@@ -9060,7 +9060,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Conte",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 },
                 {
                   "word": "mi",
@@ -9121,8 +9121,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "partito",
                   "lemma": "partito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "party per pale; divided into two equal parts vertically"
                 },
                 {
                   "word": "ei",
@@ -9152,7 +9152,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Siviglia",
                   "lemma": "siviglia",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Seville / Seville"
                 }
               ]
             }
@@ -9188,8 +9188,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "maraviglia",
                   "lemma": "maraviglia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of meraviglia"
                 },
                 {
                   "word": "e",
@@ -9243,8 +9243,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "nuova",
                   "lemma": "nuova",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "news"
                 }
               ]
             },
@@ -9269,7 +9269,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "vestirti",
                   "lemma": "vestirti",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive vestire with ti"
                 },
                 {
                   "word": "come",
@@ -9304,9 +9304,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "andrem",
-                  "lemma": "andrem",
+                  "lemma": "andare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural future of andare"
                 },
                 {
                   "word": "poi",
@@ -9329,15 +9329,15 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "presentar",
-                  "lemma": "presentar",
+                  "lemma": "presentare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to present / to introduce"
                 },
                 {
                   "word": "de",
                   "lemma": "de",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "alternative form of di"
                 },
                 {
                   "word": "fiori",
@@ -9354,8 +9354,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "madamina",
                   "lemma": "madamina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "madamina"
                 }
               ]
             },
@@ -9366,9 +9366,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "fidati",
-                  "lemma": "fidati",
+                  "lemma": "fidato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "masculine plural of fidato"
                 },
                 {
                   "word": "oh",
@@ -9378,9 +9378,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "Cherubin",
-                  "lemma": "cherubin",
+                  "lemma": "cherubino",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "cherub"
                 },
                 {
                   "word": "di",
@@ -9390,9 +9390,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "Barbarina",
-                  "lemma": "barbarina",
+                  "lemma": "Barbarina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Barbarina (Antonio's daughter)"
                 }
               ]
             }
@@ -9450,9 +9450,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "ansiosa",
-                  "lemma": "ansiosa",
+                  "lemma": "ansioso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "feminine singular of ansioso"
                 }
               ]
             },
@@ -9489,7 +9489,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Conte",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 }
               ]
             },
@@ -9500,9 +9500,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "accolse",
-                  "lemma": "accolse",
+                  "lemma": "accogliere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of accogliere"
                 },
                 {
                   "word": "la",
@@ -9513,8 +9513,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "proposta",
                   "lemma": "proposta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "proposal"
                 },
                 {
                   "word": "Alquanto",
@@ -9599,8 +9599,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "vivace",
                   "lemma": "vivace",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "lively, vital, bright / keen, hardheaded"
                 },
                 {
                   "word": "e",
@@ -9641,7 +9641,7 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "c",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
@@ -9653,9 +9653,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "Cangiando",
-                  "lemma": "cangiando",
+                  "lemma": "cangiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of cangiare"
                 },
                 {
                   "word": "i",
@@ -9751,9 +9751,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "favor",
-                  "lemma": "favor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "favore",
+                  "pos": "noun",
+                  "meaning": "favour/favor"
                 },
                 {
                   "word": "della",
@@ -9800,9 +9800,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "umil",
-                  "lemma": "umil",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "umile",
+                  "pos": "adjective",
+                  "meaning": "humble"
                 },
                 {
                   "word": "stato",
@@ -9831,8 +9831,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "ridotta",
                   "lemma": "ridotta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fort, redoubt / set of gears to give a low range; an extra gear for more torque and less speed"
                 }
               ]
             },
@@ -9881,7 +9881,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "avermi",
                   "lemma": "avermi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive avere with mi"
                 }
               ]
             },
@@ -9905,14 +9905,14 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "misto",
                   "lemma": "misto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "mixed"
                 },
                 {
                   "word": "inaudito",
                   "lemma": "inaudito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "unheard-of, unprecedented"
                 }
               ]
             },
@@ -9923,15 +9923,15 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "infedeltà",
                   "lemma": "infedeltà",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "unfaithfulness, faithlessness / unfaithfulness, inaccuracy"
                 },
                 {
                   "word": "di",
@@ -9953,9 +9953,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "sdegni",
-                  "lemma": "sdegni",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sdegno",
+                  "pos": "noun",
+                  "meaning": "plural of sdegno"
                 }
               ]
             },
@@ -9972,15 +9972,15 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "amata",
-                  "lemma": "amata",
+                  "lemma": "amato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of amato"
                 },
                 {
                   "word": "indi",
-                  "lemma": "indi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "indio",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of indio"
                 },
                 {
                   "word": "offesa",
@@ -10002,9 +10002,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "tradita",
-                  "lemma": "tradita",
+                  "lemma": "tradito",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of tradito"
                 }
               ]
             },
@@ -10017,7 +10017,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "fammi",
                   "lemma": "fammi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of fa', the second-person singular imperative form of fare, with mi"
                 },
                 {
                   "word": "or",
@@ -10052,14 +10052,14 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "serva",
                   "lemma": "serva",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "slave / servant, maid"
                 },
                 {
                   "word": "aita",
-                  "lemma": "aita",
+                  "lemma": "aitare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -10152,8 +10152,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "andaro",
                   "lemma": "andaro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "andaro"
                 },
                 {
                   "word": "i",
@@ -10163,9 +10163,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "giuramenti",
-                  "lemma": "giuramenti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "giuramento",
+                  "pos": "noun",
+                  "meaning": "plural of giuramento"
                 }
               ]
             },
@@ -10194,9 +10194,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "menzogner",
-                  "lemma": "menzogner",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "menzognero",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of menzognero"
                 }
               ]
             },
@@ -10231,9 +10231,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "pianti",
-                  "lemma": "pianti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pianto",
+                  "pos": "noun",
+                  "meaning": "plural of pianto"
                 },
                 {
                   "word": "e",
@@ -10250,8 +10250,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "pene",
                   "lemma": "pene",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "penis"
                 }
               ]
             },
@@ -10286,9 +10286,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "cangiò",
-                  "lemma": "cangiò",
+                  "lemma": "cangiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of cangiare"
                 }
               ]
             },
@@ -10306,8 +10306,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "memoria",
                   "lemma": "memoria",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "memory, recall / memory, recollection, remembrance"
                 },
                 {
                   "word": "di",
@@ -10360,9 +10360,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "trapassò",
-                  "lemma": "trapassò",
+                  "lemma": "trapassare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of trapassare"
                 }
               ]
             },
@@ -10386,8 +10386,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "almen",
                   "lemma": "almen",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "apocopic form of almeno"
                 },
                 {
                   "word": "la",
@@ -10404,8 +10404,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "costanza",
                   "lemma": "costanza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "constancy / steadfastness"
                 }
               ]
             },
@@ -10424,19 +10424,19 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "languire",
                   "lemma": "languire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to languish / to pine"
                 },
                 {
                   "word": "amando",
-                  "lemma": "amando",
+                  "lemma": "amare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of amare"
                 },
                 {
                   "word": "ognor",
-                  "lemma": "ognor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ognora",
+                  "pos": "adverb",
+                  "meaning": "always / ever"
                 }
               ]
             },
@@ -10453,9 +10453,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "portasse",
-                  "lemma": "portasse",
+                  "lemma": "portare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect subjunctive of portare"
                 },
                 {
                   "word": "una",
@@ -10486,7 +10486,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "cangiar",
                   "lemma": "cangiar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of cangiare"
                 },
                 {
                   "word": "l",
@@ -10497,8 +10497,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "ingrato",
                   "lemma": "ingrato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "ungrateful, ingrate / thankless, unrewarding, unpleasant, difficult"
                 },
                 {
                   "word": "cor",
@@ -10563,9 +10563,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "Cherubino",
-                  "lemma": "cherubino",
+                  "lemma": "Cherubino",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Cherubino (the Count's page)"
                 }
               ]
             },
@@ -10595,8 +10595,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "castello",
                   "lemma": "castello",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "castle / castello"
                 }
               ]
             },
@@ -10686,7 +10686,7 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
@@ -10712,8 +10712,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "giunto",
                   "lemma": "giunto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "joint, link, connection"
                 },
                 {
                   "word": "a",
@@ -10725,7 +10725,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Siviglia",
                   "lemma": "siviglia",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Seville / Seville"
                 },
                 {
                   "word": "egli",
@@ -10735,9 +10735,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "dovria",
-                  "lemma": "dovria",
+                  "lemma": "dovere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "should / ought to (poetic conditional)"
                 }
               ]
             }
@@ -10754,9 +10754,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Scusate",
-                  "lemma": "scusate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "scusare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "oggi",
@@ -10768,7 +10768,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Siviglia",
                   "lemma": "siviglia",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Seville / Seville"
                 },
                 {
                   "word": "è",
@@ -10809,9 +10809,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "vestissi",
-                  "lemma": "vestissi",
+                  "lemma": "vestire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second-person singular imperfect subjunctive of vestire"
                 },
                 {
                   "word": "da",
@@ -10859,8 +10859,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "gl'altri",
                   "lemma": "gl'altri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "gl'altri"
                 },
                 {
                   "word": "abiti",
@@ -10889,9 +10889,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Perfidi",
-                  "lemma": "perfidi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "perfido",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of perfido"
                 }
               ]
             }
@@ -10974,9 +10974,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "narri",
-                  "lemma": "narri",
+                  "lemma": "narrare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "e",
@@ -11012,7 +11012,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Conte",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 }
               ]
             }
@@ -11042,9 +11042,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "leggeva",
-                  "lemma": "leggeva",
+                  "lemma": "leggere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect indicative of leggere"
                 },
                 {
                   "word": "in",
@@ -11074,8 +11074,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "dispetto",
                   "lemma": "dispetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "scornful"
                 },
                 {
                   "word": "e",
@@ -11092,8 +11092,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "rabbia",
                   "lemma": "rabbia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "anger, chafe / rabies"
                 }
               ]
             }
@@ -11140,9 +11140,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "porremo",
-                  "lemma": "porremo",
+                  "lemma": "porre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural future of porre"
                 },
                 {
                   "word": "in",
@@ -11153,8 +11153,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "gabbia",
                   "lemma": "gabbia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "cage, hutch / clink"
                 }
               ]
             },
@@ -11208,9 +11208,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "proponesti",
-                  "lemma": "proponesti",
+                  "lemma": "proporre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular past historic of proporre"
                 }
               ]
             }
@@ -11252,9 +11252,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Fissiamgli",
-                  "lemma": "fissiamgli",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "fissare",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative (gli: to him)"
                 },
                 {
                   "word": "un",
@@ -11270,9 +11270,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "Scrivi",
-                  "lemma": "scrivi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "scrivere",
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -11289,7 +11289,7 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -11301,9 +11301,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "scriva",
-                  "lemma": "scriva",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "scrivere",
+                  "pos": "verb",
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "ma",
@@ -11338,9 +11338,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "scrivi",
-                  "lemma": "scrivi",
+                  "lemma": "scrivere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "dico",
@@ -11408,7 +11408,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Canzonetta",
                   "lemma": "canzonetta",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "little song / canzonetta"
                 },
                 {
                   "word": "sull",
@@ -11479,8 +11479,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "zeffiretto",
                   "lemma": "zeffiretto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "gentle breeze / little zephyr"
                 }
               ],
               "grammarNote": "'Zeffiretto' is a gentle zephyr/breeze. Dictating the letter in the pine grove."
@@ -11500,7 +11500,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Zeffiretto",
                   "lemma": "zeffiretto",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "gentle breeze / little zephyr"
                 }
               ]
             }
@@ -11529,9 +11529,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "spirerà",
-                  "lemma": "spirerà",
+                  "lemma": "spirare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "will blow / breathe"
                 }
               ]
             }
@@ -11560,9 +11560,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "spirerà",
-                  "lemma": "spirerà",
+                  "lemma": "spirare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "will blow / breathe"
                 }
               ]
             }
@@ -11591,9 +11591,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "pini",
-                  "lemma": "pini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pino",
+                  "pos": "noun",
+                  "meaning": "pines / pine trees"
                 },
                 {
                   "word": "del",
@@ -11604,8 +11604,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "boschetto",
                   "lemma": "boschetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "grove / thicket / small wood"
                 }
               ]
             }
@@ -11634,9 +11634,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "pini",
-                  "lemma": "pini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pino",
+                  "pos": "noun",
+                  "meaning": "pines / pine trees"
                 }
               ]
             }
@@ -11665,9 +11665,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "pini",
-                  "lemma": "pini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pino",
+                  "pos": "noun",
+                  "meaning": "pines / pine trees"
                 },
                 {
                   "word": "del",
@@ -11678,8 +11678,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "boschetto",
                   "lemma": "boschetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "grove / thicket / small wood"
                 }
               ]
             }
@@ -11708,15 +11708,15 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "pini...del",
-                  "lemma": "pini...del",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pino",
+                  "pos": "noun",
+                  "meaning": "pines...of the (del: of the)"
                 },
                 {
                   "word": "boschetto",
                   "lemma": "boschetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "grove / thicket / small wood"
                 }
               ]
             }
@@ -11757,9 +11757,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "capirà",
-                  "lemma": "capirà",
+                  "lemma": "capire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of capire"
                 }
               ]
             }
@@ -11794,9 +11794,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "capirà",
-                  "lemma": "capirà",
+                  "lemma": "capire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of capire"
                 }
               ]
             }
@@ -11813,9 +11813,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Piegato",
-                  "lemma": "piegato",
+                  "lemma": "piegare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of piegare"
                 },
                 {
                   "word": "è",
@@ -11855,9 +11855,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "sigilla",
-                  "lemma": "sigilla",
+                  "lemma": "sigillare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -11895,8 +11895,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "spilla",
                   "lemma": "spilla",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "brooch, broach, breastpin / scarfpin"
                 }
               ]
             },
@@ -11907,9 +11907,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Servirà",
-                  "lemma": "servirà",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "servire",
+                  "pos": "verb",
+                  "meaning": "third-person singular future of servire"
                 },
                 {
                   "word": "di",
@@ -11920,14 +11920,14 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "sigillo",
                   "lemma": "sigillo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "seal"
                 },
                 {
                   "word": "Attendi...scrivi",
-                  "lemma": "attendi...scrivi",
+                  "lemma": "Attendi...scrivi",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Attendi...scrivi"
                 }
               ]
             },
@@ -11945,8 +11945,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "riverso",
                   "lemma": "riverso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "synonym of rovescio"
                 },
                 {
                   "word": "del",
@@ -11969,9 +11969,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Rimandate",
-                  "lemma": "rimandate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "rimandare",
+                  "pos": "verb",
+                  "meaning": "send back / return"
                 },
                 {
                   "word": "il",
@@ -11982,8 +11982,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "sigillo",
                   "lemma": "sigillo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "seal"
                 }
               ]
             }
@@ -12046,8 +12046,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "patente",
                   "lemma": "patente",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "obvious"
                 }
               ]
             }
@@ -12070,9 +12070,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "nascondi",
-                  "lemma": "nascondi",
+                  "lemma": "nascondere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "io",
@@ -12124,9 +12124,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Ricevete",
-                  "lemma": "ricevete",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ricevere",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "oh",
@@ -12137,8 +12137,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "padroncina",
                   "lemma": "padroncina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "padroncina"
                 }
               ]
             },
@@ -12194,19 +12194,19 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "abbiam",
                   "lemma": "abbiam",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of abbiamo"
                 },
                 {
                   "word": "colti",
-                  "lemma": "colti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "colto",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of colto"
                 },
                 {
                   "word": "stamattina",
                   "lemma": "stamattina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "this morning"
                 }
               ]
             },
@@ -12225,7 +12225,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "mostrarvi",
                   "lemma": "mostrarvi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive mostrare with vi"
                 },
                 {
                   "word": "il",
@@ -12297,9 +12297,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "poverine",
-                  "lemma": "poverine",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "poverina",
+                  "pos": "noun",
+                  "meaning": "plural of poverina"
                 }
               ]
             },
@@ -12334,9 +12334,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "rechiamo",
-                  "lemma": "rechiamo",
+                  "lemma": "recare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 }
               ]
             },
@@ -12359,9 +12359,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "diamo",
-                  "lemma": "diamo",
+                  "lemma": "dare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "di",
@@ -12410,8 +12410,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "madama",
                   "lemma": "madama",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "madam / lady (Madama Butterfly)"
                 }
               ]
             },
@@ -12471,7 +12471,7 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -12503,7 +12503,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "offrire",
                   "lemma": "offrire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to offer, treat"
                 }
               ]
             },
@@ -12526,9 +12526,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "chiedon",
-                  "lemma": "chiedon",
+                  "lemma": "chiedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of chiedere"
                 },
                 {
                   "word": "perdon",
@@ -12575,9 +12575,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "brave",
-                  "lemma": "brave",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bravo",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of bravo"
                 },
                 {
                   "word": "vi",
@@ -12618,9 +12618,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "vezzose",
-                  "lemma": "vezzose",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vezzoso",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of vezzoso"
                 }
               ]
             }
@@ -12655,9 +12655,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "narratemi",
-                  "lemma": "narratemi",
+                  "lemma": "narrare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative (mi: me)"
                 }
               ]
             },
@@ -12668,15 +12668,15 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "quell",
-                  "lemma": "quell'",
+                  "lemma": "quell",
                   "pos": "noun",
                   "meaning": "that"
                 },
                 {
                   "word": "amabil",
-                  "lemma": "amabil",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "amabile",
+                  "pos": "adjective",
+                  "meaning": "amiable, pleasant / sweet"
                 },
                 {
                   "word": "fanciulla",
@@ -12693,7 +12693,7 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -12723,9 +12723,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "modesta",
-                  "lemma": "modesta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "modesto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of modesto"
                 }
               ]
             }
@@ -12754,9 +12754,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "cugina",
-                  "lemma": "cugina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "cugino",
+                  "pos": "noun",
+                  "meaning": "female equivalent of cugino , female cousin"
                 },
                 {
                   "word": "e",
@@ -12779,8 +12779,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "nozze",
                   "lemma": "nozze",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "wedding"
                 }
               ]
             },
@@ -12797,9 +12797,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "venuta",
-                  "lemma": "venuta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "venuto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of venuto"
                 },
                 {
                   "word": "ier",
@@ -12828,9 +12828,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Onoriamo",
-                  "lemma": "onoriamo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "onorare",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "la",
@@ -12846,9 +12846,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "forestiera",
-                  "lemma": "forestiera",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "forestiero",
+                  "pos": "noun",
+                  "meaning": "female equivalent of forestiero"
                 }
               ]
             },
@@ -12873,7 +12873,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "datemi",
                   "lemma": "datemi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of date, the second-person plural imperative form of dare, with mi"
                 },
                 {
                   "word": "i",
@@ -12908,9 +12908,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "arrossì",
-                  "lemma": "arrossì",
+                  "lemma": "arrossire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of arrossire"
                 },
                 {
                   "word": "Susanna",
@@ -12957,9 +12957,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "somigli",
-                  "lemma": "somigli",
+                  "lemma": "somigliare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "ad",
@@ -12998,7 +12998,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "naturale",
                   "lemma": "naturale",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "natural / still"
                 }
               ]
             }
@@ -13030,9 +13030,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "Cospettaccio",
-                  "lemma": "cospettaccio",
+                  "lemma": "Cospettaccio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Cospettaccio"
                 },
                 {
                   "word": "È",
@@ -13055,8 +13055,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "uffiziale",
                   "lemma": "uffiziale",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "uffiziale"
                 }
               ]
             }
@@ -13124,8 +13124,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "madama",
                   "lemma": "madama",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "madam / lady (Madama Butterfly)"
                 }
               ]
             }
@@ -13179,9 +13179,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "irritata",
-                  "lemma": "irritata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "irritato",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of irritato"
                 },
                 {
                   "word": "e",
@@ -13191,9 +13191,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "sorpresa",
-                  "lemma": "sorpresa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sorpreso",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of sorpreso"
                 },
                 {
                   "word": "al",
@@ -13241,8 +13241,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "stamane",
                   "lemma": "stamane",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "alternative form of stamani"
                 }
               ]
             }
@@ -13260,8 +13260,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "Stamane",
                   "lemma": "stamane",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "alternative form of stamani"
                 }
               ]
             },
@@ -13284,9 +13284,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "odierna",
-                  "lemma": "odierna",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "odierno",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of odierno"
                 },
                 {
                   "word": "festa",
@@ -13304,14 +13304,14 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "volevam",
                   "lemma": "volevam",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "volevam"
                 },
                 {
                   "word": "travestirlo",
-                  "lemma": "travestirlo",
+                  "lemma": "travestire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to disguise / to dress up (lo: him / it)"
                 },
                 {
                   "word": "al",
@@ -13359,8 +13359,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "vestito",
                   "lemma": "vestito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "dressed, clothed"
                 },
                 {
                   "word": "adesso",
@@ -13401,9 +13401,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "partiste",
-                  "lemma": "partiste",
+                  "lemma": "partire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural past historic / second-person plural imperfect subjunctive"
                 }
               ]
             }
@@ -13441,15 +13441,15 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Saprò",
-                  "lemma": "saprò",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "sapere",
+                  "pos": "verb",
+                  "meaning": "first-person singular future of sapere"
                 },
                 {
                   "word": "punire",
                   "lemma": "punire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to punish"
                 }
               ]
             },
@@ -13473,8 +13473,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "ubbidienza",
                   "lemma": "ubbidienza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of obbedienza"
                 }
               ]
             }
@@ -13493,13 +13493,13 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Eccellenza",
                   "lemma": "eccellenza",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "excellence, greatness, pre-eminence / Excellence"
                 },
                 {
                   "word": "Eccellenza",
                   "lemma": "eccellenza",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "excellence, greatness, pre-eminence / Excellence"
                 }
               ]
             },
@@ -13559,15 +13559,15 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
                   "word": "abbracciate",
-                  "lemma": "abbracciate",
+                  "lemma": "abbracciare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative/subjunctive / second-person plural imperative"
                 },
                 {
                   "word": "e",
@@ -13583,9 +13583,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "baciate",
-                  "lemma": "baciate",
+                  "lemma": "baciare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative/subjunctive / second-person plural imperative"
                 }
               ]
             },
@@ -13596,9 +13596,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Barbarina",
-                  "lemma": "barbarina",
+                  "lemma": "Barbarina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Barbarina (Antonio's daughter)"
                 },
                 {
                   "word": "se",
@@ -13608,7 +13608,7 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -13633,9 +13633,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "darò",
-                  "lemma": "darò",
+                  "lemma": "dare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of dare"
                 },
                 {
                   "word": "quel",
@@ -13651,9 +13651,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "brami",
-                  "lemma": "brami",
+                  "lemma": "bramare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             }
@@ -13722,7 +13722,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "datemi",
                   "lemma": "datemi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of date, the second-person plural imperative form of dare, with mi"
                 },
                 {
                   "word": "padrone",
@@ -13751,9 +13751,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "Cherubino",
-                  "lemma": "cherubino",
+                  "lemma": "Cherubino",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Cherubino (the Count's page)"
                 }
               ]
             },
@@ -13770,21 +13770,21 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
                 {
                   "word": "amerò",
-                  "lemma": "amerò",
+                  "lemma": "amare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of amare"
                 },
                 {
                   "word": "com'amo",
                   "lemma": "com'amo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "com'amo"
                 },
                 {
                   "word": "il",
@@ -13800,9 +13800,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "gattino",
-                  "lemma": "gattino",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "gatto",
+                  "pos": "noun",
+                  "meaning": "diminutive of gatto / kitten"
                 }
               ]
             }
@@ -13870,9 +13870,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "figliuola",
-                  "lemma": "figliuola",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "figliuolo",
+                  "pos": "noun",
+                  "meaning": "female equivalent of figliuolo"
                 }
               ]
             },
@@ -13896,8 +13896,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "maestro",
                   "lemma": "maestro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "teacher / master"
                 },
                 {
                   "word": "che",
@@ -13920,8 +13920,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "scuola",
                   "lemma": "scuola",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "school / class, lesson"
                 }
               ]
             }
@@ -13969,8 +13969,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "demone",
                   "lemma": "demone",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "demon"
                 },
                 {
                   "word": "qual",
@@ -13993,9 +13993,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "rivolga",
-                  "lemma": "rivolga",
+                  "lemma": "rivolgere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "tutto",
@@ -14063,9 +14063,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "trattenete",
-                  "lemma": "trattenete",
+                  "lemma": "trattenere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -14151,9 +14151,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "vorresti",
-                  "lemma": "vorresti",
+                  "lemma": "volere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular conditional of volere"
                 }
               ]
             },
@@ -14164,9 +14164,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "ballar",
-                  "lemma": "ballar",
+                  "lemma": "ballare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to dance / to fidget"
                 },
                 {
                   "word": "col",
@@ -14177,14 +14177,14 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "pié",
                   "lemma": "pié",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pié"
                 },
                 {
                   "word": "stravolto",
-                  "lemma": "stravolto",
+                  "lemma": "stravolgere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of stravolgere"
                 }
               ]
             }
@@ -14219,9 +14219,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "duol",
-                  "lemma": "duol",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "duolo",
+                  "pos": "noun",
+                  "meaning": "sorrow / grief / pain"
                 },
                 {
                   "word": "più",
@@ -14256,9 +14256,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "fanciulle",
-                  "lemma": "fanciulle",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fanciulla",
+                  "pos": "noun",
+                  "meaning": "plural of fanciulla"
                 }
               ]
             }
@@ -14289,21 +14289,21 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "caverà",
-                  "lemma": "caverà",
+                  "lemma": "cavare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of cavare"
                 },
                 {
                   "word": "dall",
-                  "lemma": "dall'",
+                  "lemma": "dall",
                   "pos": "noun",
                   "meaning": "from-the"
                 },
                 {
                   "word": "imbarazzo",
                   "lemma": "imbarazzo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "obstacle, trouble, difficulty / embarrassment, awkwardness"
                 }
               ]
             }
@@ -14392,9 +14392,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "vasi",
-                  "lemma": "vasi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vaso",
+                  "pos": "noun",
+                  "meaning": "plural of vaso"
                 },
                 {
                   "word": "eran",
@@ -14411,8 +14411,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "creta",
                   "lemma": "creta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Crete"
                 }
               ]
             }
@@ -14498,8 +14498,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "cavallo",
                   "lemma": "cavallo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "horse / horsepower"
                 }
               ]
             },
@@ -14530,7 +14530,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Siviglia",
                   "lemma": "siviglia",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Seville / Seville"
                 },
                 {
                   "word": "andava",
@@ -14602,8 +14602,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "viaggio",
                   "lemma": "viaggio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "journey, trip, tour, voyage / travels, travel, travelling/traveling"
                 }
               ]
             },
@@ -14632,9 +14632,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "giovani",
-                  "lemma": "giovani",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "giovane",
+                  "pos": "adjective",
+                  "meaning": "plural of giovane"
                 }
               ]
             }
@@ -14682,8 +14682,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "patente",
                   "lemma": "patente",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "obvious"
                 }
               ]
             },
@@ -14712,9 +14712,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "rimasta",
-                  "lemma": "rimasta",
+                  "lemma": "rimasto",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of rimasto"
                 }
               ]
             }
@@ -14733,7 +14733,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Certamente",
                   "lemma": "certamente",
                   "pos": "adverb",
-                  "meaning": ""
+                  "meaning": "certainly, definitely, surely, of course"
                 }
               ]
             },
@@ -14762,9 +14762,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "domande",
-                  "lemma": "domande",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "domanda",
+                  "pos": "noun",
+                  "meaning": "plural of domanda"
                 }
               ]
             }
@@ -14811,9 +14811,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "motti",
-                  "lemma": "motti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "motto",
+                  "pos": "noun",
+                  "meaning": "plural of motto"
                 },
                 {
                   "word": "ei",
@@ -14829,7 +14829,7 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -14866,9 +14866,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "pretende",
-                  "lemma": "pretende",
+                  "lemma": "pretendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of pretendere"
                 }
               ]
             },
@@ -14922,8 +14922,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "nipote",
                   "lemma": "nipote",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "grandchild, grandson, granddaughter / nephew, niece, nibling"
                 }
               ]
             }
@@ -14942,9 +14942,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Cherubino",
-                  "lemma": "cherubino",
+                  "lemma": "Cherubino",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Cherubino (the Count's page)"
                 }
               ]
             }
@@ -14998,9 +14998,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "diamin",
-                  "lemma": "diamin",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "diamine",
+                  "pos": "interjection",
+                  "meaning": "an expression of wonder, impatience or irritation"
                 },
                 {
                   "word": "canta",
@@ -15062,7 +15062,7 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -15074,15 +15074,15 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "saltò",
-                  "lemma": "saltò",
+                  "lemma": "saltare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of saltare"
                 },
                 {
                   "word": "stamane",
                   "lemma": "stamane",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "alternative form of stamani"
                 },
                 {
                   "word": "sui",
@@ -15092,9 +15092,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "garofani",
-                  "lemma": "garofani",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "garofano",
+                  "pos": "noun",
+                  "meaning": "plural of garofano"
                 }
               ]
             }
@@ -15148,8 +15148,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "saltato",
                   "lemma": "saltato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "browned, sautéed"
                 },
                 {
                   "word": "io",
@@ -15184,15 +15184,15 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
                 {
                   "word": "anch'esso",
                   "lemma": "anch'esso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "particle",
+                  "meaning": "contraction of anche + esso, literally “it as well”"
                 }
               ]
             },
@@ -15241,8 +15241,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "Anch'esso",
                   "lemma": "anch'esso",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "particle",
+                  "meaning": "contraction of anche + esso, literally “it as well”"
                 }
               ]
             }
@@ -15290,9 +15290,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "impugno",
-                  "lemma": "impugno",
+                  "lemma": "impugnare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of impugnare"
                 },
                 {
                   "word": "mai",
@@ -15485,9 +15485,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Temerari",
-                  "lemma": "temerari",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "temerario",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of temerario"
                 }
               ]
             }
@@ -15543,7 +15543,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Contessa",
                   "lemma": "contessa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Countess (Countess Almaviva / Rosina)"
                 }
               ]
             }
@@ -15610,8 +15610,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "nozze",
                   "lemma": "nozze",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "wedding"
                 }
               ]
             },
@@ -15624,7 +15624,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "riceverle",
                   "lemma": "riceverle",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive ricevere with le"
                 },
                 {
                   "word": "dobbiam",
@@ -15659,7 +15659,7 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -15677,9 +15677,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "protetta",
-                  "lemma": "protetta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "protetto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of protetto"
                 }
               ]
             },
@@ -15690,9 +15690,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Seggiamo",
-                  "lemma": "seggiamo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "sedere",
+                  "pos": "verb",
+                  "meaning": "obsolete form of sediamo / obsolete form of sediamo"
                 }
               ]
             }
@@ -15709,9 +15709,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "Seggiamo",
-                  "lemma": "seggiamo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "sedere",
+                  "pos": "verb",
+                  "meaning": "obsolete form of sediamo / obsolete form of sediamo"
                 },
                 {
                   "word": "e",
@@ -15721,9 +15721,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "meditiam",
-                  "lemma": "meditiam",
+                  "lemma": "meditare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "vendetta",
@@ -15763,9 +15763,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "costanti",
-                  "lemma": "costanti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "costante",
+                  "pos": "adjective",
+                  "meaning": "plural of costante"
                 }
               ]
             },
@@ -15776,13 +15776,13 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "seguaci",
-                  "lemma": "seguaci",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "seguace",
+                  "pos": "noun",
+                  "meaning": "plural of seguace"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -15807,9 +15807,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "lodate",
-                  "lemma": "lodate",
+                  "lemma": "lodare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -15827,8 +15827,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "saggio",
                   "lemma": "saggio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "wise / expert, skilled"
                 },
                 {
                   "word": "signor",
@@ -15863,9 +15863,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "cedendo",
-                  "lemma": "cedendo",
+                  "lemma": "cedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of cedere"
                 }
               ]
             },
@@ -15894,9 +15894,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "offende",
-                  "lemma": "offende",
+                  "lemma": "offendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of offendere"
                 }
               ]
             },
@@ -15913,9 +15913,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "caste",
-                  "lemma": "caste",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "casto",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of casto"
                 },
                 {
                   "word": "vi",
@@ -15925,9 +15925,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "rende",
-                  "lemma": "rende",
+                  "lemma": "rendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of rendere"
                 }
               ]
             },
@@ -15975,9 +15975,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "lodiamo",
-                  "lemma": "lodiamo",
+                  "lemma": "lodare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 }
               ]
             },
@@ -15995,8 +15995,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "saggio",
                   "lemma": "saggio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "wise / expert, skilled"
                 },
                 {
                   "word": "signor",
@@ -16039,15 +16039,15 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "solita",
-                  "lemma": "solita",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "solito",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of solito"
                 },
                 {
                   "word": "usanza",
                   "lemma": "usanza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "custom, tradition,  ways / habit, custom"
                 }
               ]
             },
@@ -16070,9 +16070,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "ficcan",
-                  "lemma": "ficcan",
+                  "lemma": "ficcare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of ficcare"
                 },
                 {
                   "word": "gli",
@@ -16082,9 +16082,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "aghi",
-                  "lemma": "aghi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ago",
+                  "pos": "noun",
+                  "meaning": "plural of ago"
                 },
                 {
                   "word": "in",
@@ -16172,7 +16172,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "amoroso",
                   "lemma": "amoroso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "amorous, loving"
                 }
               ]
             },
@@ -16245,13 +16245,13 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "sigillato",
-                  "lemma": "sigillato",
+                  "lemma": "sigillare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of sigillare"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -16264,8 +16264,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "spilla",
                   "lemma": "spilla",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "brooch, broach, breastpin / scarfpin"
                 }
               ]
             },
@@ -16277,8 +16277,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "ond'ei",
                   "lemma": "ond'ei",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "ond'ei"
                 },
                 {
                   "word": "si",
@@ -16288,9 +16288,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "punse",
-                  "lemma": "punse",
+                  "lemma": "pungere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of pungere"
                 },
                 {
                   "word": "il",
@@ -16321,7 +16321,7 @@ export const nozzeDiFigaroAct3: Act = {
                   "word": "Narciso",
                   "lemma": "narciso",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "daffodil, daff, narcissus / narcissist"
                 },
                 {
                   "word": "or",
@@ -16356,8 +16356,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "stordito",
                   "lemma": "stordito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "dazed, stunned"
                 }
               ]
             }
@@ -16425,9 +16425,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "disposto",
-                  "lemma": "disposto",
+                  "lemma": "disporre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of disporre"
                 },
                 {
                   "word": "l",
@@ -16438,14 +16438,14 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "apparato",
                   "lemma": "apparato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "deployment / apparatus"
                 },
                 {
                   "word": "nuziale",
                   "lemma": "nuziale",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "wedding; bridal / nuptial"
                 }
               ]
             },
@@ -16468,9 +16468,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "ricca",
-                  "lemma": "ricca",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ricco",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of ricco / lean"
                 },
                 {
                   "word": "pompa",
@@ -16511,9 +16511,9 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "magnifica",
-                  "lemma": "magnifica",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "magnificare",
+                  "pos": "verb",
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "la",
@@ -16547,9 +16547,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "fuochi",
-                  "lemma": "fuochi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fuoco",
+                  "pos": "noun",
+                  "meaning": "plural of fuoco"
                 }
               ]
             },
@@ -16609,8 +16609,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "impari",
                   "lemma": "impari",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "uneven, unequal / odd"
                 }
               ]
             },
@@ -16622,8 +16622,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "com'io",
                   "lemma": "com'io",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "com'io"
                 },
                 {
                   "word": "tratto",
@@ -16688,9 +16688,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "costanti",
-                  "lemma": "costanti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "costante",
+                  "pos": "adjective",
+                  "meaning": "plural of costante"
                 }
               ]
             },
@@ -16701,13 +16701,13 @@ export const nozzeDiFigaroAct3: Act = {
               "tokens": [
                 {
                   "word": "seguaci",
-                  "lemma": "seguaci",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "seguace",
+                  "pos": "noun",
+                  "meaning": "plural of seguace"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -16732,9 +16732,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "lodate",
-                  "lemma": "lodate",
+                  "lemma": "lodare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -16752,8 +16752,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "saggio",
                   "lemma": "saggio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "wise / expert, skilled"
                 },
                 {
                   "word": "signor",
@@ -16788,9 +16788,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "cedendo",
-                  "lemma": "cedendo",
+                  "lemma": "cedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of cedere"
                 }
               ]
             },
@@ -16819,9 +16819,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "offende",
-                  "lemma": "offende",
+                  "lemma": "offendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of offendere"
                 }
               ]
             },
@@ -16838,9 +16838,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "caste",
-                  "lemma": "caste",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "casto",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of casto"
                 },
                 {
                   "word": "vi",
@@ -16850,9 +16850,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "rende",
-                  "lemma": "rende",
+                  "lemma": "rendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of rendere"
                 }
               ]
             },
@@ -16894,9 +16894,9 @@ export const nozzeDiFigaroAct3: Act = {
                 },
                 {
                   "word": "lodiamo",
-                  "lemma": "lodiamo",
+                  "lemma": "lodare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 }
               ]
             },
@@ -16914,8 +16914,8 @@ export const nozzeDiFigaroAct3: Act = {
                 {
                   "word": "saggio",
                   "lemma": "saggio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "wise / expert, skilled"
                 },
                 {
                   "word": "signor",
@@ -16931,29 +16931,16 @@ export const nozzeDiFigaroAct3: Act = {
               "literal": "<i>Everyone leaves.</i>",
               "tokens": [
                 {
-                  "word": "<i>Tutti",
-                  "lemma": "<i>tutti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "Tutti",
+                  "lemma": "tutti",
+                  "pos": "pronoun",
+                  "meaning": "all; everybody, everyone"
                 },
                 {
-                  "word": "partono.</i>",
-                  "lemma": "partono.</i>",
+                  "word": "partono",
+                  "lemma": "partire",
                   "pos": "verb",
-                  "meaning": ""
-                }
-              ]
-            },
-            {
-              "id": "a3_s14_c6_l12",
-              "original": "",
-              "literal": "",
-              "tokens": [
-                {
-                  "word": "",
-                  "lemma": "",
-                  "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of partire"
                 }
               ]
             }

@@ -33,8 +33,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "nov'ore",
                   "lemma": "nov'ore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "nov'ore"
                 },
                 {
                   "word": "di",
@@ -68,9 +68,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "dovria",
-                  "lemma": "dovria",
+                  "lemma": "dovere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "should / ought to (poetic conditional)"
                 }
               ]
             },
@@ -87,9 +87,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "Parmi",
-                  "lemma": "parmi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "par",
+                  "pos": "verb",
+                  "meaning": "apocopic form of pare: third-person singular present indicative of parere (mi: me)"
                 }
               ]
             },
@@ -143,9 +143,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "soffiò",
-                  "lemma": "soffiò",
+                  "lemma": "soffiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of soffiare"
                 }
               ]
             },
@@ -162,9 +162,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "boccon",
-                  "lemma": "boccon",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "boccone",
+                  "pos": "noun",
+                  "meaning": "mouthful / morsel, nibble"
                 },
                 {
                   "word": "di",
@@ -175,8 +175,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "pillolina",
                   "lemma": "pillolina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "little pill; contraceptive pill"
                 }
               ]
             },
@@ -188,8 +188,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "nipotino",
                   "lemma": "nipotino",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "grandson / nephew"
                 },
                 {
                   "word": "vi",
@@ -199,9 +199,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "preparo",
-                  "lemma": "preparo",
+                  "lemma": "preparare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of preparare"
                 }
               ]
             },
@@ -220,13 +220,13 @@ export const donPasqualeAct1: Act = {
                   "word": "chiamarmi",
                   "lemma": "chiamarmi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive chiamare with mi / Compound of chiamare and mi."
                 },
                 {
                   "word": "don",
                   "lemma": "don",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Somaro",
@@ -385,8 +385,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "prudenza",
                   "lemma": "prudenza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "prudence, caution, carefulness"
                 }
               ]
             }
@@ -415,21 +415,21 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "struggo",
-                  "lemma": "struggo",
+                  "lemma": "struggere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of struggere"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "impazienza",
                   "lemma": "impazienza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "impatience, eagerness, anxiety"
                 },
                 {
                   "word": "La",
@@ -439,9 +439,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "sposina",
-                  "lemma": "sposina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sposino",
+                  "pos": "noun",
+                  "meaning": "female equivalent of sposino: young wife, or one recently married"
                 }
               ]
             }
@@ -509,8 +509,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "babbione",
                   "lemma": "babbione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "foolish, stupid"
                 }
               ]
             },
@@ -558,9 +558,9 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "Ascoltate",
-                  "lemma": "ascoltate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ascoltare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "in",
@@ -589,8 +589,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "ritratto",
                   "lemma": "ritratto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "drawn back, withdrawn / portrayed, drawn, depicted"
                 },
                 {
                   "word": "ve",
@@ -632,14 +632,14 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "tutt'occhi",
                   "lemma": "tutt'occhi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "tutt'occhi"
                 },
                 {
                   "word": "tutt'orecchie",
                   "lemma": "tutt'orecchie",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "tutt'orecchie"
                 }
               ]
             },
@@ -668,9 +668,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "udirvi",
-                  "lemma": "udirvi",
+                  "lemma": "udir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of udire (vi: you)"
                 },
                 {
                   "word": "sto",
@@ -700,8 +700,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "siccome",
                   "lemma": "siccome",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "conjunction",
+                  "meaning": "as, since / as, like"
                 },
                 {
                   "word": "un",
@@ -738,8 +738,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "pellegrino",
                   "lemma": "pellegrino",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "pilgrim / wandering"
                 }
               ]
             },
@@ -750,15 +750,15 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "fresca",
-                  "lemma": "fresca",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fresco",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of fresco"
                 },
                 {
                   "word": "siccome",
                   "lemma": "siccome",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "conjunction",
+                  "meaning": "as, since / as, like"
                 },
                 {
                   "word": "il",
@@ -787,7 +787,7 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -806,8 +806,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "mattino",
                   "lemma": "mattino",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "morning"
                 }
               ]
             },
@@ -880,8 +880,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "conquide",
                   "lemma": "conquide",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "conquide"
                 }
               ]
             },
@@ -917,8 +917,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "ebano",
                   "lemma": "ebano",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "ebony"
                 }
               ]
             },
@@ -935,9 +935,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "incantator",
-                  "lemma": "incantator",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "incantatore",
+                  "pos": "noun",
+                  "meaning": "enchanter"
                 }
               ]
             }
@@ -973,8 +973,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "giubilo",
                   "lemma": "giubilo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "rejoicing / shout of joy"
                 }
               ]
             },
@@ -991,9 +991,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "cape",
-                  "lemma": "cape",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "capa",
+                  "pos": "noun",
+                  "meaning": "plural of capa"
                 },
                 {
                   "word": "in",
@@ -1034,9 +1034,9 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "Alma",
-                  "lemma": "alma",
+                  "lemma": "anima",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "soul / spirit (poetic for anima)"
                 },
                 {
                   "word": "innocente",
@@ -1046,9 +1046,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "ingenua",
-                  "lemma": "ingenua",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ingenuo",
+                  "pos": "noun",
+                  "meaning": "female equivalent of ingenuo"
                 }
               ]
             },
@@ -1066,20 +1066,20 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "sè",
                   "lemma": "sè",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sè"
                 },
                 {
                   "word": "medesma",
-                  "lemma": "medesma",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "medesmo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of medesmo"
                 },
                 {
                   "word": "ignora",
-                  "lemma": "ignora",
+                  "lemma": "ignorare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -1098,7 +1098,7 @@ export const donPasqualeAct1: Act = {
                   "word": "impareggiabile",
                   "lemma": "impareggiabile",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "incomparable, peerless, unparalleled, matchless"
                 }
               ]
             },
@@ -1121,15 +1121,15 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
                 {
                   "word": "innamora",
-                  "lemma": "innamora",
+                  "lemma": "innamorare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -1146,15 +1146,15 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "miseri",
-                  "lemma": "miseri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "misero",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of misero"
                 },
                 {
                   "word": "pietosa",
-                  "lemma": "pietosa",
+                  "lemma": "pietoso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "feminine singular of pietoso"
                 }
               ]
             },
@@ -1166,8 +1166,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "gentil",
                   "lemma": "gentil",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "apocopic form of gentile"
                 },
                 {
                   "word": "dolce",
@@ -1177,9 +1177,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "amorosa",
-                  "lemma": "amorosa",
+                  "lemma": "amoroso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "feminine singular of amoroso"
                 }
               ]
             },
@@ -1197,8 +1197,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "cel",
                   "lemma": "cel",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "cel"
                 },
                 {
                   "word": "l",
@@ -1214,15 +1214,15 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "fatta",
-                  "lemma": "fatta",
+                  "lemma": "fatto",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of fatto"
                 },
                 {
                   "word": "nascere",
                   "lemma": "nascere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to be born / to bud, to sprout"
                 }
               ]
             },
@@ -1283,14 +1283,14 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "giubilo",
                   "lemma": "giubilo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "rejoicing / shout of joy"
                 },
                 {
                   "word": "Famiglia",
                   "lemma": "famiglia",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "family / household"
                 }
               ]
             }
@@ -1307,9 +1307,9 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "Agiata",
-                  "lemma": "agiata",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "agiato",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of agiato"
                 },
                 {
                   "word": "onesta",
@@ -1357,9 +1357,9 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "Malatesta",
-                  "lemma": "malatesta",
+                  "lemma": "Malatesta",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Doctor Malatesta"
                 }
               ]
             }
@@ -1389,8 +1389,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "parente",
                   "lemma": "parente",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "relative, relation / sibling"
                 }
               ]
             }
@@ -1413,9 +1413,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "lontana",
-                  "lemma": "lontana",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "lontano",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of lontano"
                 },
                 {
                   "word": "un",
@@ -1444,8 +1444,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "sorella",
                   "lemma": "sorella",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sister / sister"
                 }
               ]
             }
@@ -1494,7 +1494,7 @@ export const donPasqualeAct1: Act = {
                   "word": "vederla",
                   "lemma": "vederla",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive vedere with la"
                 }
               ]
             },
@@ -1517,15 +1517,15 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "fia",
-                  "lemma": "fia",
+                  "lemma": "essere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "shall be (poetic future of essere)"
                 },
                 {
                   "word": "concesso",
-                  "lemma": "concesso",
+                  "lemma": "concedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of concedere"
                 }
               ]
             }
@@ -1555,8 +1555,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "crepuscolo",
                   "lemma": "crepuscolo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "twilight / dusk"
                 }
               ]
             }
@@ -1629,9 +1629,9 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "Frenate",
-                  "lemma": "frenate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "frenare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "il",
@@ -1653,15 +1653,15 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "quetavi",
-                  "lemma": "quetavi",
+                  "lemma": "quetare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular imperfect indicative of quetare"
                 },
                 {
                   "word": "calmatevi",
-                  "lemma": "calmatevi",
+                  "lemma": "calmarsi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural imperative of calmarsi"
                 }
               ]
             },
@@ -1728,9 +1728,9 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "Preparatevi",
-                  "lemma": "preparatevi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "prepararsi",
+                  "pos": "verb",
+                  "meaning": "second-person plural imperative of prepararsi"
                 },
                 {
                   "word": "e",
@@ -1802,9 +1802,9 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "Calmatevi",
-                  "lemma": "calmatevi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "calmarsi",
+                  "pos": "verb",
+                  "meaning": "second-person plural imperative of calmarsi"
                 },
                 {
                   "word": "Ma",
@@ -1814,9 +1814,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "udite",
-                  "lemma": "udite",
+                  "lemma": "udire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -1839,9 +1839,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "fiatate",
-                  "lemma": "fiatate",
+                  "lemma": "fiatare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -1889,7 +1889,7 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "c",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
@@ -1927,8 +1927,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "casco",
                   "lemma": "casco",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "helmet / crash helmet"
                 },
                 {
                   "word": "morto",
@@ -1970,8 +1970,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "insolito",
                   "lemma": "insolito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "unusual, uncommon, strange / uncharacteristic, unwonted"
                 }
               ],
               "grammarNote": "'Ah, an unaccustomed fire I feel in my heart.' The elderly Pasquale imagines himself restored to the prime of youth."
@@ -2009,14 +2009,14 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "omai",
                   "lemma": "omai",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "contraction of oggimai"
                 },
                 {
                   "word": "resistere",
                   "lemma": "resistere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to resist / to withstand"
                 }
               ]
             },
@@ -2058,7 +2058,7 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "Dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
@@ -2083,9 +2083,9 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "scordo",
-                  "lemma": "scordo",
+                  "lemma": "scordare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of scordare"
                 },
                 {
                   "word": "i",
@@ -2095,9 +2095,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "malanni",
-                  "lemma": "malanni",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "malanno",
+                  "pos": "noun",
+                  "meaning": "plural of malanno"
                 }
               ]
             },
@@ -2121,8 +2121,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "giovine",
                   "lemma": "giovine",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "alternative form of giovane"
                 }
               ]
             },
@@ -2146,8 +2146,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "vent'anni",
                   "lemma": "vent'anni",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "particle",
+                  "meaning": "contraction of venti anni; twenty years"
                 }
               ]
             },
@@ -2159,8 +2159,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "Deh",
                   "lemma": "deh",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "pray! / ah! / alas!"
                 },
                 {
                   "word": "cara",
@@ -2170,9 +2170,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "affrettati",
-                  "lemma": "affrettati",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "affrettato",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of affrettato"
                 }
               ]
             },
@@ -2189,9 +2189,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "sposina",
-                  "lemma": "sposina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sposino",
+                  "pos": "noun",
+                  "meaning": "female equivalent of sposino: young wife, or one recently married"
                 }
               ]
             },
@@ -2228,14 +2228,14 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "mezza",
                   "lemma": "mezza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "half-hour / half past , especially 12:30"
                 },
                 {
                   "word": "dozzina",
                   "lemma": "dozzina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "dozen"
                 }
               ]
             },
@@ -2260,7 +2260,7 @@ export const donPasqualeAct1: Act = {
                   "word": "nascere",
                   "lemma": "nascere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to be born / to bud, to sprout"
                 }
               ]
             },
@@ -2285,7 +2285,7 @@ export const donPasqualeAct1: Act = {
                   "word": "crescere",
                   "lemma": "crescere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to grow, to increase, to expand / to progress"
                 }
               ]
             },
@@ -2308,7 +2308,7 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -2333,9 +2333,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "scherzar",
-                  "lemma": "scherzar",
+                  "lemma": "scherzare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to joke, to kid, to jest, to be funny / to frolic, to gambol"
                 }
               ]
             }
@@ -2358,9 +2358,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "rinato",
-                  "lemma": "rinato",
+                  "lemma": "rinascere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of rinascere"
                 }
               ]
             },
@@ -2396,8 +2396,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "nipotino",
                   "lemma": "nipotino",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "grandson / nephew"
                 }
               ]
             },
@@ -2427,8 +2427,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "cervellino",
                   "lemma": "cervellino",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "low intelligence / scatterbrain"
                 }
               ]
             },
@@ -2457,9 +2457,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "guadagna",
-                  "lemma": "guadagna",
+                  "lemma": "guadagnare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -2504,9 +2504,9 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "Giungete",
-                  "lemma": "giungete",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "giungere",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "a",
@@ -2529,9 +2529,9 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "Stavo",
-                  "lemma": "stavo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "stare",
+                  "pos": "verb",
+                  "meaning": "first-person singular imperfect indicative of stare"
                 },
                 {
                   "word": "per",
@@ -2543,7 +2543,7 @@ export const donPasqualeAct1: Act = {
                   "word": "mandarvi",
                   "lemma": "mandarvi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive mandare with vi"
                 },
                 {
                   "word": "a",
@@ -2566,9 +2566,9 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "Favorite",
-                  "lemma": "favorite",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "favorito",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of favorito"
                 }
               ]
             }
@@ -2599,7 +2599,7 @@ export const donPasqualeAct1: Act = {
                   "word": "farvi",
                   "lemma": "farvi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive fare with vi"
                 },
                 {
                   "word": "un",
@@ -2617,8 +2617,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "sermone",
                   "lemma": "sermone",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "language, speech / language, speech"
                 }
               ]
             },
@@ -2648,20 +2648,20 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "minuto",
                   "lemma": "minuto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "tiny, minute, emaciated, thin / fine, delicate, detailed"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "attenzione",
                   "lemma": "attenzione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "attention"
                 }
               ]
             },
@@ -2733,9 +2733,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "mesi",
-                  "lemma": "mesi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "mese",
+                  "pos": "noun",
+                  "meaning": "plural of mese"
                 }
               ]
             },
@@ -2752,7 +2752,7 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -2776,7 +2776,7 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -2789,8 +2789,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "zitella",
                   "lemma": "zitella",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a spinster; an old maid"
                 }
               ]
             },
@@ -2807,9 +2807,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "ricca",
-                  "lemma": "ricca",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ricco",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of ricco / lean"
                 },
                 {
                   "word": "e",
@@ -2864,8 +2864,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "Promettendovi",
                   "lemma": "promettendovi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of promettendo, the gerund of promettere, with vi"
                 },
                 {
                   "word": "per",
@@ -2895,8 +2895,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "bell'assegnamento",
                   "lemma": "bell'assegnamento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "bell'assegnamento"
                 }
               ]
             },
@@ -2937,9 +2937,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "possiedo",
-                  "lemma": "possiedo",
+                  "lemma": "possedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of possedere"
                 }
               ]
             }
@@ -2981,9 +2981,9 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "Minacciando",
-                  "lemma": "minacciando",
+                  "lemma": "minacciare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of minacciare"
                 },
                 {
                   "word": "in",
@@ -3006,8 +3006,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "rifiuto",
                   "lemma": "rifiuto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "refusal, declination, rejection, denial / waste, refuse, rubbish, garbage"
                 }
               ]
             },
@@ -3018,9 +3018,9 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "diseredarvi",
-                  "lemma": "diseredarvi",
+                  "lemma": "diseredare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to disinherit (vi: you)"
                 },
                 {
                   "word": "e",
@@ -3036,9 +3036,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "torvi",
-                  "lemma": "torvi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "torvo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of torvo"
                 },
                 {
                   "word": "ogni",
@@ -3063,7 +3063,7 @@ export const donPasqualeAct1: Act = {
                   "word": "ammogliarmi",
                   "lemma": "ammogliarmi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive ammogliare with mi"
                 },
                 {
                   "word": "se",
@@ -3079,15 +3079,15 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "uopo",
                   "lemma": "uopo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "need"
                 }
               ]
             }
@@ -3159,7 +3159,7 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -3189,9 +3189,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "mesi",
-                  "lemma": "mesi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "mese",
+                  "pos": "noun",
+                  "meaning": "plural of mese"
                 }
               ]
             },
@@ -3214,9 +3214,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "offro",
-                  "lemma": "offro",
+                  "lemma": "offrire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of offrire"
                 },
                 {
                   "word": "ancor",
@@ -3257,9 +3257,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "Norina",
-                  "lemma": "norina",
+                  "lemma": "Norina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Norina (young widow)"
                 }
               ]
             },
@@ -3283,8 +3283,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "fed",
                   "lemma": "fed",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fed"
                 },
                 {
                   "word": "è",
@@ -3294,9 +3294,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "impegnata",
-                  "lemma": "impegnata",
+                  "lemma": "impegnato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of impegnato"
                 }
               ]
             }
@@ -3331,9 +3331,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "spiantata",
-                  "lemma": "spiantata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "spiantato",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of spiantato"
                 }
               ]
             }
@@ -3350,9 +3350,9 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "Rispettate",
-                  "lemma": "rispettate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "rispettare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "una",
@@ -3363,8 +3363,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "giovine",
                   "lemma": "giovine",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "alternative form of giovane"
                 },
                 {
                   "word": "povera",
@@ -3387,9 +3387,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "onorata",
-                  "lemma": "onorata",
+                  "lemma": "onorato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of onorato"
                 },
                 {
                   "word": "e",
@@ -3399,9 +3399,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "virtuosa",
-                  "lemma": "virtuosa",
+                  "lemma": "virtuoso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "feminine singular of virtuoso"
                 }
               ]
             }
@@ -3430,9 +3430,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "deciso",
-                  "lemma": "deciso",
+                  "lemma": "decidere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of decidere"
                 }
               ]
             }
@@ -3451,7 +3451,7 @@ export const donPasqualeAct1: Act = {
                   "word": "Irrevocabilmente",
                   "lemma": "irrevocabilmente",
                   "pos": "adverb",
-                  "meaning": ""
+                  "meaning": "irrevocably"
                 }
               ]
             }
@@ -3480,9 +3480,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "pensate",
-                  "lemma": "pensate",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pensata",
+                  "pos": "noun",
+                  "meaning": "plural of pensata"
                 },
                 {
                   "word": "a",
@@ -3494,7 +3494,7 @@ export const donPasqualeAct1: Act = {
                   "word": "trovarvi",
                   "lemma": "trovarvi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive trovare with vi"
                 },
                 {
                   "word": "un",
@@ -3505,8 +3505,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "alloggio",
                   "lemma": "alloggio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "lodging, accommodation / flat, apartment"
                 }
               ]
             }
@@ -3535,9 +3535,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "discacciate",
-                  "lemma": "discacciate",
+                  "lemma": "discacciare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative/subjunctive / second-person plural imperative"
                 }
               ]
             }
@@ -3567,8 +3567,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "ostinazione",
                   "lemma": "ostinazione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "obstinacy / stubbornness"
                 }
               ]
             },
@@ -3579,7 +3579,7 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -3592,8 +3592,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "impegno",
                   "lemma": "impegno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "promise, pledge / engagement, commitment, endeavour/endeavor"
                 },
                 {
                   "word": "mi",
@@ -3603,9 +3603,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "scioglie",
-                  "lemma": "scioglie",
+                  "lemma": "sciogliere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of sciogliere"
                 }
               ]
             },
@@ -3637,7 +3637,7 @@ export const donPasqualeAct1: Act = {
                   "word": "provvedervi",
                   "lemma": "provvedervi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive provvedere with vi"
                 },
                 {
                   "word": "io",
@@ -3748,8 +3748,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "desso",
                   "lemma": "desso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "pronoun",
+                  "meaning": "alternative form of esso"
                 },
                 {
                   "word": "in",
@@ -3790,9 +3790,9 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "Perdonate",
-                  "lemma": "perdonate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "perdonare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "la",
@@ -3802,9 +3802,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "sorpresa",
-                  "lemma": "sorpresa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sorpreso",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of sorpreso"
                 }
               ]
             },
@@ -3928,9 +3928,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "Pasquale",
-                  "lemma": "pasquale",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "Don Pasquale",
+                  "pos": "noun",
+                  "meaning": "Don Pasquale"
                 },
                 {
                   "word": "da",
@@ -3942,7 +3942,7 @@ export const donPasqualeAct1: Act = {
                   "word": "Corneto",
                   "lemma": "corneto",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a village in Ascoli Piceno, Marche, Italy, near Acquasanta Terme / former name of Tarquinia"
                 }
               ]
             },
@@ -3954,8 +3954,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "possidente",
                   "lemma": "possidente",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "person who owns property"
                 },
                 {
                   "word": "qui",
@@ -3966,8 +3966,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "presente",
                   "lemma": "presente",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "present / this"
                 }
               ]
             },
@@ -3985,8 +3985,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "presente",
                   "lemma": "presente",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "present / this"
                 },
                 {
                   "word": "in",
@@ -4021,7 +4021,7 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -4029,7 +4029,7 @@ export const donPasqualeAct1: Act = {
                   "word": "annunziarvi",
                   "lemma": "annunziarvi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive annunziare with vi"
                 },
                 {
                   "word": "ho",
@@ -4088,9 +4088,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "ammogliar",
-                  "lemma": "ammogliar",
+                  "lemma": "ammogliare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to cause  to get married, to give a wife to , to marry"
                 }
               ]
             }
@@ -4113,9 +4113,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "scherzate",
-                  "lemma": "scherzate",
+                  "lemma": "scherzare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -4134,7 +4134,7 @@ export const donPasqualeAct1: Act = {
                   "word": "Scherzo",
                   "lemma": "scherzo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "joke, jest, trick, hoax, frolic / joke, trifle, cinch"
                 },
                 {
                   "word": "un",
@@ -4176,8 +4176,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "nuovo",
                   "lemma": "nuovo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "new"
                 },
                 {
                   "word": "giorno",
@@ -4212,9 +4212,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "stagionato",
-                  "lemma": "stagionato",
+                  "lemma": "stagionare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of stagionare"
                 }
               ]
             },
@@ -4243,9 +4243,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "conservato",
-                  "lemma": "conservato",
+                  "lemma": "conservare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of conservare"
                 }
               ]
             },
@@ -4269,8 +4269,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "forza",
                   "lemma": "forza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "force / strength"
                 },
                 {
                   "word": "e",
@@ -4281,8 +4281,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "vigoria",
                   "lemma": "vigoria",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "vigour, force, strength, energy"
                 }
               ]
             },
@@ -4319,7 +4319,7 @@ export const donPasqualeAct1: Act = {
                   "word": "prestar",
                   "lemma": "prestar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of prestare"
                 }
               ]
             },
@@ -4337,8 +4337,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "frattanto",
                   "lemma": "frattanto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "meanwhile / in the meantime"
                 },
                 {
                   "word": "signorino",
@@ -4355,9 +4355,9 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "preparatevi",
-                  "lemma": "preparatevi",
+                  "lemma": "prepararsi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural imperative of prepararsi"
                 },
                 {
                   "word": "a",
@@ -4367,9 +4367,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "sfrattar",
-                  "lemma": "sfrattar",
+                  "lemma": "sfrattare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to evict / to get evicted"
                 }
               ]
             }
@@ -4393,8 +4393,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "volea",
                   "lemma": "volea",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "volea"
                 },
                 {
                   "word": "questa",
@@ -4429,9 +4429,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "piani",
-                  "lemma": "piani",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "piano",
+                  "pos": "noun",
+                  "meaning": "plural of piano / plans"
                 },
                 {
                   "word": "a",
@@ -4441,9 +4441,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "rovesciar",
-                  "lemma": "rovesciar",
+                  "lemma": "rovesciare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to pour, spill, damp, tip, shower, lay / to turn over, turn upside down, reverse, overturn, upend, turn inside out, turn back to front, turn back, throw back"
                 }
               ]
             },
@@ -4487,8 +4487,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "de",
                   "lemma": "de",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "alternative form of di"
                 },
                 {
                   "word": "miei",
@@ -4499,8 +4499,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "prim'anni",
                   "lemma": "prim'anni",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "prim'anni"
                 },
                 {
                   "word": "addio",
@@ -4517,15 +4517,15 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "Bramai",
-                  "lemma": "bramai",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "bramare",
+                  "pos": "verb",
+                  "meaning": "first-person singular past historic of bramare"
                 },
                 {
                   "word": "ricchezze",
-                  "lemma": "ricchezze",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ricchezza",
+                  "pos": "noun",
+                  "meaning": "plural of ricchezza"
                 },
                 {
                   "word": "e",
@@ -4536,8 +4536,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "fasto",
                   "lemma": "fasto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pomp, splendor, magnificence, richness"
                 }
               ]
             },
@@ -4591,9 +4591,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "abbandonato",
-                  "lemma": "abbandonato",
+                  "lemma": "abbandonare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of abbandonare"
                 }
               ]
             },
@@ -4649,13 +4649,13 @@ export const donPasqualeAct1: Act = {
                   "word": "vederti",
                   "lemma": "vederti",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive vedere with ti"
                 },
                 {
                   "word": "misera",
-                  "lemma": "misera",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "misero",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of misero"
                 }
               ]
             },
@@ -4672,9 +4672,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "rinunzio",
-                  "lemma": "rinunzio",
+                  "lemma": "rinunziare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of rinunziare"
                 },
                 {
                   "word": "a",
@@ -4710,8 +4710,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "veh",
                   "lemma": "veh",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "veh"
                 },
                 {
                   "word": "che",
@@ -4723,7 +4723,7 @@ export const donPasqualeAct1: Act = {
                   "word": "originale",
                   "lemma": "originale",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "original / genuine, pure"
                 }
               ]
             },
@@ -4747,8 +4747,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "ostinato",
                   "lemma": "ostinato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "stubborn, obstinate"
                 }
               ]
             },
@@ -4766,8 +4766,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "manco",
                   "lemma": "manco",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "faulty, imperfect, maimed, missing something / left"
                 },
                 {
                   "word": "male",
@@ -4796,9 +4796,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "capacitato",
-                  "lemma": "capacitato",
+                  "lemma": "capacitare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of capacitare"
                 }
               ]
             },
@@ -4833,9 +4833,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "duole",
-                  "lemma": "duole",
+                  "lemma": "dolere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of dolere"
                 }
               ]
             },
@@ -4859,8 +4859,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "desso",
                   "lemma": "desso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "pronoun",
+                  "meaning": "alternative form of esso"
                 },
                 {
                   "word": "che",
@@ -4908,8 +4908,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "sè",
                   "lemma": "sè",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sè"
                 },
                 {
                   "word": "stesso",
@@ -4932,9 +4932,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "incolpar",
-                  "lemma": "incolpar",
+                  "lemma": "incolpare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to inculpate, blame , to accuse or charge or put down to or chalk up to"
                 },
                 {
                   "word": "ne",
@@ -4945,8 +4945,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "de",
                   "lemma": "de",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "alternative form of di"
                 }
               ]
             }
@@ -5034,7 +5034,7 @@ export const donPasqualeAct1: Act = {
                   "word": "ascoltarvi",
                   "lemma": "ascoltarvi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive ascoltare with vi"
                 }
               ]
             }
@@ -5051,9 +5051,9 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "Ingannar",
-                  "lemma": "ingannar",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ingannare",
+                  "pos": "verb",
+                  "meaning": "to deceive, take in, mislead, hoodwink / to cheat, swindle"
                 },
                 {
                   "word": "si",
@@ -5065,7 +5065,7 @@ export const donPasqualeAct1: Act = {
                   "word": "puote",
                   "lemma": "puote",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "archaic form of può, third-person singular present indicative of potere"
                 },
                 {
                   "word": "un",
@@ -5094,9 +5094,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "fareste",
-                  "lemma": "fareste",
+                  "lemma": "fare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural conditional of fare"
                 },
                 {
                   "word": "a",
@@ -5108,7 +5108,7 @@ export const donPasqualeAct1: Act = {
                   "word": "consigliarvi",
                   "lemma": "consigliarvi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive consigliare with vi"
                 }
               ]
             },
@@ -5131,9 +5131,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "Malatesta",
-                  "lemma": "malatesta",
+                  "lemma": "Malatesta",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Doctor Malatesta"
                 }
               ]
             },
@@ -5218,9 +5218,9 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "Consultatelo",
-                  "lemma": "consultatelo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "consulta",
+                  "pos": "verb",
+                  "meaning": "conference, consultation / council (telo: telo)"
                 }
               ]
             }
@@ -5261,9 +5261,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "consultato",
-                  "lemma": "consultato",
+                  "lemma": "consultare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of consultare"
                 }
               ]
             }
@@ -5286,9 +5286,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "sconsiglia",
-                  "lemma": "sconsiglia",
+                  "lemma": "sconsigliare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -5330,19 +5330,19 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
                   "word": "incoraggia",
-                  "lemma": "incoraggia",
+                  "lemma": "incoraggiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "n",
-                  "lemma": "n'",
+                  "lemma": "n",
                   "pos": "noun",
                   "meaning": "of-it"
                 },
@@ -5355,8 +5355,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "incantato",
                   "lemma": "incantato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "enchanted, spellbound"
                 }
               ]
             }
@@ -5434,7 +5434,7 @@ export const donPasqualeAct1: Act = {
                   "word": "dirla",
                   "lemma": "dirla",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive dire with la"
                 },
                 {
                   "word": "qui",
@@ -5469,9 +5469,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "capite",
-                  "lemma": "capite",
+                  "lemma": "capito",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine plural of capito"
                 },
                 {
                   "word": "la",
@@ -5482,8 +5482,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "zitella",
                   "lemma": "zitella",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a spinster; an old maid"
                 }
               ]
             },
@@ -5519,8 +5519,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "sorella",
                   "lemma": "sorella",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sister / sister"
                 }
               ]
             }
@@ -5546,8 +5546,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "sorella",
                   "lemma": "sorella",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sister / sister"
                 },
                 {
                   "word": "Che",
@@ -5651,7 +5651,7 @@ export const donPasqualeAct1: Act = {
                   "word": "mendico",
                   "lemma": "mendico",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "mendicant"
                 }
               ]
             },
@@ -5662,9 +5662,9 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "perdo",
-                  "lemma": "perdo",
+                  "lemma": "perdere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of perdere"
                 },
                 {
                   "word": "colei",
@@ -5680,9 +5680,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "adoro",
-                  "lemma": "adoro",
+                  "lemma": "adorare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of adorare"
                 }
               ]
             },
@@ -5705,9 +5705,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "credevo",
-                  "lemma": "credevo",
+                  "lemma": "credere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular imperfect indicative of credere"
                 },
                 {
                   "word": "amico",
@@ -5743,8 +5743,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "traditor",
                   "lemma": "traditor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apocopic form of traditore"
                 }
               ]
             },
@@ -5755,7 +5755,7 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "D",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -5768,14 +5768,14 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "conforto",
                   "lemma": "conforto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "comfort, consolation, solace / support"
                 },
                 {
                   "word": "privo",
                   "lemma": "privo",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "devoid / bereft"
                 }
               ]
             },
@@ -5848,8 +5848,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "martoro",
                   "lemma": "martoro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "martoro"
                 }
               ]
             },
@@ -5861,8 +5861,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "egual",
                   "lemma": "egual",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "apocopic form of eguale"
                 },
                 {
                   "word": "al",
@@ -5878,9 +5878,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "martor",
-                  "lemma": "martor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "martora",
+                  "pos": "noun",
+                  "meaning": "plural of martora"
                 }
               ]
             }
@@ -5949,12 +5949,12 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "sasso",
                   "lemma": "sasso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "stone, rock / stone, rock, boulder, pebble"
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -5966,9 +5966,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "cangiato",
-                  "lemma": "cangiato",
+                  "lemma": "cangiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of cangiare"
                 }
               ]
             },
@@ -5986,8 +5986,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "fiata",
                   "lemma": "fiata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "time, instance, occasion"
                 },
                 {
                   "word": "non",
@@ -6004,8 +6004,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "motto",
                   "lemma": "motto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "witty remark / motto, maxim"
                 }
               ]
             },
@@ -6022,9 +6022,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "affoga",
-                  "lemma": "affoga",
+                  "lemma": "affogare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "il",
@@ -6034,9 +6034,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "crepacuor",
-                  "lemma": "crepacuor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "crepacuore",
+                  "pos": "noun",
+                  "meaning": "heartbreak, broken heart"
                 }
               ]
             },
@@ -6053,9 +6053,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "roda",
-                  "lemma": "roda",
+                  "lemma": "rodere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "gli",
@@ -6122,8 +6122,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "Impari",
                   "lemma": "impari",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "uneven, unequal / odd"
                 },
                 {
                   "word": "lo",
@@ -6134,8 +6134,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "sventato",
                   "lemma": "sventato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "reckless, heedless, scatterbrained, silly"
                 }
               ]
             },
@@ -6171,8 +6171,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "umor",
                   "lemma": "umor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apocopic form of umore"
                 }
               ]
             }
@@ -6239,8 +6239,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "mezzo",
                   "lemma": "mezzo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "half, middle / means, method"
                 },
                 {
                   "word": "al",
@@ -6256,9 +6256,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "trafisse",
-                  "lemma": "trafisse",
+                  "lemma": "trafiggere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of trafiggere"
                 }
               ]
             },
@@ -6269,9 +6269,9 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "piegò",
-                  "lemma": "piegò",
+                  "lemma": "piegare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of piegare"
                 },
                 {
                   "word": "il",
@@ -6282,8 +6282,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "ginocchio",
                   "lemma": "ginocchio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "knee"
                 },
                 {
                   "word": "e",
@@ -6387,8 +6387,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "paradiso",
                   "lemma": "paradiso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Paradise"
                 }
               ]
             },
@@ -6419,7 +6419,7 @@ export const donPasqualeAct1: Act = {
                   "word": "Riccardo",
                   "lemma": "riccardo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a male given name, equivalent to English Richard"
                 }
               ]
             },
@@ -6436,7 +6436,7 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -6449,8 +6449,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "conquiso",
                   "lemma": "conquiso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "conquiso"
                 }
               ]
             },
@@ -6461,9 +6461,9 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "giurò",
-                  "lemma": "giurò",
+                  "lemma": "giurare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of giurare"
                 },
                 {
                   "word": "che",
@@ -6504,9 +6504,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "volgeria",
-                  "lemma": "volgeria",
+                  "lemma": "volgere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "would turn / direct (poetic conditional)"
                 },
                 {
                   "word": "il",
@@ -6584,9 +6584,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "magica",
-                  "lemma": "magica",
+                  "lemma": "magico",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "feminine singular of magico"
                 }
               ],
               "grammarNote": "'I too know the magic power of a fleeting smile, of a hidden tear.' Norina boasts of her feminine guile and wit."
@@ -6598,7 +6598,7 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -6671,9 +6671,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "bruciano",
-                  "lemma": "bruciano",
+                  "lemma": "bruciare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of bruciare"
                 }
               ]
             },
@@ -6690,9 +6690,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "cori",
-                  "lemma": "cori",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "coro",
+                  "pos": "noun",
+                  "meaning": "plural of coro"
                 },
                 {
                   "word": "a",
@@ -6721,7 +6721,7 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -6740,8 +6740,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "sorrisetto",
                   "lemma": "sorrisetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a brief, quick smile / a smirk or simper"
                 }
               ]
             },
@@ -6771,8 +6771,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "effetto",
                   "lemma": "effetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "effect / appearance, show"
                 }
               ]
             },
@@ -6789,15 +6789,15 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "menzognera",
-                  "lemma": "menzognera",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "menzognero",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of menzognero"
                 },
                 {
                   "word": "lagrima",
                   "lemma": "lagrima",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of lacrima"
                 }
               ]
             },
@@ -6808,7 +6808,7 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -6826,9 +6826,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "languor",
-                  "lemma": "languor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "languore",
+                  "pos": "noun",
+                  "meaning": "languor / weakness, faintness"
                 }
               ]
             },
@@ -6870,21 +6870,21 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
                 {
                   "word": "amorose",
-                  "lemma": "amorose",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "amoroso",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of amoroso"
                 },
                 {
                   "word": "frodi",
-                  "lemma": "frodi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "frode",
+                  "pos": "noun",
+                  "meaning": "plural of frode"
                 }
               ]
             },
@@ -6925,9 +6925,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "facili",
-                  "lemma": "facili",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "facile",
+                  "pos": "adjective",
+                  "meaning": "plural of facile"
                 }
               ]
             },
@@ -6946,7 +6946,7 @@ export const donPasqualeAct1: Act = {
                   "word": "adescare",
                   "lemma": "adescare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to bait / to lure, to entice"
                 },
                 {
                   "word": "un",
@@ -6981,9 +6981,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "bizzarra",
-                  "lemma": "bizzarra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bizzarro",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of bizzarro"
                 }
               ]
             },
@@ -7007,8 +7007,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "vivace",
                   "lemma": "vivace",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "lively, vital, bright / keen, hardheaded"
                 }
               ]
             },
@@ -7021,7 +7021,7 @@ export const donPasqualeAct1: Act = {
                   "word": "brillare",
                   "lemma": "brillare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to shine, to glisten, to sparkle or twinkle / to go off or explode"
                 },
                 {
                   "word": "mi",
@@ -7056,9 +7056,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "scherzar",
-                  "lemma": "scherzar",
+                  "lemma": "scherzare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to joke, to kid, to jest, to be funny / to frolic, to gambol"
                 }
               ]
             },
@@ -7075,9 +7075,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "monto",
-                  "lemma": "monto",
+                  "lemma": "montare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of montare"
                 },
                 {
                   "word": "in",
@@ -7088,8 +7088,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "furore",
                   "lemma": "furore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fury, violence / frenzy"
                 }
               ]
             },
@@ -7162,8 +7162,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "sdegno",
                   "lemma": "sdegno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "indignation, resentment / enmity, animosity"
                 }
               ]
             },
@@ -7194,7 +7194,7 @@ export const donPasqualeAct1: Act = {
                   "word": "cangiar",
                   "lemma": "cangiar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of cangiare"
                 }
               ]
             },
@@ -7217,9 +7217,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "bizzarra",
-                  "lemma": "bizzarra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bizzarro",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of bizzarro"
                 }
               ]
             },
@@ -7243,8 +7243,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "eccellente",
                   "lemma": "eccellente",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "excellent, superb, first-class / very important, prominent, high-ranking"
                 }
               ]
             },
@@ -7257,13 +7257,13 @@ export const donPasqualeAct1: Act = {
                   "word": "Finale",
                   "lemma": "finale",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "final, ending"
                 },
                 {
-                  "word": "I</b>",
-                  "lemma": "i</b>",
-                  "pos": "noun",
-                  "meaning": ""
+                  "word": "I",
+                  "lemma": "i",
+                  "pos": "particle",
+                  "meaning": "The ninth letter of the Italian alphabet, called i and written in the Latin script."
                 }
               ]
             }
@@ -7338,8 +7338,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "impazienza",
                   "lemma": "impazienza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "impatience, eagerness, anxiety"
                 }
               ]
             },
@@ -7357,14 +7357,14 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "romanzetto",
                   "lemma": "romanzetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "novelette, typically one considered to be unimportant or lazily written / love affair, typically brief"
                 },
                 {
                   "word": "ordito",
-                  "lemma": "ordito",
+                  "lemma": "ordire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of ordire"
                 }
               ]
             },
@@ -7381,21 +7381,21 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "gabbar",
-                  "lemma": "gabbar",
+                  "lemma": "gabbare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to deceive, trick / to cheat, dupe, diddle"
                 },
                 {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Pasquale",
-                  "lemma": "pasquale",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "Don Pasquale",
+                  "pos": "noun",
+                  "meaning": "Don Pasquale"
                 }
               ]
             },
@@ -7407,14 +7407,14 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "ond'ei",
                   "lemma": "ond'ei",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "ond'ei"
                 },
                 {
                   "word": "toccommi",
                   "lemma": "toccommi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "toccommi"
                 },
                 {
                   "word": "in",
@@ -7517,15 +7517,15 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "Ernesto",
-                  "lemma": "ernesto",
+                  "lemma": "Ernesto",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ernesto (Don Pasquale's nephew)"
                 },
                 {
                   "word": "io",
@@ -7535,9 +7535,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "tremo",
-                  "lemma": "tremo",
+                  "lemma": "tremare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of tremare"
                 }
               ]
             },
@@ -7560,9 +7560,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "meschina",
-                  "lemma": "meschina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "meschino",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of meschino"
                 }
               ]
             }
@@ -7600,9 +7600,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "Norina",
-                  "lemma": "norina",
+                  "lemma": "Norina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Norina (young widow)"
                 }
               ]
             },
@@ -7626,8 +7626,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "stratagemma",
                   "lemma": "stratagemma",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "stratagem / scheme"
                 }
               ]
             }
@@ -7656,9 +7656,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "lavo",
-                  "lemma": "lavo",
+                  "lemma": "lavare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of lavare"
                 },
                 {
                   "word": "le",
@@ -7747,9 +7747,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "Norina",
-                  "lemma": "norina",
+                  "lemma": "Norina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Norina (young widow)"
                 },
                 {
                   "word": "vi",
@@ -7830,19 +7830,19 @@ export const donPasqualeAct1: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Pasquale",
-                  "lemma": "pasquale",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "Don Pasquale",
+                  "pos": "noun",
+                  "meaning": "Don Pasquale"
                 },
                 {
                   "word": "aggirato",
-                  "lemma": "aggirato",
+                  "lemma": "aggirare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of aggirare"
                 }
               ]
             },
@@ -7946,8 +7946,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "sorella",
                   "lemma": "sorella",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sister / sister"
                 }
               ]
             },
@@ -8001,9 +8001,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "disereda",
-                  "lemma": "disereda",
+                  "lemma": "diseredare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "infine",
@@ -8026,15 +8026,15 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
                   "word": "impone",
-                  "lemma": "impone",
+                  "lemma": "imporre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of imporre"
                 }
               ]
             },
@@ -8053,7 +8053,7 @@ export const donPasqualeAct1: Act = {
                   "word": "rinunziare",
                   "lemma": "rinunziare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "alternative form of rinunciare"
                 },
                 {
                   "word": "a",
@@ -8133,7 +8133,7 @@ export const donPasqualeAct1: Act = {
                   "word": "Europa",
                   "lemma": "europa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Europe / Europe"
                 }
               ]
             },
@@ -8200,8 +8200,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "voto",
                   "lemma": "voto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "vow / vote, ballot"
                 },
                 {
                   "word": "Il",
@@ -8217,9 +8217,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "Ernesto.>",
-                  "lemma": "ernesto.>",
+                  "lemma": "Ernesto.>",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ernesto.>"
                 }
               ]
             },
@@ -8236,15 +8236,15 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "solite",
-                  "lemma": "solite",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "solito",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of solito"
                 },
                 {
                   "word": "pazzie",
-                  "lemma": "pazzie",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pazzia",
+                  "pos": "noun",
+                  "meaning": "plural of pazzia"
                 }
               ]
             }
@@ -8267,7 +8267,7 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -8304,21 +8304,21 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "partirà",
-                  "lemma": "partirà",
+                  "lemma": "partire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of partire"
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
                 {
                   "word": "accerto",
-                  "lemma": "accerto",
+                  "lemma": "accertare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of accertare"
                 }
               ]
             },
@@ -8341,9 +8341,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "salti",
-                  "lemma": "salti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "salto",
+                  "pos": "noun",
+                  "meaning": "plural of salto"
                 }
               ]
             },
@@ -8433,9 +8433,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "rimane",
-                  "lemma": "rimane",
+                  "lemma": "rimanere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of rimanere"
                 }
               ]
             },
@@ -8565,7 +8565,7 @@ export const donPasqualeAct1: Act = {
                   "word": "punire",
                   "lemma": "punire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to punish"
                 },
                 {
                   "word": "il",
@@ -8576,8 +8576,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "nipote",
                   "lemma": "nipote",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "grandchild, grandson, granddaughter / nephew, niece, nibling"
                 }
               ]
             },
@@ -8594,9 +8594,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "opponsi",
-                  "lemma": "opponsi",
+                  "lemma": "opporre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of opporre (si: oneself / him / her)"
                 },
                 {
                   "word": "alle",
@@ -8627,13 +8627,13 @@ export const donPasqualeAct1: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Pasqual",
-                  "lemma": "pasqual",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "pasquale",
+                  "pos": "adjective",
+                  "meaning": "Easter; paschal"
                 },
                 {
                   "word": "ha",
@@ -8643,9 +8643,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "deciso",
-                  "lemma": "deciso",
+                  "lemma": "decidere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of decidere"
                 },
                 {
                   "word": "a",
@@ -8686,9 +8686,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "mel",
-                  "lemma": "mel",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "mela",
+                  "pos": "noun",
+                  "meaning": "plural of mela"
                 },
                 {
                   "word": "diceste",
@@ -8750,7 +8750,7 @@ export const donPasqualeAct1: Act = {
                   "word": "vistolo",
                   "lemma": "vistolo",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of visto, the masculine singular past participle of vedere, with lo"
                 },
                 {
                   "word": "così",
@@ -8761,8 +8761,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "fermo",
                   "lemma": "fermo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "still / firm"
                 },
                 {
                   "word": "nel",
@@ -8772,9 +8772,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "proposto",
-                  "lemma": "proposto",
+                  "lemma": "proporre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of proporre"
                 }
               ]
             },
@@ -8786,8 +8786,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "cambio",
                   "lemma": "cambio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "exchange / change"
                 },
                 {
                   "word": "tattica",
@@ -8816,15 +8816,15 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "nell",
-                  "lemma": "nell'",
+                  "lemma": "nell",
                   "pos": "noun",
                   "meaning": "in-the"
                 },
                 {
                   "word": "interesse",
                   "lemma": "interesse",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "interest, concern / interest"
                 },
                 {
                   "word": "vostro",
@@ -8852,15 +8852,15 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "Ernesto",
-                  "lemma": "ernesto",
+                  "lemma": "Ernesto",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ernesto (Don Pasquale's nephew)"
                 }
               ]
             },
@@ -8878,8 +8878,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "pongo",
                   "lemma": "pongo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "any member of the Pongo taxonomic genus / the Pongo taxonomic genus"
                 },
                 {
                   "word": "a",
@@ -8890,8 +8890,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "secondario",
                   "lemma": "secondario",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "secondary"
                 }
               ]
             },
@@ -8904,13 +8904,13 @@ export const donPasqualeAct1: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Pasquale",
-                  "lemma": "pasquale",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "Don Pasquale",
+                  "pos": "noun",
+                  "meaning": "Don Pasquale"
                 },
                 {
                   "word": "sa",
@@ -8927,7 +8927,7 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -8939,9 +8939,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "tengo",
-                  "lemma": "tengo",
+                  "lemma": "tenere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of tenere"
                 },
                 {
                   "word": "al",
@@ -8952,8 +8952,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "convento",
                   "lemma": "convento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "convent , monastery / assembly, gathering, meeting, sometimes a crowd"
                 },
                 {
                   "word": "una",
@@ -8964,8 +8964,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "sorella",
                   "lemma": "sorella",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sister / sister"
                 }
               ]
             },
@@ -9032,9 +9032,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "conosce",
-                  "lemma": "conosce",
+                  "lemma": "conoscere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "e",
@@ -9069,7 +9069,7 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -9087,9 +9087,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "prevenga",
-                  "lemma": "prevenga",
+                  "lemma": "prevenire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 }
               ]
             },
@@ -9143,9 +9143,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "benissimo",
-                  "lemma": "benissimo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bene",
+                  "pos": "adverb",
+                  "meaning": "superlative degree of bene: very well"
                 }
               ]
             }
@@ -9175,8 +9175,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "visposa",
                   "lemma": "visposa",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "visposa"
                 }
               ]
             },
@@ -9189,7 +9189,7 @@ export const donPasqualeAct1: Act = {
                   "word": "Canotto",
                   "lemma": "canotto",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "dinghy"
                 },
                 {
                   "word": "mio",
@@ -9200,8 +9200,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "cugino",
                   "lemma": "cugino",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a male cousin"
                 }
               ]
             },
@@ -9232,7 +9232,7 @@ export const donPasqualeAct1: Act = {
                   "word": "Notaro",
                   "lemma": "notaro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "notary (Carlino)"
                 },
                 {
                   "word": "al",
@@ -9304,9 +9304,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "disperar",
-                  "lemma": "disperar",
+                  "lemma": "disperare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to no longer have hope to achieve or obtain ; to despair; to give up hope"
                 },
                 {
                   "word": "il",
@@ -9322,9 +9322,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "impazza",
-                  "lemma": "impazza",
+                  "lemma": "impazzare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -9354,8 +9354,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "discrezione",
                   "lemma": "discrezione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "discretion"
                 },
                 {
                   "word": "Allor",
@@ -9415,9 +9415,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "benone",
-                  "lemma": "benone",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bene",
+                  "pos": "adverb",
+                  "meaning": "augmentative of bene; very well"
                 }
               ]
             }
@@ -9458,7 +9458,7 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -9476,9 +9476,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "manchi",
-                  "lemma": "manchi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "manco",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of manco"
                 }
               ],
               "grammarNote": "'I am ready; there is no hesitation.' Norina eagerly consents to Malatesta's plot to teach Pasquale a lesson."
@@ -9490,7 +9490,7 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "all",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
@@ -9533,9 +9533,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "imbrogli",
-                  "lemma": "imbrogli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "imbroglio",
+                  "pos": "noun",
+                  "meaning": "plural of imbroglio"
                 },
                 {
                   "word": "farò",
@@ -9582,7 +9582,7 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -9637,15 +9637,15 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "Ernesto",
-                  "lemma": "ernesto",
+                  "lemma": "Ernesto",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ernesto (Don Pasquale's nephew)"
                 }
               ]
             },
@@ -9724,8 +9724,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "imbroglio",
                   "lemma": "imbroglio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "tangle, entanglement, muddle, scrape / cheat, swindle, trick, diddle, fraud"
                 }
               ]
             },
@@ -9738,13 +9738,13 @@ export const donPasqualeAct1: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Pasquale",
-                  "lemma": "pasquale",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "Don Pasquale",
+                  "pos": "noun",
+                  "meaning": "Don Pasquale"
                 },
                 {
                   "word": "a",
@@ -9754,9 +9754,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "corbellar",
-                  "lemma": "corbellar",
+                  "lemma": "corbellare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to mock, to tease"
                 }
               ]
             },
@@ -9767,9 +9767,9 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "N0RINA",
-                  "lemma": "n0rina",
+                  "lemma": "N0rina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "N0rina"
                 }
               ]
             },
@@ -9799,8 +9799,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "impegno",
                   "lemma": "impegno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "promise, pledge / engagement, commitment, endeavour/endeavor"
                 }
               ]
             }
@@ -9841,15 +9841,15 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
                 {
                   "word": "insegno",
-                  "lemma": "insegno",
+                  "lemma": "insegnare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of insegnare"
                 }
               ]
             },
@@ -9860,9 +9860,9 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "N0RINA",
-                  "lemma": "n0rina",
+                  "lemma": "N0rina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "N0rina"
                 }
               ]
             },
@@ -9935,9 +9935,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "mesta",
-                  "lemma": "mesta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "mesto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of mesto"
                 }
               ]
             }
@@ -10073,7 +10073,7 @@ export const donPasqualeAct1: Act = {
                   "word": "gridare",
                   "lemma": "gridare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to shout or cry / to scream or yell"
                 }
               ]
             }
@@ -10189,8 +10189,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "semplicetta",
                   "lemma": "semplicetta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "semplicetta"
                 }
               ]
             }
@@ -10214,8 +10214,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "semplicetta",
                   "lemma": "semplicetta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "semplicetta"
                 },
                 {
                   "word": "Posso",
@@ -10244,8 +10244,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "lezione",
                   "lemma": "lezione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "lesson / class, lecture"
                 }
               ]
             }
@@ -10286,15 +10286,15 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
                 {
                   "word": "insegno",
-                  "lemma": "insegno",
+                  "lemma": "insegnare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of insegnare"
                 }
               ]
             },
@@ -10348,13 +10348,13 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "proviam",
-                  "lemma": "proviam",
+                  "lemma": "provare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
@@ -10393,9 +10393,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "vergogno",
-                  "lemma": "vergogno",
+                  "lemma": "vergognare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of vergognare"
                 },
                 {
                   "word": "son",
@@ -10406,8 +10406,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "zitella",
                   "lemma": "zitella",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a spinster; an old maid"
                 }
               ]
             }
@@ -10436,9 +10436,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "bricconcella",
-                  "lemma": "bricconcella",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bricconcello",
+                  "pos": "noun",
+                  "meaning": "female equivalent of bricconcello"
                 }
               ]
             },
@@ -10455,9 +10455,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "benissimo",
-                  "lemma": "benissimo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bene",
+                  "pos": "adverb",
+                  "meaning": "superlative degree of bene: very well"
                 },
                 {
                   "word": "così",
@@ -10586,9 +10586,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "benissimo",
-                  "lemma": "benissimo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bene",
+                  "pos": "adverb",
+                  "meaning": "superlative degree of bene: very well"
                 },
                 {
                   "word": "così",
@@ -10636,8 +10636,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "cimento",
                   "lemma": "cimento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mixture or concoction used by goldsmiths to purify or assay precious metals / trial"
                 }
               ]
             },
@@ -10684,15 +10684,15 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "ardimento",
                   "lemma": "ardimento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "daring"
                 }
               ]
             },
@@ -10722,8 +10722,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "affè",
                   "lemma": "affè",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "affè"
                 },
                 {
                   "word": "la",
@@ -10789,7 +10789,7 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "M",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -10827,14 +10827,14 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "vecchione",
                   "lemma": "vecchione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "augmentative of vecchio, specifically: / a very old man"
                 },
                 {
                   "word": "rimbambito",
-                  "lemma": "rimbambito",
+                  "lemma": "rimbambire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of rimbambire"
                 }
               ]
             },
@@ -10857,9 +10857,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "voti",
-                  "lemma": "voti",
+                  "lemma": "votare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "invan",
@@ -10869,9 +10869,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "contrasta",
-                  "lemma": "contrasta",
+                  "lemma": "contrastare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -10937,9 +10937,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "saprò",
-                  "lemma": "saprò",
+                  "lemma": "sapere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of sapere"
                 },
                 {
                   "word": "la",
@@ -10955,9 +10955,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "spuntar",
-                  "lemma": "spuntar",
+                  "lemma": "spuntare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to break / to trim or snip"
                 }
               ]
             }
@@ -10986,9 +10986,9 @@ export const donPasqualeAct1: Act = {
                 },
                 {
                   "word": "fischia",
-                  "lemma": "fischia",
+                  "lemma": "fischiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "la",
@@ -10999,8 +10999,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "bufera",
                   "lemma": "bufera",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "storm / squall"
                 }
               ]
             },
@@ -11024,8 +11024,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "lampo",
                   "lemma": "lampo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "flash / lightning"
                 },
                 {
                   "word": "il",
@@ -11036,14 +11036,14 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "tuono",
                   "lemma": "tuono",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "thunder / a loud roaring noise; thunder, rumble"
                 },
                 {
                   "word": "ascolto",
                   "lemma": "ascolto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "listening / reception"
                 }
               ]
             },
@@ -11061,8 +11061,8 @@ export const donPasqualeAct1: Act = {
                 {
                   "word": "saetta",
                   "lemma": "saetta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "arrow / arrow"
                 },
                 {
                   "word": "fra",
@@ -11091,9 +11091,9 @@ export const donPasqualeAct1: Act = {
               "tokens": [
                 {
                   "word": "sentiremo",
-                  "lemma": "sentiremo",
+                  "lemma": "sentire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural future of sentire"
                 },
                 {
                   "word": "ad",
@@ -11102,10 +11102,10 @@ export const donPasqualeAct1: Act = {
                   "meaning": "to / at"
                 },
                 {
-                  "word": "iscoppiar.",
-                  "lemma": "iscoppiar.",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "iscoppiar",
+                  "lemma": "iscoppiar",
+                  "pos": "noun",
+                  "meaning": "iscoppiar"
                 }
               ]
             }

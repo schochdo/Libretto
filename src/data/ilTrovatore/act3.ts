@@ -36,9 +36,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "dadi",
-                  "lemma": "dadi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "dado",
+                  "pos": "noun",
+                  "meaning": "plural of dado"
                 },
                 {
                   "word": "ma",
@@ -67,9 +67,9 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Giocherem",
-                  "lemma": "giocherem",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "giocare",
+                  "pos": "verb",
+                  "meaning": "first-person plural future of giocare"
                 },
                 {
                   "word": "ben",
@@ -106,15 +106,15 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
                 {
                   "word": "acciar",
-                  "lemma": "acciar",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "acciaro",
+                  "pos": "noun",
+                  "meaning": "alternative form of acciaio (“steel”)"
                 },
                 {
                   "word": "dal",
@@ -136,9 +136,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "terso",
-                  "lemma": "terso",
+                  "lemma": "tergere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of tergere"
                 }
               ]
             },
@@ -149,9 +149,9 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Fia",
-                  "lemma": "fia",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "shall be (poetic future of essere)"
                 },
                 {
                   "word": "di",
@@ -179,9 +179,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "asperso",
-                  "lemma": "asperso",
+                  "lemma": "aspergere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of aspergere"
                 }
               ]
             }
@@ -205,14 +205,14 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "soccorso",
                   "lemma": "soccorso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "help, aid, rescue, succour, assistance, relief / aid"
                 },
                 {
                   "word": "dimandato",
-                  "lemma": "dimandato",
+                  "lemma": "dimandare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of dimandare"
                 }
               ]
             }
@@ -253,9 +253,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "valor",
-                  "lemma": "valor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "valore",
+                  "pos": "adverb",
+                  "meaning": "as much as, as many as"
                 }
               ]
             }
@@ -290,9 +290,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "ritardato",
-                  "lemma": "ritardato",
+                  "lemma": "ritardare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of ritardare"
                 }
               ]
             },
@@ -315,9 +315,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "fia",
-                  "lemma": "fia",
+                  "lemma": "essere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "shall be (poetic future of essere)"
                 },
                 {
                   "word": "di",
@@ -327,9 +327,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "Castellor",
-                  "lemma": "castellor",
+                  "lemma": "Castellor",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Castellor"
                 }
               ]
             }
@@ -352,9 +352,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "prodi",
-                  "lemma": "prodi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "prode",
+                  "pos": "noun",
+                  "meaning": "plural of prode"
                 },
                 {
                   "word": "amici",
@@ -377,8 +377,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "novello",
                   "lemma": "novello",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "new, early / spring"
                 },
                 {
                   "word": "è",
@@ -408,8 +408,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "capitan",
                   "lemma": "capitan",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apocopic form of capitano"
                 },
                 {
                   "word": "la",
@@ -420,8 +420,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "rocca",
                   "lemma": "rocca",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fortress, stronghold / rock"
                 }
               ]
             },
@@ -432,13 +432,13 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Investir",
-                  "lemma": "investir",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "investire",
+                  "pos": "verb",
+                  "meaning": "to invest / to invest"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -464,8 +464,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "Colà",
                   "lemma": "colà",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "there"
                 },
                 {
                   "word": "pingue",
@@ -490,7 +490,7 @@ export const trovatoreAct3: Act = {
                   "word": "Certezza",
                   "lemma": "certezza",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "certainty, certitude / conviction, confidence, assurance"
                 },
                 {
                   "word": "è",
@@ -500,9 +500,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "rinvenir",
-                  "lemma": "rinvenir",
+                  "lemma": "rinvenire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to find, recover / to find out, discover"
                 },
                 {
                   "word": "più",
@@ -576,15 +576,15 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "c",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
                 {
                   "word": "inviti",
-                  "lemma": "inviti",
+                  "lemma": "invitare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "a",
@@ -607,15 +607,15 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Squilli",
-                  "lemma": "squilli",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "squillare",
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "echeggi",
-                  "lemma": "echeggi",
+                  "lemma": "echeggiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "la",
@@ -631,9 +631,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "guerriera",
-                  "lemma": "guerriera",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "guerriero",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of guerriero"
                 }
               ]
             },
@@ -650,7 +650,7 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "all",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
@@ -676,12 +676,12 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "pugna",
                   "lemma": "pugna",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fight, battle, combat / dispute, quarrel"
                 },
                 {
                   "word": "all",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
@@ -700,9 +700,9 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Fia",
-                  "lemma": "fia",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "shall be (poetic future of essere)"
                 },
                 {
                   "word": "domani",
@@ -725,8 +725,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "bandiera",
                   "lemma": "bandiera",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "flag"
                 }
               ]
             },
@@ -749,19 +749,19 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "merli",
-                  "lemma": "merli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "merlo",
+                  "pos": "noun",
+                  "meaning": "plural of merlo"
                 },
                 {
                   "word": "piantata",
                   "lemma": "piantata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "planting"
                 },
                 {
                   "word": "sull",
-                  "lemma": "sull'",
+                  "lemma": "sull",
                   "pos": "noun",
                   "meaning": "on-the"
                 },
@@ -787,8 +787,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "giammai",
                   "lemma": "giammai",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "never / sometimes, at times"
                 },
                 {
                   "word": "non",
@@ -798,9 +798,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "sorrise",
-                  "lemma": "sorrise",
+                  "lemma": "sorridere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of sorridere"
                 },
                 {
                   "word": "vittoria",
@@ -829,21 +829,21 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "liete",
-                  "lemma": "liete",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "lieto",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of lieto"
                 },
                 {
                   "word": "speranze",
-                  "lemma": "speranze",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "speranza",
+                  "pos": "noun",
+                  "meaning": "plural of speranza"
                 },
                 {
                   "word": "finor",
                   "lemma": "finor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "apocopic form of finora"
                 }
               ]
             },
@@ -855,8 +855,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "Ivi",
                   "lemma": "ivi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "there, therein / there, therein"
                 },
                 {
                   "word": "l",
@@ -866,9 +866,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "util",
-                  "lemma": "util",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "utile",
+                  "pos": "adjective",
+                  "meaning": "useful"
                 },
                 {
                   "word": "ci",
@@ -910,14 +910,14 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "Ivi",
                   "lemma": "ivi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "there, therein / there, therein"
                 },
                 {
                   "word": "opimi",
-                  "lemma": "opimi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "opimo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of opimo"
                 },
                 {
                   "word": "la",
@@ -999,9 +999,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "rival",
-                  "lemma": "rival",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "rivale",
+                  "pos": "adjective",
+                  "meaning": "rival"
                 },
                 {
                   "word": "Questo",
@@ -1030,21 +1030,21 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "persecutor",
-                  "lemma": "persecutor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "persecutore",
+                  "pos": "noun",
+                  "meaning": "persecutor"
                 },
                 {
                   "word": "demone",
                   "lemma": "demone",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "demon"
                 },
                 {
                   "word": "ovunque",
                   "lemma": "ovunque",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "wherever, anywhere, everywhere"
                 }
               ]
             },
@@ -1055,15 +1055,15 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "M",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
                   "word": "insegue",
-                  "lemma": "insegue",
+                  "lemma": "inseguire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of inseguire"
                 },
                 {
                   "word": "In",
@@ -1091,9 +1091,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "rival",
-                  "lemma": "rival",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "rivale",
+                  "pos": "adjective",
+                  "meaning": "rival"
                 },
                 {
                   "word": "Ma",
@@ -1116,9 +1116,9 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Surta",
-                  "lemma": "surta",
+                  "lemma": "Surta",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Surta"
                 },
                 {
                   "word": "appena",
@@ -1167,7 +1167,7 @@ export const trovatoreAct3: Act = {
                   "word": "separarvi",
                   "lemma": "separarvi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive separare with vi"
                 },
                 {
                   "word": "Oh",
@@ -1177,9 +1177,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "Leonora",
-                  "lemma": "leonora",
+                  "lemma": "Leonora",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Leonora (noble lady)"
                 }
               ]
             }
@@ -1231,8 +1231,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "Dappresso",
                   "lemma": "dappresso",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "closely / nearby"
                 },
                 {
                   "word": "il",
@@ -1255,15 +1255,15 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "S",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
                 {
                   "word": "aggirava",
-                  "lemma": "aggirava",
+                  "lemma": "aggirare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect indicative of aggirare"
                 },
                 {
                   "word": "una",
@@ -1273,15 +1273,15 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "zingara",
-                  "lemma": "zingara",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "zingaro",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of zingaro"
                 },
                 {
                   "word": "sorpresa",
-                  "lemma": "sorpresa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sorpreso",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of sorpreso"
                 }
               ]
             },
@@ -1304,9 +1304,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "esploratori",
-                  "lemma": "esploratori",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "esploratore",
+                  "pos": "noun",
+                  "meaning": "plural of esploratore"
                 }
               ]
             },
@@ -1323,9 +1323,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "volse",
-                  "lemma": "volse",
+                  "lemma": "volgere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of volgere"
                 },
                 {
                   "word": "in",
@@ -1359,9 +1359,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "temendo",
-                  "lemma": "temendo",
+                  "lemma": "temere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of temere"
                 }
               ]
             },
@@ -1390,9 +1390,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "trista",
-                  "lemma": "trista",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tristo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of tristo"
                 }
               ]
             },
@@ -1411,7 +1411,7 @@ export const trovatoreAct3: Act = {
                   "word": "inseguir",
                   "lemma": "inseguir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of inseguire"
                 }
               ]
             }
@@ -1434,9 +1434,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "raggiunta",
-                  "lemma": "raggiunta",
+                  "lemma": "raggiunto",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of raggiunto, past participle of raggiungere"
                 }
               ]
             }
@@ -1459,9 +1459,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "presa",
-                  "lemma": "presa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "preso",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of preso"
                 }
               ]
             }
@@ -1553,21 +1553,21 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "condottier",
-                  "lemma": "condottier",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "condottiere",
+                  "pos": "noun",
+                  "meaning": "condottiere"
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
                   "word": "apprese",
-                  "lemma": "apprese",
+                  "lemma": "apprendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of apprendere"
                 }
               ]
             },
@@ -1585,8 +1585,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "evento",
                   "lemma": "evento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "event"
                 }
               ]
             }
@@ -1670,9 +1670,9 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Aita",
-                  "lemma": "aita",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "aitare",
+                  "pos": "verb",
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "Mi",
@@ -1694,9 +1694,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "furibondi",
-                  "lemma": "furibondi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "furibondo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of furibondo"
                 }
               ]
             },
@@ -1720,8 +1720,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "fec'io",
                   "lemma": "fec'io",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fec'io"
                 }
               ]
             }
@@ -1740,15 +1740,15 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "S",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
                 {
                   "word": "appressi",
-                  "lemma": "appressi",
+                  "lemma": "appressare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             },
@@ -1790,9 +1790,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "trema",
-                  "lemma": "trema",
+                  "lemma": "tremare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present / second-person singular imperative"
                 },
                 {
                   "word": "dal",
@@ -1802,9 +1802,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "mentir",
-                  "lemma": "mentir",
+                  "lemma": "mentire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to lie / to falsify , to fake"
                 }
               ]
             }
@@ -1865,9 +1865,9 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Nol",
-                  "lemma": "nol",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "non lo",
+                  "pos": "particle",
+                  "meaning": "not it / not him (non + lo)"
                 },
                 {
                   "word": "so",
@@ -1909,7 +1909,7 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "D",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -1921,9 +1921,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "zingara",
-                  "lemma": "zingara",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "zingaro",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of zingaro"
                 },
                 {
                   "word": "è",
@@ -1946,9 +1946,9 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Mover",
-                  "lemma": "mover",
+                  "lemma": "Mover",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Mover"
                 },
                 {
                   "word": "senza",
@@ -1959,8 +1959,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "disegno",
                   "lemma": "disegno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "drawing, cartoon / design, pattern"
                 }
               ]
             },
@@ -1984,8 +1984,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "vagabondo",
                   "lemma": "vagabondo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "wandering / idle"
                 }
               ]
             },
@@ -2109,7 +2109,7 @@ export const trovatoreAct3: Act = {
                   "word": "Biscaglia",
                   "lemma": "biscaglia",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Biscay"
                 },
                 {
                   "word": "ove",
@@ -2120,8 +2120,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "finora",
                   "lemma": "finora",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "so far, till now, up to now, yet"
                 }
               ]
             },
@@ -2138,15 +2138,15 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "sterili",
-                  "lemma": "sterili",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sterile",
+                  "pos": "adjective",
+                  "meaning": "plural of sterile"
                 },
                 {
                   "word": "montagne",
-                  "lemma": "montagne",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "montagna",
+                  "pos": "noun",
+                  "meaning": "plural of montagna"
                 },
                 {
                   "word": "ebbi",
@@ -2163,8 +2163,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "ricetto",
                   "lemma": "ricetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "shelter, refuge"
                 }
               ]
             }
@@ -2189,7 +2189,7 @@ export const trovatoreAct3: Act = {
                   "word": "Biscaglia",
                   "lemma": "biscaglia",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Biscay"
                 }
               ]
             }
@@ -2255,15 +2255,15 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "poveri",
-                  "lemma": "poveri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "povero",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of povero"
                 },
                 {
                   "word": "vivea",
                   "lemma": "vivea",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "vivea"
                 }
               ]
             },
@@ -2280,9 +2280,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "contenta",
-                  "lemma": "contenta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "contento",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of contento"
                 },
                 {
                   "word": "del",
@@ -2317,9 +2317,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "speme",
-                  "lemma": "speme",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "speranza",
+                  "pos": "noun",
+                  "meaning": "hope (poetic for speranza)"
                 },
                 {
                   "word": "un",
@@ -2337,7 +2337,7 @@ export const trovatoreAct3: Act = {
                   "word": "avea",
                   "lemma": "avea",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "alternative form of aveva"
                 }
               ]
             },
@@ -2354,21 +2354,21 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "lasciò",
-                  "lemma": "lasciò",
+                  "lemma": "lasciare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of lasciare"
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
                   "word": "oblìa",
                   "lemma": "oblìa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "oblìa"
                 },
                 {
                   "word": "l",
@@ -2379,8 +2379,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "ingrato",
                   "lemma": "ingrato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "ungrateful, ingrate / thankless, unrewarding, unpleasant, difficult"
                 }
               ]
             },
@@ -2397,9 +2397,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "deserta",
-                  "lemma": "deserta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "deserto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of deserto"
                 },
                 {
                   "word": "vado",
@@ -2409,9 +2409,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "errando",
-                  "lemma": "errando",
+                  "lemma": "errare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of errare"
                 }
               ]
             },
@@ -2440,9 +2440,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "ricercando",
-                  "lemma": "ricercando",
+                  "lemma": "ricercare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of ricercare"
                 }
               ]
             },
@@ -2504,19 +2504,19 @@ export const trovatoreAct3: Act = {
                   "word": "Pene",
                   "lemma": "pene",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "penis"
                 },
                 {
                   "word": "orribili",
-                  "lemma": "orribili",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "orribile",
+                  "pos": "adjective",
+                  "meaning": "plural of orribile"
                 },
                 {
                   "word": "costò",
-                  "lemma": "costò",
+                  "lemma": "costare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of costare"
                 }
               ]
             },
@@ -2545,9 +2545,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "provo",
-                  "lemma": "provo",
+                  "lemma": "provare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of provare"
                 },
                 {
                   "word": "amore",
@@ -2588,9 +2588,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "provò",
-                  "lemma": "provò",
+                  "lemma": "provare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of provare"
                 }
               ]
             }
@@ -2644,9 +2644,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "traesti",
-                  "lemma": "traesti",
+                  "lemma": "trarre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular past historic of trarre"
                 }
               ]
             },
@@ -2657,15 +2657,15 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Lunga",
-                  "lemma": "lunga",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "lungo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of lungo"
                 },
                 {
                   "word": "etade",
                   "lemma": "etade",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of età"
                 },
                 {
                   "word": "tra",
@@ -2681,9 +2681,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "monti",
-                  "lemma": "monti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "monte",
+                  "pos": "noun",
+                  "meaning": "plural of monte"
                 }
               ]
             }
@@ -2700,9 +2700,9 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Lunga",
-                  "lemma": "lunga",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "lungo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of lungo"
                 },
                 {
                   "word": "sì",
@@ -2725,9 +2725,9 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Rammenteresti",
-                  "lemma": "rammenteresti",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "rammentare",
+                  "pos": "verb",
+                  "meaning": "second-person singular conditional of rammentare"
                 }
               ]
             },
@@ -2745,14 +2745,14 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "fanciul",
                   "lemma": "fanciul",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fanciul"
                 },
                 {
                   "word": "prole",
                   "lemma": "prole",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "offspring, issue, children / progeny, race, stock"
                 },
                 {
                   "word": "di",
@@ -2762,9 +2762,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "conti",
-                  "lemma": "conti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "conto",
+                  "pos": "noun",
+                  "meaning": "plural of conto / plural of conte"
                 }
               ]
             },
@@ -2775,9 +2775,9 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Involato",
-                  "lemma": "involato",
+                  "lemma": "involare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of involare"
                 },
                 {
                   "word": "al",
@@ -2794,8 +2794,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "castello",
                   "lemma": "castello",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "castle / castello"
                 }
               ]
             },
@@ -2818,9 +2818,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "lustri",
-                  "lemma": "lustri",
+                  "lemma": "lustrare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "e",
@@ -2894,7 +2894,7 @@ export const trovatoreAct3: Act = {
                   "word": "Fratello",
                   "lemma": "fratello",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "brother, sibling / brother"
                 },
                 {
                   "word": "del",
@@ -2904,9 +2904,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "rapito",
-                  "lemma": "rapito",
+                  "lemma": "rapire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of rapire"
                 }
               ]
             }
@@ -2969,9 +2969,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "udivi",
-                  "lemma": "udivi",
+                  "lemma": "udire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular imperfect indicative of udire"
                 }
               ]
             },
@@ -2988,9 +2988,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "novella",
-                  "lemma": "novella",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "novello",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of novello"
                 }
               ]
             }
@@ -3019,9 +3019,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "Concedi",
-                  "lemma": "concedi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "concedere",
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -3056,9 +3056,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "orme",
-                  "lemma": "orme",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "orma",
+                  "pos": "noun",
+                  "meaning": "plural of orma"
                 },
                 {
                   "word": "io",
@@ -3068,9 +3068,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "scopra",
-                  "lemma": "scopra",
+                  "lemma": "scoprire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 }
               ]
             }
@@ -3093,9 +3093,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "iniqua",
-                  "lemma": "iniqua",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "iniquo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of iniquo"
                 }
               ]
             }
@@ -3113,8 +3113,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "Ohimè",
                   "lemma": "ohimè",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "oh dear! / oops!"
                 }
               ]
             }
@@ -3168,15 +3168,15 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "orribil",
-                  "lemma": "orribil",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "orribile",
+                  "pos": "adjective",
+                  "meaning": "horrible, loathsome / awful, dreadful"
                 },
                 {
                   "word": "opra",
-                  "lemma": "opra",
+                  "lemma": "oprare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -3187,9 +3187,9 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Commettea",
-                  "lemma": "commettea",
+                  "lemma": "Commettea",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Commettea"
                 }
               ]
             }
@@ -3207,8 +3207,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "Finisci",
                   "lemma": "finisci",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative/imperative of finire"
                 }
               ]
             }
@@ -3231,9 +3231,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "dessa",
-                  "lemma": "dessa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "desso",
+                  "pos": "pronoun",
+                  "meaning": "feminine singular of desso"
                 }
               ]
             }
@@ -3277,9 +3277,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "dessa",
-                  "lemma": "dessa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "desso",
+                  "pos": "pronoun",
+                  "meaning": "feminine singular of desso"
                 },
                 {
                   "word": "che",
@@ -3308,9 +3308,9 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Arse",
-                  "lemma": "arse",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "arso",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of arso"
                 }
               ]
             }
@@ -3333,9 +3333,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "perfida",
-                  "lemma": "perfida",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "perfido",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of perfido"
                 }
               ]
             }
@@ -3383,9 +3383,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "mentisce",
-                  "lemma": "mentisce",
+                  "lemma": "mentire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of mentire"
                 }
               ]
             }
@@ -3459,8 +3459,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "Deh",
                   "lemma": "deh",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "pray! / ah! / alas!"
                 }
               ]
             }
@@ -3486,8 +3486,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "nodi",
                   "lemma": "nodi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Knots, nodes; plural of nodo"
                 }
               ]
             },
@@ -3504,9 +3504,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "stringete",
-                  "lemma": "stringete",
+                  "lemma": "stringere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -3605,7 +3605,7 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -3630,9 +3630,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "Manrico",
-                  "lemma": "manrico",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "Manrico",
+                  "pos": "noun",
+                  "meaning": "Manrico (troubadour / chieftain)"
                 },
                 {
                   "word": "o",
@@ -3667,13 +3667,13 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "soccorri",
-                  "lemma": "soccorri",
+                  "lemma": "soccorrere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "all",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
@@ -3742,15 +3742,15 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "Manrico",
-                  "lemma": "manrico",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "Manrico",
+                  "pos": "noun",
+                  "meaning": "Manrico (troubadour / chieftain)"
                 },
                 {
                   "word": "genitrice",
                   "lemma": "genitrice",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "parent"
                 }
               ]
             }
@@ -3767,9 +3767,9 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Trema",
-                  "lemma": "trema",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "tremare",
+                  "pos": "verb",
+                  "meaning": "third-person singular present / second-person singular imperative"
                 }
               ]
             }
@@ -3830,14 +3830,14 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "Deh",
                   "lemma": "deh",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "pray! / ah! / alas!"
                 },
                 {
                   "word": "rallentate",
-                  "lemma": "rallentate",
+                  "lemma": "rallentare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "o",
@@ -3847,9 +3847,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "barbari",
-                  "lemma": "barbari",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bárbaro",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of bárbaro"
                 }
               ]
             },
@@ -3866,9 +3866,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "acerbe",
-                  "lemma": "acerbe",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "acerbo",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of acerbo"
                 },
                 {
                   "word": "mie",
@@ -3878,9 +3878,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "ritorte",
-                  "lemma": "ritorte",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ritorta",
+                  "pos": "noun",
+                  "meaning": "plural of ritorta"
                 }
               ]
             },
@@ -3904,8 +3904,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "supplizio",
                   "lemma": "supplizio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "torture / torment"
                 }
               ]
             },
@@ -3922,9 +3922,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "prolungata",
-                  "lemma": "prolungata",
+                  "lemma": "prolungato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of prolungato"
                 },
                 {
                   "word": "morte",
@@ -3941,21 +3941,21 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "D",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "iniquo",
                   "lemma": "iniquo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "iniquitous, unjust / evil, wicked"
                 },
                 {
                   "word": "genitore",
                   "lemma": "genitore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "parent"
                 }
               ]
             },
@@ -3967,20 +3967,20 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "Empio",
                   "lemma": "empio",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "impious, profane / cruel"
                 },
                 {
                   "word": "figliuol",
                   "lemma": "figliuol",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apocopic form of figliuolo"
                 },
                 {
                   "word": "peggiore",
                   "lemma": "peggiore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "worse / the worst"
                 }
               ]
             },
@@ -3991,13 +3991,13 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Trema",
-                  "lemma": "trema",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "tremare",
+                  "pos": "verb",
+                  "meaning": "third-person singular present / second-person singular imperative"
                 },
                 {
                   "word": "V",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -4021,9 +4021,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "miseri",
-                  "lemma": "miseri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "misero",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of misero"
                 }
               ]
             },
@@ -4052,9 +4052,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "punirà",
-                  "lemma": "punirà",
+                  "lemma": "punire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of punire"
                 }
               ]
             }
@@ -4078,8 +4078,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "prole",
                   "lemma": "prole",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "offspring, issue, children / progeny, race, stock"
                 },
                 {
                   "word": "o",
@@ -4090,14 +4090,14 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "turpe",
                   "lemma": "turpe",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "filthy / foul, vile"
                 },
                 {
                   "word": "zingara",
-                  "lemma": "zingara",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "zingaro",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of zingaro"
                 }
               ]
             },
@@ -4121,8 +4121,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "traditore",
                   "lemma": "traditore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "traitor / adulterer"
                 }
               ]
             },
@@ -4152,8 +4152,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "supplizio",
                   "lemma": "supplizio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "torture / torment"
                 }
               ]
             },
@@ -4165,8 +4165,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "Ferirlo",
                   "lemma": "ferirlo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of the infinitive ferire with lo"
                 },
                 {
                   "word": "in",
@@ -4177,8 +4177,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "mezzo",
                   "lemma": "mezzo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "half, middle / means, method"
                 },
                 {
                   "word": "al",
@@ -4207,15 +4207,15 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
                   "word": "innonda",
                   "lemma": "innonda",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "innonda"
                 },
                 {
                   "word": "il",
@@ -4276,8 +4276,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "Meco",
                   "lemma": "meco",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "pronoun",
+                  "meaning": "with me"
                 },
                 {
                   "word": "il",
@@ -4288,14 +4288,14 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "fraterno",
                   "lemma": "fraterno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "fraternal, brotherly"
                 },
                 {
                   "word": "cenere",
                   "lemma": "cenere",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "ash, cinder"
                 }
               ]
             },
@@ -4346,14 +4346,14 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "pira",
                   "lemma": "pira",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pyre"
                 },
                 {
                   "word": "sorgere",
                   "lemma": "sorgere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to rise / to arise"
                 }
               ]
             },
@@ -4420,8 +4420,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "supplizio",
                   "lemma": "supplizio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "torture / torment"
                 }
               ]
             },
@@ -4439,8 +4439,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "terreno",
                   "lemma": "terreno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "ground / earthly, worldly, terrene, terrestrial"
                 },
                 {
                   "word": "foco",
@@ -4463,13 +4463,13 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "vampe",
-                  "lemma": "vampe",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vampa",
+                  "pos": "noun",
+                  "meaning": "plural of vampa"
                 },
                 {
                   "word": "dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
@@ -4500,15 +4500,15 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "fina",
-                  "lemma": "fina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fino",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of fino"
                 },
                 {
                   "word": "rogo",
                   "lemma": "rogo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pyre / bonfire; any great fire"
                 },
                 {
                   "word": "eterno",
@@ -4526,14 +4526,14 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "Ivi",
                   "lemma": "ivi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "there, therein / there, therein"
                 },
                 {
                   "word": "penare",
                   "lemma": "penare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to suffer"
                 },
                 {
                   "word": "ed",
@@ -4545,7 +4545,7 @@ export const trovatoreAct3: Act = {
                   "word": "ardere",
                   "lemma": "ardere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to burn / to parch, to scorch"
                 }
               ]
             },
@@ -4608,7 +4608,7 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -4620,15 +4620,15 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "fragor",
-                  "lemma": "fragor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fragore",
+                  "pos": "noun",
+                  "meaning": "roar / rumble"
                 },
                 {
                   "word": "poc'anzi",
                   "lemma": "poc'anzi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "just a moment ago"
                 },
                 {
                   "word": "intesi",
@@ -4688,15 +4688,15 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Dissimularlo",
-                  "lemma": "dissimularlo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "dissimulare",
+                  "pos": "verb",
+                  "meaning": "to hide or conceal / to alter or disguise the appearance of  so as to conceal its true nature (lo: him / it)"
                 },
                 {
                   "word": "fora",
-                  "lemma": "fora",
+                  "lemma": "essere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "would be / were (poetic)"
                 }
               ]
             },
@@ -4713,9 +4713,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "novella",
-                  "lemma": "novella",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "novello",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of novello"
                 },
                 {
                   "word": "aurora",
@@ -4732,9 +4732,9 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Assaliti",
-                  "lemma": "assaliti",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "assalito",
+                  "pos": "verb",
+                  "meaning": "masculine plural of assalito"
                 },
                 {
                   "word": "saremo",
@@ -4797,8 +4797,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "de",
                   "lemma": "de",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "alternative form of di"
                 },
                 {
                   "word": "nostri",
@@ -4808,9 +4808,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "nemici",
-                  "lemma": "nemici",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "nemico",
+                  "pos": "noun",
+                  "meaning": "plural of nemico"
                 }
               ]
             },
@@ -4847,8 +4847,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "Abbiam",
                   "lemma": "abbiam",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "apocopic form of abbiamo"
                 },
                 {
                   "word": "al",
@@ -4871,8 +4871,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "brando",
                   "lemma": "brando",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "greatsword / sword"
                 },
                 {
                   "word": "e",
@@ -4913,15 +4913,15 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "belliche",
-                  "lemma": "belliche",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bellico",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of bellico"
                 },
                 {
                   "word": "opre",
                   "lemma": "opre",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "opre"
                 }
               ]
             },
@@ -4932,15 +4932,15 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Nell",
-                  "lemma": "nell'",
+                  "lemma": "nell",
                   "pos": "noun",
                   "meaning": "in-the"
                 },
                 {
                   "word": "assenza",
                   "lemma": "assenza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "absence"
                 },
                 {
                   "word": "mia",
@@ -4968,9 +4968,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "commetto",
-                  "lemma": "commetto",
+                  "lemma": "commettere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of commettere"
                 }
               ]
             },
@@ -4993,9 +4993,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "manchi",
-                  "lemma": "manchi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "manco",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of manco"
                 }
               ]
             }
@@ -5033,9 +5033,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "tetra",
-                  "lemma": "tetra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tetro",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of tetro"
                 },
                 {
                   "word": "luce",
@@ -5064,15 +5064,15 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "imen",
-                  "lemma": "imen",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "imene",
+                  "pos": "noun",
+                  "meaning": "hymen / marriage, wedding, nuptials"
                 },
                 {
                   "word": "risplende",
-                  "lemma": "risplende",
+                  "lemma": "risplendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of risplendere"
                 }
               ]
             }
@@ -5096,14 +5096,14 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "presagio",
                   "lemma": "presagio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "omen, sign / premonition, presentiment"
                 },
                 {
                   "word": "funesto",
                   "lemma": "funesto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "fatal / disastrous"
                 }
               ]
             },
@@ -5115,14 +5115,14 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "Deh",
                   "lemma": "deh",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "pray! / ah! / alas!"
                 },
                 {
                   "word": "sperdi",
-                  "lemma": "sperdi",
+                  "lemma": "sperdere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative of sperdere"
                 },
                 {
                   "word": "o",
@@ -5191,8 +5191,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "sublime",
                   "lemma": "sublime",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "sublime"
                 },
                 {
                   "word": "amore",
@@ -5233,9 +5233,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "favelli",
-                  "lemma": "favelli",
+                  "lemma": "favellare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "al",
@@ -5282,7 +5282,7 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "coll",
-                  "lemma": "coll'",
+                  "lemma": "coll",
                   "pos": "noun",
                   "meaning": "with-the"
                 },
@@ -5357,15 +5357,15 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "alma",
-                  "lemma": "alma",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "anima",
+                  "pos": "noun",
+                  "meaning": "soul / spirit (poetic for anima)"
                 },
                 {
                   "word": "intrepida",
-                  "lemma": "intrepida",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "intrepido",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of intrepido"
                 }
               ]
             },
@@ -5438,8 +5438,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "pagina",
                   "lemma": "pagina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "page"
                 }
               ]
             },
@@ -5451,8 +5451,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "De",
                   "lemma": "de",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "alternative form of di"
                 },
                 {
                   "word": "miei",
@@ -5462,9 +5462,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "destini",
-                  "lemma": "destini",
+                  "lemma": "destinare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "è",
@@ -5474,9 +5474,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "scritto",
-                  "lemma": "scritto",
+                  "lemma": "scrivere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of scrivere"
                 }
               ]
             },
@@ -5487,7 +5487,7 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -5517,9 +5517,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "vittime",
-                  "lemma": "vittime",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vittima",
+                  "pos": "noun",
+                  "meaning": "plural of vittima"
                 }
               ]
             },
@@ -5542,15 +5542,15 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "ostil",
-                  "lemma": "ostil",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ostile",
+                  "pos": "adjective",
+                  "meaning": "enemy / hostile"
                 },
                 {
                   "word": "trafitto",
-                  "lemma": "trafitto",
+                  "lemma": "trafiggere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of trafiggere"
                 }
               ]
             },
@@ -5573,15 +5573,15 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "estremi",
-                  "lemma": "estremi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "estremo",
+                  "pos": "noun",
+                  "meaning": "plural of estremo"
                 },
                 {
                   "word": "aneliti",
-                  "lemma": "aneliti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "anelito",
+                  "pos": "noun",
+                  "meaning": "plural of anelito"
                 }
               ]
             },
@@ -5655,7 +5655,7 @@ export const trovatoreAct3: Act = {
                   "word": "precederti",
                   "lemma": "precederti",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive precedere with ti"
                 }
               ]
             },
@@ -5690,9 +5690,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "parrà",
-                  "lemma": "parrà",
+                  "lemma": "parere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of parere"
                 }
               ]
             }
@@ -5724,20 +5724,20 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "de",
                   "lemma": "de",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "alternative form of di"
                 },
                 {
                   "word": "suoni",
-                  "lemma": "suoni",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "suono",
+                  "pos": "noun",
+                  "meaning": "plural of suono"
                 },
                 {
                   "word": "mistici",
-                  "lemma": "mistici",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "mistico",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of mistico"
                 }
               ]
             },
@@ -5748,15 +5748,15 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Pura",
-                  "lemma": "pura",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "puro",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of puro"
                 },
                 {
                   "word": "discende",
-                  "lemma": "discende",
+                  "lemma": "discendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of discendere"
                 },
                 {
                   "word": "al",
@@ -5804,8 +5804,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "tempio",
                   "lemma": "tempio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "temple / temple"
                 }
               ]
             },
@@ -5853,9 +5853,9 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Manrico",
-                  "lemma": "manrico",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "Manrico",
+                  "pos": "noun",
+                  "meaning": "Manrico (troubadour / chieftain)"
                 }
               ]
             }
@@ -5897,9 +5897,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "zingara",
-                  "lemma": "zingara",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "zingaro",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of zingaro"
                 }
               ]
             },
@@ -5922,9 +5922,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "ceppi",
-                  "lemma": "ceppi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ceppo",
+                  "pos": "noun",
+                  "meaning": "plural of ceppo"
                 },
                 {
                   "word": "mira",
@@ -5985,14 +5985,14 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "de",
                   "lemma": "de",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "alternative form of di"
                 },
                 {
                   "word": "barbari",
-                  "lemma": "barbari",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bárbaro",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of bárbaro"
                 }
               ]
             },
@@ -6003,9 +6003,9 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Accesa",
-                  "lemma": "accesa",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "acceso",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of acceso"
                 },
                 {
                   "word": "è",
@@ -6028,8 +6028,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "pira",
                   "lemma": "pira",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pyre"
                 }
               ]
             }
@@ -6066,15 +6066,15 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "membra",
-                  "lemma": "membra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "membro",
+                  "pos": "noun",
+                  "meaning": "plural of membro: limbs"
                 },
                 {
                   "word": "oscillano",
-                  "lemma": "oscillano",
+                  "lemma": "oscillare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of oscillare"
                 }
               ]
             },
@@ -6087,7 +6087,7 @@ export const trovatoreAct3: Act = {
                   "word": "Nube",
                   "lemma": "nube",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "cloud / haze"
                 },
                 {
                   "word": "mi",
@@ -6110,8 +6110,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "ciglio",
                   "lemma": "ciglio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "eyelash / eyebrow"
                 }
               ]
             }
@@ -6134,9 +6134,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "fremi",
-                  "lemma": "fremi",
+                  "lemma": "fremere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -6167,13 +6167,13 @@ export const trovatoreAct3: Act = {
                   "word": "deggio",
                   "lemma": "deggio",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "alternative form of devo, first-person singular present indicative of dovere"
                 },
                 {
                   "word": "Sappilo",
-                  "lemma": "sappilo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "saperlo",
+                  "pos": "verb",
+                  "meaning": "second-person singular imperative of saperlo"
                 },
                 {
                   "word": "Io",
@@ -6254,9 +6254,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "vili",
-                  "lemma": "vili",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vile",
+                  "pos": "adjective",
+                  "meaning": "plural of vile"
                 },
                 {
                   "word": "il",
@@ -6267,14 +6267,14 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "rio",
                   "lemma": "rio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "brook; stream; streamlet / a stretch of urban canal"
                 },
                 {
                   "word": "spettacolo",
                   "lemma": "spettacolo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "show, performance, play, review / sight, view, spectacle"
                 }
               ]
             },
@@ -6303,15 +6303,15 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
                   "word": "invola",
-                  "lemma": "invola",
+                  "lemma": "involare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -6340,9 +6340,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "affrettati",
-                  "lemma": "affrettati",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "affrettato",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of affrettato"
                 }
               ]
             },
@@ -6353,9 +6353,9 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Ruiz",
-                  "lemma": "ruiz",
+                  "lemma": "Ruiz",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ruiz (soldier of Manrico)"
                 },
                 {
                   "word": "va",
@@ -6397,8 +6397,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "pira",
                   "lemma": "pira",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pyre"
                 },
                 {
                   "word": "l",
@@ -6409,8 +6409,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "orrendo",
                   "lemma": "orrendo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "horrible, horrendous, awful, dreadful, ghastly"
                 },
                 {
                   "word": "foco",
@@ -6440,27 +6440,27 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "fibre",
-                  "lemma": "fibre",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fibra",
+                  "pos": "noun",
+                  "meaning": "plural of fibra"
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
                   "word": "arse",
-                  "lemma": "arse",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "arso",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of arso"
                 },
                 {
                   "word": "avvampò",
-                  "lemma": "avvampò",
+                  "lemma": "avvampare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of avvampare"
                 }
               ]
             },
@@ -6471,15 +6471,15 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "Empi",
-                  "lemma": "empi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "empio",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of empio"
                 },
                 {
                   "word": "spegnetela",
-                  "lemma": "spegnetela",
+                  "lemma": "spegnere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of spegnere (tela: tela)"
                 },
                 {
                   "word": "o",
@@ -6489,7 +6489,7 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -6544,9 +6544,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "spegnerò",
-                  "lemma": "spegnerò",
+                  "lemma": "spegnere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of spegnere / first-person singular future of spegnare"
                 }
               ]
             },
@@ -6581,7 +6581,7 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -6589,7 +6589,7 @@ export const trovatoreAct3: Act = {
                   "word": "amarti",
                   "lemma": "amarti",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive amare with ti"
                 }
               ]
             },
@@ -6614,7 +6614,7 @@ export const trovatoreAct3: Act = {
                   "word": "frenarmi",
                   "lemma": "frenarmi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive frenare with mi"
                 },
                 {
                   "word": "il",
@@ -6630,9 +6630,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "martir",
-                  "lemma": "martir",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "martire",
+                  "pos": "noun",
+                  "meaning": "martyr"
                 }
               ]
             },
@@ -6669,7 +6669,7 @@ export const trovatoreAct3: Act = {
                   "word": "salvarti",
                   "lemma": "salvarti",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive salvare with ti"
                 }
               ]
             },
@@ -6687,14 +6687,14 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "teco",
                   "lemma": "teco",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "pronoun",
+                  "meaning": "with thee / with you"
                 },
                 {
                   "word": "almeno",
                   "lemma": "almeno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "at least"
                 },
                 {
                   "word": "corro",
@@ -6749,9 +6749,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "colpi",
-                  "lemma": "colpi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "colpo",
+                  "pos": "noun",
+                  "meaning": "plural of colpo"
                 },
                 {
                   "word": "tanto",
@@ -6761,9 +6761,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "funesti",
-                  "lemma": "funesti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "funesto",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of funesto"
                 }
               ]
             },
@@ -6793,8 +6793,8 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "sarìa",
                   "lemma": "sarìa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sarìa"
                 },
                 {
                   "word": "morir",
@@ -6817,7 +6817,7 @@ export const trovatoreAct3: Act = {
               "tokens": [
                 {
                   "word": "All",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
@@ -6829,7 +6829,7 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "all",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
@@ -6842,14 +6842,14 @@ export const trovatoreAct3: Act = {
                 {
                   "word": "eccone",
                   "lemma": "eccone",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "compound of ecco with ne"
                 },
                 {
                   "word": "presti",
-                  "lemma": "presti",
+                  "lemma": "prestare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             },
@@ -6866,21 +6866,21 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "pugnar",
-                  "lemma": "pugnar",
+                  "lemma": "pugnare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to fight"
                 },
                 {
                   "word": "teco",
                   "lemma": "teco",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "pronoun",
+                  "meaning": "with thee / with you"
                 },
                 {
                   "word": "teco",
                   "lemma": "teco",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "pronoun",
+                  "meaning": "with thee / with you"
                 },
                 {
                   "word": "a",
@@ -6902,10 +6902,10 @@ export const trovatoreAct3: Act = {
               "literal": "<i>Manrico leaves hastily followed by Ruiz and the Armed Forces, while from inside you can hear the clash of weapons and instruments of war</i>",
               "tokens": [
                 {
-                  "word": "<i>Manrico",
-                  "lemma": "<i>manrico",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "word": "Manrico",
+                  "lemma": "Manrico",
+                  "pos": "noun",
+                  "meaning": "Manrico (troubadour / chieftain)"
                 },
                 {
                   "word": "parte",
@@ -6917,13 +6917,13 @@ export const trovatoreAct3: Act = {
                   "word": "frettoloso",
                   "lemma": "frettoloso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "hasty, rushed, hurried"
                 },
                 {
                   "word": "seguito",
-                  "lemma": "seguito",
+                  "lemma": "seguire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of seguire"
                 },
                 {
                   "word": "da",
@@ -6933,9 +6933,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "Ruiz",
-                  "lemma": "ruiz",
+                  "lemma": "Ruiz",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ruiz (soldier of Manrico)"
                 },
                 {
                   "word": "e",
@@ -6951,9 +6951,9 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "Armati",
-                  "lemma": "armati",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "armato",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of armato"
                 },
                 {
                   "word": "mentre",
@@ -6963,31 +6963,31 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "odesi",
-                  "lemma": "odesi",
+                  "lemma": "ode",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "ode (si: oneself / him / her)"
                 },
                 {
                   "word": "dall",
-                  "lemma": "dall'",
+                  "lemma": "dall",
                   "pos": "noun",
                   "meaning": "from-the"
                 },
                 {
                   "word": "interno",
                   "lemma": "interno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "inside, indoor; internal, interior, inner / domestic, home, inland"
                 },
                 {
                   "word": "fragor",
-                  "lemma": "fragor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fragore",
+                  "pos": "noun",
+                  "meaning": "roar / rumble"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -7011,15 +7011,15 @@ export const trovatoreAct3: Act = {
                 },
                 {
                   "word": "bellici",
-                  "lemma": "bellici",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bellico",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of bellico"
                 },
                 {
-                  "word": "strumenti</i>",
-                  "lemma": "strumenti</i>",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "strumenti",
+                  "lemma": "strumento",
+                  "pos": "noun",
+                  "meaning": "plural of strumento"
                 }
               ]
             }

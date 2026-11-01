@@ -44,9 +44,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "turbato",
-                  "lemma": "turbato",
+                  "lemma": "turbare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of turbare"
                 }
               ]
             }
@@ -63,9 +63,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "En'ho",
-                  "lemma": "en'ho",
+                  "lemma": "En'ho",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "En'ho"
                 },
                 {
                   "word": "ben",
@@ -76,14 +76,14 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "donde",
                   "lemma": "donde",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "whence; from where or which"
                 },
                 {
                   "word": "–",
                   "lemma": "–",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "–"
                 },
                 {
                   "word": "Il",
@@ -130,9 +130,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "ottenebrò",
-                  "lemma": "ottenebrò",
+                  "lemma": "ottenebrare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of ottenebrare"
                 },
                 {
                   "word": "la",
@@ -161,9 +161,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "Edgardo",
-                  "lemma": "edgardo",
+                  "lemma": "Edgardo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Edgardo of Ravenswood"
                 },
                 {
                   "word": "quel",
@@ -180,8 +180,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "nemico",
                   "lemma": "nemico",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "enemy, foe"
                 }
               ]
             },
@@ -205,8 +205,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "prosapia",
                   "lemma": "prosapia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "lineage, ancestry"
                 },
                 {
                   "word": "dalle",
@@ -222,9 +222,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "rovine",
-                  "lemma": "rovine",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "rovina",
+                  "pos": "noun",
+                  "meaning": "plural of rovina"
                 }
               ]
             },
@@ -253,9 +253,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "baldanzosa",
-                  "lemma": "baldanzosa",
+                  "lemma": "baldanzoso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "feminine singular of baldanzoso"
                 },
                 {
                   "word": "e",
@@ -296,9 +296,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "raffermar",
-                  "lemma": "raffermar",
+                  "lemma": "raffermare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to reaffirm"
                 },
                 {
                   "word": "mi",
@@ -310,7 +310,7 @@ export const luciaDiLammermoorAct1: Act = {
                   "word": "puote",
                   "lemma": "puote",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "archaic form of può, third-person singular present indicative of potere"
                 }
               ]
             },
@@ -328,8 +328,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "vacillante",
                   "lemma": "vacillante",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "shaky, unsteady, rocky / flickering"
                 },
                 {
                   "word": "mio",
@@ -358,15 +358,15 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Osa",
-                  "lemma": "osa",
+                  "lemma": "oso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "feminine singular of oso"
                 },
                 {
                   "word": "respinger",
-                  "lemma": "respinger",
+                  "lemma": "respingere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to ward off, to push away, to push back, to repel / to ward off, to push away, to push back, to repel"
                 },
                 {
                   "word": "quella",
@@ -389,8 +389,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "suora",
                   "lemma": "suora",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "nun / sister"
                 }
               ]
             },
@@ -407,7 +407,7 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -438,9 +438,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Dolente",
-                  "lemma": "dolente",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "dolere",
+                  "pos": "verb",
+                  "meaning": "present participle of dolere"
                 }
               ]
             },
@@ -451,9 +451,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Vergin",
-                  "lemma": "vergin",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "vergine",
+                  "pos": "adjective",
+                  "meaning": "virgin / blank"
                 },
                 {
                   "word": "che",
@@ -463,27 +463,27 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "geme",
-                  "lemma": "geme",
+                  "lemma": "gemere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of gemere"
                 },
                 {
                   "word": "sull",
-                  "lemma": "sull'",
+                  "lemma": "sull",
                   "pos": "noun",
                   "meaning": "on-the"
                 },
                 {
                   "word": "urna",
                   "lemma": "urna",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "urn, pot / ballot box"
                 },
                 {
                   "word": "recente",
                   "lemma": "recente",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "recent"
                 }
               ]
             },
@@ -519,14 +519,14 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "talamo",
                   "lemma": "talamo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "thalamus / receptacle"
                 },
                 {
                   "word": "potria",
-                  "lemma": "potria",
+                  "lemma": "potere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "could / might (poetic conditional)"
                 }
               ]
             },
@@ -537,9 +537,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Volger",
-                  "lemma": "volger",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "volgere",
+                  "pos": "verb",
+                  "meaning": "to turn, to direct ) / to turn, to change"
                 },
                 {
                   "word": "lo",
@@ -561,9 +561,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "rispettiam",
-                  "lemma": "rispettiam",
+                  "lemma": "rispettare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "un",
@@ -592,9 +592,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "trafitto",
-                  "lemma": "trafitto",
+                  "lemma": "trafiggere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of trafiggere"
                 },
                 {
                   "word": "dal",
@@ -604,15 +604,15 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "duol",
-                  "lemma": "duol",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "duolo",
+                  "pos": "noun",
+                  "meaning": "sorrow / grief / pain"
                 },
                 {
                   "word": "schivo",
                   "lemma": "schivo",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "reluctant / shy"
                 },
                 {
                   "word": "è",
@@ -622,7 +622,7 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -649,11 +649,11 @@ export const luciaDiLammermoorAct1: Act = {
                   "word": "Schivo",
                   "lemma": "schivo",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "reluctant / shy"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -678,7 +678,7 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "D",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -690,9 +690,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "avvampa",
-                  "lemma": "avvampa",
+                  "lemma": "avvampare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -715,9 +715,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "favelli",
-                  "lemma": "favelli",
+                  "lemma": "favellare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             }
@@ -759,15 +759,15 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "M",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
                   "word": "udite",
-                  "lemma": "udite",
+                  "lemma": "udire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "Ella",
@@ -784,14 +784,14 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "gía",
                   "lemma": "gía",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "gía"
                 },
                 {
                   "word": "colà",
                   "lemma": "colà",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "there"
                 },
                 {
                   "word": "del",
@@ -821,14 +821,14 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "solingo",
                   "lemma": "solingo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "solitary"
                 },
                 {
                   "word": "vial",
-                  "lemma": "vial",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "viale",
+                  "pos": "noun",
+                  "meaning": "boulevard, avenue, parkway"
                 },
                 {
                   "word": "dove",
@@ -857,27 +857,27 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Giace",
-                  "lemma": "giace",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "giacere",
+                  "pos": "verb",
+                  "meaning": "third-person singular present indicative of giacere"
                 },
                 {
                   "word": "sepolta",
-                  "lemma": "sepolta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sepolto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of sepolto"
                 },
                 {
                   "word": "impetuoso",
                   "lemma": "impetuoso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "violent, impetuous, impulsive, rash"
                 },
                 {
                   "word": "toro",
                   "lemma": "toro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "bull / bull"
                 }
               ]
             },
@@ -912,9 +912,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "avventa",
-                  "lemma": "avventa",
+                  "lemma": "avventare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -944,14 +944,14 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "aere",
                   "lemma": "aere",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "air"
                 },
                 {
                   "word": "sibilar",
-                  "lemma": "sibilar",
+                  "lemma": "sibilare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to hiss / to whistle"
                 },
                 {
                   "word": "si",
@@ -1005,8 +1005,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "repente",
                   "lemma": "repente",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "sudden, rapid"
                 }
               ]
             },
@@ -1030,8 +1030,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "belva",
                   "lemma": "belva",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "beast"
                 }
               ]
             }
@@ -1060,9 +1060,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "vibrò",
-                  "lemma": "vibrò",
+                  "lemma": "vibrare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of vibrare"
                 },
                 {
                   "word": "quel",
@@ -1121,13 +1121,13 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "ricoprì",
-                  "lemma": "ricoprì",
+                  "lemma": "ricoprire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of ricoprire"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -1220,9 +1220,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "rivide",
-                  "lemma": "rivide",
+                  "lemma": "rivedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of rivedere"
                 }
               ]
             }
@@ -1302,8 +1302,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "viale",
                   "lemma": "viale",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "boulevard, avenue, parkway"
                 }
               ]
             }
@@ -1351,9 +1351,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "scovristi",
-                  "lemma": "scovristi",
+                  "lemma": "scovrire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular past historic of scovrire"
                 },
                 {
                   "word": "il",
@@ -1363,9 +1363,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "seduttor",
-                  "lemma": "seduttor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "seduttore",
+                  "pos": "noun",
+                  "meaning": "seducer"
                 }
               ]
             }
@@ -1401,7 +1401,7 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "n",
-                  "lemma": "n'",
+                  "lemma": "n",
                   "pos": "noun",
                   "meaning": "of-it"
                 },
@@ -1414,8 +1414,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "soltanto",
                   "lemma": "soltanto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "only, just, but, alone, merely"
                 }
               ]
             }
@@ -1470,8 +1470,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "nemico",
                   "lemma": "nemico",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "enemy, foe"
                 }
               ]
             }
@@ -1525,9 +1525,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "detesti",
-                  "lemma": "detesti",
+                  "lemma": "detestare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             }
@@ -1550,15 +1550,15 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "potrebbe",
-                  "lemma": "potrebbe",
+                  "lemma": "potere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular conditional of potere"
                 },
                 {
                   "word": "Edgardo",
-                  "lemma": "edgardo",
+                  "lemma": "Edgardo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Edgardo of Ravenswood"
                 }
               ]
             }
@@ -1600,9 +1600,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "dicesti",
-                  "lemma": "dicesti",
+                  "lemma": "dire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular past historic of dire"
                 }
               ]
             }
@@ -1619,15 +1619,15 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Cruda",
-                  "lemma": "cruda",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "crudo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of crudo"
                 },
                 {
                   "word": "funesta",
-                  "lemma": "funesta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "funesto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of funesto"
                 },
                 {
                   "word": "smania",
@@ -1650,7 +1650,7 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -1662,9 +1662,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "destata",
-                  "lemma": "destata",
+                  "lemma": "destato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of destato"
                 },
                 {
                   "word": "in",
@@ -1713,7 +1713,7 @@ export const luciaDiLammermoorAct1: Act = {
                   "word": "orribile",
                   "lemma": "orribile",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "horrible, loathsome / awful, dreadful"
                 }
               ]
             },
@@ -1763,7 +1763,7 @@ export const luciaDiLammermoorAct1: Act = {
                   "word": "gelare",
                   "lemma": "gelare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to freeze, to chill, to frost / to freeze"
                 },
                 {
                   "word": "e",
@@ -1775,7 +1775,7 @@ export const luciaDiLammermoorAct1: Act = {
                   "word": "fremere",
                   "lemma": "fremere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to shake, tremble"
                 }
               ]
             },
@@ -1798,9 +1798,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "solleva",
-                  "lemma": "solleva",
+                  "lemma": "sollevare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "il",
@@ -1811,8 +1811,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "criu",
                   "lemma": "criu",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "criu"
                 }
               ]
             },
@@ -1823,9 +1823,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Colma",
-                  "lemma": "colma",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "colmo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of colmo"
                 },
                 {
                   "word": "di",
@@ -1842,8 +1842,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "obbrobrio",
                   "lemma": "obbrobrio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "disgrace, shame, opprobrium / mess, eyesore"
                 }
               ]
             },
@@ -1861,8 +1861,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "suora",
                   "lemma": "suora",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "nun / sister"
                 },
                 {
                   "word": "mia",
@@ -1873,14 +1873,14 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "nascéa",
                   "lemma": "nascéa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "nascéa"
                 },
                 {
                   "word": "–",
                   "lemma": "–",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "–"
                 }
               ]
             },
@@ -1903,7 +1903,7 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -1922,8 +1922,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "perfido",
                   "lemma": "perfido",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "perfidious"
                 }
               ]
             },
@@ -1948,7 +1948,7 @@ export const luciaDiLammermoorAct1: Act = {
                   "word": "svelarti",
                   "lemma": "svelarti",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive svelare with ti"
                 },
                 {
                   "word": "rea",
@@ -1977,9 +1977,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "colpisse",
-                  "lemma": "colpisse",
+                  "lemma": "colpire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect subjunctive of colpire"
                 },
                 {
                   "word": "un",
@@ -1990,8 +1990,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "fulmine",
                   "lemma": "fulmine",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "lightning"
                 }
               ]
             },
@@ -2002,9 +2002,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Fora",
-                  "lemma": "fora",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "would be / were (poetic)"
                 },
                 {
                   "word": "men",
@@ -2015,14 +2015,14 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "rio",
                   "lemma": "rio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "brook; stream; streamlet / a stretch of urban canal"
                 },
                 {
                   "word": "dolor",
-                  "lemma": "dolor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "dolore",
+                  "pos": "noun",
+                  "meaning": "ache, pain / sorrow, grief"
                 }
               ]
             }
@@ -2041,7 +2041,7 @@ export const luciaDiLammermoorAct1: Act = {
                   "word": "Pietoso",
                   "lemma": "pietoso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "pitiful, pathetic"
                 },
                 {
                   "word": "al",
@@ -2058,8 +2058,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "decoro",
                   "lemma": "decoro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "dignified, fair, elegant"
                 }
               ]
             },
@@ -2156,9 +2156,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "smentisci",
-                  "lemma": "smentisci",
+                  "lemma": "smentire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "o",
@@ -2209,8 +2209,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "dubbio",
                   "lemma": "dubbio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "doubtful, uncertain, dubious, questionable"
                 },
                 {
                   "word": "è",
@@ -2221,14 +2221,14 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "omai",
                   "lemma": "omai",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "contraction of oggimai"
                 },
                 {
                   "word": "certezza",
                   "lemma": "certezza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "certainty, certitude / conviction, confidence, assurance"
                 }
               ]
             }
@@ -2252,8 +2252,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "tú",
                   "lemma": "tú",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "tú"
                 }
               ]
             }
@@ -2270,9 +2270,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Narrate",
-                  "lemma": "narrate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "narrare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -2320,9 +2320,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "vinti",
-                  "lemma": "vinti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vinto",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of vinto"
                 },
                 {
                   "word": "da",
@@ -2333,8 +2333,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "stanchezza",
                   "lemma": "stanchezza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "tiredness, weariness, fatigue"
                 }
               ]
             },
@@ -2357,13 +2357,13 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "errar",
-                  "lemma": "errar",
+                  "lemma": "errare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to wander, roam, ramble / to be mistaken, be wrong, err"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -2388,9 +2388,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "posammo",
-                  "lemma": "posammo",
+                  "lemma": "posare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural past historic of posare"
                 },
                 {
                   "word": "della",
@@ -2401,8 +2401,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "torre",
                   "lemma": "torre",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "tower / rook"
                 }
               ]
             },
@@ -2420,14 +2420,14 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "vestibolo",
                   "lemma": "vestibolo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "vestibule / vestibule"
                 },
                 {
                   "word": "cadente",
-                  "lemma": "cadente",
+                  "lemma": "cadere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "present participle of cadere"
                 }
               ]
             },
@@ -2456,9 +2456,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "trascorre",
-                  "lemma": "trascorre",
+                  "lemma": "trascorrere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of trascorrere"
                 }
               ]
             },
@@ -2482,8 +2482,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "pallido",
                   "lemma": "pallido",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "pale / bleak"
                 },
                 {
                   "word": "e",
@@ -2493,9 +2493,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "tacente",
-                  "lemma": "tacente",
+                  "lemma": "tacere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "present participle of tacere"
                 }
               ]
             },
@@ -2513,8 +2513,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "appresso",
                   "lemma": "appresso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "nearby"
                 },
                 {
                   "word": "ei",
@@ -2524,7 +2524,7 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "n",
-                  "lemma": "n'",
+                  "lemma": "n",
                   "pos": "noun",
                   "meaning": "of-it"
                 },
@@ -2549,9 +2549,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Ravvissiam",
-                  "lemma": "ravvissiam",
+                  "lemma": "Ravvissiam",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ravvissiam"
                 },
                 {
                   "word": "lo",
@@ -2561,15 +2561,15 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "sconosciuto",
-                  "lemma": "sconosciuto",
+                  "lemma": "sconoscere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of sconoscere"
                 },
                 {
                   "word": "–",
                   "lemma": "–",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "–"
                 }
               ]
             },
@@ -2587,20 +2587,20 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "sù",
                   "lemma": "sù",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "misspelling of su"
                 },
                 {
                   "word": "celere",
                   "lemma": "celere",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "quick, fast"
                 },
                 {
                   "word": "destriero",
                   "lemma": "destriero",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "steed / warhorse, charger"
                 }
               ]
             },
@@ -2611,15 +2611,15 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "S",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
                 {
                   "word": "involò",
-                  "lemma": "involò",
+                  "lemma": "involare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of involare"
                 },
                 {
                   "word": "dal",
@@ -2673,8 +2673,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "falconiero",
                   "lemma": "falconiero",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "falconiero"
                 }
               ]
             },
@@ -2741,9 +2741,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Edgardo",
-                  "lemma": "edgardo",
+                  "lemma": "Edgardo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Edgardo of Ravenswood"
                 }
               ]
             }
@@ -2773,8 +2773,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "rabbia",
                   "lemma": "rabbia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "anger, chafe / rabies"
                 },
                 {
                   "word": "che",
@@ -2784,7 +2784,7 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -2803,9 +2803,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Contenersi",
-                  "lemma": "contenersi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "contenere",
+                  "pos": "verb",
+                  "meaning": "reflexive of contenere / to contain oneself, control oneself"
                 },
                 {
                   "word": "un",
@@ -2870,9 +2870,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "sospendi",
-                  "lemma": "sospendi",
+                  "lemma": "sospendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -2895,9 +2895,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "pietade",
-                  "lemma": "pietade",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pietà",
+                  "pos": "noun",
+                  "meaning": "pity / mercy / compassion"
                 },
                 {
                   "word": "in",
@@ -2927,9 +2927,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Miti",
-                  "lemma": "miti",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "mite",
+                  "pos": "adjective",
+                  "meaning": "plural of mite"
                 },
                 {
                   "word": "sensi",
@@ -3009,7 +3009,7 @@ export const luciaDiLammermoorAct1: Act = {
                   "word": "intendere",
                   "lemma": "intendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to mean / to understand, grasp, see"
                 },
                 {
                   "word": "potrò",
@@ -3020,8 +3020,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "–",
                   "lemma": "–",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "–"
                 }
               ]
             },
@@ -3032,9 +3032,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Sciagurati",
-                  "lemma": "sciagurati",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "sciagurato",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of sciagurato"
                 },
                 {
                   "word": "il",
@@ -3051,8 +3051,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "furore",
                   "lemma": "furore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fury, violence / frenzy"
                 }
               ]
             },
@@ -3088,8 +3088,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "rugge",
                   "lemma": "rugge",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "rugge"
                 }
               ]
             },
@@ -3106,9 +3106,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "empia",
-                  "lemma": "empia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "empio",
+                  "pos": "adjective",
+                  "meaning": "feminine of empio"
                 },
                 {
                   "word": "fiamma",
@@ -3161,9 +3161,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "spegnerò",
-                  "lemma": "spegnerò",
+                  "lemma": "spegnere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of spegnere / first-person singular future of spegnare"
                 }
               ]
             }
@@ -3195,8 +3195,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "nube",
                   "lemma": "nube",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "cloud / haze"
                 },
                 {
                   "word": "di",
@@ -3207,8 +3207,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "terrore",
                   "lemma": "terrore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "terror, fright, dread"
                 }
               ]
             },
@@ -3231,9 +3231,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "circondò",
-                  "lemma": "circondò",
+                  "lemma": "circondare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of circondare"
                 }
               ]
             },
@@ -3244,9 +3244,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "NORMANNO",
-                  "lemma": "normanno",
+                  "lemma": "Normanno",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Normanno (captain of the guard)"
                 },
                 {
                   "word": "e",
@@ -3269,15 +3269,15 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Quell",
-                  "lemma": "quell'",
+                  "lemma": "quell",
                   "pos": "noun",
                   "meaning": "that"
                 },
                 {
                   "word": "indegno",
                   "lemma": "indegno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "unworthy, undeserving / disgusting, despicable"
                 },
                 {
                   "word": "al",
@@ -3288,14 +3288,14 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "nuovo",
                   "lemma": "nuovo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "new"
                 },
                 {
                   "word": "albore",
                   "lemma": "albore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "glimmer / first light, dawn"
                 }
               ]
             },
@@ -3363,8 +3363,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "nembo",
                   "lemma": "nembo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "large dark rain cloud, nimbus / large group of people or things"
                 },
                 {
                   "word": "di",
@@ -3375,8 +3375,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "terrore",
                   "lemma": "terrore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "terror, fright, dread"
                 }
               ]
             },
@@ -3399,9 +3399,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "circondò",
-                  "lemma": "circondò",
+                  "lemma": "circondare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of circondare"
                 }
               ]
             }
@@ -3452,15 +3452,15 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Senzar",
-                  "lemma": "senzar",
+                  "lemma": "Senzar",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Senzar"
                 },
                 {
                   "word": "tremar",
                   "lemma": "tremar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of tremare"
                 },
                 {
                   "word": "non",
@@ -3513,15 +3513,15 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "Ravenswood",
-                  "lemma": "ravenswood",
+                  "lemma": "Ravenswood",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ravenswood"
                 },
                 {
                   "word": "ardendo",
-                  "lemma": "ardendo",
+                  "lemma": "ardere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of ardere"
                 }
               ]
             },
@@ -3556,9 +3556,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "amata",
-                  "lemma": "amata",
+                  "lemma": "amato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of amato"
                 },
                 {
                   "word": "donna",
@@ -3576,14 +3576,14 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "Colà",
                   "lemma": "colà",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "there"
                 },
                 {
                   "word": "trafisse",
-                  "lemma": "trafisse",
+                  "lemma": "trafiggere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of trafiggere"
                 },
                 {
                   "word": "l",
@@ -3599,9 +3599,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "cadde",
-                  "lemma": "cadde",
+                  "lemma": "cadere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of cadere"
                 }
               ]
             },
@@ -3612,7 +3612,7 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Nell",
-                  "lemma": "nell'",
+                  "lemma": "nell",
                   "pos": "noun",
                   "meaning": "in-the"
                 },
@@ -3631,20 +3631,20 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "ivi",
                   "lemma": "ivi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "there, therein / there, therein"
                 },
                 {
                   "word": "rimanea",
                   "lemma": "rimanea",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "rimanea"
                 },
                 {
                   "word": "sepolta",
-                  "lemma": "sepolta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sepolto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of sepolto"
                 }
               ]
             },
@@ -3655,7 +3655,7 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "M",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -3736,9 +3736,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Regnava",
-                  "lemma": "regnava",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "regnare",
+                  "pos": "verb",
+                  "meaning": "third-person singular imperfect indicative of regnare"
                 },
                 {
                   "word": "nel",
@@ -3762,9 +3762,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Alta",
-                  "lemma": "alta",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "alto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of alto"
                 },
                 {
                   "word": "la",
@@ -3799,9 +3799,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Colpià",
-                  "lemma": "colpià",
+                  "lemma": "Colpià",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Colpià"
                 },
                 {
                   "word": "la",
@@ -3824,8 +3824,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "pallido",
                   "lemma": "pallido",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "pale / bleak"
                 }
               ]
             },
@@ -3848,9 +3848,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "tetra",
-                  "lemma": "tetra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tetro",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of tetro"
                 },
                 {
                   "word": "luna",
@@ -3880,8 +3880,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "gemito",
                   "lemma": "gemito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "groan, moan"
                 }
               ]
             },
@@ -3923,8 +3923,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "fè",
                   "lemma": "fè",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fè"
                 }
               ]
             },
@@ -3960,8 +3960,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "margine",
                   "lemma": "margine",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "margin, border, edge, brink, bank, brow"
                 }
               ]
             },
@@ -3984,9 +3984,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "mostrarsi",
-                  "lemma": "mostrarsi",
+                  "lemma": "mostrare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "reflexive of mostrare / to show oneself"
                 },
                 {
                   "word": "a",
@@ -3997,8 +3997,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "mé",
                   "lemma": "mé",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mé"
                 }
               ]
             },
@@ -4033,9 +4033,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "muoversi",
-                  "lemma": "muoversi",
+                  "lemma": "muovere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "reflexive of muovere / to move, to shift"
                 }
               ]
             },
@@ -4065,8 +4065,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "vedèa",
                   "lemma": "vedèa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "vedèa"
                 }
               ]
             },
@@ -4102,8 +4102,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "esanime",
                   "lemma": "esanime",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "lifeless, dead"
                 }
               ]
             },
@@ -4115,8 +4115,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "Chiamarmi",
                   "lemma": "chiamarmi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of the infinitive chiamare with mi / Compound of chiamare and mi."
                 },
                 {
                   "word": "a",
@@ -4133,8 +4133,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "parèa",
                   "lemma": "parèa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "parèa"
                 }
               ]
             },
@@ -4188,9 +4188,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "sgombrò",
-                  "lemma": "sgombrò",
+                  "lemma": "sgombrare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of sgombrare"
                 }
               ]
             },
@@ -4231,9 +4231,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "limpida",
-                  "lemma": "limpida",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "limpido",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of limpido"
                 }
               ]
             },
@@ -4256,9 +4256,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "rosseggiò",
-                  "lemma": "rosseggiò",
+                  "lemma": "rosseggiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of rosseggiare"
                 }
               ]
             }
@@ -4311,9 +4311,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "tristi",
-                  "lemma": "tristi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "triste",
+                  "pos": "adjective",
+                  "meaning": "plural of triste"
                 }
               ]
             },
@@ -4342,9 +4342,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "presagi",
-                  "lemma": "presagi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "presagio",
+                  "pos": "noun",
+                  "meaning": "plural of presagio"
                 },
                 {
                   "word": "intendo",
@@ -4379,9 +4379,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "desisti",
-                  "lemma": "desisti",
+                  "lemma": "desistere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -4485,8 +4485,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "conforto",
                   "lemma": "conforto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "comfort, consolation, solace / support"
                 },
                 {
                   "word": "al",
@@ -4502,9 +4502,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "penar",
-                  "lemma": "penar",
+                  "lemma": "penare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to suffer"
                 }
               ]
             },
@@ -4521,9 +4521,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "rapita",
-                  "lemma": "rapita",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "rapito",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of rapito"
                 },
                 {
                   "word": "in",
@@ -4534,8 +4534,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "estasi",
                   "lemma": "estasi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "ecstasy"
                 }
               ]
             },
@@ -4559,8 +4559,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "cocente",
                   "lemma": "cocente",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "burning / painful"
                 },
                 {
                   "word": "ardore",
@@ -4583,9 +4583,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "favellar",
-                  "lemma": "favellar",
+                  "lemma": "favellare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to speak, to talk / to bespeak"
                 },
                 {
                   "word": "del",
@@ -4615,20 +4615,20 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "giura",
                   "lemma": "giura",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "guild"
                 },
                 {
                   "word": "eterna",
-                  "lemma": "eterna",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "eterno",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of eterno"
                 },
                 {
                   "word": "fê",
                   "lemma": "fê",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fê"
                 }
               ]
             },
@@ -4645,9 +4645,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "affanni",
-                  "lemma": "affanni",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "affanno",
+                  "pos": "noun",
+                  "meaning": "plural of affanno"
                 },
                 {
                   "word": "miei",
@@ -4659,7 +4659,7 @@ export const luciaDiLammermoorAct1: Act = {
                   "word": "dimentico",
                   "lemma": "dimentico",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "forgetful / oblivious or unmindful"
                 }
               ]
             },
@@ -4670,15 +4670,15 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Gioja",
-                  "lemma": "gioja",
+                  "lemma": "Gioja",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Gioja"
                 },
                 {
                   "word": "diviene",
-                  "lemma": "diviene",
+                  "lemma": "divenire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of divenire"
                 },
                 {
                   "word": "il",
@@ -4701,9 +4701,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Parmi",
-                  "lemma": "parmi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "par",
+                  "pos": "verb",
+                  "meaning": "apocopic form of pare: third-person singular present indicative of parere (mi: me)"
                 },
                 {
                   "word": "che",
@@ -4725,7 +4725,7 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -4750,9 +4750,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "schiuda",
-                  "lemma": "schiuda",
+                  "lemma": "schiudere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "il",
@@ -4799,15 +4799,15 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "amaro",
                   "lemma": "amaro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "bitter"
                 },
                 {
                   "word": "pianto",
@@ -4824,15 +4824,15 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "S",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
                 {
                   "word": "apprestano",
-                  "lemma": "apprestano",
+                  "lemma": "apprestare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of apprestare"
                 },
                 {
                   "word": "per",
@@ -4907,9 +4907,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "inusitata",
-                  "lemma": "inusitata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "inusitato",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of inusitato"
                 }
               ]
             },
@@ -4928,7 +4928,7 @@ export const luciaDiLammermoorAct1: Act = {
                   "word": "vederti",
                   "lemma": "vederti",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive vedere with ti"
                 },
                 {
                   "word": "chiede",
@@ -4951,8 +4951,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "possente",
                   "lemma": "possente",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "strong, powerful"
                 }
               ]
             },
@@ -4981,9 +4981,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "trasse",
-                  "lemma": "trasse",
+                  "lemma": "trarre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of trarre"
                 },
                 {
                   "word": "Pria",
@@ -5011,9 +5011,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "biancheggi",
-                  "lemma": "biancheggi",
+                  "lemma": "biancheggiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             },
@@ -5036,9 +5036,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "novella",
-                  "lemma": "novella",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "novello",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of novello"
                 },
                 {
                   "word": "dalle",
@@ -5048,15 +5048,15 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "patrie",
-                  "lemma": "patrie",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "patrio",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of patrio"
                 },
                 {
                   "word": "sponde",
-                  "lemma": "sponde",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sponda",
+                  "pos": "noun",
+                  "meaning": "plural of sponda"
                 }
               ]
             },
@@ -5068,8 +5068,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "Lungi",
                   "lemma": "lungi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "distant, far / far"
                 },
                 {
                   "word": "sarò",
@@ -5117,21 +5117,21 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Pè",
-                  "lemma": "pè",
+                  "lemma": "Pè",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Pè"
                 },
                 {
                   "word": "franchi",
-                  "lemma": "franchi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "franco",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of franco"
                 },
                 {
                   "word": "lidi",
-                  "lemma": "lidi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "lido",
+                  "pos": "noun",
+                  "meaning": "plural of lido"
                 },
                 {
                   "word": "amici",
@@ -5148,9 +5148,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Sciolgo",
-                  "lemma": "sciolgo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "sciogliere",
+                  "pos": "verb",
+                  "meaning": "first-person singular present indicative of sciogliere"
                 },
                 {
                   "word": "le",
@@ -5160,25 +5160,25 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "vele",
-                  "lemma": "vele",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vela",
+                  "pos": "noun",
+                  "meaning": "plural of vela"
                 },
                 {
                   "word": "ivi",
                   "lemma": "ivi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "there, therein / there, therein"
                 },
                 {
                   "word": "trattar",
-                  "lemma": "trattar",
+                  "lemma": "trattare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to treat, to handle, to deal with / to handle, to transact, to negotiate, to discuss"
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -5209,9 +5209,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "sorti",
-                  "lemma": "sorti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sorte",
+                  "pos": "noun",
+                  "meaning": "plural of sorte"
                 },
                 {
                   "word": "della",
@@ -5223,7 +5223,7 @@ export const luciaDiLammermoorAct1: Act = {
                   "word": "Scozia",
                   "lemma": "scozia",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Scotland"
                 }
               ]
             }
@@ -5271,9 +5271,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Abbandoni",
-                  "lemma": "abbandoni",
+                  "lemma": "abbandono",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of abbandono"
                 },
                 {
                   "word": "così",
@@ -5310,7 +5310,7 @@ export const luciaDiLammermoorAct1: Act = {
                   "word": "lasciarti",
                   "lemma": "lasciarti",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive lasciare with ti"
                 }
               ]
             },
@@ -5321,9 +5321,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Asthon",
-                  "lemma": "asthon",
+                  "lemma": "Asthon",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Asthon"
                 },
                 {
                   "word": "mi",
@@ -5333,9 +5333,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "vegga",
-                  "lemma": "vegga",
+                  "lemma": "vedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "io",
@@ -5345,15 +5345,15 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "stenderò",
-                  "lemma": "stenderò",
+                  "lemma": "stendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of stendere"
                 },
                 {
                   "word": "placato",
-                  "lemma": "placato",
+                  "lemma": "placare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of placare"
                 }
               ]
             },
@@ -5413,8 +5413,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "pegno",
                   "lemma": "pegno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pledge, security / token"
                 }
               ]
             },
@@ -5449,9 +5449,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "chiederò",
-                  "lemma": "chiederò",
+                  "lemma": "chiedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of chiedere"
                 }
               ]
             }
@@ -5475,8 +5475,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "ascolto",
                   "lemma": "ascolto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "listening / reception"
                 }
               ]
             },
@@ -5499,9 +5499,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "rimanga",
-                  "lemma": "rimanga",
+                  "lemma": "rimanere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "nel",
@@ -5517,9 +5517,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "sepolto",
-                  "lemma": "sepolto",
+                  "lemma": "seppellire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of seppellire"
                 }
               ]
             },
@@ -5530,9 +5530,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Peror",
-                  "lemma": "peror",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "perorare",
+                  "pos": "verb",
+                  "meaning": "first-person singular present indicative of perorare"
                 },
                 {
                   "word": "l",
@@ -5549,8 +5549,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "affetto",
                   "lemma": "affetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "affected"
                 }
               ]
             }
@@ -5586,8 +5586,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "stirpe",
                   "lemma": "stirpe",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "descent / descendants"
                 }
               ]
             },
@@ -5610,9 +5610,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "persecutor",
-                  "lemma": "persecutor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "persecutore",
+                  "pos": "noun",
+                  "meaning": "persecutor"
                 }
               ]
             },
@@ -5624,14 +5624,14 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "De",
                   "lemma": "de",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "alternative form of di"
                 },
                 {
                   "word": "mali",
                   "lemma": "mali",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Mali"
                 },
                 {
                   "word": "miei",
@@ -5655,8 +5655,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "pago",
                   "lemma": "pago",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "contented"
                 },
                 {
                   "word": "non",
@@ -5678,9 +5678,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "tolse",
-                  "lemma": "tolse",
+                  "lemma": "togliere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of togliere"
                 },
                 {
                   "word": "il",
@@ -5716,20 +5716,20 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "retaggio",
                   "lemma": "retaggio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "inheritance, heritage, legacy / background"
                 },
                 {
                   "word": "avito",
                   "lemma": "avito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "ancestral"
                 },
                 {
                   "word": "Nè",
                   "lemma": "nè",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "conjunction",
+                  "meaning": "misspelling of né"
                 },
                 {
                   "word": "basta",
@@ -5796,8 +5796,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "rio",
                   "lemma": "rio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "brook; stream; streamlet / a stretch of urban canal"
                 }
               ]
             },
@@ -5821,14 +5821,14 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "perdita",
                   "lemma": "perdita",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "loss, waste, deprivation / leak, leakage"
                 },
                 {
                   "word": "intera",
-                  "lemma": "intera",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "intero",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of intero"
                 },
                 {
                   "word": "il",
@@ -5869,9 +5869,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "abborre",
-                  "lemma": "abborre",
+                  "lemma": "abborrire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of abborrire"
                 }
               ]
             },
@@ -5897,7 +5897,7 @@ export const luciaDiLammermoorAct1: Act = {
                   "word": "Calma",
                   "lemma": "calma",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "calm, stillness, peacefulness / tranquility, peace and quiet"
                 },
                 {
                   "word": "o",
@@ -5913,7 +5913,7 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "quell",
-                  "lemma": "quell'",
+                  "lemma": "quell",
                   "pos": "noun",
                   "meaning": "that"
                 },
@@ -5925,9 +5925,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "estrema",
-                  "lemma": "estrema",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "estremo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of estremo"
                 }
               ]
             }
@@ -5974,9 +5974,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "scorre",
-                  "lemma": "scorre",
+                  "lemma": "scorrere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of scorrere"
                 }
               ]
             },
@@ -5987,15 +5987,15 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "M",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
                   "word": "odì",
                   "lemma": "odì",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "odì"
                 }
               ]
             }
@@ -6012,9 +6012,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Edgardo",
-                  "lemma": "edgardo",
+                  "lemma": "Edgardo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Edgardo of Ravenswood"
                 }
               ]
             }
@@ -6031,7 +6031,7 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "M",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -6049,9 +6049,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "trema",
-                  "lemma": "trema",
+                  "lemma": "tremare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present / second-person singular imperative"
                 }
               ]
             },
@@ -6069,8 +6069,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "tomba",
                   "lemma": "tomba",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "tomb, grave / a very narrow and gloomy habitation or room"
                 },
                 {
                   "word": "che",
@@ -6080,9 +6080,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "rinserra",
-                  "lemma": "rinserra",
+                  "lemma": "rinserrare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ],
               "grammarNote": "'Upon the tomb that encloses my betrayed father.' Edgardo recalls his solemn oath of vengeance against the Ashtons."
@@ -6100,15 +6100,15 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "tradito",
-                  "lemma": "tradito",
+                  "lemma": "tradire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of tradire"
                 },
                 {
                   "word": "genitore",
                   "lemma": "genitore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "parent"
                 }
               ]
             },
@@ -6137,9 +6137,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "eterna",
-                  "lemma": "eterna",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "eterno",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of eterno"
                 },
                 {
                   "word": "guerra",
@@ -6163,8 +6163,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "giurài",
                   "lemma": "giurài",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "giurài"
                 },
                 {
                   "word": "nel",
@@ -6181,8 +6181,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "furore",
                   "lemma": "furore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fury, violence / frenzy"
                 }
               ]
             },
@@ -6229,9 +6229,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "nacque",
-                  "lemma": "nacque",
+                  "lemma": "nascere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of nascere"
                 }
               ]
             },
@@ -6249,8 +6249,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "affetto",
                   "lemma": "affetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "affected"
                 },
                 {
                   "word": "e",
@@ -6272,9 +6272,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "tacque",
-                  "lemma": "tacque",
+                  "lemma": "tacere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of tacere"
                 }
               ]
             },
@@ -6298,8 +6298,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "voto",
                   "lemma": "voto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "vow / vote, ballot"
                 },
                 {
                   "word": "non",
@@ -6316,8 +6316,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "infranto",
                   "lemma": "infranto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "broken"
                 }
               ]
             },
@@ -6340,9 +6340,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "compirlo",
-                  "lemma": "compirlo",
+                  "lemma": "compir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of compire (lo: him / it)"
                 },
                 {
                   "word": "ancor",
@@ -6366,8 +6366,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "Deh",
                   "lemma": "deh",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "pray! / ah! / alas!"
                 },
                 {
                   "word": "ti",
@@ -6377,15 +6377,15 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "placa",
-                  "lemma": "placa",
+                  "lemma": "placare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "deh",
                   "lemma": "deh",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "pray! / ah! / alas!"
                 },
                 {
                   "word": "ti",
@@ -6395,9 +6395,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "frena",
-                  "lemma": "frena",
+                  "lemma": "frenare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -6416,7 +6416,7 @@ export const luciaDiLammermoorAct1: Act = {
                   "word": "tradirne",
                   "lemma": "tradirne",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive tradire with ne"
                 },
                 {
                   "word": "un",
@@ -6433,8 +6433,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "accento",
                   "lemma": "accento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "stress / accent"
                 }
               ]
             },
@@ -6494,7 +6494,7 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -6507,8 +6507,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "mora",
                   "lemma": "mora",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mulberry ; fruit of a plant of the genus Morus / blackberry , and similar fruits such as loganberry; fruit of a plant of the genus Rubus"
                 },
                 {
                   "word": "di",
@@ -6531,21 +6531,21 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Ceda",
-                  "lemma": "ceda",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "cedere",
+                  "pos": "verb",
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "ceda",
-                  "lemma": "ceda",
+                  "lemma": "cedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "ogn",
-                  "lemma": "ogn",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ogne",
+                  "pos": "particle",
+                  "meaning": "alternative form of ogni"
                 },
                 {
                   "word": "altro",
@@ -6556,8 +6556,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "affetto",
                   "lemma": "affetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "affected"
                 }
               ]
             },
@@ -6580,15 +6580,15 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
                 {
                   "word": "infiammi",
-                  "lemma": "infiammi",
+                  "lemma": "infiammare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "il",
@@ -6642,8 +6642,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "piû",
                   "lemma": "piû",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "piû"
                 },
                 {
                   "word": "santo",
@@ -6661,8 +6661,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "De",
                   "lemma": "de",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "alternative form of di"
                 },
                 {
                   "word": "tuoi",
@@ -6672,9 +6672,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "voti",
-                  "lemma": "voti",
+                  "lemma": "votare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "è",
@@ -6733,9 +6733,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "eterna",
-                  "lemma": "eterna",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "eterno",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of eterno"
                 },
                 {
                   "word": "fede",
@@ -6765,8 +6765,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "giura",
                   "lemma": "giura",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "guild"
                 },
                 {
                   "word": "al",
@@ -6783,8 +6783,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "innante",
                   "lemma": "innante",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "innante"
                 }
               ]
             },
@@ -6840,7 +6840,7 @@ export const luciaDiLammermoorAct1: Act = {
                   "word": "Tempio",
                   "lemma": "tempio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "temple / temple"
                 },
                 {
                   "word": "ed",
@@ -6851,8 +6851,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "ara",
                   "lemma": "ara",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "the base upon which objects were sacrificed to the gods by fire / pyre"
                 },
                 {
                   "word": "è",
@@ -6900,14 +6900,14 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "fato",
                   "lemma": "fato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fate, destiny"
                 },
                 {
                   "word": "unisco",
-                  "lemma": "unisco",
+                  "lemma": "unire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of unire"
                 },
                 {
                   "word": "il",
@@ -7004,9 +7004,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "voti",
-                  "lemma": "voti",
+                  "lemma": "votare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "amore",
@@ -7016,9 +7016,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "invoco",
-                  "lemma": "invoco",
+                  "lemma": "invocare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of invocare"
                 }
               ]
             }
@@ -7047,15 +7047,15 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "voti",
-                  "lemma": "voti",
+                  "lemma": "votare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "invoco",
-                  "lemma": "invoco",
+                  "lemma": "invocare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of invocare"
                 },
                 {
                   "word": "il",
@@ -7084,9 +7084,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Porrà",
-                  "lemma": "porrà",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "porre",
+                  "pos": "verb",
+                  "meaning": "third-person singular future of porre"
                 },
                 {
                   "word": "fine",
@@ -7152,8 +7152,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "gel",
                   "lemma": "gel",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "gel"
                 }
               ]
             }
@@ -7171,14 +7171,14 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "Separarci",
                   "lemma": "separarci",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of the infinitive separare with ci"
                 },
                 {
                   "word": "omai",
                   "lemma": "omai",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "contraction of oggimai"
                 },
                 {
                   "word": "conviene",
@@ -7225,9 +7225,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "funesta",
-                  "lemma": "funesta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "funesto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of funesto"
                 }
               ]
             },
@@ -7263,8 +7263,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "tè",
                   "lemma": "tè",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "tea / tea"
                 },
                 {
                   "word": "ne",
@@ -7404,8 +7404,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "messaggiero",
                   "lemma": "messaggiero",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of messaggero"
                 }
               ]
             },
@@ -7434,9 +7434,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "fuggitiva",
-                  "lemma": "fuggitiva",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "fuggitivo",
+                  "pos": "noun",
+                  "meaning": "female equivalent of fuggitivo"
                 }
               ]
             },
@@ -7460,8 +7460,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "nudrirò",
                   "lemma": "nudrirò",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "nudrirò"
                 }
               ]
             }
@@ -7497,8 +7497,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "memoria",
                   "lemma": "memoria",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "memory, recall / memory, recollection, remembrance"
                 },
                 {
                   "word": "viva",
@@ -7533,9 +7533,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "serberò",
-                  "lemma": "serberò",
+                  "lemma": "serbare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of serbare"
                 }
               ]
             }
@@ -7552,9 +7552,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Veranno",
-                  "lemma": "veranno",
+                  "lemma": "Veranno",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Veranno"
                 },
                 {
                   "word": "a",
@@ -7570,7 +7570,7 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "sull",
-                  "lemma": "sull'",
+                  "lemma": "sull",
                   "pos": "noun",
                   "meaning": "on-the"
                 },
@@ -7607,9 +7607,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "ardenti",
-                  "lemma": "ardenti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ardente",
+                  "pos": "adjective",
+                  "meaning": "plural of ardente"
                 }
               ]
             },
@@ -7670,8 +7670,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "de",
                   "lemma": "de",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "alternative form of di"
                 },
                 {
                   "word": "miei",
@@ -7694,13 +7694,13 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Pensando",
-                  "lemma": "pensando",
+                  "lemma": "pensare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of pensare"
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -7718,9 +7718,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "gemiti",
-                  "lemma": "gemiti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "gemito",
+                  "pos": "noun",
+                  "meaning": "plural of gemito"
                 }
               ]
             },
@@ -7738,8 +7738,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "pasco",
                   "lemma": "pasco",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pasture / feeding"
                 },
                 {
                   "word": "e",
@@ -7755,9 +7755,9 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "dolor",
-                  "lemma": "dolor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "dolore",
+                  "pos": "noun",
+                  "meaning": "ache, pain / sorrow, grief"
                 }
               ]
             },
@@ -7768,9 +7768,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Spargi",
-                  "lemma": "spargi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "spargere",
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "una",
@@ -7780,15 +7780,15 @@ export const luciaDiLammermoorAct1: Act = {
                 },
                 {
                   "word": "mesta",
-                  "lemma": "mesta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "mesto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of mesto"
                 },
                 {
                   "word": "lagrima",
                   "lemma": "lagrima",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of lacrima"
                 }
               ]
             },
@@ -7812,8 +7812,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "pegno",
                   "lemma": "pegno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pledge, security / token"
                 },
                 {
                   "word": "allor",
@@ -7843,8 +7843,8 @@ export const luciaDiLammermoorAct1: Act = {
                 {
                   "word": "parto",
                   "lemma": "parto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "childbirth, labour/labor, parturition"
                 }
               ]
             }
@@ -7880,9 +7880,9 @@ export const luciaDiLammermoorAct1: Act = {
               "tokens": [
                 {
                   "word": "Rammentati",
-                  "lemma": "rammentati",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "rammentarsi",
+                  "pos": "verb",
+                  "meaning": "second-person singular imperative of rammentarsi"
                 }
               ]
             },
@@ -7929,23 +7929,10 @@ export const luciaDiLammermoorAct1: Act = {
               "literal": "Goodbye.",
               "tokens": [
                 {
-                  "word": "Addio.",
-                  "lemma": "addio.",
-                  "pos": "noun",
-                  "meaning": ""
-                }
-              ]
-            },
-            {
-              "id": "a1_s5_c25_l2",
-              "original": "\n <b>",
-              "literal": " <b>",
-              "tokens": [
-                {
-                  "word": "<b>",
-                  "lemma": "<b>",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "Addio",
+                  "lemma": "addio",
+                  "pos": "interjection",
+                  "meaning": "goodbye, farewell"
                 }
               ]
             }

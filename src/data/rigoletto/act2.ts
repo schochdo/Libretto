@@ -44,9 +44,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "rapita",
-                  "lemma": "rapita",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "rapito",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of rapito"
                 }
               ],
               "grammarNote": "'She was stolen from me!' The Duke expresses personal outrage at finding Gilda's residence empty."
@@ -88,9 +88,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "brevi",
-                  "lemma": "brevi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "breve",
+                  "pos": "adjective",
+                  "meaning": "plural of breve"
                 }
               ]
             },
@@ -101,9 +101,9 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Istanti",
-                  "lemma": "istanti",
+                  "lemma": "istante",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of istante"
                 },
                 {
                   "word": "prima",
@@ -132,14 +132,14 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "presagio",
                   "lemma": "presagio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "omen, sign / premonition, presentiment"
                 },
                 {
                   "word": "interno",
                   "lemma": "interno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "inside, indoor; internal, interior, inner / domestic, home, inland"
                 }
               ]
             },
@@ -150,21 +150,21 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Sull",
-                  "lemma": "sull'",
+                  "lemma": "sull",
                   "pos": "noun",
                   "meaning": "on-the"
                 },
                 {
                   "word": "orma",
                   "lemma": "orma",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "footprint / track, spoor"
                 },
                 {
                   "word": "corsa",
                   "lemma": "corsa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "run, running / race, racing"
                 },
                 {
                   "word": "ancora",
@@ -180,9 +180,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "spingesse",
-                  "lemma": "spingesse",
+                  "lemma": "spingere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect subjunctive of spingere"
                 }
               ]
             },
@@ -193,9 +193,9 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Schiuso",
-                  "lemma": "schiuso",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "schiudere",
+                  "pos": "verb",
+                  "meaning": "past participle of schiudere"
                 },
                 {
                   "word": "era",
@@ -235,9 +235,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "deserta",
-                  "lemma": "deserta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "deserto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of deserto"
                 }
               ]
             },
@@ -272,15 +272,15 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "quell",
-                  "lemma": "quell'",
+                  "lemma": "quell",
                   "pos": "noun",
                   "meaning": "that"
                 },
                 {
                   "word": "angiol",
-                  "lemma": "angiol",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "angiola",
+                  "pos": "noun",
+                  "meaning": "plural of angiola"
                 },
                 {
                   "word": "caro",
@@ -346,9 +346,9 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Destar",
-                  "lemma": "destar",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "destare",
+                  "pos": "verb",
+                  "meaning": "to wake up / to stimulate or agitate"
                 },
                 {
                   "word": "la",
@@ -370,15 +370,15 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "costanti",
-                  "lemma": "costanti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "costante",
+                  "pos": "adjective",
+                  "meaning": "plural of costante"
                 },
                 {
                   "word": "affetti",
-                  "lemma": "affetti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "affetto",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of affetto"
                 }
               ]
             },
@@ -401,9 +401,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "pura",
-                  "lemma": "pura",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "puro",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of puro"
                 },
                 {
                   "word": "al",
@@ -420,8 +420,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "modesto",
                   "lemma": "modesto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "modest, unpretentious, plain, unassuming, reserved, humble / small, slight, scant"
                 },
                 {
                   "word": "sguardo",
@@ -444,9 +444,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "spinto",
-                  "lemma": "spinto",
+                  "lemma": "spingere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of spingere"
                 },
                 {
                   "word": "a",
@@ -505,9 +505,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "rapita",
-                  "lemma": "rapita",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "rapito",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of rapito"
                 }
               ],
               "grammarNote": "'She was stolen from me!' The Duke expresses personal outrage at finding Gilda's residence empty."
@@ -537,9 +537,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "ardiva",
-                  "lemma": "ardiva",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "ardire",
+                  "pos": "verb",
+                  "meaning": "third-person singular imperfect indicative of ardire"
                 },
                 {
                   "word": "ma",
@@ -623,9 +623,9 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Parmi",
-                  "lemma": "parmi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "par",
+                  "pos": "verb",
+                  "meaning": "apocopic form of pare: third-person singular present indicative of parere (mi: me)"
                 },
                 {
                   "word": "veder",
@@ -641,9 +641,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "lagrime",
-                  "lemma": "lagrime",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "lagrima",
+                  "pos": "noun",
+                  "meaning": "plural of lagrima"
                 }
               ],
               "grammarNote": "'I seem to see the tears.' 'Parmi' is an poetic contraction for 'mi pare' (it seems to me). 'Ciglio' (eyelash/brow) is used poetically for eye."
@@ -655,9 +655,9 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Scorrenti",
-                  "lemma": "scorrenti",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "scorrente",
+                  "pos": "adjective",
+                  "meaning": "plural of scorrente"
                 },
                 {
                   "word": "da",
@@ -674,8 +674,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "ciglio",
                   "lemma": "ciglio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "eyelash / eyebrow"
                 }
               ]
             },
@@ -705,8 +705,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "dubbio",
                   "lemma": "dubbio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "doubtful, uncertain, dubious, questionable"
                 },
                 {
                   "word": "e",
@@ -723,8 +723,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "ansia",
                   "lemma": "ansia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "anxiety, apprehension / eagerness"
                 }
               ]
             },
@@ -760,7 +760,7 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
@@ -779,8 +779,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "memore",
                   "lemma": "memore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "retaining the memory ; mindful / grateful"
                 }
               ]
             },
@@ -803,9 +803,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "Gualtier",
-                  "lemma": "gualtier",
+                  "lemma": "gualtiero",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a male given name, equivalent to English Walter"
                 },
                 {
                   "word": "chiamò",
@@ -835,14 +835,14 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "potea",
                   "lemma": "potea",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "potea"
                 },
                 {
                   "word": "soccorrerti",
                   "lemma": "soccorrerti",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive soccorrere with ti"
                 }
               ]
             },
@@ -865,9 +865,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "amata",
-                  "lemma": "amata",
+                  "lemma": "amato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of amato"
                 }
               ]
             },
@@ -890,13 +890,13 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "vorria",
-                  "lemma": "vorria",
+                  "lemma": "volere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "would wish / would like (poetic conditional)"
                 },
                 {
                   "word": "coll",
-                  "lemma": "coll'",
+                  "lemma": "coll",
                   "pos": "noun",
                   "meaning": "with-the"
                 },
@@ -916,20 +916,20 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "Farti",
                   "lemma": "farti",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of the infinitive fare with ti"
                 },
                 {
                   "word": "quaggiù",
                   "lemma": "quaggiù",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "down here / in the South"
                 },
                 {
                   "word": "beata",
-                  "lemma": "beata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "beato",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of beato"
                 }
               ]
             },
@@ -1001,9 +1001,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "invidiò",
-                  "lemma": "invidiò",
+                  "lemma": "invidiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of invidiare"
                 }
               ]
             }
@@ -1089,9 +1089,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "rapita",
-                  "lemma": "rapita",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "rapito",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of rapito"
                 },
                 {
                   "word": "a",
@@ -1101,9 +1101,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "Rigoletto",
-                  "lemma": "rigoletto",
+                  "lemma": "Rigoletto",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Rigoletto (court jester)"
                 }
               ]
             }
@@ -1132,7 +1132,7 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -1233,9 +1233,9 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Scorrendo",
-                  "lemma": "scorrendo",
+                  "lemma": "scorrere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of scorrere"
                 },
                 {
                   "word": "uniti",
@@ -1245,9 +1245,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "remota",
-                  "lemma": "remota",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "remoto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of remoto"
                 },
                 {
                   "word": "via",
@@ -1264,9 +1264,9 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Brev'ora",
-                  "lemma": "brev'ora",
+                  "lemma": "Brev'ora",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Brev'ora"
                 },
                 {
                   "word": "dopo",
@@ -1308,8 +1308,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "previsto",
                   "lemma": "previsto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "expected / forecast"
                 },
                 {
                   "word": "ben",
@@ -1319,7 +1319,7 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -1374,9 +1374,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "scopri",
-                  "lemma": "scopri",
+                  "lemma": "scoprire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -1411,9 +1411,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "Rigoletto",
-                  "lemma": "rigoletto",
+                  "lemma": "Rigoletto",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Rigoletto (court jester)"
                 }
               ]
             },
@@ -1448,9 +1448,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "dileguò",
-                  "lemma": "dileguò",
+                  "lemma": "dileguare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of dileguare"
                 }
               ]
             },
@@ -1475,11 +1475,11 @@ export const rigolettoAct2: Act = {
                   "word": "rapirla",
                   "lemma": "rapirla",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive rapire with la"
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -1487,7 +1487,7 @@ export const rigolettoAct2: Act = {
                   "word": "avea",
                   "lemma": "avea",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "alternative form of aveva"
                 },
                 {
                   "word": "il",
@@ -1540,9 +1540,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "spuntò",
-                  "lemma": "spuntò",
+                  "lemma": "spuntare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of spuntare"
                 }
               ]
             },
@@ -1565,9 +1565,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "Ceprano",
-                  "lemma": "ceprano",
+                  "lemma": "Ceprano",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count Ceprano"
                 },
                 {
                   "word": "noi",
@@ -1584,8 +1584,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "contessa",
                   "lemma": "contessa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Countess (Countess Almaviva / Rosina)"
                 }
               ]
             },
@@ -1596,15 +1596,15 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Rapir",
-                  "lemma": "rapir",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "rapire",
+                  "pos": "verb",
+                  "meaning": "to kidnap or abduct / to captivate"
                 },
                 {
                   "word": "volessimo",
-                  "lemma": "volessimo",
+                  "lemma": "volere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural imperfect subjunctive of volere"
                 },
                 {
                   "word": "stolto",
@@ -1614,9 +1614,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "credé",
-                  "lemma": "credé",
+                  "lemma": "credere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of credere"
                 }
               ]
             },
@@ -1645,15 +1645,15 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "all",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
                 {
                   "word": "uopo",
                   "lemma": "uopo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "need"
                 },
                 {
                   "word": "messa",
@@ -1670,9 +1670,9 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Bendato",
-                  "lemma": "bendato",
+                  "lemma": "bendare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of bendare"
                 },
                 {
                   "word": "ei",
@@ -1695,8 +1695,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "tené",
                   "lemma": "tené",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "tené"
                 }
               ]
             },
@@ -1707,9 +1707,9 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Salimmo",
-                  "lemma": "salimmo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "salire",
+                  "pos": "verb",
+                  "meaning": "first-person plural past historic of salire"
                 },
                 {
                   "word": "e",
@@ -1719,9 +1719,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "rapidi",
-                  "lemma": "rapidi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "rapido",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of rapido"
                 },
                 {
                   "word": "la",
@@ -1732,8 +1732,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "giovinetta",
                   "lemma": "giovinetta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "young girl"
                 }
               ]
             },
@@ -1756,9 +1756,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "riusciva",
-                  "lemma": "riusciva",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "riuscire",
+                  "pos": "verb",
+                  "meaning": "third-person singular imperfect indicative of riuscire"
                 },
                 {
                   "word": "quindi",
@@ -1768,9 +1768,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "asportar",
-                  "lemma": "asportar",
+                  "lemma": "asportare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to remove, take away, extract / to eradicate"
                 }
               ]
             },
@@ -1781,21 +1781,21 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Quand'ei",
-                  "lemma": "quand'ei",
+                  "lemma": "Quand'ei",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Quand'ei"
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
                 {
                   "word": "accorse",
-                  "lemma": "accorse",
+                  "lemma": "accorrere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of accorrere"
                 },
                 {
                   "word": "della",
@@ -1818,9 +1818,9 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Restò",
-                  "lemma": "restò",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "restare",
+                  "pos": "verb",
+                  "meaning": "third-person singular past historic of restare"
                 },
                 {
                   "word": "scornato",
@@ -1836,9 +1836,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "imprecar",
-                  "lemma": "imprecar",
+                  "lemma": "imprecare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to curse, swear"
                 }
               ]
             }
@@ -1869,9 +1869,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "dessa",
-                  "lemma": "dessa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "desso",
+                  "pos": "pronoun",
+                  "meaning": "feminine singular of desso"
                 },
                 {
                   "word": "la",
@@ -1920,7 +1920,7 @@ export const rigolettoAct2: Act = {
                   "word": "trovasi",
                   "lemma": "trovasi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of trova, the second-person singular imperative form of trovare, with si"
                 },
                 {
                   "word": "la",
@@ -1973,9 +1973,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "addotta",
-                  "lemma": "addotta",
+                  "lemma": "addotto",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of addotto"
                 },
                 {
                   "word": "or",
@@ -2042,9 +2042,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "rapì",
-                  "lemma": "rapì",
+                  "lemma": "rapire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of rapire"
                 }
               ]
             },
@@ -2056,8 +2056,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "Possente",
                   "lemma": "possente",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "strong, powerful"
                 },
                 {
                   "word": "amor",
@@ -2088,8 +2088,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "Volar",
                   "lemma": "volar",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "apocopic form of volare"
                 },
                 {
                   "word": "io",
@@ -2101,7 +2101,7 @@ export const rigolettoAct2: Act = {
                   "word": "deggio",
                   "lemma": "deggio",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "alternative form of devo, first-person singular present indicative of dovere"
                 },
                 {
                   "word": "a",
@@ -2161,9 +2161,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "consolar",
-                  "lemma": "consolar",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "consolare",
+                  "pos": "adjective",
+                  "meaning": "consular"
                 },
                 {
                   "word": "quel",
@@ -2192,9 +2192,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "sappia",
-                  "lemma": "sappia",
+                  "lemma": "sapere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "alfin",
@@ -2229,9 +2229,9 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Conosca",
-                  "lemma": "conosca",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "conoscere",
+                  "pos": "verb",
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "alfin",
@@ -2260,21 +2260,21 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Apprenda",
-                  "lemma": "apprenda",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "apprendere",
+                  "pos": "verb",
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
                 {
                   "word": "anco",
                   "lemma": "anco",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "alternative form of anche"
                 },
                 {
                   "word": "in",
@@ -2285,8 +2285,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "trono",
                   "lemma": "trono",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "throne"
                 }
               ]
             },
@@ -2309,9 +2309,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "schiavi",
-                  "lemma": "schiavi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "schiavo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of schiavo"
                 },
                 {
                   "word": "Amor",
@@ -2366,9 +2366,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "agita",
-                  "lemma": "agita",
+                  "lemma": "agito",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of agito"
                 }
               ]
             },
@@ -2385,21 +2385,21 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "cangiò",
-                  "lemma": "cangiò",
+                  "lemma": "cangiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of cangiare"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "umor",
                   "lemma": "umor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apocopic form of umore"
                 }
               ]
             }
@@ -2431,9 +2431,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "Rigoletto",
-                  "lemma": "rigoletto",
+                  "lemma": "Rigoletto",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Rigoletto (court jester)"
                 }
               ]
             }
@@ -2457,8 +2457,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "ra",
                   "lemma": "ra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Ra"
                 },
                 {
                   "word": "la",
@@ -2469,8 +2469,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "ra",
                   "lemma": "ra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Ra"
                 },
                 {
                   "word": "la",
@@ -2548,9 +2548,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "Rigoletto",
-                  "lemma": "rigoletto",
+                  "lemma": "Rigoletto",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Rigoletto (court jester)"
                 }
               ]
             }
@@ -2610,7 +2610,7 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -2629,14 +2629,14 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "nuovo",
                   "lemma": "nuovo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "new"
                 },
                 {
                   "word": "buffon",
-                  "lemma": "buffon",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "buffone",
+                  "pos": "noun",
+                  "meaning": "clown, buffoon, joker, fool"
                 }
               ]
             }
@@ -2653,7 +2653,7 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -2672,14 +2672,14 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "nuovo",
                   "lemma": "nuovo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "new"
                 },
                 {
                   "word": "buffon",
-                  "lemma": "buffon",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "buffone",
+                  "pos": "noun",
+                  "meaning": "clown, buffoon, joker, fool"
                 }
               ]
             },
@@ -2696,7 +2696,7 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
@@ -2792,8 +2792,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "ra",
                   "lemma": "ra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Ra"
                 },
                 {
                   "word": "la",
@@ -2804,8 +2804,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "ra",
                   "lemma": "ra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Ra"
                 },
                 {
                   "word": "la",
@@ -2841,14 +2841,14 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "avran",
                   "lemma": "avran",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "avran"
                 },
                 {
                   "word": "nascosta",
-                  "lemma": "nascosta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "nascosto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of nascosto"
                 }
               ]
             }
@@ -2878,8 +2878,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "inquieto",
                   "lemma": "inquieto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "restless, agitated, unquiet, cross / anxious, worried"
                 }
               ]
             }
@@ -2903,8 +2903,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "ra",
                   "lemma": "ra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Ra"
                 },
                 {
                   "word": "la",
@@ -2915,8 +2915,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "ra",
                   "lemma": "ra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Ra"
                 },
                 {
                   "word": "la",
@@ -2964,8 +2964,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "inquieto",
                   "lemma": "inquieto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "restless, agitated, unquiet, cross / anxious, worried"
                 }
               ]
             }
@@ -3027,9 +3027,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "nuocesse",
-                  "lemma": "nuocesse",
+                  "lemma": "nuocere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect subjunctive of nuocere"
                 }
               ]
             },
@@ -3157,7 +3157,7 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "S",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -3169,9 +3169,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "dormito",
-                  "lemma": "dormito",
+                  "lemma": "dormire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of dormire"
                 },
                 {
                   "word": "sempre",
@@ -3208,9 +3208,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "dormiste",
-                  "lemma": "dormiste",
+                  "lemma": "dormire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural past historic / second-person plural imperfect subjunctive"
                 },
                 {
                   "word": "Avrò",
@@ -3246,8 +3246,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "ra",
                   "lemma": "ra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Ra"
                 },
                 {
                   "word": "la",
@@ -3258,8 +3258,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "ra",
                   "lemma": "ra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Ra"
                 },
                 {
                   "word": "la",
@@ -3312,9 +3312,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "osserva",
-                  "lemma": "osserva",
+                  "lemma": "osservare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -3383,8 +3383,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "tuttor",
                   "lemma": "tuttor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "tuttor"
                 }
               ]
             }
@@ -3472,7 +3472,7 @@ export const rigolettoAct2: Act = {
                   "word": "Duchessa",
                   "lemma": "duchessa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "duchess"
                 }
               ]
             }
@@ -3600,15 +3600,15 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "paggi",
-                  "lemma": "paggi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "paggio",
+                  "pos": "noun",
+                  "meaning": "plural of paggio"
                 },
                 {
                   "word": "senz'armi",
                   "lemma": "senz'armi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "senz'armi"
                 }
               ]
             }
@@ -3842,9 +3842,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "rapiste",
-                  "lemma": "rapiste",
+                  "lemma": "rapire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural past historic / second-person plural imperfect subjunctive"
                 }
               ]
             },
@@ -3867,15 +3867,15 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "saprò",
-                  "lemma": "saprò",
+                  "lemma": "sapere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of sapere"
                 },
                 {
                   "word": "riprender",
-                  "lemma": "riprender",
+                  "lemma": "riprendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to take or grab again / to take  again"
                 },
                 {
                   "word": "Ella",
@@ -3928,9 +3928,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "perdesti",
-                  "lemma": "perdesti",
+                  "lemma": "perdere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular past historic of perdere"
                 },
                 {
                   "word": "la",
@@ -3954,8 +3954,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "Altrove",
                   "lemma": "altrove",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "elsewhere, somewhere else"
                 }
               ]
             }
@@ -3979,8 +3979,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "vo'mia",
                   "lemma": "vo'mia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "vo'mia"
                 },
                 {
                   "word": "figlia",
@@ -4060,7 +4060,7 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -4109,9 +4109,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "ridete",
-                  "lemma": "ridete",
+                  "lemma": "ridere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -4147,8 +4147,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "vogl'io",
                   "lemma": "vogl'io",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "vogl'io"
                 },
                 {
                   "word": "la",
@@ -4158,9 +4158,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "renderete",
-                  "lemma": "renderete",
+                  "lemma": "rendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural future of rendere"
                 }
               ]
             },
@@ -4171,9 +4171,9 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Cortigiani",
-                  "lemma": "cortigiani",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "cortigiano",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of cortigiano"
                 },
                 {
                   "word": "vil",
@@ -4189,9 +4189,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "dannata",
-                  "lemma": "dannata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "dannato",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of dannato"
                 }
               ],
               "grammarNote": "'Courtiers, vile damned race.' Rigoletto's furious baritone tirade accusing the nobles of kidnapping his daughter."
@@ -4221,9 +4221,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "vendeste",
-                  "lemma": "vendeste",
+                  "lemma": "vendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural past historic / second-person plural imperfect subjunctive"
                 },
                 {
                   "word": "il",
@@ -4288,9 +4288,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "sconviene",
-                  "lemma": "sconviene",
+                  "lemma": "sconvenire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of sconvenire"
                 }
               ]
             },
@@ -4325,15 +4325,15 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "impagabil",
-                  "lemma": "impagabil",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "impagabile",
+                  "pos": "adjective",
+                  "meaning": "priceless"
                 },
                 {
                   "word": "tesor",
-                  "lemma": "tesor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tesoro",
+                  "pos": "noun",
+                  "meaning": "valuable things, treasure / term of endearment, treasure"
                 }
               ]
             },
@@ -4350,9 +4350,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "rendete",
-                  "lemma": "rendete",
+                  "lemma": "rendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "o",
@@ -4374,9 +4374,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "disarmata",
-                  "lemma": "disarmata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "disarmato",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of disarmato"
                 }
               ]
             },
@@ -4411,15 +4411,15 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "fora",
-                  "lemma": "fora",
+                  "lemma": "essere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "would be / were (poetic)"
                 },
                 {
                   "word": "cruenta",
-                  "lemma": "cruenta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "cruento",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of cruento"
                 }
               ]
             },
@@ -4466,9 +4466,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "paventa",
-                  "lemma": "paventa",
+                  "lemma": "paventare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -4491,15 +4491,15 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "figli",
-                  "lemma": "figli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "figlio",
+                  "pos": "noun",
+                  "meaning": "plural of figlio"
                 },
                 {
                   "word": "difende",
-                  "lemma": "difende",
+                  "lemma": "difendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of difendere"
                 },
                 {
                   "word": "l",
@@ -4534,13 +4534,13 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "assassini",
-                  "lemma": "assassini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "assassino",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of assassino"
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -4645,15 +4645,15 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "piango",
-                  "lemma": "piango",
+                  "lemma": "piangere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of piangere"
                 },
                 {
                   "word": "Marullo",
-                  "lemma": "marullo",
+                  "lemma": "Marullo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Marullo (courtier)"
                 },
                 {
                   "word": "Signore",
@@ -4676,7 +4676,7 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -4694,15 +4694,15 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "alma",
-                  "lemma": "alma",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "anima",
+                  "pos": "noun",
+                  "meaning": "soul / spirit (poetic for anima)"
                 },
                 {
                   "word": "gentil",
                   "lemma": "gentil",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "apocopic form of gentile"
                 },
                 {
                   "word": "come",
@@ -4761,9 +4761,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "nascosta",
-                  "lemma": "nascosta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "nascosto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of nascosto"
                 }
               ]
             },
@@ -4848,8 +4848,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "pietate",
                   "lemma": "pietate",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of pietà"
                 }
               ]
             },
@@ -4867,8 +4867,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "vegliardo",
                   "lemma": "vegliardo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "old man, especially one who inspires respect and reverence."
                 },
                 {
                   "word": "la",
@@ -4884,9 +4884,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "ridate",
-                  "lemma": "ridate",
+                  "lemma": "ridare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -4897,9 +4897,9 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Ridonarla",
-                  "lemma": "ridonarla",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ridonare",
+                  "pos": "verb",
+                  "meaning": "to give again / to give back, to restore (la: her / it)"
                 },
                 {
                   "word": "a",
@@ -5020,9 +5020,9 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Ridate",
-                  "lemma": "ridate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ridare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "a",
@@ -5197,9 +5197,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "Gilda",
-                  "lemma": "gilda",
+                  "lemma": "Gilda",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Gilda (Rigoletto's daughter)"
                 }
               ]
             },
@@ -5260,8 +5260,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "famiglia",
                   "lemma": "famiglia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "family / household"
                 },
                 {
                   "word": "Non",
@@ -5322,8 +5322,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "scherzo",
                   "lemma": "scherzo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "joke, jest, trick, hoax, frolic / joke, trifle, cinch"
                 },
                 {
                   "word": "non",
@@ -5370,9 +5370,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "piansi",
-                  "lemma": "piansi",
+                  "lemma": "piangere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of piangere"
                 },
                 {
                   "word": "or",
@@ -5451,8 +5451,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "onta",
                   "lemma": "onta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "shame, disgrace / insult, affront"
                 },
                 {
                   "word": "padre",
@@ -5512,9 +5512,9 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Arrossir",
-                  "lemma": "arrossir",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "arrossire",
+                  "pos": "verb",
+                  "meaning": "to blush"
                 },
                 {
                   "word": "voglio",
@@ -5543,8 +5543,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "soltanto",
                   "lemma": "soltanto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "only, just, but, alone, merely"
                 }
               ]
             }
@@ -5563,9 +5563,9 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Ite",
-                  "lemma": "ite",
+                  "lemma": "Ite",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ite"
                 },
                 {
                   "word": "di",
@@ -5624,7 +5624,7 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -5632,13 +5632,13 @@ export const rigolettoAct2: Act = {
                   "word": "appressarsi",
                   "lemma": "appressarsi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to approach, to come near"
                 },
                 {
                   "word": "osasse",
-                  "lemma": "osasse",
+                  "lemma": "osare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect subjunctive of osare"
                 }
               ]
             },
@@ -5649,7 +5649,7 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -5691,7 +5691,7 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -5736,9 +5736,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "fanciulli",
-                  "lemma": "fanciulli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fanciullo",
+                  "pos": "noun",
+                  "meaning": "plural of fanciullo"
                 },
                 {
                   "word": "e",
@@ -5754,9 +5754,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "dementi",
-                  "lemma": "dementi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "demente",
+                  "pos": "noun",
+                  "meaning": "plural of demente"
                 }
               ]
             },
@@ -5785,9 +5785,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "simular",
-                  "lemma": "simular",
+                  "lemma": "simulare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to simulate, to fake, to feign, to pretend"
                 }
               ]
             },
@@ -5822,7 +5822,7 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -5834,9 +5834,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "tenti",
-                  "lemma": "tenti",
+                  "lemma": "tentare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             },
@@ -5853,21 +5853,21 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "lasciamo",
-                  "lemma": "lasciamo",
+                  "lemma": "lasciare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "osservar",
-                  "lemma": "osservar",
+                  "lemma": "osservare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to observe, watch, study, examine / to observe, remark, point out, object, notice"
                 }
               ]
             }
@@ -5965,8 +5965,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "tempio",
                   "lemma": "tempio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "temple / temple"
                 }
               ],
               "grammarNote": "'Every feast day at church.' Gilda recounts to her father how the Duke followed and wooed her at mass."
@@ -5984,9 +5984,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "pregava",
-                  "lemma": "pregava",
+                  "lemma": "pregare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect indicative of pregare"
                 },
                 {
                   "word": "Iddio",
@@ -6028,8 +6028,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "giovine",
                   "lemma": "giovine",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "alternative form of giovane"
                 }
               ]
             },
@@ -6040,9 +6040,9 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Offriasi",
-                  "lemma": "offriasi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "offrire",
+                  "pos": "verb",
+                  "meaning": "second-person plural present subjunctive of offrire (si: oneself / him / her)"
                 },
                 {
                   "word": "al",
@@ -6083,9 +6083,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "labbri",
-                  "lemma": "labbri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "labbro",
+                  "pos": "noun",
+                  "meaning": "plural of labbro"
                 },
                 {
                   "word": "nostri",
@@ -6095,9 +6095,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "tacquero",
-                  "lemma": "tacquero",
+                  "lemma": "tacere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural past historic of tacere"
                 }
               ]
             },
@@ -6132,9 +6132,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "parlò",
-                  "lemma": "parlò",
+                  "lemma": "parlare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of parlare"
                 }
               ]
             },
@@ -6147,7 +6147,7 @@ export const rigolettoAct2: Act = {
                   "word": "Furtivo",
                   "lemma": "furtivo",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "stolen, related to a theft / thievish, furtive, stealthy"
                 },
                 {
                   "word": "fra",
@@ -6163,9 +6163,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "tenebre",
-                  "lemma": "tenebre",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tenebra",
+                  "pos": "noun",
+                  "meaning": "plural of tenebra / darkness"
                 }
               ]
             },
@@ -6200,9 +6200,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "giungeva",
-                  "lemma": "giungeva",
+                  "lemma": "giungere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect indicative of giungere"
                 }
               ]
             },
@@ -6288,8 +6288,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "palpito",
                   "lemma": "palpito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "beat / throb"
                 }
               ]
             },
@@ -6312,9 +6312,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "protestò",
-                  "lemma": "protestò",
+                  "lemma": "protestare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of protestare"
                 }
               ]
             },
@@ -6325,9 +6325,9 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Partì",
-                  "lemma": "partì",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "partire",
+                  "pos": "verb",
+                  "meaning": "third-person singular past historic of partire"
                 },
                 {
                   "word": "il",
@@ -6349,9 +6349,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "aprivasi",
-                  "lemma": "aprivasi",
+                  "lemma": "aprire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect indicative of aprire (si: oneself / him / her)"
                 }
               ]
             },
@@ -6368,9 +6368,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "speme",
-                  "lemma": "speme",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "speranza",
+                  "pos": "noun",
+                  "meaning": "hope (poetic for speranza)"
                 },
                 {
                   "word": "più",
@@ -6380,9 +6380,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "gradita",
-                  "lemma": "gradita",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "gradito",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of gradito"
                 }
               ]
             },
@@ -6399,15 +6399,15 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "improvvisi",
-                  "lemma": "improvvisi",
+                  "lemma": "improvvisare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "apparvero",
-                  "lemma": "apparvero",
+                  "lemma": "apparire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural past historic of apparire"
                 }
               ]
             },
@@ -6430,7 +6430,7 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -6442,9 +6442,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "rapita",
-                  "lemma": "rapita",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "rapito",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of rapito"
                 }
               ]
             },
@@ -6468,8 +6468,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "forza",
                   "lemma": "forza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "force / strength"
                 },
                 {
                   "word": "qui",
@@ -6479,15 +6479,15 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
                   "word": "addussero",
-                  "lemma": "addussero",
+                  "lemma": "addurre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural past historic of addurre"
                 }
               ]
             },
@@ -6498,15 +6498,15 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Nell",
-                  "lemma": "nell'",
+                  "lemma": "nell",
                   "pos": "noun",
                   "meaning": "in-the"
                 },
                 {
                   "word": "ansia",
                   "lemma": "ansia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "anxiety, apprehension / eagerness"
                 },
                 {
                   "word": "più",
@@ -6566,8 +6566,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "infamia",
                   "lemma": "infamia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "infamy"
                 }
               ]
             },
@@ -6590,9 +6590,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "chiedeva",
-                  "lemma": "chiedeva",
+                  "lemma": "chiedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect indicative of chiedere"
                 },
                 {
                   "word": "o",
@@ -6615,7 +6615,7 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -6627,9 +6627,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "potesse",
-                  "lemma": "potesse",
+                  "lemma": "potere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect subjunctive of potere"
                 },
                 {
                   "word": "ascendere",
@@ -6659,8 +6659,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "er'io",
                   "lemma": "er'io",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "er'io"
                 }
               ]
             },
@@ -6690,8 +6690,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "patibolo",
                   "lemma": "patibolo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "scaffold, gallows"
                 }
               ]
             },
@@ -6721,8 +6721,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "altare",
                   "lemma": "altare",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "altar"
                 }
               ]
             },
@@ -6751,9 +6751,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "scompare",
-                  "lemma": "scompare",
+                  "lemma": "scomparire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of scomparire"
                 }
               ]
             },
@@ -6771,8 +6771,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "altare",
                   "lemma": "altare",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "altar"
                 },
                 {
                   "word": "si",
@@ -6782,9 +6782,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "rovesciò",
-                  "lemma": "rovesciò",
+                  "lemma": "rovesciare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of rovesciare"
                 }
               ]
             },
@@ -6813,9 +6813,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "scorrer",
-                  "lemma": "scorrer",
+                  "lemma": "scorrere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to run, to flow, to stream, to glide, to slide / to pass, to fly, to roll by"
                 }
               ]
             },
@@ -6905,9 +6905,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "angiol",
-                  "lemma": "angiol",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "angiola",
+                  "pos": "noun",
+                  "meaning": "plural of angiola"
                 }
               ]
             },
@@ -6930,9 +6930,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "consolator",
-                  "lemma": "consolator",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "consolatore",
+                  "pos": "adjective",
+                  "meaning": "consoling, comforting"
                 }
               ]
             }
@@ -6950,8 +6950,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "Compiuto",
                   "lemma": "compiuto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "finished, completed or accomplished"
                 },
                 {
                   "word": "pur",
@@ -7004,13 +7004,13 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "potremo",
-                  "lemma": "potremo",
+                  "lemma": "potere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural future of potere"
                 },
                 {
                   "word": "quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
@@ -7022,9 +7022,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "funesta",
-                  "lemma": "funesta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "funesto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of funesto"
                 }
               ]
             }
@@ -7094,7 +7094,7 @@ export const rigolettoAct2: Act = {
                   "word": "cangiare",
                   "lemma": "cangiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to change / to change, to transform"
                 },
                 {
                   "word": "poté",
@@ -7117,9 +7117,9 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Schiudete",
-                  "lemma": "schiudete",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "schiudere",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "ire",
@@ -7136,20 +7136,20 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "carcere",
                   "lemma": "carcere",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "jail, prison / imprisonment"
                 },
                 {
                   "word": "Monteron",
-                  "lemma": "monteron",
+                  "lemma": "Monteron",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Monteron"
                 },
                 {
                   "word": "dee",
-                  "lemma": "dee",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "dea",
+                  "pos": "noun",
+                  "meaning": "plural of dea"
                 }
               ]
             }
@@ -7224,8 +7224,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "fulmine",
                   "lemma": "fulmine",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "lightning"
                 },
                 {
                   "word": "o",
@@ -7247,9 +7247,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "colpiva",
-                  "lemma": "colpiva",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "colpire",
+                  "pos": "verb",
+                  "meaning": "third-person singular imperfect indicative of colpire"
                 },
                 {
                   "word": "il",
@@ -7291,8 +7291,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "anco",
                   "lemma": "anco",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "alternative form of anche"
                 },
                 {
                   "word": "o",
@@ -7308,9 +7308,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "vivrai",
-                  "lemma": "vivrai",
+                  "lemma": "vivere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular future of vivere"
                 }
               ]
             }
@@ -7341,7 +7341,7 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -7360,8 +7360,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "vindice",
                   "lemma": "vindice",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "avenging, revenging"
                 },
                 {
                   "word": "avrai",
@@ -7390,9 +7390,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "tremenda",
-                  "lemma": "tremenda",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tremendo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of tremendo"
                 },
                 {
                   "word": "vendetta",
@@ -7416,7 +7416,7 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
@@ -7441,8 +7441,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "desio",
                   "lemma": "desio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "desire"
                 }
               ]
             },
@@ -7461,7 +7461,7 @@ export const rigolettoAct2: Act = {
                   "word": "punirti",
                   "lemma": "punirti",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive punire with ti"
                 },
                 {
                   "word": "già",
@@ -7483,7 +7483,7 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -7526,9 +7526,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "tuonerà",
-                  "lemma": "tuonerà",
+                  "lemma": "tuonare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of tuonare"
                 }
               ]
             },
@@ -7545,15 +7545,15 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "fulmin",
-                  "lemma": "fulmin",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fulmine",
+                  "pos": "noun",
+                  "meaning": "lightning"
                 },
                 {
                   "word": "scagliato",
-                  "lemma": "scagliato",
+                  "lemma": "scagliare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of scagliare"
                 },
                 {
                   "word": "da",
@@ -7584,7 +7584,7 @@ export const rigolettoAct2: Act = {
                   "word": "colpire",
                   "lemma": "colpire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to hit, strike, smite / to affect"
                 },
                 {
                   "word": "il",
@@ -7662,9 +7662,9 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Balenarvi",
-                  "lemma": "balenarvi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "balenare",
+                  "pos": "verb",
+                  "meaning": "to flash with lightning / to flash with lightning (vi: you)"
                 },
                 {
                   "word": "negli",
@@ -7681,8 +7681,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "vegg'io",
                   "lemma": "vegg'io",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "vegg'io"
                 }
               ]
             },
@@ -7693,9 +7693,9 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Perdonate",
-                  "lemma": "perdonate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "perdonare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "a",
@@ -7773,15 +7773,15 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Perdonate",
-                  "lemma": "perdonate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "perdonare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "perdonate",
-                  "lemma": "perdonate",
+                  "lemma": "perdonare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -7841,9 +7841,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "tradiva",
-                  "lemma": "tradiva",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "tradire",
+                  "pos": "verb",
+                  "meaning": "third-person singular imperfect indicative of tradire"
                 },
                 {
                   "word": "pur",
@@ -7897,8 +7897,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "ingrato",
                   "lemma": "ingrato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "ungrateful, ingrate / thankless, unrewarding, unpleasant, difficult"
                 },
                 {
                   "word": "ti",
@@ -7939,21 +7939,21 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "fulmin",
-                  "lemma": "fulmin",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fulmine",
+                  "pos": "noun",
+                  "meaning": "lightning"
                 },
                 {
                   "word": "scagliato",
-                  "lemma": "scagliato",
+                  "lemma": "scagliare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of scagliare"
                 },
                 {
-                  "word": "<i>ecc.</i>",
-                  "lemma": "<i>ecc.</i>",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "ecc",
+                  "lemma": "eccetera",
+                  "pos": "adverb",
+                  "meaning": "etc. / and so forth"
                 }
               ]
             }
@@ -7970,15 +7970,15 @@ export const rigolettoAct2: Act = {
               "tokens": [
                 {
                   "word": "Perdonate",
-                  "lemma": "perdonate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "perdonare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
-                  "word": "<i>ecc.</i>",
-                  "lemma": "<i>ecc.</i>",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "ecc",
+                  "lemma": "eccetera",
+                  "pos": "adverb",
+                  "meaning": "etc. / and so forth"
                 }
               ]
             },
@@ -7988,10 +7988,10 @@ export const rigolettoAct2: Act = {
               "literal": "<i>They exit the vehicle.</i>",
               "tokens": [
                 {
-                  "word": "<i>Escono",
-                  "lemma": "<i>escono",
+                  "word": "Escono",
+                  "lemma": "uscire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of uscire"
                 },
                 {
                   "word": "dal",
@@ -8000,10 +8000,10 @@ export const rigolettoAct2: Act = {
                   "meaning": "from-the"
                 },
                 {
-                  "word": "mezzo.</i>",
-                  "lemma": "mezzo.</i>",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "mezzo",
+                  "lemma": "mezzo",
+                  "pos": "noun",
+                  "meaning": "half, middle / means, method"
                 }
               ]
             },
@@ -8013,16 +8013,16 @@ export const rigolettoAct2: Act = {
               "literal": "<i>The right bank of the Mincio. On the left is a two-storey house, half in ruins, whose front allows you to see through a large arch the interior of a rustic inn on the ground floor, and a rough staircase that leads to the granary, within which, from a balcony without shutters, you can see a bed. On the facade facing the street there is a door that opens from the inside; the wall is so full of cracks that from the outside you can easily see what is happening inside. In the background, the deserted part of the Mincio, which flows behind a parapet in half ruin; across the river is Mantua.",
               "tokens": [
                 {
-                  "word": "<i>La",
-                  "lemma": "<i>la",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "La",
+                  "lemma": "la",
+                  "pos": "particle",
+                  "meaning": "the"
                 },
                 {
                   "word": "sponda",
                   "lemma": "sponda",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "bank, riparian / shore"
                 },
                 {
                   "word": "destra",
@@ -8040,7 +8040,7 @@ export const rigolettoAct2: Act = {
                   "word": "Mincio",
                   "lemma": "mincio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a river in Lombardy"
                 },
                 {
                   "word": "A",
@@ -8086,21 +8086,21 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "piani",
-                  "lemma": "piani",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "piano",
+                  "pos": "noun",
+                  "meaning": "plural of piano / plans"
                 },
                 {
                   "word": "mezzo",
                   "lemma": "mezzo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "half, middle / means, method"
                 },
                 {
                   "word": "diroccata",
-                  "lemma": "diroccata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "diroccato",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of diroccato"
                 },
                 {
                   "word": "la",
@@ -8153,8 +8153,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "arcata",
                   "lemma": "arcata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "arcade, arch, span / arch"
                 },
                 {
                   "word": "l",
@@ -8165,12 +8165,12 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "interno",
                   "lemma": "interno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "inside, indoor; internal, interior, inner / domestic, home, inland"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -8182,9 +8182,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "rustica",
-                  "lemma": "rustica",
+                  "lemma": "rustico",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "feminine singular of rustico"
                 },
                 {
                   "word": "osteria",
@@ -8207,8 +8207,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "terreno",
                   "lemma": "terreno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "ground / earthly, worldly, terrene, terrestrial"
                 },
                 {
                   "word": "ed",
@@ -8224,9 +8224,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "rozza",
-                  "lemma": "rozza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "rozzo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of rozzo"
                 },
                 {
                   "word": "scala",
@@ -8255,8 +8255,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "granaio",
                   "lemma": "granaio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "granary, barn / region that produces much grain; a breadbasket"
                 },
                 {
                   "word": "entro",
@@ -8285,8 +8285,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "balcone",
                   "lemma": "balcone",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "balcony"
                 },
                 {
                   "word": "senza",
@@ -8296,9 +8296,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "imposte",
-                  "lemma": "imposte",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "imposto",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of imposto"
                 },
                 {
                   "word": "si",
@@ -8386,7 +8386,7 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -8423,8 +8423,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "muro",
                   "lemma": "muro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "wall"
                 },
                 {
                   "word": "poi",
@@ -8453,8 +8453,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "difessure",
                   "lemma": "difessure",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "difessure"
                 },
                 {
                   "word": "che",
@@ -8496,13 +8496,13 @@ export const rigolettoAct2: Act = {
                   "word": "facilmente",
                   "lemma": "facilmente",
                   "pos": "adverb",
-                  "meaning": ""
+                  "meaning": "easily / probably"
                 },
                 {
                   "word": "scorgere",
                   "lemma": "scorgere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "meanings related to perception: / to see ; to catch glimpses of, make out"
                 },
                 {
                   "word": "quanto",
@@ -8512,27 +8512,27 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "avviene",
-                  "lemma": "avviene",
+                  "lemma": "avvenire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of avvenire"
                 },
                 {
                   "word": "nell",
-                  "lemma": "nell'",
+                  "lemma": "nell",
                   "pos": "noun",
                   "meaning": "in-the"
                 },
                 {
                   "word": "interno",
                   "lemma": "interno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "inside, indoor; internal, interior, inner / domestic, home, inland"
                 },
                 {
                   "word": "Infondo",
-                  "lemma": "infondo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "infondere",
+                  "pos": "verb",
+                  "meaning": "first-person singular present indicative of infondere"
                 },
                 {
                   "word": "la",
@@ -8542,9 +8542,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "deserta",
-                  "lemma": "deserta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "deserto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of deserto"
                 },
                 {
                   "word": "parte",
@@ -8562,7 +8562,7 @@ export const rigolettoAct2: Act = {
                   "word": "Mincio",
                   "lemma": "mincio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a river in Lombardy"
                 },
                 {
                   "word": "che",
@@ -8572,9 +8572,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "scorre",
-                  "lemma": "scorre",
+                  "lemma": "scorrere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of scorrere"
                 },
                 {
                   "word": "dietro",
@@ -8591,8 +8591,8 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "parapetto",
                   "lemma": "parapetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "parapet / balustrade"
                 },
                 {
                   "word": "in",
@@ -8603,14 +8603,14 @@ export const rigolettoAct2: Act = {
                 {
                   "word": "mezza",
                   "lemma": "mezza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "half-hour / half past , especially 12:30"
                 },
                 {
                   "word": "ruina",
                   "lemma": "ruina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of rovina"
                 },
                 {
                   "word": "di",
@@ -8646,7 +8646,7 @@ export const rigolettoAct2: Act = {
                   "word": "Mantova",
                   "lemma": "mantova",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Mantua"
                 }
               ]
             },
@@ -8669,9 +8669,9 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "Gilda",
-                  "lemma": "gilda",
+                  "lemma": "Gilda",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Gilda (Rigoletto's daughter)"
                 },
                 {
                   "word": "e",
@@ -8681,15 +8681,15 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "Rigoletto",
-                  "lemma": "rigoletto",
+                  "lemma": "Rigoletto",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Rigoletto (court jester)"
                 },
                 {
                   "word": "inquieti",
-                  "lemma": "inquieti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "inquieto",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of inquieto"
                 },
                 {
                   "word": "sono",
@@ -8711,33 +8711,33 @@ export const rigolettoAct2: Act = {
                 },
                 {
                   "word": "Sparafucile",
-                  "lemma": "sparafucile",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "Sparafucile",
+                  "pos": "noun",
+                  "meaning": "Sparafucile (assassin)"
                 },
                 {
                   "word": "nell",
-                  "lemma": "nell'",
+                  "lemma": "nell",
                   "pos": "noun",
                   "meaning": "in-the"
                 },
                 {
                   "word": "interno",
                   "lemma": "interno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "inside, indoor; internal, interior, inner / domestic, home, inland"
                 },
                 {
                   "word": "dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
                 {
-                  "word": "osteria.</i>",
-                  "lemma": "osteria.</i>",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "osteria",
+                  "lemma": "osteria",
+                  "pos": "noun",
+                  "meaning": "inn / barrelhouse"
                 }
               ]
             }

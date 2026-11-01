@@ -26,7 +26,7 @@ export const turandotAct1: Act = {
                   "word": "Popolo",
                   "lemma": "popolo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "people"
                 },
                 {
                   "word": "di",
@@ -36,9 +36,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "Pekino",
-                  "lemma": "pekino",
+                  "lemma": "Pekino",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Pekino"
                 },
                 {
                   "word": "La",
@@ -74,9 +74,9 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Turandot",
-                  "lemma": "turandot",
+                  "lemma": "Turandot",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Princess Turandot"
                 },
                 {
                   "word": "la",
@@ -86,9 +86,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "Pura",
-                  "lemma": "pura",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "puro",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of puro"
                 },
                 {
                   "word": "sposa",
@@ -136,8 +136,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "regio",
                   "lemma": "regio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "royal / grand, excellent"
                 }
               ]
             },
@@ -148,9 +148,9 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "spieghi",
-                  "lemma": "spieghi",
+                  "lemma": "spiegare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "i",
@@ -166,13 +166,13 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "enigmi",
-                  "lemma": "enigmi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "enigma",
+                  "pos": "noun",
+                  "meaning": "plural of enigma"
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -184,9 +184,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "proporrà",
-                  "lemma": "proporrà",
+                  "lemma": "proporre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of proporre"
                 }
               ]
             },
@@ -209,9 +209,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "affronta",
-                  "lemma": "affronta",
+                  "lemma": "affrontare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "il",
@@ -222,8 +222,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "cimento",
                   "lemma": "cimento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mixture or concoction used by goldsmiths to purify or assay precious metals / trial"
                 }
               ]
             },
@@ -252,9 +252,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "porga",
-                  "lemma": "porga",
+                  "lemma": "porgere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "alla",
@@ -265,8 +265,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "scure",
                   "lemma": "scure",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "axe"
                 },
                 {
                   "word": "la",
@@ -276,9 +276,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "superba",
-                  "lemma": "superba",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "superbo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of superbo"
                 },
                 {
                   "word": "testa",
@@ -346,13 +346,13 @@ export const turandotAct1: Act = {
                   "word": "Persia",
                   "lemma": "persia",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Persia"
                 },
                 {
                   "word": "avversa",
-                  "lemma": "avversa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "avverso",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of avverso"
                 },
                 {
                   "word": "ebbe",
@@ -383,7 +383,7 @@ export const turandotAct1: Act = {
                   "word": "sorger",
                   "lemma": "sorger",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of sorgere"
                 },
                 {
                   "word": "della",
@@ -424,8 +424,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "boia",
                   "lemma": "boia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "executioner"
                 },
                 {
                   "word": "muoia",
@@ -492,8 +492,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "carnefice",
                   "lemma": "carnefice",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "executioner / torturer, tormentor, persecutor"
                 }
               ]
             },
@@ -542,8 +542,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "supplizio",
                   "lemma": "supplizio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "torture / torment"
                 },
                 {
                   "word": "Muoia",
@@ -590,9 +590,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "appari",
-                  "lemma": "appari",
+                  "lemma": "apparire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -617,7 +617,7 @@ export const turandotAct1: Act = {
                   "word": "sveglierem",
                   "lemma": "sveglierem",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of sveglieremo"
                 }
               ]
             },
@@ -628,15 +628,15 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Pu-Tin-Pao",
-                  "lemma": "pu-tin-pao",
+                  "lemma": "Pu-tin-pao",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Pu-tin-pao"
                 },
                 {
                   "word": "Pu-Tin-Pao",
-                  "lemma": "pu-tin-pao",
+                  "lemma": "Pu-tin-pao",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Pu-tin-pao"
                 }
               ]
             },
@@ -654,8 +654,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "reggia",
                   "lemma": "reggia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "royal palace / the home of a god"
                 },
                 {
                   "word": "Alla",
@@ -666,8 +666,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "reggia",
                   "lemma": "reggia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "royal palace / the home of a god"
                 },
                 {
                   "word": "Alla",
@@ -678,8 +678,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "reggia",
                   "lemma": "reggia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "royal palace / the home of a god"
                 }
               ]
             }
@@ -697,26 +697,26 @@ export const turandotAct1: Act = {
                 {
                   "word": "Indietro",
                   "lemma": "indietro",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "back, behind, backwards"
                 },
                 {
                   "word": "cani",
-                  "lemma": "cani",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "cane",
+                  "pos": "noun",
+                  "meaning": "plural of cane"
                 },
                 {
                   "word": "Indietro",
                   "lemma": "indietro",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "back, behind, backwards"
                 },
                 {
                   "word": "cani",
-                  "lemma": "cani",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "cane",
+                  "pos": "noun",
+                  "meaning": "plural of cane"
                 }
               ]
             }
@@ -757,9 +757,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "fermi",
-                  "lemma": "fermi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fermo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of fermo"
                 }
               ]
             },
@@ -802,14 +802,14 @@ export const turandotAct1: Act = {
                 {
                   "word": "Indietro",
                   "lemma": "indietro",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "back, behind, backwards"
                 },
                 {
                   "word": "cani",
-                  "lemma": "cani",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "cane",
+                  "pos": "noun",
+                  "meaning": "plural of cane"
                 }
               ]
             }
@@ -826,9 +826,9 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Ahì",
-                  "lemma": "ahì",
+                  "lemma": "Ahì",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ahì"
                 },
                 {
                   "word": "I",
@@ -844,9 +844,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "bimbi",
-                  "lemma": "bimbi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bimbo",
+                  "pos": "noun",
+                  "meaning": "plural of bimbo"
                 },
                 {
                   "word": "Crudeli",
@@ -912,15 +912,15 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "fermi",
-                  "lemma": "fermi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fermo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of fermo"
                 },
                 {
                   "word": "Fermi",
-                  "lemma": "fermi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "fermo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of fermo"
                 }
               ]
             },
@@ -931,9 +931,9 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Fermi",
-                  "lemma": "fermi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "fermo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of fermo"
                 },
                 {
                   "word": "Oh",
@@ -969,14 +969,14 @@ export const turandotAct1: Act = {
                 {
                   "word": "Indietro",
                   "lemma": "indietro",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "back, behind, backwards"
                 },
                 {
                   "word": "cani",
-                  "lemma": "cani",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "cane",
+                  "pos": "noun",
+                  "meaning": "plural of cane"
                 }
               ]
             }
@@ -1048,9 +1048,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "umani",
-                  "lemma": "umani",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "umano",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of umano"
                 },
                 {
                   "word": "Pel",
@@ -1066,9 +1066,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "fermi",
-                  "lemma": "fermi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fermo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of fermo"
                 }
               ]
             },
@@ -1093,7 +1093,7 @@ export const turandotAct1: Act = {
                   "word": "fateci",
                   "lemma": "fateci",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of fate, the second-person plural imperative form of fare, with ci"
                 },
                 {
                   "word": "male",
@@ -1117,14 +1117,14 @@ export const turandotAct1: Act = {
                 {
                   "word": "Indietro",
                   "lemma": "indietro",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "back, behind, backwards"
                 },
                 {
                   "word": "cani",
-                  "lemma": "cani",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "cane",
+                  "pos": "noun",
+                  "meaning": "plural of cane"
                 }
               ]
             }
@@ -1147,15 +1147,15 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
                   "word": "aiuta",
-                  "lemma": "aiuta",
+                  "lemma": "aiutare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "a",
@@ -1167,7 +1167,7 @@ export const turandotAct1: Act = {
                   "word": "sorreggerlo",
                   "lemma": "sorreggerlo",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive sorreggere with lo"
                 }
               ]
             },
@@ -1259,8 +1259,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "Indietro",
                   "lemma": "indietro",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "back, behind, backwards"
                 }
               ]
             }
@@ -1340,8 +1340,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "Guardami",
                   "lemma": "guardami",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of guarda, the second-person singular imperative form of guardare, with mi"
                 },
                 {
                   "word": "Non",
@@ -1388,9 +1388,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "battete",
-                  "lemma": "battete",
+                  "lemma": "battere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / third-person singular imperative"
                 },
                 {
                   "word": "Ahimè",
@@ -1464,8 +1464,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "Ascoltami",
                   "lemma": "ascoltami",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of ascolta, the second-person singular imperative form of ascoltare, with mi"
                 },
                 {
                   "word": "Padre",
@@ -1518,9 +1518,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "dolor",
-                  "lemma": "dolor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "dolore",
+                  "pos": "noun",
+                  "meaning": "ache, pain / sorrow, grief"
                 },
                 {
                   "word": "per",
@@ -1581,7 +1581,7 @@ export const turandotAct1: Act = {
                   "word": "pietoso",
                   "lemma": "pietoso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "pitiful, pathetic"
                 }
               ]
             }
@@ -1653,9 +1653,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "usurpò",
-                  "lemma": "usurpò",
+                  "lemma": "usurpare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of usurpare"
                 },
                 {
                   "word": "la",
@@ -1708,9 +1708,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "persegue",
-                  "lemma": "persegue",
+                  "lemma": "perseguire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -1727,7 +1727,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "c",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
@@ -1788,7 +1788,7 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "T",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -1800,9 +1800,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "cercato",
-                  "lemma": "cercato",
+                  "lemma": "cercare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of cercare"
                 },
                 {
                   "word": "figlio",
@@ -1824,7 +1824,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -1836,9 +1836,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "creduto",
-                  "lemma": "creduto",
+                  "lemma": "credere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of credere"
                 },
                 {
                   "word": "morto",
@@ -1861,7 +1861,7 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "T",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -1880,8 +1880,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "padre…e",
                   "lemma": "padre…e",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "padre…e"
                 },
                 {
                   "word": "bacio",
@@ -1903,9 +1903,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "sante",
-                  "lemma": "sante",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "santo",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of santo"
                 }
               ]
             }
@@ -1934,9 +1934,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "ritrovato",
-                  "lemma": "ritrovato",
+                  "lemma": "ritrovare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of ritrovare"
                 }
               ]
             }
@@ -1978,8 +1978,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "boia",
                   "lemma": "boia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "executioner"
                 },
                 {
                   "word": "Muoia",
@@ -2027,9 +2027,9 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Perduta",
-                  "lemma": "perduta",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "perduto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of perduto"
                 },
                 {
                   "word": "la",
@@ -2082,9 +2082,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "fuggente",
-                  "lemma": "fuggente",
+                  "lemma": "fuggire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "present participle of fuggire"
                 }
               ]
             },
@@ -2107,9 +2107,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "sentii",
-                  "lemma": "sentii",
+                  "lemma": "sentire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of sentire"
                 },
                 {
                   "word": "che",
@@ -2168,9 +2168,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "guida",
-                  "lemma": "guida",
+                  "lemma": "guidare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "guides / leads / guide"
                 }
               ]
             },
@@ -2187,9 +2187,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "Liù",
-                  "lemma": "liù",
+                  "lemma": "Liù",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Liù (young slave girl)"
                 }
               ]
             }
@@ -2243,15 +2243,15 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "cadevo",
-                  "lemma": "cadevo",
+                  "lemma": "cadere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular imperfect indicative of cadere"
                 },
                 {
                   "word": "affranto",
-                  "lemma": "affranto",
+                  "lemma": "affrangere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of affrangere"
                 }
               ]
             },
@@ -2268,15 +2268,15 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
                   "word": "asciugava",
-                  "lemma": "asciugava",
+                  "lemma": "asciugare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect indicative of asciugare"
                 },
                 {
                   "word": "il",
@@ -2292,9 +2292,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "mendicava",
-                  "lemma": "mendicava",
+                  "lemma": "mendicare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect indicative of mendicare"
                 },
                 {
                   "word": "per",
@@ -2323,9 +2323,9 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Liù",
-                  "lemma": "liù",
+                  "lemma": "Liù",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Liù (young slave girl)"
                 },
                 {
                   "word": "chi",
@@ -2372,9 +2372,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "schiava",
-                  "lemma": "schiava",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "schiavo",
+                  "pos": "noun",
+                  "meaning": "female equivalent of schiavo"
                 },
                 {
                   "word": "mio",
@@ -2416,8 +2416,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "cote",
                   "lemma": "cote",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sharpening stone / hone"
                 }
               ],
               "grammarNote": "'Turn the whetstone, turn, turn! Sparkle the blade, sharpen the edge!' The executioner's henchmen grinding the axe for the Prince of Persia."
@@ -2454,8 +2454,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "angoscia",
                   "lemma": "angoscia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "anguish"
                 },
                 {
                   "word": "hai",
@@ -2466,8 +2466,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "diviso",
                   "lemma": "diviso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "divided"
                 }
               ]
             }
@@ -2509,12 +2509,12 @@ export const turandotAct1: Act = {
                 {
                   "word": "reggia",
                   "lemma": "reggia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "royal palace / the home of a god"
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -2558,8 +2558,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "cote",
                   "lemma": "cote",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sharpening stone / hone"
                 },
                 {
                   "word": "gira",
@@ -2606,15 +2606,15 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Ungi",
-                  "lemma": "ungi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ungere",
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "arrota",
-                  "lemma": "arrota",
+                  "lemma": "arrotare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "che",
@@ -2636,9 +2636,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "guizzi",
-                  "lemma": "guizzi",
+                  "lemma": "guizzare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             },
@@ -2649,9 +2649,9 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "sprizzi",
-                  "lemma": "sprizzi",
+                  "lemma": "sprizzare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "fuoco",
@@ -2687,8 +2687,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "lavoro",
                   "lemma": "lavoro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "work / labour/labor"
                 },
                 {
                   "word": "mai",
@@ -2704,9 +2704,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "langue",
-                  "lemma": "langue",
+                  "lemma": "languire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of languire"
                 },
                 {
                   "word": "mai",
@@ -2722,9 +2722,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "langue",
-                  "lemma": "langue",
+                  "lemma": "languire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of languire"
                 }
               ]
             }
@@ -2753,9 +2753,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "langue",
-                  "lemma": "langue",
+                  "lemma": "languire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of languire"
                 }
               ]
             }
@@ -2778,15 +2778,15 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "regna",
-                  "lemma": "regna",
+                  "lemma": "regnare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "Turandot",
-                  "lemma": "turandot",
+                  "lemma": "Turandot",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Princess Turandot"
                 }
               ]
             }
@@ -2809,15 +2809,15 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "regna",
-                  "lemma": "regna",
+                  "lemma": "regnare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "Turandot",
-                  "lemma": "turandot",
+                  "lemma": "Turandot",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Princess Turandot"
                 }
               ]
             }
@@ -2834,15 +2834,15 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Ingi",
-                  "lemma": "ingi",
+                  "lemma": "Ingi",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ingi"
                 },
                 {
                   "word": "Arrota",
-                  "lemma": "arrota",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "arrotare",
+                  "pos": "verb",
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -2928,14 +2928,14 @@ export const turandotAct1: Act = {
                 {
                   "word": "Cogli",
                   "lemma": "cogli",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "particle",
+                  "meaning": "contraction of con gli; with the"
                 },
                 {
                   "word": "uncini",
-                  "lemma": "uncini",
+                  "lemma": "uncinare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "e",
@@ -2951,9 +2951,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "coltelli",
-                  "lemma": "coltelli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "coltello",
+                  "pos": "noun",
+                  "meaning": "plural of coltello"
                 }
               ]
             }
@@ -2996,7 +2996,7 @@ export const turandotAct1: Act = {
                   "word": "ricamar",
                   "lemma": "ricamar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of ricamare"
                 },
                 {
                   "word": "le",
@@ -3012,9 +3012,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "pelli",
-                  "lemma": "pelli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pelle",
+                  "pos": "noun",
+                  "meaning": "plural of pelle"
                 }
               ]
             }
@@ -3088,7 +3088,7 @@ export const turandotAct1: Act = {
                   "word": "ricamar",
                   "lemma": "ricamar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of ricamare"
                 }
               ]
             }
@@ -3136,8 +3136,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "boia",
                   "lemma": "boia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "executioner"
                 },
                 {
                   "word": "gli",
@@ -3173,20 +3173,20 @@ export const turandotAct1: Act = {
                 {
                   "word": "gong",
                   "lemma": "gong",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "gong"
                 },
                 {
                   "word": "percuoterà",
-                  "lemma": "percuoterà",
+                  "lemma": "percuotere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of percuotere"
                 },
                 {
                   "word": "apparire",
                   "lemma": "apparire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to appear / to seem, to look"
                 },
                 {
                   "word": "la",
@@ -3234,8 +3234,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "giada",
                   "lemma": "giada",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "jade"
                 }
               ]
             },
@@ -3246,9 +3246,9 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "fredda",
-                  "lemma": "fredda",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "freddo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of freddo"
                 },
                 {
                   "word": "come",
@@ -3288,9 +3288,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "Turandot",
-                  "lemma": "turandot",
+                  "lemma": "Turandot",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Princess Turandot"
                 }
               ]
             }
@@ -3338,8 +3338,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "boia",
                   "lemma": "boia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "executioner"
                 },
                 {
                   "word": "la",
@@ -3400,8 +3400,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "rangola",
                   "lemma": "rangola",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "breathlessness / anxiety, worry"
                 },
                 {
                   "word": "il",
@@ -3412,14 +3412,14 @@ export const turandotAct1: Act = {
                 {
                   "word": "gong",
                   "lemma": "gong",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "gong"
                 },
                 {
                   "word": "gongola",
                   "lemma": "gongola",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "clam"
                 },
                 {
                   "word": "il",
@@ -3430,8 +3430,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "boia",
                   "lemma": "boia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "executioner"
                 }
               ]
             },
@@ -3478,7 +3478,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "c",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
@@ -3509,9 +3509,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "enigmi",
-                  "lemma": "enigmi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "enigma",
+                  "pos": "noun",
+                  "meaning": "plural of enigma"
                 },
                 {
                   "word": "sono",
@@ -3583,15 +3583,15 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "Ungi",
-                  "lemma": "ungi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ungere",
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "arrota",
-                  "lemma": "arrota",
+                  "lemma": "arrotare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -3614,9 +3614,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "enigmi",
-                  "lemma": "enigmi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "enigma",
+                  "pos": "noun",
+                  "meaning": "plural of enigma"
                 },
                 {
                   "word": "sono",
@@ -3682,15 +3682,15 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "guizzi",
-                  "lemma": "guizzi",
+                  "lemma": "guizzare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "sprizzi",
-                  "lemma": "sprizzi",
+                  "lemma": "sprizzare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "sangue",
@@ -3720,14 +3720,14 @@ export const turandotAct1: Act = {
                 {
                   "word": "gong",
                   "lemma": "gong",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "gong"
                 },
                 {
                   "word": "percuoterà",
-                  "lemma": "percuoterà",
+                  "lemma": "percuotere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of percuotere"
                 }
               ]
             }
@@ -3812,15 +3812,15 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "regna",
-                  "lemma": "regna",
+                  "lemma": "regnare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "Turandot",
-                  "lemma": "turandot",
+                  "lemma": "Turandot",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Princess Turandot"
                 }
               ]
             }
@@ -3843,9 +3843,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "tarda",
-                  "lemma": "tarda",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tardo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of tardo"
                 },
                 {
                   "word": "la",
@@ -3867,9 +3867,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "pallida",
-                  "lemma": "pallida",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pallido",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of pallido"
                 }
               ]
             },
@@ -3880,9 +3880,9 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Mostrati",
-                  "lemma": "mostrati",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "mostrato",
+                  "pos": "verb",
+                  "meaning": "masculine plural of mostrato"
                 },
                 {
                   "word": "in",
@@ -3936,8 +3936,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "mozza",
                   "lemma": "mozza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a kind of cheese / synonym of mozzicone"
                 },
                 {
                   "word": "O",
@@ -3972,9 +3972,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "Mostrati",
-                  "lemma": "mostrati",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "mostrato",
+                  "pos": "verb",
+                  "meaning": "masculine plural of mostrato"
                 },
                 {
                   "word": "in",
@@ -4010,8 +4010,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "mozza",
                   "lemma": "mozza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a kind of cheese / synonym of mozzicone"
                 },
                 {
                   "word": "O",
@@ -4022,8 +4022,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "esangue",
                   "lemma": "esangue",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "bloodless, anemic"
                 }
               ]
             },
@@ -4041,8 +4041,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "esangue",
                   "lemma": "esangue",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "bloodless, anemic"
                 },
                 {
                   "word": "o",
@@ -4071,9 +4071,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "taciturna",
-                  "lemma": "taciturna",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "taciturno",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of taciturno"
                 },
                 {
                   "word": "O",
@@ -4089,9 +4089,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "smunta",
-                  "lemma": "smunta",
+                  "lemma": "smunto",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of smunto"
                 },
                 {
                   "word": "dei",
@@ -4101,9 +4101,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "morti",
-                  "lemma": "morti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "morte",
+                  "pos": "noun",
+                  "meaning": "plural of morte / plural of morto"
                 }
               ]
             },
@@ -4120,15 +4120,15 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "taciturna",
-                  "lemma": "taciturna",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "taciturno",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of taciturno"
                 },
                 {
                   "word": "mostrati",
-                  "lemma": "mostrati",
+                  "lemma": "mostrato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "masculine plural of mostrato"
                 },
                 {
                   "word": "in",
@@ -4169,9 +4169,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "taciturna",
-                  "lemma": "taciturna",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "taciturno",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of taciturno"
                 }
               ]
             },
@@ -4195,8 +4195,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "funereo",
                   "lemma": "funereo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "funereal, mournful / funeral"
                 },
                 {
                   "word": "lume",
@@ -4212,9 +4212,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "cimiteri",
-                  "lemma": "cimiteri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "cimitero",
+                  "pos": "noun",
+                  "meaning": "plural of cimitero"
                 }
               ]
             },
@@ -4232,8 +4232,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "esangue",
                   "lemma": "esangue",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "bloodless, anemic"
                 },
                 {
                   "word": "squallida",
@@ -4256,8 +4256,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "mozza",
                   "lemma": "mozza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a kind of cheese / synonym of mozzicone"
                 }
               ]
             },
@@ -4287,8 +4287,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "barlume",
                   "lemma": "barlume",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "glimmer, flicker"
                 }
               ]
             },
@@ -4330,8 +4330,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "mozza",
                   "lemma": "mozza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a kind of cheese / synonym of mozzicone"
                 },
                 {
                   "word": "spunta",
@@ -4367,8 +4367,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "mozza",
                   "lemma": "mozza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a kind of cheese / synonym of mozzicone"
                 },
                 {
                   "word": "vieni",
@@ -4385,9 +4385,9 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Mostrati",
-                  "lemma": "mostrati",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "mostrato",
+                  "pos": "verb",
+                  "meaning": "masculine plural of mostrato"
                 },
                 {
                   "word": "o",
@@ -4403,9 +4403,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "pallida",
-                  "lemma": "pallida",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pallido",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of pallido"
                 }
               ]
             },
@@ -4428,9 +4428,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "pallida",
-                  "lemma": "pallida",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pallido",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of pallido"
                 },
                 {
                   "word": "O",
@@ -4441,14 +4441,14 @@ export const turandotAct1: Act = {
                 {
                   "word": "esangue",
                   "lemma": "esangue",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "bloodless, anemic"
                 },
                 {
                   "word": "pallida",
-                  "lemma": "pallida",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pallido",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of pallido"
                 }
               ]
             },
@@ -4471,9 +4471,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "smunta",
-                  "lemma": "smunta",
+                  "lemma": "smunto",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of smunto"
                 },
                 {
                   "word": "dei",
@@ -4483,9 +4483,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "morti",
-                  "lemma": "morti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "morte",
+                  "pos": "noun",
+                  "meaning": "plural of morte / plural of morto"
                 }
               ]
             },
@@ -4508,9 +4508,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "smunta",
-                  "lemma": "smunta",
+                  "lemma": "smunto",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of smunto"
                 },
                 {
                   "word": "dei",
@@ -4520,9 +4520,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "morti",
-                  "lemma": "morti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "morte",
+                  "pos": "noun",
+                  "meaning": "plural of morte / plural of morto"
                 },
                 {
                   "word": "Vieni",
@@ -4570,14 +4570,14 @@ export const turandotAct1: Act = {
                 {
                   "word": "barlume",
                   "lemma": "barlume",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "glimmer, flicker"
                 },
                 {
                   "word": "dilaga",
-                  "lemma": "dilaga",
+                  "lemma": "dilagare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "in",
@@ -4618,9 +4618,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "smorta",
-                  "lemma": "smorta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "smorto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of smorto"
                 }
               ]
             }
@@ -4637,9 +4637,9 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Pu-Tin-Pao",
-                  "lemma": "pu-tin-pao",
+                  "lemma": "Pu-tin-pao",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Pu-tin-pao"
                 },
                 {
                   "word": "La",
@@ -4661,9 +4661,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "smorta",
-                  "lemma": "smorta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "smorto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of smorto"
                 }
               ]
             }
@@ -4692,13 +4692,13 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "monti",
-                  "lemma": "monti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "monte",
+                  "pos": "noun",
+                  "meaning": "plural of monte"
                 },
                 {
                   "word": "dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
@@ -4717,14 +4717,14 @@ export const turandotAct1: Act = {
                 {
                   "word": "cicogna",
                   "lemma": "cicogna",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "stork"
                 },
                 {
                   "word": "cantò",
-                  "lemma": "cantò",
+                  "lemma": "cantare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of cantare"
                 }
               ]
             },
@@ -4759,9 +4759,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "rifiorì",
-                  "lemma": "rifiorì",
+                  "lemma": "rifiorire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of rifiorire"
                 },
                 {
                   "word": "ma",
@@ -4789,9 +4789,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "sgelò",
-                  "lemma": "sgelò",
+                  "lemma": "sgelare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of sgelare"
                 }
               ]
             },
@@ -4809,8 +4809,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "deserto",
                   "lemma": "deserto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "deserted, desert"
                 },
                 {
                   "word": "al",
@@ -4858,7 +4858,7 @@ export const turandotAct1: Act = {
                   "word": "sospirar",
                   "lemma": "sospirar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of sospirare"
                 }
               ]
             },
@@ -4871,13 +4871,13 @@ export const turandotAct1: Act = {
                   "word": "Principessa",
                   "lemma": "principessa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Princess (Princess Turandot)"
                 },
                 {
                   "word": "scendi",
-                  "lemma": "scendi",
+                  "lemma": "scendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "descend / come down"
                 },
                 {
                   "word": "a",
@@ -4906,9 +4906,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "fiorirà",
-                  "lemma": "fiorirà",
+                  "lemma": "fiorire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "will bloom / blossom"
                 },
                 {
                   "word": "tutto",
@@ -4918,9 +4918,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "splenderà",
-                  "lemma": "splenderà",
+                  "lemma": "splendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "will shine / glow"
                 },
                 {
                   "word": "Ah",
@@ -4959,8 +4959,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "fermo",
                   "lemma": "fermo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "still / firm"
                 },
                 {
                   "word": "il",
@@ -5069,8 +5069,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "ebbrezza",
                   "lemma": "ebbrezza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "intoxication, inebriation / thrill"
                 },
                 {
                   "word": "Pietà",
@@ -5094,8 +5094,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "fermo",
                   "lemma": "fermo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "still / firm"
                 },
                 {
                   "word": "il",
@@ -5236,7 +5236,7 @@ export const turandotAct1: Act = {
                   "word": "Principessa",
                   "lemma": "principessa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "princess"
                 }
               ]
             },
@@ -5280,7 +5280,7 @@ export const turandotAct1: Act = {
                   "word": "Principessa",
                   "lemma": "principessa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "princess"
                 },
                 {
                   "word": "Grazia",
@@ -5346,7 +5346,7 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -5376,7 +5376,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -5394,9 +5394,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "maledica",
-                  "lemma": "maledica",
+                  "lemma": "maledico",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "feminine singular of maledico"
                 }
               ]
             },
@@ -5413,7 +5413,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -5431,9 +5431,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "maledica",
-                  "lemma": "maledica",
+                  "lemma": "maledico",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "feminine singular of maledico"
                 }
               ]
             }
@@ -5452,7 +5452,7 @@ export const turandotAct1: Act = {
                   "word": "Principessa",
                   "lemma": "principessa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "princess"
                 },
                 {
                   "word": "Pietà",
@@ -5483,13 +5483,13 @@ export const turandotAct1: Act = {
                   "word": "Principessa",
                   "lemma": "principessa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "princess"
                 },
                 {
                   "word": "Principessa",
                   "lemma": "principessa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "princess"
                 },
                 {
                   "word": "pietà",
@@ -5508,7 +5508,7 @@ export const turandotAct1: Act = {
                   "word": "Principessa",
                   "lemma": "principessa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "princess"
                 },
                 {
                   "word": "Pietà",
@@ -5581,7 +5581,7 @@ export const turandotAct1: Act = {
                   "word": "Principessa",
                   "lemma": "principessa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "princess"
                 }
               ]
             },
@@ -5594,7 +5594,7 @@ export const turandotAct1: Act = {
                   "word": "Principessa",
                   "lemma": "principessa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "princess"
                 },
                 {
                   "word": "La",
@@ -5648,8 +5648,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "belezza",
                   "lemma": "belezza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "belezza"
                 }
               ]
             },
@@ -5709,9 +5709,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "Koung-tzè",
-                  "lemma": "koung-tzè",
+                  "lemma": "Koung-tzè",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Koung-tzè"
                 }
               ]
             },
@@ -5747,20 +5747,20 @@ export const turandotAct1: Act = {
                 {
                   "word": "morente",
                   "lemma": "morente",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "dying"
                 },
                 {
                   "word": "giunga",
-                  "lemma": "giunga",
+                  "lemma": "giungere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "fino",
                   "lemma": "fino",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "till, until, as far as"
                 },
                 {
                   "word": "a",
@@ -5856,7 +5856,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "nell",
-                  "lemma": "nell'",
+                  "lemma": "nell",
                   "pos": "noun",
                   "meaning": "in-the"
                 },
@@ -5881,7 +5881,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "nell",
-                  "lemma": "nell'",
+                  "lemma": "nell",
                   "pos": "noun",
                   "meaning": "in-the"
                 },
@@ -5944,8 +5944,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "belezza",
                   "lemma": "belezza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "belezza"
                 },
                 {
                   "word": "meraviglia",
@@ -5968,9 +5968,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "soffro",
-                  "lemma": "soffro",
+                  "lemma": "soffrire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of soffrire"
                 },
                 {
                   "word": "padre",
@@ -5980,9 +5980,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "soffro",
-                  "lemma": "soffro",
+                  "lemma": "soffrire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of soffrire"
                 }
               ]
             }
@@ -6036,15 +6036,15 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Liù",
-                  "lemma": "liù",
+                  "lemma": "Liù",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Liù (young slave girl)"
                 },
                 {
                   "word": "parlagli",
                   "lemma": "parlagli",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of parla, the second-person singular imperative form of parlare, with gli"
                 },
                 {
                   "word": "tu",
@@ -6061,8 +6061,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "salvezza",
                   "lemma": "salvezza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "salvation"
                 },
                 {
                   "word": "non",
@@ -6072,7 +6072,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "c",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
@@ -6189,7 +6189,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "c",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
@@ -6220,7 +6220,7 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
@@ -6275,7 +6275,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "c",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
@@ -6312,9 +6312,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "soffro",
-                  "lemma": "soffro",
+                  "lemma": "soffrire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of soffrire"
                 },
                 {
                   "word": "padre",
@@ -6324,9 +6324,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "soffro",
-                  "lemma": "soffro",
+                  "lemma": "soffrire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of soffrire"
                 }
               ]
             }
@@ -6350,8 +6350,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "salvezza",
                   "lemma": "salvezza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "salvation"
                 },
                 {
                   "word": "non",
@@ -6361,7 +6361,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "c",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
@@ -6423,21 +6423,21 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Turandot",
-                  "lemma": "turandot",
+                  "lemma": "Turandot",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Princess Turandot"
                 },
                 {
                   "word": "Turandot",
-                  "lemma": "turandot",
+                  "lemma": "Turandot",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Princess Turandot"
                 },
                 {
                   "word": "Turandot",
-                  "lemma": "turandot",
+                  "lemma": "Turandot",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Princess Turandot"
                 }
               ]
             }
@@ -6454,9 +6454,9 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Turandot",
-                  "lemma": "turandot",
+                  "lemma": "Turandot",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Princess Turandot"
                 }
               ]
             }
@@ -6525,7 +6525,7 @@ export const turandotAct1: Act = {
                   "word": "Vincere",
                   "lemma": "vincere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to win / to vanquish, to conquer, to defeat"
                 },
                 {
                   "word": "padre",
@@ -6548,8 +6548,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "belezza",
                   "lemma": "belezza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "belezza"
                 }
               ]
             }
@@ -6574,7 +6574,7 @@ export const turandotAct1: Act = {
                   "word": "finire",
                   "lemma": "finire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to finish / to end up  [with per ; or with con, along with il or lo or l' ]"
                 },
                 {
                   "word": "così",
@@ -6599,13 +6599,13 @@ export const turandotAct1: Act = {
                   "word": "Vincere",
                   "lemma": "vincere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to win / to vanquish, to conquer, to defeat"
                 },
                 {
                   "word": "gloriosamente",
                   "lemma": "gloriosamente",
                   "pos": "adverb",
-                  "meaning": ""
+                  "meaning": "gloriously"
                 },
                 {
                   "word": "nella",
@@ -6650,8 +6650,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "Fermo",
                   "lemma": "fermo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "still / firm"
                 },
                 {
                   "word": "Che",
@@ -6667,15 +6667,15 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "T",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
                 {
                   "word": "arresta",
-                  "lemma": "arresta",
+                  "lemma": "arrestare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present / second-person singular imperative"
                 }
               ]
             },
@@ -6784,8 +6784,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "beccheria",
                   "lemma": "beccheria",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "butchershop"
                 }
               ]
             },
@@ -6834,8 +6834,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "strozza",
                   "lemma": "strozza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "throat"
                 },
                 {
                   "word": "Si",
@@ -6846,8 +6846,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "trivella",
                   "lemma": "trivella",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "auger / drill"
                 },
                 {
                   "word": "Si",
@@ -6857,9 +6857,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "sgozza",
-                  "lemma": "sgozza",
+                  "lemma": "sgozzare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -6876,9 +6876,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "spella",
-                  "lemma": "spella",
+                  "lemma": "spellare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "Si",
@@ -6888,9 +6888,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "uncina",
-                  "lemma": "uncina",
+                  "lemma": "uncinare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "e",
@@ -6900,9 +6900,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "scapitozza",
-                  "lemma": "scapitozza",
+                  "lemma": "scapitozzare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -6932,8 +6932,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "sega",
                   "lemma": "sega",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "saw / wank, hand job"
                 },
                 {
                   "word": "e",
@@ -6975,14 +6975,14 @@ export const turandotAct1: Act = {
                 {
                   "word": "Sollecito",
                   "lemma": "sollecito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "prompt, quick, speedy / solicitous, attentive, careful"
                 },
                 {
                   "word": "precipite…Va",
                   "lemma": "precipite…va",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "precipite…va"
                 },
                 {
                   "word": "via",
@@ -7035,7 +7035,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -7048,8 +7048,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "stipite",
                   "lemma": "stipite",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "jamb / stem"
                 }
               ]
             },
@@ -7099,7 +7099,7 @@ export const turandotAct1: Act = {
                   "word": "romperti",
                   "lemma": "romperti",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive rompere with ti"
                 },
                 {
                   "word": "la",
@@ -7222,8 +7222,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "Lasciatemi",
                   "lemma": "lasciatemi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of lasciate, the second-person plural imperative form of lasciare, with mi"
                 },
                 {
                   "word": "passare",
@@ -7264,9 +7264,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "cimiteri",
-                  "lemma": "cimiteri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "cimitero",
+                  "pos": "noun",
+                  "meaning": "plural of cimitero"
                 },
                 {
                   "word": "sono",
@@ -7276,9 +7276,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "occupati",
-                  "lemma": "occupati",
+                  "lemma": "occupato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "masculine plural of occupato"
                 }
               ]
             },
@@ -7295,9 +7295,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "bastano",
-                  "lemma": "bastano",
+                  "lemma": "bastare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of bastare"
                 },
                 {
                   "word": "i",
@@ -7313,9 +7313,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "indigeni",
-                  "lemma": "indigeni",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "indigeno",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of indigeno"
                 }
               ]
             },
@@ -7334,7 +7334,7 @@ export const turandotAct1: Act = {
                   "word": "vogliam",
                   "lemma": "vogliam",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of vogliamo"
                 },
                 {
                   "word": "più",
@@ -7350,9 +7350,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "forestieri",
-                  "lemma": "forestieri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "forestiero",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of forestiero"
                 }
               ]
             },
@@ -7369,9 +7369,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "scappi",
-                  "lemma": "scappi",
+                  "lemma": "scappare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "o",
@@ -7387,9 +7387,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "funeral",
-                  "lemma": "funeral",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "funerale",
+                  "pos": "adjective",
+                  "meaning": "of or pertaining to a deceased and his/her funeral; funeral, funereal"
                 },
                 {
                   "word": "per",
@@ -7405,15 +7405,15 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
                 {
                   "word": "appressa",
-                  "lemma": "appressa",
+                  "lemma": "appressare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -7431,8 +7431,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "Lasciatemi",
                   "lemma": "lasciatemi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of lasciate, the second-person plural imperative form of lasciare, with mi"
                 },
                 {
                   "word": "passare",
@@ -7468,14 +7468,14 @@ export const turandotAct1: Act = {
                 {
                   "word": "principessa",
                   "lemma": "principessa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "princess"
                 },
                 {
                   "word": "Peuh",
-                  "lemma": "peuh",
+                  "lemma": "Peuh",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Peuh"
                 },
                 {
                   "word": "Che",
@@ -7566,8 +7566,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "frangia",
                   "lemma": "frangia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fringe, forelock, bang / ruche, ruching, ruffle"
                 }
               ]
             },
@@ -7596,15 +7596,15 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "spogli",
-                  "lemma": "spogli",
+                  "lemma": "spogliare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "nuda",
-                  "lemma": "nuda",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "nudo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of nudo"
                 },
                 {
                   "word": "è",
@@ -7639,9 +7639,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "cruda",
-                  "lemma": "cruda",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "crudo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of crudo"
                 },
                 {
                   "word": "È",
@@ -7652,8 +7652,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "roba",
                   "lemma": "roba",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "things, stuff / goods, property, belongings"
                 },
                 {
                   "word": "che",
@@ -7695,8 +7695,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "Lasciatemi",
                   "lemma": "lasciatemi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of lasciate, the second-person plural imperative form of lasciare, with mi"
                 },
                 {
                   "word": "passare",
@@ -7708,7 +7708,7 @@ export const turandotAct1: Act = {
                   "word": "lasciatemi",
                   "lemma": "lasciatemi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of lasciate, the second-person plural imperative form of lasciare, with mi"
                 }
               ]
             }
@@ -7787,14 +7787,14 @@ export const turandotAct1: Act = {
                 {
                   "word": "cento",
                   "lemma": "cento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "hundred, one hundred"
                 },
                 {
                   "word": "spose",
-                  "lemma": "spose",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sposa",
+                  "pos": "noun",
+                  "meaning": "plural of sposa"
                 },
                 {
                   "word": "che",
@@ -7836,14 +7836,14 @@ export const turandotAct1: Act = {
                 {
                   "word": "sublime",
                   "lemma": "sublime",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "sublime"
                 },
                 {
                   "word": "Turandot",
-                  "lemma": "turandot",
+                  "lemma": "Turandot",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Princess Turandot"
                 },
                 {
                   "word": "del",
@@ -7933,9 +7933,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "imperiali",
-                  "lemma": "imperiali",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "imperiale",
+                  "pos": "adjective",
+                  "meaning": "plural of imperiale"
                 },
                 {
                   "word": "sì",
@@ -7996,8 +7996,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "cento",
                   "lemma": "cento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "hundred, one hundred"
                 },
                 {
                   "word": "mogli",
@@ -8044,9 +8044,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "ribocco",
-                  "lemma": "ribocco",
+                  "lemma": "riboccare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of riboccare"
                 }
               ]
             },
@@ -8058,8 +8058,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "duecento",
                   "lemma": "duecento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "two hundred"
                 },
                 {
                   "word": "braccia",
@@ -8076,8 +8076,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "cento",
                   "lemma": "cento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "hundred, one hundred"
                 },
                 {
                   "word": "dolci",
@@ -8087,9 +8087,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "petti",
-                  "lemma": "petti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "petto",
+                  "pos": "noun",
+                  "meaning": "plural of petto"
                 }
               ]
             }
@@ -8107,20 +8107,20 @@ export const turandotAct1: Act = {
                 {
                   "word": "Cento",
                   "lemma": "cento",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "hundred, one hundred"
                 },
                 {
                   "word": "petti",
-                  "lemma": "petti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "petto",
+                  "pos": "noun",
+                  "meaning": "plural of petto"
                 },
                 {
                   "word": "sparsi",
-                  "lemma": "sparsi",
+                  "lemma": "spargere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of spargere"
                 },
                 {
                   "word": "per",
@@ -8131,14 +8131,14 @@ export const turandotAct1: Act = {
                 {
                   "word": "cento",
                   "lemma": "cento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "hundred, one hundred"
                 },
                 {
                   "word": "letti",
-                  "lemma": "letti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "letto",
+                  "pos": "noun",
+                  "meaning": "plural of letto"
                 }
               ]
             },
@@ -8181,8 +8181,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "Lasciatemi",
                   "lemma": "lasciatemi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of lasciate, the second-person plural imperative form of lasciare, with mi"
                 },
                 {
                   "word": "passar",
@@ -8316,9 +8316,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "dolcissima",
-                  "lemma": "dolcissima",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "dolcissimo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of dolcissimo"
                 },
                 {
                   "word": "del",
@@ -8329,8 +8329,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "sonno",
                   "lemma": "sonno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "the state of being asleep; sleep, slumber / the need or desire for sleep; sleepiness"
                 }
               ]
             },
@@ -8373,14 +8373,14 @@ export const turandotAct1: Act = {
                 {
                   "word": "sonno",
                   "lemma": "sonno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "the state of being asleep; sleep, slumber / the need or desire for sleep; sleepiness"
                 },
                 {
                   "word": "sfiora",
-                  "lemma": "sfiora",
+                  "lemma": "sfiorare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "gli",
@@ -8402,9 +8402,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "Turandot",
-                  "lemma": "turandot",
+                  "lemma": "Turandot",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Princess Turandot"
                 }
               ]
             },
@@ -8421,9 +8421,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "profuma",
-                  "lemma": "profuma",
+                  "lemma": "profumare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "di",
@@ -8446,8 +8446,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "oscurità",
                   "lemma": "oscurità",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "darkness / gloominess"
                 }
               ]
             }
@@ -8488,9 +8488,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "ciarliere",
-                  "lemma": "ciarliere",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ciarliero",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of ciarliero"
                 }
               ]
             }
@@ -8520,8 +8520,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "gong",
                   "lemma": "gong",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "gong"
                 },
                 {
                   "word": "Attenti",
@@ -8538,8 +8538,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "gong",
                   "lemma": "gong",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "gong"
                 }
               ]
             }
@@ -8562,9 +8562,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "profuma",
-                  "lemma": "profuma",
+                  "lemma": "profumare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "di",
@@ -8587,8 +8587,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "oscurità",
                   "lemma": "oscurità",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "darkness / gloominess"
                 }
               ]
             }
@@ -8606,26 +8606,26 @@ export const turandotAct1: Act = {
                 {
                   "word": "Guardalo",
                   "lemma": "guardalo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of guarda, the second-person singular imperative form of guardare, with lo"
                 },
                 {
                   "word": "Pong",
-                  "lemma": "pong",
+                  "lemma": "Pong",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Pong (Lord Chef)"
                 },
                 {
                   "word": "Ping",
-                  "lemma": "ping",
+                  "lemma": "Ping",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ping (Lord Chancellor)"
                 },
                 {
                   "word": "Pang",
-                  "lemma": "pang",
+                  "lemma": "Pang",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Pang (Lord Purveyor)"
                 }
               ]
             },
@@ -8642,21 +8642,21 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "insordito",
-                  "lemma": "insordito",
+                  "lemma": "insordire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of insordire"
                 },
                 {
                   "word": "Intontito",
-                  "lemma": "intontito",
+                  "lemma": "intontire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of intontire"
                 },
                 {
                   "word": "Allucinato",
                   "lemma": "allucinato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "terrified / confused, bewildered"
                 }
               ]
             }
@@ -8722,9 +8722,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "Parliamogli",
-                  "lemma": "parliamogli",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "parlare",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative (gli: to him)"
                 },
                 {
                   "word": "in",
@@ -8760,8 +8760,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "lumicino",
                   "lemma": "lumicino",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a faint, distant light / a funereal candle"
                 }
               ]
             },
@@ -8784,7 +8784,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -8797,8 +8797,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "cammino",
                   "lemma": "cammino",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "walk, way, path"
                 }
               ]
             },
@@ -8821,9 +8821,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "chiare",
-                  "lemma": "chiare",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "chiaro",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of chiaro"
                 },
                 {
                   "word": "degli",
@@ -8833,9 +8833,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "enigmi",
-                  "lemma": "enigmi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "enigma",
+                  "pos": "noun",
+                  "meaning": "plural of enigma"
                 },
                 {
                   "word": "di",
@@ -8845,9 +8845,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "Turandot",
-                  "lemma": "turandot",
+                  "lemma": "Turandot",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Princess Turandot"
                 }
               ]
             },
@@ -8865,20 +8865,20 @@ export const turandotAct1: Act = {
                 {
                   "word": "bronzo",
                   "lemma": "bronzo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "bronze / bell, especially church bell"
                 },
                 {
                   "word": "muro",
                   "lemma": "muro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "wall"
                 },
                 {
                   "word": "roccia",
                   "lemma": "roccia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "rock, crag / rock climbing"
                 }
               ]
             },
@@ -8895,9 +8895,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "ostinata",
-                  "lemma": "ostinata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ostinato",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of ostinato"
                 },
                 {
                   "word": "tua",
@@ -8908,8 +8908,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "capoccia",
                   "lemma": "capoccia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "head of the family, especially a farmhouse family / overseer of agricultural labourers"
                 }
               ]
             },
@@ -8932,9 +8932,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "duri",
-                  "lemma": "duri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "duro",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of duro"
                 },
                 {
                   "word": "degli",
@@ -8944,9 +8944,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "enigmi",
-                  "lemma": "enigmi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "enigma",
+                  "pos": "noun",
+                  "meaning": "plural of enigma"
                 },
                 {
                   "word": "di",
@@ -8956,9 +8956,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "Turandot",
-                  "lemma": "turandot",
+                  "lemma": "Turandot",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Princess Turandot"
                 }
               ]
             },
@@ -9000,9 +9000,9 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Varca",
-                  "lemma": "varca",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "varcare",
+                  "pos": "verb",
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "i",
@@ -9012,9 +9012,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "monti",
-                  "lemma": "monti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "monte",
+                  "pos": "noun",
+                  "meaning": "plural of monte"
                 },
                 {
                   "word": "taglia",
@@ -9030,9 +9030,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "flutti",
-                  "lemma": "flutti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "flutto",
+                  "pos": "noun",
+                  "meaning": "plural of flutto"
                 }
               ]
             },
@@ -9055,9 +9055,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "larga",
-                  "lemma": "larga",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "largo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of largo"
                 },
                 {
                   "word": "dagli",
@@ -9067,9 +9067,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "enigmi",
-                  "lemma": "enigmi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "enigma",
+                  "pos": "noun",
+                  "meaning": "plural of enigma"
                 },
                 {
                   "word": "di",
@@ -9079,9 +9079,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "Turandot",
-                  "lemma": "turandot",
+                  "lemma": "Turandot",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Princess Turandot"
                 }
               ]
             }
@@ -9106,7 +9106,7 @@ export const turandotAct1: Act = {
                   "word": "indugiare",
                   "lemma": "indugiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to delay; to postpone / to linger"
                 }
               ]
             },
@@ -9147,9 +9147,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "estinti",
-                  "lemma": "estinti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "estinto",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of estinto"
                 },
                 {
                   "word": "ci",
@@ -9167,7 +9167,7 @@ export const turandotAct1: Act = {
                   "word": "sognare",
                   "lemma": "sognare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to dream / to stargaze"
                 }
               ]
             },
@@ -9184,7 +9184,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -9227,9 +9227,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "udiamo",
-                  "lemma": "udiamo",
+                  "lemma": "udire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "Io",
@@ -9386,9 +9386,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "Turandot",
-                  "lemma": "turandot",
+                  "lemma": "Turandot",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Princess Turandot"
                 }
               ]
             },
@@ -9417,9 +9417,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "Turandot",
-                  "lemma": "turandot",
+                  "lemma": "Turandot",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Princess Turandot"
                 }
               ]
             },
@@ -9443,8 +9443,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "demente",
                   "lemma": "demente",
-                  "pos": "adverb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "lunatic"
                 }
               ]
             },
@@ -9455,9 +9455,9 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Turandot",
-                  "lemma": "turandot",
+                  "lemma": "Turandot",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Princess Turandot"
                 },
                 {
                   "word": "non",
@@ -9467,9 +9467,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "esiste",
-                  "lemma": "esiste",
+                  "lemma": "esistere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of esistere"
                 }
               ]
             },
@@ -9486,9 +9486,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "esiste",
-                  "lemma": "esiste",
+                  "lemma": "esistere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of esistere"
                 },
                 {
                   "word": "che",
@@ -9528,9 +9528,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "annulli",
-                  "lemma": "annulli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "annullo",
+                  "pos": "noun",
+                  "meaning": "plural of annullo"
                 }
               ]
             },
@@ -9541,9 +9541,9 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Turandot",
-                  "lemma": "turandot",
+                  "lemma": "Turandot",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Princess Turandot"
                 },
                 {
                   "word": "non",
@@ -9553,9 +9553,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "esiste",
-                  "lemma": "esiste",
+                  "lemma": "esistere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of esistere"
                 },
                 {
                   "word": "non",
@@ -9565,9 +9565,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "esiste",
-                  "lemma": "esiste",
+                  "lemma": "esistere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of esistere"
                 }
               ]
             },
@@ -9578,9 +9578,9 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Turandot",
-                  "lemma": "turandot",
+                  "lemma": "Turandot",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Princess Turandot"
                 }
               ]
             },
@@ -9609,9 +9609,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "citrulli",
-                  "lemma": "citrulli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "citrullo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of citrullo"
                 },
                 {
                   "word": "tuoi",
@@ -9670,9 +9670,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "popoli",
-                  "lemma": "popoli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "popolo",
+                  "pos": "noun",
+                  "meaning": "plural of popolo"
                 },
                 {
                   "word": "I",
@@ -9682,9 +9682,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "sovrani",
-                  "lemma": "sovrani",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sovrano",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of sovrano"
                 }
               ]
             },
@@ -9695,9 +9695,9 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Pu-Tin-Pao",
-                  "lemma": "pu-tin-pao",
+                  "lemma": "Pu-tin-pao",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Pu-tin-pao"
                 },
                 {
                   "word": "Non",
@@ -9707,9 +9707,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "esiste",
-                  "lemma": "esiste",
+                  "lemma": "esistere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of esistere"
                 },
                 {
                   "word": "che",
@@ -9727,7 +9727,7 @@ export const turandotAct1: Act = {
                   "word": "Tao",
                   "lemma": "tao",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Tao"
                 }
               ]
             },
@@ -9750,9 +9750,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "annulli",
-                  "lemma": "annulli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "annullo",
+                  "pos": "noun",
+                  "meaning": "plural of annullo"
                 },
                 {
                   "word": "come",
@@ -9768,9 +9768,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "citrulli",
-                  "lemma": "citrulli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "citrullo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of citrullo"
                 },
                 {
                   "word": "tuoi",
@@ -9805,9 +9805,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "annulli",
-                  "lemma": "annulli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "annullo",
+                  "pos": "noun",
+                  "meaning": "plural of annullo"
                 }
               ]
             },
@@ -9836,9 +9836,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "citrulli",
-                  "lemma": "citrulli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "citrullo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of citrullo"
                 },
                 {
                   "word": "tuoi",
@@ -9867,9 +9867,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "esiste",
-                  "lemma": "esiste",
+                  "lemma": "esistere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of esistere"
                 },
                 {
                   "word": "che",
@@ -9887,7 +9887,7 @@ export const turandotAct1: Act = {
                   "word": "Tao",
                   "lemma": "tao",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Tao"
                 }
               ]
             }
@@ -10014,9 +10014,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "bacerà",
-                  "lemma": "bacerà",
+                  "lemma": "baciare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of baciare"
                 },
                 {
                   "word": "il",
@@ -10075,7 +10075,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -10093,9 +10093,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "trascini",
-                  "lemma": "trascini",
+                  "lemma": "trascinare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             },
@@ -10130,15 +10130,15 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "torturata",
-                  "lemma": "torturata",
+                  "lemma": "torturato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of torturato"
                 },
                 {
                   "word": "vecchiezza",
                   "lemma": "vecchiezza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "old age"
                 }
               ]
             },
@@ -10161,7 +10161,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "c",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
@@ -10179,9 +10179,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "umana",
-                  "lemma": "umana",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "umano",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of umano"
                 }
               ]
             },
@@ -10198,9 +10198,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "muova",
-                  "lemma": "muova",
+                  "lemma": "muovere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "il",
@@ -10288,9 +10288,9 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Liù",
-                  "lemma": "liù",
+                  "lemma": "Liù",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Liù (young slave girl)"
                 },
                 {
                   "word": "non",
@@ -10300,9 +10300,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "regge",
-                  "lemma": "regge",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "reggia",
+                  "pos": "noun",
+                  "meaning": "plural of reggia"
                 },
                 {
                   "word": "più",
@@ -10318,9 +10318,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "spezza",
-                  "lemma": "spezza",
+                  "lemma": "spezzare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "il",
@@ -10356,8 +10356,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "cammino",
                   "lemma": "cammino",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "walk, way, path"
                 },
                 {
                   "word": "col",
@@ -10379,7 +10379,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "nell",
-                  "lemma": "nell'",
+                  "lemma": "nell",
                   "pos": "noun",
                   "meaning": "in-the"
                 },
@@ -10465,9 +10465,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "doman",
-                  "lemma": "doman",
+                  "lemma": "domare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of domare"
                 },
                 {
                   "word": "sarà",
@@ -10477,9 +10477,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "deciso",
-                  "lemma": "deciso",
+                  "lemma": "decidere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of decidere"
                 }
               ]
             },
@@ -10498,7 +10498,7 @@ export const turandotAct1: Act = {
                   "word": "morrem",
                   "lemma": "morrem",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of morremo"
                 },
                 {
                   "word": "sulla",
@@ -10514,15 +10514,15 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
                 {
                   "word": "esilio",
                   "lemma": "esilio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "exile"
                 }
               ]
             },
@@ -10539,9 +10539,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "perderà",
-                  "lemma": "perderà",
+                  "lemma": "perdere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of perdere"
                 },
                 {
                   "word": "suo",
@@ -10575,7 +10575,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -10600,9 +10600,9 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Liù",
-                  "lemma": "liù",
+                  "lemma": "Liù",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Liù (young slave girl)"
                 },
                 {
                   "word": "non",
@@ -10612,9 +10612,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "regge",
-                  "lemma": "regge",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "reggia",
+                  "pos": "noun",
+                  "meaning": "plural of reggia"
                 },
                 {
                   "word": "più",
@@ -10655,9 +10655,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "Liù",
-                  "lemma": "liù",
+                  "lemma": "Liù",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Liù (young slave girl)"
                 }
               ],
               "grammarNote": "'Do not weep, Liù! If in that faraway day I smiled upon you, take care of my aged father.' Calaf's tender response before sounding the gong."
@@ -10705,7 +10705,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -10766,7 +10766,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -10866,7 +10866,7 @@ export const turandotAct1: Act = {
                   "word": "portalo",
                   "lemma": "portalo",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of porta, the second-person singular imperative form of portare, with lo"
                 },
                 {
                   "word": "via",
@@ -10909,7 +10909,7 @@ export const turandotAct1: Act = {
                   "word": "morrem",
                   "lemma": "morrem",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of morremo"
                 },
                 {
                   "word": "sulla",
@@ -10925,15 +10925,15 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
                 {
                   "word": "esilio",
                   "lemma": "esilio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "exile"
                 }
               ]
             }
@@ -10958,7 +10958,7 @@ export const turandotAct1: Act = {
                   "word": "morrem",
                   "lemma": "morrem",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of morremo"
                 }
               ]
             }
@@ -10975,21 +10975,21 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
                 {
                   "word": "esilio",
                   "lemma": "esilio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "exile"
                 },
                 {
                   "word": "addolcisci",
-                  "lemma": "addolcisci",
+                  "lemma": "addolcire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "a",
@@ -11048,9 +11048,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "Liù",
-                  "lemma": "liù",
+                  "lemma": "Liù",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Liù (young slave girl)"
                 }
               ]
             },
@@ -11202,9 +11202,9 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Vinci",
-                  "lemma": "vinci",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "vincere",
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "il",
@@ -11222,7 +11222,7 @@ export const turandotAct1: Act = {
                   "word": "orribile",
                   "lemma": "orribile",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "horrible, loathsome / awful, dreadful"
                 }
               ]
             }
@@ -11331,9 +11331,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "Liù",
-                  "lemma": "liù",
+                  "lemma": "Liù",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Liù (young slave girl)"
                 },
                 {
                   "word": "pietà",
@@ -11419,7 +11419,7 @@ export const turandotAct1: Act = {
                   "word": "perderti",
                   "lemma": "perderti",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive perdere with ti"
                 },
                 {
                   "word": "così",
@@ -11524,7 +11524,7 @@ export const turandotAct1: Act = {
                   "word": "staccarmi",
                   "lemma": "staccarmi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive staccare with mi"
                 },
                 {
                   "word": "da",
@@ -11566,8 +11566,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "ascolto",
                   "lemma": "ascolto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "listening / reception"
                 },
                 {
                   "word": "Nessuno",
@@ -11584,8 +11584,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "ascolto",
                   "lemma": "ascolto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "listening / reception"
                 }
               ]
             }
@@ -11634,14 +11634,14 @@ export const turandotAct1: Act = {
                 {
                   "word": "Afferralo",
                   "lemma": "afferralo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of afferra, the second-person singular imperative form of afferrare, with lo"
                 },
                 {
                   "word": "portalo",
                   "lemma": "portalo",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of porta, the second-person singular imperative form of portare, with lo"
                 },
                 {
                   "word": "via",
@@ -11652,8 +11652,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "Portalo",
                   "lemma": "portalo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of porta, the second-person singular imperative form of portare, with lo"
                 },
                 {
                   "word": "via",
@@ -11738,8 +11738,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "fulgido",
                   "lemma": "fulgido",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "bright, shining"
                 },
                 {
                   "word": "volto",
@@ -11886,7 +11886,7 @@ export const turandotAct1: Act = {
                   "word": "staccarmi",
                   "lemma": "staccarmi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive staccare with mi"
                 },
                 {
                   "word": "da",
@@ -11951,9 +11951,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "gemente",
-                  "lemma": "gemente",
-                  "pos": "adverb",
-                  "meaning": ""
+                  "lemma": "gemere",
+                  "pos": "verb",
+                  "meaning": "present participle of gemere"
                 }
               ]
             },
@@ -12027,7 +12027,7 @@ export const turandotAct1: Act = {
                   "word": "portalo",
                   "lemma": "portalo",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of porta, the second-person singular imperative form of portare, with lo"
                 },
                 {
                   "word": "via",
@@ -12075,8 +12075,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "furente",
                   "lemma": "furente",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "furious"
                 }
               ]
             },
@@ -12089,7 +12089,7 @@ export const turandotAct1: Act = {
                   "word": "Folle",
                   "lemma": "folle",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "bellows"
                 },
                 {
                   "word": "tu",
@@ -12198,14 +12198,14 @@ export const turandotAct1: Act = {
                 {
                   "word": "sforzo",
                   "lemma": "sforzo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "effort, endeavour/endeavor / stress, strain"
                 },
                 {
                   "word": "portiamolo",
                   "lemma": "portiamolo",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of portiamo, the first-person plural imperative form of portare, with lo"
                 },
                 {
                   "word": "via",
@@ -12223,8 +12223,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "Portiamolo",
                   "lemma": "portiamolo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of portiamo, the first-person plural imperative form of portare, with lo"
                 },
                 {
                   "word": "via",
@@ -12236,7 +12236,7 @@ export const turandotAct1: Act = {
                   "word": "portiamolo",
                   "lemma": "portiamolo",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of portiamo, the first-person plural imperative form of portare, with lo"
                 },
                 {
                   "word": "via",
@@ -12260,8 +12260,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "Lasciatemi",
                   "lemma": "lasciatemi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of lasciate, the second-person plural imperative form of lasciare, with mi"
                 },
                 {
                   "word": "Ho",
@@ -12302,7 +12302,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -12329,13 +12329,13 @@ export const turandotAct1: Act = {
                   "word": "Forza",
                   "lemma": "forza",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "force / strength"
                 },
                 {
                   "word": "umana",
-                  "lemma": "umana",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "umano",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of umano"
                 },
                 {
                   "word": "non",
@@ -12345,7 +12345,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "c",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
@@ -12369,9 +12369,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "trattenga",
-                  "lemma": "trattenga",
+                  "lemma": "trattenere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 }
               ]
             },
@@ -12388,9 +12388,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "seguo",
-                  "lemma": "seguo",
+                  "lemma": "seguire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of seguire"
                 },
                 {
                   "word": "la",
@@ -12438,8 +12438,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "febbre",
                   "lemma": "febbre",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fever"
                 },
                 {
                   "word": "son",
@@ -12462,8 +12462,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "delirio",
                   "lemma": "delirio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "delirium / frenzy"
                 }
               ]
             },
@@ -12481,8 +12481,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "senso",
                   "lemma": "senso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sense / sense"
                 },
                 {
                   "word": "è",
@@ -12499,8 +12499,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "martirio",
                   "lemma": "martirio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "martyrdom / agony, suffering, torture"
                 },
                 {
                   "word": "feroce",
@@ -12529,7 +12529,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
@@ -12634,8 +12634,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "sanguina",
                   "lemma": "sanguina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of sanguigna"
                 },
                 {
                   "word": "invano",
@@ -12720,8 +12720,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "spiada",
                   "lemma": "spiada",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "spiada"
                 },
                 {
                   "word": "piombò",
@@ -12842,8 +12842,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "illusione",
                   "lemma": "illusione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "illusion, delusion"
                 }
               ]
             },
@@ -12872,9 +12872,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "splende",
-                  "lemma": "splende",
+                  "lemma": "splendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of splendere"
                 },
                 {
                   "word": "è",
@@ -12884,9 +12884,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "funesta",
-                  "lemma": "funesta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "funesto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of funesto"
                 }
               ]
             },
@@ -12903,9 +12903,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "giochi",
-                  "lemma": "giochi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "gioco",
+                  "pos": "noun",
+                  "meaning": "plural of gioco"
                 },
                 {
                   "word": "la",
@@ -12922,8 +12922,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "perdizione",
                   "lemma": "perdizione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "perdition, damnation"
                 },
                 {
                   "word": "tu",
@@ -12933,9 +12933,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "giochi",
-                  "lemma": "giochi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "gioco",
+                  "pos": "noun",
+                  "meaning": "plural of gioco"
                 },
                 {
                   "word": "la",
@@ -12970,7 +12970,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "c",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
@@ -13001,8 +13001,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "bioa",
                   "lemma": "bioa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "bioa"
                 },
                 {
                   "word": "laggiù",
@@ -13038,8 +13038,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "rovina",
                   "lemma": "rovina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "ruin, destruction, downfall, collapse / ruins, remains, debris"
                 }
               ]
             },
@@ -13070,7 +13070,7 @@ export const turandotAct1: Act = {
                   "word": "giocar",
                   "lemma": "giocar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of giocare"
                 }
               ]
             }
@@ -13179,9 +13179,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "perduti",
-                  "lemma": "perduti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "perduto",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of perduto"
                 },
                 {
                   "word": "con",
@@ -13254,8 +13254,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "fossa",
                   "lemma": "fossa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pit, hole / grave"
                 },
                 {
                   "word": "già",
@@ -13267,7 +13267,7 @@ export const turandotAct1: Act = {
                   "word": "scaviam",
                   "lemma": "scaviam",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of scaviamo"
                 },
                 {
                   "word": "per",
@@ -13297,7 +13297,7 @@ export const turandotAct1: Act = {
                   "word": "sfidar",
                   "lemma": "sfidar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of sfidare"
                 },
                 {
                   "word": "l",
@@ -13332,7 +13332,7 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "c",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
@@ -13345,8 +13345,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "segnato",
                   "lemma": "segnato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "showing signs of injury / showing tiredness, suffering, or dissoluteness"
                 },
                 {
                   "word": "ahimè",
@@ -13393,9 +13393,9 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Turandot",
-                  "lemma": "turandot",
+                  "lemma": "Turandot",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Princess Turandot"
                 }
               ]
             }
@@ -13437,9 +13437,9 @@ export const turandotAct1: Act = {
               "tokens": [
                 {
                   "word": "Turandot",
-                  "lemma": "turandot",
+                  "lemma": "Turandot",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Princess Turandot"
                 }
               ]
             }
@@ -13464,7 +13464,7 @@ export const turandotAct1: Act = {
                   "word": "lasciamolo",
                   "lemma": "lasciamolo",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of lasciamo, the first-person plural imperative form of lasciare, with lo"
                 },
                 {
                   "word": "andar",
@@ -13476,7 +13476,7 @@ export const turandotAct1: Act = {
                   "word": "Inutile",
                   "lemma": "inutile",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "useless, unnecessary, needless / ineffective"
                 },
                 {
                   "word": "è",
@@ -13499,8 +13499,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "sanscritto",
                   "lemma": "sanscritto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sanscritto"
                 }
               ]
             },
@@ -13518,8 +13518,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "cinese",
                   "lemma": "cinese",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "Chinese"
                 },
                 {
                   "word": "in",
@@ -13535,9 +13535,9 @@ export const turandotAct1: Act = {
                 },
                 {
                   "word": "mongola",
-                  "lemma": "mongola",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "mongolo",
+                  "pos": "noun",
+                  "meaning": "female equivalent of mongolo"
                 }
               ]
             },
@@ -13555,8 +13555,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "rangola",
                   "lemma": "rangola",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "breathlessness / anxiety, worry"
                 },
                 {
                   "word": "il",
@@ -13567,8 +13567,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "gong",
                   "lemma": "gong",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "gong"
                 },
                 {
                   "word": "la",
@@ -13585,8 +13585,8 @@ export const turandotAct1: Act = {
                 {
                   "word": "gangola",
                   "lemma": "gangola",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "gangola"
                 }
               ]
             },

@@ -36,9 +36,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Dorabella",
-                  "lemma": "dorabella",
+                  "lemma": "Dorabella",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Dorabella (sister of Fiordiligi)"
                 }
               ]
             },
@@ -74,9 +74,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Fedel",
-                  "lemma": "fedel",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "fedele",
+                  "pos": "adjective",
+                  "meaning": "loyal, faithful, true, devoted / accurate, exact"
                 },
                 {
                   "word": "quanto",
@@ -149,9 +149,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Fiordiligi",
-                  "lemma": "fiordiligi",
+                  "lemma": "Fiordiligi",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Fiordiligi (lady of Ferrara)"
                 }
               ]
             },
@@ -163,8 +163,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Tradirmi",
                   "lemma": "tradirmi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of the infinitive tradire with mi"
                 },
                 {
                   "word": "non",
@@ -220,7 +220,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Costanza",
                   "lemma": "costanza",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "constancy / steadfastness"
                 },
                 {
                   "word": "e",
@@ -261,9 +261,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "crini",
-                  "lemma": "crini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "crine",
+                  "pos": "noun",
+                  "meaning": "plural of crine"
                 },
                 {
                   "word": "già",
@@ -288,13 +288,13 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Ex",
                   "lemma": "ex",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ellipsis of ex-fidanzato, ex-fidanzata, ex-marito, ex-moglie, ex-coniuge: anybody the subject has been formerly married or betrothed to."
                 },
                 {
                   "word": "cathedra",
                   "lemma": "cathedra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "cathedra"
                 },
                 {
                   "word": "parlo",
@@ -323,9 +323,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "litigi",
-                  "lemma": "litigi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "litigio",
+                  "pos": "noun",
+                  "meaning": "plural of litigio"
                 }
               ]
             },
@@ -336,9 +336,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Finiscano",
-                  "lemma": "finiscano",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "finire",
+                  "pos": "verb",
+                  "meaning": "third-person plural subjunctive present / third-person plural imperative"
                 },
                 {
                   "word": "qua",
@@ -355,9 +355,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "FERRANDO",
-                  "lemma": "ferrando",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "Ferrando",
+                  "pos": "noun",
+                  "meaning": "Ferrando (officer)"
                 },
                 {
                   "word": "e",
@@ -367,9 +367,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "GUGLIELMO",
-                  "lemma": "guglielmo",
+                  "lemma": "Guglielmo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Guglielmo (officer)"
                 }
               ]
             },
@@ -417,9 +417,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "infide",
-                  "lemma": "infide",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "infido",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of infido"
                 },
                 {
                   "word": "esser",
@@ -431,7 +431,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "ponno",
                   "lemma": "ponno",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "alternative form of possono"
                 }
               ]
             },
@@ -449,8 +449,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "ce'l",
                   "lemma": "ce'l",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "ce'l"
                 },
                 {
                   "word": "dovete",
@@ -500,19 +500,19 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Tai",
                   "lemma": "tai",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "initialism of tempo atomico internazionale"
                 },
                 {
                   "word": "prove",
-                  "lemma": "prove",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "prova",
+                  "pos": "noun",
+                  "meaning": "plural of prova"
                 },
                 {
                   "word": "lasciamo",
-                  "lemma": "lasciamo",
+                  "lemma": "lasciare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 }
               ]
             },
@@ -523,9 +523,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "FERRANDO",
-                  "lemma": "ferrando",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "Ferrando",
+                  "pos": "noun",
+                  "meaning": "Ferrando (officer)"
                 },
                 {
                   "word": "e",
@@ -535,9 +535,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "GUGLIELMO",
-                  "lemma": "guglielmo",
+                  "lemma": "Guglielmo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Guglielmo (officer)"
                 }
               ]
             },
@@ -610,9 +610,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Rompiam",
-                  "lemma": "rompiam",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "rompere",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "l",
@@ -635,9 +635,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "FERRANDO",
-                  "lemma": "ferrando",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "Ferrando",
+                  "pos": "noun",
+                  "meaning": "Ferrando (officer)"
                 },
                 {
                   "word": "e",
@@ -647,9 +647,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "GUGLIELMO",
-                  "lemma": "guglielmo",
+                  "lemma": "Guglielmo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Guglielmo (officer)"
                 }
               ]
             },
@@ -724,7 +724,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "sortire",
                   "lemma": "sortire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to be drawn by lot, to be produced by drawing lots / to go out"
                 },
                 {
                   "word": "un",
@@ -735,8 +735,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "accento",
                   "lemma": "accento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "stress / accent"
                 }
               ]
             },
@@ -799,8 +799,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "desire",
                   "lemma": "desire",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "desire"
                 }
               ]
             },
@@ -825,7 +825,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "scoprire",
                   "lemma": "scoprire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to uncover / to discover, find out"
                 }
               ]
             },
@@ -867,9 +867,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Meschini",
-                  "lemma": "meschini",
+                  "lemma": "meschino",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of meschino"
                 },
                 {
                   "word": "ci",
@@ -892,9 +892,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "FERRANDO",
-                  "lemma": "ferrando",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "Ferrando",
+                  "pos": "noun",
+                  "meaning": "Ferrando (officer)"
                 },
                 {
                   "word": "e",
@@ -904,9 +904,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "GUGLIELMO",
-                  "lemma": "guglielmo",
+                  "lemma": "Guglielmo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Guglielmo (officer)"
                 }
               ]
             },
@@ -935,9 +935,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Scegliete",
-                  "lemma": "scegliete",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "scegliere",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -1042,9 +1042,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "duelli",
-                  "lemma": "duelli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "duello",
+                  "pos": "noun",
+                  "meaning": "plural of duello"
                 },
                 {
                   "word": "non",
@@ -1107,7 +1107,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "battervi",
                   "lemma": "battervi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive battere with vi"
                 },
                 {
                   "word": "o",
@@ -1142,15 +1142,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "infedeltà",
                   "lemma": "infedeltà",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "unfaithfulness, faithlessness / unfaithfulness, inaccuracy"
                 },
                 {
                   "word": "le",
@@ -1179,15 +1179,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Sospettate",
-                  "lemma": "sospettate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "sospettare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "capaci",
-                  "lemma": "capaci",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "capace",
+                  "pos": "adjective",
+                  "meaning": "plural of capace"
                 }
               ]
             }
@@ -1211,8 +1211,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "semplicità",
                   "lemma": "semplicità",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "simplicity"
                 },
                 {
                   "word": "quanto",
@@ -1247,9 +1247,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Cessate",
-                  "lemma": "cessate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "cessare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "di",
@@ -1259,9 +1259,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "scherzar",
-                  "lemma": "scherzar",
+                  "lemma": "scherzare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to joke, to kid, to jest, to be funny / to frolic, to gambol"
                 },
                 {
                   "word": "o",
@@ -1346,8 +1346,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "scherzo",
                   "lemma": "scherzo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "joke, jest, trick, hoax, frolic / joke, trifle, cinch"
                 },
                 {
                   "word": "amici",
@@ -1413,9 +1413,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "animali",
-                  "lemma": "animali",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "animale",
+                  "pos": "noun",
+                  "meaning": "plural of animale"
                 }
               ]
             },
@@ -1520,7 +1520,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "mangian",
                   "lemma": "mangian",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of mangiano"
                 },
                 {
                   "word": "come",
@@ -1542,15 +1542,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "veston",
-                  "lemma": "veston",
+                  "lemma": "vestire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of vestire"
                 },
                 {
                   "word": "gonne",
-                  "lemma": "gonne",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "gonna",
+                  "pos": "noun",
+                  "meaning": "plural of gonna"
                 }
               ]
             },
@@ -1573,9 +1573,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Dee",
-                  "lemma": "dee",
+                  "lemma": "dea",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of dea"
                 },
                 {
                   "word": "se",
@@ -1604,9 +1604,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "FERRANDO",
-                  "lemma": "ferrando",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "Ferrando",
+                  "pos": "noun",
+                  "meaning": "Ferrando (officer)"
                 },
                 {
                   "word": "e",
@@ -1616,9 +1616,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "GUGLIELMO",
-                  "lemma": "guglielmo",
+                  "lemma": "Guglielmo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Guglielmo (officer)"
                 }
               ]
             },
@@ -1709,9 +1709,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "pretendete",
-                  "lemma": "pretendete",
+                  "lemma": "pretendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -1735,8 +1735,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "fedeltà",
                   "lemma": "fedeltà",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "loyalty, faithfulness, fidelity, trustworthiness, allegiance / accuracy, exactness"
                 }
               ]
             },
@@ -1772,8 +1772,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "semplicità",
                   "lemma": "semplicità",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "simplicity"
                 }
               ]
             }
@@ -1839,15 +1839,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "araba",
-                  "lemma": "araba",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "arabo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of arabo"
                 },
                 {
                   "word": "fenice",
                   "lemma": "fenice",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "phoenix"
                 }
               ]
             },
@@ -1953,8 +1953,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "fenice",
                   "lemma": "fenice",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "phoenix"
                 },
                 {
                   "word": "è",
@@ -1964,9 +1964,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Dorabella",
-                  "lemma": "dorabella",
+                  "lemma": "Dorabella",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Dorabella (sister of Fiordiligi)"
                 }
               ]
             }
@@ -1992,8 +1992,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "fenice",
                   "lemma": "fenice",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "phoenix"
                 },
                 {
                   "word": "è",
@@ -2003,9 +2003,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Fiordiligi",
-                  "lemma": "fiordiligi",
+                  "lemma": "Fiordiligi",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Fiordiligi (lady of Ferrara)"
                 }
               ]
             }
@@ -2157,15 +2157,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "araba",
-                  "lemma": "araba",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "arabo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of arabo"
                 },
                 {
                   "word": "fenice",
                   "lemma": "fenice",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "phoenix"
                 }
               ]
             },
@@ -2262,9 +2262,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Scioccherie",
-                  "lemma": "scioccherie",
+                  "lemma": "Scioccherie",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Scioccherie"
                 },
                 {
                   "word": "di",
@@ -2293,9 +2293,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Scempiaggini",
-                  "lemma": "scempiaggini",
+                  "lemma": "scempiaggine",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of scempiaggine"
                 },
                 {
                   "word": "di",
@@ -2325,14 +2325,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Orbene",
                   "lemma": "orbene",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "conjunction",
+                  "meaning": "well / so"
                 },
                 {
                   "word": "udite",
-                  "lemma": "udite",
+                  "lemma": "udire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -2410,15 +2410,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "ognor",
-                  "lemma": "ognor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ognora",
+                  "pos": "adverb",
+                  "meaning": "always / ever"
                 },
                 {
                   "word": "costanti",
-                  "lemma": "costanti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "costante",
+                  "pos": "adjective",
+                  "meaning": "plural of costante"
                 }
               ]
             },
@@ -2437,7 +2437,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "sien",
                   "lemma": "sien",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of sieno"
                 },
                 {
                   "word": "le",
@@ -2479,14 +2479,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "fe",
                   "lemma": "fe",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fe"
                 },
                 {
                   "word": "sicurtà",
                   "lemma": "sicurtà",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "security, safety / insurance"
                 },
                 {
                   "word": "che",
@@ -2496,9 +2496,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "invariabili",
-                  "lemma": "invariabili",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "invariabile",
+                  "pos": "adjective",
+                  "meaning": "plural of invariabile"
                 }
               ]
             },
@@ -2527,9 +2527,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "cori",
-                  "lemma": "cori",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "coro",
+                  "pos": "noun",
+                  "meaning": "plural of coro"
                 }
               ]
             }
@@ -2546,15 +2546,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Lunga",
-                  "lemma": "lunga",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "lungo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of lungo"
                 },
                 {
                   "word": "esperienza",
                   "lemma": "esperienza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "experience"
                 }
               ]
             }
@@ -2571,15 +2571,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Nobil",
-                  "lemma": "nobil",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "nobile",
+                  "pos": "adjective",
+                  "meaning": "aristocratic, noble, titled / noble, lofty"
                 },
                 {
                   "word": "educazion",
-                  "lemma": "educazion",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "educazione",
+                  "pos": "noun",
+                  "meaning": "manners, etiquette, politeness / upbringing"
                 }
               ]
             }
@@ -2603,8 +2603,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "sublime",
                   "lemma": "sublime",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "sublime"
                 }
               ]
             }
@@ -2623,19 +2623,19 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Analogia",
                   "lemma": "analogia",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "analogy"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "umor",
                   "lemma": "umor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apocopic form of umore"
                 }
               ]
             }
@@ -2654,7 +2654,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Disinteresse",
                   "lemma": "disinteresse",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "disinterest, indifference / disinterestedness, unselfishness"
                 }
               ]
             }
@@ -2671,15 +2671,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Immutabil",
-                  "lemma": "immutabil",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "immutabile",
+                  "pos": "adjective",
+                  "meaning": "unchangeable, changeless, unchanging, immutable / hardwired"
                 },
                 {
                   "word": "carattere",
                   "lemma": "carattere",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "character, letter / type, typeface, font, print"
                 }
               ]
             }
@@ -2696,9 +2696,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Promesse",
-                  "lemma": "promesse",
+                  "lemma": "promessa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of promessa"
                 }
               ]
             }
@@ -2715,9 +2715,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Proteste",
-                  "lemma": "proteste",
+                  "lemma": "protesta",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of protesta"
                 }
               ]
             }
@@ -2734,9 +2734,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Giuramenti",
-                  "lemma": "giuramenti",
+                  "lemma": "giuramento",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of giuramento"
                 }
               ]
             }
@@ -2753,15 +2753,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Pianti",
-                  "lemma": "pianti",
+                  "lemma": "pianto",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of pianto"
                 },
                 {
                   "word": "sospir",
                   "lemma": "sospir",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apocopic form of sospiro"
                 },
                 {
                   "word": "carezze",
@@ -2771,9 +2771,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "svenimenti",
-                  "lemma": "svenimenti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "svenimento",
+                  "pos": "noun",
+                  "meaning": "plural of svenimento"
                 }
               ]
             },
@@ -2785,8 +2785,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Lasciatemi",
                   "lemma": "lasciatemi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of lasciate, the second-person plural imperative form of lasciare, with mi"
                 },
                 {
                   "word": "un",
@@ -2823,7 +2823,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Cospetto",
                   "lemma": "cospetto",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "presence"
                 }
               ]
             },
@@ -2834,9 +2834,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Finite",
-                  "lemma": "finite",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "finito",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of finito"
                 },
                 {
                   "word": "di",
@@ -2848,7 +2848,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "deriderci",
                   "lemma": "deriderci",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive deridere with ci"
                 }
               ]
             }
@@ -2898,7 +2898,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "toccar",
                   "lemma": "toccar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of toccare"
                 },
                 {
                   "word": "con",
@@ -3044,9 +3044,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Giochiam",
-                  "lemma": "giochiam",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "giocare",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 }
               ]
             }
@@ -3063,9 +3063,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Giochiamo",
-                  "lemma": "giochiamo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "giocare",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 }
               ]
             }
@@ -3083,14 +3083,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Cento",
                   "lemma": "cento",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "hundred, one hundred"
                 },
                 {
                   "word": "zecchini",
-                  "lemma": "zecchini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "zecchino",
+                  "pos": "noun",
+                  "meaning": "plural of zecchino"
                 }
               ]
             }
@@ -3163,9 +3163,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Parolissima",
-                  "lemma": "parolissima",
+                  "lemma": "Parolissima",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Parolissima"
                 }
               ]
             }
@@ -3207,8 +3207,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "motto",
                   "lemma": "motto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "witty remark / motto, maxim"
                 },
                 {
                   "word": "un",
@@ -3219,8 +3219,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "gesto",
                   "lemma": "gesto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "gesture, an act / gesture, a sign, a movement"
                 }
               ]
             },
@@ -3231,9 +3231,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Giurate",
-                  "lemma": "giurate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "giurare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "di",
@@ -3292,9 +3292,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Penelopi",
-                  "lemma": "penelopi",
+                  "lemma": "Penelopi",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Penelopi"
                 }
               ]
             }
@@ -3311,9 +3311,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Giuriamo",
-                  "lemma": "giuriamo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "giurare",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 }
               ]
             }
@@ -3342,7 +3342,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -3379,7 +3379,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -3422,9 +3422,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "farete",
-                  "lemma": "farete",
+                  "lemma": "fare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural future of fare"
                 }
               ]
             },
@@ -3435,7 +3435,7 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -3503,9 +3503,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Tuttissimo",
-                  "lemma": "tuttissimo",
+                  "lemma": "Tuttissimo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Tuttissimo"
                 }
               ]
             }
@@ -3522,9 +3522,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Bravissimi",
-                  "lemma": "bravissimi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "bravissimo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of bravissimo"
                 }
               ]
             }
@@ -3541,9 +3541,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Bravissimo",
-                  "lemma": "bravissimo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "bravo",
+                  "pos": "adjective",
+                  "meaning": "superlative degree of bravo; very good"
                 }
               ]
             },
@@ -3562,13 +3562,13 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Alfonsetto",
-                  "lemma": "alfonsetto",
+                  "lemma": "Alfonsetto",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Alfonsetto"
                 }
               ]
             }
@@ -3615,9 +3615,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "divertiremo",
-                  "lemma": "divertiremo",
+                  "lemma": "divertire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural future of divertire"
                 }
               ]
             }
@@ -3641,20 +3641,20 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "de",
                   "lemma": "de",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "alternative form of di"
                 },
                 {
                   "word": "cento",
                   "lemma": "cento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "hundred, one hundred"
                 },
                 {
                   "word": "zecchini",
-                  "lemma": "zecchini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "zecchino",
+                  "pos": "noun",
+                  "meaning": "plural of zecchino"
                 },
                 {
                   "word": "che",
@@ -3664,9 +3664,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "faremo",
-                  "lemma": "faremo",
+                  "lemma": "fare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural future of fare"
                 }
               ]
             }
@@ -3698,8 +3698,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "serenata",
                   "lemma": "serenata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "serenade"
                 }
               ]
             },
@@ -3742,7 +3742,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Dea",
                   "lemma": "dea",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "goddess / female star"
                 }
               ]
             }
@@ -3777,9 +3777,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Citerea",
-                  "lemma": "citerea",
+                  "lemma": "Citerea",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Citerea"
                 }
               ]
             },
@@ -3797,8 +3797,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "convito",
                   "lemma": "convito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "banquet"
                 },
                 {
                   "word": "io",
@@ -3846,14 +3846,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "de",
                   "lemma": "de",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "alternative form of di"
                 },
                 {
                   "word": "convitati",
-                  "lemma": "convitati",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "convitato",
+                  "pos": "noun",
+                  "meaning": "plural of convitato"
                 }
               ]
             }
@@ -3920,14 +3920,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "brindisi",
                   "lemma": "brindisi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Brindisi"
                 },
                 {
                   "word": "replicati",
-                  "lemma": "replicati",
+                  "lemma": "replicato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "masculine plural of replicato"
                 }
               ]
             },
@@ -3962,7 +3962,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -4011,8 +4011,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "sorella",
                   "lemma": "sorella",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sister / sister"
                 }
               ]
             },
@@ -4097,9 +4097,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "ritrovar",
-                  "lemma": "ritrovar",
+                  "lemma": "ritrovare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to find again, to find / to recover, regain"
                 }
               ]
             }
@@ -4117,9 +4117,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Osserva",
-                  "lemma": "osserva",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "osservare",
+                  "pos": "verb",
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "tu",
@@ -4172,9 +4172,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "sguardi",
-                  "lemma": "sguardi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sguardo",
+                  "pos": "noun",
+                  "meaning": "plural of sguardo"
                 }
               ]
             },
@@ -4224,13 +4224,13 @@ export const cosiFanTutteAct1: Act = {
                   "word": "sembran",
                   "lemma": "sembran",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of sembrano"
                 },
                 {
                   "word": "scoccar",
-                  "lemma": "scoccar",
+                  "lemma": "scoccare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to shoot / to strike"
                 }
               ]
             }
@@ -4266,8 +4266,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "sembiante",
                   "lemma": "sembiante",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "similar, alike"
                 }
               ]
             },
@@ -4279,8 +4279,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Guerriero",
                   "lemma": "guerriero",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "warlike"
                 },
                 {
                   "word": "ed",
@@ -4346,9 +4346,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "alletta",
-                  "lemma": "alletta",
+                  "lemma": "allettare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "e",
@@ -4477,14 +4477,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "cangia",
                   "lemma": "cangia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a kind of sailing boat of up to two masts used for housing and for pleasure-trips"
                 },
                 {
                   "word": "desio",
                   "lemma": "desio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "desire"
                 }
               ]
             },
@@ -4520,15 +4520,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Vivendo",
-                  "lemma": "vivendo",
+                  "lemma": "vivere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of vivere"
                 },
                 {
                   "word": "penar",
-                  "lemma": "penar",
+                  "lemma": "penare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to suffer"
                 }
               ]
             }
@@ -4564,14 +4564,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "stamattina",
                   "lemma": "stamattina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "this morning"
                 },
                 {
                   "word": "volentieri",
                   "lemma": "volentieri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "willingly, gladly, with pleasure"
                 }
               ]
             },
@@ -4582,9 +4582,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Farei",
-                  "lemma": "farei",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "fare",
+                  "pos": "verb",
+                  "meaning": "first-person singular conditional of fare"
                 },
                 {
                   "word": "la",
@@ -4595,8 +4595,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "pazzarella",
                   "lemma": "pazzarella",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pazzarella"
                 },
                 {
                   "word": "ho",
@@ -4644,8 +4644,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "pizzicor",
                   "lemma": "pizzicor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apocopic form of pizzicore"
                 },
                 {
                   "word": "entro",
@@ -4661,9 +4661,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "vene",
-                  "lemma": "vene",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vena",
+                  "pos": "noun",
+                  "meaning": "plural of vena"
                 }
               ]
             },
@@ -4680,9 +4680,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Guglielmo",
-                  "lemma": "guglielmo",
+                  "lemma": "Guglielmo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Guglielmo (officer)"
                 },
                 {
                   "word": "viene",
@@ -4698,9 +4698,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "sapessi",
-                  "lemma": "sapessi",
+                  "lemma": "sapere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second-person singular imperfect subjunctive of sapere"
                 }
               ]
             },
@@ -4804,8 +4804,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "nuovo",
                   "lemma": "nuovo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "new"
                 }
               ]
             },
@@ -4822,21 +4822,21 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "nell",
-                  "lemma": "nell'",
+                  "lemma": "nell",
                   "pos": "noun",
                   "meaning": "in-the"
                 },
                 {
                   "word": "alma",
-                  "lemma": "alma",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "anima",
+                  "pos": "noun",
+                  "meaning": "soul / spirit (poetic for anima)"
                 },
                 {
                   "word": "provo",
-                  "lemma": "provo",
+                  "lemma": "provare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of provare"
                 },
                 {
                   "word": "io",
@@ -4846,9 +4846,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "giurerei",
-                  "lemma": "giurerei",
+                  "lemma": "giurare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular conditional of giurare"
                 }
               ]
             },
@@ -4865,9 +4865,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "lontane",
-                  "lemma": "lontane",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "lontano",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of lontano"
                 },
                 {
                   "word": "non",
@@ -4889,9 +4889,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "imenei",
-                  "lemma": "imenei",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "imeneo",
+                  "pos": "noun",
+                  "meaning": "plural of imeneo"
                 }
               ]
             }
@@ -4938,9 +4938,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "astrologarti",
-                  "lemma": "astrologarti",
+                  "lemma": "astrologare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to astrologize, to divine using astrology / to rack one's brains, to puzzle (ti: thee / you)"
                 }
               ]
             },
@@ -4951,9 +4951,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Uh",
-                  "lemma": "uh",
+                  "lemma": "Uh",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Uh"
                 },
                 {
                   "word": "che",
@@ -4964,8 +4964,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "bell'Emme",
                   "lemma": "bell'emme",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "bell'emme"
                 },
                 {
                   "word": "E",
@@ -5002,7 +5002,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Pi",
                   "lemma": "pi",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "The name of the Latin script letter P/p.; pee"
                 },
                 {
                   "word": "Va",
@@ -5044,8 +5044,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Affé",
                   "lemma": "affé",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "forsooth!, in truth!"
                 },
                 {
                   "word": "che",
@@ -5117,8 +5117,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "rabbia",
                   "lemma": "rabbia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "anger, chafe / rabies"
                 }
               ]
             }
@@ -5196,9 +5196,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Ritardano",
-                  "lemma": "ritardano",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ritardare",
+                  "pos": "verb",
+                  "meaning": "third-person plural present indicative of ritardare"
                 },
                 {
                   "word": "a",
@@ -5305,13 +5305,13 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Alfonso",
-                  "lemma": "alfonso",
+                  "lemma": "Don Alfonso",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Alfonso (philosopher)"
                 }
               ]
             },
@@ -5387,13 +5387,13 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Alfonso",
-                  "lemma": "alfonso",
+                  "lemma": "Don Alfonso",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Alfonso (philosopher)"
                 }
               ]
             }
@@ -5410,9 +5410,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Riverisco",
-                  "lemma": "riverisco",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "riverire",
+                  "pos": "verb",
+                  "meaning": "first-person singular present indicative of riverire"
                 }
               ]
             }
@@ -5459,9 +5459,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "piangete",
-                  "lemma": "piangete",
+                  "lemma": "piangere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -5553,8 +5553,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "idol",
                   "lemma": "idol",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apocopic form of idolo"
                 },
                 {
                   "word": "mio",
@@ -5584,8 +5584,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "fato",
                   "lemma": "fato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fate, destiny"
                 }
               ]
             }
@@ -5645,9 +5645,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Balbettando",
-                  "lemma": "balbettando",
+                  "lemma": "balbettare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of balbettare"
                 },
                 {
                   "word": "il",
@@ -5738,8 +5738,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "mezza",
                   "lemma": "mezza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "half-hour / half past , especially 12:30"
                 },
                 {
                   "word": "qua",
@@ -5762,9 +5762,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "farete",
-                  "lemma": "farete",
+                  "lemma": "fare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural future of fare"
                 },
                 {
                   "word": "Che",
@@ -5806,8 +5806,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "fatalità",
                   "lemma": "fatalità",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fate / fatality"
                 }
               ]
             },
@@ -5831,8 +5831,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "peggio",
                   "lemma": "peggio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "worse / worst"
                 },
                 {
                   "word": "non",
@@ -5934,9 +5934,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Alfonso",
-                  "lemma": "alfonso",
+                  "lemma": "Don Alfonso",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Alfonso (philosopher)"
                 }
               ]
             },
@@ -5992,7 +5992,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "armarvi",
                   "lemma": "armarvi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive armare with vi"
                 }
               ]
             },
@@ -6022,8 +6022,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "costanza",
                   "lemma": "costanza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "constancy / steadfastness"
                 }
               ]
             }
@@ -6077,9 +6077,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "addivenuto",
-                  "lemma": "addivenuto",
+                  "lemma": "addivenire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of addivenire"
                 },
                 {
                   "word": "mai",
@@ -6102,8 +6102,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "rio",
                   "lemma": "rio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "brook; stream; streamlet / a stretch of urban canal"
                 }
               ]
             },
@@ -6200,9 +6200,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Morti",
-                  "lemma": "morti",
+                  "lemma": "morte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of morte / plural of morto"
                 },
                 {
                   "word": "non",
@@ -6242,9 +6242,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "morti",
-                  "lemma": "morti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "morte",
+                  "pos": "noun",
+                  "meaning": "plural of morte / plural of morto"
                 }
               ]
             }
@@ -6261,9 +6261,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Feriti",
-                  "lemma": "feriti",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ferito",
+                  "pos": "verb",
+                  "meaning": "masculine plural of ferito"
                 }
               ]
             }
@@ -6299,9 +6299,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Ammalati",
-                  "lemma": "ammalati",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ammalato",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of ammalato"
                 }
               ]
             }
@@ -6319,8 +6319,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Neppur",
                   "lemma": "neppur",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "apocopic form of neppure"
                 }
               ]
             }
@@ -6374,9 +6374,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "marzial",
-                  "lemma": "marzial",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "marziale",
+                  "pos": "adjective",
+                  "meaning": "martial"
                 },
                 {
                   "word": "campo",
@@ -6393,15 +6393,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Ordin",
-                  "lemma": "ordin",
+                  "lemma": "ordine",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "order / order"
                 },
                 {
                   "word": "regio",
                   "lemma": "regio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "royal / grand, excellent"
                 },
                 {
                   "word": "li",
@@ -6431,8 +6431,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Ohimè",
                   "lemma": "ohimè",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "oh dear! / oops!"
                 },
                 {
                   "word": "che",
@@ -6469,7 +6469,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "partiran",
                   "lemma": "partiran",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of partiranno"
                 }
               ]
             }
@@ -6523,7 +6523,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -6541,7 +6541,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -6549,7 +6549,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "impedirlo",
                   "lemma": "impedirlo",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive impedire with lo"
                 }
               ]
             }
@@ -6572,7 +6572,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -6634,9 +6634,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Gl'infelici",
-                  "lemma": "gl'infelici",
+                  "lemma": "Gl'infelici",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Gl'infelici"
                 },
                 {
                   "word": "non",
@@ -6673,7 +6673,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "vedervi",
                   "lemma": "vedervi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive vedere with vi"
                 }
               ]
             },
@@ -6708,9 +6708,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "bramate",
-                  "lemma": "bramate",
+                  "lemma": "bramare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -6812,8 +6812,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "oddio",
                   "lemma": "oddio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "oh God; oh my God; God! / good grief"
                 },
                 {
                   "word": "che",
@@ -6849,8 +6849,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "restio",
                   "lemma": "restio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "reluctant, unwilling"
                 },
                 {
                   "word": "nel",
@@ -6860,15 +6860,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "girle",
-                  "lemma": "girle",
+                  "lemma": "gire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to go (le: them / to her)"
                 },
                 {
                   "word": "avante",
                   "lemma": "avante",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "alternative form of avanti"
                 }
               ]
             }
@@ -6904,9 +6904,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "palpitante",
-                  "lemma": "palpitante",
+                  "lemma": "palpitare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "present participle of palpitare"
                 }
               ]
             },
@@ -6935,9 +6935,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "pronunziar",
-                  "lemma": "pronunziar",
+                  "lemma": "pronunziare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "alternative form of pronunciare"
                 }
               ]
             }
@@ -6972,9 +6972,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "terribili",
-                  "lemma": "terribili",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "terribile",
+                  "pos": "adjective",
+                  "meaning": "plural of terribile"
                 }
               ]
             },
@@ -7004,14 +7004,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "eroe",
                   "lemma": "eroe",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "hero"
                 },
                 {
                   "word": "palesa",
-                  "lemma": "palesa",
+                  "lemma": "palesare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -7042,7 +7042,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "abbiam",
                   "lemma": "abbiam",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of abbiamo"
                 },
                 {
                   "word": "la",
@@ -7053,8 +7053,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "nuova",
                   "lemma": "nuova",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "news"
                 },
                 {
                   "word": "intesa",
@@ -7151,8 +7151,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "seno",
                   "lemma": "seno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "breast / bosom, heart, breast"
                 }
               ]
             },
@@ -7163,9 +7163,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Immergeteci",
-                  "lemma": "immergeteci",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "immergere",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative (ci: us)"
                 },
                 {
                   "word": "l",
@@ -7175,9 +7175,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "acciar",
-                  "lemma": "acciar",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "acciaro",
+                  "pos": "noun",
+                  "meaning": "alternative form of acciaio (“steel”)"
                 }
               ]
             }
@@ -7196,7 +7196,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Idol",
                   "lemma": "idol",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "apocopic form of idolo"
                 },
                 {
                   "word": "mio",
@@ -7218,9 +7218,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "incolpa",
-                  "lemma": "incolpa",
+                  "lemma": "incolpare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -7245,13 +7245,13 @@ export const cosiFanTutteAct1: Act = {
                   "word": "deggio",
                   "lemma": "deggio",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "alternative form of devo, first-person singular present indicative of dovere"
                 },
                 {
                   "word": "abbandonar",
                   "lemma": "abbandonar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of abbandonare"
                 }
               ]
             }
@@ -7292,9 +7292,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "partirai",
-                  "lemma": "partirai",
+                  "lemma": "partire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular future of partire"
                 }
               ]
             }
@@ -7337,7 +7337,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "n",
-                  "lemma": "n'",
+                  "lemma": "n",
                   "pos": "noun",
                   "meaning": "of-it"
                 },
@@ -7378,7 +7378,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "cavarmi",
                   "lemma": "cavarmi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive cavare with mi"
                 },
                 {
                   "word": "il",
@@ -7489,15 +7489,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "n",
-                  "lemma": "n'",
+                  "lemma": "n",
                   "pos": "noun",
                   "meaning": "of-it"
                 },
                 {
                   "word": "avvedi",
-                  "lemma": "avvedi",
+                  "lemma": "avvedersi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -7529,14 +7529,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "finem",
                   "lemma": "finem",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "finem"
                 },
                 {
                   "word": "lauda",
                   "lemma": "lauda",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "praise / a medieval poetic work with religious themes"
                 }
               ]
             }
@@ -7573,9 +7573,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "defrauda",
-                  "lemma": "defrauda",
+                  "lemma": "defraudare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -7592,21 +7592,21 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "speranze",
-                  "lemma": "speranze",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "speranza",
+                  "pos": "noun",
+                  "meaning": "plural of speranza"
                 },
                 {
                   "word": "de",
                   "lemma": "de",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "alternative form of di"
                 },
                 {
                   "word": "mortali",
-                  "lemma": "mortali",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "mortale",
+                  "pos": "noun",
+                  "meaning": "plural of mortale"
                 }
               ]
             },
@@ -7648,8 +7648,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "mali",
                   "lemma": "mali",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Mali"
                 }
               ]
             },
@@ -7722,8 +7722,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "idol",
                   "lemma": "idol",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apocopic form of idolo"
                 },
                 {
                   "word": "mio",
@@ -7754,7 +7754,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "disperarti",
                   "lemma": "disperarti",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive disperare with ti"
                 }
               ]
             },
@@ -7765,9 +7765,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Adorata",
-                  "lemma": "adorata",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "adorato",
+                  "pos": "verb",
+                  "meaning": "feminine singular of adorato"
                 },
                 {
                   "word": "mia",
@@ -7815,8 +7815,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "sfogo",
                   "lemma": "sfogo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "outlet / vent"
                 }
               ]
             },
@@ -7840,8 +7840,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "giusta",
                   "lemma": "giusta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "according to, in accordance with / close to, nearby"
                 }
               ]
             },
@@ -7909,7 +7909,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -7934,8 +7934,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "veggio",
                   "lemma": "veggio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "hot water bottle"
                 }
               ]
             }
@@ -7976,9 +7976,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "ritorni",
-                  "lemma": "ritorni",
+                  "lemma": "ritornare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             }
@@ -7996,8 +7996,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Lasciami",
                   "lemma": "lasciami",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of lascia, the second-person singular imperative form of lasciare, with mi"
                 },
                 {
                   "word": "questo",
@@ -8057,8 +8057,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "barbara",
                   "lemma": "barbara",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a female given name, equivalent to English Barbara"
                 },
                 {
                   "word": "sorte",
@@ -8088,8 +8088,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "seno",
                   "lemma": "seno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "breast / bosom, heart, breast"
                 },
                 {
                   "word": "a",
@@ -8124,9 +8124,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Morrei",
-                  "lemma": "morrei",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "morire",
+                  "pos": "verb",
+                  "meaning": "first-person singular conditional of morire"
                 },
                 {
                   "word": "di",
@@ -8136,21 +8136,21 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "duol",
-                  "lemma": "duol",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "duolo",
+                  "pos": "noun",
+                  "meaning": "sorrow / grief / pain"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "uopo",
                   "lemma": "uopo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "need"
                 },
                 {
                   "word": "non",
@@ -8166,15 +8166,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "acciaro",
                   "lemma": "acciaro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of acciaio (“steel”)"
                 }
               ]
             }
@@ -8222,21 +8222,21 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
                 {
                   "word": "infausti",
-                  "lemma": "infausti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "infausto",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of infausto"
                 },
                 {
                   "word": "presagi",
-                  "lemma": "presagi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "presagio",
+                  "pos": "noun",
+                  "meaning": "plural of presagio"
                 }
               ]
             },
@@ -8247,9 +8247,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Proteggeran",
-                  "lemma": "proteggeran",
+                  "lemma": "Proteggeran",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Proteggeran"
                 },
                 {
                   "word": "gli",
@@ -8340,8 +8340,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "fato",
                   "lemma": "fato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fate, destiny"
                 },
                 {
                   "word": "dan",
@@ -8376,9 +8376,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "vezzosi",
-                  "lemma": "vezzosi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vezzoso",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of vezzoso"
                 }
               ]
             },
@@ -8401,9 +8401,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "protegge",
-                  "lemma": "protegge",
+                  "lemma": "proteggere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of proteggere"
                 }
               ]
             },
@@ -8432,9 +8432,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "riposi",
-                  "lemma": "riposi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "riposo",
+                  "pos": "noun",
+                  "meaning": "plural of riposo"
                 }
               ]
             },
@@ -8451,9 +8451,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "barbare",
-                  "lemma": "barbare",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "barbaro",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of barbaro"
                 },
                 {
                   "word": "stelle",
@@ -8470,15 +8470,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Ardiscon",
-                  "lemma": "ardiscon",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ardire",
+                  "pos": "verb",
+                  "meaning": "third-person plural present indicative of ardire"
                 },
                 {
                   "word": "turbar",
-                  "lemma": "turbar",
+                  "lemma": "turbare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to disturb, to trouble, to haunt"
                 }
               ]
             },
@@ -8496,14 +8496,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "ciglio",
                   "lemma": "ciglio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "eyelash / eyebrow"
                 },
                 {
                   "word": "sereno",
                   "lemma": "sereno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "serene, calm / clear, serene, calm, cloudless, fair"
                 }
               ]
             },
@@ -8570,8 +8570,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "seno",
                   "lemma": "seno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "breast / bosom, heart, breast"
                 }
               ]
             },
@@ -8751,8 +8751,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "funesto",
                   "lemma": "funesto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "fatal / disastrous"
                 }
               ]
             },
@@ -8777,7 +8777,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "divider",
                   "lemma": "divider",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of dividere"
                 },
                 {
                   "word": "mi",
@@ -8843,8 +8843,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "barca",
                   "lemma": "barca",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "boat / skiff"
                 }
               ]
             }
@@ -8868,8 +8868,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "manco",
                   "lemma": "manco",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "faulty, imperfect, maimed, missing something / left"
                 }
               ]
             }
@@ -8893,8 +8893,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "moro",
                   "lemma": "moro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mulberry tree"
                 }
               ]
             }
@@ -8932,9 +8932,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "militar",
-                  "lemma": "militar",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "militare",
+                  "pos": "adjective",
+                  "meaning": "military / army"
                 }
               ]
             },
@@ -8964,8 +8964,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "cangia",
                   "lemma": "cangia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a kind of sailing boat of up to two masts used for housing and for pleasure-trips"
                 },
                 {
                   "word": "loco",
@@ -8994,9 +8994,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "doman",
-                  "lemma": "doman",
+                  "lemma": "domare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of domare"
                 },
                 {
                   "word": "poco",
@@ -9068,9 +9068,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "fragor",
-                  "lemma": "fragor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fragore",
+                  "pos": "noun",
+                  "meaning": "roar / rumble"
                 },
                 {
                   "word": "di",
@@ -9080,9 +9080,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "trombe",
-                  "lemma": "trombe",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tromba",
+                  "pos": "noun",
+                  "meaning": "plural of tromba"
                 },
                 {
                   "word": "e",
@@ -9113,7 +9113,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "sparar",
                   "lemma": "sparar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of sparare"
                 },
                 {
                   "word": "di",
@@ -9123,9 +9123,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "schioppi",
-                  "lemma": "schioppi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "schioppo",
+                  "pos": "noun",
+                  "meaning": "plural of schioppo"
                 },
                 {
                   "word": "e",
@@ -9135,9 +9135,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "bombe",
-                  "lemma": "bombe",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bomba",
+                  "pos": "noun",
+                  "meaning": "plural of bomba"
                 }
               ]
             },
@@ -9150,7 +9150,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Forza",
                   "lemma": "forza",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "force / strength"
                 },
                 {
                   "word": "accresce",
@@ -9178,7 +9178,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "all",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
@@ -9215,9 +9215,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "trionfar",
-                  "lemma": "trionfar",
+                  "lemma": "trionfare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to triumph, to prevail, to win / to be a hit, be a great success"
                 }
               ]
             },
@@ -9240,9 +9240,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "militar",
-                  "lemma": "militar",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "militare",
+                  "pos": "adjective",
+                  "meaning": "military / army"
                 }
               ]
             }
@@ -9266,7 +9266,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -9351,15 +9351,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
                 {
                   "word": "invita",
-                  "lemma": "invita",
+                  "lemma": "invitare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -9532,8 +9532,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "reggimento",
                   "lemma": "reggimento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "regiment"
                 }
               ]
             },
@@ -9557,8 +9557,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "partita",
                   "lemma": "partita",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "match, game / lot, parcel, batch, stock"
                 },
                 {
                   "word": "la",
@@ -9569,8 +9569,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "barca",
                   "lemma": "barca",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "boat / skiff"
                 }
               ]
             },
@@ -9582,8 +9582,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Raggiungerla",
                   "lemma": "raggiungerla",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of the infinitive raggiungere with la"
                 },
                 {
                   "word": "convien",
@@ -9655,9 +9655,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Attendendo",
-                  "lemma": "attendendo",
+                  "lemma": "attendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of attendere"
                 },
                 {
                   "word": "vi",
@@ -9687,14 +9687,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Abbracciami",
                   "lemma": "abbracciami",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of abbraccia, the second-person singular imperative form of abbracciare, with mi"
                 },
                 {
                   "word": "idol",
                   "lemma": "idol",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apocopic form of idolo"
                 },
                 {
                   "word": "mio",
@@ -9723,7 +9723,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -9756,7 +9756,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "scrivermi",
                   "lemma": "scrivermi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive scrivere with mi"
                 },
                 {
                   "word": "ogni",
@@ -9780,8 +9780,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Giurami",
                   "lemma": "giurami",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of giura, the second-person singular imperative form of giurare, with mi"
                 },
                 {
                   "word": "vita",
@@ -9845,7 +9845,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "scrivimi",
                   "lemma": "scrivimi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of scrivi, the second-person singular imperative form of scrivere, with mi"
                 },
                 {
                   "word": "se",
@@ -9882,9 +9882,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "certa",
-                  "lemma": "certa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "certo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of certo"
                 },
                 {
                   "word": "o",
@@ -9956,9 +9956,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "crepo",
-                  "lemma": "crepo",
+                  "lemma": "crepare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of crepare"
                 },
                 {
                   "word": "se",
@@ -10002,8 +10002,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "costante",
                   "lemma": "costante",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "constant, persistent, consistent / uniform, even"
                 },
                 {
                   "word": "a",
@@ -10038,15 +10038,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Serbati",
-                  "lemma": "serbati",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "serbato",
+                  "pos": "verb",
+                  "meaning": "masculine plural of serbato"
                 },
                 {
                   "word": "fido",
                   "lemma": "fido",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "faithful, loyal"
                 }
               ]
             }
@@ -10132,9 +10132,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "militar",
-                  "lemma": "militar",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "militare",
+                  "pos": "adjective",
+                  "meaning": "military / army"
                 }
               ]
             }
@@ -10196,9 +10196,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "partiti",
-                  "lemma": "partiti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "partito",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of partito"
                 }
               ]
             }
@@ -10222,8 +10222,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "dipartenza",
                   "lemma": "dipartenza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "dipartenza"
                 }
               ]
             },
@@ -10234,15 +10234,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Crudelissima",
-                  "lemma": "crudelissima",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "crudelissimo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of crudelissimo"
                 },
                 {
                   "word": "amara",
-                  "lemma": "amara",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "amaro",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of amaro"
                 }
               ]
             }
@@ -10278,15 +10278,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Carissime",
-                  "lemma": "carissime",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "carissimo",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of carissimo"
                 },
                 {
                   "word": "figliuole",
-                  "lemma": "figliuole",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "figliuola",
+                  "pos": "noun",
+                  "meaning": "plural of figliuola"
                 }
               ]
             },
@@ -10392,8 +10392,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "viaggio",
                   "lemma": "viaggio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "journey, trip, tour, voyage / travels, travel, travelling/traveling"
                 },
                 {
                   "word": "mia",
@@ -10431,8 +10431,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "viaggio",
                   "lemma": "viaggio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "journey, trip, tour, voyage / travels, travel, travelling/traveling"
                 }
               ]
             }
@@ -10470,8 +10470,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "veloce",
                   "lemma": "veloce",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "fast, quick, speedy, rapid / cursory"
                 }
               ]
             },
@@ -10507,8 +10507,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "barca",
                   "lemma": "barca",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "boat / skiff"
                 },
                 {
                   "word": "Già",
@@ -10518,9 +10518,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "sparisce",
-                  "lemma": "sparisce",
+                  "lemma": "sparire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of sparire"
                 }
               ]
             },
@@ -10562,8 +10562,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Deh",
                   "lemma": "deh",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "pray! / ah! / alas!"
                 },
                 {
                   "word": "faccia",
@@ -10592,7 +10592,7 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -10605,8 +10605,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "prospero",
                   "lemma": "prospero",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "flourishing, thriving / prosperous, affluent"
                 },
                 {
                   "word": "corso",
@@ -10653,9 +10653,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "giunga",
-                  "lemma": "giunga",
+                  "lemma": "giungere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 }
               ]
             },
@@ -10672,15 +10672,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "fortunati",
-                  "lemma": "fortunati",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fortunato",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of fortunato"
                 },
                 {
                   "word": "auspici",
-                  "lemma": "auspici",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "auspice",
+                  "pos": "noun",
+                  "meaning": "plural of auspice"
                 }
               ]
             }
@@ -10715,9 +10715,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "salvi",
-                  "lemma": "salvi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "salvo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of salvo"
                 },
                 {
                   "word": "gli",
@@ -10764,15 +10764,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "FIORDILIGI",
-                  "lemma": "fiordiligi",
+                  "lemma": "Fiordiligi",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Fiordiligi (lady of Ferrara)"
                 },
                 {
                   "word": "DORABELLA",
-                  "lemma": "dorabella",
+                  "lemma": "Dorabella",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Dorabella (sister of Fiordiligi)"
                 },
                 {
                   "word": "e",
@@ -10784,13 +10784,13 @@ export const cosiFanTutteAct1: Act = {
                   "word": "DON",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "ALFONSO",
-                  "lemma": "alfonso",
+                  "lemma": "Don Alfonso",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Alfonso (philosopher)"
                 }
               ]
             },
@@ -10877,8 +10877,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "elemento",
                   "lemma": "elemento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "element"
                 }
               ]
             },
@@ -10890,14 +10890,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Benigno",
                   "lemma": "benigno",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "benign / kindly"
                 },
                 {
                   "word": "risponda",
-                  "lemma": "risponda",
+                  "lemma": "rispondere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 }
               ]
             },
@@ -10915,8 +10915,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "nostri/vostri",
                   "lemma": "nostri/vostri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "nostri/vostri"
                 },
                 {
                   "word": "desir",
@@ -10970,7 +10970,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "comico",
                   "lemma": "comico",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "comic, comical"
                 },
                 {
                   "word": "va",
@@ -10999,9 +10999,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "concertato",
-                  "lemma": "concertato",
+                  "lemma": "concertare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of concertare"
                 },
                 {
                   "word": "loco",
@@ -11023,9 +11023,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "campioni",
-                  "lemma": "campioni",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "campione",
+                  "pos": "noun",
+                  "meaning": "plural of campione"
                 }
               ]
             },
@@ -11042,9 +11042,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Ciprigna",
-                  "lemma": "ciprigna",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ciprigno",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of ciprigno"
                 },
                 {
                   "word": "e",
@@ -11062,7 +11062,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Marte",
                   "lemma": "marte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Mars / Mars"
                 }
               ]
             },
@@ -11079,15 +11079,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "staranno",
-                  "lemma": "staranno",
+                  "lemma": "stare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural future of stare"
                 },
                 {
                   "word": "attendendo",
-                  "lemma": "attendendo",
+                  "lemma": "attendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of attendere"
                 },
                 {
                   "word": "or",
@@ -11104,8 +11104,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "indugio",
                   "lemma": "indugio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "delay / hesitation"
                 }
               ]
             },
@@ -11117,8 +11117,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Raggiungerli",
                   "lemma": "raggiungerli",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of the infinitive raggiungere with li"
                 },
                 {
                   "word": "conviene",
@@ -11128,15 +11128,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Quante",
-                  "lemma": "quante",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "quanto",
+                  "pos": "particle",
+                  "meaning": "feminine plural of quanto"
                 },
                 {
                   "word": "smorfie",
-                  "lemma": "smorfie",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "smorfia",
+                  "pos": "noun",
+                  "meaning": "plural of smorfia"
                 }
               ]
             },
@@ -11147,15 +11147,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Quante",
-                  "lemma": "quante",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "quanto",
+                  "pos": "particle",
+                  "meaning": "feminine plural of quanto"
                 },
                 {
                   "word": "buffonerie",
-                  "lemma": "buffonerie",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "buffoneria",
+                  "pos": "noun",
+                  "meaning": "plural of buffoneria"
                 }
               ]
             },
@@ -11197,9 +11197,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Cadran",
-                  "lemma": "cadran",
+                  "lemma": "Cadran",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Cadran"
                 },
                 {
                   "word": "più",
@@ -11211,7 +11211,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "facilmente",
                   "lemma": "facilmente",
                   "pos": "adverb",
-                  "meaning": ""
+                  "meaning": "easily / probably"
                 }
               ]
             },
@@ -11264,9 +11264,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "presta",
-                  "lemma": "presta",
+                  "lemma": "prestare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -11283,21 +11283,21 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "cangiarsi",
-                  "lemma": "cangiarsi",
+                  "lemma": "cangiar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of cangiare (si: oneself / him / her)"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "umore",
                   "lemma": "umore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "temper, temperament / mood, humour/humor"
                 },
                 {
                   "word": "Oh",
@@ -11307,9 +11307,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "poverini",
-                  "lemma": "poverini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "poverino",
+                  "pos": "noun",
+                  "meaning": "plural of poverino"
                 }
               ]
             },
@@ -11334,19 +11334,19 @@ export const cosiFanTutteAct1: Act = {
                   "word": "giocar",
                   "lemma": "giocar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of giocare"
                 },
                 {
                   "word": "cento",
                   "lemma": "cento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "hundred, one hundred"
                 },
                 {
                   "word": "zecchini",
-                  "lemma": "zecchini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "zecchino",
+                  "pos": "noun",
+                  "meaning": "plural of zecchino"
                 }
               ]
             },
@@ -11369,9 +11369,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "solca",
-                  "lemma": "solca",
+                  "lemma": "solcare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "e",
@@ -11381,15 +11381,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "nell",
-                  "lemma": "nell'",
+                  "lemma": "nell",
                   "pos": "noun",
                   "meaning": "in-the"
                 },
                 {
                   "word": "arena",
                   "lemma": "arena",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sand / beach or lido"
                 },
                 {
                   "word": "semina",
@@ -11450,7 +11450,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "accogliere",
                   "lemma": "accogliere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to welcome, receive / to accommodate"
                 }
               ]
             },
@@ -11467,9 +11467,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "fonda",
-                  "lemma": "fonda",
+                  "lemma": "fondare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "bases / founds / relies"
                 },
                 {
                   "word": "sue",
@@ -11479,9 +11479,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "speranze",
-                  "lemma": "speranze",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "speranza",
+                  "pos": "noun",
+                  "meaning": "hopes"
                 },
                 {
                   "word": "in",
@@ -11581,8 +11581,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "cameriera",
                   "lemma": "cameriera",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "waitress / maid, housemaid"
                 }
               ]
             },
@@ -11600,8 +11600,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "mattino",
                   "lemma": "mattino",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "morning"
                 },
                 {
                   "word": "alla",
@@ -11747,8 +11747,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "mezza",
                   "lemma": "mezza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "half-hour / half past , especially 12:30"
                 },
                 {
                   "word": "ora",
@@ -11764,9 +11764,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "sbatto",
-                  "lemma": "sbatto",
+                  "lemma": "sbattere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of sbattere"
                 }
               ]
             },
@@ -11784,8 +11784,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "cioccolatte",
                   "lemma": "cioccolatte",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "cioccolatte"
                 },
                 {
                   "word": "è",
@@ -11844,9 +11844,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "odorarlo",
-                  "lemma": "odorarlo",
+                  "lemma": "odorare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to smell , to perceive with the sense of smell / to sniff out, to intuit (lo: him / it)"
                 },
                 {
                   "word": "a",
@@ -11936,9 +11936,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "garbate",
-                  "lemma": "garbate",
+                  "lemma": "garbare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "signore",
@@ -11974,8 +11974,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "dèssi",
                   "lemma": "dèssi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "dèssi"
                 },
                 {
                   "word": "l",
@@ -11986,8 +11986,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "essenza",
                   "lemma": "essenza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "essence, gist / essential oil"
                 },
                 {
                   "word": "e",
@@ -12036,7 +12036,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Bacco",
                   "lemma": "bacco",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "wine / drunkenness"
                 },
                 {
                   "word": "vo",
@@ -12048,13 +12048,13 @@ export const cosiFanTutteAct1: Act = {
                   "word": "assaggiarlo",
                   "lemma": "assaggiarlo",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive assaggiare with lo"
                 },
                 {
                   "word": "cospettaccio",
                   "lemma": "cospettaccio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "cospettaccio"
                 }
               ]
             },
@@ -12066,8 +12066,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Com",
                   "lemma": "com",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "apocopic form of come"
                 },
                 {
                   "word": "è",
@@ -12163,9 +12163,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Madame",
-                  "lemma": "madame",
+                  "lemma": "madama",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of madama"
                 },
                 {
                   "word": "ecco",
@@ -12188,8 +12188,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "colazione",
                   "lemma": "colazione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "breakfast / lunch"
                 }
               ]
             },
@@ -12201,8 +12201,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Diamine",
                   "lemma": "diamine",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "an expression of wonder, impatience or irritation"
                 },
                 {
                   "word": "cosa",
@@ -12324,8 +12324,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "acciaro",
                   "lemma": "acciaro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of acciaio (“steel”)"
                 }
               ]
             }
@@ -12349,8 +12349,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "veleno",
                   "lemma": "veleno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "poison"
                 },
                 {
                   "word": "dov'è",
@@ -12404,15 +12404,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "scostati",
-                  "lemma": "scostati",
+                  "lemma": "scostato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "masculine plural of scostato"
                 },
                 {
                   "word": "Paventa",
-                  "lemma": "paventa",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "paventare",
+                  "pos": "verb",
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "il",
@@ -12429,8 +12429,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "effetto",
                   "lemma": "effetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "effect / appearance, show"
                 }
               ]
             },
@@ -12441,7 +12441,7 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "D",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -12454,14 +12454,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "disperato",
                   "lemma": "disperato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "hopeless, desperate, despairing"
                 },
                 {
                   "word": "affetto",
                   "lemma": "affetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "affected"
                 }
               ]
             },
@@ -12484,9 +12484,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "finestre",
-                  "lemma": "finestre",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "finestra",
+                  "pos": "noun",
+                  "meaning": "plural of finestra"
                 },
                 {
                   "word": "Odio",
@@ -12539,9 +12539,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "spiro",
-                  "lemma": "spiro",
+                  "lemma": "spirare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of spirare"
                 },
                 {
                   "word": "odio",
@@ -12576,9 +12576,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "schernisce",
-                  "lemma": "schernisce",
+                  "lemma": "schernire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "il",
@@ -12594,9 +12594,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "duol",
-                  "lemma": "duol",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "duolo",
+                  "pos": "noun",
+                  "meaning": "sorrow / grief / pain"
                 },
                 {
                   "word": "chi",
@@ -12612,9 +12612,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "consola",
-                  "lemma": "consola",
+                  "lemma": "consolare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -12626,8 +12626,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Deh",
                   "lemma": "deh",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "pray! / ah! / alas!"
                 },
                 {
                   "word": "fuggi",
@@ -12651,7 +12651,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "lasciami",
                   "lemma": "lasciami",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of lascia, the second-person singular imperative form of lasciare, with mi"
                 },
                 {
                   "word": "sola",
@@ -12674,15 +12674,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Smanie",
-                  "lemma": "smanie",
+                  "lemma": "smania",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of smania"
                 },
                 {
                   "word": "implacabili",
-                  "lemma": "implacabili",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "implacabile",
+                  "pos": "adjective",
+                  "meaning": "plural of implacabile"
                 }
               ]
             },
@@ -12699,15 +12699,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
                   "word": "agitate",
-                  "lemma": "agitate",
+                  "lemma": "agitare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative/subjunctive / second-person plural imperative"
                 }
               ]
             },
@@ -12724,7 +12724,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
@@ -12755,9 +12755,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "cessate",
-                  "lemma": "cessate",
+                  "lemma": "cessare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -12787,8 +12787,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "angoscia",
                   "lemma": "angoscia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "anguish"
                 }
               ]
             },
@@ -12843,7 +12843,7 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "D",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -12856,8 +12856,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "funesto",
                   "lemma": "funesto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "fatal / disastrous"
                 }
               ]
             },
@@ -12868,13 +12868,13 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Darò",
-                  "lemma": "darò",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "dare",
+                  "pos": "verb",
+                  "meaning": "first-person singular future of dare"
                 },
                 {
                   "word": "all",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
@@ -12882,7 +12882,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Eumenidi",
                   "lemma": "eumenidi",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Eumenides, Erinyes"
                 }
               ]
             },
@@ -12932,7 +12932,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "orribile",
                   "lemma": "orribile",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "horrible, loathsome / awful, dreadful"
                 }
               ]
             },
@@ -12944,8 +12944,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "De",
                   "lemma": "de",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "alternative form of di"
                 },
                 {
                   "word": "miei",
@@ -12956,8 +12956,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "sospir",
                   "lemma": "sospir",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apocopic form of sospiro"
                 }
               ]
             }
@@ -12980,9 +12980,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Dorabella",
-                  "lemma": "dorabella",
+                  "lemma": "Dorabella",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Dorabella (sister of Fiordiligi)"
                 }
               ]
             },
@@ -12999,9 +12999,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Fiordiligi",
-                  "lemma": "fiordiligi",
+                  "lemma": "Fiordiligi",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Fiordiligi (lady of Ferrara)"
                 }
               ]
             },
@@ -13013,8 +13013,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Ditemi",
                   "lemma": "ditemi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of dite, the second-person plural imperative form of dire, with mi"
                 },
                 {
                   "word": "che",
@@ -13062,8 +13062,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "disgrazia",
                   "lemma": "disgrazia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "misfortune, bad luck / accident, disaster"
                 }
               ]
             }
@@ -13080,9 +13080,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Sbrigatevi",
-                  "lemma": "sbrigatevi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "sbrigarsi",
+                  "pos": "verb",
+                  "meaning": "second-person plural imperative of sbrigarsi"
                 },
                 {
                   "word": "in",
@@ -13093,8 +13093,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "buon'ora",
                   "lemma": "buon'ora",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "buon'ora"
                 }
               ]
             }
@@ -13119,13 +13119,13 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Napoli",
                   "lemma": "napoli",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Naples / Naples"
                 },
                 {
                   "word": "partiti",
-                  "lemma": "partiti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "partito",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of partito"
                 }
               ]
             },
@@ -13179,7 +13179,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "c",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
@@ -13204,9 +13204,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Ritorneran",
-                  "lemma": "ritorneran",
+                  "lemma": "Ritorneran",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ritorneran"
                 }
               ]
             }
@@ -13287,9 +13287,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "iti",
-                  "lemma": "iti",
+                  "lemma": "i",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "The ninth letter of the Italian alphabet, called i and written in the Latin script. (ti: thee / you)"
                 }
               ]
             }
@@ -13394,21 +13394,21 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "carchi",
-                  "lemma": "carchi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "carco",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of carco"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "alloro",
                   "lemma": "alloro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "laurel / bay ; bay leaf"
                 }
               ]
             }
@@ -13433,7 +13433,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "ponno",
                   "lemma": "ponno",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "alternative form of possono"
                 },
                 {
                   "word": "anche",
@@ -13443,9 +13443,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "perir",
-                  "lemma": "perir",
+                  "lemma": "perire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to die, perish / to waste away, perish"
                 }
               ]
             }
@@ -13518,9 +13518,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Sciocca",
-                  "lemma": "sciocca",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "sciocco",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of sciocco"
                 },
                 {
                   "word": "che",
@@ -13557,9 +13557,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "pura",
-                  "lemma": "pura",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "puro",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of puro"
                 },
                 {
                   "word": "verità",
@@ -13581,9 +13581,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "perdete",
-                  "lemma": "perdete",
+                  "lemma": "perdere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -13600,9 +13600,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "restan",
-                  "lemma": "restan",
+                  "lemma": "restane",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of resta, the second-person singular imperative form of restare, with ne"
                 },
                 {
                   "word": "tutti",
@@ -13643,15 +13643,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "perdendo",
-                  "lemma": "perdendo",
+                  "lemma": "perdere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of perdere"
                 },
                 {
                   "word": "Guglielmo",
-                  "lemma": "guglielmo",
+                  "lemma": "Guglielmo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Guglielmo (officer)"
                 }
               ]
             },
@@ -13674,7 +13674,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -13686,9 +13686,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "morrei",
-                  "lemma": "morrei",
+                  "lemma": "morire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular conditional of morire"
                 }
               ]
             }
@@ -13711,15 +13711,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Ferrando",
-                  "lemma": "ferrando",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "Ferrando",
+                  "pos": "noun",
+                  "meaning": "Ferrando (officer)"
                 },
                 {
                   "word": "perdendo",
-                  "lemma": "perdendo",
+                  "lemma": "perdere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of perdere"
                 }
               ]
             },
@@ -13762,13 +13762,13 @@ export const cosiFanTutteAct1: Act = {
                   "word": "seppellirmi",
                   "lemma": "seppellirmi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive seppellire with mi"
                 },
                 {
                   "word": "andrei",
-                  "lemma": "andrei",
+                  "lemma": "andare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular conditional of andare"
                 }
               ]
             }
@@ -13785,9 +13785,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Brave",
-                  "lemma": "brave",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "bravo",
+                  "pos": "adjective",
+                  "meaning": "brave / fine / worthy (fem. pl.)"
                 },
                 {
                   "word": "vi",
@@ -13870,7 +13870,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -13937,7 +13937,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "n",
-                  "lemma": "n'",
+                  "lemma": "n",
                   "pos": "noun",
                   "meaning": "of-it"
                 },
@@ -13962,9 +13962,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "compensano",
-                  "lemma": "compensano",
+                  "lemma": "compensare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of compensare"
                 },
                 {
                   "word": "il",
@@ -14011,9 +14011,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "potria",
-                  "lemma": "potria",
+                  "lemma": "potere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "could / might (poetic conditional)"
                 }
               ]
             },
@@ -14024,9 +14024,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Altr'uom",
-                  "lemma": "altr'uom",
+                  "lemma": "Altr'uom",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Altr'uom"
                 },
                 {
                   "word": "amar",
@@ -14042,7 +14042,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -14079,9 +14079,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Guglielmo",
-                  "lemma": "guglielmo",
+                  "lemma": "Guglielmo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Guglielmo (officer)"
                 },
                 {
                   "word": "un",
@@ -14091,9 +14091,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Ferrando",
-                  "lemma": "ferrando",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "Ferrando",
+                  "pos": "noun",
+                  "meaning": "Ferrando (officer)"
                 }
               ]
             }
@@ -14153,7 +14153,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -14221,15 +14221,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "n",
-                  "lemma": "n'",
+                  "lemma": "n",
                   "pos": "noun",
                   "meaning": "of-it"
                 },
                 {
                   "word": "amerete",
-                  "lemma": "amerete",
+                  "lemma": "amare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural future of amare"
                 },
                 {
                   "word": "uno",
@@ -14363,8 +14363,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "torneran",
                   "lemma": "torneran",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "torneran"
                 },
                 {
                   "word": "ma",
@@ -14380,9 +14380,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "lontani",
-                  "lemma": "lontani",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "lontano",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of lontano"
                 }
               ]
             },
@@ -14417,9 +14417,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "vani",
-                  "lemma": "vani",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vano",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of vano"
                 }
               ]
             },
@@ -14430,9 +14430,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Pianti",
-                  "lemma": "pianti",
+                  "lemma": "pianto",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of pianto"
                 },
                 {
                   "word": "perdere",
@@ -14461,9 +14461,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Pensate",
-                  "lemma": "pensate",
+                  "lemma": "pensata",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of pensata"
                 },
                 {
                   "word": "a",
@@ -14475,7 +14475,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "divertirvi",
                   "lemma": "divertirvi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive divertire with vi"
                 }
               ]
             }
@@ -14493,8 +14493,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Divertirci",
                   "lemma": "divertirci",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of the infinitive divertire with ci"
                 }
               ]
             }
@@ -14531,7 +14531,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -14562,7 +14562,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "all",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
@@ -14605,9 +14605,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Faranno",
-                  "lemma": "faranno",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "fare",
+                  "pos": "verb",
+                  "meaning": "third-person plural future of fare"
                 },
                 {
                   "word": "al",
@@ -14666,9 +14666,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "offender",
-                  "lemma": "offender",
+                  "lemma": "offendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to offend / to hurt, injure, harm"
                 },
                 {
                   "word": "così",
@@ -14678,15 +14678,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "quell",
-                  "lemma": "quell'",
+                  "lemma": "quell",
                   "pos": "noun",
                   "meaning": "that"
                 },
                 {
                   "word": "alme",
-                  "lemma": "alme",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "anima",
+                  "pos": "noun",
+                  "meaning": "souls / spirits (pl.)"
                 },
                 {
                   "word": "belle",
@@ -14710,20 +14710,20 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "fedeltà",
                   "lemma": "fedeltà",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "loyalty, faithfulness, fidelity, trustworthiness, allegiance / accuracy, exactness"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "intatto",
                   "lemma": "intatto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "intact, unbroken, whole"
                 },
                 {
                   "word": "amore",
@@ -14733,9 +14733,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "esempi",
-                  "lemma": "esempi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "esempio",
+                  "pos": "noun",
+                  "meaning": "plural of esempio"
                 }
               ]
             }
@@ -14764,9 +14764,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Passaro",
-                  "lemma": "passaro",
+                  "lemma": "Passaro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Passaro"
                 },
                 {
                   "word": "i",
@@ -14776,9 +14776,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "tempi",
-                  "lemma": "tempi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tempo",
+                  "pos": "noun",
+                  "meaning": "plural of tempo"
                 }
               ]
             },
@@ -14795,9 +14795,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "spacciar",
-                  "lemma": "spacciar",
+                  "lemma": "spacciare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to traffic in / to peddle, push"
                 },
                 {
                   "word": "queste",
@@ -14807,9 +14807,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "favole",
-                  "lemma": "favole",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "favola",
+                  "pos": "noun",
+                  "meaning": "plural of favola"
                 },
                 {
                   "word": "ai",
@@ -14819,9 +14819,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "bambini",
-                  "lemma": "bambini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bambino",
+                  "pos": "noun",
+                  "meaning": "plural of bambino"
                 }
               ]
             }
@@ -14871,13 +14871,13 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Sperare",
                   "lemma": "sperare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to hope / to hope"
                 },
                 {
                   "word": "fedeltà",
                   "lemma": "fedeltà",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "loyalty, faithfulness, fidelity, trustworthiness, allegiance / accuracy, exactness"
                 }
               ]
             },
@@ -14938,8 +14938,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "pasta",
                   "lemma": "pasta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "paste / pasta, noodles"
                 },
                 {
                   "word": "simile",
@@ -14988,14 +14988,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "fronde",
                   "lemma": "fronde",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "archaic form of fronda"
                 },
                 {
                   "word": "mobili",
-                  "lemma": "mobili",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "mobile",
+                  "pos": "adjective",
+                  "meaning": "plural of mobile"
                 }
               ]
             },
@@ -15018,9 +15018,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "incostanti",
-                  "lemma": "incostanti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "incostante",
+                  "pos": "adjective",
+                  "meaning": "plural of incostante"
                 }
               ]
             },
@@ -15064,7 +15064,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Stabilità",
                   "lemma": "stabilità",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "stability"
                 }
               ]
             },
@@ -15075,15 +15075,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Mentite",
-                  "lemma": "mentite",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "mentire",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "lagrime",
-                  "lemma": "lagrime",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "lagrima",
+                  "pos": "noun",
+                  "meaning": "plural of lagrima"
                 }
               ]
             },
@@ -15094,15 +15094,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Fallaci",
-                  "lemma": "fallaci",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "fallace",
+                  "pos": "adjective",
+                  "meaning": "plural of fallace"
                 },
                 {
                   "word": "sguardi",
-                  "lemma": "sguardi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sguardo",
+                  "pos": "noun",
+                  "meaning": "plural of sguardo"
                 }
               ]
             },
@@ -15119,9 +15119,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "ingannevoli",
-                  "lemma": "ingannevoli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ingannevole",
+                  "pos": "adjective",
+                  "meaning": "plural of ingannevole"
                 }
               ]
             },
@@ -15138,9 +15138,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "bugiardi",
-                  "lemma": "bugiardi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bugiardo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of bugiardo"
                 }
               ]
             },
@@ -15164,8 +15164,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "primarie",
                   "lemma": "primarie",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "ellipsis of elezioni primarie"
                 }
               ]
             },
@@ -15183,8 +15183,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "qualità",
                   "lemma": "qualità",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "quality"
                 }
               ]
             },
@@ -15269,9 +15269,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "dispregiano",
-                  "lemma": "dispregiano",
+                  "lemma": "dispregiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of dispregiare"
                 }
               ]
             },
@@ -15282,15 +15282,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Neganci",
-                  "lemma": "neganci",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "negare",
+                  "pos": "verb",
+                  "meaning": "third-person plural present indicative of negare (ci: us)"
                 },
                 {
                   "word": "affetto",
                   "lemma": "affetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "affected"
                 }
               ]
             },
@@ -15319,9 +15319,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "barbari",
-                  "lemma": "barbari",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bárbaro",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of bárbaro"
                 }
               ]
             },
@@ -15351,9 +15351,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Paghiam",
-                  "lemma": "paghiam",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "pagare",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "o",
@@ -15376,21 +15376,21 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "D",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "ugual",
                   "lemma": "ugual",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "apocopic form of uguale"
                 },
                 {
                   "word": "moneta",
                   "lemma": "moneta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "coin / currency"
                 }
               ]
             },
@@ -15407,9 +15407,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "malefica",
-                  "lemma": "malefica",
+                  "lemma": "malefico",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "feminine singular of malefico"
                 }
               ]
             },
@@ -15426,9 +15426,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "indiscreta",
-                  "lemma": "indiscreta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "indiscreto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of indiscreto"
                 }
               ]
             },
@@ -15439,9 +15439,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Amiam",
-                  "lemma": "amiam",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "amare",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "per",
@@ -15452,8 +15452,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "comodo",
                   "lemma": "comodo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "convenient, handy / easy, cushy"
                 }
               ]
             },
@@ -15471,8 +15471,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "vanità",
                   "lemma": "vanità",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "vanity, conceit / vainness, uselessness"
                 }
               ]
             },
@@ -15490,8 +15490,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "ra",
                   "lemma": "ra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Ra"
                 },
                 {
                   "word": "la",
@@ -15508,8 +15508,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "ra",
                   "lemma": "ra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Ra"
                 },
                 {
                   "word": "la",
@@ -15526,8 +15526,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "ra",
                   "lemma": "ra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Ra"
                 },
                 {
                   "word": "la",
@@ -15598,8 +15598,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "tristezza",
                   "lemma": "tristezza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sadness, unhappiness / sorrow, affliction"
                 }
               ]
             },
@@ -15610,9 +15610,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Spirano",
-                  "lemma": "spirano",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "spirare",
+                  "pos": "verb",
+                  "meaning": "third-person plural present indicative of spirare"
                 },
                 {
                   "word": "queste",
@@ -15622,15 +15622,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "stanze",
-                  "lemma": "stanze",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "stànza",
+                  "pos": "noun",
+                  "meaning": "plural of stànza"
                 },
                 {
                   "word": "Poverette",
-                  "lemma": "poverette",
+                  "lemma": "poveretta",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of poveretta"
                 }
               ]
             },
@@ -15692,7 +15692,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "consolarle",
                   "lemma": "consolarle",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive consolare with le"
                 },
                 {
                   "word": "infin",
@@ -15733,9 +15733,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "creduli",
-                  "lemma": "creduli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "credulo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of credulo"
                 },
                 {
                   "word": "sposi",
@@ -15752,9 +15752,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Com'io",
-                  "lemma": "com'io",
+                  "lemma": "Com'io",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Com'io"
                 },
                 {
                   "word": "loro",
@@ -15764,9 +15764,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "commisi",
-                  "lemma": "commisi",
+                  "lemma": "commettere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of commettere"
                 },
                 {
                   "word": "a",
@@ -15776,9 +15776,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "mascherarsi",
-                  "lemma": "mascherarsi",
+                  "lemma": "mascherare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "reflexive of mascherare / to disguise oneself"
                 }
               ]
             },
@@ -15789,9 +15789,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Pensiam",
-                  "lemma": "pensiam",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "pensare",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "cosa",
@@ -15844,9 +15844,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Despina",
-                  "lemma": "despina",
+                  "lemma": "Despina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Despina (maidservant)"
                 },
                 {
                   "word": "quella",
@@ -15856,9 +15856,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "furba",
-                  "lemma": "furba",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "furbo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of furbo"
                 }
               ]
             },
@@ -15869,21 +15869,21 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Potrebbe",
-                  "lemma": "potrebbe",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "potere",
+                  "pos": "verb",
+                  "meaning": "third-person singular conditional of potere"
                 },
                 {
                   "word": "riconoscerli",
                   "lemma": "riconoscerli",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive riconoscere with li"
                 },
                 {
                   "word": "potrebbe",
-                  "lemma": "potrebbe",
+                  "lemma": "potere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular conditional of potere"
                 }
               ]
             },
@@ -15895,8 +15895,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Rovesciarmi",
                   "lemma": "rovesciarmi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of the infinitive rovesciare with mi"
                 },
                 {
                   "word": "le",
@@ -15906,9 +15906,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "macchine",
-                  "lemma": "macchine",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "macchina",
+                  "pos": "noun",
+                  "meaning": "plural of macchina"
                 },
                 {
                   "word": "Vedremo",
@@ -15944,8 +15944,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "bisogno",
                   "lemma": "bisogno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "need / excrement, faeces"
                 }
               ]
             },
@@ -15963,8 +15963,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "regaletto",
                   "lemma": "regaletto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "regaletto"
                 },
                 {
                   "word": "a",
@@ -15987,8 +15987,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "zecchinetto",
                   "lemma": "zecchinetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of zecchinetta"
                 }
               ]
             },
@@ -16012,8 +16012,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "cameriera",
                   "lemma": "cameriera",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "waitress / maid, housemaid"
                 },
                 {
                   "word": "è",
@@ -16078,9 +16078,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "potria",
-                  "lemma": "potria",
+                  "lemma": "potere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "could / might (poetic conditional)"
                 }
               ]
             },
@@ -16092,8 +16092,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Metterla",
                   "lemma": "metterla",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of the infinitive mettere with la"
                 },
                 {
                   "word": "in",
@@ -16128,8 +16128,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "segreto",
                   "lemma": "segreto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "secret"
                 }
               ]
             },
@@ -16141,8 +16141,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Eccellente",
                   "lemma": "eccellente",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "excellent, superb, first-class / very important, prominent, high-ranking"
                 },
                 {
                   "word": "è",
@@ -16208,9 +16208,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Despinetta",
-                  "lemma": "despinetta",
+                  "lemma": "Despinetta",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Despinetta"
                 }
               ]
             }
@@ -16273,9 +16273,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Ih",
-                  "lemma": "ih",
+                  "lemma": "Ih",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ih"
                 }
               ]
             }
@@ -16294,9 +16294,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Despina",
-                  "lemma": "despina",
+                  "lemma": "Despina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Despina (maidservant)"
                 },
                 {
                   "word": "mia",
@@ -16327,7 +16327,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Bisogno",
                   "lemma": "bisogno",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "need / excrement, faeces"
                 },
                 {
                   "word": "avrei",
@@ -16540,9 +16540,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "osserva",
-                  "lemma": "osserva",
+                  "lemma": "osservare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -16605,8 +16605,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "meco",
                   "lemma": "meco",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "pronoun",
+                  "meaning": "with me"
                 },
                 {
                   "word": "sei",
@@ -16648,8 +16648,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "vorebbe",
                   "lemma": "vorebbe",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "vorebbe"
                 }
               ]
             },
@@ -16691,8 +16691,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "giulebbe",
                   "lemma": "giulebbe",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "julep / syrup"
                 }
               ]
             }
@@ -16753,8 +16753,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "fedeltà",
                   "lemma": "fedeltà",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "loyalty, faithfulness, fidelity, trustworthiness, allegiance / accuracy, exactness"
                 }
               ]
             }
@@ -16777,7 +16777,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "c",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
@@ -16888,9 +16888,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "perduti",
-                  "lemma": "perduti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "perduto",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of perduto"
                 },
                 {
                   "word": "gli",
@@ -16962,9 +16962,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "pianti",
-                  "lemma": "pianti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pianto",
+                  "pos": "noun",
+                  "meaning": "plural of pianto"
                 }
               ]
             },
@@ -16987,9 +16987,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "deliri",
-                  "lemma": "deliri",
+                  "lemma": "delirare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "loro",
@@ -17000,8 +17000,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "anco",
                   "lemma": "anco",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "alternative form of anche"
                 },
                 {
                   "word": "tu",
@@ -17094,7 +17094,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "consolarle",
                   "lemma": "consolarle",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive consolare with le"
                 },
                 {
                   "word": "un",
@@ -17125,7 +17125,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "trar",
                   "lemma": "trar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of trarre"
                 },
                 {
                   "word": "come",
@@ -17135,15 +17135,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "diciam",
-                  "lemma": "diciam",
+                  "lemma": "dire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "chiodo",
                   "lemma": "chiodo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "nail / rivet"
                 },
                 {
                   "word": "per",
@@ -17154,8 +17154,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "chiodo",
                   "lemma": "chiodo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "nail / rivet"
                 }
               ]
             },
@@ -17172,9 +17172,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "ritrovassi",
-                  "lemma": "ritrovassi",
+                  "lemma": "ritrovare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second-person singular imperfect subjunctive of ritrovare"
                 },
                 {
                   "word": "il",
@@ -17240,9 +17240,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "soggetti",
-                  "lemma": "soggetti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "soggetto",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of soggetto"
                 },
                 {
                   "word": "di",
@@ -17272,8 +17272,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "vorrieno",
                   "lemma": "vorrieno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "vorrieno"
                 },
                 {
                   "word": "provar",
@@ -17308,7 +17308,7 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "C",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
@@ -17327,8 +17327,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "mancia",
                   "lemma": "mancia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "tip"
                 },
                 {
                   "word": "per",
@@ -17389,7 +17389,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "riuscir",
                   "lemma": "riuscir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of riuscire"
                 }
               ]
             }
@@ -17418,9 +17418,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "dispiace",
-                  "lemma": "dispiace",
+                  "lemma": "dispiacere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of dispiacere"
                 }
               ]
             },
@@ -17438,8 +17438,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "proposizione",
                   "lemma": "proposizione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sentence / proposition"
                 }
               ]
             },
@@ -17480,9 +17480,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "udite",
-                  "lemma": "udite",
+                  "lemma": "udire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -17499,9 +17499,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "giovani",
-                  "lemma": "giovani",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "giovane",
+                  "pos": "adjective",
+                  "meaning": "plural of giovane"
                 },
                 {
                   "word": "Son",
@@ -17585,9 +17585,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "concorrenti",
-                  "lemma": "concorrenti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "concorrente",
+                  "pos": "noun",
+                  "meaning": "plural of concorrente"
                 }
               ]
             }
@@ -17666,8 +17666,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "giudizio",
                   "lemma": "giudizio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "judgment, wisdom, sense / trial, proceedings, judgment, verdict"
                 }
               ]
             },
@@ -17796,9 +17796,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Direi",
-                  "lemma": "direi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "dire",
+                  "pos": "verb",
+                  "meaning": "first-person singular conditional of dire"
                 },
                 {
                   "word": "di",
@@ -17850,9 +17850,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Despinetta",
-                  "lemma": "despinetta",
+                  "lemma": "Despinetta",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Despinetta"
                 }
               ]
             },
@@ -17900,9 +17900,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "dipende",
-                  "lemma": "dipende",
+                  "lemma": "dipendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "che",
@@ -17931,9 +17931,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Consolar",
-                  "lemma": "consolar",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "consolare",
+                  "pos": "adjective",
+                  "meaning": "consular"
                 },
                 {
                   "word": "il",
@@ -18048,9 +18048,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "pieni",
-                  "lemma": "pieni",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pieno",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of pieno"
                 }
               ]
             },
@@ -18074,8 +18074,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "volga",
                   "lemma": "volga",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Volga"
                 },
                 {
                   "word": "a",
@@ -18110,9 +18110,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "begli",
-                  "lemma": "begli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bello",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of bello"
                 },
                 {
                   "word": "occhi",
@@ -18134,9 +18134,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "tesor",
-                  "lemma": "tesor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tesoro",
+                  "pos": "noun",
+                  "meaning": "valuable things, treasure / term of endearment, treasure"
                 }
               ]
             }
@@ -18159,9 +18159,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "sembianze",
-                  "lemma": "sembianze",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sembianza",
+                  "pos": "noun",
+                  "meaning": "plural of sembianza"
                 },
                 {
                   "word": "Che",
@@ -18190,9 +18190,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "figure",
-                  "lemma": "figure",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "figura",
+                  "pos": "noun",
+                  "meaning": "plural of figura"
                 },
                 {
                   "word": "Che",
@@ -18202,9 +18202,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "mustacchi",
-                  "lemma": "mustacchi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "mustacchio",
+                  "pos": "noun",
+                  "meaning": "plural of mustacchio"
                 }
               ]
             },
@@ -18245,9 +18245,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Valacchi",
-                  "lemma": "valacchi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "valacco",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of valacco"
                 }
               ]
             },
@@ -18270,9 +18270,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Turchi",
-                  "lemma": "turchi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "turco",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of turco"
                 },
                 {
                   "word": "son",
@@ -18327,7 +18327,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "quell",
-                  "lemma": "quell'",
+                  "lemma": "quell",
                   "pos": "noun",
                   "meaning": "that"
                 },
@@ -18367,14 +18367,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "schietto",
                   "lemma": "schietto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "pure, undiluted, clear / frank, straightforward"
                 },
                 {
                   "word": "schietto",
                   "lemma": "schietto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "pure, undiluted, clear / frank, straightforward"
                 }
               ]
             },
@@ -18409,15 +18409,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
                 {
                   "word": "uso",
                   "lemma": "uso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "used, accustomed"
                 }
               ]
             },
@@ -18435,12 +18435,12 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "antidoto",
                   "lemma": "antidoto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "antidote"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -18491,15 +18491,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "appien",
-                  "lemma": "appien",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "appieno",
+                  "pos": "adverb",
+                  "meaning": "fully"
                 },
                 {
                   "word": "decisa",
-                  "lemma": "decisa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "deciso",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of deciso"
                 }
               ]
             },
@@ -18529,14 +18529,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "li/ci",
                   "lemma": "li/ci",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "li/ci"
                 },
                 {
                   "word": "ravvisa",
-                  "lemma": "ravvisa",
+                  "lemma": "ravvisare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -18553,7 +18553,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "c",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
@@ -18604,9 +18604,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "figure",
-                  "lemma": "figure",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "figura",
+                  "pos": "noun",
+                  "meaning": "plural of figura"
                 },
                 {
                   "word": "Che",
@@ -18616,9 +18616,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "mustacchi",
-                  "lemma": "mustacchi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "mustacchio",
+                  "pos": "noun",
+                  "meaning": "plural of mustacchio"
                 }
               ]
             },
@@ -18659,9 +18659,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Valacchi",
-                  "lemma": "valacchi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "valacco",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of valacco"
                 }
               ]
             },
@@ -18684,9 +18684,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Turchi",
-                  "lemma": "turchi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "turco",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of turco"
                 },
                 {
                   "word": "son",
@@ -18723,9 +18723,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Despina",
-                  "lemma": "despina",
+                  "lemma": "Despina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Despina (maidservant)"
                 },
                 {
                   "word": "Olà",
@@ -18735,9 +18735,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Despina",
-                  "lemma": "despina",
+                  "lemma": "Despina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Despina (maidservant)"
                 }
               ]
             }
@@ -18836,15 +18836,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
                   "word": "ascondo",
-                  "lemma": "ascondo",
+                  "lemma": "ascondere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of ascondere"
                 }
               ]
             }
@@ -18863,15 +18863,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Ragazzaccia",
-                  "lemma": "ragazzaccia",
+                  "lemma": "Ragazzaccia",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ragazzaccia"
                 },
                 {
                   "word": "tracotante",
                   "lemma": "tracotante",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "alternative form of oltracotante"
                 }
               ]
             },
@@ -18926,8 +18926,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Falli",
                   "lemma": "falli",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of fa', the second-person singular imperative form of fare, with li"
                 },
                 {
                   "word": "uscire",
@@ -18938,8 +18938,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "immantinente",
                   "lemma": "immantinente",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "immediately, right away"
                 }
               ]
             },
@@ -18969,8 +18969,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "pentir",
                   "lemma": "pentir",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pentir"
                 },
                 {
                   "word": "con",
@@ -19007,15 +19007,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "madame",
-                  "lemma": "madame",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "madama",
+                  "pos": "noun",
+                  "meaning": "plural of madama"
                 },
                 {
                   "word": "perdonate",
-                  "lemma": "perdonate",
+                  "lemma": "perdonare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -19044,15 +19044,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "languir",
-                  "lemma": "languir",
+                  "lemma": "languire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to languish / to pine"
                 },
                 {
                   "word": "mirate",
-                  "lemma": "mirate",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "mirato",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of mirato"
                 }
               ]
             },
@@ -19069,9 +19069,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "meschin",
-                  "lemma": "meschin",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "meschino",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of meschino"
                 },
                 {
                   "word": "di",
@@ -19088,8 +19088,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "merto",
                   "lemma": "merto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of merito / merit"
                 }
               ]
             },
@@ -19100,15 +19100,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Spasimanti",
-                  "lemma": "spasimanti",
+                  "lemma": "spasimante",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of spasimante"
                 },
                 {
                   "word": "adorator",
-                  "lemma": "adorator",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "adoratore",
+                  "pos": "noun",
+                  "meaning": "worshiper / worshipper"
                 }
               ]
             }
@@ -19127,9 +19127,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Giusti",
-                  "lemma": "giusti",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "giusto",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of giusto"
                 },
                 {
                   "word": "Numi",
@@ -19158,7 +19158,7 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
@@ -19208,14 +19208,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "indegno",
                   "lemma": "indegno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "unworthy, undeserving / disgusting, despicable"
                 },
                 {
                   "word": "autor",
-                  "lemma": "autor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "autore",
+                  "pos": "noun",
+                  "meaning": "author / creator"
                 }
               ]
             }
@@ -19233,14 +19233,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Deh",
                   "lemma": "deh",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "pray! / ah! / alas!"
                 },
                 {
                   "word": "calmante",
-                  "lemma": "calmante",
+                  "lemma": "calmare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "present participle of calmare"
                 },
                 {
                   "word": "quello",
@@ -19251,8 +19251,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "sdegno",
                   "lemma": "sdegno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "indignation, resentment / enmity, animosity"
                 }
               ]
             }
@@ -19300,8 +19300,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "ritegno",
                   "lemma": "ritegno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "restraint"
                 }
               ]
             },
@@ -19336,9 +19336,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "alma",
-                  "lemma": "alma",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "anima",
+                  "pos": "noun",
+                  "meaning": "soul / spirit (poetic for anima)"
                 },
                 {
                   "word": "in",
@@ -19368,8 +19368,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "dispetto",
                   "lemma": "dispetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "scornful"
                 },
                 {
                   "word": "e",
@@ -19454,8 +19454,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "rabbia",
                   "lemma": "rabbia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "anger, chafe / rabies"
                 },
                 {
                   "word": "e",
@@ -19542,8 +19542,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "rabbia",
                   "lemma": "rabbia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "anger, chafe / rabies"
                 },
                 {
                   "word": "e",
@@ -19675,8 +19675,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "strepito",
                   "lemma": "strepito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "clamour, din; yelling and shouting"
                 }
               ]
             },
@@ -19723,9 +19723,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "pazze",
-                  "lemma": "pazze",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pazzo",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of pazzo"
                 }
               ]
             },
@@ -19773,9 +19773,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "sollevar",
-                  "lemma": "sollevar",
+                  "lemma": "sollevare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to raise, lift, put up, rear, stir up, bring up, stand up / to relieve, comfort"
                 },
                 {
                   "word": "il",
@@ -19798,13 +19798,13 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Cos'avete",
-                  "lemma": "cos'avete",
+                  "lemma": "Cos'avete",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Cos'avete"
                 },
                 {
                   "word": "Ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -19849,9 +19849,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Mirate",
-                  "lemma": "mirate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "mirato",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of mirato"
                 }
               ]
             },
@@ -19913,7 +19913,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "c",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
@@ -19996,8 +19996,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "funesto",
                   "lemma": "funesto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "fatal / disastrous"
                 }
               ]
             }
@@ -20040,9 +20040,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "desto",
-                  "lemma": "desto",
+                  "lemma": "destare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of destare"
                 },
                 {
                   "word": "Amici",
@@ -20071,9 +20071,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "dolcissimi",
-                  "lemma": "dolcissimi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "dolcissimo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of dolcissimo"
                 },
                 {
                   "word": "amici",
@@ -20163,9 +20163,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "godo",
-                  "lemma": "godo",
+                  "lemma": "godere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of godere"
                 }
               ]
             },
@@ -20176,9 +20176,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Secondatemi",
-                  "lemma": "secondatemi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "secondare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative (mi: me)"
                 }
               ]
             }
@@ -20205,13 +20205,13 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Alfonso",
-                  "lemma": "alfonso",
+                  "lemma": "Don Alfonso",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Alfonso (philosopher)"
                 }
               ]
             }
@@ -20273,9 +20273,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "improvvisata",
-                  "lemma": "improvvisata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "improvvisato",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of improvvisato"
                 }
               ]
             }
@@ -20393,7 +20393,7 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -20577,9 +20577,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "delinquenti",
-                  "lemma": "delinquenti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "delinquente",
+                  "pos": "noun",
+                  "meaning": "plural of delinquente"
                 },
                 {
                   "word": "ecco",
@@ -20589,9 +20589,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "madame",
-                  "lemma": "madame",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "madama",
+                  "pos": "noun",
+                  "meaning": "plural of madama"
                 }
               ]
             },
@@ -20666,7 +20666,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Nume",
                   "lemma": "nume",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a god, particularly that of Greco-Roman mythology"
                 }
               ]
             },
@@ -20684,8 +20684,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "possente",
                   "lemma": "possente",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "strong, powerful"
                 },
                 {
                   "word": "per",
@@ -20713,9 +20713,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "conduce",
-                  "lemma": "conduce",
+                  "lemma": "condurre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of condurre"
                 }
               ]
             }
@@ -20778,8 +20778,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "fulgidissime",
                   "lemma": "fulgidissime",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fulgidissime"
                 },
                 {
                   "word": "pupille",
@@ -20820,9 +20820,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "faville",
-                  "lemma": "faville",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "favilla",
+                  "pos": "noun",
+                  "meaning": "plural of favilla"
                 }
               ]
             }
@@ -20839,15 +20839,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Farfallette",
-                  "lemma": "farfallette",
+                  "lemma": "Farfallette",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Farfallette"
                 },
                 {
                   "word": "amorose",
-                  "lemma": "amorose",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "amoroso",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of amoroso"
                 },
                 {
                   "word": "e",
@@ -20857,9 +20857,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "agonizzanti",
-                  "lemma": "agonizzanti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "agonizzante",
+                  "pos": "adjective",
+                  "meaning": "plural of agonizzante"
                 }
               ]
             }
@@ -20882,9 +20882,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "voliamo",
-                  "lemma": "voliamo",
+                  "lemma": "volare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "davanti",
@@ -20919,9 +20919,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "lati",
-                  "lemma": "lati",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "lato",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of lato"
                 },
                 {
                   "word": "ed",
@@ -20938,8 +20938,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "retro",
                   "lemma": "retro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "behind"
                 }
               ]
             }
@@ -20962,15 +20962,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "implorar",
-                  "lemma": "implorar",
+                  "lemma": "implorare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to implore, beg, plead"
                 },
                 {
                   "word": "pietade",
-                  "lemma": "pietade",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pietà",
+                  "pos": "noun",
+                  "meaning": "pity / mercy / compassion"
                 },
                 {
                   "word": "in",
@@ -20980,9 +20980,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "flebil",
-                  "lemma": "flebil",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "flebile",
+                  "pos": "adjective",
+                  "meaning": "tearful, sorrowful, lachrymose"
                 },
                 {
                   "word": "metro",
@@ -21038,7 +21038,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Sorella",
                   "lemma": "sorella",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "sister / sister"
                 },
                 {
                   "word": "che",
@@ -21067,15 +21067,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Temerari",
-                  "lemma": "temerari",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "temerario",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of temerario"
                 },
                 {
                   "word": "sortite",
-                  "lemma": "sortite",
+                  "lemma": "sortire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -21122,9 +21122,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "profani",
-                  "lemma": "profani",
+                  "lemma": "profanare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             },
@@ -21142,14 +21142,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "alito",
                   "lemma": "alito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "breath"
                 },
                 {
                   "word": "infausto",
                   "lemma": "infausto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "unhappy / inauspicious"
                 },
                 {
                   "word": "degli",
@@ -21159,15 +21159,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "infami",
-                  "lemma": "infami",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "infame",
+                  "pos": "adjective",
+                  "meaning": "plural of infame"
                 },
                 {
                   "word": "detti",
-                  "lemma": "detti",
+                  "lemma": "detto",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "masculine plural of detto"
                 }
               ]
             },
@@ -21214,9 +21214,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "affetti",
-                  "lemma": "affetti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "affetto",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of affetto"
                 }
               ]
             },
@@ -21295,20 +21295,20 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "nostr'alme",
                   "lemma": "nostr'alme",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "nostr'alme"
                 },
                 {
                   "word": "sedur",
                   "lemma": "sedur",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sedur"
                 },
                 {
                   "word": "I'intatta",
-                  "lemma": "i'intatta",
+                  "lemma": "I'intatta",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "I'intatta"
                 },
                 {
                   "word": "fede",
@@ -21386,9 +21386,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Saprem",
-                  "lemma": "saprem",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "sapere",
+                  "pos": "verb",
+                  "meaning": "first-person plural future of sapere"
                 },
                 {
                   "word": "loro",
@@ -21398,15 +21398,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "serbar",
-                  "lemma": "serbar",
+                  "lemma": "serbare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to keep or maintain / to preserve or reserve"
                 },
                 {
                   "word": "infino",
                   "lemma": "infino",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "conjunction",
+                  "meaning": "until, till"
                 },
                 {
                   "word": "a",
@@ -21436,8 +21436,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "dispetto",
                   "lemma": "dispetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "scornful"
                 },
                 {
                   "word": "del",
@@ -21493,14 +21493,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "scoglio",
                   "lemma": "scoglio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "cliff, rock ; a reef / difficulty, stumbling block"
                 },
                 {
                   "word": "immoto",
                   "lemma": "immoto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "motionless, immobile / still"
                 },
                 {
                   "word": "resta",
@@ -21567,21 +21567,21 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "ognor",
-                  "lemma": "ognor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ognora",
+                  "pos": "adverb",
+                  "meaning": "always / ever"
                 },
                 {
                   "word": "quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
                 {
                   "word": "alma",
-                  "lemma": "alma",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "anima",
+                  "pos": "noun",
+                  "meaning": "soul / spirit (poetic for anima)"
                 },
                 {
                   "word": "è",
@@ -21622,7 +21622,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "nell",
-                  "lemma": "nell'",
+                  "lemma": "nell",
                   "pos": "noun",
                   "meaning": "in-the"
                 },
@@ -21653,9 +21653,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "nacque",
-                  "lemma": "nacque",
+                  "lemma": "nascere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of nascere"
                 },
                 {
                   "word": "quella",
@@ -21666,8 +21666,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "face",
                   "lemma": "face",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "torch / light"
                 }
               ]
             },
@@ -21708,9 +21708,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "consola",
-                  "lemma": "consola",
+                  "lemma": "consolare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -21770,15 +21770,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "cangi",
-                  "lemma": "cangi",
+                  "lemma": "cangiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "affetto",
                   "lemma": "affetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "affected"
                 },
                 {
                   "word": "il",
@@ -21801,9 +21801,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Rispettate",
-                  "lemma": "rispettate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "rispettare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "anime",
@@ -21813,9 +21813,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "ingrate",
-                  "lemma": "ingrate",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ingrato",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of ingrato"
                 }
               ]
             },
@@ -21826,7 +21826,7 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
@@ -21845,8 +21845,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "costanza",
                   "lemma": "costanza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "constancy / steadfastness"
                 }
               ]
             },
@@ -21870,8 +21870,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "barbara",
                   "lemma": "barbara",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a female given name, equivalent to English Barbara"
                 },
                 {
                   "word": "speranza",
@@ -21900,9 +21900,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "renda",
-                  "lemma": "renda",
+                  "lemma": "rendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "audaci",
@@ -21945,9 +21945,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "partite",
-                  "lemma": "partite",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "partito",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of partito"
                 }
               ]
             }
@@ -21972,15 +21972,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "barbare",
-                  "lemma": "barbare",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "barbaro",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of barbaro"
                 },
                 {
                   "word": "restate",
-                  "lemma": "restate",
+                  "lemma": "restare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -22024,9 +22024,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Aspettate",
-                  "lemma": "aspettate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "aspettare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -22092,15 +22092,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "trista",
-                  "lemma": "trista",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tristo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of tristo"
                 },
                 {
                   "word": "figura",
                   "lemma": "figura",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "figure / illustration"
                 }
               ]
             }
@@ -22131,9 +22131,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "pretendereste",
-                  "lemma": "pretendereste",
+                  "lemma": "pretendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural conditional of pretendere"
                 }
               ]
             }
@@ -22201,9 +22201,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "pochin",
-                  "lemma": "pochin",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pochino",
+                  "pos": "noun",
+                  "meaning": "a small amount; a bit; a pinch"
                 },
                 {
                   "word": "di",
@@ -22238,9 +22238,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "galantuomini",
-                  "lemma": "galantuomini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "galantuomo",
+                  "pos": "noun",
+                  "meaning": "plural of galantuomo"
                 }
               ]
             },
@@ -22302,13 +22302,13 @@ export const cosiFanTutteAct1: Act = {
                   "word": "udire",
                   "lemma": "udire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to hear / to attend, listen , pay attention"
                 },
                 {
                   "word": "dovrei",
-                  "lemma": "dovrei",
+                  "lemma": "dovere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular conditional of dovere"
                 }
               ]
             }
@@ -22338,8 +22338,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "pene",
                   "lemma": "pene",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "penis"
                 }
               ]
             },
@@ -22358,7 +22358,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "sentirne",
                   "lemma": "sentirne",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive sentire with ne"
                 },
                 {
                   "word": "pietà",
@@ -22382,8 +22382,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "celeste",
                   "lemma": "celeste",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "celestial / heavenly"
                 },
                 {
                   "word": "beltà",
@@ -22425,8 +22425,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "piaga",
                   "lemma": "piaga",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sore, scab / reason for inconsolable pain; wound"
                 },
                 {
                   "word": "aprì",
@@ -22461,9 +22461,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "rimediar",
-                  "lemma": "rimediar",
+                  "lemma": "rimediare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to remedy, to fix / to scrape together"
                 },
                 {
                   "word": "può",
@@ -22493,12 +22493,12 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "balsamo",
                   "lemma": "balsamo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "hair conditioner / balm, balsam, salve"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -22590,9 +22590,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "facelle",
-                  "lemma": "facelle",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "facella",
+                  "pos": "noun",
+                  "meaning": "plural of facella"
                 },
                 {
                   "word": "o",
@@ -22627,9 +22627,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Spirar",
-                  "lemma": "spirar",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "spirare",
+                  "pos": "verb",
+                  "meaning": "to blow, to breeze / to emanate, to exhale"
                 },
                 {
                   "word": "vedrete",
@@ -22651,9 +22651,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "fedeli",
-                  "lemma": "fedeli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fedele",
+                  "pos": "adjective",
+                  "meaning": "plural of fedele"
                 },
                 {
                   "word": "amanti",
@@ -22688,9 +22688,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "ritrosi",
-                  "lemma": "ritrosi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ritroso",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of ritroso"
                 }
               ],
               "grammarNote": "Guglielmo's comic boast of their attractive physical traits and majestic mustaches."
@@ -22702,15 +22702,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Occhietti",
-                  "lemma": "occhietti",
+                  "lemma": "occhietto",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of occhietto"
                 },
                 {
                   "word": "vezzosi",
-                  "lemma": "vezzosi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vezzoso",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of vezzoso"
                 }
               ]
             },
@@ -22727,15 +22727,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "lampi",
-                  "lemma": "lampi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "lampo",
+                  "pos": "noun",
+                  "meaning": "plural of lampo"
                 },
                 {
                   "word": "amorosi",
-                  "lemma": "amorosi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "amoroso",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of amoroso"
                 }
               ]
             },
@@ -22746,9 +22746,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Vibrate",
-                  "lemma": "vibrate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "vibrare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "un",
@@ -22777,15 +22777,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Felici",
-                  "lemma": "felici",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "felice",
+                  "pos": "adjective",
+                  "meaning": "plural of felice"
                 },
                 {
                   "word": "rendeteci",
-                  "lemma": "rendeteci",
+                  "lemma": "rendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative (ci: us)"
                 }
               ]
             },
@@ -22833,9 +22833,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "felicissime",
-                  "lemma": "felicissime",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "felicissimo",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of felicissimo"
                 }
               ]
             },
@@ -22846,9 +22846,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Faremo",
-                  "lemma": "faremo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "fare",
+                  "pos": "verb",
+                  "meaning": "first-person plural future of fare"
                 },
                 {
                   "word": "anche",
@@ -22877,9 +22877,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Toccate",
-                  "lemma": "toccate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "toccare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -22902,9 +22902,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "osservate",
-                  "lemma": "osservate",
+                  "lemma": "osservare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -22921,9 +22921,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "forti",
-                  "lemma": "forti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "forte",
+                  "pos": "adjective",
+                  "meaning": "plural of forte"
                 },
                 {
                   "word": "e",
@@ -22990,8 +22990,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "merto",
                   "lemma": "merto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of merito / merit"
                 },
                 {
                   "word": "sia",
@@ -23039,9 +23039,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Bell'occhio",
-                  "lemma": "bell'occhio",
+                  "lemma": "Bell'occhio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Bell'occhio"
                 },
                 {
                   "word": "bel",
@@ -23082,15 +23082,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "osservate",
-                  "lemma": "osservate",
+                  "lemma": "osservare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "bell'occhio",
                   "lemma": "bell'occhio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "bell'occhio"
                 }
               ]
             },
@@ -23101,9 +23101,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Toccate",
-                  "lemma": "toccate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "toccare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "bel",
@@ -23131,9 +23131,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "osservate",
-                  "lemma": "osservate",
+                  "lemma": "osservare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -23156,9 +23156,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "mustacchi",
-                  "lemma": "mustacchi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "mustacchio",
+                  "pos": "noun",
+                  "meaning": "plural of mustacchio"
                 }
               ]
             },
@@ -23194,9 +23194,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Trionfi",
-                  "lemma": "trionfi",
+                  "lemma": "trionfo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of trionfo"
                 },
                 {
                   "word": "degli",
@@ -23219,13 +23219,13 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Pennacchi",
-                  "lemma": "pennacchi",
+                  "lemma": "pennacchio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of pennacchio"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -23273,9 +23273,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "ridete",
-                  "lemma": "ridete",
+                  "lemma": "ridere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -23299,9 +23299,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "ridiamo",
-                  "lemma": "ridiamo",
+                  "lemma": "ridere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 }
               ]
             }
@@ -23380,9 +23380,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Ridete",
-                  "lemma": "ridete",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ridere",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "piano",
@@ -23442,9 +23442,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "sentissero",
-                  "lemma": "sentissero",
+                  "lemma": "sentire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural imperfect subjunctive of sentire"
                 }
               ]
             },
@@ -23467,9 +23467,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "scoprissero",
-                  "lemma": "scoprissero",
+                  "lemma": "scoprire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural imperfect subjunctive of scoprire"
                 }
               ]
             },
@@ -23486,9 +23486,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "guasterebbe",
-                  "lemma": "guasterebbe",
+                  "lemma": "guastare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular conditional of guastare"
                 }
               ]
             },
@@ -23567,15 +23567,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "alma",
-                  "lemma": "alma",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "anima",
+                  "pos": "noun",
+                  "meaning": "soul / spirit (poetic for anima)"
                 },
                 {
                   "word": "dividere",
                   "lemma": "dividere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to divide, to split / to divide"
                 }
               ]
             },
@@ -23623,9 +23623,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "scoppiar",
-                  "lemma": "scoppiar",
+                  "lemma": "scoppiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to explode, to burst / to burst out, to break out, to explode"
                 }
               ]
             }
@@ -23737,9 +23737,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Dee",
-                  "lemma": "dee",
+                  "lemma": "dea",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of dea"
                 },
                 {
                   "word": "terminar",
@@ -23851,8 +23851,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "cospettaccio",
                   "lemma": "cospettaccio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "cospettaccio"
                 }
               ]
             },
@@ -23889,13 +23889,13 @@ export const cosiFanTutteAct1: Act = {
                   "word": "abbiam",
                   "lemma": "abbiam",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of abbiamo"
                 },
                 {
                   "word": "giusta",
                   "lemma": "giusta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "according to, in accordance with / close to, nearby"
                 },
                 {
                   "word": "ragione",
@@ -23957,7 +23957,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "pagar",
                   "lemma": "pagar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of pagare"
                 },
                 {
                   "word": "volete",
@@ -24005,8 +24005,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "scommessa",
                   "lemma": "scommessa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "bet, wager, gamble / betting"
                 }
               ]
             }
@@ -24025,9 +24025,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Pagate",
-                  "lemma": "pagate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "pagare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "la",
@@ -24058,9 +24058,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Pagate",
-                  "lemma": "pagate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "pagare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "solo",
@@ -24078,14 +24078,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Ventiquattro",
                   "lemma": "ventiquattro",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "twenty-four"
                 },
                 {
                   "word": "zecchini",
-                  "lemma": "zecchini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "zecchino",
+                  "pos": "noun",
+                  "meaning": "plural of zecchino"
                 }
               ]
             }
@@ -24104,15 +24104,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Poveri",
-                  "lemma": "poveri",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "povero",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of povero"
                 },
                 {
                   "word": "innocentini",
                   "lemma": "innocentini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "innocentini"
                 }
               ]
             },
@@ -24167,8 +24167,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "ditino",
                   "lemma": "ditino",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "ditino"
                 },
                 {
                   "word": "in",
@@ -24234,9 +24234,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "fiatar",
-                  "lemma": "fiatar",
+                  "lemma": "fiatare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to breathe / to utter a word"
                 }
               ]
             }
@@ -24278,9 +24278,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "parlerem",
-                  "lemma": "parlerem",
+                  "lemma": "parlare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural future of parlare"
                 }
               ]
             }
@@ -24348,8 +24348,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "ubbidienza",
                   "lemma": "ubbidienza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of obbedienza"
                 }
               ]
             },
@@ -24361,8 +24361,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Fino",
                   "lemma": "fino",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "till, until, as far as"
                 },
                 {
                   "word": "a",
@@ -24372,9 +24372,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "doman",
-                  "lemma": "doman",
+                  "lemma": "domare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of domare"
                 },
                 {
                   "word": "mattina",
@@ -24415,9 +24415,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "amiam",
-                  "lemma": "amiam",
+                  "lemma": "amare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "la",
@@ -24428,8 +24428,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "disciplina",
                   "lemma": "disciplina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "discipline / order"
                 }
               ]
             }
@@ -24447,8 +24447,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Orbene",
                   "lemma": "orbene",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "conjunction",
+                  "meaning": "well / so"
                 },
                 {
                   "word": "andate",
@@ -24485,7 +24485,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "attendermi",
                   "lemma": "attendermi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive attendere with mi"
                 },
                 {
                   "word": "entrambi",
@@ -24502,8 +24502,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "giardinetto",
                   "lemma": "giardinetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "small garden / park"
                 }
               ]
             },
@@ -24515,8 +24515,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Colà",
                   "lemma": "colà",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "there"
                 },
                 {
                   "word": "vi",
@@ -24538,9 +24538,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "ordini",
-                  "lemma": "ordini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ordine",
+                  "pos": "noun",
+                  "meaning": "plural of ordine"
                 },
                 {
                   "word": "miei",
@@ -24650,9 +24650,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Fia",
-                  "lemma": "fia",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "shall be (poetic future of essere)"
                 },
                 {
                   "word": "la",
@@ -24686,9 +24686,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "saporita",
-                  "lemma": "saporita",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "saporito",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of saporito"
                 }
               ]
             }
@@ -24717,9 +24717,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "amorosa",
-                  "lemma": "amorosa",
+                  "lemma": "amoroso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "feminine singular of amoroso"
                 }
               ],
               "grammarNote": "Ferrando's lyrical reflection on the restorative breath of romantic devotion."
@@ -24769,8 +24769,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "ristoro",
                   "lemma": "ristoro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "comfort, relief / refreshment"
                 }
               ]
             },
@@ -24793,9 +24793,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "porgerà",
-                  "lemma": "porgerà",
+                  "lemma": "porgere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of porgere"
                 }
               ]
             },
@@ -24825,8 +24825,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "nudrito",
                   "lemma": "nudrito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "nudrito"
                 }
               ]
             },
@@ -24843,9 +24843,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "speme",
-                  "lemma": "speme",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "speranza",
+                  "pos": "noun",
+                  "meaning": "hope (poetic for speranza)"
                 },
                 {
                   "word": "da",
@@ -24887,8 +24887,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "migliore",
                   "lemma": "migliore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "better / the best"
                 }
               ]
             },
@@ -24901,7 +24901,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Bisogno",
                   "lemma": "bisogno",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "need / excrement, faeces"
                 },
                 {
                   "word": "non",
@@ -24954,8 +24954,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "faria",
                   "lemma": "faria",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "faria"
                 },
                 {
                   "word": "da",
@@ -25008,9 +25008,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "costanti",
-                  "lemma": "costanti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "costante",
+                  "pos": "adjective",
+                  "meaning": "plural of costante"
                 },
                 {
                   "word": "in",
@@ -25218,9 +25218,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "povere",
-                  "lemma": "povere",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "povero",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of povero"
                 },
                 {
                   "word": "buffone",
@@ -25250,8 +25250,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "giardinetto",
                   "lemma": "giardinetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "small garden / park"
                 }
               ]
             },
@@ -25270,11 +25270,11 @@ export const cosiFanTutteAct1: Act = {
                   "word": "lagnarsi",
                   "lemma": "lagnarsi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to complain or grumble"
                 },
                 {
                   "word": "coll",
-                  "lemma": "coll'",
+                  "lemma": "coll",
                   "pos": "noun",
                   "meaning": "with-the"
                 },
@@ -25298,9 +25298,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "mosche",
-                  "lemma": "mosche",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "mosca",
+                  "pos": "noun",
+                  "meaning": "plural of mosca"
                 }
               ]
             },
@@ -25311,7 +25311,7 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "D",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -25397,9 +25397,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "finirà",
-                  "lemma": "finirà",
+                  "lemma": "finire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of finire"
                 }
               ]
             },
@@ -25411,14 +25411,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Vogliam",
                   "lemma": "vogliam",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "apocopic form of vogliamo"
                 },
                 {
                   "word": "sperare",
                   "lemma": "sperare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to hope / to hope"
                 }
               ]
             },
@@ -25435,15 +25435,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "faranno",
-                  "lemma": "faranno",
+                  "lemma": "fare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural future of fare"
                 },
                 {
                   "word": "giudizio",
                   "lemma": "giudizio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "judgment, wisdom, sense / trial, proceedings, judgment, verdict"
                 }
               ]
             }
@@ -25472,9 +25472,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "farei",
-                  "lemma": "farei",
+                  "lemma": "fare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular conditional of fare"
                 }
               ]
             },
@@ -25499,7 +25499,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "piangon",
                   "lemma": "piangon",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of piangono"
                 },
                 {
                   "word": "esse",
@@ -25515,9 +25515,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "riderei",
-                  "lemma": "riderei",
+                  "lemma": "ridere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular conditional of ridere"
                 }
               ]
             },
@@ -25528,15 +25528,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Disperarsi",
-                  "lemma": "disperarsi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "disperare",
+                  "pos": "verb",
+                  "meaning": "reflexive of disperare / to despair; to be disconsolate"
                 },
                 {
                   "word": "strozzarsi",
-                  "lemma": "strozzarsi",
+                  "lemma": "strozzare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "reflexive of strozzare / to die by choking"
                 }
               ]
             },
@@ -25591,8 +25591,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "pazzia",
                   "lemma": "pazzia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "madness, lunacy"
                 }
               ]
             },
@@ -25615,9 +25615,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "pigliano",
-                  "lemma": "pigliano",
+                  "lemma": "pigliare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of pigliare"
                 },
                 {
                   "word": "due",
@@ -25627,7 +25627,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -25683,8 +25683,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "prudenza",
                   "lemma": "prudenza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "prudence, caution, carefulness"
                 }
               ]
             },
@@ -25702,8 +25702,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "impuntigliarla",
                   "lemma": "impuntigliarla",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "impuntigliarla"
                 }
               ]
             }
@@ -25741,8 +25741,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "natura",
                   "lemma": "natura",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "nature / essence, character"
                 }
               ]
             },
@@ -25766,8 +25766,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "prudenza",
                   "lemma": "prudenza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "prudence, caution, carefulness"
                 },
                 {
                   "word": "sola",
@@ -25803,8 +25803,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "comodo",
                   "lemma": "comodo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "convenient, handy / easy, cushy"
                 },
                 {
                   "word": "gusto",
@@ -25828,8 +25828,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "divertimento",
                   "lemma": "divertimento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fun, amusement, entertainment, distraction / divertimento"
                 }
               ]
             },
@@ -25842,7 +25842,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Passatempo",
                   "lemma": "passatempo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "pastime, hobby / toy, plaything"
                 },
                 {
                   "word": "allegria",
@@ -25890,14 +25890,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "incomodo",
                   "lemma": "incomodo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "trouble, inconvenience / a fee"
                 },
                 {
                   "word": "diventa",
-                  "lemma": "diventa",
+                  "lemma": "diventare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -25945,8 +25945,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "tormenta",
                   "lemma": "tormenta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "snowstorm / blizzard"
                 }
               ]
             }
@@ -25981,9 +25981,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "pazze",
-                  "lemma": "pazze",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pazzo",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of pazzo"
                 }
               ]
             }
@@ -26006,9 +26006,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "pazze",
-                  "lemma": "pazze",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pazzo",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of pazzo"
                 }
               ]
             },
@@ -26019,9 +26019,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Faranno",
-                  "lemma": "faranno",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "fare",
+                  "pos": "verb",
+                  "meaning": "third-person plural future of fare"
                 },
                 {
                   "word": "a",
@@ -26068,9 +26068,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "sappiano",
-                  "lemma": "sappiano",
+                  "lemma": "sapere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present subjunctive / third-person plural imperative"
                 }
               ]
             },
@@ -26081,7 +26081,7 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "D",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -26155,9 +26155,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "riameranno",
-                  "lemma": "riameranno",
+                  "lemma": "riamare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural future of riamare"
                 }
               ]
             },
@@ -26169,8 +26169,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Diglielo",
                   "lemma": "diglielo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of di, the second-person singular imperative form of dire, with glie  and lo"
                 },
                 {
                   "word": "si",
@@ -26279,9 +26279,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "ritornino",
-                  "lemma": "ritornino",
+                  "lemma": "ritornare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present subjunctive / third-person plural imperative"
                 }
               ]
             },
@@ -26304,9 +26304,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "partiti",
-                  "lemma": "partiti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "partito",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of partito"
                 },
                 {
                   "word": "sono",
@@ -26334,9 +26334,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "sentano",
-                  "lemma": "sentano",
+                  "lemma": "sentire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present subjunctive / third-person plural imperative"
                 }
               ]
             },
@@ -26355,7 +26355,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "tentare",
                   "lemma": "tentare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to try, to attempt / to tempt, to lure, to attract, to entice"
                 },
                 {
                   "word": "si",
@@ -26365,9 +26365,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "lascino",
-                  "lemma": "lascino",
+                  "lemma": "lasciare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present subjunctive / third-person plural imperative"
                 }
               ]
             },
@@ -26390,9 +26390,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "bestioline",
-                  "lemma": "bestioline",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bestiolina",
+                  "pos": "noun",
+                  "meaning": "plural of bestiolina"
                 }
               ]
             }
@@ -26441,8 +26441,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "briglia",
                   "lemma": "briglia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "rein / bridle"
                 },
                 {
                   "word": "di",
@@ -26471,8 +26471,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "macchina",
                   "lemma": "macchina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "machine / car, motorcar"
                 }
               ]
             },
@@ -26489,15 +26489,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Despina",
-                  "lemma": "despina",
+                  "lemma": "Despina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Despina (maidservant)"
                 },
                 {
                   "word": "macchina",
                   "lemma": "macchina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "machine / car, motorcar"
                 },
                 {
                   "word": "una",
@@ -26534,19 +26534,19 @@ export const cosiFanTutteAct1: Act = {
                   "word": "mancar",
                   "lemma": "mancar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of mancare"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "effetto",
                   "lemma": "effetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "effect / appearance, show"
                 },
                 {
                   "word": "ho",
@@ -26562,9 +26562,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "menati",
-                  "lemma": "menati",
+                  "lemma": "menato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "masculine plural of menato"
                 }
               ]
             },
@@ -26575,9 +26575,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Mill'uomini",
-                  "lemma": "mill'uomini",
+                  "lemma": "Mill'uomini",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Mill'uomini"
                 },
                 {
                   "word": "pel",
@@ -26600,15 +26600,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Saprò",
-                  "lemma": "saprò",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "sapere",
+                  "pos": "verb",
+                  "meaning": "first-person singular future of sapere"
                 },
                 {
                   "word": "menar",
                   "lemma": "menar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of menare"
                 },
                 {
                   "word": "due",
@@ -26656,14 +26656,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "monsù",
                   "lemma": "monsù",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "A title given to foreign  artists or high-ranking men during the 17th and 18th century. / mister, sir"
                 },
                 {
                   "word": "mustacchi",
-                  "lemma": "mustacchi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "mustacchio",
+                  "pos": "noun",
+                  "meaning": "plural of mustacchio"
                 }
               ]
             }
@@ -26686,9 +26686,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "ricchissimi",
-                  "lemma": "ricchissimi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ricchissimo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of ricchissimo"
                 }
               ]
             }
@@ -26749,9 +26749,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Attendendo",
-                  "lemma": "attendendo",
+                  "lemma": "attendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of attendere"
                 },
                 {
                   "word": "mi",
@@ -26780,9 +26780,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Ite",
-                  "lemma": "ite",
+                  "lemma": "Ite",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ite"
                 },
                 {
                   "word": "e",
@@ -26823,9 +26823,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "picciola",
-                  "lemma": "picciola",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "picciolo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of picciolo"
                 },
                 {
                   "word": "porta",
@@ -26854,13 +26854,13 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "riconduceteli",
-                  "lemma": "riconduceteli",
+                  "lemma": "ricondurre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of ricondurre (teli: teli)"
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -26906,7 +26906,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Purché",
                   "lemma": "purché",
                   "pos": "conjunction",
-                  "meaning": ""
+                  "meaning": "provided , as long as, on condition that"
                 },
                 {
                   "word": "tutto",
@@ -26916,9 +26916,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "facciate",
-                  "lemma": "facciate",
+                  "lemma": "fare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present subjunctive of fare"
                 }
               ]
             },
@@ -26935,7 +26935,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -26947,15 +26947,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
                 {
                   "word": "ordinerò",
-                  "lemma": "ordinerò",
+                  "lemma": "ordinare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of ordinare"
                 },
                 {
                   "word": "pria",
@@ -27002,9 +27002,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "canteran",
-                  "lemma": "canteran",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "canterano",
+                  "pos": "noun",
+                  "meaning": "chest of drawers, commode / bureau"
                 },
                 {
                   "word": "vittoria",
@@ -27148,9 +27148,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "cangiò",
-                  "lemma": "cangiò",
+                  "lemma": "cangiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of cangiare"
                 },
                 {
                   "word": "la",
@@ -27204,8 +27204,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "pien",
                   "lemma": "pien",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "apocopic form of pieno"
                 },
                 {
                   "word": "di",
@@ -27216,8 +27216,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "tormento",
                   "lemma": "tormento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "torment / agony"
                 }
               ]
             },
@@ -27247,8 +27247,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "ormai",
                   "lemma": "ormai",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "by now, by this time, now, at this point, by then / already, yet"
                 },
                 {
                   "word": "per",
@@ -27278,8 +27278,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "meco",
                   "lemma": "meco",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "pronoun",
+                  "meaning": "with me"
                 },
                 {
                   "word": "il",
@@ -27326,9 +27326,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "ingrate",
-                  "lemma": "ingrate",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ingrato",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of ingrato"
                 },
                 {
                   "word": "stelle",
@@ -27352,20 +27352,20 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "sapea",
                   "lemma": "sapea",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sapea"
                 },
                 {
                   "word": "cos'eran",
                   "lemma": "cos'eran",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "cos'eran"
                 },
                 {
                   "word": "pene",
                   "lemma": "pene",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "penis"
                 }
               ]
             },
@@ -27383,14 +27383,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "sapea",
                   "lemma": "sapea",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sapea"
                 },
                 {
                   "word": "languir",
-                  "lemma": "languir",
+                  "lemma": "languire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to languish / to pine"
                 },
                 {
                   "word": "cos'è",
@@ -27456,9 +27456,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "cangiò",
-                  "lemma": "cangiò",
+                  "lemma": "cangiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of cangiare"
                 },
                 {
                   "word": "la",
@@ -27512,8 +27512,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "pien",
                   "lemma": "pien",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "apocopic form of pieno"
                 },
                 {
                   "word": "di",
@@ -27524,8 +27524,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "tormento",
                   "lemma": "tormento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "torment / agony"
                 }
               ]
             },
@@ -27555,8 +27555,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "ormai",
                   "lemma": "ormai",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "by now, by this time, now, at this point, by then / already, yet"
                 },
                 {
                   "word": "per",
@@ -27602,8 +27602,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "mora",
                   "lemma": "mora",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mulberry ; fruit of a plant of the genus Morus / blackberry , and similar fruits such as loganberry; fruit of a plant of the genus Rubus"
                 },
                 {
                   "word": "sì",
@@ -27620,8 +27620,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "mora",
                   "lemma": "mora",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mulberry ; fruit of a plant of the genus Morus / blackberry , and similar fruits such as loganberry; fruit of a plant of the genus Rubus"
                 }
               ]
             },
@@ -27640,7 +27640,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "appagar",
                   "lemma": "appagar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of appagare"
                 },
                 {
                   "word": "le",
@@ -27650,9 +27650,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "ingrate",
-                  "lemma": "ingrate",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ingrato",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of ingrato"
                 }
               ]
             }
@@ -27671,7 +27671,7 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "C",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
@@ -27777,9 +27777,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "orribili",
-                  "lemma": "orribili",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "orribile",
+                  "pos": "adjective",
+                  "meaning": "plural of orribile"
                 }
               ]
             }
@@ -27797,8 +27797,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Lasciatemi",
                   "lemma": "lasciatemi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of lasciate, the second-person plural imperative form of lasciare, with mi"
                 }
               ]
             }
@@ -27817,9 +27817,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Aspettate",
-                  "lemma": "aspettate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "aspettare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -27845,8 +27845,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "arsenico",
                   "lemma": "arsenico",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "arsenic"
                 },
                 {
                   "word": "mi",
@@ -27856,9 +27856,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "liberi",
-                  "lemma": "liberi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "libero",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of libero"
                 }
               ]
             },
@@ -27914,9 +27914,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "velen",
-                  "lemma": "velen",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "veleno",
+                  "pos": "noun",
+                  "meaning": "poison"
                 },
                 {
                   "word": "fu",
@@ -27947,7 +27947,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Veleno",
                   "lemma": "veleno",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "poison"
                 },
                 {
                   "word": "buono",
@@ -28006,9 +28006,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "istanti",
-                  "lemma": "istanti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "istante",
+                  "pos": "noun",
+                  "meaning": "plural of istante"
                 }
               ]
             },
@@ -28031,9 +28031,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "toglierà",
-                  "lemma": "toglierà",
+                  "lemma": "togliere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of togliere"
                 }
               ]
             }
@@ -28058,13 +28058,13 @@ export const cosiFanTutteAct1: Act = {
                   "word": "tragico",
                   "lemma": "tragico",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "tragic, tragical"
                 },
                 {
                   "word": "spettacolo",
                   "lemma": "spettacolo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "show, performance, play, review / sight, view, spectacle"
                 }
               ]
             },
@@ -28077,7 +28077,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Gelare",
                   "lemma": "gelare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to freeze, to chill, to frost / to freeze"
                 },
                 {
                   "word": "il",
@@ -28118,15 +28118,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Barbare",
-                  "lemma": "barbare",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "barbaro",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of barbaro"
                 },
                 {
                   "word": "avvicinatevi",
-                  "lemma": "avvicinatevi",
+                  "lemma": "avvicinarsi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural imperative of avvicinarsi"
                 }
               ]
             },
@@ -28137,7 +28137,7 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "D",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -28150,14 +28150,14 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "disperato",
                   "lemma": "disperato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "hopeless, desperate, despairing"
                 },
                 {
                   "word": "affetto",
                   "lemma": "affetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "affected"
                 }
               ]
             },
@@ -28168,9 +28168,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Mirate",
-                  "lemma": "mirate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "mirato",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of mirato"
                 },
                 {
                   "word": "il",
@@ -28187,8 +28187,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "effetto",
                   "lemma": "effetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "effect / appearance, show"
                 }
               ]
             },
@@ -28205,15 +28205,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "abbiate",
-                  "lemma": "abbiate",
+                  "lemma": "avere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present subjunctive / second-person plural imperative"
                 },
                 {
                   "word": "almen",
                   "lemma": "almen",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "apocopic form of almeno"
                 },
                 {
                   "word": "pietà",
@@ -28244,13 +28244,13 @@ export const cosiFanTutteAct1: Act = {
                   "word": "tragico",
                   "lemma": "tragico",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "tragic, tragical"
                 },
                 {
                   "word": "spettacolo",
                   "lemma": "spettacolo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "show, performance, play, review / sight, view, spectacle"
                 }
               ]
             },
@@ -28263,7 +28263,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Gelare",
                   "lemma": "gelare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to freeze, to chill, to frost / to freeze"
                 },
                 {
                   "word": "il",
@@ -28348,8 +28348,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Fosco",
                   "lemma": "fosco",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "dark, murky, dusky / dull, overcast"
                 },
                 {
                   "word": "per",
@@ -28365,9 +28365,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "diventa",
-                  "lemma": "diventa",
+                  "lemma": "diventare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -28384,9 +28384,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Tremo",
-                  "lemma": "tremo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "tremare",
+                  "pos": "verb",
+                  "meaning": "first-person singular present indicative of tremare"
                 },
                 {
                   "word": "le",
@@ -28396,9 +28396,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "fibre",
-                  "lemma": "fibre",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fibra",
+                  "pos": "noun",
+                  "meaning": "plural of fibra"
                 },
                 {
                   "word": "e",
@@ -28441,7 +28441,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "mancar",
                   "lemma": "mancar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of mancare"
                 },
                 {
                   "word": "si",
@@ -28451,9 +28451,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "senta",
-                  "lemma": "senta",
+                  "lemma": "sentire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 }
               ]
             },
@@ -28513,15 +28513,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Accenti",
-                  "lemma": "accenti",
+                  "lemma": "accento",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of accento"
                 },
                 {
                   "word": "articolar",
-                  "lemma": "articolar",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "articolare",
+                  "pos": "adjective",
+                  "meaning": "joint; articular"
                 }
               ]
             }
@@ -28541,8 +28541,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Giacché",
                   "lemma": "giacché",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "conjunction",
+                  "meaning": "since, as"
                 },
                 {
                   "word": "a",
@@ -28558,9 +28558,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "vicini",
-                  "lemma": "vicini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vicino",
+                  "pos": "noun",
+                  "meaning": "plural of vicino"
                 }
               ]
             },
@@ -28584,8 +28584,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "meschinelli",
                   "lemma": "meschinelli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "meschinelli"
                 }
               ]
             },
@@ -28596,15 +28596,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Pietade",
-                  "lemma": "pietade",
+                  "lemma": "pietà",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "pity / mercy / compassion"
                 },
                 {
                   "word": "almeno",
                   "lemma": "almeno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "at least"
                 },
                 {
                   "word": "a",
@@ -28664,9 +28664,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "accorrete",
-                  "lemma": "accorrete",
+                  "lemma": "accorrere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "gente",
@@ -28690,8 +28690,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "oddio",
                   "lemma": "oddio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "oh God; oh my God; God! / good grief"
                 },
                 {
                   "word": "ci",
@@ -28714,9 +28714,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Despina",
-                  "lemma": "despina",
+                  "lemma": "Despina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Despina (maidservant)"
                 }
               ]
             }
@@ -28766,9 +28766,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Despina",
-                  "lemma": "despina",
+                  "lemma": "Despina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Despina (maidservant)"
                 }
               ]
             }
@@ -28804,9 +28804,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Morti",
-                  "lemma": "morti",
+                  "lemma": "morte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of morte / plural of morto"
                 },
                 {
                   "word": "i",
@@ -28816,9 +28816,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "meschini",
-                  "lemma": "meschini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "meschino",
+                  "pos": "noun",
+                  "meaning": "plural of meschino"
                 },
                 {
                   "word": "io",
@@ -28847,9 +28847,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "prossimi",
-                  "lemma": "prossimi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "prossimo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of prossimo"
                 },
                 {
                   "word": "a",
@@ -28859,9 +28859,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "spirar",
-                  "lemma": "spirar",
+                  "lemma": "spirare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to blow, to breeze / to emanate, to exhale"
                 }
               ]
             }
@@ -28893,8 +28893,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "purtroppo",
                   "lemma": "purtroppo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "unfortunately, regretfully, regrettably"
                 },
                 {
                   "word": "è",
@@ -28917,15 +28917,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Furenti",
-                  "lemma": "furenti",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "furente",
+                  "pos": "adjective",
+                  "meaning": "plural of furente"
                 },
                 {
                   "word": "disperati",
-                  "lemma": "disperati",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "disperato",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of disperato"
                 }
               ]
             },
@@ -28948,9 +28948,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "avvelenati",
-                  "lemma": "avvelenati",
+                  "lemma": "avvelenato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "masculine plural of avvelenato"
                 }
               ]
             },
@@ -28974,8 +28974,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "singolar",
                   "lemma": "singolar",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "apocopic form of singolare"
                 }
               ]
             }
@@ -28993,8 +28993,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Abbandonar",
                   "lemma": "abbandonar",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "apocopic form of abbandonare"
                 },
                 {
                   "word": "i",
@@ -29004,9 +29004,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "miseri",
-                  "lemma": "miseri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "misero",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of misero"
                 }
               ]
             },
@@ -29017,9 +29017,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Saria",
-                  "lemma": "saria",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "essere",
+                  "pos": "verb",
+                  "meaning": "would be (poetic conditional)"
                 },
                 {
                   "word": "per",
@@ -29036,8 +29036,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "vergogna",
                   "lemma": "vergogna",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "shame, disgrace, discredit, scandal / embarrassment, shyness"
                 }
               ]
             },
@@ -29049,8 +29049,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Soccorrerli",
                   "lemma": "soccorrerli",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of the infinitive soccorrere with li"
                 },
                 {
                   "word": "bisogna",
@@ -29153,9 +29153,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "pietose",
-                  "lemma": "pietose",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pietoso",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of pietoso"
                 },
                 {
                   "word": "mani",
@@ -29197,8 +29197,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "sostegno",
                   "lemma": "sostegno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "support / supporter"
                 }
               ]
             },
@@ -29265,8 +29265,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "antidoto",
                   "lemma": "antidoto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "antidote"
                 }
               ]
             },
@@ -29277,9 +29277,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Voliamo",
-                  "lemma": "voliamo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "volare",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "a",
@@ -29289,9 +29289,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "ricercar",
-                  "lemma": "ricercar",
+                  "lemma": "ricercare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to seek / to pursue"
                 }
               ]
             }
@@ -29323,8 +29323,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "cimento",
                   "lemma": "cimento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mixture or concoction used by goldsmiths to purify or assay precious metals / trial"
                 },
                 {
                   "word": "è",
@@ -29349,7 +29349,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Evento",
                   "lemma": "evento",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "event"
                 },
                 {
                   "word": "più",
@@ -29360,8 +29360,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "funesto",
                   "lemma": "funesto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "fatal / disastrous"
                 }
               ]
             },
@@ -29385,8 +29385,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "potea",
                   "lemma": "potea",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "potea"
                 },
                 {
                   "word": "trovar",
@@ -29422,8 +29422,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "commediola",
                   "lemma": "commediola",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "playlet"
                 }
               ]
             },
@@ -29447,8 +29447,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "potea",
                   "lemma": "potea",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "potea"
                 },
                 {
                   "word": "trovar",
@@ -29487,8 +29487,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Sospiran",
                   "lemma": "sospiran",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "apocopic form of sospirano"
                 },
                 {
                   "word": "gli",
@@ -29498,9 +29498,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "infelici",
-                  "lemma": "infelici",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "infelice",
+                  "pos": "adjective",
+                  "meaning": "plural of infelice"
                 }
               ]
             }
@@ -29593,9 +29593,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "dolenti",
-                  "lemma": "dolenti",
+                  "lemma": "dolente",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "plural of dolente"
                 }
               ]
             },
@@ -29612,15 +29612,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "potriali",
-                  "lemma": "potriali",
+                  "lemma": "potere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular conditional of potere (li: them)"
                 },
                 {
                   "word": "abbandonar",
                   "lemma": "abbandonar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of abbandonare"
                 }
               ]
             }
@@ -29643,15 +29643,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "figure",
-                  "lemma": "figure",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "figura",
+                  "pos": "noun",
+                  "meaning": "plural of figura"
                 },
                 {
                   "word": "interessanti",
-                  "lemma": "interessanti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "interessante",
+                  "pos": "adjective",
+                  "meaning": "plural of interessante"
                 }
               ]
             }
@@ -29678,7 +29678,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "farci",
                   "lemma": "farci",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive fare with ci / to simulate; to act; to pretend"
                 },
                 {
                   "word": "un",
@@ -29721,9 +29721,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "freddissima",
-                  "lemma": "freddissima",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "freddissimo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of freddissimo"
                 },
                 {
                   "word": "la",
@@ -29752,15 +29752,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Fredda",
-                  "lemma": "fredda",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "freddo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of freddo"
                 },
                 {
                   "word": "fredda",
-                  "lemma": "fredda",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "freddo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of freddo"
                 },
                 {
                   "word": "è",
@@ -29808,8 +29808,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "polso",
                   "lemma": "polso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "wrist / cuff"
                 }
               ]
             }
@@ -29839,8 +29839,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "gliel",
                   "lemma": "gliel",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "pronoun",
+                  "meaning": "apocopic form of glielo"
                 },
                 {
                   "word": "sento",
@@ -29912,9 +29912,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "tarda",
-                  "lemma": "tarda",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tardo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of tardo"
                 },
                 {
                   "word": "ancor",
@@ -29930,9 +29930,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "aita",
-                  "lemma": "aita",
+                  "lemma": "aitare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -29943,9 +29943,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Speme",
-                  "lemma": "speme",
+                  "lemma": "speranza",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "hope (poetic for speranza)"
                 },
                 {
                   "word": "più",
@@ -29961,7 +29961,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -30004,9 +30004,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "domestiche",
-                  "lemma": "domestiche",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "domestico",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of domestico"
                 },
                 {
                   "word": "e",
@@ -30016,9 +30016,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "trattabili",
-                  "lemma": "trattabili",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "trattabile",
+                  "pos": "adjective",
+                  "meaning": "plural of trattabile"
                 }
               ]
             },
@@ -30041,9 +30041,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "diventate",
-                  "lemma": "diventate",
+                  "lemma": "diventare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -30084,9 +30084,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "pietade",
-                  "lemma": "pietade",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pietà",
+                  "pos": "noun",
+                  "meaning": "pity / mercy / compassion"
                 }
               ]
             },
@@ -30142,9 +30142,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Poverini",
-                  "lemma": "poverini",
+                  "lemma": "poverino",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of poverino"
                 },
                 {
                   "word": "La",
@@ -30179,15 +30179,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "farebbe",
-                  "lemma": "farebbe",
+                  "lemma": "fare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular conditional of fare"
                 },
                 {
                   "word": "lagrimar",
-                  "lemma": "lagrimar",
+                  "lemma": "lagrimare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "alternative form of lacrimare"
                 }
               ]
             }
@@ -30214,8 +30214,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "Eccovi",
                   "lemma": "eccovi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "compound of ecco with vi"
                 },
                 {
                   "word": "il",
@@ -30263,9 +30263,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Despina",
-                  "lemma": "despina",
+                  "lemma": "Despina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Despina (maidservant)"
                 },
                 {
                   "word": "in",
@@ -30294,9 +30294,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "trista",
-                  "lemma": "trista",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tristo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of tristo"
                 },
                 {
                   "word": "pelle",
@@ -30321,15 +30321,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Salvete",
-                  "lemma": "salvete",
+                  "lemma": "Salvete",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Salvete"
                 },
                 {
                   "word": "amabiles",
                   "lemma": "amabiles",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "amabiles"
                 }
               ]
             },
@@ -30340,15 +30340,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Buonae",
-                  "lemma": "buonae",
+                  "lemma": "Buonae",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Buonae"
                 },
                 {
                   "word": "puellae",
                   "lemma": "puellae",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "puellae"
                 }
               ]
             }
@@ -30378,8 +30378,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "linguaggio",
                   "lemma": "linguaggio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "language"
                 }
               ]
             },
@@ -30427,9 +30427,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "comandano",
-                  "lemma": "comandano",
+                  "lemma": "comandare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of comandare"
                 }
               ]
             },
@@ -30490,8 +30490,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "arabo",
                   "lemma": "arabo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "Arab; Arabian"
                 }
               ]
             },
@@ -30552,8 +30552,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "svevo",
                   "lemma": "svevo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "Swabian"
                 },
                 {
                   "word": "e",
@@ -30570,8 +30570,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "tartaro",
                   "lemma": "tartaro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "Tartar / tartare"
                 }
               ]
             },
@@ -30619,9 +30619,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "linguaggi",
-                  "lemma": "linguaggi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "linguaggio",
+                  "pos": "noun",
+                  "meaning": "plural of linguaggio"
                 }
               ]
             },
@@ -30644,9 +30644,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "conservi",
-                  "lemma": "conservi",
+                  "lemma": "conservare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             },
@@ -30663,9 +30663,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "miserabili",
-                  "lemma": "miserabili",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "miserabile",
+                  "pos": "noun",
+                  "meaning": "plural of miserabile"
                 }
               ]
             },
@@ -30688,9 +30688,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "osservi",
-                  "lemma": "osservi",
+                  "lemma": "osservare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             },
@@ -30831,9 +30831,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "bisognami",
-                  "lemma": "bisognami",
+                  "lemma": "bisogna",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "thing, matter, affair / necessity, requirement, need (mi: me)"
                 }
               ]
             },
@@ -30857,8 +30857,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "cagione",
                   "lemma": "cagione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "cause, reason / guilt"
                 }
               ]
             },
@@ -30876,8 +30876,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "quinci",
                   "lemma": "quinci",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "hence, from here / henceforth"
                 },
                 {
                   "word": "l",
@@ -30888,8 +30888,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "indole",
                   "lemma": "indole",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "nature, disposition, character"
                 }
               ]
             },
@@ -30907,8 +30907,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "pozione",
                   "lemma": "pozione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "potion / drink, beverage"
                 }
               ]
             },
@@ -30925,9 +30925,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "calda",
-                  "lemma": "calda",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "caldo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of caldo"
                 },
                 {
                   "word": "o",
@@ -30937,9 +30937,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "frigida",
-                  "lemma": "frigida",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "frigido",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of frigido"
                 }
               ]
             },
@@ -30956,9 +30956,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "poca",
-                  "lemma": "poca",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "poco",
+                  "pos": "particle",
+                  "meaning": "feminine singular of poco"
                 },
                 {
                   "word": "o",
@@ -30968,9 +30968,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "molta",
-                  "lemma": "molta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "molto",
+                  "pos": "particle",
+                  "meaning": "feminine singular of molto"
                 }
               ]
             },
@@ -31012,9 +31012,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Bebberla",
-                  "lemma": "bebberla",
+                  "lemma": "Bebberla",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Bebberla"
                 },
                 {
                   "word": "o",
@@ -31070,8 +31070,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "arsenico",
                   "lemma": "arsenico",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "arsenic"
                 }
               ]
             },
@@ -31120,8 +31120,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "bebbero",
                   "lemma": "bebbero",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "bebbero"
                 }
               ]
             },
@@ -31139,8 +31139,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "causa",
                   "lemma": "causa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "cause / lawsuit"
                 },
                 {
                   "word": "è",
@@ -31208,7 +31208,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "mandar",
                   "lemma": "mandar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of mandare"
                 },
                 {
                   "word": "giù",
@@ -31243,9 +31243,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "affannate",
-                  "lemma": "affannate",
+                  "lemma": "affannare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -31268,9 +31268,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "turbate",
-                  "lemma": "turbate",
+                  "lemma": "turbare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -31386,9 +31386,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "fornita",
-                  "lemma": "fornita",
+                  "lemma": "fornito",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of fornito"
                 }
               ]
             }
@@ -31443,8 +31443,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "calamita",
                   "lemma": "calamita",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "magnet; fridge magnet / lodestone, magnetite"
                 }
               ]
             },
@@ -31457,13 +31457,13 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Pietra",
                   "lemma": "pietra",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "stone"
                 },
                 {
                   "word": "mesmerica",
-                  "lemma": "mesmerica",
+                  "lemma": "mesmerico",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "feminine singular of mesmerico"
                 }
               ]
             },
@@ -31474,7 +31474,7 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -31493,8 +31493,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "origine",
                   "lemma": "origine",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "origin, derivation"
                 }
               ]
             },
@@ -31505,7 +31505,7 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Nell",
-                  "lemma": "nell'",
+                  "lemma": "nell",
                   "pos": "noun",
                   "meaning": "in-the"
                 },
@@ -31513,7 +31513,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Alemagna",
                   "lemma": "alemagna",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Germany"
                 }
               ]
             },
@@ -31543,8 +31543,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "celebre",
                   "lemma": "celebre",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "celebrated, famous, renowned"
                 }
               ]
             },
@@ -31606,9 +31606,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "muovono",
-                  "lemma": "muovono",
+                  "lemma": "muovere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of muovere"
                 }
               ]
             },
@@ -31619,15 +31619,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Torcono",
-                  "lemma": "torcono",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "torcere",
+                  "pos": "verb",
+                  "meaning": "third-person plural present indicative of torcere"
                 },
                 {
                   "word": "scuotono",
-                  "lemma": "scuotono",
+                  "lemma": "scuotere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of scuotere"
                 }
               ]
             },
@@ -31657,8 +31657,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "cranio",
                   "lemma": "cranio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "skull / cranium"
                 }
               ]
             },
@@ -31675,9 +31675,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "percuotono",
-                  "lemma": "percuotono",
+                  "lemma": "percuotere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of percuotere"
                 }
               ]
             }
@@ -31796,9 +31796,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Corraggio",
-                  "lemma": "corraggio",
+                  "lemma": "Corraggio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Corraggio"
                 },
                 {
                   "word": "or",
@@ -31808,9 +31808,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "liberi",
-                  "lemma": "liberi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "libero",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of libero"
                 }
               ]
             },
@@ -31969,8 +31969,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "trono",
                   "lemma": "trono",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "throne"
                 }
               ]
             },
@@ -31995,7 +31995,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Palla",
                   "lemma": "palla",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "ball / ball"
                 },
                 {
                   "word": "o",
@@ -32005,9 +32005,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "Citerea",
-                  "lemma": "citerea",
+                  "lemma": "Citerea",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Citerea"
                 }
               ]
             },
@@ -32042,9 +32042,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "alma",
-                  "lemma": "alma",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "anima",
+                  "pos": "noun",
+                  "meaning": "soul / spirit (poetic for anima)"
                 },
                 {
                   "word": "mia",
@@ -32056,7 +32056,7 @@ export const cosiFanTutteAct1: Act = {
                   "word": "Dea",
                   "lemma": "dea",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "goddess / female star"
                 }
               ]
             },
@@ -32122,7 +32122,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -32189,9 +32189,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "tesor",
-                  "lemma": "tesor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tesoro",
+                  "pos": "noun",
+                  "meaning": "valuable things, treasure / term of endearment, treasure"
                 }
               ]
             }
@@ -32216,9 +32216,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "effetti",
-                  "lemma": "effetti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "effetto",
+                  "pos": "noun",
+                  "meaning": "plural of effetto"
                 },
                 {
                   "word": "ancor",
@@ -32235,8 +32235,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "tosco",
                   "lemma": "tosco",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "Tuscan"
                 }
               ]
             },
@@ -32253,9 +32253,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "abbiate",
-                  "lemma": "abbiate",
+                  "lemma": "avere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present subjunctive / second-person plural imperative"
                 },
                 {
                   "word": "alcun",
@@ -32308,9 +32308,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "smorfie",
-                  "lemma": "smorfie",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "smorfia",
+                  "pos": "noun",
+                  "meaning": "plural of smorfia"
                 }
               ]
             },
@@ -32376,7 +32376,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -32414,8 +32414,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "polmon",
                   "lemma": "polmon",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apocopic form of polmone"
                 },
                 {
                   "word": "mi",
@@ -32463,8 +32463,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "bell'idol",
                   "lemma": "bell'idol",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "bell'idol"
                 },
                 {
                   "word": "mio",
@@ -32495,9 +32495,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "resister",
-                  "lemma": "resister",
+                  "lemma": "resistere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to resist / to withstand"
                 },
                 {
                   "word": "non",
@@ -32508,8 +32508,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "poss'io",
                   "lemma": "poss'io",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "poss'io"
                 }
               ]
             }
@@ -32526,9 +32526,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Volgi",
-                  "lemma": "volgi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "volgere",
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "a",
@@ -32550,15 +32550,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "luci",
-                  "lemma": "luci",
+                  "lemma": "lucere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative of lucere"
                 },
                 {
                   "word": "liete",
-                  "lemma": "liete",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "lieto",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of lieto"
                 }
               ]
             }
@@ -32584,8 +32584,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "poch'ore",
                   "lemma": "poch'ore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "poch'ore"
                 },
                 {
                   "word": "lo",
@@ -32627,8 +32627,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "magnetismo",
                   "lemma": "magnetismo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "magnetism"
                 }
               ]
             },
@@ -32639,9 +32639,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Finirà",
-                  "lemma": "finirà",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "finire",
+                  "pos": "verb",
+                  "meaning": "third-person singular future of finire"
                 },
                 {
                   "word": "quel",
@@ -32652,8 +32652,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "parossismo",
                   "lemma": "parossismo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "paroxysm / height"
                 }
               ]
             },
@@ -32664,9 +32664,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Torneranno",
-                  "lemma": "torneranno",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "tornare",
+                  "pos": "verb",
+                  "meaning": "third-person plural future of tornare"
                 },
                 {
                   "word": "al",
@@ -32683,8 +32683,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "umor",
                   "lemma": "umor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apocopic form of umore"
                 }
               ]
             }
@@ -32781,8 +32781,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "moro",
                   "lemma": "moro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mulberry tree"
                 }
               ]
             }
@@ -32832,9 +32832,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Secondate",
-                  "lemma": "secondate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "secondare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -32852,8 +32852,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "effetto",
                   "lemma": "effetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "effect / appearance, show"
                 },
                 {
                   "word": "di",
@@ -32864,8 +32864,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "bontate",
                   "lemma": "bontate",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of bontà"
                 }
               ]
             }
@@ -32906,9 +32906,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "richiede",
-                  "lemma": "richiede",
+                  "lemma": "richiedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of richiedere"
                 }
               ]
             },
@@ -32932,8 +32932,8 @@ export const cosiFanTutteAct1: Act = {
                 {
                   "word": "fida",
                   "lemma": "fida",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a tax on cultivated land / synonym of affida"
                 },
                 {
                   "word": "onesta",
@@ -32956,9 +32956,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Oltraggiata",
-                  "lemma": "oltraggiata",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "oltraggiato",
+                  "pos": "verb",
+                  "meaning": "feminine singular of oltraggiato"
                 },
                 {
                   "word": "è",
@@ -32993,9 +32993,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Oltraggiato",
-                  "lemma": "oltraggiato",
+                  "lemma": "oltraggiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of oltraggiare"
                 },
                 {
                   "word": "è",
@@ -33030,15 +33030,15 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Disperati",
-                  "lemma": "disperati",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "disperato",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of disperato"
                 },
                 {
                   "word": "attossicati",
-                  "lemma": "attossicati",
+                  "lemma": "attossicato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "masculine plural of attossicato"
                 }
               ]
             },
@@ -33049,9 +33049,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Ite",
-                  "lemma": "ite",
+                  "lemma": "Ite",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ite"
                 },
                 {
                   "word": "al",
@@ -33104,9 +33104,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "pentirete",
-                  "lemma": "pentirete",
+                  "lemma": "pentirsi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural future of pentirsi"
                 }
               ]
             },
@@ -33129,9 +33129,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "cresce",
-                  "lemma": "cresce",
+                  "lemma": "crescere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of crescere"
                 },
                 {
                   "word": "il",
@@ -33172,9 +33172,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "quadretto",
-                  "lemma": "quadretto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "quadro",
+                  "pos": "noun",
+                  "meaning": "diminutive of quadro / small square"
                 },
                 {
                   "word": "più",
@@ -33301,7 +33301,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "quell",
-                  "lemma": "quell'",
+                  "lemma": "quell",
                   "pos": "noun",
                   "meaning": "that"
                 },
@@ -33338,7 +33338,7 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -33387,9 +33387,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Cangerassi",
-                  "lemma": "cangerassi",
+                  "lemma": "Cangerassi",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Cangerassi"
                 },
                 {
                   "word": "in",
@@ -33405,7 +33405,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -33438,9 +33438,9 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "quadretto",
-                  "lemma": "quadretto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "quadro",
+                  "pos": "noun",
+                  "meaning": "diminutive of quadro / small square"
                 },
                 {
                   "word": "più",
@@ -33567,7 +33567,7 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "quell",
-                  "lemma": "quell'",
+                  "lemma": "quell",
                   "pos": "noun",
                   "meaning": "that"
                 },
@@ -33641,9 +33641,9 @@ export const cosiFanTutteAct1: Act = {
               "tokens": [
                 {
                   "word": "Terminasse",
-                  "lemma": "terminasse",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "terminare",
+                  "pos": "verb",
+                  "meaning": "third-person singular imperfect subjunctive of terminare"
                 },
                 {
                   "word": "in",
@@ -33659,15 +33659,15 @@ export const cosiFanTutteAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
-                  "word": "amor.",
-                  "lemma": "amor.",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "amor",
+                  "lemma": "amor",
+                  "pos": "noun",
+                  "meaning": "apocopic form of amore"
                 }
               ]
             }

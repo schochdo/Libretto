@@ -63,8 +63,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "soldato",
                   "lemma": "soldato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "soldier"
                 }
               ]
             },
@@ -93,9 +93,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "cercato",
-                  "lemma": "cercato",
+                  "lemma": "cercare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of cercare"
                 }
               ]
             },
@@ -118,9 +118,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "conosce",
-                  "lemma": "conosce",
+                  "lemma": "conoscere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "in",
@@ -143,8 +143,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "reggimento",
                   "lemma": "reggimento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "regiment"
                 }
               ]
             },
@@ -166,16 +166,16 @@ export const barbiereDiSivigliaAct2: Act = {
                   "meaning": "I doubt"
                 },
                 {
-                  "word": ",eh",
-                  "lemma": ",eh",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "eh",
+                  "lemma": "eh",
+                  "pos": "noun",
+                  "meaning": "eh"
                 },
                 {
                   "word": "cospetto",
                   "lemma": "cospetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "presence"
                 }
               ]
             },
@@ -224,14 +224,14 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "conte",
                   "lemma": "conte",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Count (Count Almaviva)"
                 },
                 {
                   "word": "Almaviva",
-                  "lemma": "almaviva",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "Almaviva",
+                  "pos": "noun",
+                  "meaning": "Count Almaviva"
                 }
               ]
             },
@@ -260,9 +260,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "spedito",
-                  "lemma": "spedito",
+                  "lemma": "spedire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of spedire"
                 },
                 {
                   "word": "quel",
@@ -291,9 +291,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "esplorar",
-                  "lemma": "esplorar",
+                  "lemma": "esplorare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to explore / to search, investigate, probe"
                 },
                 {
                   "word": "della",
@@ -303,9 +303,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "Rosina",
-                  "lemma": "rosina",
+                  "lemma": "Rosina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Rosina (ward of Bartolo)"
                 },
                 {
                   "word": "il",
@@ -328,9 +328,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Nemmen",
-                  "lemma": "nemmen",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "nemmeno",
+                  "pos": "adverb",
+                  "meaning": "not even / not … either"
                 },
                 {
                   "word": "in",
@@ -359,9 +359,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "sicuri",
-                  "lemma": "sicuri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sicuro",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of sicuro"
                 },
                 {
                   "word": "si",
@@ -451,9 +451,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "Battono",
-                  "lemma": "battono",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "battere",
+                  "pos": "verb",
+                  "meaning": "third-person plural present indicative of battere"
                 },
                 {
                   "word": "non",
@@ -506,7 +506,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -519,8 +519,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "timore",
                   "lemma": "timore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fear, dread, worry, alarm / awe, fear"
                 },
                 {
                   "word": "aprite",
@@ -620,15 +620,15 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
                 {
                   "word": "incomodi",
-                  "lemma": "incomodi",
+                  "lemma": "incomodare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             }
@@ -691,8 +691,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "Obbligato",
                   "lemma": "obbligato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "obliged, compelled, constrained, forced, bound / obligatory, unavoidable, forced"
                 },
                 {
                   "word": "in",
@@ -733,7 +733,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -746,8 +746,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "ignoto",
                   "lemma": "ignoto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "unknown"
                 }
               ]
             },
@@ -932,9 +932,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "gabbar",
-                  "lemma": "gabbar",
+                  "lemma": "gabbare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to deceive, trick / to cheat, dupe, diddle"
                 },
                 {
                   "word": "questo",
@@ -945,8 +945,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "balordo",
                   "lemma": "balordo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "silly, foolish, daft / unreliable"
                 }
               ]
             },
@@ -964,8 +964,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "novel",
                   "lemma": "novel",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "novel"
                 },
                 {
                   "word": "travestimento",
@@ -989,8 +989,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "propizio",
                   "lemma": "propizio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "favourable/favorable , propitious / opportune"
                 },
                 {
                   "word": "a",
@@ -1089,9 +1089,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Oli",
-                  "lemma": "oli",
+                  "lemma": "olio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of olio"
                 },
                 {
                   "word": "ciel",
@@ -1221,8 +1221,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "perfido",
                   "lemma": "perfido",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "perfidious"
                 },
                 {
                   "word": "destino",
@@ -1252,14 +1252,14 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "barbara",
                   "lemma": "barbara",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a female given name, equivalent to English Barbara"
                 },
                 {
                   "word": "giornata",
                   "lemma": "giornata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "day"
                 }
               ]
             },
@@ -1320,8 +1320,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "fatalità",
                   "lemma": "fatalità",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fate / fatality"
                 }
               ]
             }
@@ -1346,9 +1346,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "vecchion",
-                  "lemma": "vecchion",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vecchione",
+                  "pos": "noun",
+                  "meaning": "augmentative of vecchio, specifically: / a very old man"
                 },
                 {
                   "word": "non",
@@ -1364,9 +1364,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "conosce",
-                  "lemma": "conosce",
+                  "lemma": "conoscere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -1395,9 +1395,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "fortunata",
-                  "lemma": "fortunata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fortunato",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of fortunato"
                 }
               ]
             },
@@ -1438,9 +1438,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "istanti",
-                  "lemma": "istanti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "istante",
+                  "pos": "noun",
+                  "meaning": "plural of istante"
                 }
               ]
             },
@@ -1451,9 +1451,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "parlerem",
-                  "lemma": "parlerem",
+                  "lemma": "parlare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural future of parlare"
                 },
                 {
                   "word": "con",
@@ -1483,8 +1483,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "Insomma",
                   "lemma": "insomma",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "in short, in sum, in a word, in conclusion / then, well, after all"
                 },
                 {
                   "word": "mio",
@@ -1558,13 +1558,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Alonso",
-                  "lemma": "alonso",
+                  "lemma": "Alonso",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Alonso"
                 }
               ]
             },
@@ -1600,8 +1600,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "allievo",
                   "lemma": "allievo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pupil, student"
                 }
               ]
             },
@@ -1620,13 +1620,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Basilio",
-                  "lemma": "basilio",
+                  "lemma": "Basilio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Basilio (music teacher)"
                 }
               ]
             }
@@ -1664,13 +1664,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Basilio",
-                  "lemma": "basilio",
+                  "lemma": "Basilio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Basilio (music teacher)"
                 }
               ]
             },
@@ -1700,8 +1700,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "poverino",
                   "lemma": "poverino",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "poor thing"
                 },
                 {
                   "word": "ed",
@@ -1724,8 +1724,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "vece",
                   "lemma": "vece",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "change / vicissitude"
                 }
               ]
             }
@@ -1878,8 +1878,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "fido",
                   "lemma": "fido",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "faithful, loyal"
                 }
               ]
             },
@@ -1948,7 +1948,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "c",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
@@ -1983,7 +1983,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "dirvi",
                   "lemma": "dirvi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive dire with vi"
                 }
               ]
             }
@@ -2126,19 +2126,19 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Alonso",
-                  "lemma": "alonso",
+                  "lemma": "Alonso",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Alonso"
                 },
                 {
                   "word": "apprenderete",
-                  "lemma": "apprenderete",
+                  "lemma": "apprendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural future of apprendere"
                 }
               ]
             },
@@ -2162,14 +2162,14 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "conte",
                   "lemma": "conte",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Count (Count Almaviva)"
                 },
                 {
                   "word": "Almaviva",
-                  "lemma": "almaviva",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "Almaviva",
+                  "pos": "noun",
+                  "meaning": "Count Almaviva"
                 }
               ]
             }
@@ -2219,15 +2219,15 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
                 {
                   "word": "ascolto",
                   "lemma": "ascolto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "listening / reception"
                 }
               ]
             }
@@ -2253,8 +2253,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "conte",
                   "lemma": "conte",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Count (Count Almaviva)"
                 }
               ]
             }
@@ -2305,8 +2305,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "Stamane",
                   "lemma": "stamane",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "alternative form of stamani"
                 }
               ]
             },
@@ -2330,8 +2330,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "locanda",
                   "lemma": "locanda",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "simple hotel / inn"
                 }
               ]
             },
@@ -2349,20 +2349,20 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "meco",
                   "lemma": "meco",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "pronoun",
+                  "meaning": "with me"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "alloggio",
                   "lemma": "alloggio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "lodging, accommodation / flat, apartment"
                 },
                 {
                   "word": "ed",
@@ -2409,9 +2409,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "capitò",
-                  "lemma": "capitò",
+                  "lemma": "capitare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of capitare"
                 },
                 {
                   "word": "questo",
@@ -2465,8 +2465,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "diretto",
                   "lemma": "diretto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "direct, straight, immediate / addressed, intended"
                 }
               ]
             }
@@ -2510,8 +2510,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "scrittura",
                   "lemma": "scrittura",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "handwriting / scripture"
                 }
               ]
             }
@@ -2532,13 +2532,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Basilio",
-                  "lemma": "basilio",
+                  "lemma": "Basilio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Basilio (music teacher)"
                 }
               ]
             },
@@ -2629,8 +2629,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "lezione",
                   "lemma": "lezione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "lesson / class, lecture"
                 },
                 {
                   "word": "alla",
@@ -2661,7 +2661,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "farmene",
                   "lemma": "farmene",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of farmi, the first-person singular infinitive of farsi, with ne"
                 },
                 {
                   "word": "un",
@@ -2696,9 +2696,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "perche",
-                  "lemma": "perche",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "perca",
+                  "pos": "noun",
+                  "meaning": "plural of perca"
                 },
                 {
                   "word": "con",
@@ -2733,9 +2733,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "potrebbe",
-                  "lemma": "potrebbe",
+                  "lemma": "potere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular conditional of potere"
                 }
               ]
             }
@@ -2796,7 +2796,7 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -2852,8 +2852,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "verbigrazia",
                   "lemma": "verbigrazia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "for example, for instance"
                 },
                 {
                   "word": "le",
@@ -2863,9 +2863,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "farei",
-                  "lemma": "farei",
+                  "lemma": "fare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular conditional of fare"
                 }
               ]
             },
@@ -2877,8 +2877,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "die",
                   "lemma": "die",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of dì (“day”)"
                 },
                 {
                   "word": "me",
@@ -2895,8 +2895,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "die",
                   "lemma": "die",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of dì (“day”)"
                 },
                 {
                   "word": "del",
@@ -2908,7 +2908,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Conte",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 },
                 {
                   "word": "un",
@@ -2943,9 +2943,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "significante",
-                  "lemma": "significante",
+                  "lemma": "significare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "present participle of significare"
                 }
               ]
             },
@@ -2957,8 +2957,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "die",
                   "lemma": "die",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of dì (“day”)"
                 },
                 {
                   "word": "il",
@@ -2970,7 +2970,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Conte",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 },
                 {
                   "word": "di",
@@ -2980,9 +2980,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "Rosina",
-                  "lemma": "rosina",
+                  "lemma": "Rosina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Rosina (ward of Bartolo)"
                 },
                 {
                   "word": "si",
@@ -3112,9 +3112,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "scolar",
-                  "lemma": "scolar",
+                  "lemma": "scolare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to drain / to strain liquid from"
                 },
                 {
                   "word": "di",
@@ -3126,13 +3126,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Basilio",
-                  "lemma": "basilio",
+                  "lemma": "Basilio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Basilio (music teacher)"
                 }
               ]
             },
@@ -3149,9 +3149,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "saprò",
-                  "lemma": "saprò",
+                  "lemma": "sapere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of sapere"
                 },
                 {
                   "word": "come",
@@ -3174,9 +3174,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "ricompensar",
-                  "lemma": "ricompensar",
+                  "lemma": "ricompensare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to reward, recompense"
                 },
                 {
                   "word": "sì",
@@ -3193,8 +3193,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "suggerimento",
                   "lemma": "suggerimento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "suggestion, tip, hint, advice, indication, point, feedback / prompt"
                 }
               ]
             },
@@ -3219,7 +3219,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "chiamarla",
                   "lemma": "chiamarla",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive chiamare with la"
                 },
                 {
                   "word": "ragazza",
@@ -3260,15 +3260,15 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
                 {
                   "word": "interessate",
-                  "lemma": "interessate",
+                  "lemma": "interessare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -3285,9 +3285,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "raccomando",
-                  "lemma": "raccomando",
+                  "lemma": "raccomandare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of raccomandare"
                 },
                 {
                   "word": "a",
@@ -3324,9 +3324,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "dubitate",
-                  "lemma": "dubitate",
+                  "lemma": "dubitare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -3380,7 +3380,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -3392,9 +3392,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "uscito",
-                  "lemma": "uscito",
+                  "lemma": "uscire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of uscire"
                 },
                 {
                   "word": "non",
@@ -3404,9 +3404,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "volendo",
-                  "lemma": "volendo",
+                  "lemma": "volere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of volere"
                 }
               ]
             },
@@ -3441,7 +3441,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -3460,8 +3460,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "ripiego",
                   "lemma": "ripiego",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "expedient / fallback"
                 }
               ]
             },
@@ -3473,14 +3473,14 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "mit",
                   "lemma": "mit",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mit"
                 },
                 {
                   "word": "toccava",
-                  "lemma": "toccava",
+                  "lemma": "toccare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect indicative of toccare"
                 },
                 {
                   "word": "andar",
@@ -3509,8 +3509,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "baggiano",
                   "lemma": "baggiano",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "stupid, foolish"
                 }
               ]
             },
@@ -3534,8 +3534,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "disegno",
                   "lemma": "disegno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "drawing, cartoon / design, pattern"
                 },
                 {
                   "word": "a",
@@ -3564,13 +3564,13 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "paleserò",
-                  "lemma": "paleserò",
+                  "lemma": "palesare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of palesare"
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -3582,9 +3582,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "acconsente",
-                  "lemma": "acconsente",
+                  "lemma": "acconsentire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of acconsentire"
                 }
               ]
             },
@@ -3614,8 +3614,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "appieno",
                   "lemma": "appieno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "fully"
                 }
               ]
             },
@@ -3656,9 +3656,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "balzarmi",
-                  "lemma": "balzarmi",
+                  "lemma": "balzare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to jump, skip or leap / to bounce back (mi: me)"
                 },
                 {
                   "word": "in",
@@ -3669,8 +3669,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "seno",
                   "lemma": "seno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "breast / bosom, heart, breast"
                 }
               ]
             }
@@ -3710,13 +3710,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Alonso",
-                  "lemma": "alonso",
+                  "lemma": "Alonso",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Alonso"
                 }
               ]
             },
@@ -3757,15 +3757,15 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "darà",
-                  "lemma": "darà",
+                  "lemma": "dare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of dare"
                 },
                 {
                   "word": "lezione",
                   "lemma": "lezione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "lesson / class, lecture"
                 }
               ]
             }
@@ -3828,9 +3828,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Ê",
-                  "lemma": "ê",
+                  "lemma": "Ê",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ê"
                 },
                 {
                   "word": "un",
@@ -3841,8 +3841,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "granchio",
                   "lemma": "granchio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "crab / mistake"
                 },
                 {
                   "word": "al",
@@ -3890,9 +3890,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "sedete",
-                  "lemma": "sedete",
+                  "lemma": "sedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "a",
@@ -3951,9 +3951,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "spiace",
-                  "lemma": "spiace",
+                  "lemma": "spiacere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of spiacere"
                 },
                 {
                   "word": "un",
@@ -3976,8 +3976,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "lezione",
                   "lemma": "lezione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "lesson / class, lecture"
                 }
               ]
             },
@@ -3996,13 +3996,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Basilio",
-                  "lemma": "basilio",
+                  "lemma": "Basilio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Basilio (music teacher)"
                 },
                 {
                   "word": "invece",
@@ -4018,9 +4018,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "darò",
-                  "lemma": "darò",
+                  "lemma": "dare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of dare"
                 }
               ]
             }
@@ -4073,9 +4073,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "prenderò",
-                  "lemma": "prenderò",
+                  "lemma": "prendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of prendere"
                 }
               ]
             }
@@ -4147,9 +4147,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "aggrada",
-                  "lemma": "aggrada",
+                  "lemma": "aggradare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of aggradare"
                 }
               ]
             },
@@ -4172,21 +4172,21 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
                 {
                   "word": "Inutil",
                   "lemma": "inutil",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "apocopic form of inutile"
                 },
                 {
                   "word": "Precauzione",
                   "lemma": "precauzione",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "precaution / care, prudence, caution"
                 }
               ]
             }
@@ -4215,9 +4215,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "incominciamo",
-                  "lemma": "incominciamo",
+                  "lemma": "incominciare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 }
               ]
             },
@@ -4227,16 +4227,16 @@ export const barbiereDiSivigliaAct2: Act = {
               "literal": "<i>The Count sits at the piano and Rosina sings accompanied by the Count;",
               "tokens": [
                 {
-                  "word": "<i>Il",
-                  "lemma": "<i>il",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "Il",
+                  "lemma": "il",
+                  "pos": "particle",
+                  "meaning": "the"
                 },
                 {
                   "word": "Conte",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 },
                 {
                   "word": "siede",
@@ -4253,8 +4253,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "pianoforte",
                   "lemma": "pianoforte",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "piano, pianoforte"
                 },
                 {
                   "word": "e",
@@ -4264,9 +4264,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "Rosina",
-                  "lemma": "rosina",
+                  "lemma": "Rosina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Rosina (ward of Bartolo)"
                 },
                 {
                   "word": "canta",
@@ -4276,9 +4276,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "accompagnata",
-                  "lemma": "accompagnata",
+                  "lemma": "accompagnato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of accompagnato"
                 },
                 {
                   "word": "dal",
@@ -4290,7 +4290,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Conte",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 }
               ]
             },
@@ -4301,9 +4301,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Bartolo",
-                  "lemma": "bartolo",
+                  "lemma": "Bartolo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Doctor Bartolo"
                 },
                 {
                   "word": "siede",
@@ -4318,10 +4318,10 @@ export const barbiereDiSivigliaAct2: Act = {
                   "meaning": "and"
                 },
                 {
-                  "word": "ascolta.</i>",
-                  "lemma": "ascolta.</i>",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "ascolta",
+                  "lemma": "ascolta",
+                  "pos": "noun",
+                  "meaning": "alternative form of scolta"
                 }
               ]
             }
@@ -4391,14 +4391,14 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "verace",
                   "lemma": "verace",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "synonym of vero / true"
                 },
                 {
                   "word": "invitto",
                   "lemma": "invitto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "undefeated / indomitable"
                 },
                 {
                   "word": "ardore",
@@ -4415,7 +4415,7 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -4440,8 +4440,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "tiranno",
                   "lemma": "tiranno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "tyrant"
                 }
               ]
             },
@@ -4459,8 +4459,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "rigor",
                   "lemma": "rigor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apocopic form of rigore"
                 },
                 {
                   "word": "di",
@@ -4483,7 +4483,7 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "D",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -4502,8 +4502,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "vincitore",
                   "lemma": "vincitore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "winning, victorious / defeating, vanquishing"
                 }
               ]
             },
@@ -4526,9 +4526,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "trionferà",
-                  "lemma": "trionferà",
+                  "lemma": "trionfare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of trionfare"
                 }
               ]
             },
@@ -4545,9 +4545,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "Lindoro",
-                  "lemma": "lindoro",
+                  "lemma": "Lindoro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Lindoro"
                 },
                 {
                   "word": "mio",
@@ -4576,9 +4576,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "sapessi",
-                  "lemma": "sapessi",
+                  "lemma": "sapere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second-person singular imperfect subjunctive of sapere"
                 },
                 {
                   "word": "se",
@@ -4588,9 +4588,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "vedessi",
-                  "lemma": "vedessi",
+                  "lemma": "vedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second-person singular imperfect subjunctive of vedere"
                 }
               ]
             },
@@ -4620,8 +4620,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "tutore",
                   "lemma": "tutore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "guardian / protector, defender"
                 }
               ]
             },
@@ -4645,8 +4645,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "rabbia",
                   "lemma": "rabbia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "anger, chafe / rabies"
                 },
                 {
                   "word": "che",
@@ -4699,9 +4699,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "raccomando",
-                  "lemma": "raccomando",
+                  "lemma": "raccomandare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of raccomandare"
                 }
               ]
             },
@@ -4725,8 +4725,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "salva",
                   "lemma": "salva",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "discharge of an unloaded gun, often for celebratory purposes; volley, salvo / loud collective manifestation of approval or disapproval; salvo, volley, storm"
                 },
                 {
                   "word": "per",
@@ -4773,9 +4773,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "rassicura",
-                  "lemma": "rassicura",
+                  "lemma": "rassicurare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -4866,15 +4866,15 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
                 {
                   "word": "affida",
                   "lemma": "affida",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a tax on grazing land in the Papal States / a document certifying the payment of the above tax"
                 }
               ]
             }
@@ -4930,9 +4930,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Giubilerà",
-                  "lemma": "giubilerà",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "giubilare",
+                  "pos": "verb",
+                  "meaning": "third-person singular future of giubilare"
                 }
               ]
             }
@@ -4956,8 +4956,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "immagine",
                   "lemma": "immagine",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "image / imago"
                 },
                 {
                   "word": "ridente",
@@ -4986,7 +4986,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -5023,7 +5023,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -5090,9 +5090,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "delirar",
-                  "lemma": "delirar",
+                  "lemma": "delirare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to be delirious / to rave"
                 }
               ]
             }
@@ -5121,9 +5121,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "Bravissima",
-                  "lemma": "bravissima",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "bravissimo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of bravissimo"
                 }
               ]
             }
@@ -5204,7 +5204,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
@@ -5217,8 +5217,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "cospetto",
                   "lemma": "cospetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "presence"
                 },
                 {
                   "word": "è",
@@ -5234,9 +5234,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "noiosa",
-                  "lemma": "noiosa",
+                  "lemma": "noioso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "feminine singular of noioso"
                 }
               ]
             },
@@ -5271,9 +5271,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "tempi",
-                  "lemma": "tempi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tempo",
+                  "pos": "noun",
+                  "meaning": "plural of tempo"
                 },
                 {
                   "word": "era",
@@ -5333,15 +5333,15 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "cantava",
-                  "lemma": "cantava",
+                  "lemma": "cantare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect indicative of cantare"
                 },
                 {
                   "word": "Caffariello",
-                  "lemma": "caffariello",
+                  "lemma": "Caffariello",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Caffariello"
                 }
               ]
             },
@@ -5352,7 +5352,7 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "quell",
-                  "lemma": "quell'",
+                  "lemma": "quell",
                   "pos": "noun",
                   "meaning": "that"
                 },
@@ -5364,9 +5364,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "portentosa",
-                  "lemma": "portentosa",
+                  "lemma": "portentoso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "feminine singular of portentoso"
                 },
                 {
                   "word": "la",
@@ -5377,8 +5377,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "ra",
                   "lemma": "ra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Ra"
                 },
                 {
                   "word": "la",
@@ -5403,13 +5403,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Alonso",
-                  "lemma": "alonso",
+                  "lemma": "Alonso",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Alonso"
                 },
                 {
                   "word": "eccola",
@@ -5473,13 +5473,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "amabile",
                   "lemma": "amabile",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "amiable, pleasant / sweet"
                 },
                 {
                   "word": "Rosina",
-                  "lemma": "rosina",
+                  "lemma": "Rosina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Rosina (ward of Bartolo)"
                 }
               ]
             },
@@ -5510,7 +5510,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Giannina",
                   "lemma": "giannina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ioannina / Ioannina"
                 }
               ]
             },
@@ -5539,9 +5539,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "Rosina",
-                  "lemma": "rosina",
+                  "lemma": "Rosina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Rosina (ward of Bartolo)"
                 }
               ]
             },
@@ -5585,13 +5585,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "amabile",
                   "lemma": "amabile",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "amiable, pleasant / sweet"
                 },
                 {
                   "word": "Rosina",
-                  "lemma": "rosina",
+                  "lemma": "Rosina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Rosina (ward of Bartolo)"
                 }
               ]
             },
@@ -5652,8 +5652,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "balla",
                   "lemma": "balla",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "large bundle, bale, reap / falsehood, lie, malarkey"
                 },
                 {
                   "word": "il",
@@ -5675,16 +5675,16 @@ export const barbiereDiSivigliaAct2: Act = {
               "literal": "<i>Figaro enters with the basin under his arm, and stands behind Bartolo in imitation",
               "tokens": [
                 {
-                  "word": "<i>Entra",
-                  "lemma": "<i>entra",
+                  "word": "Entra",
+                  "lemma": "entrare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "Figaro",
-                  "lemma": "figaro",
+                  "lemma": "Figaro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Figaro (valet to Count Almaviva)"
                 },
                 {
                   "word": "coi",
@@ -5695,8 +5695,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "bacile",
                   "lemma": "bacile",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "washbasin / bowl"
                 },
                 {
                   "word": "sotto",
@@ -5730,9 +5730,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "pone",
-                  "lemma": "pone",
+                  "lemma": "porre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of porre"
                 },
                 {
                   "word": "dietro",
@@ -5742,15 +5742,15 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "Bartolo",
-                  "lemma": "bartolo",
+                  "lemma": "Bartolo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Doctor Bartolo"
                 },
                 {
                   "word": "imitando",
-                  "lemma": "imitando",
+                  "lemma": "imitare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of imitare"
                 }
               ]
             },
@@ -5778,10 +5778,10 @@ export const barbiereDiSivigliaAct2: Act = {
                   "meaning": "with"
                 },
                 {
-                  "word": "caricatura.</i>",
-                  "lemma": "caricatura.</i>",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "caricatura",
+                  "lemma": "caricatura",
+                  "pos": "noun",
+                  "meaning": "caricature, antic"
                 }
               ]
             }
@@ -5813,8 +5813,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "barbiere",
                   "lemma": "barbiere",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "barber"
                 }
               ]
             },
@@ -5863,8 +5863,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "affatto",
                   "lemma": "affatto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "completely"
                 }
               ]
             },
@@ -5887,9 +5887,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "debolezze",
-                  "lemma": "debolezze",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "debolezza",
+                  "pos": "noun",
+                  "meaning": "plural of debolezza"
                 }
               ]
             }
@@ -6001,7 +6001,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "farvi",
                   "lemma": "farvi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive fare with vi"
                 },
                 {
                   "word": "la",
@@ -6097,9 +6097,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "Dimani",
-                  "lemma": "dimani",
+                  "lemma": "Dimani",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Dimani"
                 }
               ]
             },
@@ -6211,9 +6211,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "Ufficiali",
-                  "lemma": "ufficiali",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ufficiale",
+                  "pos": "adjective",
+                  "meaning": "plural of ufficiale"
                 }
               ]
             },
@@ -6231,14 +6231,14 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "nuovo",
                   "lemma": "nuovo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "new"
                 },
                 {
                   "word": "reggimento",
                   "lemma": "reggimento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "regiment"
                 },
                 {
                   "word": "barba",
@@ -6274,14 +6274,14 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "marchesa",
                   "lemma": "marchesa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "marchioness"
                 },
                 {
                   "word": "Andronica",
-                  "lemma": "andronica",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "Andronica",
+                  "pos": "noun",
+                  "meaning": "Andronica"
                 }
               ]
             },
@@ -6299,14 +6299,14 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "biondo",
                   "lemma": "biondo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "blond , blonde , fair-haired"
                 },
                 {
                   "word": "parrucchin",
-                  "lemma": "parrucchin",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "parrucchino",
+                  "pos": "noun",
+                  "meaning": "small wig that only covers a bald patch"
                 },
                 {
                   "word": "coi",
@@ -6317,8 +6317,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "maroné",
                   "lemma": "maroné",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "maroné"
                 }
               ]
             },
@@ -6335,15 +6335,15 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "contino",
-                  "lemma": "contino",
+                  "lemma": "contare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present subjunctive / third-person plural imperative"
                 },
                 {
                   "word": "Bombé",
                   "lemma": "bombé",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "rounded"
                 }
               ]
             },
@@ -6361,8 +6361,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "ciuffo",
                   "lemma": "ciuffo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "tuft / bunch"
                 },
                 {
                   "word": "a",
@@ -6373,8 +6373,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "campanile",
                   "lemma": "campanile",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "bell tower / belfry"
                 }
               ]
             },
@@ -6386,26 +6386,26 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "purgante",
                   "lemma": "purgante",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "purgative"
                 },
                 {
                   "word": "all",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
                 {
                   "word": "avvocato",
                   "lemma": "avvocato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "lawyer, counsel, solicitor, barrister / advocate, defender, intercessor"
                 },
                 {
                   "word": "Bernardone",
-                  "lemma": "bernardone",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "bernardo",
+                  "pos": "verb",
+                  "meaning": "a male given name from Proto-Germanic, feminine equivalent Bernarda, equivalent to English Bernard (ne: of it / of them)"
                 }
               ]
             },
@@ -6428,27 +6428,27 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
                 {
                   "word": "ammalò",
-                  "lemma": "ammalò",
+                  "lemma": "ammalare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of ammalare"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "indigestione",
                   "lemma": "indigestione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "indigestion"
                 }
               ]
             },
@@ -6502,9 +6502,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Doman",
-                  "lemma": "doman",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "domare",
+                  "pos": "verb",
+                  "meaning": "third-person plural present indicative of domare"
                 },
                 {
                   "word": "non",
@@ -6534,8 +6534,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "Orsù",
                   "lemma": "orsù",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "come on!"
                 },
                 {
                   "word": "meno",
@@ -6611,7 +6611,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Cospetto",
                   "lemma": "cospetto",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "presence"
                 }
               ]
             },
@@ -6634,9 +6634,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "avventori",
-                  "lemma": "avventori",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "avventore",
+                  "pos": "noun",
+                  "meaning": "plural of avventore"
                 }
               ]
             },
@@ -6654,8 +6654,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "stamane",
                   "lemma": "stamane",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "alternative form of stamani"
                 },
                 {
                   "word": "in",
@@ -6671,7 +6671,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -6757,7 +6757,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "M",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -6800,9 +6800,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "barbier",
-                  "lemma": "barbier",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "barbiere",
+                  "pos": "noun",
+                  "meaning": "barber"
                 },
                 {
                   "word": "da",
@@ -6812,9 +6812,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "contadini",
-                  "lemma": "contadini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "contadino",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of contadino"
                 }
               ]
             },
@@ -6825,9 +6825,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Chiamate",
-                  "lemma": "chiamate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "chiamare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "pur",
@@ -7056,9 +7056,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "dava",
-                  "lemma": "dava",
+                  "lemma": "dare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect indicative of dare"
                 },
                 {
                   "word": "in",
@@ -7088,8 +7088,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "mazzo",
                   "lemma": "mazzo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "bunch / pack, deck"
                 },
                 {
                   "word": "delle",
@@ -7118,8 +7118,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "cavallo",
                   "lemma": "cavallo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "horse / horsepower"
                 }
               ]
             },
@@ -7247,8 +7247,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "nuova",
                   "lemma": "nuova",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "news"
                 }
               ]
             }
@@ -7335,8 +7335,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "barbiere",
                   "lemma": "barbiere",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "barber"
                 }
               ]
             },
@@ -7349,7 +7349,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Animo",
                   "lemma": "animo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "mind / spirit, courage"
                 },
                 {
                   "word": "va",
@@ -7390,9 +7390,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "corridor",
-                  "lemma": "corridor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "corridore",
+                  "pos": "adjective",
+                  "meaning": "running / racing"
                 },
                 {
                   "word": "sopra",
@@ -7409,8 +7409,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "armadio",
                   "lemma": "armadio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "wardrobe, closet, cupboard, cabinet"
                 }
               ]
             },
@@ -7433,9 +7433,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "troverai",
-                  "lemma": "troverai",
+                  "lemma": "trovare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular future of trovare"
                 }
               ]
             },
@@ -7460,7 +7460,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "toccar",
                   "lemma": "toccar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of toccare"
                 },
                 {
                   "word": "nulla",
@@ -7625,7 +7625,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Conte",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 }
               ]
             },
@@ -7666,9 +7666,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "Rosina",
-                  "lemma": "rosina",
+                  "lemma": "Rosina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Rosina (ward of Bartolo)"
                 }
               ]
             }
@@ -7703,9 +7703,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "imbroglion",
-                  "lemma": "imbroglion",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "imbroglione",
+                  "pos": "noun",
+                  "meaning": "cheat, swindler, confidence trickster"
                 },
                 {
                   "word": "di",
@@ -7722,8 +7722,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "sfera",
                   "lemma": "sfera",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sphere, ball, globe / scope, range"
                 }
               ]
             }
@@ -7778,9 +7778,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "ficca",
-                  "lemma": "ficca",
+                  "lemma": "ficcare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -7798,8 +7798,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "disgraziato",
                   "lemma": "disgraziato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "poor, wretched / unfortunate, unlucky"
                 },
                 {
                   "word": "me",
@@ -7924,9 +7924,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "Figaro",
-                  "lemma": "figaro",
+                  "lemma": "Figaro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Figaro (valet to Count Almaviva)"
                 },
                 {
                   "word": "è",
@@ -7943,8 +7943,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "grand'uomo",
                   "lemma": "grand'uomo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "grand'uomo"
                 },
                 {
                   "word": "or",
@@ -7981,7 +7981,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "ditemi",
                   "lemma": "ditemi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of dite, the second-person plural imperative form of dire, with mi"
                 },
                 {
                   "word": "o",
@@ -8034,7 +8034,7 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -8052,9 +8052,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "contenta",
-                  "lemma": "contenta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "contento",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of contento"
                 }
               ]
             },
@@ -8067,7 +8067,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Franchezza",
                   "lemma": "franchezza",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "frankness"
                 }
               ]
             }
@@ -8098,9 +8098,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "Lindoro",
-                  "lemma": "lindoro",
+                  "lemma": "Lindoro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Lindoro"
                 }
               ]
             },
@@ -8186,8 +8186,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "rotto",
                   "lemma": "rotto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "broken"
                 }
               ]
             },
@@ -8229,8 +8229,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "terrina",
                   "lemma": "terrina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "tureen / bowl"
                 }
               ]
             }
@@ -8322,9 +8322,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "attaccava",
-                  "lemma": "attaccava",
+                  "lemma": "attaccare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect indicative of attaccare"
                 },
                 {
                   "word": "per",
@@ -8359,9 +8359,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "maledettissimo",
-                  "lemma": "maledettissimo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "maledetto",
+                  "pos": "adjective",
+                  "meaning": "superlative degree of maledetto"
                 }
               ]
             },
@@ -8372,9 +8372,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "corridor",
-                  "lemma": "corridor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "corridore",
+                  "pos": "adjective",
+                  "meaning": "running / racing"
                 },
                 {
                   "word": "così",
@@ -8385,8 +8385,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "oscuro",
                   "lemma": "oscuro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "dark / obscure"
                 }
               ]
             },
@@ -8397,9 +8397,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "spezzato",
-                  "lemma": "spezzato",
+                  "lemma": "spezzare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of spezzare"
                 },
                 {
                   "word": "mi",
@@ -8434,8 +8434,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "muro",
                   "lemma": "muro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "wall"
                 }
               ]
             },
@@ -8567,7 +8567,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Giudizio",
                   "lemma": "giudizio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "judgment, wisdom, sense / trial, proceedings, judgment, verdict"
                 }
               ]
             }
@@ -8622,13 +8622,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Basilio",
-                  "lemma": "basilio",
+                  "lemma": "Basilio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Basilio (music teacher)"
                 }
               ]
             }
@@ -8681,8 +8681,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "intoppo",
                   "lemma": "intoppo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "hitch, snag, obstacle, difficulty"
                 }
               ]
             }
@@ -8724,9 +8724,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Servitor",
-                  "lemma": "servitor",
+                  "lemma": "servitore",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "servant / server"
                 },
                 {
                   "word": "di",
@@ -8788,8 +8788,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "novità",
                   "lemma": "novità",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "novelty / item of news"
                 }
               ]
             },
@@ -8802,7 +8802,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "CONTE",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 },
                 {
                   "word": "e",
@@ -8812,9 +8812,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "FIGARO",
-                  "lemma": "figaro",
+                  "lemma": "Figaro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Figaro (valet to Count Almaviva)"
                 }
               ]
             },
@@ -8832,8 +8832,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "franchezza",
                   "lemma": "franchezza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "frankness"
                 },
                 {
                   "word": "ci",
@@ -8915,13 +8915,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Basilio",
-                  "lemma": "basilio",
+                  "lemma": "Basilio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Basilio (music teacher)"
                 },
                 {
                   "word": "come",
@@ -8991,7 +8991,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -9106,14 +9106,14 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "ii",
                   "lemma": "ii",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "ii"
                 },
                 {
                   "word": "Curiale",
                   "lemma": "curiale",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "curial / courtly"
                 }
               ]
             }
@@ -9140,7 +9140,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Curiale",
                   "lemma": "curiale",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "curial / courtly"
                 }
               ]
             }
@@ -9177,9 +9177,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "narrato",
-                  "lemma": "narrato",
+                  "lemma": "narrare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of narrare"
                 }
               ]
             },
@@ -9215,8 +9215,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "combinato",
                   "lemma": "combinato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "combined / joint, concerted"
                 }
               ]
             },
@@ -9303,13 +9303,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Bartolo",
-                  "lemma": "bartolo",
+                  "lemma": "Bartolo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Doctor Bartolo"
                 },
                 {
                   "word": "spiegatevi",
@@ -9367,13 +9367,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Basilio",
-                  "lemma": "basilio",
+                  "lemma": "Basilio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Basilio (music teacher)"
                 },
                 {
                   "word": "son",
@@ -9402,9 +9402,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Ascoltate",
-                  "lemma": "ascoltate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ascoltare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "un",
@@ -9476,9 +9476,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "ascoltate",
-                  "lemma": "ascoltate",
+                  "lemma": "ascoltare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "un",
@@ -9525,7 +9525,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -9556,7 +9556,7 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -9574,9 +9574,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "scopra",
-                  "lemma": "scopra",
+                  "lemma": "scoprire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "ho",
@@ -9593,8 +9593,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "timore",
                   "lemma": "timore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fear, dread, worry, alarm / awe, fear"
                 }
               ]
             },
@@ -9724,9 +9724,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "mando",
-                  "lemma": "mando",
+                  "lemma": "mandare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of mandare"
                 },
                 {
                   "word": "via",
@@ -9795,7 +9795,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "tremar",
                   "lemma": "tremar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of tremare"
                 }
               ]
             }
@@ -9838,9 +9838,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "disperar",
-                  "lemma": "disperar",
+                  "lemma": "disperare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to no longer have hope to achieve or obtain ; to despair; to give up hope"
                 }
               ]
             }
@@ -9877,7 +9877,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -9915,8 +9915,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "arrivo",
                   "lemma": "arrivo",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "arrival / finish, finish line"
                 },
                 {
                   "word": "a",
@@ -9926,9 +9926,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "indovinar",
-                  "lemma": "indovinar",
+                  "lemma": "indovinare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to guess / to predict"
                 }
               ]
             }
@@ -9954,20 +9954,20 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "febbre",
                   "lemma": "febbre",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fever"
                 },
                 {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Basilio",
-                  "lemma": "basilio",
+                  "lemma": "Basilio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Basilio (music teacher)"
                 }
               ]
             },
@@ -9984,7 +9984,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -10004,7 +10004,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "passeggiar",
                   "lemma": "passeggiar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of passeggiare"
                 }
               ]
             }
@@ -10030,8 +10030,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "febbre",
                   "lemma": "febbre",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fever"
                 }
               ]
             }
@@ -10086,8 +10086,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "giallo",
                   "lemma": "giallo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "yellow / involving crimes and detective work"
                 },
                 {
                   "word": "come",
@@ -10131,8 +10131,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "giallo",
                   "lemma": "giallo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "yellow / involving crimes and detective work"
                 },
                 {
                   "word": "come",
@@ -10171,7 +10171,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Bagattella",
                   "lemma": "bagattella",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "trifle / bagatelle"
                 }
               ]
             },
@@ -10182,9 +10182,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Cospetton",
-                  "lemma": "cospetton",
+                  "lemma": "Cospetton",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Cospetton"
                 },
                 {
                   "word": "Che",
@@ -10195,8 +10195,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "tremarella",
                   "lemma": "tremarella",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "tremor, shakes, jitters"
                 }
               ]
             },
@@ -10214,14 +10214,14 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "febbre",
                   "lemma": "febbre",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fever"
                 },
                 {
                   "word": "scarlattina",
                   "lemma": "scarlattina",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "scarlet fever, scarlatina"
                 }
               ]
             }
@@ -10240,7 +10240,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Scarlattina",
                   "lemma": "scarlattina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "scarlet fever, scarlatina"
                 }
               ]
             }
@@ -10308,9 +10308,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "rovinar",
-                  "lemma": "rovinar",
+                  "lemma": "rovinare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to ruin, to wreck, to spoil, to botch / to collapse, to fall, to hurtle down, to crash down, to tumble"
                 }
               ]
             }
@@ -10474,9 +10474,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "riposar",
-                  "lemma": "riposar",
+                  "lemma": "riposare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to rest / to rest, to have a rest, to take a rest, to sleep, to stand"
                 }
               ]
             }
@@ -10556,7 +10556,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -10667,9 +10667,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "pregar",
-                  "lemma": "pregar",
+                  "lemma": "pregare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to pray / to pray to"
                 }
               ]
             }
@@ -10724,8 +10724,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "cera",
                   "lemma": "cera",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "wax"
                 }
               ]
             }
@@ -10749,8 +10749,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "cera",
                   "lemma": "cera",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "wax"
                 }
               ]
             },
@@ -10763,13 +10763,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "CONTE",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 },
                 {
                   "word": "FIGARO",
-                  "lemma": "figaro",
+                  "lemma": "Figaro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Figaro (valet to Count Almaviva)"
                 },
                 {
                   "word": "e",
@@ -10779,9 +10779,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "BARTOLO",
-                  "lemma": "bartolo",
+                  "lemma": "Bartolo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Doctor Bartolo"
                 }
               ]
             },
@@ -10943,8 +10943,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "seccatore",
                   "lemma": "seccatore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "nuisance, bother"
                 }
               ]
             },
@@ -10962,8 +10962,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "sonno",
                   "lemma": "sonno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "the state of being asleep; sleep, slumber / the need or desire for sleep; sleepiness"
                 },
                 {
                   "word": "e",
@@ -10974,8 +10974,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "sanità",
                   "lemma": "sanità",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "health / army medical corps"
                 }
               ]
             }
@@ -11037,9 +11037,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "diman",
-                  "lemma": "diman",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "dimane",
+                  "pos": "adverb",
+                  "meaning": "tomorrow"
                 },
                 {
                   "word": "si",
@@ -11049,9 +11049,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "parlerà",
-                  "lemma": "parlerà",
+                  "lemma": "parlare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of parlare"
                 }
               ]
             },
@@ -11068,9 +11068,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "gridate",
-                  "lemma": "gridate",
+                  "lemma": "gridare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "ho",
@@ -11106,8 +11106,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "Orsù",
                   "lemma": "orsù",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "come on!"
                 },
                 {
                   "word": "signor",
@@ -11119,13 +11119,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Bartolo",
-                  "lemma": "bartolo",
+                  "lemma": "Bartolo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Doctor Bartolo"
                 }
               ]
             }
@@ -11163,15 +11163,15 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Stringi",
-                  "lemma": "stringi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "stringere",
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "bravissimo",
-                  "lemma": "bravissimo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bravo",
+                  "pos": "adjective",
+                  "meaning": "superlative degree of bravo; very good"
                 }
               ]
             }
@@ -11188,21 +11188,21 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Rosina",
-                  "lemma": "rosina",
+                  "lemma": "Rosina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Rosina (ward of Bartolo)"
                 },
                 {
                   "word": "deh",
                   "lemma": "deh",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "pray! / ah! / alas!"
                 },
                 {
                   "word": "ascoltatemi",
                   "lemma": "ascoltatemi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of ascoltate, the second-person plural imperative form of ascoltare, with mi"
                 }
               ]
             }
@@ -11228,8 +11228,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "ascolto",
                   "lemma": "ascolto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "listening / reception"
                 },
                 {
                   "word": "eccomi",
@@ -11299,7 +11299,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "prendervi",
                   "lemma": "prendervi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive prendere with vi"
                 },
                 {
                   "word": "qui",
@@ -11365,7 +11365,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -11484,7 +11484,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "nell",
-                  "lemma": "nell'",
+                  "lemma": "nell",
                   "pos": "noun",
                   "meaning": "in-the"
                 },
@@ -11515,9 +11515,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "toccate",
-                  "lemma": "toccate",
+                  "lemma": "toccare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -11528,9 +11528,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "soffiate",
-                  "lemma": "soffiate",
+                  "lemma": "soffiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative/subjunctive / second-person plural imperative"
                 },
                 {
                   "word": "per",
@@ -11602,7 +11602,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -11645,9 +11645,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "affretto",
-                  "lemma": "affretto",
+                  "lemma": "affrettare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of affrettare"
                 }
               ]
             },
@@ -11659,8 +11659,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "die",
                   "lemma": "die",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of dì (“day”)"
                 },
                 {
                   "word": "a",
@@ -11682,9 +11682,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "stringerà",
-                  "lemma": "stringerà",
+                  "lemma": "stringere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of stringere"
                 }
               ]
             }
@@ -11709,9 +11709,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "avvertir",
-                  "lemma": "avvertir",
+                  "lemma": "avvertire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to inform, tell, notify / to warn, caution"
                 },
                 {
                   "word": "vi",
@@ -11791,7 +11791,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "inutile",
                   "lemma": "inutile",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "useless, unnecessary, needless / ineffective"
                 }
               ]
             },
@@ -11878,9 +11878,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "bravissimi",
-                  "lemma": "bravissimi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "bravissimo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of bravissimo"
                 }
               ]
             },
@@ -11893,13 +11893,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Sor",
                   "lemma": "sor",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "mister, sir"
                 },
                 {
                   "word": "Alonso",
-                  "lemma": "alonso",
+                  "lemma": "Alonso",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Alonso"
                 },
                 {
                   "word": "bravo",
@@ -11916,9 +11916,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Bravi",
-                  "lemma": "bravi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "bravo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of bravo"
                 }
               ]
             },
@@ -11948,15 +11948,15 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Bricconi",
-                  "lemma": "bricconi",
+                  "lemma": "briccone",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of briccone"
                 },
                 {
                   "word": "birbanti",
-                  "lemma": "birbanti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "birbante",
+                  "pos": "noun",
+                  "meaning": "plural of birbante"
                 }
               ]
             },
@@ -12004,9 +12004,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "giurato",
-                  "lemma": "giurato",
+                  "lemma": "giurare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of giurare"
                 }
               ]
             },
@@ -12029,9 +12029,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "crepar",
-                  "lemma": "crepar",
+                  "lemma": "crepare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to crack / to no longer be able to contain or tolerate; to burst [with di or da ‘from ’]"
                 }
               ]
             },
@@ -12079,9 +12079,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "accoppar",
-                  "lemma": "accoppar",
+                  "lemma": "accoppare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to beat to death / to bump off, to do in, to kill violently"
                 }
               ]
             },
@@ -12099,8 +12099,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "rabbia",
                   "lemma": "rabbia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "anger, chafe / rabies"
                 },
                 {
                   "word": "di",
@@ -12111,8 +12111,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "sdegno",
                   "lemma": "sdegno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "indignation, resentment / enmity, animosity"
                 }
               ]
             },
@@ -12135,9 +12135,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "crepar",
-                  "lemma": "crepar",
+                  "lemma": "crepare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to crack / to no longer be able to contain or tolerate; to burst [with di or da ‘from ’]"
                 }
               ]
             },
@@ -12148,15 +12148,15 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "ROSINA",
-                  "lemma": "rosina",
+                  "lemma": "Rosina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Rosina (ward of Bartolo)"
                 },
                 {
                   "word": "CONTE",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 },
                 {
                   "word": "e",
@@ -12166,9 +12166,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "FIGARO",
-                  "lemma": "figaro",
+                  "lemma": "Figaro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Figaro (valet to Count Almaviva)"
                 }
               ]
             },
@@ -12303,9 +12303,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "burlar",
-                  "lemma": "burlar",
+                  "lemma": "burlare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to make fun of, to mock"
                 }
               ]
             },
@@ -12316,15 +12316,15 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Tacete",
-                  "lemma": "tacete",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "tacere",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "tacete",
-                  "lemma": "tacete",
+                  "lemma": "tacere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -12441,7 +12441,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -12459,9 +12459,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "replicar",
-                  "lemma": "replicar",
+                  "lemma": "replicare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to reply, answer / to repeat"
                 }
               ]
             }
@@ -12496,8 +12496,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "disgraziato",
                   "lemma": "disgraziato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "poor, wretched / unfortunate, unlucky"
                 },
                 {
                   "word": "me",
@@ -12550,9 +12550,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "accorsi",
-                  "lemma": "accorsi",
+                  "lemma": "accorrere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of accorrere"
                 },
                 {
                   "word": "di",
@@ -12576,13 +12576,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Basilio",
-                  "lemma": "basilio",
+                  "lemma": "Basilio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Basilio (music teacher)"
                 },
                 {
                   "word": "sa",
@@ -12642,8 +12642,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "lé",
                   "lemma": "lé",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "lé"
                 },
                 {
                   "word": "Chi",
@@ -12684,9 +12684,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "Ambrogio",
-                  "lemma": "ambrogio",
+                  "lemma": "Ambrogio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ambrogio (servant to Bartolo)"
                 }
               ]
             },
@@ -12711,13 +12711,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Basilio",
-                  "lemma": "basilio",
+                  "lemma": "Basilio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Basilio (music teacher)"
                 },
                 {
                   "word": "qui",
@@ -12728,8 +12728,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "rimpetto",
                   "lemma": "rimpetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "alternative form of dirimpetto"
                 }
               ]
             },
@@ -12742,11 +12742,11 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "digli",
                   "lemma": "digli",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of di, the second-person singular imperative form of dire, with gli"
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -12790,8 +12790,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "immantinente",
                   "lemma": "immantinente",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "immediately, right away"
                 }
               ]
             },
@@ -12834,7 +12834,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "dirgli",
                   "lemma": "dirgli",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive dire with gli"
                 },
                 {
                   "word": "e",
@@ -12844,7 +12844,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -12950,8 +12950,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "guardia",
                   "lemma": "guardia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "guard / watch, guard duty, sentry duty"
                 }
               ]
             },
@@ -12968,9 +12968,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "piantati",
-                  "lemma": "piantati",
+                  "lemma": "piantato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "masculine plural of piantato"
                 },
                 {
                   "word": "alla",
@@ -13043,8 +13043,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "fido",
                   "lemma": "fido",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "faithful, loyal"
                 }
               ]
             },
@@ -13115,7 +13115,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "sospettoso",
                   "lemma": "sospettoso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "suspicious, mistrustful, distrustful"
                 }
               ]
             },
@@ -13200,9 +13200,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "tumulti",
-                  "lemma": "tumulti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tumulto",
+                  "pos": "noun",
+                  "meaning": "plural of tumulto"
                 },
                 {
                   "word": "in",
@@ -13237,9 +13237,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "litiga",
-                  "lemma": "litiga",
+                  "lemma": "litigare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "si",
@@ -13280,7 +13280,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -13348,8 +13348,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "brontolone",
                   "lemma": "brontolone",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "grumbling"
                 }
               ]
             },
@@ -13428,8 +13428,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "vecchiotto",
                   "lemma": "vecchiotto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "somewhat old"
                 },
                 {
                   "word": "cerca",
@@ -13508,9 +13508,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "pazza",
-                  "lemma": "pazza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pazzo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of pazzo"
                 }
               ]
             },
@@ -13551,9 +13551,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "legar",
-                  "lemma": "legar",
+                  "lemma": "legare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "bind, tie / unite"
                 }
               ]
             },
@@ -13625,9 +13625,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "delirar",
-                  "lemma": "delirar",
+                  "lemma": "delirare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to be delirious / to rave"
                 }
               ]
             },
@@ -13664,7 +13664,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "universale",
                   "lemma": "universale",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "universal"
                 }
               ]
             },
@@ -13694,8 +13694,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "pizzicore",
                   "lemma": "pizzicore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "itch"
                 }
               ]
             },
@@ -13713,8 +13713,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "solletico",
                   "lemma": "solletico",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "tickling, tingling / itch"
                 },
                 {
                   "word": "un",
@@ -13725,8 +13725,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "tormento",
                   "lemma": "tormento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "torment / agony"
                 }
               ]
             },
@@ -13737,9 +13737,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Poverina",
-                  "lemma": "poverina",
+                  "lemma": "poverino",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "female equivalent of poverino"
                 },
                 {
                   "word": "anch'io",
@@ -13786,9 +13786,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "finirà",
-                  "lemma": "finirà",
+                  "lemma": "finire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of finire"
                 }
               ]
             },
@@ -13806,8 +13806,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "vecchiaia",
                   "lemma": "vecchiaia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "old age"
                 },
                 {
                   "word": "maledetta",
@@ -13842,9 +13842,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "disprezzata",
-                  "lemma": "disprezzata",
+                  "lemma": "disprezzato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of disprezzato"
                 }
               ]
             },
@@ -13861,15 +13861,15 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "vecchietta",
-                  "lemma": "vecchietta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vecchia",
+                  "pos": "noun",
+                  "meaning": "diminutive of vecchia: little old woman"
                 },
                 {
                   "word": "disperata",
-                  "lemma": "disperata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "disperato",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of disperato"
                 }
               ]
             },
@@ -13898,9 +13898,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "crepar",
-                  "lemma": "crepar",
+                  "lemma": "crepare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to crack / to no longer be able to contain or tolerate; to burst [with di or da ‘from ’]"
                 }
               ]
             }
@@ -13942,13 +13942,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Alonso",
-                  "lemma": "alonso",
+                  "lemma": "Alonso",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Alonso"
                 }
               ]
             },
@@ -13972,8 +13972,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "affatto",
                   "lemma": "affatto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "completely"
                 }
               ]
             }
@@ -13991,8 +13991,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "Affatto",
                   "lemma": "affatto",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "completely"
                 }
               ]
             }
@@ -14024,8 +14024,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "notaro",
                   "lemma": "notaro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "notary (Carlino)"
                 }
               ]
             },
@@ -14048,7 +14048,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "sull",
-                  "lemma": "sull'",
+                  "lemma": "sull",
                   "pos": "noun",
                   "meaning": "on-the"
                 },
@@ -14092,8 +14092,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "portone",
                   "lemma": "portone",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "entrance / front door"
                 },
                 {
                   "word": "andate",
@@ -14172,9 +14172,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "salti",
-                  "lemma": "salti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "salto",
+                  "pos": "noun",
+                  "meaning": "plural of salto"
                 },
                 {
                   "word": "io",
@@ -14226,15 +14226,15 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "Rosina",
-                  "lemma": "rosina",
+                  "lemma": "Rosina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Rosina (ward of Bartolo)"
                 },
                 {
                   "word": "Rosina",
-                  "lemma": "rosina",
+                  "lemma": "Rosina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Rosina (ward of Bartolo)"
                 }
               ]
             },
@@ -14306,9 +14306,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "novella",
-                  "lemma": "novella",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "novello",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of novello"
                 }
               ]
             },
@@ -14319,9 +14319,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Sappiate",
-                  "lemma": "sappiate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "sapere",
+                  "pos": "verb",
+                  "meaning": "second-person plural present subjunctive / second-person plural imperative"
                 }
               ]
             },
@@ -14333,8 +14333,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "th'ei",
                   "lemma": "th'ei",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "th'ei"
                 },
                 {
                   "word": "si",
@@ -14368,7 +14368,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -14469,9 +14469,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Vegga",
-                  "lemma": "vegga",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "vedere",
+                  "pos": "verb",
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 }
               ]
             }
@@ -14494,9 +14494,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "chiuditi",
-                  "lemma": "chiuditi",
+                  "lemma": "chiudersi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular imperative of chiudersi"
                 },
                 {
                   "word": "presto",
@@ -14556,8 +14556,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "crudei",
                   "lemma": "crudei",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "crudei"
                 },
                 {
                   "word": "la",
@@ -14591,10 +14591,10 @@ export const barbiereDiSivigliaAct2: Act = {
               "literal": "<i>A storm breaks out.",
               "tokens": [
                 {
-                  "word": "<i>Scoppia",
-                  "lemma": "<i>scoppia",
+                  "word": "Scoppia",
+                  "lemma": "scoppiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "un",
@@ -14606,7 +14606,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "temporale",
                   "lemma": "temporale",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "time; temporal / worldly, temporal, secular"
                 }
               ]
             },
@@ -14636,8 +14636,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "prospetto",
                   "lemma": "prospetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "summary table / prospectus, brochure"
                 },
                 {
                   "word": "si",
@@ -14653,15 +14653,15 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "frequenti",
-                  "lemma": "frequenti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "frequente",
+                  "pos": "adjective",
+                  "meaning": "plural of frequente"
                 },
                 {
                   "word": "lampi",
-                  "lemma": "lampi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "lampo",
+                  "pos": "noun",
+                  "meaning": "plural of lampo"
                 },
                 {
                   "word": "e",
@@ -14702,8 +14702,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "tuono",
                   "lemma": "tuono",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "thunder / a loud roaring noise; thunder, rumble"
                 },
                 {
                   "word": "Sulla",
@@ -14727,7 +14727,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "temporale",
                   "lemma": "temporale",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "time; temporal / worldly, temporal, secular"
                 },
                 {
                   "word": "si",
@@ -14761,9 +14761,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "aprirsi",
-                  "lemma": "aprirsi",
+                  "lemma": "aprire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "reflexive of aprire / to open"
                 },
                 {
                   "word": "la",
@@ -14815,9 +14815,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "Figaro",
-                  "lemma": "figaro",
+                  "lemma": "Figaro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Figaro (valet to Count Almaviva)"
                 },
                 {
                   "word": "ed",
@@ -14835,13 +14835,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Conte",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 },
                 {
                   "word": "avvolti",
-                  "lemma": "avvolti",
+                  "lemma": "avvolto",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "masculine plural of avvolto"
                 },
                 {
                   "word": "in",
@@ -14851,9 +14851,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "mantelli",
-                  "lemma": "mantelli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "mantello",
+                  "pos": "noun",
+                  "meaning": "plural of mantello"
                 },
                 {
                   "word": "e",
@@ -14865,7 +14865,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "bagnati",
                   "lemma": "bagnati",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of bagna, the second-person singular imperative form of bagnare, with ti"
                 },
                 {
                   "word": "dalla",
@@ -14876,14 +14876,14 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "pioggia",
                   "lemma": "pioggia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "rain / shower"
                 },
                 {
                   "word": "Figaro",
-                  "lemma": "figaro",
+                  "lemma": "Figaro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Figaro (valet to Count Almaviva)"
                 },
                 {
                   "word": "avrà",
@@ -14910,10 +14910,10 @@ export const barbiereDiSivigliaAct2: Act = {
                   "meaning": "a / an"
                 },
                 {
-                  "word": "lanterna.</i>",
-                  "lemma": "lanterna.</i>",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "lanterna",
+                  "lemma": "lanterna",
+                  "pos": "noun",
+                  "meaning": "lantern / lighthouse"
                 }
               ]
             }
@@ -14940,8 +14940,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "Alfine",
                   "lemma": "alfine",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "finally, at last"
                 },
                 {
                   "word": "eccoci",
@@ -14970,9 +14970,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Figaro",
-                  "lemma": "figaro",
+                  "lemma": "Figaro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Figaro (valet to Count Almaviva)"
                 },
                 {
                   "word": "dammi",
@@ -15026,8 +15026,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "indiavolato",
                   "lemma": "indiavolato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "furious / high-spirited, wild"
                 }
               ]
             }
@@ -15056,9 +15056,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "innamorati",
-                  "lemma": "innamorati",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "innamorato",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of innamorato"
                 }
               ]
             }
@@ -15085,7 +15085,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "fammi",
                   "lemma": "fammi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of fa', the second-person singular imperative form of fare, with mi"
                 },
                 {
                   "word": "lume",
@@ -15114,9 +15114,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "Rosina",
-                  "lemma": "rosina",
+                  "lemma": "Rosina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Rosina (ward of Bartolo)"
                 }
               ]
             }
@@ -15215,8 +15215,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "Indietro",
                   "lemma": "indietro",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "back, behind, backwards"
                 }
               ]
             },
@@ -15233,9 +15233,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "scellerata",
-                  "lemma": "scellerata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "scellerato",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of scellerato"
                 },
                 {
                   "word": "io",
@@ -15270,15 +15270,15 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "stolta",
-                  "lemma": "stolta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "stolto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of stolto"
                 },
                 {
                   "word": "credulità",
                   "lemma": "credulità",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "credulity"
                 },
                 {
                   "word": "venni",
@@ -15289,8 +15289,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "soltanto",
                   "lemma": "soltanto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "only, just, but, alone, merely"
                 }
               ]
             },
@@ -15307,9 +15307,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "riparar",
-                  "lemma": "riparar",
+                  "lemma": "riparare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to repair, to fix, to mend / to repair, to fix, to mend [with a]"
                 },
                 {
                   "word": "lo",
@@ -15333,7 +15333,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "dimostrarti",
                   "lemma": "dimostrarti",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive dimostrare with ti"
                 }
               ]
             },
@@ -15345,8 +15345,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "quai",
                   "lemma": "quai",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "quay, wharf / platform"
                 },
                 {
                   "word": "sono",
@@ -15381,9 +15381,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "perdesti",
-                  "lemma": "perdesti",
+                  "lemma": "perdere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular past historic of perdere"
                 },
                 {
                   "word": "anima",
@@ -15405,9 +15405,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "sconoscente",
-                  "lemma": "sconoscente",
+                  "lemma": "sconoscere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "present participle of sconoscere"
                 }
               ]
             }
@@ -15445,8 +15445,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "sasso",
                   "lemma": "sasso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "stone, rock / stone, rock, boulder, pebble"
                 }
               ]
             }
@@ -15539,9 +15539,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "Fingesti",
-                  "lemma": "fingesti",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "fingere",
+                  "pos": "verb",
+                  "meaning": "second-person singular past historic of fingere"
                 },
                 {
                   "word": "amore",
@@ -15566,7 +15566,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "vendermi",
                   "lemma": "vendermi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive vendere with mi"
                 },
                 {
                   "word": "alle",
@@ -15615,13 +15615,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Conte",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 },
                 {
                   "word": "Almaviva",
-                  "lemma": "almaviva",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "Almaviva",
+                  "pos": "noun",
+                  "meaning": "Count Almaviva"
                 }
               ]
             }
@@ -15648,7 +15648,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Conte",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 },
                 {
                   "word": "Ah",
@@ -15664,9 +15664,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "delusa",
-                  "lemma": "delusa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "deluso",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of deluso"
                 },
                 {
                   "word": "oh",
@@ -15720,9 +15720,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Almaviva",
-                  "lemma": "almaviva",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "Almaviva",
+                  "pos": "noun",
+                  "meaning": "Count Almaviva"
                 },
                 {
                   "word": "son",
@@ -15750,9 +15750,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "Lindoro",
-                  "lemma": "lindoro",
+                  "lemma": "Lindoro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Lindoro"
                 }
               ]
             }
@@ -15778,8 +15778,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "quai",
                   "lemma": "quai",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "quay, wharf / platform"
                 },
                 {
                   "word": "colpo",
@@ -15790,8 +15790,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "inaspettato",
                   "lemma": "inaspettato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "unexpected, sudden, unforeseen, untimely"
                 }
               ]
             },
@@ -15851,9 +15851,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "sorpresa",
-                  "lemma": "sorpresa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sorpreso",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of sorpreso"
                 },
                 {
                   "word": "e",
@@ -15900,9 +15900,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "delirar",
-                  "lemma": "delirar",
+                  "lemma": "delirare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to be delirious / to rave"
                 }
               ]
             }
@@ -15927,9 +15927,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "rimasti",
-                  "lemma": "rimasti",
+                  "lemma": "rimasto",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "masculine plural of rimasto"
                 },
                 {
                   "word": "senza",
@@ -15940,8 +15940,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "fiato",
                   "lemma": "fiato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "breath / wind instrument"
                 }
               ]
             },
@@ -15960,7 +15960,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "muoion",
                   "lemma": "muoion",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of muoiono"
                 },
                 {
                   "word": "di",
@@ -16008,8 +16008,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "talento",
                   "lemma": "talento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "wish, will, desire, longing / inclination, tendency"
                 }
               ]
             },
@@ -16067,7 +16067,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Quai",
                   "lemma": "quai",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "quay, wharf / platform"
                 },
                 {
                   "word": "trionfo",
@@ -16078,8 +16078,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "inaspettato",
                   "lemma": "inaspettato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "unexpected, sudden, unforeseen, untimely"
                 }
               ]
             },
@@ -16133,7 +16133,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -16188,9 +16188,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "delirar",
-                  "lemma": "delirar",
+                  "lemma": "delirare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to be delirious / to rave"
                 }
               ]
             }
@@ -16349,8 +16349,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "idol",
                   "lemma": "idol",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "apocopic form of idolo"
                 },
                 {
                   "word": "mio",
@@ -16360,7 +16360,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -16441,8 +16441,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "quai",
                   "lemma": "quai",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "quay, wharf / platform"
                 },
                 {
                   "word": "gioia",
@@ -16495,9 +16495,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "contenta",
-                  "lemma": "contenta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "contento",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of contento"
                 }
               ]
             }
@@ -16539,9 +16539,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "ROSINA",
-                  "lemma": "rosina",
+                  "lemma": "Rosina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Rosina (ward of Bartolo)"
                 },
                 {
                   "word": "e",
@@ -16553,7 +16553,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "CONTE",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 }
               ]
             },
@@ -16577,8 +16577,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "avventurato",
                   "lemma": "avventurato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "lucky, fortunate / risky, venturous"
                 }
               ]
             },
@@ -16601,9 +16601,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "paghi",
-                  "lemma": "paghi",
+                  "lemma": "pagare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "i",
@@ -16619,9 +16619,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "desiri",
-                  "lemma": "desiri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "desire",
+                  "pos": "noun",
+                  "meaning": "plural of desire / plural of desiro"
                 }
               ]
             },
@@ -16645,8 +16645,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "de",
                   "lemma": "de",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "alternative form of di"
                 },
                 {
                   "word": "miei",
@@ -16656,9 +16656,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "martiri",
-                  "lemma": "martiri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "martire",
+                  "pos": "noun",
+                  "meaning": "plural of martire"
                 }
               ]
             },
@@ -16675,9 +16675,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "sentisti",
-                  "lemma": "sentisti",
+                  "lemma": "sentire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular past historic of sentire"
                 },
                 {
                   "word": "amor",
@@ -16726,9 +16726,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "sbrigate",
-                  "lemma": "sbrigate",
+                  "lemma": "sbrigare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -16782,9 +16782,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "tarda",
-                  "lemma": "tarda",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tardo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of tardo"
                 },
                 {
                   "word": "i",
@@ -16800,9 +16800,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "raggiri",
-                  "lemma": "raggiri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "raggiro",
+                  "pos": "noun",
+                  "meaning": "plural of raggiro"
                 }
               ]
             },
@@ -16851,8 +16851,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "cospetto",
                   "lemma": "cospetto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "presence"
                 },
                 {
                   "word": "che",
@@ -16918,9 +16918,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "persone",
-                  "lemma": "persone",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "persona",
+                  "pos": "noun",
+                  "meaning": "plural of persona"
                 },
                 {
                   "word": "che",
@@ -16973,9 +16973,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "persone",
-                  "lemma": "persone",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "persona",
+                  "pos": "noun",
+                  "meaning": "plural of persona"
                 },
                 {
                   "word": "Una",
@@ -17025,15 +17025,15 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "ROSINA",
-                  "lemma": "rosina",
+                  "lemma": "Rosina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Rosina (ward of Bartolo)"
                 },
                 {
                   "word": "CONTE",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 },
                 {
                   "word": "e",
@@ -17043,9 +17043,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "FIGARO",
-                  "lemma": "figaro",
+                  "lemma": "Figaro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Figaro (valet to Count Almaviva)"
                 }
               ]
             },
@@ -17163,8 +17163,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "balcone",
                   "lemma": "balcone",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "balcony"
                 }
               ]
             },
@@ -17224,9 +17224,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "disgraziati",
-                  "lemma": "disgraziati",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "disgraziato",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of disgraziato"
                 },
                 {
                   "word": "noi",
@@ -17360,7 +17360,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -17441,8 +17441,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "levata",
                   "lemma": "levata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "rising / collection"
                 }
               ]
             }
@@ -17466,8 +17466,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "inciampo",
                   "lemma": "inciampo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "obstacle / stumbling block"
                 },
                 {
                   "word": "crudel",
@@ -17496,9 +17496,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "sventurata",
-                  "lemma": "sventurata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sventurato",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of sventurato"
                 }
               ]
             }
@@ -17515,9 +17515,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Zi",
-                  "lemma": "zi",
+                  "lemma": "Zi",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Zi"
                 },
                 {
                   "word": "Zitti",
@@ -17615,9 +17615,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "Rosina",
-                  "lemma": "rosina",
+                  "lemma": "Rosina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Rosina (ward of Bartolo)"
                 },
                 {
                   "word": "coraggio",
@@ -17680,25 +17680,25 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Bartolo",
-                  "lemma": "bartolo",
+                  "lemma": "Bartolo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Doctor Bartolo"
                 },
                 {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Bartolo",
-                  "lemma": "bartolo",
+                  "lemma": "Bartolo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Doctor Bartolo"
                 }
               ]
             }
@@ -17719,13 +17719,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Basilio",
-                  "lemma": "basilio",
+                  "lemma": "Basilio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Basilio (music teacher)"
                 }
               ]
             }
@@ -17748,7 +17748,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "quell",
-                  "lemma": "quell'",
+                  "lemma": "quell",
                   "pos": "noun",
                   "meaning": "that"
                 },
@@ -17800,8 +17800,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "notaro",
                   "lemma": "notaro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "notary (Carlino)"
                 },
                 {
                   "word": "Allegramente",
@@ -17850,7 +17850,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Notaro",
                   "lemma": "notaro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "notary (Carlino)"
                 }
               ]
             },
@@ -17861,9 +17861,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "dovevate",
-                  "lemma": "dovevate",
+                  "lemma": "dovere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural imperfect indicative of dovere"
                 },
                 {
                   "word": "in",
@@ -17892,9 +17892,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "stipular",
-                  "lemma": "stipular",
+                  "lemma": "stipulare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to draw up or finalize"
                 },
                 {
                   "word": "questa",
@@ -17923,9 +17923,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "contratto",
-                  "lemma": "contratto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "contrarre",
+                  "pos": "adjective",
+                  "meaning": "past participle of contrarre / contracted, shrunk, tense"
                 },
                 {
                   "word": "di",
@@ -17936,8 +17936,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "nozze",
                   "lemma": "nozze",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "wedding"
                 }
               ]
             },
@@ -17961,20 +17961,20 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "conte",
                   "lemma": "conte",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Count (Count Almaviva)"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "Almaviva",
-                  "lemma": "almaviva",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "Almaviva",
+                  "pos": "noun",
+                  "meaning": "Count Almaviva"
                 },
                 {
                   "word": "e",
@@ -17991,8 +17991,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "nipote",
                   "lemma": "nipote",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "grandchild, grandson, granddaughter / nephew, niece, nibling"
                 }
               ]
             },
@@ -18034,8 +18034,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "indosso",
                   "lemma": "indosso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "on"
                 }
               ]
             },
@@ -18053,14 +18053,14 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "scrittura",
                   "lemma": "scrittura",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "handwriting / scripture"
                 },
                 {
                   "word": "Benissimo",
-                  "lemma": "benissimo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "bene",
+                  "pos": "adverb",
+                  "meaning": "superlative degree of bene: very well"
                 }
               ]
             }
@@ -18098,13 +18098,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Bartolo",
-                  "lemma": "bartolo",
+                  "lemma": "Bartolo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Doctor Bartolo"
                 },
                 {
                   "word": "dov'è",
@@ -18137,13 +18137,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Basilio",
-                  "lemma": "basilio",
+                  "lemma": "Basilio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Basilio (music teacher)"
                 }
               ]
             },
@@ -18154,7 +18154,7 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
@@ -18267,9 +18267,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "palle",
-                  "lemma": "palle",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "palla",
+                  "pos": "noun",
+                  "meaning": "plural of palla / courage, bravery"
                 },
                 {
                   "word": "nel",
@@ -18298,15 +18298,15 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
                 {
                   "word": "opponete",
-                  "lemma": "opponete",
+                  "lemma": "opporre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -18363,8 +18363,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "firma",
                   "lemma": "firma",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "signature / signature"
                 }
               ]
             },
@@ -18377,7 +18377,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "CONTE",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 },
                 {
                   "word": "e",
@@ -18387,9 +18387,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "ROSINA",
-                  "lemma": "rosina",
+                  "lemma": "Rosina",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Rosina (ward of Bartolo)"
                 }
               ]
             },
@@ -18425,9 +18425,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "testimoni",
-                  "lemma": "testimoni",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "testimone",
+                  "pos": "noun",
+                  "meaning": "plural of testimone"
                 }
               ]
             },
@@ -18438,9 +18438,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Figaro",
-                  "lemma": "figaro",
+                  "lemma": "Figaro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Figaro (valet to Count Almaviva)"
                 },
                 {
                   "word": "e",
@@ -18452,13 +18452,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Basilio",
-                  "lemma": "basilio",
+                  "lemma": "Basilio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Basilio (music teacher)"
                 },
                 {
                   "word": "Essa",
@@ -18493,9 +18493,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "FIGARO",
-                  "lemma": "figaro",
+                  "lemma": "Figaro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Figaro (valet to Count Almaviva)"
                 },
                 {
                   "word": "e",
@@ -18505,9 +18505,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "BASILIO",
-                  "lemma": "basilio",
+                  "lemma": "Basilio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Basilio (music teacher)"
                 }
               ]
             },
@@ -18576,9 +18576,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "sospirata",
-                  "lemma": "sospirata",
+                  "lemma": "sospirato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of sospirato"
                 },
                 {
                   "word": "mia",
@@ -18601,9 +18601,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "FIGARO",
-                  "lemma": "figaro",
+                  "lemma": "Figaro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Figaro (valet to Count Almaviva)"
                 },
                 {
                   "word": "e",
@@ -18613,9 +18613,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "BASILIO",
-                  "lemma": "basilio",
+                  "lemma": "Basilio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Don Basilio (music teacher)"
                 }
               ]
             },
@@ -18647,9 +18647,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Fermi",
-                  "lemma": "fermi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "fermo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of fermo"
                 },
                 {
                   "word": "tutti",
@@ -18740,15 +18740,15 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Arrestate",
-                  "lemma": "arrestate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "arrestare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "arrestate",
-                  "lemma": "arrestate",
+                  "lemma": "arrestare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -18852,7 +18852,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -18870,7 +18870,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -18897,19 +18897,19 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Conte",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "Almaviva",
-                  "lemma": "almaviva",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "Almaviva",
+                  "pos": "noun",
+                  "meaning": "Count Almaviva"
                 },
                 {
                   "word": "io",
@@ -18945,8 +18945,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "insomnia",
                   "lemma": "insomnia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "insomnia"
                 },
                 {
                   "word": "io",
@@ -18974,9 +18974,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "torti",
-                  "lemma": "torti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "torto",
+                  "pos": "noun",
+                  "meaning": "plural of torto"
                 }
               ]
             }
@@ -19000,8 +19000,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "purtroppo",
                   "lemma": "purtroppo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "unfortunately, regretfully, regrettably"
                 },
                 {
                   "word": "è",
@@ -19071,7 +19071,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "tradirmi",
                   "lemma": "tradirmi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive tradire with mi"
                 },
                 {
                   "word": "e",
@@ -19094,8 +19094,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "testimonio",
                   "lemma": "testimonio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "testimony / evidence, proof"
                 }
               ]
             }
@@ -19120,13 +19120,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Don",
                   "lemma": "don",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Father / A title of respect to a man : sir"
                 },
                 {
                   "word": "Bartolo",
-                  "lemma": "bartolo",
+                  "lemma": "Bartolo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Doctor Bartolo"
                 },
                 {
                   "word": "mio",
@@ -19150,7 +19150,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "Conte",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 }
               ]
             },
@@ -19161,9 +19161,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "certe",
-                  "lemma": "certe",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "certo",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of certo"
                 },
                 {
                   "word": "ragioni",
@@ -19204,9 +19204,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "argomenti",
-                  "lemma": "argomenti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "argomento",
+                  "pos": "noun",
+                  "meaning": "plural of argomento"
                 },
                 {
                   "word": "a",
@@ -19272,8 +19272,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "solenne",
                   "lemma": "solenne",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "solemn, high / solemn, grave"
                 }
               ]
             },
@@ -19298,7 +19298,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "assicurare",
                   "lemma": "assicurare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to assure, guarantee / to ensure, provide"
                 },
                 {
                   "word": "il",
@@ -19321,9 +19321,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "portai",
-                  "lemma": "portai",
+                  "lemma": "portare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of portare"
                 },
                 {
                   "word": "via",
@@ -19352,8 +19352,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "balcone",
                   "lemma": "balcone",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "balcony"
                 }
               ]
             }
@@ -19394,15 +19394,15 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "Inutil",
-                  "lemma": "inutil",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "inutile",
+                  "pos": "adjective",
+                  "meaning": "useless / vain / futile"
                 },
                 {
                   "word": "precauzione",
                   "lemma": "precauzione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "precaution / care"
                 }
               ]
             }
@@ -19440,8 +19440,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "innesto",
                   "lemma": "innesto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "graft, grafting / clutch"
                 }
               ],
               "grammarNote": "'Of so happy a union, let eternal love bloom.' The celebratory final ensemble."
@@ -19453,21 +19453,21 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "serbiam",
-                  "lemma": "serbiam",
+                  "lemma": "serbare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "memoria",
                   "lemma": "memoria",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "memory, recall / memory, recollection, remembrance"
                 },
                 {
                   "word": "eterna",
-                  "lemma": "eterna",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "eterno",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of eterno"
                 }
               ]
             },
@@ -19484,9 +19484,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "smorzo",
-                  "lemma": "smorzo",
+                  "lemma": "smorzare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of smorzare"
                 },
                 {
                   "word": "la",
@@ -19558,9 +19558,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Costò",
-                  "lemma": "costò",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "costare",
+                  "pos": "verb",
+                  "meaning": "third-person singular past historic of costare"
                 },
                 {
                   "word": "sospiri",
@@ -19577,8 +19577,8 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "pene",
                   "lemma": "pene",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "penis"
                 }
               ]
             },
@@ -19621,20 +19621,20 @@ export const barbiereDiSivigliaAct2: Act = {
                 {
                   "word": "alhn",
                   "lemma": "alhn",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alhn"
                 },
                 {
                   "word": "quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
                 {
                   "word": "alma",
-                  "lemma": "alma",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "anima",
+                  "pos": "noun",
+                  "meaning": "soul / spirit (poetic for anima)"
                 },
                 {
                   "word": "amante",
@@ -19651,9 +19651,9 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "comincia",
-                  "lemma": "comincia",
+                  "lemma": "cominciare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "a",
@@ -19665,7 +19665,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "respirar",
                   "lemma": "respirar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of respirare"
                 }
               ]
             }
@@ -19682,7 +19682,7 @@ export const barbiereDiSivigliaAct2: Act = {
               "tokens": [
                 {
                   "word": "Dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
@@ -19690,13 +19690,13 @@ export const barbiereDiSivigliaAct2: Act = {
                   "word": "umile",
                   "lemma": "umile",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "humble"
                 },
                 {
                   "word": "Lindoro",
-                  "lemma": "lindoro",
+                  "lemma": "Lindoro",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Lindoro"
                 }
               ]
             },
@@ -19768,7 +19768,7 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -19805,9 +19805,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "giubilar",
-                  "lemma": "giubilar",
+                  "lemma": "giubilare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to rejoice / to send off, to retire  after long service; to pension"
                 }
               ]
             }
@@ -19842,9 +19842,9 @@ export const barbiereDiSivigliaAct2: Act = {
                 },
                 {
                   "word": "eterna",
-                  "lemma": "eterna",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "eterno",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of eterno"
                 }
               ]
             },
@@ -19878,7 +19878,7 @@ export const barbiereDiSivigliaAct2: Act = {
                   "meaning": "you (plural)"
                 },
                 {
-                  "word": "regnar.",
+                  "word": "regnar",
                   "lemma": "regnare",
                   "pos": "verb",
                   "meaning": "to reign / rule"

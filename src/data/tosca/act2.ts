@@ -26,9 +26,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Tosca",
-                  "lemma": "tosca",
+                  "lemma": "Tosca",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Floria Tosca (celebrated singer)"
                 },
                 {
                   "word": "è",
@@ -51,8 +51,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "falco",
                   "lemma": "falco",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "hawk, falcon / fierce and astute person"
                 }
               ],
               "grammarNote": "'Tosca is a fine falcon!' Scarpia gloats that Tosca's furious jealousy will guide his agents directly to the fugitive's hideaway."
@@ -76,7 +76,7 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
@@ -107,9 +107,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "segugi",
-                  "lemma": "segugi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "segugio",
+                  "pos": "noun",
+                  "meaning": "plural of segugio"
                 },
                 {
                   "word": "le",
@@ -125,15 +125,15 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "prede",
-                  "lemma": "prede",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "preda",
+                  "pos": "noun",
+                  "meaning": "plural of preda"
                 },
                 {
                   "word": "azzannano",
-                  "lemma": "azzannano",
+                  "lemma": "azzannare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of azzannare"
                 }
               ]
             },
@@ -144,9 +144,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Doman",
-                  "lemma": "doman",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "domare",
+                  "pos": "verb",
+                  "meaning": "third-person plural present indicative of domare"
                 },
                 {
                   "word": "sul",
@@ -157,8 +157,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "palco",
                   "lemma": "palco",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "stand, platform / stage"
                 }
               ]
             },
@@ -194,9 +194,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Angelotti",
-                  "lemma": "angelotti",
+                  "lemma": "Angelotti",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Cesare Angelotti (consul of the Roman Republic)"
                 },
                 {
                   "word": "e",
@@ -220,7 +220,7 @@ export const toscaAct2: Act = {
                   "word": "Mario",
                   "lemma": "mario",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a male given name, equivalent to English Marius"
                 },
                 {
                   "word": "al",
@@ -245,7 +245,7 @@ export const toscaAct2: Act = {
                   "word": "pendere",
                   "lemma": "pendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to droop / to hang"
                 }
               ]
             },
@@ -256,9 +256,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Tosca",
-                  "lemma": "tosca",
+                  "lemma": "Tosca",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Floria Tosca (celebrated singer)"
                 },
                 {
                   "word": "è",
@@ -275,8 +275,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "palazzo",
                   "lemma": "palazzo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a royal palace / a palatial urban building, a palazzo"
                 }
               ]
             }
@@ -299,9 +299,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "ciambellan",
-                  "lemma": "ciambellan",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ciambellano",
+                  "pos": "noun",
+                  "meaning": "chamberlain"
                 },
                 {
                   "word": "ne",
@@ -313,7 +313,7 @@ export const toscaAct2: Act = {
                   "word": "uscia",
                   "lemma": "uscia",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "alternative form of usciva: third-person singular imperfect indicative of uscire"
                 }
               ]
             },
@@ -369,9 +369,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Tarda",
-                  "lemma": "tarda",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "tardo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of tardo"
                 },
                 {
                   "word": "è",
@@ -407,8 +407,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "cantata",
                   "lemma": "cantata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "song / singalong"
                 },
                 {
                   "word": "ancor",
@@ -419,8 +419,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "manca",
                   "lemma": "manca",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "left hand / left"
                 },
                 {
                   "word": "la",
@@ -431,8 +431,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "Diva",
                   "lemma": "diva",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a star / a goddess"
                 }
               ]
             },
@@ -449,15 +449,15 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "strimpellan",
-                  "lemma": "strimpellan",
+                  "lemma": "strimpellare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of strimpellare"
                 },
                 {
                   "word": "gavotte",
-                  "lemma": "gavotte",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "gavotta",
+                  "pos": "noun",
+                  "meaning": "plural of gavotta"
                 }
               ]
             },
@@ -474,9 +474,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "attenderai",
-                  "lemma": "attenderai",
+                  "lemma": "attendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular future of attendere"
                 },
                 {
                   "word": "la",
@@ -486,9 +486,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Tosca",
-                  "lemma": "tosca",
+                  "lemma": "Tosca",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Floria Tosca (celebrated singer)"
                 },
                 {
                   "word": "in",
@@ -498,7 +498,7 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "sull",
-                  "lemma": "sull'",
+                  "lemma": "sull",
                   "pos": "noun",
                   "meaning": "on-the"
                 },
@@ -529,7 +529,7 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -573,8 +573,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "cantata",
                   "lemma": "cantata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "song / singalong"
                 }
               ]
             },
@@ -610,9 +610,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "darai",
-                  "lemma": "darai",
+                  "lemma": "dare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular future of dare"
                 },
                 {
                   "word": "questo",
@@ -634,10 +634,10 @@ export const toscaAct2: Act = {
               "literal": "<i>Sciarrone exits",
               "tokens": [
                 {
-                  "word": "<i>Sciarrone",
-                  "lemma": "<i>sciarrone",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "Sciarrone",
+                  "lemma": "Sciarrone",
+                  "pos": "noun",
+                  "meaning": "Sciarrone (gendarme)"
                 },
                 {
                   "word": "esce",
@@ -678,9 +678,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "mescendosi",
-                  "lemma": "mescendosi",
+                  "lemma": "mescere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of mescere (si: oneself / him / her)"
                 },
                 {
                   "word": "da",
@@ -695,10 +695,10 @@ export const toscaAct2: Act = {
                   "meaning": "to drink"
                 },
                 {
-                  "word": "dice:</i>",
-                  "lemma": "dice:</i>",
+                  "word": "dice",
+                  "lemma": "dire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of dire"
                 }
               ]
             },
@@ -747,7 +747,7 @@ export const toscaAct2: Act = {
                   "word": "Mario",
                   "lemma": "mario",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a male given name, equivalent to English Marius"
                 }
               ]
             },
@@ -784,7 +784,7 @@ export const toscaAct2: Act = {
                   "word": "Mario",
                   "lemma": "mario",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a male given name, equivalent to English Marius"
                 },
                 {
                   "word": "al",
@@ -813,15 +813,15 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
                 {
                   "word": "arrenderà",
-                  "lemma": "arrenderà",
+                  "lemma": "arrendersi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of arrendersi"
                 },
                 {
                   "word": "Tal",
@@ -837,9 +837,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "profondi",
-                  "lemma": "profondi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "profondo",
+                  "pos": "noun",
+                  "meaning": "plural of profondo"
                 },
                 {
                   "word": "amori",
@@ -906,8 +906,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "sapore",
                   "lemma": "sapore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "taste, flavour/flavor, savor"
                 },
                 {
                   "word": "la",
@@ -918,14 +918,14 @@ export const toscaAct2: Act = {
                 {
                   "word": "conquista",
                   "lemma": "conquista",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "conquest, seizure, capture / attainment, achievement, breakthrough, gain"
                 },
                 {
                   "word": "violenta",
-                  "lemma": "violenta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "violento",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of violento"
                 }
               ]
             },
@@ -949,14 +949,14 @@ export const toscaAct2: Act = {
                 {
                   "word": "mellifluo",
                   "lemma": "mellifluo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "sugary, honeyed / mellifluous"
                 },
                 {
                   "word": "consenso",
                   "lemma": "consenso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "consent, assent, agreement, permission / approval, success"
                 },
                 {
                   "word": "Io",
@@ -997,15 +997,15 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "lattiginose",
-                  "lemma": "lattiginose",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "lattiginoso",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of lattiginoso"
                 },
                 {
                   "word": "albe",
-                  "lemma": "albe",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "alba",
+                  "pos": "noun",
+                  "meaning": "plural of alba"
                 },
                 {
                   "word": "lunari",
@@ -1034,9 +1034,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "appago",
-                  "lemma": "appago",
+                  "lemma": "appagare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of appagare"
                 },
                 {
                   "word": "Non",
@@ -1054,13 +1054,13 @@ export const toscaAct2: Act = {
                   "word": "trarre",
                   "lemma": "trarre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to draw, extract, pull / to elicit, generalise/generalize"
                 },
                 {
                   "word": "accordi",
-                  "lemma": "accordi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "accordo",
+                  "pos": "noun",
+                  "meaning": "plural of accordo"
                 }
               ]
             },
@@ -1078,8 +1078,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "chitarra",
                   "lemma": "chitarra",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "guitar / a tool used in making pasta: a frame with a series of parallel wires crossing it"
                 },
                 {
                   "word": "né",
@@ -1090,8 +1090,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "oroscopo",
                   "lemma": "oroscopo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "horoscope"
                 },
                 {
                   "word": "di",
@@ -1145,8 +1145,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "pesce",
                   "lemma": "pesce",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fish / penis"
                 }
               ]
             },
@@ -1163,9 +1163,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "tubar",
-                  "lemma": "tubar",
+                  "lemma": "tubare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to coo / to bill and coo"
                 },
                 {
                   "word": "come",
@@ -1176,8 +1176,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "tortora",
                   "lemma": "tortora",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "turtle dove"
                 }
               ]
             },
@@ -1207,8 +1207,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "bramata",
                   "lemma": "bramata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "cornflour  coarsely ground"
                 }
               ]
             },
@@ -1219,9 +1219,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "perseguo",
-                  "lemma": "perseguo",
+                  "lemma": "perseguire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of perseguire"
                 },
                 {
                   "word": "me",
@@ -1287,8 +1287,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "nuova",
                   "lemma": "nuova",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "news"
                 },
                 {
                   "word": "esca",
@@ -1304,15 +1304,15 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "creò",
-                  "lemma": "creò",
+                  "lemma": "creare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of creare"
                 },
                 {
                   "word": "diverse",
-                  "lemma": "diverse",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "diverso",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of diverso"
                 }
               ]
             },
@@ -1335,15 +1335,15 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "vini",
-                  "lemma": "vini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vino",
+                  "pos": "noun",
+                  "meaning": "plural of vino"
                 },
                 {
                   "word": "diversi",
-                  "lemma": "diversi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "diverso",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of diverso"
                 },
                 {
                   "word": "Io",
@@ -1359,9 +1359,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "gustar",
-                  "lemma": "gustar",
+                  "lemma": "gustare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to taste / to enjoy"
                 }
               ]
             },
@@ -1390,15 +1390,15 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
                 {
                   "word": "opra",
-                  "lemma": "opra",
+                  "lemma": "oprare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "divina",
@@ -1423,9 +1423,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Spoletta",
-                  "lemma": "spoletta",
+                  "lemma": "Spoletta",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Spoletta (police agent)"
                 },
                 {
                   "word": "è",
@@ -1436,8 +1436,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "giunto",
                   "lemma": "giunto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "joint, link, connection"
                 }
               ]
             }
@@ -1511,8 +1511,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "galantuomo",
                   "lemma": "galantuomo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "gentleman"
                 },
                 {
                   "word": "come",
@@ -1555,21 +1555,21 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Sant'Ignazio",
-                  "lemma": "sant'ignazio",
+                  "lemma": "Sant'ignazio",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Sant'ignazio"
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
                   "word": "aiuta",
-                  "lemma": "aiuta",
+                  "lemma": "aiutare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -1592,9 +1592,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "seguimmo",
-                  "lemma": "seguimmo",
+                  "lemma": "seguire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural past historic of seguire"
                 },
                 {
                   "word": "la",
@@ -1617,9 +1617,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Giunti",
-                  "lemma": "giunti",
+                  "lemma": "giunto",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of giunto"
                 },
                 {
                   "word": "a",
@@ -1636,14 +1636,14 @@ export const toscaAct2: Act = {
                 {
                   "word": "erma",
                   "lemma": "erma",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "herma; A bust of Hermes placed on a pillar and serving as a boundary stone"
                 },
                 {
                   "word": "villetta",
                   "lemma": "villetta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "small house with a garden; cottage, chalet"
                 }
               ]
             },
@@ -1666,15 +1666,15 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "fratte",
-                  "lemma": "fratte",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fratta",
+                  "pos": "noun",
+                  "meaning": "plural of fratta"
                 },
                 {
                   "word": "perduta",
-                  "lemma": "perduta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "perduto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of perduto"
                 }
               ]
             },
@@ -1691,7 +1691,7 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -1703,15 +1703,15 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "N",
-                  "lemma": "n'",
+                  "lemma": "n",
                   "pos": "noun",
                   "meaning": "of-it"
                 },
                 {
                   "word": "escì",
-                  "lemma": "escì",
+                  "lemma": "escire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of escire"
                 },
                 {
                   "word": "sola",
@@ -1746,9 +1746,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "scavalco",
-                  "lemma": "scavalco",
+                  "lemma": "scavalcare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of scavalcare"
                 },
                 {
                   "word": "lesto",
@@ -1772,8 +1772,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "muro",
                   "lemma": "muro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "wall"
                 },
                 {
                   "word": "del",
@@ -1783,9 +1783,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "giardin",
-                  "lemma": "giardin",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "giardino",
+                  "pos": "noun",
+                  "meaning": "garden"
                 },
                 {
                   "word": "coi",
@@ -1801,9 +1801,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "cagnotti",
-                  "lemma": "cagnotti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "cagnotto",
+                  "pos": "noun",
+                  "meaning": "plural of cagnotto"
                 }
               ]
             },
@@ -1821,8 +1821,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "piombo",
                   "lemma": "piombo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "lead / grey"
                 },
                 {
                   "word": "in",
@@ -1863,9 +1863,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Spoletta",
-                  "lemma": "spoletta",
+                  "lemma": "Spoletta",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Spoletta (police agent)"
                 }
               ]
             }
@@ -1885,20 +1885,20 @@ export const toscaAct2: Act = {
                 {
                   "word": "Fiuto",
                   "lemma": "fiuto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "smell / nose"
                 },
                 {
                   "word": "razzolo",
-                  "lemma": "razzolo",
+                  "lemma": "razzolare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of razzolare"
                 },
                 {
                   "word": "frugo",
-                  "lemma": "frugo",
+                  "lemma": "frugare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of frugare"
                 }
               ]
             }
@@ -1929,9 +1929,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Angelotti",
-                  "lemma": "angelotti",
+                  "lemma": "Angelotti",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Cesare Angelotti (consul of the Roman Republic)"
                 }
               ]
             }
@@ -1954,7 +1954,7 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -2006,8 +2006,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "traditore",
                   "lemma": "traditore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "traitor / adulterer"
                 }
               ]
             },
@@ -2049,9 +2049,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "forche",
-                  "lemma": "forche",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "forca",
+                  "pos": "noun",
+                  "meaning": "plural of forca"
                 }
               ]
             }
@@ -2072,7 +2072,7 @@ export const toscaAct2: Act = {
                   "word": "Gesù",
                   "lemma": "gesù",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Jesus"
                 }
               ]
             },
@@ -2083,7 +2083,7 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "C",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
@@ -2122,9 +2122,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Cavaradossi",
-                  "lemma": "cavaradossi",
+                  "lemma": "Cavaradossi",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Mario Cavaradossi (painter)"
                 }
               ]
             }
@@ -2173,7 +2173,7 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -2205,8 +2205,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "gesto",
                   "lemma": "gesto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "gesture, an act / gesture, a sign, a movement"
                 }
               ]
             },
@@ -2224,14 +2224,14 @@ export const toscaAct2: Act = {
                 {
                   "word": "accento",
                   "lemma": "accento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "stress / accent"
                 },
                 {
                   "word": "tradìa",
                   "lemma": "tradìa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "tradìa"
                 }
               ]
             },
@@ -2248,15 +2248,15 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "beffarda",
-                  "lemma": "beffarda",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "beffardo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of beffardo"
                 },
                 {
                   "word": "ironia",
                   "lemma": "ironia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "irony"
                 }
               ]
             },
@@ -2267,7 +2267,7 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -2285,9 +2285,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "trassi",
-                  "lemma": "trassi",
+                  "lemma": "trarre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of trarre"
                 },
                 {
                   "word": "in",
@@ -2298,8 +2298,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "arresto",
                   "lemma": "arresto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "arrest / stop, standstill"
                 }
               ]
             }
@@ -2370,9 +2370,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "TOSCA",
-                  "lemma": "tosca",
+                  "lemma": "Tosca",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Floria Tosca (celebrated singer)"
                 },
                 {
                   "word": "e",
@@ -2389,8 +2389,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "INTERNO",
                   "lemma": "interno",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "inside, indoor; internal, interior, inner / domestic, home, inland"
                 }
               ]
             },
@@ -2407,9 +2407,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "ascende",
-                  "lemma": "ascende",
+                  "lemma": "ascendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of ascendere"
                 },
                 {
                   "word": "l",
@@ -2419,15 +2419,15 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "uman",
-                  "lemma": "uman",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "umano",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of umano"
                 },
                 {
                   "word": "cantico",
                   "lemma": "cantico",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "canticle"
                 }
               ]
             },
@@ -2438,21 +2438,21 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Varca",
-                  "lemma": "varca",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "varcare",
+                  "pos": "verb",
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "spazi",
-                  "lemma": "spazi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "spazio",
+                  "pos": "noun",
+                  "meaning": "plural of spazio"
                 },
                 {
                   "word": "varca",
-                  "lemma": "varca",
+                  "lemma": "varcare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "cieli",
@@ -2475,9 +2475,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "ignoti",
-                  "lemma": "ignoti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ignoto",
+                  "pos": "noun",
+                  "meaning": "plural of ignoto"
                 },
                 {
                   "word": "soli",
@@ -2487,9 +2487,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "empirei",
-                  "lemma": "empirei",
+                  "lemma": "empire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular conditional of empire"
                 }
               ]
             },
@@ -2500,9 +2500,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Profetati",
-                  "lemma": "profetati",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "profetato",
+                  "pos": "verb",
+                  "meaning": "masculine plural of profetato"
                 },
                 {
                   "word": "dai",
@@ -2512,9 +2512,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Vangeli",
-                  "lemma": "vangeli",
+                  "lemma": "vangelo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of vangelo"
                 }
               ]
             },
@@ -2586,9 +2586,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "voli",
-                  "lemma": "voli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "volo",
+                  "pos": "noun",
+                  "meaning": "plural of volo"
                 },
                 {
                   "word": "a",
@@ -2623,21 +2623,21 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
                 {
                   "word": "inno",
                   "lemma": "inno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "hymn, song, anthem"
                 },
                 {
                   "word": "voli",
-                  "lemma": "voli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "volo",
+                  "pos": "noun",
+                  "meaning": "plural of volo"
                 }
               ]
             },
@@ -2649,8 +2649,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "Sommo",
                   "lemma": "sommo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "highest / greatest"
                 },
                 {
                   "word": "Iddio",
@@ -2709,9 +2709,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "secoli",
-                  "lemma": "secoli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "secolo",
+                  "pos": "noun",
+                  "meaning": "plural of secolo"
                 }
               ]
             },
@@ -2728,9 +2728,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "cantiche",
-                  "lemma": "cantiche",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "cantica",
+                  "pos": "noun",
+                  "meaning": "plural of cantica"
                 },
                 {
                   "word": "degli",
@@ -2753,15 +2753,15 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
                 {
                   "word": "inno",
                   "lemma": "inno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "hymn, song, anthem"
                 },
                 {
                   "word": "di",
@@ -2790,9 +2790,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "voli",
-                  "lemma": "voli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "volo",
+                  "pos": "noun",
+                  "meaning": "plural of volo"
                 },
                 {
                   "word": "a",
@@ -2821,9 +2821,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "ascende",
-                  "lemma": "ascende",
+                  "lemma": "ascendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of ascendere"
                 },
                 {
                   "word": "l",
@@ -2833,15 +2833,15 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "uman",
-                  "lemma": "uman",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "umano",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of umano"
                 },
                 {
                   "word": "cantico",
                   "lemma": "cantico",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "canticle"
                 }
               ]
             },
@@ -2852,21 +2852,21 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Varca",
-                  "lemma": "varca",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "varcare",
+                  "pos": "verb",
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "spazi",
-                  "lemma": "spazi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "spazio",
+                  "pos": "noun",
+                  "meaning": "plural of spazio"
                 },
                 {
                   "word": "varca",
-                  "lemma": "varca",
+                  "lemma": "varcare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "cieli",
@@ -2940,9 +2940,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Introducete",
-                  "lemma": "introducete",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "introdurre",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "il",
@@ -2964,10 +2964,10 @@ export const toscaAct2: Act = {
               "literal": "<i>Spoletta exits",
               "tokens": [
                 {
-                  "word": "<i>Spoletta",
-                  "lemma": "<i>spoletta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "Spoletta",
+                  "lemma": "Spoletta",
+                  "pos": "noun",
+                  "meaning": "Spoletta (police agent)"
                 },
                 {
                   "word": "esce",
@@ -2989,10 +2989,10 @@ export const toscaAct2: Act = {
                   "meaning": "to / at"
                 },
                 {
-                  "word": "Sciarrone</i>",
-                  "lemma": "sciarrone</i>",
+                  "word": "Sciarrone",
+                  "lemma": "Sciarrone",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Sciarrone (gendarme)"
                 }
               ]
             },
@@ -3022,9 +3022,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Roberti",
-                  "lemma": "roberti",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "roberta",
+                  "pos": "verb",
+                  "meaning": "feminine plural of roberta (ti: thee / you)"
                 },
                 {
                   "word": "e",
@@ -3042,7 +3042,7 @@ export const toscaAct2: Act = {
                   "word": "Giudice",
                   "lemma": "giudice",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "judge, magistrate / umpire, judge"
                 },
                 {
                   "word": "del",
@@ -3054,7 +3054,7 @@ export const toscaAct2: Act = {
                   "word": "Fisco",
                   "lemma": "fisco",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "fisc; exchequer; national treasury; public treasury / taxation or the revenue obtained by taxation"
                 }
               ]
             }
@@ -3089,8 +3089,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "violenza",
                   "lemma": "violenza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "violence"
                 }
               ]
             }
@@ -3129,7 +3129,7 @@ export const toscaAct2: Act = {
                   "word": "accomodarvi",
                   "lemma": "accomodarvi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive accomodare with vi"
                 }
               ]
             }
@@ -3173,9 +3173,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Sedete",
-                  "lemma": "sedete",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "sedere",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -3234,7 +3234,7 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "V",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -3265,8 +3265,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "prigione",
                   "lemma": "prigione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "jail, prison / cooler"
                 }
               ]
             }
@@ -3318,7 +3318,7 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -3349,8 +3349,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "prigione",
                   "lemma": "prigione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "jail, prison / cooler"
                 }
               ]
             },
@@ -3373,9 +3373,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "fuggito",
-                  "lemma": "fuggito",
+                  "lemma": "fuggire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of fuggire"
                 },
                 {
                   "word": "da",
@@ -3387,13 +3387,13 @@ export const toscaAct2: Act = {
                   "word": "Castel",
                   "lemma": "castel",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "apocopic form of castello"
                 },
                 {
                   "word": "Sant'Angelo",
-                  "lemma": "sant'angelo",
+                  "lemma": "Sant'angelo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Sant'angelo"
                 }
               ]
             }
@@ -3410,9 +3410,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Ignoro",
-                  "lemma": "ignoro",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ignorare",
+                  "pos": "verb",
+                  "meaning": "first-person singular present indicative of ignorare"
                 }
               ]
             }
@@ -3441,9 +3441,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "pretende",
-                  "lemma": "pretende",
+                  "lemma": "pretendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of pretendere"
                 },
                 {
                   "word": "che",
@@ -3472,15 +3472,15 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "abbiate",
-                  "lemma": "abbiate",
+                  "lemma": "avere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present subjunctive / second-person plural imperative"
                 },
                 {
                   "word": "accolto",
-                  "lemma": "accolto",
+                  "lemma": "accogliere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of accogliere"
                 },
                 {
                   "word": "in",
@@ -3490,9 +3490,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Sant'Andrea",
-                  "lemma": "sant'andrea",
+                  "lemma": "Sant'andrea",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Sant'andrea"
                 }
               ]
             },
@@ -3503,9 +3503,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "provvisto",
-                  "lemma": "provvisto",
+                  "lemma": "provvedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of provvedere"
                 }
               ]
             },
@@ -3540,9 +3540,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "vesti",
-                  "lemma": "vesti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "veste",
+                  "pos": "noun",
+                  "meaning": "plural of veste ; clothes"
                 }
               ]
             }
@@ -3563,7 +3563,7 @@ export const toscaAct2: Act = {
                   "word": "Menzogna",
                   "lemma": "menzogna",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "lie, falsehood, fib"
                 }
               ]
             }
@@ -3588,9 +3588,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "guidato",
-                  "lemma": "guidato",
+                  "lemma": "guidare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of guidare"
                 }
               ]
             },
@@ -3620,14 +3620,14 @@ export const toscaAct2: Act = {
                 {
                   "word": "podere",
                   "lemma": "podere",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "farm / croft, quillet"
                 },
                 {
                   "word": "suburbano",
                   "lemma": "suburbano",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "suburban"
                 }
               ]
             }
@@ -3646,7 +3646,7 @@ export const toscaAct2: Act = {
                   "word": "Nego",
                   "lemma": "nego",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "alternative form of niego (“denial, refusal”)"
                 },
                 {
                   "word": "Le",
@@ -3656,9 +3656,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "prove",
-                  "lemma": "prove",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "prova",
+                  "pos": "noun",
+                  "meaning": "plural of prova"
                 }
               ]
             }
@@ -3684,8 +3684,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "suddito",
                   "lemma": "suddito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "subject"
                 },
                 {
                   "word": "fedele",
@@ -3735,8 +3735,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "accusa",
                   "lemma": "accusa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "accusation / charge"
                 }
               ]
             },
@@ -3759,9 +3759,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "sbirri",
-                  "lemma": "sbirri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sbirro",
+                  "pos": "noun",
+                  "meaning": "plural of sbirro"
                 },
                 {
                   "word": "invan",
@@ -3772,8 +3772,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "frugâr",
                   "lemma": "frugâr",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "frugâr"
                 },
                 {
                   "word": "la",
@@ -3784,8 +3784,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "villa",
                   "lemma": "villa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mansion / detached house, residence"
                 }
               ]
             }
@@ -3890,9 +3890,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "ricerche",
-                  "lemma": "ricerche",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ricerca",
+                  "pos": "noun",
+                  "meaning": "plural of ricerca"
                 },
                 {
                   "word": "egli",
@@ -3902,9 +3902,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "rideva",
-                  "lemma": "rideva",
+                  "lemma": "ridere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect indicative of ridere"
                 }
               ]
             }
@@ -4016,9 +4016,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Rispondete",
-                  "lemma": "rispondete",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "rispondere",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -4035,9 +4035,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Angelotti",
-                  "lemma": "angelotti",
+                  "lemma": "Angelotti",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Cesare Angelotti (consul of the Roman Republic)"
                 }
               ]
             }
@@ -4085,15 +4085,15 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Negate",
-                  "lemma": "negate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "negato",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of negato"
                 },
                 {
                   "word": "avergli",
                   "lemma": "avergli",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive avere with gli"
                 },
                 {
                   "word": "dato",
@@ -4124,7 +4124,7 @@ export const toscaAct2: Act = {
                   "word": "Nego",
                   "lemma": "nego",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "alternative form of niego (“denial, refusal”)"
                 }
               ]
             }
@@ -4147,9 +4147,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "vesti",
-                  "lemma": "vesti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "veste",
+                  "pos": "noun",
+                  "meaning": "plural of veste ; clothes"
                 }
               ]
             }
@@ -4168,7 +4168,7 @@ export const toscaAct2: Act = {
                   "word": "Nego",
                   "lemma": "nego",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "alternative form of niego (“denial, refusal”)"
                 }
               ]
             }
@@ -4204,8 +4204,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "villa",
                   "lemma": "villa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mansion / detached house, residence"
                 }
               ]
             },
@@ -4263,13 +4263,13 @@ export const toscaAct2: Act = {
                   "word": "Nego",
                   "lemma": "nego",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "alternative form of niego (“denial, refusal”)"
                 },
                 {
                   "word": "nego",
                   "lemma": "nego",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative form of niego (“denial, refusal”)"
                 }
               ]
             }
@@ -4300,15 +4300,15 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "riflettete",
-                  "lemma": "riflettete",
+                  "lemma": "riflettere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "saggia",
-                  "lemma": "saggia",
+                  "lemma": "saggiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -4331,15 +4331,15 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "cotesta",
-                  "lemma": "cotesta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "cotesto",
+                  "pos": "particle",
+                  "meaning": "feminine singular of cotesto"
                 },
                 {
                   "word": "ostinatezza",
                   "lemma": "ostinatezza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "obstinacy, stubbornness"
                 },
                 {
                   "word": "vostra",
@@ -4358,7 +4358,7 @@ export const toscaAct2: Act = {
                   "word": "Angoscia",
                   "lemma": "angoscia",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "anguish"
                 },
                 {
                   "word": "grande",
@@ -4375,8 +4375,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "confessione",
                   "lemma": "confessione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "confession / denomination, creed"
                 }
               ]
             },
@@ -4387,9 +4387,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "eviterà",
-                  "lemma": "eviterà",
+                  "lemma": "evitare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of evitare"
                 },
                 {
                   "word": "Io",
@@ -4436,9 +4436,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Angelotti",
-                  "lemma": "angelotti",
+                  "lemma": "Angelotti",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Cesare Angelotti (consul of the Roman Republic)"
                 }
               ]
             }
@@ -4536,9 +4536,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Nol",
-                  "lemma": "nol",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "non lo",
+                  "pos": "particle",
+                  "meaning": "not it / not him (non + lo)"
                 },
                 {
                   "word": "so",
@@ -4573,9 +4573,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "tratti",
-                  "lemma": "tratti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tratto",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of tratto"
                 },
                 {
                   "word": "di",
@@ -4638,7 +4638,7 @@ export const toscaAct2: Act = {
                   "word": "Mario",
                   "lemma": "mario",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a male given name, equivalent to English Marius"
                 },
                 {
                   "word": "tu",
@@ -4687,9 +4687,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "vedesti",
-                  "lemma": "vedesti",
+                  "lemma": "vedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular past historic of vedere"
                 },
                 {
                   "word": "taci",
@@ -4705,15 +4705,15 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
                   "word": "uccidi",
-                  "lemma": "uccidi",
+                  "lemma": "uccidere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -4734,13 +4734,13 @@ export const toscaAct2: Act = {
                   "word": "Mario",
                   "lemma": "mario",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a male given name, equivalent to English Marius"
                 },
                 {
                   "word": "Cavaradossi",
-                  "lemma": "cavaradossi",
+                  "lemma": "Cavaradossi",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Mario Cavaradossi (painter)"
                 }
               ]
             },
@@ -4758,8 +4758,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "testimone",
                   "lemma": "testimone",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "witness / best man"
                 },
                 {
                   "word": "il",
@@ -4771,7 +4771,7 @@ export const toscaAct2: Act = {
                   "word": "Giudice",
                   "lemma": "giudice",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "judge, magistrate / umpire, judge"
                 },
                 {
                   "word": "vi",
@@ -4806,21 +4806,21 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "forme",
-                  "lemma": "forme",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "forma",
+                  "pos": "noun",
+                  "meaning": "plural of forma"
                 },
                 {
                   "word": "ordinarie",
-                  "lemma": "ordinarie",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ordinario",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of ordinario"
                 },
                 {
                   "word": "Indi",
-                  "lemma": "indi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "indio",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of indio"
                 },
                 {
                   "word": "ai",
@@ -4836,9 +4836,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "cenni",
-                  "lemma": "cenni",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "cenno",
+                  "pos": "noun",
+                  "meaning": "plural of cenno"
                 }
               ]
             }
@@ -4912,7 +4912,7 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "quell",
-                  "lemma": "quell'",
+                  "lemma": "quell",
                   "pos": "noun",
                   "meaning": "that"
                 },
@@ -4924,9 +4924,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "sgomentata",
-                  "lemma": "sgomentata",
+                  "lemma": "sgomentato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of sgomentato"
                 }
               ]
             }
@@ -4946,8 +4946,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "Sgomento",
                   "lemma": "sgomento",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "dismayed"
                 },
                 {
                   "word": "alcun",
@@ -5029,9 +5029,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "sciocca",
-                  "lemma": "sciocca",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sciocco",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of sciocco"
                 },
                 {
                   "word": "gelosia",
@@ -5060,9 +5060,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Attavanti",
-                  "lemma": "attavanti",
+                  "lemma": "Attavanti",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Attavanti"
                 },
                 {
                   "word": "non",
@@ -5091,8 +5091,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "villa",
                   "lemma": "villa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mansion / detached house, residence"
                 }
               ]
             }
@@ -5180,8 +5180,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "sicura",
                   "lemma": "sicura",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "safety catch / safety lock"
                 }
               ]
             }
@@ -5206,9 +5206,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "sfugge",
-                  "lemma": "sfugge",
+                  "lemma": "sfuggire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of sfuggire"
                 },
                 {
                   "word": "ai",
@@ -5218,9 +5218,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "gelosi",
-                  "lemma": "gelosi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "geloso",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of geloso"
                 },
                 {
                   "word": "Solo",
@@ -5330,9 +5330,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "abbiate",
-                  "lemma": "abbiate",
+                  "lemma": "avere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present subjunctive / second-person plural imperative"
                 },
                 {
                   "word": "paura",
@@ -5350,7 +5350,7 @@ export const toscaAct2: Act = {
                   "word": "tradirvi",
                   "lemma": "tradirvi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive tradire with vi"
                 }
               ]
             },
@@ -5361,9 +5361,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Sciarrone",
-                  "lemma": "sciarrone",
+                  "lemma": "Sciarrone",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Sciarrone (gendarme)"
                 },
                 {
                   "word": "che",
@@ -5406,9 +5406,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Nega",
-                  "lemma": "nega",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "negare",
+                  "pos": "verb",
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -5427,9 +5427,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Insistiamo",
-                  "lemma": "insistiamo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "insistere",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 }
               ]
             }
@@ -5461,8 +5461,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "inutil",
                   "lemma": "inutil",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "apocopic form of inutile"
                 }
               ]
             }
@@ -5528,7 +5528,7 @@ export const toscaAct2: Act = {
                   "word": "compiacervi",
                   "lemma": "compiacervi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive compiacere with vi"
                 },
                 {
                   "word": "si",
@@ -5538,9 +5538,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "dovrebbe",
-                  "lemma": "dovrebbe",
+                  "lemma": "dovere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular conditional of dovere"
                 }
               ]
             },
@@ -5551,9 +5551,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "mentir",
-                  "lemma": "mentir",
+                  "lemma": "mentire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to lie / to falsify , to fake"
                 }
               ]
             }
@@ -5594,15 +5594,15 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "potrebbe",
-                  "lemma": "potrebbe",
+                  "lemma": "potere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular conditional of potere"
                 },
                 {
                   "word": "abbreviargli",
-                  "lemma": "abbreviargli",
+                  "lemma": "abbreviare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to abbreviate, to shorten (gli: to him)"
                 }
               ]
             },
@@ -5631,9 +5631,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "penosa",
-                  "lemma": "penosa",
+                  "lemma": "penoso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "feminine singular of penoso"
                 }
               ]
             }
@@ -5664,9 +5664,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "penosa",
-                  "lemma": "penosa",
+                  "lemma": "penoso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "feminine singular of penoso"
                 },
                 {
                   "word": "Che",
@@ -5701,9 +5701,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "avviene",
-                  "lemma": "avviene",
+                  "lemma": "avvenire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of avvenire"
                 },
                 {
                   "word": "in",
@@ -5745,8 +5745,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "forza",
                   "lemma": "forza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "force / strength"
                 },
                 {
                   "word": "che",
@@ -5762,9 +5762,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "adempia",
-                  "lemma": "adempia",
+                  "lemma": "adempiere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 }
               ]
             },
@@ -5906,9 +5906,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "uncinato",
-                  "lemma": "uncinato",
+                  "lemma": "uncinare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of uncinare"
                 }
               ]
             },
@@ -5926,8 +5926,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "tempia",
                   "lemma": "tempia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "temple"
                 }
               ]
             },
@@ -5968,9 +5968,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "sprizza",
-                  "lemma": "sprizza",
+                  "lemma": "sprizzare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "sangue",
@@ -5994,8 +5994,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "mercè",
                   "lemma": "mercè",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mercè"
                 }
               ]
             }
@@ -6059,7 +6059,7 @@ export const toscaAct2: Act = {
                   "word": "Sogghigno",
                   "lemma": "sogghigno",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "sneer"
                 },
                 {
                   "word": "di",
@@ -6070,8 +6070,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "demone",
                   "lemma": "demone",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "demon"
                 }
               ]
             }
@@ -6116,8 +6116,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "gemito",
                   "lemma": "gemito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "groan, moan"
                 },
                 {
                   "word": "Pietà",
@@ -6172,7 +6172,7 @@ export const toscaAct2: Act = {
                   "word": "salvarlo",
                   "lemma": "salvarlo",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive salvare with lo"
                 }
               ]
             }
@@ -6201,9 +6201,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "cessate",
-                  "lemma": "cessate",
+                  "lemma": "cessare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -6222,9 +6222,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Sciarrone",
-                  "lemma": "sciarrone",
+                  "lemma": "Sciarrone",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Sciarrone (gendarme)"
                 }
               ]
             },
@@ -6235,9 +6235,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "sciogliete",
-                  "lemma": "sciogliete",
+                  "lemma": "sciogliere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -6287,10 +6287,10 @@ export const toscaAct2: Act = {
               "literal": "<i>Sciarrone enters the torture chamber again, closing",
               "tokens": [
                 {
-                  "word": "<i>Sciarrone",
-                  "lemma": "<i>sciarrone",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "Sciarrone",
+                  "lemma": "Sciarrone",
+                  "pos": "noun",
+                  "meaning": "Sciarrone (gendarme)"
                 },
                 {
                   "word": "entra",
@@ -6307,8 +6307,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "nuovo",
                   "lemma": "nuovo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "new"
                 },
                 {
                   "word": "nella",
@@ -6336,9 +6336,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "chiudendo",
-                  "lemma": "chiudendo",
+                  "lemma": "chiudere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of chiudere"
                 }
               ]
             },
@@ -6354,10 +6354,10 @@ export const toscaAct2: Act = {
                   "meaning": "to / at"
                 },
                 {
-                  "word": "Tosca</i>",
-                  "lemma": "tosca</i>",
+                  "word": "Tosca",
+                  "lemma": "Tosca",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Floria Tosca (celebrated singer)"
                 }
               ]
             },
@@ -6387,8 +6387,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "vertà",
                   "lemma": "vertà",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "syncopic form of verità"
                 }
               ]
             }
@@ -6405,7 +6405,7 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -6465,7 +6465,7 @@ export const toscaAct2: Act = {
                   "word": "Mario",
                   "lemma": "mario",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a male given name, equivalent to English Marius"
                 }
               ]
             }
@@ -6484,9 +6484,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Tosca",
-                  "lemma": "tosca",
+                  "lemma": "Tosca",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Floria Tosca (celebrated singer)"
                 }
               ]
             }
@@ -6567,7 +6567,7 @@ export const toscaAct2: Act = {
                   "word": "Sprezzo",
                   "lemma": "sprezzo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "contempt, scorn, disdain"
                 },
                 {
                   "word": "il",
@@ -6577,9 +6577,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "dolor",
-                  "lemma": "dolor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "dolore",
+                  "pos": "noun",
+                  "meaning": "ache, pain / sorrow, grief"
                 }
               ]
             }
@@ -6599,14 +6599,14 @@ export const toscaAct2: Act = {
                 {
                   "word": "Orsù",
                   "lemma": "orsù",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "come on!"
                 },
                 {
                   "word": "Tosca",
-                  "lemma": "tosca",
+                  "lemma": "Tosca",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Floria Tosca (celebrated singer)"
                 },
                 {
                   "word": "parlate",
@@ -6670,9 +6670,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "vale",
-                  "lemma": "vale",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "valere",
+                  "pos": "verb",
+                  "meaning": "third-person singular present indicative of valere"
                 }
               ]
             },
@@ -6695,15 +6695,15 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Roberti",
-                  "lemma": "roberti",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "roberta",
+                  "pos": "verb",
+                  "meaning": "feminine plural of roberta (ti: thee / you)"
                 },
                 {
                   "word": "ripigliamo",
-                  "lemma": "ripigliamo",
+                  "lemma": "ripigliare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 }
               ]
             }
@@ -6728,9 +6728,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Fermate",
-                  "lemma": "fermate",
+                  "lemma": "fermata",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of fermata"
                 }
               ]
             }
@@ -6753,9 +6753,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "parlerete",
-                  "lemma": "parlerete",
+                  "lemma": "parlare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural future of parlare"
                 }
               ]
             }
@@ -6797,9 +6797,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "strazi",
-                  "lemma": "strazi",
+                  "lemma": "straziare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "l",
@@ -6809,9 +6809,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "uccidi",
-                  "lemma": "uccidi",
+                  "lemma": "uccidere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -6834,9 +6834,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "strazia",
-                  "lemma": "strazia",
+                  "lemma": "straziare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "quel",
@@ -6909,15 +6909,15 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "all",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
                 {
                   "word": "orrida",
-                  "lemma": "orrida",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "orrido",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of orrido"
                 },
                 {
                   "word": "pena",
@@ -6948,9 +6948,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Tosca",
-                  "lemma": "tosca",
+                  "lemma": "Tosca",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Floria Tosca (celebrated singer)"
                 },
                 {
                   "word": "alla",
@@ -6979,9 +6979,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "tragica",
-                  "lemma": "tragica",
+                  "lemma": "tragico",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "feminine singular of tragico"
                 },
                 {
                   "word": "fu",
@@ -7037,15 +7037,15 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "n",
-                  "lemma": "n'",
+                  "lemma": "n",
                   "pos": "noun",
                   "meaning": "of-it"
                 },
                 {
                   "word": "oda",
-                  "lemma": "oda",
+                  "lemma": "udire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "i",
@@ -7080,9 +7080,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "sfido",
-                  "lemma": "sfido",
+                  "lemma": "sfidare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of sfidare"
                 }
               ]
             }
@@ -7144,9 +7144,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "sfido",
-                  "lemma": "sfido",
+                  "lemma": "sfidare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of sfidare"
                 }
               ]
             }
@@ -7267,15 +7267,15 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "dovrei",
-                  "lemma": "dovrei",
+                  "lemma": "dovere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular conditional of dovere"
                 },
                 {
                   "word": "mentir",
-                  "lemma": "mentir",
+                  "lemma": "mentire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to lie / to falsify , to fake"
                 }
               ]
             }
@@ -7306,9 +7306,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Angelotti",
-                  "lemma": "angelotti",
+                  "lemma": "Angelotti",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Cesare Angelotti (consul of the Roman Republic)"
                 },
                 {
                   "word": "parlate",
@@ -7417,9 +7417,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Cessate",
-                  "lemma": "cessate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "cessare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "il",
@@ -7430,8 +7430,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "martîr",
                   "lemma": "martîr",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "martîr"
                 },
                 {
                   "word": "È",
@@ -7455,7 +7455,7 @@ export const toscaAct2: Act = {
                   "word": "soffrir",
                   "lemma": "soffrir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of soffrire"
                 }
               ]
             }
@@ -7495,13 +7495,13 @@ export const toscaAct2: Act = {
                   "word": "Mario",
                   "lemma": "mario",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a male given name, equivalent to English Marius"
                 },
                 {
                   "word": "consenti",
-                  "lemma": "consenti",
+                  "lemma": "consentire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -7512,7 +7512,7 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -7609,9 +7609,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Stolta",
-                  "lemma": "stolta",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "stolto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of stolto"
                 },
                 {
                   "word": "che",
@@ -7668,13 +7668,13 @@ export const toscaAct2: Act = {
                   "word": "fatelo",
                   "lemma": "fatelo",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of fate, the second-person plural imperative form of fare, with lo"
                 },
                 {
                   "word": "tacere",
                   "lemma": "tacere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to be silent, to keep quiet / to quiet down, to shut up"
                 }
               ]
             }
@@ -7699,7 +7699,7 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -7766,9 +7766,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "torturate",
-                  "lemma": "torturate",
+                  "lemma": "torturare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -7779,9 +7779,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Torturate",
-                  "lemma": "torturate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "torturare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "l",
@@ -7828,9 +7828,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "torturate",
-                  "lemma": "torturate",
+                  "lemma": "torturare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -7985,9 +7985,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Angelotti",
-                  "lemma": "angelotti",
+                  "lemma": "Angelotti",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Cesare Angelotti (consul of the Roman Republic)"
                 }
               ]
             }
@@ -8033,9 +8033,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Roberti",
-                  "lemma": "roberti",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "roberta",
+                  "pos": "verb",
+                  "meaning": "feminine plural of roberta (ti: thee / you)"
                 }
               ]
             }
@@ -8060,9 +8060,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "svenuto",
-                  "lemma": "svenuto",
+                  "lemma": "svenire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of svenire"
                 }
               ]
             }
@@ -8083,7 +8083,7 @@ export const toscaAct2: Act = {
                   "word": "Assassino",
                   "lemma": "assassino",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "assassin, hitman / murderer"
                 }
               ]
             },
@@ -8122,8 +8122,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "Portatelo",
                   "lemma": "portatelo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of portate, the second-person plural imperative form of portare, with lo"
                 },
                 {
                   "word": "qui",
@@ -8148,9 +8148,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Floria",
-                  "lemma": "floria",
+                  "lemma": "Floria",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Floria"
                 }
               ]
             }
@@ -8227,9 +8227,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "penalo",
-                  "lemma": "penalo",
+                  "lemma": "pena",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "pain / sorrow (lo: him / it)"
                 }
               ]
             },
@@ -8289,9 +8289,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "punirà",
-                  "lemma": "punirà",
+                  "lemma": "punire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of punire"
                 }
               ]
             }
@@ -8308,9 +8308,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Tosca",
-                  "lemma": "tosca",
+                  "lemma": "Tosca",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Floria Tosca (celebrated singer)"
                 },
                 {
                   "word": "hai",
@@ -8422,9 +8422,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Spoletta",
-                  "lemma": "spoletta",
+                  "lemma": "Spoletta",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Spoletta (police agent)"
                 }
               ]
             }
@@ -8441,7 +8441,7 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "M",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -8453,9 +8453,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "tradito",
-                  "lemma": "tradito",
+                  "lemma": "tradire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of tradire"
                 }
               ]
             }
@@ -8476,7 +8476,7 @@ export const toscaAct2: Act = {
                   "word": "Mario",
                   "lemma": "mario",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a male given name, equivalent to English Marius"
                 }
               ]
             }
@@ -8516,7 +8516,7 @@ export const toscaAct2: Act = {
                   "word": "Eccellenza",
                   "lemma": "eccellenza",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "excellence, greatness, pre-eminence / Excellence"
                 },
                 {
                   "word": "quali",
@@ -8565,7 +8565,7 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "quell",
-                  "lemma": "quell'",
+                  "lemma": "quell",
                   "pos": "noun",
                   "meaning": "that"
                 },
@@ -8577,9 +8577,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "afflitta",
-                  "lemma": "afflitta",
+                  "lemma": "afflitto",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of afflitto"
                 }
               ]
             }
@@ -8614,9 +8614,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "sconfitta",
-                  "lemma": "sconfitta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sconfitto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of sconfitto"
                 }
               ]
             }
@@ -8639,9 +8639,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "sconfitta",
-                  "lemma": "sconfitta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sconfitto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of sconfitto"
                 },
                 {
                   "word": "Come",
@@ -8678,7 +8678,7 @@ export const toscaAct2: Act = {
                   "word": "Marengo",
                   "lemma": "marengo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "napoleon"
                 }
               ]
             }
@@ -8699,7 +8699,7 @@ export const toscaAct2: Act = {
                   "word": "Tartaruga",
                   "lemma": "tartaruga",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "turtle, tortoise / tortoiseshell"
                 }
               ]
             }
@@ -8716,9 +8716,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Bonaparte",
-                  "lemma": "bonaparte",
+                  "lemma": "Bonaparte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Bonaparte"
                 },
                 {
                   "word": "è",
@@ -8728,9 +8728,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "vincitor",
-                  "lemma": "vincitor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vincitore",
+                  "pos": "adjective",
+                  "meaning": "winning, victorious / defeating, vanquishing"
                 }
               ]
             }
@@ -8747,9 +8747,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Melas",
-                  "lemma": "melas",
+                  "lemma": "Melas",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Melas"
                 }
               ]
             }
@@ -8774,9 +8774,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Melas",
-                  "lemma": "melas",
+                  "lemma": "Melas",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Melas"
                 },
                 {
                   "word": "è",
@@ -8845,8 +8845,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "vindice",
                   "lemma": "vindice",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "avenging, revenging"
                 },
                 {
                   "word": "appar",
@@ -8881,15 +8881,15 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "empi",
-                  "lemma": "empi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "empio",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of empio"
                 },
                 {
                   "word": "tremar",
                   "lemma": "tremar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of tremare"
                 }
               ]
             },
@@ -8906,21 +8906,21 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "sorge",
-                  "lemma": "sorge",
+                  "lemma": "sorgere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of sorgere"
                 },
                 {
                   "word": "crollan",
-                  "lemma": "crollan",
+                  "lemma": "crollare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of crollare"
                 },
                 {
                   "word": "tirannidi",
-                  "lemma": "tirannidi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tirannide",
+                  "pos": "noun",
+                  "meaning": "plural of tirannide"
                 }
               ]
             },
@@ -8944,8 +8944,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "martîr",
                   "lemma": "martîr",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "martîr"
                 }
               ]
             },
@@ -8974,9 +8974,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "gioir",
-                  "lemma": "gioir",
+                  "lemma": "gioire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to rejoice  or , or be delighted / to enjoy"
                 }
               ]
             },
@@ -9005,9 +9005,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "trema",
-                  "lemma": "trema",
+                  "lemma": "tremare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present / second-person singular imperative"
                 },
                 {
                   "word": "o",
@@ -9017,15 +9017,15 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Scarpia",
-                  "lemma": "scarpia",
+                  "lemma": "Scarpia",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Baron Scarpia (chief of police)"
                 },
                 {
                   "word": "carnefice",
                   "lemma": "carnefice",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "executioner / torturer, tormentor, persecutor"
                 }
               ]
             }
@@ -9044,7 +9044,7 @@ export const toscaAct2: Act = {
                   "word": "Mario",
                   "lemma": "mario",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a male given name, equivalent to English Marius"
                 },
                 {
                   "word": "taci",
@@ -9087,9 +9087,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Braveggia",
-                  "lemma": "braveggia",
+                  "lemma": "Braveggia",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Braveggia"
                 },
                 {
                   "word": "urla",
@@ -9099,7 +9099,7 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "T",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -9126,7 +9126,7 @@ export const toscaAct2: Act = {
                   "word": "palesarmi",
                   "lemma": "palesarmi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive palesare with mi"
                 },
                 {
                   "word": "il",
@@ -9149,15 +9149,15 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
                 {
                   "word": "alma",
-                  "lemma": "alma",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "anima",
+                  "pos": "noun",
+                  "meaning": "soul / spirit (poetic for anima)"
                 },
                 {
                   "word": "ria",
@@ -9181,8 +9181,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "Moribondo",
                   "lemma": "moribondo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "dying, moribund"
                 }
               ]
             },
@@ -9205,7 +9205,7 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -9225,8 +9225,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "Portatemelo",
                   "lemma": "portatemelo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of portate, the second-person plural imperative form of portare, with me  and lo"
                 },
                 {
                   "word": "via",
@@ -9253,7 +9253,7 @@ export const toscaAct2: Act = {
                   "word": "Mario",
                   "lemma": "mario",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a male given name, equivalent to English Marius"
                 },
                 {
                   "word": "con",
@@ -9319,8 +9319,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "Salvatelo",
                   "lemma": "salvatelo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of salvate, the second-person plural imperative form of salvare, with lo"
                 }
               ]
             }
@@ -9388,9 +9388,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "interrotta",
-                  "lemma": "interrotta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "interrotto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of interrotto"
                 }
               ]
             },
@@ -9407,9 +9407,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "accasciata",
-                  "lemma": "accasciata",
+                  "lemma": "accasciato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of accasciato"
                 },
                 {
                   "word": "Via",
@@ -9444,9 +9444,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "sedete",
-                  "lemma": "sedete",
+                  "lemma": "sedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "qui",
@@ -9475,9 +9475,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "cerchiamo",
-                  "lemma": "cerchiamo",
+                  "lemma": "cercare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "insieme",
@@ -9507,7 +9507,7 @@ export const toscaAct2: Act = {
                   "word": "salvarlo",
                   "lemma": "salvarlo",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive salvare with lo"
                 }
               ]
             },
@@ -9530,9 +9530,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "sedete",
-                  "lemma": "sedete",
+                  "lemma": "sedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "e",
@@ -9542,9 +9542,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "favelliamo",
-                  "lemma": "favelliamo",
+                  "lemma": "favellare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 }
               ]
             },
@@ -9606,7 +9606,7 @@ export const toscaAct2: Act = {
                   "word": "Spagna",
                   "lemma": "spagna",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Spain"
                 }
               ]
             },
@@ -9644,7 +9644,7 @@ export const toscaAct2: Act = {
                   "word": "rincorarvi",
                   "lemma": "rincorarvi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive rincorare with vi"
                 }
               ]
             }
@@ -9744,13 +9744,13 @@ export const toscaAct2: Act = {
                   "word": "dicon",
                   "lemma": "dicon",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of dicono"
                 },
                 {
                   "word": "venal",
-                  "lemma": "venal",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "venale",
+                  "pos": "adjective",
+                  "meaning": "venal / market, selling"
                 },
                 {
                   "word": "ma",
@@ -9798,8 +9798,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "vendo",
                   "lemma": "vendo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "synonym of venedo"
                 },
                 {
                   "word": "a",
@@ -9822,8 +9822,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "moneta",
                   "lemma": "moneta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "coin / currency"
                 }
               ]
             },
@@ -9846,9 +9846,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "giurata",
-                  "lemma": "giurata",
+                  "lemma": "giurato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of giurato"
                 },
                 {
                   "word": "fede",
@@ -9871,9 +9871,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "tradir",
-                  "lemma": "tradir",
+                  "lemma": "tradire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to betray / to reveal"
                 },
                 {
                   "word": "ne",
@@ -9896,8 +9896,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "mercede",
                   "lemma": "mercede",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "recompense / merit"
                 }
               ]
             },
@@ -9908,7 +9908,7 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
@@ -9932,9 +9932,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "attendeva",
-                  "lemma": "attendeva",
+                  "lemma": "attendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect indicative of attendere"
                 }
               ]
             },
@@ -9958,8 +9958,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "struggea",
                   "lemma": "struggea",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "struggea"
                 }
               ]
             },
@@ -9989,8 +9989,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "diva",
                   "lemma": "diva",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "a star / a goddess"
                 }
               ]
             },
@@ -10008,8 +10008,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "poc'anzi",
                   "lemma": "poc'anzi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "just a moment ago"
                 },
                 {
                   "word": "ti",
@@ -10019,9 +10019,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "mirai",
-                  "lemma": "mirai",
+                  "lemma": "mirare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of mirare"
                 }
               ]
             },
@@ -10094,8 +10094,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "lava",
                   "lemma": "lava",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "lava"
                 }
               ]
             },
@@ -10179,9 +10179,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "dardeggiava",
-                  "lemma": "dardeggiava",
+                  "lemma": "dardeggiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect indicative of dardeggiare"
                 }
               ]
             },
@@ -10204,9 +10204,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "inferociva",
-                  "lemma": "inferociva",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "lemma": "inferocire",
+                  "pos": "verb",
+                  "meaning": "third-person singular imperfect indicative of inferocire"
                 }
               ]
             },
@@ -10217,9 +10217,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Agil",
-                  "lemma": "agil",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "agile",
+                  "pos": "adjective",
+                  "meaning": "agile, nimble"
                 },
                 {
                   "word": "qual",
@@ -10230,8 +10230,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "leopardo",
                   "lemma": "leopardo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "leopard / leopard"
                 }
               ]
             },
@@ -10248,13 +10248,13 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "avvinghiasti",
-                  "lemma": "avvinghiasti",
+                  "lemma": "avvinghiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular past historic of avvinghiare"
                 },
                 {
                   "word": "all",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
@@ -10285,7 +10285,7 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "quell",
-                  "lemma": "quell'",
+                  "lemma": "quell",
                   "pos": "noun",
                   "meaning": "that"
                 },
@@ -10304,7 +10304,7 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -10316,9 +10316,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "giurata",
-                  "lemma": "giurata",
+                  "lemma": "giurato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of giurato"
                 },
                 {
                   "word": "mia",
@@ -10381,7 +10381,7 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -10427,8 +10427,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "avvento",
                   "lemma": "avvento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "coming, advent / accession"
                 }
               ]
             }
@@ -10454,8 +10454,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "pegno",
                   "lemma": "pegno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pledge, security / token"
                 }
               ]
             },
@@ -10474,7 +10474,7 @@ export const toscaAct2: Act = {
                   "word": "Mario",
                   "lemma": "mario",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a male given name, equivalent to English Marius"
                 },
                 {
                   "word": "tuo",
@@ -10519,7 +10519,7 @@ export const toscaAct2: Act = {
                   "word": "miserabile",
                   "lemma": "miserabile",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "worthy of pity or compassion / pitiful due to poverty, squalor or desolation"
                 }
               ]
             },
@@ -10538,7 +10538,7 @@ export const toscaAct2: Act = {
                   "word": "orribile",
                   "lemma": "orribile",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "horrible, loathsome / awful, dreadful"
                 },
                 {
                   "word": "mercato",
@@ -10565,7 +10565,7 @@ export const toscaAct2: Act = {
                   "word": "Violenza",
                   "lemma": "violenza",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "violence"
                 },
                 {
                   "word": "non",
@@ -10593,9 +10593,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "liberai",
-                  "lemma": "liberai",
+                  "lemma": "liberare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of liberare"
                 }
               ]
             },
@@ -10638,8 +10638,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "fallace",
                   "lemma": "fallace",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "misleading, deceptive / fallacious"
                 },
                 {
                   "word": "speranza",
@@ -10668,9 +10668,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "farebbe",
-                  "lemma": "farebbe",
+                  "lemma": "fare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular conditional of fare"
                 },
                 {
                   "word": "grazia",
@@ -10717,15 +10717,15 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
                   "word": "odii",
-                  "lemma": "odii",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "odio",
+                  "pos": "noun",
+                  "meaning": "plural of odio"
                 }
               ]
             }
@@ -10812,7 +10812,7 @@ export const toscaAct2: Act = {
                   "word": "toccarmi",
                   "lemma": "toccarmi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive toccare with mi"
                 },
                 {
                   "word": "demonio",
@@ -10829,7 +10829,7 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "T",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -10841,7 +10841,7 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -10886,9 +10886,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "importa",
-                  "lemma": "importa",
+                  "lemma": "importare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -10899,13 +10899,13 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Spasimi",
-                  "lemma": "spasimi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "spasimare",
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -10917,13 +10917,13 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "spasimi",
-                  "lemma": "spasimi",
+                  "lemma": "spasimare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -11084,21 +11084,21 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "S",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
                 {
                   "word": "avvia",
-                  "lemma": "avvia",
+                  "lemma": "avviare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "Guida",
                   "lemma": "guida",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "guide / driving"
                 },
                 {
                   "word": "la",
@@ -11133,9 +11133,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "condannati",
-                  "lemma": "condannati",
+                  "lemma": "condannato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "masculine plural of condannato"
                 },
                 {
                   "word": "Il",
@@ -11182,9 +11182,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "opra",
-                  "lemma": "opra",
+                  "lemma": "oprare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "laggiù",
@@ -11207,9 +11207,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "compia",
-                  "lemma": "compia",
+                  "lemma": "compiere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 }
               ]
             },
@@ -11233,8 +11233,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "drizza",
                   "lemma": "drizza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "halyard / gear, tackle"
                 },
                 {
                   "word": "un",
@@ -11245,8 +11245,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "patibolo",
                   "lemma": "patibolo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "scaffold, gallows"
                 }
               ]
             },
@@ -11271,7 +11271,7 @@ export const toscaAct2: Act = {
                   "word": "Mario",
                   "lemma": "mario",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a male given name, equivalent to English Marius"
                 }
               ]
             },
@@ -11348,10 +11348,10 @@ export const toscaAct2: Act = {
               "literal": "<i>coldly he leans against a corner of the table, continuing to look at Tosca.",
               "tokens": [
                 {
-                  "word": "<i>freddamente",
-                  "lemma": "<i>freddamente",
+                  "word": "freddamente",
+                  "lemma": "freddamente",
                   "pos": "adverb",
-                  "meaning": ""
+                  "meaning": "coldly"
                 },
                 {
                   "word": "si",
@@ -11361,9 +11361,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "appoggia",
-                  "lemma": "appoggia",
+                  "lemma": "appoggiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "ad",
@@ -11397,9 +11397,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "continuando",
-                  "lemma": "continuando",
+                  "lemma": "continuare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of continuare"
                 },
                 {
                   "word": "a",
@@ -11415,9 +11415,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Tosca",
-                  "lemma": "tosca",
+                  "lemma": "Tosca",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Floria Tosca (celebrated singer)"
                 }
               ]
             },
@@ -11428,15 +11428,15 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Tosca",
-                  "lemma": "tosca",
+                  "lemma": "Tosca",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Floria Tosca (celebrated singer)"
                 },
                 {
                   "word": "affranta",
-                  "lemma": "affranta",
+                  "lemma": "affranto",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of affranto"
                 },
                 {
                   "word": "dal",
@@ -11477,8 +11477,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "canapè",
                   "lemma": "canapè",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "settee, couch / canapé"
                 }
               ]
             },
@@ -11491,13 +11491,13 @@ export const toscaAct2: Act = {
                   "word": "Freddamente",
                   "lemma": "freddamente",
                   "pos": "adverb",
-                  "meaning": ""
+                  "meaning": "coldly"
                 },
                 {
                   "word": "Scarpia",
-                  "lemma": "scarpia",
+                  "lemma": "Scarpia",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Baron Scarpia (chief of police)"
                 },
                 {
                   "word": "va",
@@ -11513,9 +11513,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "appoggiarsi",
-                  "lemma": "appoggiarsi",
+                  "lemma": "appoggiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "reflexive of appoggiare / to lean, prop oneself"
                 },
                 {
                   "word": "ad",
@@ -11555,9 +11555,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "versa",
-                  "lemma": "versa",
+                  "lemma": "versare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "del",
@@ -11585,9 +11585,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "assorbe",
-                  "lemma": "assorbe",
+                  "lemma": "assorbire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "mentre",
@@ -11614,10 +11614,10 @@ export const toscaAct2: Act = {
                   "meaning": "to look"
                 },
                 {
-                  "word": "Tosca.</i>",
-                  "lemma": "tosca.</i>",
+                  "word": "Tosca",
+                  "lemma": "Tosca",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Floria Tosca (celebrated singer)"
                 }
               ]
             }
@@ -11636,13 +11636,13 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Vissi",
-                  "lemma": "vissi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "vivere",
+                  "pos": "verb",
+                  "meaning": "first-person singular past historic of vivere"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -11654,13 +11654,13 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "vissi",
-                  "lemma": "vissi",
+                  "lemma": "vivere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of vivere"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -11687,8 +11687,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "feci",
                   "lemma": "feci",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "faeces/feces"
                 },
                 {
                   "word": "mai",
@@ -11741,9 +11741,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "furtiva",
-                  "lemma": "furtiva",
+                  "lemma": "furtivo",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "feminine singular of furtivo"
                 }
               ]
             },
@@ -11754,27 +11754,27 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "quante",
-                  "lemma": "quante",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "quanto",
+                  "pos": "particle",
+                  "meaning": "feminine plural of quanto"
                 },
                 {
                   "word": "miserie",
-                  "lemma": "miserie",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "miseria",
+                  "pos": "noun",
+                  "meaning": "plural of miseria"
                 },
                 {
                   "word": "conobbi",
-                  "lemma": "conobbi",
+                  "lemma": "conoscere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of conoscere"
                 },
                 {
                   "word": "aiutai",
-                  "lemma": "aiutai",
+                  "lemma": "aiutare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of aiutare"
                 }
               ]
             },
@@ -11798,14 +11798,14 @@ export const toscaAct2: Act = {
                 {
                   "word": "fe",
                   "lemma": "fe",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fe"
                 },
                 {
                   "word": "sincera",
-                  "lemma": "sincera",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sincero",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of sincero"
                 }
               ]
             },
@@ -11829,8 +11829,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "preghiera",
                   "lemma": "preghiera",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "prayer / request"
                 }
               ]
             },
@@ -11853,15 +11853,15 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "tabernacoli",
-                  "lemma": "tabernacoli",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tabernacolo",
+                  "pos": "noun",
+                  "meaning": "plural of tabernacolo"
                 },
                 {
                   "word": "salì",
-                  "lemma": "salì",
+                  "lemma": "salire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of salire"
                 }
               ]
             },
@@ -11885,14 +11885,14 @@ export const toscaAct2: Act = {
                 {
                   "word": "fe",
                   "lemma": "fe",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fe"
                 },
                 {
                   "word": "sincera",
-                  "lemma": "sincera",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sincero",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of sincero"
                 }
               ]
             },
@@ -11903,9 +11903,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "diedi",
-                  "lemma": "diedi",
+                  "lemma": "dare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of dare"
                 },
                 {
                   "word": "fiori",
@@ -11934,7 +11934,7 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Nell",
-                  "lemma": "nell'",
+                  "lemma": "nell",
                   "pos": "noun",
                   "meaning": "in-the"
                 },
@@ -12008,9 +12008,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "rimuneri",
-                  "lemma": "rimuneri",
+                  "lemma": "rimunerare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "così",
@@ -12027,9 +12027,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Diedi",
-                  "lemma": "diedi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "dare",
+                  "pos": "verb",
+                  "meaning": "first-person singular past historic of dare"
                 },
                 {
                   "word": "gioielli",
@@ -12083,9 +12083,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "diedi",
-                  "lemma": "diedi",
+                  "lemma": "dare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of dare"
                 },
                 {
                   "word": "il",
@@ -12114,9 +12114,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "astri",
-                  "lemma": "astri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "astro",
+                  "pos": "noun",
+                  "meaning": "plural of astro"
                 },
                 {
                   "word": "al",
@@ -12145,8 +12145,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "ridean",
                   "lemma": "ridean",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "ridean"
                 },
                 {
                   "word": "più",
@@ -12169,7 +12169,7 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Nell",
-                  "lemma": "nell'",
+                  "lemma": "nell",
                   "pos": "noun",
                   "meaning": "in-the"
                 },
@@ -12243,9 +12243,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "rimuneri",
-                  "lemma": "rimuneri",
+                  "lemma": "rimunerare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "così",
@@ -12270,9 +12270,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Risolvi",
-                  "lemma": "risolvi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "risolvere",
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -12304,8 +12304,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "supplice",
                   "lemma": "supplice",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "supplice"
                 },
                 {
                   "word": "ai",
@@ -12359,9 +12359,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "giunte",
-                  "lemma": "giunte",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "giunta",
+                  "pos": "noun",
+                  "meaning": "plural of giunta"
                 },
                 {
                   "word": "io",
@@ -12371,9 +12371,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "stendo",
-                  "lemma": "stendo",
+                  "lemma": "stendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of stendere"
                 },
                 {
                   "word": "a",
@@ -12422,12 +12422,12 @@ export const toscaAct2: Act = {
                 {
                   "word": "mercè",
                   "lemma": "mercè",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "mercè"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -12458,9 +12458,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "vinta",
-                  "lemma": "vinta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vinto",
+                  "pos": "noun",
+                  "meaning": "female equivalent of vinto"
                 },
                 {
                   "word": "aspetto",
@@ -12501,9 +12501,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Tosca",
-                  "lemma": "tosca",
+                  "lemma": "Tosca",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Floria Tosca (celebrated singer)"
                 },
                 {
                   "word": "e",
@@ -12539,9 +12539,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Cedo",
-                  "lemma": "cedo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "cedere",
+                  "pos": "verb",
+                  "meaning": "first-person singular present indicative of cedere"
                 },
                 {
                   "word": "A",
@@ -12618,9 +12618,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "chieggo",
-                  "lemma": "chieggo",
+                  "lemma": "chiedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of chiedere"
                 },
                 {
                   "word": "un",
@@ -12676,8 +12676,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "ribrezzo",
                   "lemma": "ribrezzo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "disgust, repugnance, horror"
                 }
               ]
             }
@@ -12729,7 +12729,7 @@ export const toscaAct2: Act = {
                   "word": "Eccellenza",
                   "lemma": "eccellenza",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "excellence, greatness, pre-eminence / Excellence"
                 },
                 {
                   "word": "l",
@@ -12739,9 +12739,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Angelotti",
-                  "lemma": "angelotti",
+                  "lemma": "Angelotti",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Cesare Angelotti (consul of the Roman Republic)"
                 },
                 {
                   "word": "al",
@@ -12766,7 +12766,7 @@ export const toscaAct2: Act = {
                   "word": "giungere",
                   "lemma": "giungere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to arrive, to reach, to come / to join, to put together"
                 },
                 {
                   "word": "si",
@@ -12776,9 +12776,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "uccise",
-                  "lemma": "uccise",
+                  "lemma": "uccidere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of uccidere"
                 }
               ]
             }
@@ -12813,9 +12813,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "appenda",
-                  "lemma": "appenda",
+                  "lemma": "appendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 }
               ]
             },
@@ -12838,9 +12838,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "forche",
-                  "lemma": "forche",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "forca",
+                  "pos": "noun",
+                  "meaning": "plural of forca"
                 },
                 {
                   "word": "E",
@@ -12862,9 +12862,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "prigionier",
-                  "lemma": "prigionier",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "prigioniero",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of prigioniero"
                 }
               ]
             }
@@ -12893,9 +12893,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Cavaradossi",
-                  "lemma": "cavaradossi",
+                  "lemma": "Cavaradossi",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Mario Cavaradossi (painter)"
                 }
               ]
             },
@@ -12926,7 +12926,7 @@ export const toscaAct2: Act = {
                   "word": "Eccellenza",
                   "lemma": "eccellenza",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "excellence, greatness, pre-eminence / Excellence"
                 }
               ]
             }
@@ -12949,7 +12949,7 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -13001,16 +13001,16 @@ export const toscaAct2: Act = {
               "literal": "<i>Tosca nods her head and in shame sinks her head into the sofa cushions, crying.",
               "tokens": [
                 {
-                  "word": "<i>Tosca",
-                  "lemma": "<i>tosca",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "Tosca",
+                  "lemma": "Tosca",
+                  "pos": "noun",
+                  "meaning": "Floria Tosca (celebrated singer)"
                 },
                 {
                   "word": "accenna",
-                  "lemma": "accenna",
+                  "lemma": "accennare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "di",
@@ -13051,8 +13051,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "vergogna",
                   "lemma": "vergogna",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "shame, disgrace, discredit, scandal / embarrassment, shyness"
                 },
                 {
                   "word": "piangendo",
@@ -13062,9 +13062,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "affonda",
-                  "lemma": "affonda",
+                  "lemma": "affondare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "la",
@@ -13092,9 +13092,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "cuscini",
-                  "lemma": "cuscini",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "cuscino",
+                  "pos": "noun",
+                  "meaning": "plural of cuscino"
                 },
                 {
                   "word": "del",
@@ -13105,8 +13105,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "canapè",
                   "lemma": "canapè",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "settee, couch / canapé"
                 }
               ]
             },
@@ -13122,10 +13122,10 @@ export const toscaAct2: Act = {
                   "meaning": "to / at"
                 },
                 {
-                  "word": "Spoletta</i>",
-                  "lemma": "spoletta</i>",
+                  "word": "Spoletta",
+                  "lemma": "Spoletta",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Spoletta (police agent)"
                 }
               ]
             },
@@ -13164,12 +13164,12 @@ export const toscaAct2: Act = {
                 {
                   "word": "libero",
                   "lemma": "libero",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "free / clear, unobstructed"
                 },
                 {
                   "word": "all",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
@@ -13214,9 +13214,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "simular",
-                  "lemma": "simular",
+                  "lemma": "simulare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to simulate, to fake, to feign, to pretend"
                 },
                 {
                   "word": "Non",
@@ -13319,7 +13319,7 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
@@ -13332,14 +13332,14 @@ export const toscaAct2: Act = {
                 {
                   "word": "fido",
                   "lemma": "fido",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "faithful, loyal"
                 },
                 {
                   "word": "provvederà",
-                  "lemma": "provvederà",
+                  "lemma": "provvedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular future of provvedere"
                 }
               ]
             }
@@ -13368,9 +13368,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "assicura",
-                  "lemma": "assicura",
+                  "lemma": "assicurare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -13395,13 +13395,13 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "ordin",
-                  "lemma": "ordin",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ordine",
+                  "pos": "noun",
+                  "meaning": "order / order"
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -13419,9 +13419,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "darò",
-                  "lemma": "darò",
+                  "lemma": "dare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of dare"
                 },
                 {
                   "word": "voi",
@@ -13438,8 +13438,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "presente",
                   "lemma": "presente",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "present / this"
                 }
               ]
             },
@@ -13450,9 +13450,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Spoletta",
-                  "lemma": "spoletta",
+                  "lemma": "Spoletta",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Spoletta (police agent)"
                 },
                 {
                   "word": "chiudi",
@@ -13481,7 +13481,7 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -13506,9 +13506,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "prigionier",
-                  "lemma": "prigionier",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "prigioniero",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of prigioniero"
                 },
                 {
                   "word": "sia",
@@ -13518,9 +13518,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "fucilato",
-                  "lemma": "fucilato",
+                  "lemma": "fucilare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of fucilare"
                 }
               ]
             },
@@ -13531,9 +13531,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Attendi",
-                  "lemma": "attendi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "attendere",
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -13550,9 +13550,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "facemmo",
-                  "lemma": "facemmo",
+                  "lemma": "fare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural past historic of fare"
                 },
                 {
                   "word": "col",
@@ -13564,13 +13564,13 @@ export const toscaAct2: Act = {
                   "word": "Conte",
                   "lemma": "conte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Count (Count Almaviva)"
                 },
                 {
                   "word": "Palmieri",
                   "lemma": "palmieri",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a surname"
                 }
               ]
             }
@@ -13594,8 +13594,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "uccisione",
                   "lemma": "uccisione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "kill, killing / murder"
                 }
               ]
             }
@@ -13612,9 +13612,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "simulata",
-                  "lemma": "simulata",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "simulato",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of simulato"
                 },
                 {
                   "word": "Come",
@@ -13645,7 +13645,7 @@ export const toscaAct2: Act = {
                   "word": "Palmieri",
                   "lemma": "palmieri",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a surname"
                 }
               ]
             },
@@ -13668,9 +13668,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "compreso",
-                  "lemma": "compreso",
+                  "lemma": "comprendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of comprendere"
                 }
               ]
             }
@@ -13699,9 +13699,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "compreso",
-                  "lemma": "compreso",
+                  "lemma": "comprendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of comprendere"
                 }
               ]
             }
@@ -13747,7 +13747,7 @@ export const toscaAct2: Act = {
                   "word": "avvertirlo",
                   "lemma": "avvertirlo",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive avvertire with lo"
                 },
                 {
                   "word": "io",
@@ -13803,9 +13803,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "darai",
-                  "lemma": "darai",
+                  "lemma": "dare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular future of dare"
                 },
                 {
                   "word": "passo",
@@ -13828,7 +13828,7 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "all",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
@@ -13840,9 +13840,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "quarta",
-                  "lemma": "quarta",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "quarto",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of quarto"
                 }
               ]
             }
@@ -13875,7 +13875,7 @@ export const toscaAct2: Act = {
                   "word": "Palmieri",
                   "lemma": "palmieri",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a surname"
                 }
               ]
             },
@@ -13885,10 +13885,10 @@ export const toscaAct2: Act = {
               "literal": "<i>exits",
               "tokens": [
                 {
-                  "word": "<i>esce",
-                  "lemma": "<i>esce",
+                  "word": "esce",
+                  "lemma": "uscire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of uscire"
                 }
               ]
             },
@@ -13899,15 +13899,15 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Scarpia",
-                  "lemma": "scarpia",
+                  "lemma": "Scarpia",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Baron Scarpia (chief of police)"
                 },
                 {
                   "word": "ritto",
                   "lemma": "ritto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "upright / on one's feet"
                 },
                 {
                   "word": "presso",
@@ -13935,15 +13935,15 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Spoletta",
-                  "lemma": "spoletta",
+                  "lemma": "Spoletta",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Spoletta (police agent)"
                 },
                 {
                   "word": "allontanarsi",
-                  "lemma": "allontanarsi",
+                  "lemma": "allontanare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "reflexive of allontanare / to go away or leave; to distance oneself from something"
                 },
                 {
                   "word": "poi",
@@ -13953,9 +13953,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "trasformato",
-                  "lemma": "trasformato",
+                  "lemma": "trasformare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of trasformare"
                 },
                 {
                   "word": "nel",
@@ -14014,8 +14014,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "passione",
                   "lemma": "passione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "passion, love, addiction / fervour, enthusiasm"
                 },
                 {
                   "word": "a",
@@ -14024,10 +14024,10 @@ export const toscaAct2: Act = {
                   "meaning": "to / at"
                 },
                 {
-                  "word": "Tosca.</i>",
-                  "lemma": "tosca.</i>",
+                  "word": "Tosca",
+                  "lemma": "Tosca",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Floria Tosca (celebrated singer)"
                 }
               ]
             }
@@ -14050,9 +14050,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "tenni",
-                  "lemma": "tenni",
+                  "lemma": "tenere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of tenere"
                 },
                 {
                   "word": "la",
@@ -14115,8 +14115,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "salvacondotto",
                   "lemma": "salvacondotto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "safe-conduct"
                 },
                 {
                   "word": "onde",
@@ -14180,8 +14180,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "Partir",
                   "lemma": "partir",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "apocopic form of partire"
                 },
                 {
                   "word": "dunque",
@@ -14251,9 +14251,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "adempia",
-                  "lemma": "adempia",
+                  "lemma": "adempiere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "il",
@@ -14300,9 +14300,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "scegliete",
-                  "lemma": "scegliete",
+                  "lemma": "scegliere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -14352,7 +14352,7 @@ export const toscaAct2: Act = {
                   "word": "Civitavecchia",
                   "lemma": "civitavecchia",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "a town in Rome, Lazio, Italy"
                 }
               ]
             }
@@ -14390,9 +14390,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Tosca",
-                  "lemma": "tosca",
+                  "lemma": "Tosca",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Floria Tosca (celebrated singer)"
                 },
                 {
                   "word": "finalmente",
@@ -14414,10 +14414,10 @@ export const toscaAct2: Act = {
               "literal": "<i>but the voluptuous accent changes to a terrible scream - Tosca hit him full in the chest",
               "tokens": [
                 {
-                  "word": "<i>ma",
-                  "lemma": "<i>ma",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "ma",
+                  "lemma": "ma",
+                  "pos": "conjunction",
+                  "meaning": "but, however / but, on the contrary"
                 },
                 {
                   "word": "l",
@@ -14428,14 +14428,14 @@ export const toscaAct2: Act = {
                 {
                   "word": "accento",
                   "lemma": "accento",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "stress / accent"
                 },
                 {
                   "word": "voluttuoso",
                   "lemma": "voluttuoso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "voluptuous, luxurious, sensuous"
                 },
                 {
                   "word": "si",
@@ -14475,9 +14475,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Tosca",
-                  "lemma": "tosca",
+                  "lemma": "Tosca",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Floria Tosca (celebrated singer)"
                 },
                 {
                   "word": "lo",
@@ -14493,9 +14493,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "colpito",
-                  "lemma": "colpito",
+                  "lemma": "colpire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of colpire"
                 },
                 {
                   "word": "in",
@@ -14523,10 +14523,10 @@ export const toscaAct2: Act = {
               "literal": "shouting</i>",
               "tokens": [
                 {
-                  "word": "gridando</i>",
-                  "lemma": "gridando</i>",
+                  "word": "gridando",
+                  "lemma": "gridare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of gridare"
                 }
               ]
             },
@@ -14588,9 +14588,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Tosca",
-                  "lemma": "tosca",
+                  "lemma": "Tosca",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Floria Tosca (celebrated singer)"
                 }
               ],
               "grammarNote": "'This is Tosca's kiss!' Tosca's horrifying cry as she plunges the knife into Scarpia's heart."
@@ -14631,7 +14631,7 @@ export const toscaAct2: Act = {
                   "word": "Soccorso",
                   "lemma": "soccorso",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "help, aid, rescue, succour, assistance, relief / aid"
                 },
                 {
                   "word": "Muoio",
@@ -14693,9 +14693,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "ucciso",
-                  "lemma": "ucciso",
+                  "lemma": "uccidere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of uccidere"
                 },
                 {
                   "word": "da",
@@ -14724,7 +14724,7 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "M",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
@@ -14742,9 +14742,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "torturata",
-                  "lemma": "torturata",
+                  "lemma": "torturato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of torturato"
                 }
               ]
             },
@@ -14780,8 +14780,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "Guardami",
                   "lemma": "guardami",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of guarda, the second-person singular imperative form of guardare, with mi"
                 }
               ]
             },
@@ -14798,9 +14798,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Tosca",
-                  "lemma": "tosca",
+                  "lemma": "Tosca",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Floria Tosca (celebrated singer)"
                 },
                 {
                   "word": "O",
@@ -14810,9 +14810,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Scarpia",
-                  "lemma": "scarpia",
+                  "lemma": "Scarpia",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Baron Scarpia (chief of police)"
                 }
               ]
             }
@@ -14833,7 +14833,7 @@ export const toscaAct2: Act = {
                   "word": "Soccorso",
                   "lemma": "soccorso",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "help, aid, rescue, succour, assistance, relief / aid"
                 },
                 {
                   "word": "aiuto",
@@ -14871,9 +14871,9 @@ export const toscaAct2: Act = {
               "tokens": [
                 {
                   "word": "Muori",
-                  "lemma": "muori",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "morire",
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "dannato",
@@ -14883,15 +14883,15 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Muori",
-                  "lemma": "muori",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "morire",
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "Muori",
-                  "lemma": "muori",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "morire",
+                  "pos": "verb",
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -14963,9 +14963,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "tremava",
-                  "lemma": "tremava",
+                  "lemma": "tremare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect indicative of tremare"
                 },
                 {
                   "word": "tutta",
@@ -14988,16 +14988,16 @@ export const toscaAct2: Act = {
               "literal": "<i>he starts to go out, but regrets it, he goes to take the two candles that are on the shelf on the left and lights them on the candelabra on the table, then extinguishing it. Place a lit candle to the right of Scarpia's head. Place the other candle on the left. He searches around again and seeing a crucifix he goes to detach it from the wall and carrying it religiously he kneels down to place it on Scarpia's chest. He gets up and goes out with great caution, closing the door behind him.</i>",
               "tokens": [
                 {
-                  "word": "<i>si",
-                  "lemma": "<i>si",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "si",
+                  "lemma": "si",
+                  "pos": "pronoun",
+                  "meaning": "oneself, himself, herself, itself, themselves / each other, one another"
                 },
                 {
                   "word": "avvia",
-                  "lemma": "avvia",
+                  "lemma": "avviare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "per",
@@ -15025,9 +15025,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "pente",
-                  "lemma": "pente",
+                  "lemma": "pentirsi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of pentirsi"
                 },
                 {
                   "word": "va",
@@ -15086,8 +15086,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "mensola",
                   "lemma": "mensola",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "shelf / console, console table"
                 },
                 {
                   "word": "a",
@@ -15128,8 +15128,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "candelabro",
                   "lemma": "candelabro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "candelabrum, branched candlestick"
                 },
                 {
                   "word": "sulla",
@@ -15145,9 +15145,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "spegnendo",
-                  "lemma": "spegnendo",
+                  "lemma": "spegnere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of spegnere"
                 },
                 {
                   "word": "poi",
@@ -15181,9 +15181,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "accesa",
-                  "lemma": "accesa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "acceso",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of acceso"
                 },
                 {
                   "word": "a",
@@ -15217,9 +15217,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Scarpia",
-                  "lemma": "scarpia",
+                  "lemma": "Scarpia",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Baron Scarpia (chief of police)"
                 },
                 {
                   "word": "Mette",
@@ -15272,8 +15272,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "nuovo",
                   "lemma": "nuovo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "new"
                 },
                 {
                   "word": "intorno",
@@ -15301,9 +15301,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "crocefisso",
-                  "lemma": "crocefisso",
+                  "lemma": "crocefiggere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of crocefiggere"
                 },
                 {
                   "word": "va",
@@ -15321,7 +15321,7 @@ export const toscaAct2: Act = {
                   "word": "staccarlo",
                   "lemma": "staccarlo",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive staccare with lo"
                 },
                 {
                   "word": "dalla",
@@ -15332,8 +15332,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "parete",
                   "lemma": "parete",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "wall / side, surface, wall"
                 },
                 {
                   "word": "e",
@@ -15345,13 +15345,13 @@ export const toscaAct2: Act = {
                   "word": "portandolo",
                   "lemma": "portandolo",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of portando, the gerund of portare, with lo"
                 },
                 {
                   "word": "religiosamente",
                   "lemma": "religiosamente",
                   "pos": "adverb",
-                  "meaning": ""
+                  "meaning": "religiously"
                 },
                 {
                   "word": "si",
@@ -15361,9 +15361,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "inginocchia",
-                  "lemma": "inginocchia",
+                  "lemma": "inginocchiarsi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "per",
@@ -15375,7 +15375,7 @@ export const toscaAct2: Act = {
                   "word": "posarlo",
                   "lemma": "posarlo",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive posare with lo"
                 },
                 {
                   "word": "sul",
@@ -15397,9 +15397,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "Scarpia",
-                  "lemma": "scarpia",
+                  "lemma": "Scarpia",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Baron Scarpia (chief of police)"
                 },
                 {
                   "word": "Si",
@@ -15434,8 +15434,8 @@ export const toscaAct2: Act = {
                 {
                   "word": "precauzione",
                   "lemma": "precauzione",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "precaution / care, prudence, caution"
                 },
                 {
                   "word": "esce",
@@ -15445,9 +15445,9 @@ export const toscaAct2: Act = {
                 },
                 {
                   "word": "richiudendo",
-                  "lemma": "richiudendo",
+                  "lemma": "richiudere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of richiudere"
                 },
                 {
                   "word": "dietro",
@@ -15474,10 +15474,10 @@ export const toscaAct2: Act = {
                   "meaning": "the / her / it"
                 },
                 {
-                  "word": "porta.</i>",
-                  "lemma": "porta.</i>",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "porta",
+                  "lemma": "porta",
+                  "pos": "noun",
+                  "meaning": "gate / door"
                 }
               ]
             }

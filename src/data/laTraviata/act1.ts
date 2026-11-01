@@ -24,21 +24,21 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
                 {
                   "word": "invito",
                   "lemma": "invito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "invitation / request, call"
                 },
                 {
                   "word": "trascorsa",
-                  "lemma": "trascorsa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "trascorso",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of trascorso"
                 },
                 {
                   "word": "è",
@@ -79,9 +79,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "tardaste",
-                  "lemma": "tardaste",
+                  "lemma": "tardare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural past historic / second-person plural imperfect subjunctive"
                 }
               ]
             }
@@ -98,9 +98,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Giocammo",
-                  "lemma": "giocammo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "giocare",
+                  "pos": "verb",
+                  "meaning": "first-person plural past historic of giocare"
                 },
                 {
                   "word": "da",
@@ -110,9 +110,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "Flora",
-                  "lemma": "flora",
+                  "lemma": "Flora",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Flora Bervoix"
                 }
               ]
             },
@@ -129,27 +129,27 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "giocando",
-                  "lemma": "giocando",
+                  "lemma": "giocare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of giocare"
                 },
                 {
                   "word": "quell",
-                  "lemma": "quell'",
+                  "lemma": "quell",
                   "pos": "noun",
                   "meaning": "that"
                 },
                 {
                   "word": "ore",
-                  "lemma": "ore",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ora",
+                  "pos": "noun",
+                  "meaning": "plural of ora"
                 },
                 {
                   "word": "volar",
                   "lemma": "volar",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of volare"
                 }
               ]
             }
@@ -166,9 +166,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Flora",
-                  "lemma": "flora",
+                  "lemma": "Flora",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Flora Bervoix"
                 },
                 {
                   "word": "amici",
@@ -209,7 +209,7 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "D",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -239,9 +239,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "brillar",
-                  "lemma": "brillar",
+                  "lemma": "brillare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to shine, to glisten, to sparkle or twinkle / to go off or explode"
                 }
               ]
             },
@@ -264,9 +264,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "tazze",
-                  "lemma": "tazze",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tazza",
+                  "pos": "noun",
+                  "meaning": "plural of tazza"
                 },
                 {
                   "word": "è",
@@ -321,9 +321,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "goder",
-                  "lemma": "goder",
+                  "lemma": "godere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to enjoy [with di ‘something’; or with a  ‘doing something’] / to feel pleasure, to take pleasure [with in ‘in something’]"
                 },
                 {
                   "word": "voi",
@@ -333,9 +333,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "potrete",
-                  "lemma": "potrete",
+                  "lemma": "potere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural future of potere"
                 }
               ]
             }
@@ -383,15 +383,15 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
                   "word": "affido",
                   "lemma": "affido",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "synonym of affidamento ”)"
                 },
                 {
                   "word": "ed",
@@ -408,8 +408,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "soglio",
                   "lemma": "soglio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "throne, seat / a sovereign's jurisdiction and power"
                 }
               ]
             },
@@ -433,8 +433,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "farmaco",
                   "lemma": "farmaco",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pharmaceutical, medicine, medication, drug"
                 },
                 {
                   "word": "i",
@@ -445,14 +445,14 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "mali",
                   "lemma": "mali",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Mali"
                 },
                 {
                   "word": "sopir",
-                  "lemma": "sopir",
+                  "lemma": "sopire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to send to sleep / to placate, to soothe, to calm, to assuage"
                 }
               ]
             }
@@ -487,15 +487,15 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
                 {
                   "word": "addoppia",
-                  "lemma": "addoppia",
+                  "lemma": "addoppiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "al",
@@ -505,9 +505,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "gioir",
-                  "lemma": "gioir",
+                  "lemma": "gioire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to rejoice  or , or be delighted / to enjoy"
                 }
               ]
             }
@@ -539,15 +539,15 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "Alfredo",
-                  "lemma": "alfredo",
+                  "lemma": "Alfredo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Alfredo Germont"
                 },
                 {
                   "word": "Germont",
-                  "lemma": "germont",
+                  "lemma": "Germont",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Giorgio Germont (Alfredo's father)"
                 },
                 {
                   "word": "o",
@@ -606,9 +606,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "onora",
-                  "lemma": "onora",
+                  "lemma": "onorare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -643,9 +643,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "simili",
-                  "lemma": "simili",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "simile",
+                  "pos": "adjective",
+                  "meaning": "plural of simile"
                 },
                 {
                   "word": "sono",
@@ -678,13 +678,13 @@ export const laTraviataAct1: Act = {
                   "word": "Visconte",
                   "lemma": "visconte",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "viscount"
                 },
                 {
                   "word": "merce",
                   "lemma": "merce",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "goods, wares, merchandise, products, commodities"
                 },
                 {
                   "word": "di",
@@ -727,9 +727,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "Alfredo",
-                  "lemma": "alfredo",
+                  "lemma": "Alfredo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Alfredo Germont"
                 }
               ]
             }
@@ -748,7 +748,7 @@ export const laTraviataAct1: Act = {
                   "word": "Marchese",
                   "lemma": "marchese",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "marquis / menstruation, menstrual period"
                 }
               ]
             }
@@ -767,7 +767,7 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "T",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
@@ -810,15 +810,15 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
                 {
                   "word": "intreccia",
-                  "lemma": "intreccia",
+                  "lemma": "intrecciare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "al",
@@ -892,9 +892,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "sedete",
-                  "lemma": "sedete",
+                  "lemma": "sedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -918,8 +918,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "convito",
                   "lemma": "convito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "banquet"
                 },
                 {
                   "word": "che",
@@ -929,7 +929,7 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -986,15 +986,15 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "cure",
-                  "lemma": "cure",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "cura",
+                  "pos": "noun",
+                  "meaning": "plural of cura"
                 },
                 {
                   "word": "segrete",
-                  "lemma": "segrete",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "segreta",
+                  "pos": "noun",
+                  "meaning": "plural of segreta"
                 }
               ]
             },
@@ -1029,9 +1029,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "licor",
-                  "lemma": "licor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "licore",
+                  "pos": "noun",
+                  "meaning": "alternative form of liquore"
                 }
               ]
             }
@@ -1056,9 +1056,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "Alfredo",
-                  "lemma": "alfredo",
+                  "lemma": "Alfredo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Alfredo Germont"
                 },
                 {
                   "word": "a",
@@ -1095,9 +1095,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Scherzate",
-                  "lemma": "scherzate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "scherzare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -1114,9 +1114,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Egra",
-                  "lemma": "egra",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "egro",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of egro"
                 },
                 {
                   "word": "foste",
@@ -1169,9 +1169,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "volò",
-                  "lemma": "volò",
+                  "lemma": "volare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of volare"
                 },
                 {
                   "word": "di",
@@ -1187,9 +1187,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "chiese",
-                  "lemma": "chiese",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "chiesa",
+                  "pos": "noun",
+                  "meaning": "plural of chiesa"
                 }
               ]
             }
@@ -1206,9 +1206,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Cessate",
-                  "lemma": "cessate",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "cessare",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             },
@@ -1268,7 +1268,7 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -1336,15 +1336,15 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Nol",
-                  "lemma": "nol",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "non lo",
+                  "pos": "particle",
+                  "meaning": "not it / not him (non + lo)"
                 },
                 {
                   "word": "comprendo",
-                  "lemma": "comprendo",
+                  "lemma": "comprendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of comprendere"
                 }
               ]
             }
@@ -1426,9 +1426,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "rendo",
-                  "lemma": "rendo",
+                  "lemma": "rendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of rendere"
                 }
               ]
             },
@@ -1458,8 +1458,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "altrettanto",
                   "lemma": "altrettanto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "particle",
+                  "meaning": "as much, as many"
                 }
               ]
             }
@@ -1503,14 +1503,14 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "anno",
                   "lemma": "anno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "year"
                 },
                 {
                   "word": "soltanto",
                   "lemma": "soltanto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "only, just, but, alone, merely"
                 }
               ]
             }
@@ -1558,8 +1558,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "minuto",
                   "lemma": "minuto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "tiny, minute, emaciated, thin / fine, delicate, detailed"
                 }
               ]
             }
@@ -1582,9 +1582,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "fora",
-                  "lemma": "fora",
+                  "lemma": "essere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "would be / were (poetic)"
                 },
                 {
                   "word": "se",
@@ -1600,9 +1600,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "taciuto",
-                  "lemma": "taciuto",
+                  "lemma": "tacere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of tacere"
                 }
               ]
             }
@@ -1635,7 +1635,7 @@ export const laTraviataAct1: Act = {
                   "word": "increscioso",
                   "lemma": "increscioso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "regrettable"
                 },
                 {
                   "word": "quel",
@@ -1699,7 +1699,7 @@ export const laTraviataAct1: Act = {
                   "word": "simpatico",
                   "lemma": "simpatico",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "nice, pleasing, popular, cute, amusing, funny / sympathetic, invisible"
                 },
                 {
                   "word": "egli",
@@ -1798,8 +1798,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "madama",
                   "lemma": "madama",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "madam / lady (Madama Butterfly)"
                 },
                 {
                   "word": "che",
@@ -1809,9 +1809,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "scuoterlo",
-                  "lemma": "scuoterlo",
+                  "lemma": "scuotere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to shake, to jolt / to shake off, to remove by shaking (lo: him / it)"
                 },
                 {
                   "word": "tocca",
@@ -1850,7 +1850,7 @@ export const laTraviataAct1: Act = {
                   "word": "Ebe",
                   "lemma": "ebe",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Hebe"
                 },
                 {
                   "word": "che",
@@ -1860,9 +1860,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "versa",
-                  "lemma": "versa",
+                  "lemma": "versare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -1887,7 +1887,7 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -1912,9 +1912,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "immortal",
-                  "lemma": "immortal",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "immortale",
+                  "pos": "adjective",
+                  "meaning": "immortal, eternal, everlasting, undying, deathless"
                 },
                 {
                   "word": "come",
@@ -1945,9 +1945,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Beviamo",
-                  "lemma": "beviamo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "bere",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 }
               ]
             }
@@ -2019,9 +2019,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Troverete",
-                  "lemma": "troverete",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "trovare",
+                  "pos": "verb",
+                  "meaning": "second-person plural future of trovare"
                 },
                 {
                   "word": "in",
@@ -2031,7 +2031,7 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "quest",
-                  "lemma": "quest'",
+                  "lemma": "quest",
                   "pos": "noun",
                   "meaning": "this"
                 },
@@ -2108,8 +2108,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "brindisi",
                   "lemma": "brindisi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Brindisi"
                 }
               ]
             }
@@ -2151,15 +2151,15 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "m",
-                  "lemma": "m'",
+                  "lemma": "m",
                   "pos": "noun",
                   "meaning": "me"
                 },
                 {
                   "word": "arride",
-                  "lemma": "arride",
+                  "lemma": "arridere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of arridere"
                 }
               ]
             }
@@ -2201,8 +2201,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "maestro",
                   "lemma": "maestro",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "teacher / master"
                 }
               ]
             }
@@ -2225,15 +2225,15 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "fia",
-                  "lemma": "fia",
+                  "lemma": "essere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "shall be (poetic future of essere)"
                 },
                 {
                   "word": "grato",
                   "lemma": "grato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "appreciated, welcome / pleasant"
                 }
               ]
             }
@@ -2365,9 +2365,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "cantor",
-                  "lemma": "cantor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "cantore",
+                  "pos": "noun",
+                  "meaning": "cantor, precentor / singer, chorister"
                 }
               ]
             }
@@ -2384,9 +2384,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Libiam",
-                  "lemma": "libiam",
+                  "lemma": "Libiam",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Libiam"
                 },
                 {
                   "word": "ne",
@@ -2402,9 +2402,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "calici",
-                  "lemma": "calici",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "calice",
+                  "pos": "noun",
+                  "meaning": "plural of calice"
                 }
               ]
             },
@@ -2433,9 +2433,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "infiora",
-                  "lemma": "infiora",
+                  "lemma": "infiorare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             },
@@ -2458,9 +2458,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "fuggevol",
-                  "lemma": "fuggevol",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fuggevole",
+                  "pos": "adjective",
+                  "meaning": "fleeting"
                 },
                 {
                   "word": "ora",
@@ -2477,15 +2477,15 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "S",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
                 {
                   "word": "inebri",
-                  "lemma": "inebri",
+                  "lemma": "inebriare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "a",
@@ -2496,8 +2496,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "voluttà",
                   "lemma": "voluttà",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pleasure"
                 }
               ]
             },
@@ -2508,9 +2508,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Libiam",
-                  "lemma": "libiam",
+                  "lemma": "Libiam",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Libiam"
                 },
                 {
                   "word": "ne",
@@ -2526,9 +2526,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "fremiti",
-                  "lemma": "fremiti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "fremito",
+                  "pos": "noun",
+                  "meaning": "plural of fremito"
                 }
               ]
             },
@@ -2545,9 +2545,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "suscita",
-                  "lemma": "suscita",
+                  "lemma": "suscitare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "l",
@@ -2576,7 +2576,7 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "quell",
-                  "lemma": "quell'",
+                  "lemma": "quell",
                   "pos": "noun",
                   "meaning": "that"
                 },
@@ -2608,8 +2608,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "Onnipotente",
                   "lemma": "onnipotente",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "omnipotent, all-powerful, almighty"
                 },
                 {
                   "word": "va",
@@ -2626,9 +2626,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Libiamo",
-                  "lemma": "libiamo",
+                  "lemma": "Libiamo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Libiamo"
                 },
                 {
                   "word": "amor",
@@ -2650,9 +2650,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "calici",
-                  "lemma": "calici",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "calice",
+                  "pos": "noun",
+                  "meaning": "plural of calice"
                 }
               ]
             },
@@ -2702,9 +2702,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Libiamo",
-                  "lemma": "libiamo",
+                  "lemma": "Libiamo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Libiamo"
                 },
                 {
                   "word": "amor",
@@ -2726,9 +2726,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "calici",
-                  "lemma": "calici",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "calice",
+                  "pos": "noun",
+                  "meaning": "plural of calice"
                 }
               ]
             },
@@ -2788,15 +2788,15 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "saprò",
-                  "lemma": "saprò",
+                  "lemma": "sapere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of sapere"
                 },
                 {
                   "word": "dividere",
                   "lemma": "dividere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to divide, to split / to divide"
                 }
               ]
             },
@@ -2851,8 +2851,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "follia",
                   "lemma": "follia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "madness, insanity, craziness, rampage, spree / folly, foolishness, absurdity"
                 },
                 {
                   "word": "nel",
@@ -2912,15 +2912,15 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Godiam",
-                  "lemma": "godiam",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "godere",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "fugace",
                   "lemma": "fugace",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "fleeting"
                 },
                 {
                   "word": "e",
@@ -2931,8 +2931,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "rapido",
                   "lemma": "rapido",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "quick, fast, rapid"
                 }
               ]
             },
@@ -2956,12 +2956,12 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "gaudio",
                   "lemma": "gaudio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "overjoy, ecstasy, especially of spiritual or religious nature / joy, happiness"
                 },
                 {
                   "word": "dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
@@ -3053,9 +3053,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "goder",
-                  "lemma": "goder",
+                  "lemma": "godere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to enjoy [with di ‘something’; or with a  ‘doing something’] / to feel pleasure, to take pleasure [with in ‘in something’]"
                 }
               ]
             },
@@ -3066,21 +3066,21 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Godiam",
-                  "lemma": "godiam",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "godere",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "c",
-                  "lemma": "c'",
+                  "lemma": "c",
                   "pos": "noun",
                   "meaning": "there"
                 },
                 {
                   "word": "invita",
-                  "lemma": "invita",
+                  "lemma": "invitare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "un",
@@ -3091,8 +3091,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "fervido",
                   "lemma": "fervido",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "fervid, fervent, ardent"
                 }
               ]
             },
@@ -3105,7 +3105,7 @@ export const laTraviataAct1: Act = {
                   "word": "Accento",
                   "lemma": "accento",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "stress / accent"
                 },
                 {
                   "word": "lusinghier",
@@ -3130,9 +3130,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Godiam",
-                  "lemma": "godiam",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "godere",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "la",
@@ -3143,8 +3143,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "tazza",
                   "lemma": "tazza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "cup, mug / toilet bowl"
                 },
                 {
                   "word": "e",
@@ -3161,8 +3161,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "cantico",
                   "lemma": "cantico",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "canticle"
                 }
               ]
             },
@@ -3185,9 +3185,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "abbella",
-                  "lemma": "abbella",
+                  "lemma": "abbellare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "e",
@@ -3229,8 +3229,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "paradiso",
                   "lemma": "paradiso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Paradise"
                 }
               ]
             },
@@ -3247,9 +3247,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "scopra",
-                  "lemma": "scopra",
+                  "lemma": "scoprire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "il",
@@ -3260,8 +3260,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "nuovo",
                   "lemma": "nuovo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "new"
                 },
                 {
                   "word": "dì",
@@ -3309,8 +3309,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "tripudio",
                   "lemma": "tripudio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "exultation, jubilation / blaze"
                 }
               ]
             }
@@ -3341,7 +3341,7 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "s",
-                  "lemma": "s'",
+                  "lemma": "s",
                   "pos": "noun",
                   "meaning": "oneself"
                 },
@@ -3374,9 +3374,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Nol",
-                  "lemma": "nol",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "non lo",
+                  "pos": "particle",
+                  "meaning": "not it / not him (non + lo)"
                 },
                 {
                   "word": "dite",
@@ -3404,9 +3404,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "ignora",
-                  "lemma": "ignora",
+                  "lemma": "ignorare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 }
               ]
             }
@@ -3470,9 +3470,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Godiam",
-                  "lemma": "godiam",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "godere",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "la",
@@ -3483,8 +3483,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "tazza",
                   "lemma": "tazza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "cup, mug / toilet bowl"
                 },
                 {
                   "word": "e",
@@ -3501,8 +3501,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "cantico",
                   "lemma": "cantico",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "canticle"
                 }
               ]
             },
@@ -3525,9 +3525,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "abbella",
-                  "lemma": "abbella",
+                  "lemma": "abbellare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "e",
@@ -3569,8 +3569,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "paradiso",
                   "lemma": "paradiso",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "Paradise"
                 }
               ]
             },
@@ -3587,9 +3587,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "scopra",
-                  "lemma": "scopra",
+                  "lemma": "scoprire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "il",
@@ -3600,8 +3600,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "nuovo",
                   "lemma": "nuovo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "new"
                 },
                 {
                   "word": "dì",
@@ -3657,9 +3657,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "gradireste",
-                  "lemma": "gradireste",
+                  "lemma": "gradire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural conditional of gradire"
                 },
                 {
                   "word": "ora",
@@ -3675,9 +3675,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "danze",
-                  "lemma": "danze",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "danza",
+                  "pos": "noun",
+                  "meaning": "plural of danza"
                 }
               ]
             }
@@ -3707,8 +3707,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "gentil",
                   "lemma": "gentil",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "apocopic form of gentile"
                 },
                 {
                   "word": "pensier",
@@ -3724,9 +3724,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "accettiamo",
-                  "lemma": "accettiamo",
+                  "lemma": "accettare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 }
               ]
             }
@@ -3743,9 +3743,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Usciamo",
-                  "lemma": "usciamo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "uscire",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 },
                 {
                   "word": "dunque",
@@ -3762,9 +3762,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Ohimé",
-                  "lemma": "ohimé",
+                  "lemma": "Ohimé",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Ohimé"
                 }
               ]
             }
@@ -3852,15 +3852,15 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
                 {
                   "word": "arresta",
-                  "lemma": "arresta",
+                  "lemma": "arrestare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present / second-person singular imperative"
                 }
               ]
             }
@@ -3877,9 +3877,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Usciamo",
-                  "lemma": "usciamo",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "uscire",
+                  "pos": "verb",
+                  "meaning": "first-person plural present indicative/subjunctive / first-person plural imperative"
                 }
               ]
             },
@@ -3942,9 +3942,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "soffrite",
-                  "lemma": "soffrite",
+                  "lemma": "soffrire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -3973,7 +3973,7 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -4011,8 +4011,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "tremito",
                   "lemma": "tremito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "shiver / tremble, shake, tremor"
                 },
                 {
                   "word": "che",
@@ -4022,9 +4022,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "provo",
-                  "lemma": "provo",
+                  "lemma": "provare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of provare"
                 },
                 {
                   "word": "Or",
@@ -4098,9 +4098,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "bramate",
-                  "lemma": "bramate",
+                  "lemma": "bramare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -4140,9 +4140,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "pallor",
-                  "lemma": "pallor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "pallore",
+                  "pos": "noun",
+                  "meaning": "paleness, pallor"
                 }
               ]
             },
@@ -4180,9 +4180,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Cessata",
-                  "lemma": "cessata",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "cessato",
+                  "pos": "verb",
+                  "meaning": "feminine singular of cessato"
                 },
                 {
                   "word": "è",
@@ -4199,8 +4199,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "ansia",
                   "lemma": "ansia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "anxiety, apprehension / eagerness"
                 }
               ]
             },
@@ -4223,9 +4223,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "turbò",
-                  "lemma": "turbò",
+                  "lemma": "turbare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of turbare"
                 }
               ]
             }
@@ -4280,14 +4280,14 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "cotal",
                   "lemma": "cotal",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "apocopic form of cotale"
                 },
                 {
                   "word": "guisa",
                   "lemma": "guisa",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "manner, way"
                 }
               ]
             },
@@ -4298,15 +4298,15 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "V",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
                 {
                   "word": "ucciderete",
-                  "lemma": "ucciderete",
+                  "lemma": "uccidere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural future of uccidere"
                 },
                 {
                   "word": "aver",
@@ -4316,7 +4316,7 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -4328,15 +4328,15 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "uopo",
                   "lemma": "uopo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "need"
                 },
                 {
                   "word": "cura",
@@ -4353,7 +4353,7 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
@@ -4452,9 +4452,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "veglierei",
-                  "lemma": "veglierei",
+                  "lemma": "vegliare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular conditional of vegliare"
                 },
                 {
                   "word": "pe",
@@ -4477,9 +4477,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Soavi",
-                  "lemma": "soavi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "soave",
+                  "pos": "adjective",
+                  "meaning": "plural of soave"
                 },
                 {
                   "word": "dì",
@@ -4601,7 +4601,7 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "V",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -4648,8 +4648,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "Tranne",
                   "lemma": "tranne",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "except, but, apart from"
                 },
                 {
                   "word": "sol",
@@ -4722,14 +4722,14 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "dimenticato",
                   "lemma": "dimenticato",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "forgotten / godforsaken"
                 },
                 {
                   "word": "avea",
                   "lemma": "avea",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "alternative form of aveva"
                 }
               ]
             }
@@ -4748,9 +4748,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Ridete",
-                  "lemma": "ridete",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "ridere",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 },
                 {
                   "word": "e",
@@ -4772,7 +4772,7 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -4857,9 +4857,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "richiedete",
-                  "lemma": "richiedete",
+                  "lemma": "richiedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -4906,9 +4906,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "potreste",
-                  "lemma": "potreste",
+                  "lemma": "potere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural conditional of potere"
                 },
                 {
                   "word": "allora",
@@ -4925,9 +4925,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Celiar",
-                  "lemma": "celiar",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "celiare",
+                  "pos": "verb",
+                  "meaning": "to jest / to mock, to make fun of"
                 }
               ]
             }
@@ -4981,7 +4981,7 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -5080,8 +5080,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "anno",
                   "lemma": "anno",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "year"
                 }
               ]
             },
@@ -5110,9 +5110,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "eterea",
-                  "lemma": "eterea",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "etereo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of etereo"
                 }
               ],
               "grammarNote": "Alfredo declaring that from the first day he saw her, her beauty entered his heart as an ethereal light."
@@ -5130,15 +5130,15 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "balenaste",
-                  "lemma": "balenaste",
+                  "lemma": "balenare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural past historic / second-person plural imperfect subjunctive"
                 },
                 {
                   "word": "innante",
                   "lemma": "innante",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "innante"
                 }
               ]
             },
@@ -5173,9 +5173,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "tremante",
-                  "lemma": "tremante",
+                  "lemma": "tremare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "present participle of tremare"
                 }
               ]
             },
@@ -5186,21 +5186,21 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Vissi",
-                  "lemma": "vissi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "vivere",
+                  "pos": "verb",
+                  "meaning": "first-person singular past historic of vivere"
                 },
                 {
                   "word": "d",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
                 {
                   "word": "ignoto",
                   "lemma": "ignoto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "unknown"
                 },
                 {
                   "word": "amor",
@@ -5223,7 +5223,7 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "quell",
-                  "lemma": "quell'",
+                  "lemma": "quell",
                   "pos": "noun",
                   "meaning": "that"
                 },
@@ -5235,7 +5235,7 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -5248,8 +5248,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "palpito",
                   "lemma": "palpito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "beat / throb"
                 }
               ]
             },
@@ -5260,21 +5260,21 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
                 {
                   "word": "universo",
                   "lemma": "universo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "universe"
                 },
                 {
                   "word": "intero",
                   "lemma": "intero",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "whole, entire / intact"
                 }
               ]
             },
@@ -5287,7 +5287,7 @@ export const laTraviataAct1: Act = {
                   "word": "Misterioso",
                   "lemma": "misterioso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "mysterious, secret, enigmatic, puzzling"
                 },
                 {
                   "word": "altero",
@@ -5317,8 +5317,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "delizia",
                   "lemma": "delizia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "delight"
                 },
                 {
                   "word": "al",
@@ -5377,9 +5377,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "fuggitemi",
-                  "lemma": "fuggitemi",
+                  "lemma": "fuggire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative (mi: me)"
                 }
               ]
             },
@@ -5396,9 +5396,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "amistade",
-                  "lemma": "amistade",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "amicizia",
+                  "pos": "noun",
+                  "meaning": "friendship"
                 },
                 {
                   "word": "io",
@@ -5408,15 +5408,15 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
                 {
                   "word": "offro",
-                  "lemma": "offro",
+                  "lemma": "offrire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of offrire"
                 }
               ]
             },
@@ -5451,9 +5451,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "soffro",
-                  "lemma": "soffro",
+                  "lemma": "soffrire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular present indicative of soffrire"
                 }
               ]
             },
@@ -5478,7 +5478,7 @@ export const laTraviataAct1: Act = {
                   "word": "eroico",
                   "lemma": "eroico",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "heroic"
                 },
                 {
                   "word": "amor",
@@ -5507,15 +5507,15 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "franca",
-                  "lemma": "franca",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "franco",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of franco"
                 },
                 {
                   "word": "ingenua",
-                  "lemma": "ingenua",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ingenuo",
+                  "pos": "noun",
+                  "meaning": "female equivalent of ingenuo"
                 }
               ]
             },
@@ -5558,14 +5558,14 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "arduo",
                   "lemma": "arduo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "arduous / difficult"
                 },
                 {
                   "word": "troverete",
-                  "lemma": "troverete",
+                  "lemma": "trovare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural future of trovare"
                 }
               ]
             },
@@ -5577,8 +5577,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "Dimenticarmi",
                   "lemma": "dimenticarmi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of the infinitive dimenticare with mi"
                 },
                 {
                   "word": "allor",
@@ -5647,8 +5647,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "foleggiava",
                   "lemma": "foleggiava",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "foleggiava"
                 }
               ]
             }
@@ -5689,9 +5689,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "restate",
-                  "lemma": "restate",
+                  "lemma": "restare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative"
                 }
               ]
             }
@@ -5760,8 +5760,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "patto",
                   "lemma": "patto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pact, agreement"
                 }
               ]
             }
@@ -5786,7 +5786,7 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -5800,7 +5800,7 @@ export const laTraviataAct1: Act = {
                   "word": "Parto",
                   "lemma": "parto",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "childbirth, labour/labor, parturition"
                 }
               ]
             }
@@ -5831,9 +5831,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "giungeste",
-                  "lemma": "giungeste",
+                  "lemma": "giungere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural past historic / second-person plural imperfect subjunctive"
                 }
               ]
             },
@@ -5904,7 +5904,7 @@ export const laTraviataAct1: Act = {
                   "word": "riportarlo",
                   "lemma": "riportarlo",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive riportare with lo"
                 }
               ]
             }
@@ -5961,9 +5961,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "appassito",
-                  "lemma": "appassito",
+                  "lemma": "appassire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "past participle of appassire"
                 }
               ]
             }
@@ -6076,7 +6076,7 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "D",
-                  "lemma": "d'",
+                  "lemma": "d",
                   "pos": "noun",
                   "meaning": "of"
                 },
@@ -6084,7 +6084,7 @@ export const laTraviataAct1: Act = {
                   "word": "amarmi",
                   "lemma": "amarmi",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "compound of the infinitive amare with mi"
                 },
                 {
                   "word": "dite",
@@ -6125,7 +6125,7 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "v",
-                  "lemma": "v'",
+                  "lemma": "v",
                   "pos": "noun",
                   "meaning": "you / there"
                 },
@@ -6152,9 +6152,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Partite",
-                  "lemma": "partite",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "partito",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of partito"
                 }
               ]
             }
@@ -6173,7 +6173,7 @@ export const laTraviataAct1: Act = {
                   "word": "Parto",
                   "lemma": "parto",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "childbirth, labour/labor, parturition"
                 }
               ]
             }
@@ -6265,9 +6265,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "ridesta",
-                  "lemma": "ridesta",
+                  "lemma": "ridestare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "in",
@@ -6308,7 +6308,7 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "n",
-                  "lemma": "n'",
+                  "lemma": "n",
                   "pos": "noun",
                   "meaning": "of-it"
                 },
@@ -6321,8 +6321,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "forza",
                   "lemma": "forza",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "force / strength"
                 },
                 {
                   "word": "di",
@@ -6334,7 +6334,7 @@ export const laTraviataAct1: Act = {
                   "word": "partir",
                   "lemma": "partir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "apocopic form of partire"
                 }
               ]
             },
@@ -6347,7 +6347,7 @@ export const laTraviataAct1: Act = {
                   "word": "Merce",
                   "lemma": "merce",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "goods, wares, merchandise, products, commodities"
                 },
                 {
                   "word": "a",
@@ -6364,8 +6364,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "gentil",
                   "lemma": "gentil",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "apocopic form of gentile"
                 },
                 {
                   "word": "signora",
@@ -6395,14 +6395,14 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "splendido",
                   "lemma": "splendido",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "splendid, brilliant, glorious, magnificent"
                 },
                 {
                   "word": "gioir",
-                  "lemma": "gioir",
+                  "lemma": "gioire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to rejoice  or , or be delighted / to enjoy"
                 }
               ]
             },
@@ -6420,8 +6420,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "città",
                   "lemma": "città",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "town, city"
                 },
                 {
                   "word": "di",
@@ -6456,9 +6456,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Volge",
-                  "lemma": "volge",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "volgere",
+                  "pos": "verb",
+                  "meaning": "third-person singular present indicative of volgere"
                 },
                 {
                   "word": "il",
@@ -6500,8 +6500,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "riposo",
                   "lemma": "riposo",
-                  "pos": "adjective",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "rest, repose, break / sleep, rest"
                 },
                 {
                   "word": "ancor",
@@ -6518,8 +6518,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "lena",
                   "lemma": "lena",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "breath / force, energy, vigour"
                 }
               ]
             },
@@ -6536,9 +6536,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "ritempri",
-                  "lemma": "ritempri",
+                  "lemma": "ritemprare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 },
                 {
                   "word": "per",
@@ -6548,9 +6548,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "goder",
-                  "lemma": "goder",
+                  "lemma": "godere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to enjoy [with di ‘something’; or with a  ‘doing something’] / to feel pleasure, to take pleasure [with in ‘in something’]"
                 }
               ]
             }
@@ -6622,9 +6622,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Scolpiti",
-                  "lemma": "scolpiti",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "scolpito",
+                  "pos": "verb",
+                  "meaning": "masculine plural of scolpito"
                 },
                 {
                   "word": "ho",
@@ -6640,9 +6640,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "accenti",
-                  "lemma": "accenti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "accento",
+                  "pos": "noun",
+                  "meaning": "plural of accento"
                 }
               ]
             },
@@ -6653,9 +6653,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Sarìa",
-                  "lemma": "sarìa",
+                  "lemma": "Sarìa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Sarìa"
                 },
                 {
                   "word": "per",
@@ -6672,8 +6672,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "sventura",
                   "lemma": "sventura",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "misfortune, mishap"
                 },
                 {
                   "word": "un",
@@ -6708,9 +6708,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "risolvi",
-                  "lemma": "risolvi",
+                  "lemma": "risolvere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "o",
@@ -6745,9 +6745,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Null'uomo",
-                  "lemma": "null'uomo",
+                  "lemma": "Null'uomo",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Null'uomo"
                 },
                 {
                   "word": "ancora",
@@ -6757,15 +6757,15 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "t",
-                  "lemma": "t'",
+                  "lemma": "t",
                   "pos": "noun",
                   "meaning": "you"
                 },
                 {
                   "word": "accendeva",
-                  "lemma": "accendeva",
+                  "lemma": "accendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular imperfect indicative of accendere"
                 },
                 {
                   "word": "O",
@@ -6788,7 +6788,7 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -6806,9 +6806,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "conobbi",
-                  "lemma": "conobbi",
+                  "lemma": "conoscere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular past historic of conoscere"
                 },
                 {
                   "word": "essere",
@@ -6818,15 +6818,15 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "amata",
-                  "lemma": "amata",
+                  "lemma": "amato",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "feminine singular of amato"
                 },
                 {
                   "word": "amando",
-                  "lemma": "amando",
+                  "lemma": "amare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "gerund of amare"
                 }
               ]
             },
@@ -6843,15 +6843,15 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "sdegnarla",
-                  "lemma": "sdegnarla",
+                  "lemma": "sdegnare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to scorn (la: her / it)"
                 },
                 {
                   "word": "poss'io",
                   "lemma": "poss'io",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "poss'io"
                 }
               ]
             },
@@ -6874,15 +6874,15 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "aride",
-                  "lemma": "aride",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "arido",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of arido"
                 },
                 {
                   "word": "follie",
-                  "lemma": "follie",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "follia",
+                  "pos": "noun",
+                  "meaning": "plural of follia"
                 },
                 {
                   "word": "del",
@@ -6918,8 +6918,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "fors'è",
                   "lemma": "fors'è",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fors'è"
                 },
                 {
                   "word": "lui",
@@ -6955,9 +6955,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Solinga",
-                  "lemma": "solinga",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "solingo",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of solingo"
                 },
                 {
                   "word": "ne",
@@ -6967,9 +6967,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "tumulti",
-                  "lemma": "tumulti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tumulto",
+                  "pos": "noun",
+                  "meaning": "plural of tumulto"
                 }
               ]
             },
@@ -6980,15 +6980,15 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Godea",
-                  "lemma": "godea",
+                  "lemma": "Godea",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Godea"
                 },
                 {
                   "word": "sovente",
                   "lemma": "sovente",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "often"
                 },
                 {
                   "word": "pingere",
@@ -7006,8 +7006,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "De",
                   "lemma": "de",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "alternative form of di"
                 },
                 {
                   "word": "suoi",
@@ -7023,9 +7023,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "occulti",
-                  "lemma": "occulti",
+                  "lemma": "occultare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative / first/second/third-person singular present subjunctive"
                 }
               ]
             },
@@ -7049,8 +7049,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "modesto",
                   "lemma": "modesto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "modest, unpretentious, plain, unassuming, reserved, humble / small, slight, scant"
                 },
                 {
                   "word": "e",
@@ -7062,7 +7062,7 @@ export const laTraviataAct1: Act = {
                   "word": "vigile",
                   "lemma": "vigile",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "vigilant, watchful, alert"
                 }
               ]
             },
@@ -7073,27 +7073,27 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "All",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
                 {
                   "word": "egre",
-                  "lemma": "egre",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "egro",
+                  "pos": "adjective",
+                  "meaning": "feminine plural of egro"
                 },
                 {
                   "word": "soglie",
-                  "lemma": "soglie",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "soglia",
+                  "pos": "noun",
+                  "meaning": "plural of soglia"
                 },
                 {
                   "word": "ascese",
-                  "lemma": "ascese",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ascesa",
+                  "pos": "noun",
+                  "meaning": "plural of ascesa"
                 }
               ]
             },
@@ -7111,20 +7111,20 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "nuova",
                   "lemma": "nuova",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "news"
                 },
                 {
                   "word": "febbre",
                   "lemma": "febbre",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "fever"
                 },
                 {
                   "word": "accese",
-                  "lemma": "accese",
+                  "lemma": "accendere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of accendere"
                 }
               ]
             },
@@ -7136,12 +7136,12 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "Destandomi",
                   "lemma": "destandomi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "verb",
+                  "meaning": "compound of destando, the gerund of destare, with mi"
                 },
                 {
                   "word": "all",
-                  "lemma": "all'",
+                  "lemma": "all",
                   "pos": "noun",
                   "meaning": "to-the"
                 },
@@ -7166,7 +7166,7 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "quell",
-                  "lemma": "quell'",
+                  "lemma": "quell",
                   "pos": "noun",
                   "meaning": "that"
                 },
@@ -7178,7 +7178,7 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "ch",
-                  "lemma": "ch'",
+                  "lemma": "ch",
                   "pos": "noun",
                   "meaning": "that / which"
                 },
@@ -7191,8 +7191,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "palpito",
                   "lemma": "palpito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "beat / throb"
                 }
               ]
             },
@@ -7203,21 +7203,21 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
                 {
                   "word": "universo",
                   "lemma": "universo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "universe"
                 },
                 {
                   "word": "intero",
                   "lemma": "intero",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "whole, entire / intact"
                 }
               ]
             },
@@ -7230,7 +7230,7 @@ export const laTraviataAct1: Act = {
                   "word": "Misterioso",
                   "lemma": "misterioso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "mysterious, secret, enigmatic, puzzling"
                 },
                 {
                   "word": "altero",
@@ -7260,8 +7260,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "delizia",
                   "lemma": "delizia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "delight"
                 },
                 {
                   "word": "al",
@@ -7328,14 +7328,14 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "trepido",
                   "lemma": "trepido",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "anxious"
                 },
                 {
                   "word": "desire",
                   "lemma": "desire",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "desire"
                 }
               ]
             },
@@ -7352,15 +7352,15 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "effigiò",
-                  "lemma": "effigiò",
+                  "lemma": "effigiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular past historic of effigiare"
                 },
                 {
                   "word": "dolcissimo",
-                  "lemma": "dolcissimo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "dolce",
+                  "pos": "adjective",
+                  "meaning": "superlative degree of dolce"
                 }
               ]
             },
@@ -7377,7 +7377,7 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
@@ -7385,7 +7385,7 @@ export const laTraviataAct1: Act = {
                   "word": "avvenire",
                   "lemma": "avvenire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to happen, to occur"
                 }
               ]
             },
@@ -7453,7 +7453,7 @@ export const laTraviataAct1: Act = {
                   "word": "vedea",
                   "lemma": "vedea",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "Contraction of vedeva"
                 }
               ]
             },
@@ -7483,8 +7483,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "pascea",
                   "lemma": "pascea",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pascea"
                 }
               ]
             },
@@ -7508,8 +7508,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "divino",
                   "lemma": "divino",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "of or pertaining to a god or deity; divine / heavenly"
                 },
                 {
                   "word": "error",
@@ -7526,9 +7526,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Sentìa",
-                  "lemma": "sentìa",
+                  "lemma": "Sentìa",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Sentìa"
                 },
                 {
                   "word": "che",
@@ -7551,8 +7551,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "palpito",
                   "lemma": "palpito",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "beat / throb"
                 }
               ]
             },
@@ -7563,21 +7563,21 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Dell",
-                  "lemma": "dell'",
+                  "lemma": "dell",
                   "pos": "noun",
                   "meaning": "of-the"
                 },
                 {
                   "word": "universo",
                   "lemma": "universo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "universe"
                 },
                 {
                   "word": "intero",
                   "lemma": "intero",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "whole, entire / intact"
                 }
               ]
             },
@@ -7590,7 +7590,7 @@ export const laTraviataAct1: Act = {
                   "word": "Misterioso",
                   "lemma": "misterioso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "mysterious, secret, enigmatic, puzzling"
                 },
                 {
                   "word": "altero",
@@ -7620,8 +7620,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "delizia",
                   "lemma": "delizia",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "delight"
                 },
                 {
                   "word": "al",
@@ -7644,21 +7644,21 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Follie",
-                  "lemma": "follie",
+                  "lemma": "follia",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of follia"
                 },
                 {
                   "word": "follie",
-                  "lemma": "follie",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "follia",
+                  "pos": "noun",
+                  "meaning": "plural of follia"
                 },
                 {
                   "word": "delirio",
                   "lemma": "delirio",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "delirium / frenzy"
                 },
                 {
                   "word": "vano",
@@ -7712,9 +7712,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Abbandonata",
-                  "lemma": "abbandonata",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "abbandonato",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of abbandonato"
                 },
                 {
                   "word": "in",
@@ -7739,13 +7739,13 @@ export const laTraviataAct1: Act = {
                   "word": "Popoloso",
                   "lemma": "popoloso",
                   "pos": "adjective",
-                  "meaning": ""
+                  "meaning": "populous / populated"
                 },
                 {
                   "word": "deserto",
                   "lemma": "deserto",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "deserted, desert"
                 }
               ]
             },
@@ -7762,9 +7762,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "appellano",
-                  "lemma": "appellano",
+                  "lemma": "appellare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person plural present indicative of appellare"
                 },
                 {
                   "word": "Parigi",
@@ -7825,8 +7825,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "degg'io",
                   "lemma": "degg'io",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "degg'io"
                 }
               ]
             },
@@ -7839,7 +7839,7 @@ export const laTraviataAct1: Act = {
                   "word": "Gioire",
                   "lemma": "gioire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to rejoice  or , or be delighted / to enjoy"
                 }
               ]
             },
@@ -7857,8 +7857,8 @@ export const laTraviataAct1: Act = {
                 {
                   "word": "voluttà",
                   "lemma": "voluttà",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "pleasure"
                 },
                 {
                   "word": "nei",
@@ -7868,15 +7868,15 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "vortici",
-                  "lemma": "vortici",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "vortice",
+                  "pos": "noun",
+                  "meaning": "plural of vortice"
                 },
                 {
                   "word": "perire",
                   "lemma": "perire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to die, perish / to waste away, perish"
                 }
               ]
             },
@@ -7893,15 +7893,15 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "libera",
-                  "lemma": "libera",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "libero",
+                  "pos": "adjective",
+                  "meaning": "feminine singular of libero"
                 },
                 {
                   "word": "degg'io",
                   "lemma": "degg'io",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "degg'io"
                 }
               ],
               "grammarNote": "'Degg'io' is archaic poetic Italian for 'devo io' (I must), proclaiming her resolve to remain free from emotional attachment."
@@ -7913,9 +7913,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Folleggiar",
-                  "lemma": "folleggiar",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "folleggiare",
+                  "pos": "verb",
+                  "meaning": "to act crazy, to be reckless / to frolic; to paint the town red"
                 },
                 {
                   "word": "di",
@@ -7962,9 +7962,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "scorra",
-                  "lemma": "scorra",
+                  "lemma": "scorrere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "il",
@@ -7999,9 +7999,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "sentieri",
-                  "lemma": "sentieri",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "sentiero",
+                  "pos": "noun",
+                  "meaning": "plural of sentiero"
                 },
                 {
                   "word": "del",
@@ -8024,9 +8024,9 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Nasca",
-                  "lemma": "nasca",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "nascere",
+                  "pos": "verb",
+                  "meaning": "first/second/third-person singular present subjunctive / third-person singular imperative"
                 },
                 {
                   "word": "il",
@@ -8110,9 +8110,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "diletti",
-                  "lemma": "diletti",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "diletto",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of diletto"
                 },
                 {
                   "word": "sempre",
@@ -8122,9 +8122,9 @@ export const laTraviataAct1: Act = {
                 },
                 {
                   "word": "nuovi",
-                  "lemma": "nuovi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "nuovo",
+                  "pos": "adjective",
+                  "meaning": "masculine plural of nuovo"
                 }
               ]
             },
@@ -8135,15 +8135,15 @@ export const laTraviataAct1: Act = {
               "tokens": [
                 {
                   "word": "Dee",
-                  "lemma": "dee",
+                  "lemma": "dea",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "plural of dea"
                 },
                 {
                   "word": "volare",
                   "lemma": "volare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "to fly / to go quickly"
                 },
                 {
                   "word": "il",
@@ -8171,10 +8171,10 @@ export const laTraviataAct1: Act = {
               "literal": "<i>Enter on the left</i>",
               "tokens": [
                 {
-                  "word": "<i>Entra",
-                  "lemma": "<i>entra",
+                  "word": "Entra",
+                  "lemma": "entrare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative / second-person singular imperative"
                 },
                 {
                   "word": "a",
@@ -8183,10 +8183,10 @@ export const laTraviataAct1: Act = {
                   "meaning": "to / at"
                 },
                 {
-                  "word": "sinistra</i>",
-                  "lemma": "sinistra</i>",
-                  "pos": "verb",
-                  "meaning": ""
+                  "word": "sinistra",
+                  "lemma": "sinistra",
+                  "pos": "noun",
+                  "meaning": "left"
                 }
               ]
             }

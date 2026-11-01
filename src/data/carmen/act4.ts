@@ -192,9 +192,9 @@ export const carmenAct4: Act = {
               "tokens": [
                 {
                   "word": "Señoras",
-                  "lemma": "señoras",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "señora",
+                  "pos": "noun",
+                  "meaning": "ladies / señoras"
                 },
                 {
                   "word": "et",
@@ -348,15 +348,15 @@ export const carmenAct4: Act = {
               "tokens": [
                 {
                   "word": "Celles-ci",
-                  "lemma": "celles-ci",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "celui-ci",
+                  "pos": "pronoun",
+                  "meaning": "these ones (fem. pl.)"
                 },
                 {
                   "word": "señor",
                   "lemma": "señor",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "sir / lord / señor"
                 },
                 {
                   "word": "sont",
@@ -441,9 +441,9 @@ export const carmenAct4: Act = {
               "tokens": [
                 {
                   "word": "Señoras",
-                  "lemma": "señoras",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "señora",
+                  "pos": "noun",
+                  "meaning": "ladies / señoras"
                 },
                 {
                   "word": "et",
@@ -633,9 +633,9 @@ export const carmenAct4: Act = {
               "tokens": [
                 {
                   "word": "Voulez-vous",
-                  "lemma": "voulez-vous",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "vouloir",
+                  "pos": "verb",
+                  "meaning": "do you want / would you like"
                 },
                 {
                   "word": "aussi",
@@ -840,9 +840,9 @@ export const carmenAct4: Act = {
               "tokens": [
                 {
                   "word": "Señoras",
-                  "lemma": "señoras",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "señora",
+                  "pos": "noun",
+                  "meaning": "ladies / señoras"
                 },
                 {
                   "word": "et",
@@ -877,9 +877,9 @@ export const carmenAct4: Act = {
                 },
                 {
                   "word": "avez-vous",
-                  "lemma": "avez-vous",
+                  "lemma": "avoir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative of avoir (avez-vous)"
                 },
                 {
                   "word": "donc",
@@ -1181,9 +1181,9 @@ export const carmenAct4: Act = {
                 },
                 {
                   "word": "sait-on",
-                  "lemma": "sait-on",
+                  "lemma": "savoir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "third-person singular present indicative of savoir (sait-on)"
                 },
                 {
                   "word": "ce",
@@ -2799,8 +2799,8 @@ export const carmenAct4: Act = {
                 {
                   "word": "œuvre",
                   "lemma": "œuvre",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "work, book, piece / activity, operation"
                 },
                 {
                   "word": "être",
@@ -2947,8 +2947,8 @@ export const carmenAct4: Act = {
                 {
                   "word": "quelqu'un",
                   "lemma": "quelqu'un",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "pronoun",
+                  "meaning": "one / someone, somebody, anyone, anybody"
                 },
                 {
                   "word": "autant",
@@ -4413,9 +4413,9 @@ export const carmenAct4: Act = {
                 },
                 {
                   "word": "laisse-moi",
-                  "lemma": "laisse-moi",
+                  "lemma": "laisser",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "leave me / let me (laisser + moi)"
                 }
               ]
             },
@@ -4781,9 +4781,9 @@ export const carmenAct4: Act = {
                 },
                 {
                   "word": "laisse-moi",
-                  "lemma": "laisse-moi",
+                  "lemma": "laisser",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "leave me / let me (laisser + moi)"
                 }
               ]
             },
@@ -5555,9 +5555,9 @@ export const carmenAct4: Act = {
               "tokens": [
                 {
                   "word": "Souviens-toi",
-                  "lemma": "souviens-toi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "souvenir",
+                  "pos": "verb",
+                  "meaning": "first/second-person singular present indicative / second-person singular imperative (souviens-toi)"
                 },
                 {
                   "word": "du",
@@ -5989,9 +5989,9 @@ export const carmenAct4: Act = {
                 },
                 {
                   "word": "vas-tu",
-                  "lemma": "vas-tu",
+                  "lemma": "aller",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular present indicative of aller / first-person singular present indicative of aller (vas-tu)"
                 }
               ]
             }
@@ -6010,9 +6010,9 @@ export const carmenAct4: Act = {
               "tokens": [
                 {
                   "word": "Laisse-moi",
-                  "lemma": "laisse-moi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "laisser",
+                  "pos": "verb",
+                  "meaning": "leave me / let me (laisser + moi)"
                 }
               ]
             }
@@ -6109,9 +6109,9 @@ export const carmenAct4: Act = {
               "tokens": [
                 {
                   "word": "Laisse-moi",
-                  "lemma": "laisse-moi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "laisser",
+                  "pos": "verb",
+                  "meaning": "leave me / let me (laisser + moi)"
                 }
               ]
             }
@@ -6247,9 +6247,9 @@ export const carmenAct4: Act = {
               "tokens": [
                 {
                   "word": "Laisse-moi",
-                  "lemma": "laisse-moi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "laisser",
+                  "pos": "verb",
+                  "meaning": "leave me / let me (laisser + moi)"
                 },
                 {
                   "word": "don",
@@ -7029,9 +7029,9 @@ export const carmenAct4: Act = {
                 },
                 {
                   "word": "frappe-moi",
-                  "lemma": "frappe-moi",
+                  "lemma": "frappe",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "hit / strike, striking, kick (frappe-moi)"
                 },
                 {
                   "word": "donc",
@@ -7047,9 +7047,9 @@ export const carmenAct4: Act = {
                 },
                 {
                   "word": "laisse-moi",
-                  "lemma": "laisse-moi",
+                  "lemma": "laisser",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "leave me / let me (laisser + moi)"
                 },
                 {
                   "word": "passer",
@@ -7134,9 +7134,9 @@ export const carmenAct4: Act = {
               "tokens": [
                 {
                   "word": "Veux-tu",
-                  "lemma": "veux-tu",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "vouloir",
+                  "pos": "verb",
+                  "meaning": "wilt thou / do you want"
                 },
                 {
                   "word": "me",

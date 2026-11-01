@@ -129,9 +129,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "gens-là",
-                  "lemma": "gens-là",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "gens",
+                  "pos": "noun",
+                  "meaning": "those people there"
                 }
               ]
             }
@@ -523,9 +523,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "cherchez-vous",
-                  "lemma": "cherchez-vous",
+                  "lemma": "chercher",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "are you looking for (chercher + vous)"
                 },
                 {
                   "word": "la",
@@ -698,9 +698,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "connaissez-vous",
-                  "lemma": "connaissez-vous",
+                  "lemma": "connaître",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "do you know (connaître + vous)"
                 }
               ]
             }
@@ -760,9 +760,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Est-il",
-                  "lemma": "est-il",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "être",
+                  "pos": "verb",
+                  "meaning": "is he / is it"
                 },
                 {
                   "word": "avec",
@@ -1246,9 +1246,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Voulez-vous",
-                  "lemma": "voulez-vous",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "vouloir",
+                  "pos": "verb",
+                  "meaning": "do you want / would you like"
                 },
                 {
                   "word": "la",
@@ -1277,9 +1277,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Voulez-vous",
-                  "lemma": "voulez-vous",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "vouloir",
+                  "pos": "verb",
+                  "meaning": "do you want / would you like"
                 },
                 {
                   "word": "prendre",
@@ -2045,8 +2045,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "passe-temps",
                   "lemma": "passe-temps",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "hobby; pastime"
                 }
               ]
             },
@@ -2177,9 +2177,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "taisons-nous",
-                  "lemma": "taisons-nous",
+                  "lemma": "taire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person plural present indicative / first-person plural imperative (taisons-nous)"
                 }
               ]
             },
@@ -4864,9 +4864,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Dites-moi",
-                  "lemma": "dites-moi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "dire",
+                  "pos": "verb",
+                  "meaning": "second-person plural indicative present / second-person plural imperative (dites-moi)"
                 },
                 {
                   "word": "brigadier",
@@ -5031,9 +5031,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "est-ce",
-                  "lemma": "est-ce",
+                  "lemma": "être",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "is it / is this (est-ce que: does / is)"
                 },
                 {
                   "word": "que",
@@ -6195,9 +6195,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "voulez-vous",
-                  "lemma": "voulez-vous",
+                  "lemma": "vouloir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "do you want / would you like"
                 },
                 {
                   "word": "ces",
@@ -7417,9 +7417,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "a-t-elle",
-                  "lemma": "a-t-elle",
+                  "lemma": "a",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "The first letter of the French alphabet, written in the Latin script. (a-t-elle)"
                 },
                 {
                   "word": "la",
@@ -7455,8 +7455,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "Dix-sept",
                   "lemma": "dix-sept",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adjective",
+                  "meaning": "seventeen"
                 },
                 {
                   "word": "ans",
@@ -7736,8 +7736,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "vous-même",
                   "lemma": "vous-même",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "pronoun",
+                  "meaning": "yourself"
                 },
                 {
                   "word": "Quant",
@@ -8028,9 +8028,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Voyez-les",
-                  "lemma": "voyez-les",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "voir",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative (voyez-les)"
                 },
                 {
                   "word": "regards",
@@ -8824,9 +8824,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Écoutez-nous",
-                  "lemma": "écoutez-nous",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "écouter",
+                  "pos": "verb",
+                  "meaning": "listen to us (écouter + nous)"
                 },
                 {
                   "word": "les",
@@ -9260,9 +9260,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "réponds-nous",
-                  "lemma": "réponds-nous",
+                  "lemma": "répondre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second-person singular present indicative / second-person singular imperative (réponds-nous)"
                 }
               ]
             },
@@ -9279,9 +9279,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "dis-nous",
-                  "lemma": "dis-nous",
+                  "lemma": "dire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second-person singular present indicative / first/second-person singular past historic (dis-nous)"
                 },
                 {
                   "word": "quel",
@@ -9441,8 +9441,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "aujourd'hui",
                   "lemma": "aujourd'hui",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "today / nowadays"
                 },
                 {
                   "word": "c",
@@ -10792,9 +10792,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "réponds-nous",
-                  "lemma": "réponds-nous",
+                  "lemma": "répondre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/second-person singular present indicative / second-person singular imperative (réponds-nous)"
                 }
               ]
             }
@@ -10831,9 +10831,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "est-ce",
-                  "lemma": "est-ce",
+                  "lemma": "être",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "is it / is this (est-ce que: does / is)"
                 },
                 {
                   "word": "que",
@@ -11111,9 +11111,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "est-ce",
-                  "lemma": "est-ce",
+                  "lemma": "être",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "is it / is this (est-ce que: does / is)"
                 },
                 {
                   "word": "que",
@@ -11147,9 +11147,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "façons-là",
-                  "lemma": "façons-là",
+                  "lemma": "façon",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "plural of façon (façons-là)"
                 },
                 {
                   "word": "Quelle",
@@ -11666,9 +11666,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "fille-là",
-                  "lemma": "fille-là",
+                  "lemma": "fille",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "girl / daughter (fille-là)"
                 },
                 {
                   "word": "en",
@@ -11757,9 +11757,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "est-ce",
-                  "lemma": "est-ce",
+                  "lemma": "être",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "is it / is this (est-ce que: does / is)"
                 },
                 {
                   "word": "que",
@@ -11876,8 +11876,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "là-bas",
                   "lemma": "là-bas",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "over there / yonder / down there"
                 }
               ]
             }
@@ -11919,8 +11919,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "là-bas",
                   "lemma": "là-bas",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "over there / yonder / down there"
                 },
                 {
                   "word": "C",
@@ -12518,9 +12518,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "est-elle",
-                  "lemma": "est-elle",
+                  "lemma": "est",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "east (est-elle)"
                 }
               ]
             },
@@ -12782,9 +12782,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "a-t-elle",
-                  "lemma": "a-t-elle",
+                  "lemma": "a",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "The first letter of the French alphabet, written in the Latin script. (a-t-elle)"
                 },
                 {
                   "word": "dit",
@@ -13173,9 +13173,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "est-ce",
-                  "lemma": "est-ce",
+                  "lemma": "être",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "is it / is this (est-ce que: does / is)"
                 },
                 {
                   "word": "pas",
@@ -14487,8 +14487,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "aujourd'hui",
                   "lemma": "aujourd'hui",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "today / nowadays"
                 }
               ]
             },
@@ -14549,8 +14549,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "Là-bas",
                   "lemma": "là-bas",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "over there / yonder / down there"
                 },
                 {
                   "word": "soit",
@@ -14603,9 +14603,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "est-ce",
-                  "lemma": "est-ce",
+                  "lemma": "être",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "is it / is this (est-ce que: does / is)"
                 },
                 {
                   "word": "pas",
@@ -15270,9 +15270,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "pourras-tu",
-                  "lemma": "pourras-tu",
+                  "lemma": "pouvoir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person singular future of pouvoir (pourras-tu)"
                 },
                 {
                   "word": "quitter",
@@ -15493,8 +15493,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "grand'peine",
                   "lemma": "grand'peine",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "grand'peine"
                 },
                 {
                   "word": "à",
@@ -16722,9 +16722,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "est-ce",
-                  "lemma": "est-ce",
+                  "lemma": "être",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "is it / is this (est-ce que: does / is)"
                 },
                 {
                   "word": "qui",
@@ -16773,9 +16773,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "entendez-vous",
-                  "lemma": "entendez-vous",
+                  "lemma": "entendre",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative (entendez-vous)"
                 },
                 {
                   "word": "pas",
@@ -17106,9 +17106,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "écoutez-nous",
-                  "lemma": "écoutez-nous",
+                  "lemma": "écouter",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "listen to us (écouter + nous)"
                 }
               ]
             }
@@ -17537,9 +17537,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "jour-là",
-                  "lemma": "jour-là",
+                  "lemma": "jour",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "day / daylight, light (jour-là)"
                 },
                 {
                   "word": "tu",
@@ -17686,8 +17686,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "Là-dessus",
                   "lemma": "là-dessus",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "on this, here / thereupon, with this"
                 },
                 {
                   "word": "toutes",
@@ -17951,9 +17951,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "écoutez-nous",
-                  "lemma": "écoutez-nous",
+                  "lemma": "écouter",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "listen to us (écouter + nous)"
                 }
               ]
             }
@@ -17989,9 +17989,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Éloignez-moi",
-                  "lemma": "éloignez-moi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "éloigner",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative (éloignez-moi)"
                 },
                 {
                   "word": "toutes",
@@ -18007,9 +18007,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "femmes-là",
-                  "lemma": "femmes-là",
+                  "lemma": "femme",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "plural of femme (femmes-là)"
                 }
               ]
             }
@@ -18028,15 +18028,15 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Écoutez-nous",
-                  "lemma": "écoutez-nous",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "écouter",
+                  "pos": "verb",
+                  "meaning": "listen to us (écouter + nous)"
                 },
                 {
                   "word": "écoutez-nous",
-                  "lemma": "écoutez-nous",
+                  "lemma": "écouter",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "listen to us (écouter + nous)"
                 }
               ]
             }
@@ -18084,9 +18084,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Éloignez-vous",
-                  "lemma": "éloignez-vous",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "éloigner",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative (éloignez-vous)"
                 },
                 {
                   "word": "et",
@@ -18096,9 +18096,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "taisez-vous",
-                  "lemma": "taisez-vous",
+                  "lemma": "se taire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural imperative of se taire"
                 }
               ]
             }
@@ -18117,15 +18117,15 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Écoutez-nous",
-                  "lemma": "écoutez-nous",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "écouter",
+                  "pos": "verb",
+                  "meaning": "listen to us (écouter + nous)"
                 },
                 {
                   "word": "écoutez-nous",
-                  "lemma": "écoutez-nous",
+                  "lemma": "écouter",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "listen to us (écouter + nous)"
                 }
               ]
             }
@@ -18288,9 +18288,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Éloignez-vous",
-                  "lemma": "éloignez-vous",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "éloigner",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative (éloignez-vous)"
                 },
                 {
                   "word": "et",
@@ -18300,9 +18300,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "taisez-vous",
-                  "lemma": "taisez-vous",
+                  "lemma": "se taire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural imperative of se taire"
                 }
               ]
             }
@@ -18396,9 +18396,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "est-ce",
-                  "lemma": "est-ce",
+                  "lemma": "être",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "is it / is this (est-ce que: does / is)"
                 },
                 {
                   "word": "que",
@@ -18427,8 +18427,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "là-dedans",
                   "lemma": "là-dedans",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "inside there / in this affair,  with this"
                 }
               ]
             }
@@ -18992,9 +18992,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "est-ce",
-                  "lemma": "est-ce",
+                  "lemma": "être",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "is it / is this (est-ce que: does / is)"
                 },
                 {
                   "word": "qu",
@@ -19271,9 +19271,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "est-ce",
-                  "lemma": "est-ce",
+                  "lemma": "être",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "is it / is this (est-ce que: does / is)"
                 },
                 {
                   "word": "pas",
@@ -19610,9 +19610,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "Saint-André",
-                  "lemma": "saint-andré",
+                  "lemma": "saint",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "a male saint; masculine of sainte (saint-andré)"
                 },
                 {
                   "word": "sur",
@@ -20253,15 +20253,15 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "Avez-vous",
-                  "lemma": "avez-vous",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "avoir",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative of avoir (avez-vous)"
                 },
                 {
                   "word": "quelque-chose",
-                  "lemma": "quelque-chose",
+                  "lemma": "quelque",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "some (quelque-chose)"
                 },
                 {
                   "word": "à",
@@ -20310,15 +20310,15 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Coupe-moi",
-                  "lemma": "coupe-moi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "coupe",
+                  "pos": "verb",
+                  "meaning": "goblet, cup / cup (coupe-moi)"
                 },
                 {
                   "word": "brûle-moi",
-                  "lemma": "brûle-moi",
+                  "lemma": "brûler",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first/third-person singular present indicative/subjunctive / second-person singular imperative (brûle-moi)"
                 },
                 {
                   "word": "je",
@@ -20740,9 +20740,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "ton-là",
-                  "lemma": "ton-là",
+                  "lemma": "ton",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "your (ton-là)"
                 }
               ]
             },
@@ -20783,9 +20783,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "est-ce",
-                  "lemma": "est-ce",
+                  "lemma": "être",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "is it / is this (est-ce que: does / is)"
                 },
                 {
                   "word": "pas",
@@ -20977,9 +20977,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Trouvez-moi",
-                  "lemma": "trouvez-moi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "trouver",
+                  "pos": "verb",
+                  "meaning": "second-person plural present indicative / second-person plural imperative (trouvez-moi)"
                 },
                 {
                   "word": "une",
@@ -21055,9 +21055,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "attachez-moi",
-                  "lemma": "attachez-moi",
+                  "lemma": "attacher",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural present indicative / second-person plural imperative (attachez-moi)"
                 },
                 {
                   "word": "ces",
@@ -21303,8 +21303,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "porte-clefs",
                   "lemma": "porte-clefs",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "alternative spelling of porte-clef"
                 },
                 {
                   "word": "vous",
@@ -21466,9 +21466,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "conduirez-vous",
-                  "lemma": "conduirez-vous",
+                  "lemma": "conduire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural future of conduire (conduirez-vous)"
                 }
               ]
             }
@@ -21546,9 +21546,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "deviendrai-je",
-                  "lemma": "deviendrai-je",
+                  "lemma": "devenir",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "first-person singular future of devenir (deviendrai-je)"
                 },
                 {
                   "word": "Seigneur",
@@ -21877,9 +21877,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Laisse-moi",
-                  "lemma": "laisse-moi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "laisser",
+                  "pos": "verb",
+                  "meaning": "leave me / let me (laisser + moi)"
                 },
                 {
                   "word": "m",
@@ -23090,9 +23090,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "ferez-vous",
-                  "lemma": "ferez-vous",
+                  "lemma": "faire",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "second-person plural future of faire (ferez-vous)"
                 },
                 {
                   "word": "rien",
@@ -25229,9 +25229,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Tais-toi",
-                  "lemma": "tais-toi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "se taire",
+                  "pos": "verb",
+                  "meaning": "second-person singular imperative of se taire"
                 },
                 {
                   "word": "Je",
@@ -25351,8 +25351,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "moi-même",
                   "lemma": "moi-même",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "pronoun",
+                  "meaning": "myself"
                 }
               ]
             },
@@ -26353,9 +26353,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Laisse-toi",
-                  "lemma": "laisse-toi",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "laisse",
+                  "pos": "verb",
+                  "meaning": "leash, lead / foreshore (laisse-toi)"
                 },
                 {
                   "word": "renverser",
