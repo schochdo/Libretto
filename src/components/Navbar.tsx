@@ -260,11 +260,11 @@ export const Navbar: React.FC<NavbarProps> = ({
   // Escape key listener to exit fullscreen on all platforms (including iPad external keyboards)
   React.useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
-      if (e.key === 'Escape' && isFullscreen) {
+      if ((e.key === 'Escape' || e.code === 'Escape') && isFullscreen) {
         if (isNativeFsSupported()) {
           try {
             const doc = document as any;
-            if (document.fullscreenElement || doc.webkitFullscreenElement) {
+            if (document.fullscreenElement || doc.webkitFullscreenElement || doc.mozFullScreenElement) {
               if (typeof document.exitFullscreen === 'function') {
                 const res = document.exitFullscreen();
                 if (res && typeof res.catch === 'function') res.catch(() => {});
@@ -277,8 +277,8 @@ export const Navbar: React.FC<NavbarProps> = ({
         setIsFullscreen(false);
       }
     };
-    window.addEventListener('keydown', handleKeyDown);
-    return () => window.removeEventListener('keydown', handleKeyDown);
+    window.addEventListener('keydown', handleKeyDown, true);
+    return () => window.removeEventListener('keydown', handleKeyDown, true);
   }, [isFullscreen, isNativeFsSupported]);
 
   const toggleFullscreen = () => {
@@ -474,21 +474,38 @@ export const Navbar: React.FC<NavbarProps> = ({
               </button>
             </div>
 
-            {/* Exit Fullscreen Button */}
+            {/* Audio Voice Settings Button */}
+            <button
+              onClick={onOpenVoiceSettings}
+              className="flex items-center gap-1.5 px-2 sm:px-2.5 py-1.5 text-xs rounded-lg border transition-all hover:opacity-85 shadow-2xs cursor-pointer min-h-[32px]"
+              style={{
+                backgroundColor: 'var(--bg-primary)',
+                borderColor: 'var(--border-color)',
+                color: 'var(--text-secondary)'
+              }}
+              title="Pronunciation Voice Settings"
+              aria-label="Audio & Voice Settings"
+            >
+              <Volume2 className="w-3.5 h-3.5 shrink-0" style={{ color: 'var(--accent)' }} />
+              <span className="hidden md:inline font-serif font-medium max-w-[85px] truncate">
+                {activeVoiceName || 'Voice'}
+              </span>
+            </button>
+
+            {/* Exit Fullscreen Button - Identical compact 32x32 size as Enter Fullscreen */}
             <button
               type="button"
               onClick={toggleFullscreen}
-              className="flex items-center gap-1.5 px-2.5 py-1.5 text-xs rounded-lg border font-medium transition-all hover:opacity-90 active:scale-95 shadow-2xs cursor-pointer min-h-[32px]"
+              className="p-1.5 rounded-lg border transition-all hover:opacity-85 active:scale-95 shadow-2xs cursor-pointer min-w-[32px] min-h-[32px] flex items-center justify-center shrink-0"
               style={{
                 backgroundColor: 'var(--bg-primary)',
                 borderColor: 'var(--border-active)',
                 color: 'var(--accent)'
               }}
-              title="Exit Fullscreen (or press Escape)"
+              title="Exit Fullscreen (or press Esc)"
               aria-label="Exit Fullscreen"
             >
               <Minimize2 className="w-3.5 h-3.5" />
-              <span className="font-serif hidden sm:inline text-xs font-semibold">Exit Fullscreen</span>
             </button>
           </div>
         </div>
