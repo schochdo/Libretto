@@ -6533,8 +6533,8 @@ export const aidaAct3: Act = {
           "lines": [
             {
               "id": "a3_s1_c59_l1",
-              "original": "Là... tra foreste vergini, <i>ecc.</i>",
-              "literal": "There... amidst virgin forests, <i>etc.</i>",
+              "original": "Là... tra foreste vergini, ecc.",
+              "literal": "There... amidst virgin forests, etc.",
               "tokens": [
                 {
                   "word": "Là",

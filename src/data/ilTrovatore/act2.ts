@@ -11336,8 +11336,8 @@ export const trovatoreAct2: Act = {
             },
             {
               "id": "a2_s5_c15_l2",
-              "original": "<i>Manrico tragge seco Leonora, il Conte è respinto; le donne rifuggono al cenobio.",
-              "literal": "<i>Manrico takes Leonora with him, the Count is rejected; the women flee to the monastery.",
+              "original": "Manrico tragge seco Leonora, il Conte è respinto; le donne rifuggono al cenobio.",
+              "literal": "Manrico takes Leonora with him, the Count is rejected; the women flee to the monastery.",
               "tokens": [
                 {
                   "word": "Manrico",
@@ -11421,8 +11421,8 @@ export const trovatoreAct2: Act = {
             },
             {
               "id": "a2_s5_c15_l3",
-              "original": "Scende subito la tela</i>",
-              "literal": "The canvas immediately comes down</i>",
+              "original": "Scende subito la tela",
+              "literal": "The canvas immediately comes down",
               "tokens": [
                 {
                   "word": "Scende",

@@ -32624,8 +32624,8 @@ export const barbiereDiSivigliaAct1: Act = {
             },
             {
               "id": "a1_s15_c7_l3",
-              "original": "<i>Con gesto autorevole trattiene i soldati che si arrestano. Egli chiama a sè l'ufficiale, gli dì a leggere un foglio: l'Ufficiale resta sorpreso, vuoi fargli un inchino, e il Conte lo trattiene.",
-              "literal": "<i>With an authoritative gesture he holds back the soldiers who stop. He calls the officer to him, tells him to read a paper: the Officer is surprised, you want to bow to him, and the Count holds him back.",
+              "original": "Con gesto autorevole trattiene i soldati che si arrestano. Egli chiama a sè l'ufficiale, gli dì a leggere un foglio: l'Ufficiale resta sorpreso, vuoi fargli un inchino, e il Conte lo trattiene.",
+              "literal": "With an authoritative gesture he holds back the soldiers who stop. He calls the officer to him, tells him to read a paper: the Officer is surprised, you want to bow to him, and the Count holds him back.",
               "tokens": [
                 {
                   "word": "Con",
@@ -32835,8 +32835,8 @@ export const barbiereDiSivigliaAct1: Act = {
             },
             {
               "id": "a1_s15_c7_l4",
-              "original": "L'Ufficiale fa cenno ai soldati che si ritirano indietro, e anch'egli fa lo stesso. Quadro di stupore.</i>",
-              "literal": "The Officer signals to the soldiers who retreat back, and he also does the same. Amazing picture.</i>",
+              "original": "L'Ufficiale fa cenno ai soldati che si ritirano indietro, e anch'egli fa lo stesso. Quadro di stupore.",
+              "literal": "The Officer signals to the soldiers who retreat back, and he also does the same. Amazing picture.",
               "tokens": [
                 {
                   "word": "L",

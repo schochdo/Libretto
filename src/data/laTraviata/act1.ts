@@ -8167,8 +8167,8 @@ export const laTraviataAct1: Act = {
             },
             {
               "id": "a1_s5_c1_l50",
-              "original": "<i>Entra a sinistra</i>",
-              "literal": "<i>Enter on the left</i>",
+              "original": "Entra a sinistra",
+              "literal": "Enter on the left",
               "tokens": [
                 {
                   "word": "Entra",

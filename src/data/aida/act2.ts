@@ -10363,8 +10363,8 @@ export const aidaAct2: Act = {
           "lines": [
             {
               "id": "a2_s2_c44_l1",
-              "original": "Ma tu, o Re, tu signore possente, <i>ecc.</i>",
-              "literal": "But you, O King, you mighty lord, <i>etc.</i>",
+              "original": "Ma tu, o Re, tu signore possente, ecc.",
+              "literal": "But you, O King, you mighty lord, etc.",
               "tokens": [
                 {
                   "word": "Ma",
@@ -10424,8 +10424,8 @@ export const aidaAct2: Act = {
           "lines": [
             {
               "id": "a2_s2_c45_l1",
-              "original": "(Il dolor la rende più bella, <i>ecc.</i>)",
-              "literal": "(Grief makes her even more beautiful, <i>etc.</i>)",
+              "original": "(Il dolor la rende più bella, ecc.)",
+              "literal": "(Grief makes her even more beautiful, etc.)",
               "tokens": [
                 {
                   "word": "Il",
@@ -10479,8 +10479,8 @@ export const aidaAct2: Act = {
           "lines": [
             {
               "id": "a2_s2_c46_l1",
-              "original": "Ma tu, o Re, tu signore possente, <i>ecc.</i>",
-              "literal": "But you, O King, you mighty lord, <i>etc.</i>",
+              "original": "Ma tu, o Re, tu signore possente, ecc.",
+              "literal": "But you, O King, you mighty lord, etc.",
               "tokens": [
                 {
                   "word": "Ma",
@@ -10540,8 +10540,8 @@ export const aidaAct2: Act = {
           "lines": [
             {
               "id": "a2_s2_c47_l1",
-              "original": "La pietà sale ai Numi gradita, <i>ecc.</i>",
-              "literal": "Mercy ascends pleasing to the Gods, <i>etc.</i>",
+              "original": "La pietà sale ai Numi gradita, ecc.",
+              "literal": "Mercy ascends pleasing to the Gods, etc.",
               "tokens": [
                 {
                   "word": "La",
@@ -10595,8 +10595,8 @@ export const aidaAct2: Act = {
           "lines": [
             {
               "id": "a2_s2_c48_l1",
-              "original": "Sì, dai Numi percossi noi siamo, <i>ecc.</i>",
-              "literal": "Yes, we are stricken by the Gods, <i>etc.</i>",
+              "original": "Sì, dai Numi percossi noi siamo, ecc.",
+              "literal": "Yes, we are stricken by the Gods, etc.",
               "tokens": [
                 {
                   "word": "Sì",
@@ -10650,8 +10650,8 @@ export const aidaAct2: Act = {
           "lines": [
             {
               "id": "a2_s2_c49_l1",
-              "original": "Struggi, o Re, queste ciurme feroci, <i>ecc.</i>",
-              "literal": "Destroy, O King, these ferocious hordes, <i>etc.</i>",
+              "original": "Struggi, o Re, queste ciurme feroci, ecc.",
+              "literal": "Destroy, O King, these ferocious hordes, etc.",
               "tokens": [
                 {
                   "word": "Struggi",
@@ -10797,8 +10797,8 @@ export const aidaAct2: Act = {
           "lines": [
             {
               "id": "a2_s2_c51_l1",
-              "original": "(Ed io sola, avvilita, <i>ecc.</i>)",
-              "literal": "(And I alone, abased, <i>etc.</i>)",
+              "original": "(Ed io sola, avvilita, ecc.)",
+              "literal": "(And I alone, abased, etc.)",
               "tokens": [
                 {
                   "word": "Ed",
@@ -13556,8 +13556,8 @@ export const aidaAct2: Act = {
             },
             {
               "id": "a2_s2_c74_l2",
-              "original": "I lieti eventi aspetta; <i>ecc.</i>",
-              "literal": "Await happy events; <i>etc.</i>",
+              "original": "I lieti eventi aspetta; ecc.",
+              "literal": "Await happy events; etc.",
               "tokens": [
                 {
                   "word": "I",
@@ -13599,8 +13599,8 @@ export const aidaAct2: Act = {
           "lines": [
             {
               "id": "a2_s2_c75_l1",
-              "original": "Gloria, all'egitto! ad Iside, <i>ecc.</i>",
-              "literal": "Glory to Egypt! To Isis, <i>etc.</i>",
+              "original": "Gloria, all'egitto! ad Iside, ecc.",
+              "literal": "Glory to Egypt! To Isis, etc.",
               "tokens": [
                 {
                   "word": "Gloria",
@@ -13648,8 +13648,8 @@ export const aidaAct2: Act = {
           "lines": [
             {
               "id": "a2_s2_c76_l1",
-              "original": "Inni leviamo ad Iside, <i>ecc.</i>",
-              "literal": "Let us raise hymns to Isis, <i>etc.</i>",
+              "original": "Inni leviamo ad Iside, ecc.",
+              "literal": "Let us raise hymns to Isis, etc.",
               "tokens": [
                 {
                   "word": "Inni",
@@ -13900,8 +13900,8 @@ export const aidaAct2: Act = {
           "lines": [
             {
               "id": "a2_s2_c78_l1",
-              "original": "Gloria al clemente Egizio, <i>ecc.</i>",
-              "literal": "Glory to the merciful Egyptian, <i>etc.</i>",
+              "original": "Gloria al clemente Egizio, ecc.",
+              "literal": "Glory to the merciful Egyptian, etc.",
               "tokens": [
                 {
                   "word": "Gloria",

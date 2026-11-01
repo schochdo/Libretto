@@ -18925,8 +18925,8 @@ export const nozzeDiFigaroAct1: Act = {
             },
             {
               "id": "a1_s8_c29_l25",
-              "original": "<i>Partono tutti alla militare.</i>\n",
-              "literal": "<i>They all leave in the military style.</i>",
+              "original": "Partono tutti alla militare.\n",
+              "literal": "They all leave in the military style.",
               "tokens": [
                 {
                   "word": "Partono",

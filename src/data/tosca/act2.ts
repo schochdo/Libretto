@@ -630,8 +630,8 @@ export const toscaAct2: Act = {
             },
             {
               "id": "a2_s1_c3_l9",
-              "original": "<i>Sciarrone esce",
-              "literal": "<i>Sciarrone exits",
+              "original": "Sciarrone esce",
+              "literal": "Sciarrone exits",
               "tokens": [
                 {
                   "word": "Sciarrone",
@@ -649,8 +649,8 @@ export const toscaAct2: Act = {
             },
             {
               "id": "a2_s1_c3_l10",
-              "original": "torna alla tavola e mescendosi da bere dice:</i>",
-              "literal": "he returns to the table and pours himself a drink and says:</i>",
+              "original": "torna alla tavola e mescendosi da bere dice:",
+              "literal": "he returns to the table and pours himself a drink and says:",
               "tokens": [
                 {
                   "word": "torna",
@@ -2960,8 +2960,8 @@ export const toscaAct2: Act = {
             },
             {
               "id": "a2_s2_c13_l2",
-              "original": "<i>Spoletta esce",
-              "literal": "<i>Spoletta exits",
+              "original": "Spoletta esce",
+              "literal": "Spoletta exits",
               "tokens": [
                 {
                   "word": "Spoletta",
@@ -2979,8 +2979,8 @@ export const toscaAct2: Act = {
             },
             {
               "id": "a2_s2_c13_l3",
-              "original": "a Sciarrone</i>",
-              "literal": "in Sciarrone</i>",
+              "original": "a Sciarrone",
+              "literal": "in Sciarrone",
               "tokens": [
                 {
                   "word": "a",
@@ -6283,8 +6283,8 @@ export const toscaAct2: Act = {
             },
             {
               "id": "a2_s4_c33_l2",
-              "original": "<i>Sciarrone entra di nuovo nella camera della tortura, chiudendo",
-              "literal": "<i>Sciarrone enters the torture chamber again, closing",
+              "original": "Sciarrone entra di nuovo nella camera della tortura, chiudendo",
+              "literal": "Sciarrone enters the torture chamber again, closing",
               "tokens": [
                 {
                   "word": "Sciarrone",
@@ -6344,8 +6344,8 @@ export const toscaAct2: Act = {
             },
             {
               "id": "a2_s4_c33_l3",
-              "original": "a Tosca</i>",
-              "literal": "in Tosca</i>",
+              "original": "a Tosca",
+              "literal": "in Tosca",
               "tokens": [
                 {
                   "word": "a",
@@ -11344,8 +11344,8 @@ export const toscaAct2: Act = {
             },
             {
               "id": "a2_s5_c22_l9",
-              "original": "<i>freddamente si appoggia ad un angolo della tavola, continuando a guardare Tosca.",
-              "literal": "<i>coldly he leans against a corner of the table, continuing to look at Tosca.",
+              "original": "freddamente si appoggia ad un angolo della tavola, continuando a guardare Tosca.",
+              "literal": "coldly he leans against a corner of the table, continuing to look at Tosca.",
               "tokens": [
                 {
                   "word": "freddamente",
@@ -11484,8 +11484,8 @@ export const toscaAct2: Act = {
             },
             {
               "id": "a2_s5_c22_l11",
-              "original": "Freddamente Scarpia va ad appoggiarsi ad un angolo della tavola, si versa del caffè e lo assorbe mentre continua a guardare Tosca.</i>",
-              "literal": "Scarpia coldly goes to lean against a corner of the table, pours himself some coffee and absorbs it while continuing to look at Tosca.</i>",
+              "original": "Freddamente Scarpia va ad appoggiarsi ad un angolo della tavola, si versa del caffè e lo assorbe mentre continua a guardare Tosca.",
+              "literal": "Scarpia coldly goes to lean against a corner of the table, pours himself some coffee and absorbs it while continuing to look at Tosca.",
               "tokens": [
                 {
                   "word": "Freddamente",
@@ -12997,8 +12997,8 @@ export const toscaAct2: Act = {
             },
             {
               "id": "a2_s5_c33_l3",
-              "original": "<i>Tosca accenna di sì col capo e dalla vergogna piangendo affonda la testa fra i cuscini del canapè.",
-              "literal": "<i>Tosca nods her head and in shame sinks her head into the sofa cushions, crying.",
+              "original": "Tosca accenna di sì col capo e dalla vergogna piangendo affonda la testa fra i cuscini del canapè.",
+              "literal": "Tosca nods her head and in shame sinks her head into the sofa cushions, crying.",
               "tokens": [
                 {
                   "word": "Tosca",
@@ -13112,8 +13112,8 @@ export const toscaAct2: Act = {
             },
             {
               "id": "a2_s5_c33_l4",
-              "original": "a Spoletta</i>",
-              "literal": "in Spoletta</i>",
+              "original": "a Spoletta",
+              "literal": "in Spoletta",
               "tokens": [
                 {
                   "word": "a",
@@ -13881,8 +13881,8 @@ export const toscaAct2: Act = {
             },
             {
               "id": "a2_s5_c44_l2",
-              "original": "<i>esce",
-              "literal": "<i>exits",
+              "original": "esce",
+              "literal": "exits",
               "tokens": [
                 {
                   "word": "esce",
@@ -13894,8 +13894,8 @@ export const toscaAct2: Act = {
             },
             {
               "id": "a2_s5_c44_l3",
-              "original": "Scarpia, ritto presso la porta, ascolta Spoletta allontanarsi, poi trasformato nel viso e nei gesti si avvicina con grande passione a Tosca.</i>",
-              "literal": "Scarpia, standing near the door, listens to Spoletta go away, then with a transformed face and gestures he approaches Tosca with great passion.</i>",
+              "original": "Scarpia, ritto presso la porta, ascolta Spoletta allontanarsi, poi trasformato nel viso e nei gesti si avvicina con grande passione a Tosca.",
+              "literal": "Scarpia, standing near the door, listens to Spoletta go away, then with a transformed face and gestures he approaches Tosca with great passion.",
               "tokens": [
                 {
                   "word": "Scarpia",
@@ -14410,8 +14410,8 @@ export const toscaAct2: Act = {
             },
             {
               "id": "a2_s5_c53_l2",
-              "original": "<i>ma l'accento voluttuoso si cambia in un grido terribile - Tosca lo ha colpito in pieno petto",
-              "literal": "<i>but the voluptuous accent changes to a terrible scream - Tosca hit him full in the chest",
+              "original": "ma l'accento voluttuoso si cambia in un grido terribile - Tosca lo ha colpito in pieno petto",
+              "literal": "but the voluptuous accent changes to a terrible scream - Tosca hit him full in the chest",
               "tokens": [
                 {
                   "word": "ma",
@@ -14519,8 +14519,8 @@ export const toscaAct2: Act = {
             },
             {
               "id": "a2_s5_c53_l3",
-              "original": "gridando</i>",
-              "literal": "shouting</i>",
+              "original": "gridando",
+              "literal": "shouting",
               "tokens": [
                 {
                   "word": "gridando",
@@ -14821,7 +14821,7 @@ export const toscaAct2: Act = {
         {
           "id": "a2_s5_c57",
           "speaker": "Il Barone Scarpia",
-          "stageDirection": "fa un ultimo sforzo, poi cade riverso<br>soffocato",
+          "stageDirection": "fa un ultimo sforzo, poi cade riverso, soffocato",
           "stageDirectionTranslation": "he makes one last effort, then falls on his back, suffocated",
           "lines": [
             {
@@ -14984,8 +14984,8 @@ export const toscaAct2: Act = {
             },
             {
               "id": "a2_s5_c58_l4",
-              "original": "<i>si avvia per uscire, ma si pente, va a prendere le due candele che sono sulla mensola a sinistra e le accende al candelabro sulla tavola spegnendo poi questo. Colloca una candela accesa a destra della testa di Scarpia. Mette l'altra candela a sinistra . Cerca di nuovo intorno e vedendo un crocefisso va a staccarlo dalla parete e portandolo religiosamente si inginocchia per posarlo sul petto di Scarpia. Si alza e con grande precauzione esce, richiudendo dietro a sé la porta.</i>",
-              "literal": "<i>he starts to go out, but regrets it, he goes to take the two candles that are on the shelf on the left and lights them on the candelabra on the table, then extinguishing it. Place a lit candle to the right of Scarpia's head. Place the other candle on the left. He searches around again and seeing a crucifix he goes to detach it from the wall and carrying it religiously he kneels down to place it on Scarpia's chest. He gets up and goes out with great caution, closing the door behind him.</i>",
+              "original": "si avvia per uscire, ma si pente, va a prendere le due candele che sono sulla mensola a sinistra e le accende al candelabro sulla tavola spegnendo poi questo. Colloca una candela accesa a destra della testa di Scarpia. Mette l'altra candela a sinistra . Cerca di nuovo intorno e vedendo un crocefisso va a staccarlo dalla parete e portandolo religiosamente si inginocchia per posarlo sul petto di Scarpia. Si alza e con grande precauzione esce, richiudendo dietro a sé la porta.",
+              "literal": "he starts to go out, but regrets it, he goes to take the two candles that are on the shelf on the left and lights them on the candelabra on the table, then extinguishing it. Place a lit candle to the right of Scarpia's head. Place the other candle on the left. He searches around again and seeing a crucifix he goes to detach it from the wall and carrying it religiously he kneels down to place it on Scarpia's chest. He gets up and goes out with great caution, closing the door behind him.",
               "tokens": [
                 {
                   "word": "si",

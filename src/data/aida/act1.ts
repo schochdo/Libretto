@@ -8197,8 +8197,8 @@ export const aidaAct1: Act = {
             },
             {
               "id": "a1_s1_c57_l37",
-              "original": "Numi, pietà del mio soffrir! <i>ecc.</i>",
-              "literal": "Gods, have pity on my suffering! <i>etc.</i>",
+              "original": "Numi, pietà del mio soffrir! ecc.",
+              "literal": "Gods, have pity on my suffering! etc.",
               "tokens": [
                 {
                   "word": "Numi",

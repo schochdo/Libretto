@@ -1575,8 +1575,8 @@ export const donPasqualeAct2: Act = {
             },
             {
               "id": "a2_s3_c3_l2",
-              "original": "<i>Nell'atto che fa inoltrare Norina, accenna a Don Pasquale di",
-              "literal": "<i>In the action that Norina forwards, she mentions Don Pasquale's",
+              "original": "Nell'atto che fa inoltrare Norina, accenna a Don Pasquale di",
+              "literal": "In the action that Norina forwards, she mentions Don Pasquale's",
               "tokens": [
                 {
                   "word": "Nell",
@@ -1648,8 +1648,8 @@ export const donPasqualeAct2: Act = {
             },
             {
               "id": "a2_s3_c3_l3",
-              "original": "mettersi indisparte. Don Pasquale si rincantuccia</i>",
-              "literal": "stand aside. Don Pasquale takes refuge</i>",
+              "original": "mettersi indisparte. Don Pasquale si rincantuccia",
+              "literal": "stand aside. Don Pasquale takes refuge",
               "tokens": [
                 {
                   "word": "mettersi",
@@ -6503,8 +6503,8 @@ export const donPasqualeAct2: Act = {
             },
             {
               "id": "a2_s4_c27_l3",
-              "original": "<i>Mentre Norma sta in atto di sottoscrivere, si sento la voce d'Ernesto della porta d'ingresso.",
-              "literal": "<i>While Norma is about to sign, Ernesto's voice is heard from the front door.",
+              "original": "Mentre Norma sta in atto di sottoscrivere, si sento la voce d'Ernesto della porta d'ingresso.",
+              "literal": "While Norma is about to sign, Ernesto's voice is heard from the front door.",
               "tokens": [
                 {
                   "word": "Mentre",
@@ -6612,8 +6612,8 @@ export const donPasqualeAct2: Act = {
             },
             {
               "id": "a2_s4_c27_l4",
-              "original": "Norina lascia cadere la penna.</i>",
-              "literal": "Norina drops the pen.</i>",
+              "original": "Norina lascia cadere la penna.",
+              "literal": "Norina drops the pen.",
               "tokens": [
                 {
                   "word": "Norina",
@@ -7736,8 +7736,8 @@ export const donPasqualeAct2: Act = {
             },
             {
               "id": "a2_s5_c10_l3",
-              "original": "<i>Il dottore conduce a sottoscrivere prima",
-              "literal": "<i>Doctor leads to sign up first",
+              "original": "Il dottore conduce a sottoscrivere prima",
+              "literal": "Doctor leads to sign up first",
               "tokens": [
                 {
                   "word": "Il",
@@ -7779,8 +7779,8 @@ export const donPasqualeAct2: Act = {
             },
             {
               "id": "a2_s5_c10_l4",
-              "original": "Norina poi Ernesto</i>",
-              "literal": "Norina then Ernesto</i>",
+              "original": "Norina poi Ernesto",
+              "literal": "Norina then Ernesto",
               "tokens": [
                 {
                   "word": "Norina",

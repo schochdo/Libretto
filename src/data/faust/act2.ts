@@ -400,8 +400,8 @@ export const faustAct2: Act = {
             },
             {
               "id": "a2_s1_c3_l2",
-              "original": "Du tonneau <i>etc.</i>",
-              "literal": "From the barrel <i>etc.</i>",
+              "original": "Du tonneau etc.",
+              "literal": "From the barrel etc.",
               "tokens": [
                 {
                   "word": "Du",

@@ -7928,8 +7928,8 @@ export const rigolettoAct2: Act = {
           "lines": [
             {
               "id": "a2_s3_c21_l1",
-              "original": "Come fulmin scagliato, <i>ecc.</i>",
-              "literal": "Like lightning thrown, <i>etc.</i>",
+              "original": "Come fulmin scagliato, ecc.",
+              "literal": "Like lightning thrown, etc.",
               "tokens": [
                 {
                   "word": "Come",
@@ -7965,8 +7965,8 @@ export const rigolettoAct2: Act = {
           "lines": [
             {
               "id": "a2_s3_c22_l1",
-              "original": "Perdonate, <i>ecc.</i>",
-              "literal": "Forgive, <i>etc.</i>",
+              "original": "Perdonate, ecc.",
+              "literal": "Forgive, etc.",
               "tokens": [
                 {
                   "word": "Perdonate",
@@ -7984,8 +7984,8 @@ export const rigolettoAct2: Act = {
             },
             {
               "id": "a2_s3_c22_l2",
-              "original": "<i>Escono dal mezzo.</i>",
-              "literal": "<i>They exit the vehicle.</i>",
+              "original": "Escono dal mezzo.",
+              "literal": "They exit the vehicle.",
               "tokens": [
                 {
                   "word": "Escono",
@@ -8009,8 +8009,8 @@ export const rigolettoAct2: Act = {
             },
             {
               "id": "a2_s3_c22_l3",
-              "original": "<i>La sponda destra del Mincio. A sinistra è una casa a due piani, mezzo diroccata, la cui fronte lascia vedere per una grande arcata l'interno d'una rustica osteria al pian terreno, ed una rozza scala che mette al granaio, entro cui, da un balcone senza imposte, si vede un lettuccio. Nella facciata che guarda la strada è una porta che s'apre per di dentro; il muro poi è sì pieno difessure, che dal di fuori si può facilmente scorgere quanto avviene nell'interno. Infondo, la deserta parte del Mincio, che scorre dietro un parapetto in mezza ruina; di là dal fiume è Mantova.",
-              "literal": "<i>The right bank of the Mincio. On the left is a two-storey house, half in ruins, whose front allows you to see through a large arch the interior of a rustic inn on the ground floor, and a rough staircase that leads to the granary, within which, from a balcony without shutters, you can see a bed. On the facade facing the street there is a door that opens from the inside; the wall is so full of cracks that from the outside you can easily see what is happening inside. In the background, the deserted part of the Mincio, which flows behind a parapet in half ruin; across the river is Mantua.",
+              "original": "La sponda destra del Mincio. A sinistra è una casa a due piani, mezzo diroccata, la cui fronte lascia vedere per una grande arcata l'interno d'una rustica osteria al pian terreno, ed una rozza scala che mette al granaio, entro cui, da un balcone senza imposte, si vede un lettuccio. Nella facciata che guarda la strada è una porta che s'apre per di dentro; il muro poi è sì pieno difessure, che dal di fuori si può facilmente scorgere quanto avviene nell'interno. Infondo, la deserta parte del Mincio, che scorre dietro un parapetto in mezza ruina; di là dal fiume è Mantova.",
+              "literal": "The right bank of the Mincio. On the left is a two-storey house, half in ruins, whose front allows you to see through a large arch the interior of a rustic inn on the ground floor, and a rough staircase that leads to the granary, within which, from a balcony without shutters, you can see a bed. On the facade facing the street there is a door that opens from the inside; the wall is so full of cracks that from the outside you can easily see what is happening inside. In the background, the deserted part of the Mincio, which flows behind a parapet in half ruin; across the river is Mantua.",
               "tokens": [
                 {
                   "word": "La",
@@ -8652,8 +8652,8 @@ export const rigolettoAct2: Act = {
             },
             {
               "id": "a2_s3_c22_l4",
-              "original": "È notte. Gilda e Rigoletto inquieti sono sulla strada, Sparafucile nell'interno dell'osteria.</i>",
-              "literal": "It's night. Gilda and Rigoletto are restless on the street, Sparafucile is inside the tavern.</i>",
+              "original": "È notte. Gilda e Rigoletto inquieti sono sulla strada, Sparafucile nell'interno dell'osteria.",
+              "literal": "It's night. Gilda and Rigoletto are restless on the street, Sparafucile is inside the tavern.",
               "tokens": [
                 {
                   "word": "È",

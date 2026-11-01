@@ -3582,8 +3582,8 @@ export const normaAct2: Act = {
             },
             {
               "id": "a2_s3_c21_l3",
-              "original": "Mira, o Norma, a' tuoi ginocchi, <i>ecc.</i>",
-              "literal": "Look, O Norma, at your knees, <i>etc.</i>",
+              "original": "Mira, o Norma, a' tuoi ginocchi, ecc.",
+              "literal": "Look, O Norma, at your knees, etc.",
               "tokens": [
                 {
                   "word": "Mira",
@@ -3638,8 +3638,8 @@ export const normaAct2: Act = {
           "lines": [
             {
               "id": "a2_s3_c22_l1",
-              "original": "Ah! Perchè, perchè la mia costanza, <i>ecc.</i>",
-              "literal": "Ah! Why, because my constancy, <i>etc.</i>",
+              "original": "Ah! Perchè, perchè la mia costanza, ecc.",
+              "literal": "Ah! Why, because my constancy, etc.",
               "tokens": [
                 {
                   "word": "Ah",
@@ -16387,8 +16387,8 @@ export const normaAct2: Act = {
             },
             {
               "id": "a2_s11_c49_l3",
-              "original": "Quel pianto il dice, <i>ecc.</i>",
-              "literal": "That cry says it, <i>etc.</i>",
+              "original": "Quel pianto il dice, ecc.",
+              "literal": "That cry says it, etc.",
               "tokens": [
                 {
                   "word": "Quel",
@@ -16430,8 +16430,8 @@ export const normaAct2: Act = {
           "lines": [
             {
               "id": "a2_s11_c50_l1",
-              "original": "Più non chiedo, oh ciel! <i>ecc.</i>",
-              "literal": "I don't ask anymore, oh heaven! <i>etc.</i>",
+              "original": "Più non chiedo, oh ciel! ecc.",
+              "literal": "I don't ask anymore, oh heaven! etc.",
               "tokens": [
                 {
                   "word": "Più",
@@ -16648,8 +16648,8 @@ export const normaAct2: Act = {
           "lines": [
             {
               "id": "a2_s11_c52_l1",
-              "original": "Che mai spera? <i>ecc.</i>",
-              "literal": "What on earth do you hope for? <i>etc.</i>",
+              "original": "Che mai spera? ecc.",
+              "literal": "What on earth do you hope for? etc.",
               "tokens": [
                 {
                   "word": "Che",
@@ -17106,7 +17106,7 @@ export const normaAct2: Act = {
             },
             {
               "id": "a2_s11_c58_l4",
-              "original": "<i>Pollione e Norma sono trascinati al rogo.</i>",
+              "original": "Pollione e Norma sono trascinati al rogo.",
               "literal": "Pollione and Norma are dragged to the pyre.",
               "tokens": [
                 {

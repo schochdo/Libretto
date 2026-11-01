@@ -6898,8 +6898,8 @@ export const trovatoreAct3: Act = {
             },
             {
               "id": "a3_s6_c17_l3",
-              "original": "<i>Manrico parte frettoloso seguito da Ruiz e dagli Armati, mentre odesi dall'interno fragor d'armi e di bellici strumenti</i>",
-              "literal": "<i>Manrico leaves hastily followed by Ruiz and the Armed Forces, while from inside you can hear the clash of weapons and instruments of war</i>",
+              "original": "Manrico parte frettoloso seguito da Ruiz e dagli Armati, mentre odesi dall'interno fragor d'armi e di bellici strumenti",
+              "literal": "Manrico leaves hastily followed by Ruiz and the Armed Forces, while from inside you can hear the clash of weapons and instruments of war",
               "tokens": [
                 {
                   "word": "Manrico",

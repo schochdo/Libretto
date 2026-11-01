@@ -479,8 +479,8 @@ export const donGiovanniAct1: Act = {
             },
             {
               "id": "a1_s1_c1_l14",
-              "original": "<i>Si ritira",
-              "literal": "<i>He retires",
+              "original": "Si ritira",
+              "literal": "He retires",
               "tokens": [
                 {
                   "word": "Si",
@@ -498,8 +498,8 @@ export const donGiovanniAct1: Act = {
             },
             {
               "id": "a1_s1_c1_l15",
-              "original": "Don Giovanni esce dal palazzo del Commendatore inseguito da Donn'Anna; cerca coprirsi il viso ed è avvolto in un lungo mantello.</i>",
-              "literal": "Don Giovanni leaves the Commendatore palace pursued by Donn'Anna; he tries to cover his face and is wrapped in a long cloak.</i>",
+              "original": "Don Giovanni esce dal palazzo del Commendatore inseguito da Donn'Anna; cerca coprirsi il viso ed è avvolto in un lungo mantello.",
+              "literal": "Don Giovanni leaves the Commendatore palace pursued by Donn'Anna; he tries to cover his face and is wrapped in a long cloak.",
               "tokens": [
                 {
                   "word": "Don",
@@ -10327,8 +10327,8 @@ export const donGiovanniAct1: Act = {
           "lines": [
             {
               "id": "a1_s7_c2_l1",
-              "original": "La ra la, <i>ecc.</i>",
-              "literal": "La ra la, <i>etc.</i>",
+              "original": "La ra la, ecc.",
+              "literal": "La ra la, etc.",
               "tokens": [
                 {
                   "word": "La",
@@ -10615,8 +10615,8 @@ export const donGiovanniAct1: Act = {
           "lines": [
             {
               "id": "a1_s7_c4_l1",
-              "original": "La ra la, <i>ecc.</i>",
-              "literal": "La ra la, <i>etc.</i>",
+              "original": "La ra la, ecc.",
+              "literal": "La ra la, etc.",
               "tokens": [
                 {
                   "word": "La",
@@ -20776,8 +20776,8 @@ export const donGiovanniAct1: Act = {
             },
             {
               "id": "a1_s13_c15_l9",
-              "original": "<b>Aria</b>",
-              "literal": "<b>Air</b>",
+              "original": "Aria",
+              "literal": "Air",
               "tokens": [
                 {
                   "word": "Aria",
@@ -26987,8 +26987,8 @@ export const donGiovanniAct1: Act = {
           "lines": [
             {
               "id": "a1_s18_c2_l1",
-              "original": "Sù! svegliatevi da bravi, <i>ecc.</i>",
-              "literal": "Come on! wake up like a good guy, <i>etc.</i>",
+              "original": "Sù! svegliatevi da bravi, ecc.",
+              "literal": "Come on! wake up like a good guy, etc.",
               "tokens": [
                 {
                   "word": "Sù",

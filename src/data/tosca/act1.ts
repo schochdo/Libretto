@@ -787,8 +787,8 @@ export const toscaAct1: Act = {
             },
             {
               "id": "a1_s3_c2_l2",
-              "original": "<i>Cavaradossi sale sull' impalcato e scopre il quadro. È una Maria Maddalena a grandi occhi azzurri con una gran pioggia di capelli dorati. Il pittore vi sta dinanzi muto attentamente osservando.",
-              "literal": "<i>Cavaradossi climbs onto the scaffolding and discovers the painting. She is a Mary Magdalene with big blue eyes and a shower of golden hair. The painter stands before you silently, carefully observing.",
+              "original": "Cavaradossi sale sull' impalcato e scopre il quadro. È una Maria Maddalena a grandi occhi azzurri con una gran pioggia di capelli dorati. Il pittore vi sta dinanzi muto attentamente osservando.",
+              "literal": "Cavaradossi climbs onto the scaffolding and discovers the painting. She is a Mary Magdalene with big blue eyes and a shower of golden hair. The painter stands before you silently, carefully observing.",
               "tokens": [
                 {
                   "word": "Cavaradossi",
@@ -980,8 +980,8 @@ export const toscaAct1: Act = {
             },
             {
               "id": "a1_s3_c2_l3",
-              "original": "Il Sagrestano, volgendosi verso Cavaradossi e per dirigergli la parola, vede il quadro scoperto e dà un grido di meraviglia.</i>",
-              "literal": "The Sacristan, turning towards Cavaradossi and to speak to him, sees the uncovered painting and gives a cry of wonder.</i>",
+              "original": "Il Sagrestano, volgendosi verso Cavaradossi e per dirigergli la parola, vede il quadro scoperto e dà un grido di meraviglia.",
+              "literal": "The Sacristan, turning towards Cavaradossi and to speak to him, sees the uncovered painting and gives a cry of wonder.",
               "tokens": [
                 {
                   "word": "Il",
@@ -1493,8 +1493,8 @@ export const toscaAct1: Act = {
             },
             {
               "id": "a1_s3_c7_l2",
-              "original": "<i>Il Sagrestano eseguisce. Cavaradossi dipinge con rapidità e si sofferma spesso a riguardare il proprio lavoro: il Sagrestano va e viene, portando una catinella entro la quale continua a lavare i pennelli.",
-              "literal": "<i>The Sacristan performs. Cavaradossi paints quickly and often stops to look at his work: the Sacristan comes and goes, carrying a basin in which he continues to wash his brushes.",
+              "original": "Il Sagrestano eseguisce. Cavaradossi dipinge con rapidità e si sofferma spesso a riguardare il proprio lavoro: il Sagrestano va e viene, portando una catinella entro la quale continua a lavare i pennelli.",
+              "literal": "The Sacristan performs. Cavaradossi paints quickly and often stops to look at his work: the Sacristan comes and goes, carrying a basin in which he continues to wash his brushes.",
               "tokens": [
                 {
                   "word": "Il",
@@ -1692,8 +1692,8 @@ export const toscaAct1: Act = {
             },
             {
               "id": "a1_s3_c7_l3",
-              "original": "A un tratto Cavaradossi si ristà di dipingere; leva di tasca un medaglione contenente una miniatura e gli occhi suoi vanno dal medaglione al quadro.</i>",
-              "literal": "Suddenly Cavaradossi stopped painting; he takes a medallion containing a miniature from his pocket and his eyes go from the medallion to the painting.</i>",
+              "original": "A un tratto Cavaradossi si ristà di dipingere; leva di tasca un medaglione contenente una miniatura e gli occhi suoi vanno dal medaglione al quadro.",
+              "literal": "Suddenly Cavaradossi stopped painting; he takes a medallion containing a miniature from his pocket and his eyes go from the medallion to the painting.",
               "tokens": [
                 {
                   "word": "A",
@@ -2788,8 +2788,8 @@ export const toscaAct1: Act = {
             },
             {
               "id": "a1_s3_c12_l11",
-              "original": "<i>eseguisce",
-              "literal": "<i>executes",
+              "original": "eseguisce",
+              "literal": "executes",
               "tokens": [
                 {
                   "word": "eseguisce",
@@ -2801,8 +2801,8 @@ export const toscaAct1: Act = {
             },
             {
               "id": "a1_s3_c12_l12",
-              "original": "a Cavaradossi</i>",
-              "literal": "in Cavaradossi</i>",
+              "original": "a Cavaradossi",
+              "literal": "in Cavaradossi",
               "tokens": [
                 {
                   "word": "a",
@@ -3000,8 +3000,8 @@ export const toscaAct1: Act = {
             },
             {
               "id": "a1_s3_c16_l2",
-              "original": "<i>ma non può trattenere un gesto di gioia e uno sguardo di avidità verso il cesto che prende ponendolo un po' in disparte",
-              "literal": "<i>but he cannot hold back a gesture of joy and a look of greed towards the basket which he takes, placing it a little aside",
+              "original": "ma non può trattenere un gesto di gioia e uno sguardo di avidità verso il cesto che prende ponendolo un po' in disparte",
+              "literal": "but he cannot hold back a gesture of joy and a look of greed towards the basket which he takes, placing it a little aside",
               "tokens": [
                 {
                   "word": "ma",
@@ -3145,8 +3145,8 @@ export const toscaAct1: Act = {
             },
             {
               "id": "a1_s3_c16_l3",
-              "original": "fiuta due prese di tabacco</i>",
-              "literal": "takes two pinches of tobacco</i>",
+              "original": "fiuta due prese di tabacco",
+              "literal": "takes two pinches of tobacco",
               "tokens": [
                 {
                   "word": "fiuta",
@@ -3247,8 +3247,8 @@ export const toscaAct1: Act = {
             },
             {
               "id": "a1_s3_c18_l2",
-              "original": "<i>s'allontana per il fondo",
-              "literal": "<i>It moves away towards the bottom",
+              "original": "s'allontana per il fondo",
+              "literal": "It moves away towards the bottom",
               "tokens": [
                 {
                   "word": "s",
@@ -3284,8 +3284,8 @@ export const toscaAct1: Act = {
             },
             {
               "id": "a1_s3_c18_l3",
-              "original": "Cavaradossi, volgendo le spalle alla Cappella, lavora. Angelotti, credendo deserta la chiesa, appare dietro la cancellata e introduce la chiave per aprire.</i>",
-              "literal": "Cavaradossi, with his back to the Chapel, works. Angelotti, believing the church to be deserted, appears behind the gate and introduces the key to open.</i>",
+              "original": "Cavaradossi, volgendo le spalle alla Cappella, lavora. Angelotti, credendo deserta la chiesa, appare dietro la cancellata e introduce la chiave per aprire.",
+              "literal": "Cavaradossi, with his back to the Chapel, works. Angelotti, believing the church to be deserted, appears behind the gate and introduces the key to open.",
               "tokens": [
                 {
                   "word": "Cavaradossi",
@@ -3517,8 +3517,8 @@ export const toscaAct1: Act = {
             },
             {
               "id": "a1_s4_c2_l3",
-              "original": "<i>Cavaradossi non riconosce Angelotti e rimane attonito sull'impalcato",
-              "literal": "<i>Cavaradossi does not recognize Angelotti and remains astonished on the scaffolding",
+              "original": "Cavaradossi non riconosce Angelotti e rimane attonito sull'impalcato",
+              "literal": "Cavaradossi does not recognize Angelotti and remains astonished on the scaffolding",
               "tokens": [
                 {
                   "word": "Cavaradossi",
@@ -3578,7 +3578,7 @@ export const toscaAct1: Act = {
             },
             {
               "id": "a1_s4_c2_l4",
-              "original": "Angelotti si avvicina di più onde farsi riconoscere</i>",
+              "original": "Angelotti si avvicina di più onde farsi riconoscere",
               "literal": "Angelotti gets closer to be recognised",
               "tokens": [
                 {
@@ -3774,8 +3774,8 @@ export const toscaAct1: Act = {
         {
           "id": "a1_s4_c4",
           "speaker": "Cesare Angelotti",
-          "stageDirection": "con mistero<br>andando incontro a Cavaradossi",
-          "stageDirectionTranslation": "with mystery<br>going towards Cavaradossi",
+          "stageDirection": "con mistero, andando incontro a Cavaradossi",
+          "stageDirectionTranslation": "with mystery, going towards Cavaradossi",
           "lines": [
             {
               "id": "a1_s4_c4_l1",
@@ -4724,8 +4724,8 @@ export const toscaAct1: Act = {
             },
             {
               "id": "a1_s5_c13_l4",
-              "original": "<i>si avvicina lentamente alla Madonna, dispone con arte, intorno ad essa, i fiori che ha portato con sé, si inginocchia e prega con molta devozione, segnandosi, poi s'alza",
-              "literal": "<i>he slowly approaches the Madonna, artfully arranges the flowers he brought with him around her, kneels down and prays with great devotion, crossing himself, then gets up",
+              "original": "si avvicina lentamente alla Madonna, dispone con arte, intorno ad essa, i fiori che ha portato con sé, si inginocchia e prega con molta devozione, segnandosi, poi s'alza",
+              "literal": "he slowly approaches the Madonna, artfully arranges the flowers he brought with him around her, kneels down and prays with great devotion, crossing himself, then gets up",
               "tokens": [
                 {
                   "word": "si",
@@ -4905,8 +4905,8 @@ export const toscaAct1: Act = {
             },
             {
               "id": "a1_s5_c13_l5",
-              "original": "a Cavaradossi, che intanto si è avviato per riprendere il lavoro</i>",
-              "literal": "to Cavaradossi, who in the meantime has left to resume work</i>",
+              "original": "a Cavaradossi, che intanto si è avviato per riprendere il lavoro",
+              "literal": "to Cavaradossi, who in the meantime has left to resume work",
               "tokens": [
                 {
                   "word": "a",
@@ -6577,8 +6577,8 @@ export const toscaAct1: Act = {
             },
             {
               "id": "a1_s5_c29_l2",
-              "original": "<i>sale sull'impalcato",
-              "literal": "<i>climbs the deck",
+              "original": "sale sull'impalcato",
+              "literal": "climbs the deck",
               "tokens": [
                 {
                   "word": "sale",
@@ -6602,8 +6602,8 @@ export const toscaAct1: Act = {
             },
             {
               "id": "a1_s5_c29_l3",
-              "original": "trionfante</i>",
-              "literal": "triumphant</i>",
+              "original": "trionfante",
+              "literal": "triumphant",
               "tokens": [
                 {
                   "word": "trionfante",
@@ -8731,8 +8731,8 @@ export const toscaAct1: Act = {
             },
             {
               "id": "a1_s5_c60_l3",
-              "original": "<i>fugge rapidamente",
-              "literal": "<i>He quickly flees",
+              "original": "fugge rapidamente",
+              "literal": "He quickly flees",
               "tokens": [
                 {
                   "word": "fugge",
@@ -8750,7 +8750,7 @@ export const toscaAct1: Act = {
             },
             {
               "id": "a1_s5_c60_l4",
-              "original": "Cavaradossi rimane commosso e pensieroso</i>",
+              "original": "Cavaradossi rimane commosso e pensieroso",
               "literal": "Cavaradossi remains moved and thoughtful",
               "tokens": [
                 {
@@ -12516,8 +12516,8 @@ export const toscaAct1: Act = {
             },
             {
               "id": "a1_s8_c11_l2",
-              "original": "<i>entrano nella Cappella, poi ritornano: Scarpia, assai contrariato, ha fra le mani un ventaglio chiuso che agita nervosamente",
-              "literal": "<i>they enter the Chapel, then return: Scarpia, very annoyed, has a closed fan in his hands which he is shaking nervously",
+              "original": "entrano nella Cappella, poi ritornano: Scarpia, assai contrariato, ha fra le mani un ventaglio chiuso che agita nervosamente",
+              "literal": "they enter the Chapel, then return: Scarpia, very annoyed, has a closed fan in his hands which he is shaking nervously",
               "tokens": [
                 {
                   "word": "entrano",
@@ -12631,8 +12631,8 @@ export const toscaAct1: Act = {
             },
             {
               "id": "a1_s8_c11_l3",
-              "original": "fra sé</i>",
-              "literal": "among himself</i>",
+              "original": "fra sé",
+              "literal": "among himself",
               "tokens": [
                 {
                   "word": "fra",
@@ -13684,8 +13684,8 @@ export const toscaAct1: Act = {
             },
             {
               "id": "a1_s8_c24_l6",
-              "original": "<i>mostra dove aveva riposto il paniere e ve lo lascia",
-              "literal": "<i>He shows where he had put the basket and leaves it there",
+              "original": "mostra dove aveva riposto il paniere e ve lo lascia",
+              "literal": "He shows where he had put the basket and leaves it there",
               "tokens": [
                 {
                   "word": "mostra",
@@ -13751,8 +13751,8 @@ export const toscaAct1: Act = {
             },
             {
               "id": "a1_s8_c24_l7",
-              "original": "impressionato dal severo e silente contegno di Scarpia</i>",
-              "literal": "impressed by Scarpia</i>'s severe and silent demeanor",
+              "original": "impressionato dal severo e silente contegno di Scarpia",
+              "literal": "impressed by Scarpia's severe and silent demeanor",
               "tokens": [
                 {
                   "word": "impressionato",

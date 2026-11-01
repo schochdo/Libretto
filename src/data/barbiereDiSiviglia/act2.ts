@@ -4223,8 +4223,8 @@ export const barbiereDiSivigliaAct2: Act = {
             },
             {
               "id": "a2_s3_c9_l2",
-              "original": "<i>Il Conte siede al pianoforte e Rosina canta accompagnata dal Conte;",
-              "literal": "<i>The Count sits at the piano and Rosina sings accompanied by the Count;",
+              "original": "Il Conte siede al pianoforte e Rosina canta accompagnata dal Conte;",
+              "literal": "The Count sits at the piano and Rosina sings accompanied by the Count;",
               "tokens": [
                 {
                   "word": "Il",
@@ -4296,8 +4296,8 @@ export const barbiereDiSivigliaAct2: Act = {
             },
             {
               "id": "a2_s3_c9_l3",
-              "original": "Bartolo siede ed ascolta.</i>",
-              "literal": "Bartolo sits and listens.</i>",
+              "original": "Bartolo siede ed ascolta.",
+              "literal": "Bartolo sits and listens.",
               "tokens": [
                 {
                   "word": "Bartolo",
@@ -5671,8 +5671,8 @@ export const barbiereDiSivigliaAct2: Act = {
             },
             {
               "id": "a2_s3_c20_l9",
-              "original": "<i>Entra Figaro coi bacile sotto il braccio, e si pone dietro Bartolo imitando",
-              "literal": "<i>Figaro enters with the basin under his arm, and stands behind Bartolo in imitation",
+              "original": "Entra Figaro coi bacile sotto il braccio, e si pone dietro Bartolo imitando",
+              "literal": "Figaro enters with the basin under his arm, and stands behind Bartolo in imitation",
               "tokens": [
                 {
                   "word": "Entra",
@@ -5756,8 +5756,8 @@ export const barbiereDiSivigliaAct2: Act = {
             },
             {
               "id": "a2_s3_c20_l10",
-              "original": "il canto con caricatura.</i>",
-              "literal": "singing with caricature.</i>",
+              "original": "il canto con caricatura.",
+              "literal": "singing with caricature.",
               "tokens": [
                 {
                   "word": "il",
@@ -14587,8 +14587,8 @@ export const barbiereDiSivigliaAct2: Act = {
           "lines": [
             {
               "id": "a2_s8_c5_l1",
-              "original": "<i>Scoppia un temporale.",
-              "literal": "<i>A storm breaks out.",
+              "original": "Scoppia un temporale.",
+              "literal": "A storm breaks out.",
               "tokens": [
                 {
                   "word": "Scoppia",
@@ -14612,8 +14612,8 @@ export const barbiereDiSivigliaAct2: Act = {
             },
             {
               "id": "a2_s8_c5_l2",
-              "original": "Dalla finestra di prospetto si vedono frequenti lampi, e si sente il rumore del tuono. Sulla fine del temporale si vede dal di fuori aprirsi la gelosia, ed entrano uno dopo l'altro Figaro ed il Conte avvolti in mantelli e bagnati dalla pioggia. Figaro avrà in mano una lanterna.</i>",
-              "literal": "From the front window you can see frequent flashes of lightning and hear the sound of thunder. At the end of the storm we see jealousy opening up from outside, and Figaro and the Count enter one after the other, wrapped in cloaks and wet from the rain. Figaro will have a lantern in his hand.</i>",
+              "original": "Dalla finestra di prospetto si vedono frequenti lampi, e si sente il rumore del tuono. Sulla fine del temporale si vede dal di fuori aprirsi la gelosia, ed entrano uno dopo l'altro Figaro ed il Conte avvolti in mantelli e bagnati dalla pioggia. Figaro avrà in mano una lanterna.",
+              "literal": "From the front window you can see frequent flashes of lightning and hear the sound of thunder. At the end of the storm we see jealousy opening up from outside, and Figaro and the Count enter one after the other, wrapped in cloaks and wet from the rain. Figaro will have a lantern in his hand.",
               "tokens": [
                 {
                   "word": "Dalla",

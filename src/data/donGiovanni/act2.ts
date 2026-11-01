@@ -17024,8 +17024,8 @@ export const donGiovanniAct2: Act = {
             },
             {
               "id": "a2_s14_c1_l11",
-              "original": "<b>Aria</b>",
-              "literal": "<b>Air</b>",
+              "original": "Aria",
+              "literal": "Air",
               "tokens": [
                 {
                   "word": "Aria",
@@ -22735,8 +22735,8 @@ export const donGiovanniAct2: Act = {
             },
             {
               "id": "a2_s16_c6_l8",
-              "original": "<b>Aria</b>",
-              "literal": "<b>Air</b>",
+              "original": "Aria",
+              "literal": "Air",
               "tokens": [
                 {
                   "word": "Aria",

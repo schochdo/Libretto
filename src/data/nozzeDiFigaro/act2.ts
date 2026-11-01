@@ -5920,8 +5920,8 @@ export const nozzeDiFigaroAct2: Act = {
             },
             {
               "id": "a2_s2_c21_l4",
-              "original": "<i>Susanna va nel gabinetto a pigliar una cuffia:",
-              "literal": "<i>Susanna goes into the bathroom to get a headset:",
+              "original": "Susanna va nel gabinetto a pigliar una cuffia:",
+              "literal": "Susanna goes into the bathroom to get a headset:",
               "tokens": [
                 {
                   "word": "Susanna",
@@ -6072,8 +6072,8 @@ export const nozzeDiFigaroAct2: Act = {
             },
             {
               "id": "a2_s2_c21_l6",
-              "original": "la Contessa la prende, l'apre: e vede che manca il sigillo.</i>",
-              "literal": "the Countess takes it, opens it: and sees that the seal is missing.</i>",
+              "original": "la Contessa la prende, l'apre: e vede che manca il sigillo.",
+              "literal": "the Countess takes it, opens it: and sees that the seal is missing.",
               "tokens": [
                 {
                   "word": "la",
@@ -6551,8 +6551,8 @@ export const nozzeDiFigaroAct2: Act = {
             },
             {
               "id": "a2_s2_c30_l2",
-              "original": "<i>prende Cherubino e se lo fa inginocchiare",
-              "literal": "<i>He takes Cherubino and makes him kneel",
+              "original": "prende Cherubino e se lo fa inginocchiare",
+              "literal": "He takes Cherubino and makes him kneel",
               "tokens": [
                 {
                   "word": "prende",
@@ -6600,7 +6600,7 @@ export const nozzeDiFigaroAct2: Act = {
             },
             {
               "id": "a2_s2_c30_l3",
-              "original": "davanti poco discosto dalla Contessa che siede</i>",
+              "original": "davanti poco discosto dalla Contessa che siede",
               "literal": "in front not far from the Countess who sits",
               "tokens": [
                 {
@@ -6674,8 +6674,8 @@ export const nozzeDiFigaroAct2: Act = {
             },
             {
               "id": "a2_s2_c30_l5",
-              "original": "<i>lo pettina da un lato, poi lo prende pel mento",
-              "literal": "<i>He combs it on one side, then takes it by the chin",
+              "original": "lo pettina da un lato, poi lo prende pel mento",
+              "literal": "He combs it on one side, then takes it by the chin",
               "tokens": [
                 {
                   "word": "lo",
@@ -6741,7 +6741,7 @@ export const nozzeDiFigaroAct2: Act = {
             },
             {
               "id": "a2_s2_c30_l6",
-              "original": "e lo volge a suo piacere</i>",
+              "original": "e lo volge a suo piacere",
               "literal": "and turns it to his pleasure",
               "tokens": [
                 {
@@ -6852,8 +6852,8 @@ export const nozzeDiFigaroAct2: Act = {
             },
             {
               "id": "a2_s2_c30_l9",
-              "original": "<i>Cherubino, mentre Susanna lo sta acconciando",
-              "literal": "<i>Cherubino, while Susanna is doing his hair",
+              "original": "Cherubino, mentre Susanna lo sta acconciando",
+              "literal": "Cherubino, while Susanna is doing his hair",
               "tokens": [
                 {
                   "word": "Cherubino",
@@ -6895,8 +6895,8 @@ export const nozzeDiFigaroAct2: Act = {
             },
             {
               "id": "a2_s2_c30_l10",
-              "original": "guarda la Contessa teneramente.</i>",
-              "literal": "he looks at the Countess tenderly.</i>",
+              "original": "guarda la Contessa teneramente.",
+              "literal": "he looks at the Countess tenderly.",
               "tokens": [
                 {
                   "word": "guarda",
@@ -8621,8 +8621,8 @@ export const nozzeDiFigaroAct2: Act = {
             },
             {
               "id": "a2_s2_c43_l2",
-              "original": "<i>Susanna parte per la porta ch'è in fondo",
-              "literal": "<i>Susanna leaves for the door at the end",
+              "original": "Susanna parte per la porta ch'è in fondo",
+              "literal": "Susanna leaves for the door at the end",
               "tokens": [
                 {
                   "word": "Susanna",
@@ -8682,8 +8682,8 @@ export const nozzeDiFigaroAct2: Act = {
             },
             {
               "id": "a2_s2_c43_l3",
-              "original": "e porta seco il mantello di Cherubino.</i>",
-              "literal": "and carries with him the cloak of Cherubino.</i>",
+              "original": "e porta seco il mantello di Cherubino.",
+              "literal": "and carries with him the cloak of Cherubino.",
               "tokens": [
                 {
                   "word": "e",

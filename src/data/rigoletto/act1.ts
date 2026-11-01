@@ -1725,8 +1725,8 @@ export const rigolettoAct1: Act = {
             },
             {
               "id": "a1_s1_c17_l2",
-              "original": "<i>Il Duca le dà il braccio ed esce con lei.",
-              "literal": "<i>The Duke gives her his arm and goes out with her.",
+              "original": "Il Duca le dà il braccio ed esce con lei.",
+              "literal": "The Duke gives her his arm and goes out with her.",
               "tokens": [
                 {
                   "word": "Il",
@@ -1792,8 +1792,8 @@ export const rigolettoAct1: Act = {
             },
             {
               "id": "a1_s1_c17_l3",
-              "original": "Entra Rigoletto che s'incontra nel signor di Ceprano, poi cortigiani.</i>",
-              "literal": "Rigoletto enters and meets Signor di Ceprano, then courtiers.</i>",
+              "original": "Entra Rigoletto che s'incontra nel signor di Ceprano, poi cortigiani.",
+              "literal": "Rigoletto enters and meets Signor di Ceprano, then courtiers.",
               "tokens": [
                 {
                   "word": "Entra",
@@ -4231,8 +4231,8 @@ export const rigolettoAct1: Act = {
             },
             {
               "id": "a1_s1_c62_l3",
-              "original": "Sì, vendetta! <i>ecc.</i>",
-              "literal": "Yes, revenge! <i>etc.</i>",
+              "original": "Sì, vendetta! ecc.",
+              "literal": "Yes, revenge! etc.",
               "tokens": [
                 {
                   "word": "Sì",
@@ -5923,8 +5923,8 @@ export const rigolettoAct1: Act = {
             },
             {
               "id": "a1_s1_c79_l2",
-              "original": "Che orrore! <i>ecc.</i>",
-              "literal": "How horrible! <i>etc.</i>",
+              "original": "Che orrore! ecc.",
+              "literal": "How horrible! etc.",
               "tokens": [
                 {
                   "word": "Che",
@@ -5956,8 +5956,8 @@ export const rigolettoAct1: Act = {
           "lines": [
             {
               "id": "a1_s1_c80_l1",
-              "original": "Sii maledetto! e tu serpente, <i>ecc.</i>",
-              "literal": "Be damned! and you serpent, <i>etc.</i>",
+              "original": "Sii maledetto! e tu serpente, ecc.",
+              "literal": "Be damned! and you serpent, etc.",
               "tokens": [
                 {
                   "word": "Sii",
@@ -8192,8 +8192,8 @@ export const rigolettoAct1: Act = {
             },
             {
               "id": "a1_s3_c1_l22",
-              "original": "<i>Apre con chiave ed entra nel cortile.",
-              "literal": "<i>He opens with a key and enters the courtyard.",
+              "original": "Apre con chiave ed entra nel cortile.",
+              "literal": "He opens with a key and enters the courtyard.",
               "tokens": [
                 {
                   "word": "Apre",
@@ -8241,8 +8241,8 @@ export const rigolettoAct1: Act = {
             },
             {
               "id": "a1_s3_c1_l23",
-              "original": "Gilda esce dalla casa e si getta nelle sue braccia.</i>",
-              "literal": "Gilda leaves the house and throws herself into his arms.</i>",
+              "original": "Gilda esce dalla casa e si getta nelle sue braccia.",
+              "literal": "Gilda leaves the house and throws herself into his arms.",
               "tokens": [
                 {
                   "word": "Gilda",
@@ -11912,8 +11912,8 @@ export const rigolettoAct1: Act = {
           "lines": [
             {
               "id": "a1_s3_c42_l1",
-              "original": "Ah! veglia, o donna, <i>ecc.</i>",
-              "literal": "Ah! stay awake, oh woman, <i>etc.</i>",
+              "original": "Ah! veglia, o donna, ecc.",
+              "literal": "Ah! stay awake, oh woman, etc.",
               "tokens": [
                 {
                   "word": "Ah",
@@ -11982,8 +11982,8 @@ export const rigolettoAct1: Act = {
           "lines": [
             {
               "id": "a1_s3_c43_l1",
-              "original": "Oh, quanto affetto! <i>ecc.</i>",
-              "literal": "Oh, how much affection! <i>etc.</i>",
+              "original": "Oh, quanto affetto! ecc.",
+              "literal": "Oh, how much affection! etc.",
               "tokens": [
                 {
                   "word": "Oh",
@@ -14505,8 +14505,8 @@ export const rigolettoAct1: Act = {
             },
             {
               "id": "a1_s4_c32_l5",
-              "original": "<i>Il Duca esce scortato da Giovanna.",
-              "literal": "<i>The Duke exits escorted by Giovanna.",
+              "original": "Il Duca esce scortato da Giovanna.",
+              "literal": "The Duke exits escorted by Giovanna.",
               "tokens": [
                 {
                   "word": "Il",
@@ -14548,8 +14548,8 @@ export const rigolettoAct1: Act = {
             },
             {
               "id": "a1_s4_c32_l6",
-              "original": "Gilda resta fissando la porta ondè partito.</i>",
-              "literal": "Gilda remains staring at the door from which he left.</i>",
+              "original": "Gilda resta fissando la porta ondè partito.",
+              "literal": "Gilda remains staring at the door from which he left.",
               "tokens": [
                 {
                   "word": "Gilda",
@@ -14992,8 +14992,8 @@ export const rigolettoAct1: Act = {
             },
             {
               "id": "a1_s5_c1_l12",
-              "original": "Caro nome, <i>ecc.</i>",
-              "literal": "Dear name, <i>etc.</i>",
+              "original": "Caro nome, ecc.",
+              "literal": "Dear name, etc.",
               "tokens": [
                 {
                   "word": "Caro",
@@ -16652,8 +16652,8 @@ export const rigolettoAct1: Act = {
             },
             {
               "id": "a1_s6_c24_l7",
-              "original": "Cheti, cheti, <i>ecc.</i>",
-              "literal": "Cheti, cheti, <i>etc.</i>",
+              "original": "Cheti, cheti, ecc.",
+              "literal": "Cheti, cheti, etc.",
               "tokens": [
                 {
                   "word": "Cheti",
@@ -16677,8 +16677,8 @@ export const rigolettoAct1: Act = {
             },
             {
               "id": "a1_s6_c24_l8",
-              "original": "Derisore sì audace, <i>ecc.</i>",
-              "literal": "Derisory yes audacious, <i>etc.</i>",
+              "original": "Derisore sì audace, ecc.",
+              "literal": "Derisory yes audacious, etc.",
               "tokens": [
                 {
                   "word": "Derisore",
@@ -16922,8 +16922,8 @@ export const rigolettoAct1: Act = {
             },
             {
               "id": "a1_s6_c28_l4",
-              "original": "<i>Sviene</i>",
-              "literal": "<i>Faints</i>",
+              "original": "Sviene",
+              "literal": "Faints",
               "tokens": [
                 {
                   "word": "Sviene",

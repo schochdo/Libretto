@@ -636,8 +636,8 @@ export const nozzeDiFigaroAct4: Act = {
             },
             {
               "id": "a4_s2_c8_l2",
-              "original": "<i>cerca un momento per terra, dopo aver destramente cavata una spilla",
-              "literal": "<i>looks for a moment on the ground, after having skilfully pulled out a pin",
+              "original": "cerca un momento per terra, dopo aver destramente cavata una spilla",
+              "literal": "looks for a moment on the ground, after having skilfully pulled out a pin",
               "tokens": [
                 {
                   "word": "cerca",
@@ -709,8 +709,8 @@ export const nozzeDiFigaroAct4: Act = {
             },
             {
               "id": "a4_s2_c8_l3",
-              "original": "dall'abito o dalla cuffia di Marcellina e la dà a Barbarina</i>",
-              "literal": "from Marcellina's dress or cap and gives it to Barbarina</i>",
+              "original": "dall'abito o dalla cuffia di Marcellina e la dà a Barbarina",
+              "literal": "from Marcellina's dress or cap and gives it to Barbarina",
               "tokens": [
                 {
                   "word": "dall",
@@ -11077,8 +11077,8 @@ export const nozzeDiFigaroAct4: Act = {
             },
             {
               "id": "a4_s12_c11_l3",
-              "original": "<i>Figaro si ritira.",
-              "literal": "<i>Figaro retreats.",
+              "original": "Figaro si ritira.",
+              "literal": "Figaro retreats.",
               "tokens": [
                 {
                   "word": "Figaro",
@@ -11102,8 +11102,8 @@ export const nozzeDiFigaroAct4: Act = {
             },
             {
               "id": "a4_s12_c11_l4",
-              "original": "alla Contessa</i>",
-              "literal": "to the Countess</i>",
+              "original": "alla Contessa",
+              "literal": "to the Countess",
               "tokens": [
                 {
                   "word": "alla",

@@ -4382,7 +4382,7 @@ export const butterflyAct3: Act = {
             },
             {
               "id": "a3_s3_c3_l2",
-              "original": "<i>Pinkerton strette le mani al Console, esce rapidamente dal fondo: Sharpless crolla tristamente il capo.",
+              "original": "Pinkerton strette le mani al Console, esce rapidamente dal fondo: Sharpless crolla tristamente il capo.",
               "literal": "Pinkerton, pressing the Consul's hands, quickly exits from the rear; Sharpless sadly bows his head.",
               "tokens": [
                 {
@@ -4479,8 +4479,8 @@ export const butterflyAct3: Act = {
             },
             {
               "id": "a3_s3_c3_l3",
-              "original": "Suzuki viene dal giardino seguita da Kate che si ferma ai piedi del terrazzo.</i>",
-              "literal": "Suzuki viene dal giardino seguita da Kate che si ferma ai piedi del terrazzo.</i>",
+              "original": "Suzuki viene dal giardino seguita da Kate che si ferma ai piedi del terrazzo.",
+              "literal": "Suzuki viene dal giardino seguita da Kate che si ferma ai piedi del terrazzo.",
               "tokens": [
                 {
                   "word": "Suzuki",
@@ -6814,7 +6814,7 @@ export const butterflyAct3: Act = {
             },
             {
               "id": "a3_s4_c31_l4",
-              "original": "<i>Suzuki va a chiudere lo shosi, in modo che la camera rimane quasi in completa oscurità.",
+              "original": "Suzuki va a chiudere lo shosi, in modo che la camera rimane quasi in completa oscurità.",
               "literal": "Suzuki goes to close the shoji, so that the room remains in almost complete darkness.",
               "tokens": [
                 {
@@ -6917,8 +6917,8 @@ export const butterflyAct3: Act = {
             },
             {
               "id": "a3_s4_c31_l5",
-              "original": "Suzuki ritorna verso Butterfly.</i>",
-              "literal": "Suzuki ritorna verso Butterfly.</i>",
+              "original": "Suzuki ritorna verso Butterfly.",
+              "literal": "Suzuki ritorna verso Butterfly.",
               "tokens": [
                 {
                   "word": "Suzuki",
@@ -7164,7 +7164,7 @@ export const butterflyAct3: Act = {
             },
             {
               "id": "a3_s4_c36_l2",
-              "original": "<i>Fa alzare Suuki, che piange disperatamente, e la spinge fuori dell'uscio di sinistra.",
+              "original": "Fa alzare Suuki, che piange disperatamente, e la spinge fuori dell'uscio di sinistra.",
               "literal": "She raises Suzuki, who weeps desperately, and pushes her out the left door.",
               "tokens": [
                 {
@@ -7310,8 +7310,8 @@ export const butterflyAct3: Act = {
             },
             {
               "id": "a3_s4_c36_l4",
-              "original": "Butterfly rimane immobile, assorta in doloroso pensioro, ancora si odono i singhiozzi di Suzuki, i quali vanno a poco a poco affievolendosi.</i>",
-              "literal": "Butterfly rimane immobile, assorta in doloroso pensioro, ancora si odono i singhiozzi di Suzuki, i quali vanno a poco a poco affievolendosi.</i>",
+              "original": "Butterfly rimane immobile, assorta in doloroso pensioro, ancora si odono i singhiozzi di Suzuki, i quali vanno a poco a poco affievolendosi.",
+              "literal": "Butterfly rimane immobile, assorta in doloroso pensioro, ancora si odono i singhiozzi di Suzuki, i quali vanno a poco a poco affievolendosi.",
               "tokens": [
                 {
                   "word": "Butterfly",
@@ -7709,8 +7709,8 @@ export const butterflyAct3: Act = {
             },
             {
               "id": "a3_s4_c36_l7",
-              "original": "Ne bacia religiosamente la lama, tenendola colle mani per la punta e per l'impugnatura.</i>",
-              "literal": "Ne bacia religiosamente la lama, tenendola colle mani per la punta e per l'impugnatura.</i>",
+              "original": "Ne bacia religiosamente la lama, tenendola colle mani per la punta e per l'impugnatura.",
+              "literal": "Ne bacia religiosamente la lama, tenendola colle mani per la punta e per l'impugnatura.",
               "tokens": [
                 {
                   "word": "Ne",
@@ -8429,7 +8429,7 @@ export const butterflyAct3: Act = {
             },
             {
               "id": "a3_s5_c1_l17",
-              "original": "<i>Butterfly prende il bambino, lo posa su di una stuoia col viso voltato verso sinistra, gli dà nelle mani la banderuola americana ed una puppattola e lo invita a trastullarsene, mentre delicatamente gli benda gli occhi. Poi afferra il coltello e, collo sguardo sempre fisso sul bambino, va dietro il paravento.",
+              "original": "Butterfly prende il bambino, lo posa su di una stuoia col viso voltato verso sinistra, gli dà nelle mani la banderuola americana ed una puppattola e lo invita a trastullarsene, mentre delicatamente gli benda gli occhi. Poi afferra il coltello e, collo sguardo sempre fisso sul bambino, va dietro il paravento.",
               "literal": "Butterfly takes the child, places him on a mat with his face turned toward the left, puts the American flag and a doll into his hands and invites him to play with them, while gently blindfolding his eyes. Then she seizes the knife and, with her gaze always fixed on the child, goes behind the screen.",
               "tokens": [
                 {
@@ -8851,8 +8851,8 @@ export const butterflyAct3: Act = {
             },
             {
               "id": "a3_s5_c1_l19",
-              "original": "Si vede Butterfly sporgersi fuori dal paravento, e brancolando muovere verso il bambino -- il gran velo bianco le circonda il collo: con un debole sorriso saluta colla mano il bambino e si trascina presso di lui, avendo ancora forza di abbracciarlo, poi gli cade vicino.</i>",
-              "literal": "Si vede Butterfly sporgersi fuori dal paravento, e brancolando muovere verso il bambino -- il gran velo bianco le circonda il collo: con un debole sorriso saluta colla mano il bambino e si trascina presso di lui, avendo ancora forza di abbracciarlo, poi gli cade vicino.</i>",
+              "original": "Si vede Butterfly sporgersi fuori dal paravento, e brancolando muovere verso il bambino -- il gran velo bianco le circonda il collo: con un debole sorriso saluta colla mano il bambino e si trascina presso di lui, avendo ancora forza di abbracciarlo, poi gli cade vicino.",
+              "literal": "Si vede Butterfly sporgersi fuori dal paravento, e brancolando muovere verso il bambino -- il gran velo bianco le circonda il collo: con un debole sorriso saluta colla mano il bambino e si trascina presso di lui, avendo ancora forza di abbracciarlo, poi gli cade vicino.",
               "tokens": [
                 {
                   "word": "Si",
@@ -9161,7 +9161,7 @@ export const butterflyAct3: Act = {
             },
             {
               "id": "a3_s5_c2_l2",
-              "original": "<i>La porta di destra è violentemente aperta. Pinkerton e Sharpless si precipitano nella stanza, accorrendo presso Butterfly che con debole gesto indica il bambino e muore. Pinkerton si inginocchia, mentre Sharpless prende il bimbo e lo bacia singhiozzando.</i>",
+              "original": "La porta di destra è violentemente aperta. Pinkerton e Sharpless si precipitano nella stanza, accorrendo presso Butterfly che con debole gesto indica il bambino e muore. Pinkerton si inginocchia, mentre Sharpless prende il bimbo e lo bacia singhiozzando.",
               "literal": "The right door is violently pushed open. Pinkerton and Sharpless rush into the room, running to Butterfly who with a faint gesture points to the child and dies. Pinkerton kneels, while Sharpless takes the child and kisses him weeping.",
               "tokens": [
                 {

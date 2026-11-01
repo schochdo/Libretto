@@ -7697,8 +7697,8 @@ export const butterflyAct1: Act = {
           "lines": [
             {
               "id": "a1_s4_c20_l1",
-              "original": "si arresta sorpresa, poi secco secco risponde</i>",
-              "literal": "si arresta sorpresa, poi secco secco risponde</i>",
+              "original": "si arresta sorpresa, poi secco secco risponde",
+              "literal": "si arresta sorpresa, poi secco secco risponde",
               "tokens": [
                 {
                   "word": "si",
@@ -7765,8 +7765,8 @@ export const butterflyAct1: Act = {
           "lines": [
             {
               "id": "a1_s4_c21_l1",
-              "original": "ritornando presso Butterfly</i>",
-              "literal": "ritornando presso Butterfly</i>",
+              "original": "ritornando presso Butterfly",
+              "literal": "ritornando presso Butterfly",
               "tokens": [
                 {
                   "word": "ritornando",
@@ -7815,8 +7815,8 @@ export const butterflyAct1: Act = {
           "lines": [
             {
               "id": "a1_s4_c22_l1",
-              "original": "con civetteria quasi infantile</i>",
-              "literal": "con civetteria quasi infantile</i>",
+              "original": "con civetteria quasi infantile",
+              "literal": "con civetteria quasi infantile",
               "tokens": [
                 {
                   "word": "con",
@@ -9303,8 +9303,8 @@ export const butterflyAct1: Act = {
             },
             {
               "id": "a1_s4_c41_l3",
-              "original": "<i>sbirciando, cercando di non farsi scorgere</i>  Guardiamo un po'.",
-              "literal": "<i>sbirciando, cercando di non farsi scorgere</i>  Guardiamo un po'.",
+              "original": "sbirciando, cercando di non farsi scorgere  Guardiamo un po'.",
+              "literal": "sbirciando, cercando di non farsi scorgere  Guardiamo un po'.",
               "tokens": [
                 {
                   "word": "sbirciando",
@@ -13292,8 +13292,8 @@ export const butterflyAct1: Act = {
           "lines": [
             {
               "id": "a1_s4_c57_l1",
-              "original": "Mamma, vien qua.  <i>agli altri</i>",
-              "literal": "Mamma, vien qua.  <i>agli altri</i>",
+              "original": "Mamma, vien qua.  agli altri",
+              "literal": "Mamma, vien qua.  agli altri",
               "tokens": [
                 {
                   "word": "Mamma",
@@ -13409,7 +13409,7 @@ export const butterflyAct1: Act = {
             },
             {
               "id": "a1_s4_c57_l4",
-              "original": "<i>Al cenno di Butterly tutti si inchinano innanzi a Pinkerton ed a Sharpless.",
+              "original": "Al cenno di Butterly tutti si inchinano innanzi a Pinkerton ed a Sharpless.",
               "literal": "At Butterfly's signal everyone bows before Pinkerton and Sharpless.",
               "tokens": [
                 {
@@ -13494,8 +13494,8 @@ export const butterflyAct1: Act = {
             },
             {
               "id": "a1_s4_c57_l5",
-              "original": "I parenti si rialzano e si spargono nel giardino; Goro ne conduce qualcuno nell'interno della casa. Pinkerton prende per mano Butterfly e la conduce veso la casa.</i>",
-              "literal": "I parenti si rialzano e si spargono nel giardino; Goro ne conduce qualcuno nell'interno della casa. Pinkerton prende per mano Butterfly e la conduce veso la casa.</i>",
+              "original": "I parenti si rialzano e si spargono nel giardino; Goro ne conduce qualcuno nell'interno della casa. Pinkerton prende per mano Butterfly e la conduce veso la casa.",
+              "literal": "I parenti si rialzano e si spargono nel giardino; Goro ne conduce qualcuno nell'interno della casa. Pinkerton prende per mano Butterfly e la conduce veso la casa.",
               "tokens": [
                 {
                   "word": "I",
@@ -14389,8 +14389,8 @@ export const butterflyAct1: Act = {
             },
             {
               "id": "a1_s4_c72_l2",
-              "original": "coll'invito...  <i>fa il gesto di chi s'apre il ventre</i>",
-              "literal": "coll'invito...  <i>fa il gesto di chi s'apre il ventre</i>",
+              "original": "coll'invito...  fa il gesto di chi s'apre il ventre",
+              "literal": "coll'invito...  fa il gesto di chi s'apre il ventre",
               "tokens": [
                 {
                   "word": "coll",
@@ -14520,7 +14520,7 @@ export const butterflyAct1: Act = {
             },
             {
               "id": "a1_s4_c74_l2",
-              "original": "<i>Si allontana, rientrando nella casa.",
+              "original": "Si allontana, rientrando nella casa.",
               "literal": "She moves away, returning inside the house.",
               "tokens": [
                 {
@@ -14557,8 +14557,8 @@ export const butterflyAct1: Act = {
             },
             {
               "id": "a1_s4_c74_l3",
-              "original": "Butterfly, che è ritornata, va a sedersi sulla terrazza vicino a Pinkerton e leva dalle maniche alcune statuette.</i>",
-              "literal": "Butterfly, che è ritornata, va a sedersi sulla terrazza vicino a Pinkerton e leva dalle maniche alcune statuette.</i>",
+              "original": "Butterfly, che è ritornata, va a sedersi sulla terrazza vicino a Pinkerton e leva dalle maniche alcune statuette.",
+              "literal": "Butterfly, che è ritornata, va a sedersi sulla terrazza vicino a Pinkerton e leva dalle maniche alcune statuette.",
               "tokens": [
                 {
                   "word": "Butterfly",
@@ -22652,7 +22652,7 @@ export const butterflyAct1: Act = {
             },
             {
               "id": "a1_s7_c39_l4",
-              "original": "<i>Salgono dal giardino nella casetta.</i>",
+              "original": "Salgono dal giardino nella casetta.",
               "literal": "They go up from the garden into the little house.",
               "tokens": [
                 {

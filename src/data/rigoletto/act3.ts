@@ -1249,8 +1249,8 @@ export const rigolettoAct3: Act = {
             },
             {
               "id": "a3_s1_c20_l17",
-              "original": "La donna è mobile, <i>ecc.</i>",
-              "literal": "Woman is fickle, <i>etc.</i>",
+              "original": "La donna è mobile, ecc.",
+              "literal": "Woman is fickle, etc.",
               "tokens": [
                 {
                   "word": "La",
@@ -4854,8 +4854,8 @@ export const rigolettoAct3: Act = {
             },
             {
               "id": "a3_s3_c23_l2",
-              "original": "La donna è mobile, <i>ecc.</i>",
-              "literal": "The woman is mobile, <i>etc.</i>",
+              "original": "La donna è mobile, ecc.",
+              "literal": "The woman is mobile, etc.",
               "tokens": [
                 {
                   "word": "La",
@@ -9229,8 +9229,8 @@ export const rigolettoAct3: Act = {
           "lines": [
             {
               "id": "a3_s4_c10_l1",
-              "original": "La donna è mobile, <i>ecc.</i>",
-              "literal": "The woman is mobile, <i>etc.</i>",
+              "original": "La donna è mobile, ecc.",
+              "literal": "The woman is mobile, etc.",
               "tokens": [
                 {
                   "word": "La",
@@ -10868,7 +10868,7 @@ export const rigolettoAct3: Act = {
             },
             {
               "id": "a3_s4_c21_l8",
-              "original": "<i>Strappandosi i capelli, cade sul cadavere della figlia.</i>",
+              "original": "Strappandosi i capelli, cade sul cadavere della figlia.",
               "literal": "Tearing his hair, he falls on the corpse of his daughter.",
               "tokens": [
                 {

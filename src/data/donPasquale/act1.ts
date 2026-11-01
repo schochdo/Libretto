@@ -7250,8 +7250,8 @@ export const donPasqualeAct1: Act = {
             },
             {
               "id": "a1_s4_c1_l34",
-              "original": "Finale I</b>",
-              "literal": "Final I</b>",
+              "original": "Finale I",
+              "literal": "Final I",
               "tokens": [
                 {
                   "word": "Finale",

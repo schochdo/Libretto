@@ -2928,8 +2928,8 @@ export const donPasqualeAct3: Act = {
             },
             {
               "id": "a3_s2_c23_l9",
-              "original": "<i>Norina parte, nell'atto di partire Norina  lascia cadere una",
-              "literal": "<i>Norina leaves, in the act of leaving Norina drops one",
+              "original": "Norina parte, nell'atto di partire Norina  lascia cadere una",
+              "literal": "Norina leaves, in the act of leaving Norina drops one",
               "tokens": [
                 {
                   "word": "Norina",
@@ -2995,8 +2995,8 @@ export const donPasqualeAct3: Act = {
             },
             {
               "id": "a3_s2_c23_l10",
-              "original": "carta. Don Pasquale se ne avvede e la raccoglie.</i>",
-              "literal": "paper. Don Pasquale notices it and picks it up.</i>",
+              "original": "carta. Don Pasquale se ne avvede e la raccoglie.",
+              "literal": "paper. Don Pasquale notices it and picks it up.",
               "tokens": [
                 {
                   "word": "carta",
@@ -9855,8 +9855,8 @@ export const donPasqualeAct3: Act = {
             },
             {
               "id": "a3_s6_c1_l13",
-              "original": "<i>Norina esce con precauzione della porta del belvedere, e va",
-              "literal": "<i>Norina carefully exits the lookout door and goes",
+              "original": "Norina esce con precauzione della porta del belvedere, e va",
+              "literal": "Norina carefully exits the lookout door and goes",
               "tokens": [
                 {
                   "word": "Norina",
@@ -10001,8 +10001,8 @@ export const donPasqualeAct3: Act = {
             },
             {
               "id": "a3_s6_c1_l15",
-              "original": "avvolto in un mantello che lascierà cadere.</i>",
-              "literal": "wrapped in a cloak that he will let fall.</i>",
+              "original": "avvolto in un mantello che lascierà cadere.",
+              "literal": "wrapped in a cloak that he will let fall.",
               "tokens": [
                 {
                   "word": "avvolto",
@@ -10341,8 +10341,8 @@ export const donPasqualeAct3: Act = {
             },
             {
               "id": "a3_s6_c2_l9",
-              "original": "<i>Si vedono Don Pasquale e il Dottore muniti di lanterne chiece entrar",
-              "literal": "<i>Don Pasquale and the Doctor are seen equipped with lanterns and are asking to enter",
+              "original": "Si vedono Don Pasquale e il Dottore muniti di lanterne chiece entrar",
+              "literal": "Don Pasquale and the Doctor are seen equipped with lanterns and are asking to enter",
               "tokens": [
                 {
                   "word": "Si",
@@ -10499,8 +10499,8 @@ export const donPasqualeAct3: Act = {
             },
             {
               "id": "a3_s6_c2_l11",
-              "original": "suo tempo.</i>",
-              "literal": "its time.</i>",
+              "original": "suo tempo.",
+              "literal": "its time.",
               "tokens": [
                 {
                   "word": "suo",
@@ -10922,8 +10922,8 @@ export const donPasqualeAct3: Act = {
             },
             {
               "id": "a3_s7_c8_l3",
-              "original": "<i>Don Pasquale e il Dottore fanno indagini nel boschetto;",
-              "literal": "<i>Don Pasquale and the Doctor investigate the grove;",
+              "original": "Don Pasquale e il Dottore fanno indagini nel boschetto;",
+              "literal": "Don Pasquale and the Doctor investigate the grove;",
               "tokens": [
                 {
                   "word": "Don",
@@ -10983,8 +10983,8 @@ export const donPasqualeAct3: Act = {
             },
             {
               "id": "a3_s7_c8_l4",
-              "original": "Ernesto entra pian piano in casa</i>",
-              "literal": "Ernesto slowly enters the house</i>",
+              "original": "Ernesto entra pian piano in casa",
+              "literal": "Ernesto slowly enters the house",
               "tokens": [
                 {
                   "word": "Ernesto",

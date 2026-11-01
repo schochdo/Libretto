@@ -5266,8 +5266,8 @@ export const laTraviataAct3: Act = {
             },
             {
               "id": "a3_s6_c19_l4",
-              "original": "<i>Annina parte",
-              "literal": "<i>Annina leaves",
+              "original": "Annina parte",
+              "literal": "Annina leaves",
               "tokens": [
                 {
                   "word": "Annina",
@@ -5285,8 +5285,8 @@ export const laTraviataAct3: Act = {
             },
             {
               "id": "a3_s6_c19_l5",
-              "original": "ad Alfredo</i>",
-              "literal": "to Alfredo</i>",
+              "original": "ad Alfredo",
+              "literal": "to Alfredo",
               "tokens": [
                 {
                   "word": "ad",

@@ -237,8 +237,8 @@ export const toscaAct3: Act = {
             },
             {
               "id": "a3_s1_c1_l9",
-              "original": "<i>La luce incerta e grigia che precede l'alba: le campane delle chiese suonano mattutino.",
-              "literal": "<i>The uncertain and gray light that precedes dawn: the church bells ring in the morning.",
+              "original": "La luce incerta e grigia che precede l'alba: le campane delle chiese suonano mattutino.",
+              "literal": "The uncertain and gray light that precedes dawn: the church bells ring in the morning.",
               "tokens": [
                 {
                   "word": "La",
@@ -334,8 +334,8 @@ export const toscaAct3: Act = {
             },
             {
               "id": "a3_s1_c1_l10",
-              "original": "Un Carceriere con una lanterna sale dalla scala, va alla casamatta e vi accende la lampada sospesa davanti al crocifisso, poi quella sulla tavola. Poi va in fondo alla piattaforma e guarda giù nel cortile sottostante per vedere se giunge il picchetto dei soldati, col condannato. Si incontra con una sentinella che percorre tutt'all'intorno la piattaforma e scambiate colla stessa alcune parole, ritorna alla casamatta, siede ed aspetta mezzo assonnato. Più tardi un picchetto, comandato da un Sergente di guardia, sale sulla piattaforma accompagnando Cavaradossi: il picchetto si arresta e il Sergente conduce Cavaradossi nella casamatta, consegnando un foglio al Carceriere. - Il Carceriere esamina il foglio, apre il registro e vi scrive mentre interroga:</i>",
-              "literal": "A Jailer with a lantern climbs the ladder, goes to the casemate and lights the lamp suspended in front of the crucifix, then the one on the table. Then he goes to the end of the platform and looks down into the courtyard below to see if the picket of soldiers arrives with the condemned man. He meets a sentry who walks all around the platform and exchanges a few words with him, returns to the casemate, sits down and waits half-drowsy. Later a picket, commanded by a Sergeant on guard, climbs onto the platform accompanying Cavaradossi: the picket stops and the Sergeant leads Cavaradossi into the casemate, handing a sheet of paper to the Jailer. - The Jailer examines the paper, opens the register and writes while questioning:</i>",
+              "original": "Un Carceriere con una lanterna sale dalla scala, va alla casamatta e vi accende la lampada sospesa davanti al crocifisso, poi quella sulla tavola. Poi va in fondo alla piattaforma e guarda giù nel cortile sottostante per vedere se giunge il picchetto dei soldati, col condannato. Si incontra con una sentinella che percorre tutt'all'intorno la piattaforma e scambiate colla stessa alcune parole, ritorna alla casamatta, siede ed aspetta mezzo assonnato. Più tardi un picchetto, comandato da un Sergente di guardia, sale sulla piattaforma accompagnando Cavaradossi: il picchetto si arresta e il Sergente conduce Cavaradossi nella casamatta, consegnando un foglio al Carceriere. - Il Carceriere esamina il foglio, apre il registro e vi scrive mentre interroga:",
+              "literal": "A Jailer with a lantern climbs the ladder, goes to the casemate and lights the lamp suspended in front of the crucifix, then the one on the table. Then he goes to the end of the platform and looks down into the courtyard below to see if the picket of soldiers arrives with the condemned man. He meets a sentry who walks all around the platform and exchanges a few words with him, returns to the casemate, sits down and waits half-drowsy. Later a picket, commanded by a Sergeant on guard, climbs onto the platform accompanying Cavaradossi: the picket stops and the Sergeant leads Cavaradossi into the casemate, handing a sheet of paper to the Jailer. - The Jailer examines the paper, opens the register and writes while questioning:",
               "tokens": [
                 {
                   "word": "Un",
@@ -1545,8 +1545,8 @@ export const toscaAct3: Act = {
         {
           "id": "a3_s2_c6",
           "speaker": "Mario Cavaradossi",
-          "stageDirection": "rimane alquanto pensieroso, quindi si mette a scrivere... ma dopo tracciate alcune linee è invaso dalle rimembranze, e si arresta dallo scrivere<br>pensando",
-          "stageDirectionTranslation": "he remains somewhat thoughtful, so he starts writing... but after having drawn a few lines he is invaded by memories, and stops writing<br>thinking",
+          "stageDirection": "rimane alquanto pensieroso, quindi si mette a scrivere... ma dopo tracciate alcune linee è invaso dalle rimembranze, e si arresta dallo scrivere, pensando",
+          "stageDirectionTranslation": "he remains somewhat thoughtful, so he starts writing... but after having drawn a few lines he is invaded by memories, and stops writing, thinking",
           "lines": [
             {
               "id": "a3_s2_c6_l1",
@@ -2025,8 +2025,8 @@ export const toscaAct3: Act = {
             },
             {
               "id": "a3_s2_c6_l14",
-              "original": "<i>scoppia in singhiozzi, coprendosi il volto colle mani",
-              "literal": "<i>bursts into sobs, covering his face with his hands",
+              "original": "scoppia in singhiozzi, coprendosi il volto colle mani",
+              "literal": "bursts into sobs, covering his face with his hands",
               "tokens": [
                 {
                   "word": "scoppia",
@@ -2080,8 +2080,8 @@ export const toscaAct3: Act = {
             },
             {
               "id": "a3_s2_c6_l15",
-              "original": "Dalla scala viene Spoletta, accompagnato dal Sergente e seguito da Tosca: il Sergente porta una lanterna - Spoletta accenna a Tosca ove trovasi Cavaradossi, poi chiama a sé il Carceriere: con questi e col Sergente ridiscende, non senza aver prima dato ad una sentinella, che sta in fondo, l'ordine di sorvegliare il prigioniero.</i>",
-              "literal": "Spoletta comes from the staircase, accompanied by the Sergeant and followed by Tosca: the Sergeant brings a lantern - Spoletta points out to Tosca where Cavaradossi is, then calls the Jailer to him: with him and with the Sergeant he goes back down, but not without first having given the order to a sentry, who is at the bottom, to watch over the prisoner.</i>",
+              "original": "Dalla scala viene Spoletta, accompagnato dal Sergente e seguito da Tosca: il Sergente porta una lanterna - Spoletta accenna a Tosca ove trovasi Cavaradossi, poi chiama a sé il Carceriere: con questi e col Sergente ridiscende, non senza aver prima dato ad una sentinella, che sta in fondo, l'ordine di sorvegliare il prigioniero.",
+              "literal": "Spoletta comes from the staircase, accompanied by the Sergeant and followed by Tosca: the Sergeant brings a lantern - Spoletta points out to Tosca where Cavaradossi is, then calls the Jailer to him: with him and with the Sergeant he goes back down, but not without first having given the order to a sentry, who is at the bottom, to watch over the prisoner.",
               "tokens": [
                 {
                   "word": "Dalla",
@@ -2569,8 +2569,8 @@ export const toscaAct3: Act = {
         {
           "id": "a3_s3_c3",
           "speaker": "Mario Cavaradossi",
-          "stageDirection": "guarda il foglio; ne vede la firma<br>guardando Tosca con intenzione",
-          "stageDirectionTranslation": "look at the paper; he sees the signature<br>looking at Tosca with intention",
+          "stageDirection": "guarda il foglio; ne vede la firma, guardando Tosca con intenzione",
+          "stageDirectionTranslation": "look at the paper; he sees the signature, looking at Tosca with intention",
           "lines": [
             {
               "id": "a3_s3_c3_l1",
@@ -6547,8 +6547,8 @@ export const toscaAct3: Act = {
             },
             {
               "id": "a3_s4_c12_l9",
-              "original": "<i>Il Sergente si avvicina al caduto e lo osserva attentamente: Spoletta pure si è avvicinato; allontana il Sergente impedendogli di dare il colpo di grazia, quindi copre Cavaradossi con un mantello. L'Ufficiale allinea i soldati: il Sergente ritira la sentinella che sta in fondo, poi tutti, preceduti da Spoletta, scendono la scala. Tosca è agitatissima: essa sorveglia questi movimenti temendo che Cavaradossi, per impazienza, si muova o parli prima del momento opportuno.",
-              "literal": "<i>The Sergeant approaches the fallen man and observes him carefully: Spoletta also approached; he pushes the Sergeant away, preventing him from delivering the final blow, then covers Cavaradossi with a cloak. The Officer lines up the soldiers: the Sergeant withdraws the sentry at the bottom, then everyone, preceded by Spoletta, goes down the ladder. Tosca is very agitated: she monitors these movements, fearing that Cavaradossi, out of impatience, will move or speak before the right moment.",
+              "original": "Il Sergente si avvicina al caduto e lo osserva attentamente: Spoletta pure si è avvicinato; allontana il Sergente impedendogli di dare il colpo di grazia, quindi copre Cavaradossi con un mantello. L'Ufficiale allinea i soldati: il Sergente ritira la sentinella che sta in fondo, poi tutti, preceduti da Spoletta, scendono la scala. Tosca è agitatissima: essa sorveglia questi movimenti temendo che Cavaradossi, per impazienza, si muova o parli prima del momento opportuno.",
+              "literal": "The Sergeant approaches the fallen man and observes him carefully: Spoletta also approached; he pushes the Sergeant away, preventing him from delivering the final blow, then covers Cavaradossi with a cloak. The Officer lines up the soldiers: the Sergeant withdraws the sentry at the bottom, then everyone, preceded by Spoletta, goes down the ladder. Tosca is very agitated: she monitors these movements, fearing that Cavaradossi, out of impatience, will move or speak before the right moment.",
               "tokens": [
                 {
                   "word": "Il",
@@ -6992,8 +6992,8 @@ export const toscaAct3: Act = {
             },
             {
               "id": "a3_s4_c12_l10",
-              "original": "a voce repressa verso Cavaradossi</i>",
-              "literal": "in a repressed voice towards Cavaradossi</i>",
+              "original": "a voce repressa verso Cavaradossi",
+              "literal": "in a repressed voice towards Cavaradossi",
               "tokens": [
                 {
                   "word": "a",
@@ -7695,7 +7695,7 @@ export const toscaAct3: Act = {
             },
             {
               "id": "a3_s4_c21_l3",
-              "original": "<i>Sciarrone ed alcuni soldati, saliti confusamente, corrono al parapetto e guardano giù. Spoletta rimane esterrefatto, allibito.</i>",
+              "original": "Sciarrone ed alcuni soldati, saliti confusamente, corrono al parapetto e guardano giù. Spoletta rimane esterrefatto, allibito.",
               "literal": "Sciarrone and some soldiers, having rushed up in confusion, run to the parapet and look down. Spoletta remains dumbfounded, aghast.",
               "tokens": [
                 {

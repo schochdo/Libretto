@@ -16927,8 +16927,8 @@ export const nozzeDiFigaroAct3: Act = {
             },
             {
               "id": "a3_s14_c6_l11",
-              "original": "<i>Tutti partono.</i>\n",
-              "literal": "<i>Everyone leaves.</i>",
+              "original": "Tutti partono.\n",
+              "literal": "Everyone leaves.",
               "tokens": [
                 {
                   "word": "Tutti",
