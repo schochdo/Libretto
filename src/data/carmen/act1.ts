@@ -99,9 +99,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Drôles",
-                  "lemma": "drôles",
-                  "pos": "noun",
-                  "meaning": "drôles (French opera term)"
+                  "lemma": "drôle",
+                  "pos": "adjective",
+                  "meaning": "strange / funny / odd (pl.)"
                 },
                 {
                   "word": "de",
@@ -113,7 +113,7 @@ export const carmenAct1: Act = {
                   "word": "gens",
                   "lemma": "gens",
                   "pos": "noun",
-                  "meaning": "gens (French opera term)"
+                  "meaning": "people / folk"
                 },
                 {
                   "word": "que",
@@ -175,7 +175,7 @@ export const carmenAct1: Act = {
                   "word": "corps",
                   "lemma": "corps",
                   "pos": "noun",
-                  "meaning": "corps (French opera term)"
+                  "meaning": "body / corps"
                 },
                 {
                   "word": "de",
@@ -334,9 +334,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Etc",
-                  "lemma": "etc",
-                  "pos": "noun",
-                  "meaning": "etc (French opera term)"
+                  "lemma": "etc.",
+                  "pos": "adverb",
+                  "meaning": "et cetera / and so forth"
                 }
               ]
             }
@@ -482,7 +482,7 @@ export const carmenAct1: Act = {
                   "word": "secours",
                   "lemma": "secours",
                   "pos": "noun",
-                  "meaning": "secours (French opera term)"
+                  "meaning": "help / aid / relief (au secours: to the rescue)"
                 },
                 {
                   "word": "il",
@@ -619,8 +619,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "Voilà",
                   "lemma": "voilà",
-                  "pos": "noun",
-                  "meaning": "voilà (French opera term)"
+                  "pos": "preposition",
+                  "meaning": "there is / behold / there comes"
                 }
               ]
             }
@@ -667,9 +667,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "appelle",
-                  "lemma": "appelle",
-                  "pos": "noun",
-                  "meaning": "appelle (French opera term)"
+                  "lemma": "appeler",
+                  "pos": "verb",
+                  "meaning": "calls / call / name"
                 }
               ]
             },
@@ -735,9 +735,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "connaissons",
-                  "lemma": "connaissons",
+                  "lemma": "connaître",
                   "pos": "verb",
-                  "meaning": "connaissons (French opera term)"
+                  "meaning": "know / are acquainted with"
                 },
                 {
                   "word": "tous",
@@ -853,7 +853,7 @@ export const carmenAct1: Act = {
                   "word": "compagnie",
                   "lemma": "compagnie",
                   "pos": "noun",
-                  "meaning": "compagnie (French opera term)"
+                  "meaning": "company"
                 }
               ]
             }
@@ -933,9 +933,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "charmante",
-                  "lemma": "charmante",
-                  "pos": "noun",
-                  "meaning": "charmante (French opera term)"
+                  "lemma": "charmant",
+                  "pos": "adjective",
+                  "meaning": "charming / lovely (fem.)"
                 },
                 {
                   "word": "il",
@@ -1080,9 +1080,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Remplacera",
-                  "lemma": "remplacera",
-                  "pos": "noun",
-                  "meaning": "remplacera (French opera term)"
+                  "lemma": "remplacer",
+                  "pos": "verb",
+                  "meaning": "will replace / take the place of"
                 },
                 {
                   "word": "la",
@@ -1098,9 +1098,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "descendante",
-                  "lemma": "descendante",
+                  "lemma": "descendant",
                   "pos": "noun",
-                  "meaning": "descendante (French opera term)"
+                  "meaning": "descendant / offspring (fem.)"
                 }
               ]
             }
@@ -1166,9 +1166,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Remplacera",
-                  "lemma": "remplacera",
-                  "pos": "noun",
-                  "meaning": "remplacera (French opera term)"
+                  "lemma": "remplacer",
+                  "pos": "verb",
+                  "meaning": "will replace / take the place of"
                 },
                 {
                   "word": "la",
@@ -1184,9 +1184,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "descendante",
-                  "lemma": "descendante",
+                  "lemma": "descendant",
                   "pos": "noun",
-                  "meaning": "descendante (French opera term)"
+                  "meaning": "descendant / offspring (fem.)"
                 }
               ]
             }
@@ -1215,9 +1215,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "attendant",
-                  "lemma": "attendant",
+                  "lemma": "attendre",
                   "pos": "verb",
-                  "meaning": "attendant (French opera term)"
+                  "meaning": "waiting (en attendant: meanwhile)"
                 },
                 {
                   "word": "qu",
@@ -1297,7 +1297,7 @@ export const carmenAct1: Act = {
                   "word": "peine",
                   "lemma": "peine",
                   "pos": "noun",
-                  "meaning": "peine (French opera term)"
+                  "meaning": "pain / trouble / sorrow (à peine: scarcely)"
                 }
               ]
             },
@@ -1339,8 +1339,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "instant",
                   "lemma": "instant",
-                  "pos": "verb",
-                  "meaning": "instant (French opera term)"
+                  "pos": "noun",
+                  "meaning": "instant / moment"
                 }
               ]
             }
@@ -1446,13 +1446,13 @@ export const carmenAct1: Act = {
                   "word": "merci",
                   "lemma": "merci",
                   "pos": "noun",
-                  "meaning": "merci (French opera term)"
+                  "meaning": "thanks / mercy"
                 },
                 {
                   "word": "messieurs",
-                  "lemma": "messieurs",
+                  "lemma": "monsieur",
                   "pos": "noun",
-                  "meaning": "messieurs (French opera term)"
+                  "meaning": "gentlemen / sirs"
                 },
                 {
                   "word": "les",
@@ -1495,13 +1495,13 @@ export const carmenAct1: Act = {
                   "word": "crainte",
                   "lemma": "crainte",
                   "pos": "noun",
-                  "meaning": "crainte (French opera term)"
+                  "meaning": "fear / dread"
                 },
                 {
                   "word": "mignonne",
-                  "lemma": "mignonne",
-                  "pos": "noun",
-                  "meaning": "mignonne (French opera term)"
+                  "lemma": "mignon",
+                  "pos": "adjective",
+                  "meaning": "sweet / darling / pretty (fem.)"
                 }
               ]
             },
@@ -1524,9 +1524,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "promets",
-                  "lemma": "promets",
-                  "pos": "noun",
-                  "meaning": "promets (French opera term)"
+                  "lemma": "promettre",
+                  "pos": "verb",
+                  "meaning": "promise"
                 },
                 {
                   "word": "qu",
@@ -1598,9 +1598,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "égards",
-                  "lemma": "égards",
+                  "lemma": "égard",
                   "pos": "noun",
-                  "meaning": "égards (French opera term)"
+                  "meaning": "regards / consideration / respects"
                 },
                 {
                   "word": "qu",
@@ -1666,8 +1666,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "cependant",
                   "lemma": "cependant",
-                  "pos": "verb",
-                  "meaning": "cependant (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "meanwhile / yet / however"
                 }
               ]
             },
@@ -1684,9 +1684,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "reviendrai",
-                  "lemma": "reviendrai",
-                  "pos": "noun",
-                  "meaning": "reviendrai (French opera term)"
+                  "lemma": "revenir",
+                  "pos": "verb",
+                  "meaning": "shall return / come back"
                 },
                 {
                   "word": "c",
@@ -1709,8 +1709,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "prudent",
                   "lemma": "prudent",
-                  "pos": "noun",
-                  "meaning": "prudent (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "prudent / cautious / careful"
                 }
               ]
             },
@@ -1727,9 +1727,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "reviendrai",
-                  "lemma": "reviendrai",
-                  "pos": "noun",
-                  "meaning": "reviendrai (French opera term)"
+                  "lemma": "revenir",
+                  "pos": "verb",
+                  "meaning": "shall return / come back"
                 },
                 {
                   "word": "quand",
@@ -1764,9 +1764,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Remplacera",
-                  "lemma": "remplacera",
-                  "pos": "noun",
-                  "meaning": "remplacera (French opera term)"
+                  "lemma": "remplacer",
+                  "pos": "verb",
+                  "meaning": "will replace / take the place of"
                 },
                 {
                   "word": "la",
@@ -1782,9 +1782,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "descendante",
-                  "lemma": "descendante",
+                  "lemma": "descendant",
                   "pos": "noun",
-                  "meaning": "descendante (French opera term)"
+                  "meaning": "descendant / offspring (fem.)"
                 }
               ]
             }
@@ -1937,9 +1937,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "messieurs",
-                  "lemma": "messieurs",
+                  "lemma": "monsieur",
                   "pos": "noun",
-                  "meaning": "messieurs (French opera term)"
+                  "meaning": "gentlemen / sirs"
                 },
                 {
                   "word": "les",
@@ -1988,9 +1988,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "envole",
-                  "lemma": "envole",
-                  "pos": "noun",
-                  "meaning": "envole (French opera term)"
+                  "lemma": "envoler",
+                  "pos": "verb",
+                  "meaning": "flies away (s'envole)"
                 }
               ]
             },
@@ -2019,9 +2019,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "console",
-                  "lemma": "console",
-                  "pos": "noun",
-                  "meaning": "console (French opera term)"
+                  "lemma": "consoler",
+                  "pos": "verb",
+                  "meaning": "consoles / comfort"
                 }
               ]
             },
@@ -2032,9 +2032,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Reprenons",
-                  "lemma": "reprenons",
+                  "lemma": "reprendre",
                   "pos": "verb",
-                  "meaning": "reprenons (French opera term)"
+                  "meaning": "let us resume / take back"
                 },
                 {
                   "word": "notre",
@@ -2083,7 +2083,7 @@ export const carmenAct1: Act = {
                   "word": "gens",
                   "lemma": "gens",
                   "pos": "noun",
-                  "meaning": "gens (French opera term)"
+                  "meaning": "people / folk"
                 }
               ]
             }
@@ -2144,9 +2144,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Etc",
-                  "lemma": "etc",
-                  "pos": "noun",
-                  "meaning": "etc (French opera term)"
+                  "lemma": "etc.",
+                  "pos": "adverb",
+                  "meaning": "et cetera / and so forth"
                 }
               ]
             }
@@ -2167,13 +2167,13 @@ export const carmenAct1: Act = {
                   "word": "Attention",
                   "lemma": "attention",
                   "pos": "noun",
-                  "meaning": "attention (French opera term)"
+                  "meaning": "attention / care"
                 },
                 {
                   "word": "chut",
                   "lemma": "chut",
-                  "pos": "noun",
-                  "meaning": "chut (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "hush! / quiet!"
                 },
                 {
                   "word": "taisons-nous",
@@ -2191,8 +2191,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "Voici",
                   "lemma": "voici",
-                  "pos": "noun",
-                  "meaning": "voici (French opera term)"
+                  "pos": "preposition",
+                  "meaning": "here is / behold / here comes"
                 },
                 {
                   "word": "venir",
@@ -2208,15 +2208,15 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "vieil",
-                  "lemma": "vieil",
-                  "pos": "noun",
-                  "meaning": "vieil (French opera term)"
+                  "lemma": "vieux",
+                  "pos": "adjective",
+                  "meaning": "old (before vowel)"
                 },
                 {
                   "word": "époux",
                   "lemma": "époux",
                   "pos": "noun",
-                  "meaning": "époux (French opera term)"
+                  "meaning": "husband / spouse"
                 }
               ]
             },
@@ -2234,14 +2234,14 @@ export const carmenAct1: Act = {
                 {
                   "word": "soupçonneux",
                   "lemma": "soupçonneux",
-                  "pos": "noun",
-                  "meaning": "soupçonneux (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "suspicious / distrustful"
                 },
                 {
                   "word": "mine",
                   "lemma": "mine",
                   "pos": "noun",
-                  "meaning": "mine (French opera term)"
+                  "meaning": "look / appearance / mien / mine"
                 },
                 {
                   "word": "jalouse",
@@ -2296,7 +2296,7 @@ export const carmenAct1: Act = {
                   "word": "épouse",
                   "lemma": "épouse",
                   "pos": "noun",
-                  "meaning": "épouse (French opera term)"
+                  "meaning": "wife / spouse / marry"
                 }
               ]
             },
@@ -2350,8 +2350,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "loin",
                   "lemma": "loin",
-                  "pos": "noun",
-                  "meaning": "loin (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "far / distant"
                 }
               ]
             },
@@ -2376,7 +2376,7 @@ export const carmenAct1: Act = {
                   "word": "sortir",
                   "lemma": "sortir",
                   "pos": "verb",
-                  "meaning": "sortir (French opera term)"
+                  "meaning": "to go out / leave / step outside"
                 },
                 {
                   "word": "de",
@@ -2394,7 +2394,7 @@ export const carmenAct1: Act = {
                   "word": "coin",
                   "lemma": "coin",
                   "pos": "noun",
-                  "meaning": "coin (French opera term)"
+                  "meaning": "corner"
                 }
               ]
             },
@@ -2406,26 +2406,26 @@ export const carmenAct1: Act = {
                 {
                   "word": "Ha",
                   "lemma": "ha",
-                  "pos": "noun",
-                  "meaning": "ha (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "ha! / ah!"
                 },
                 {
                   "word": "ha",
                   "lemma": "ha",
-                  "pos": "noun",
-                  "meaning": "ha (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "ha! / ah!"
                 },
                 {
                   "word": "ha",
                   "lemma": "ha",
-                  "pos": "noun",
-                  "meaning": "ha (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "ha! / ah!"
                 },
                 {
                   "word": "ha",
                   "lemma": "ha",
-                  "pos": "noun",
-                  "meaning": "ha (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "ha! / ah!"
                 }
               ]
             },
@@ -2443,8 +2443,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "voilà",
                   "lemma": "voilà",
-                  "pos": "noun",
-                  "meaning": "voilà (French opera term)"
+                  "pos": "preposition",
+                  "meaning": "there is / behold / there comes"
                 }
               ]
             },
@@ -2462,8 +2462,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "comment",
                   "lemma": "comment",
-                  "pos": "noun",
-                  "meaning": "comment (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "how / what"
                 },
                 {
                   "word": "ça",
@@ -2494,9 +2494,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "II",
-                  "lemma": "ii",
+                  "lemma": "II",
                   "pos": "noun",
-                  "meaning": "ii (French opera term)"
+                  "meaning": "II (second)"
                 }
               ]
             },
@@ -2526,14 +2526,14 @@ export const carmenAct1: Act = {
                 {
                   "word": "quel",
                   "lemma": "quel",
-                  "pos": "noun",
-                  "meaning": "quel (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "what / which"
                 },
                 {
                   "word": "bonheur",
                   "lemma": "bonheur",
                   "pos": "noun",
-                  "meaning": "bonheur (French opera term)"
+                  "meaning": "happiness / joy / good fortune"
                 }
               ]
             },
@@ -2570,7 +2570,7 @@ export const carmenAct1: Act = {
                   "word": "serviteur",
                   "lemma": "serviteur",
                   "pos": "noun",
-                  "meaning": "serviteur (French opera term)"
+                  "meaning": "servant"
                 }
               ]
             },
@@ -2613,7 +2613,7 @@ export const carmenAct1: Act = {
                   "word": "grâce",
                   "lemma": "grâce",
                   "pos": "noun",
-                  "meaning": "grâce (French opera term)"
+                  "meaning": "grace / mercy / pardon"
                 }
               ]
             },
@@ -2638,7 +2638,7 @@ export const carmenAct1: Act = {
                   "word": "mari",
                   "lemma": "mari",
                   "pos": "noun",
-                  "meaning": "mari (French opera term)"
+                  "meaning": "husband"
                 },
                 {
                   "word": "fait",
@@ -2656,7 +2656,7 @@ export const carmenAct1: Act = {
                   "word": "grimace",
                   "lemma": "grimace",
                   "pos": "noun",
-                  "meaning": "grimace (French opera term)"
+                  "meaning": "grimace / wry face"
                 }
               ]
             },
@@ -2692,14 +2692,14 @@ export const carmenAct1: Act = {
                 {
                   "word": "fort",
                   "lemma": "fort",
-                  "pos": "noun",
-                  "meaning": "fort (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "strong / loud / very"
                 },
                 {
                   "word": "encourageant",
-                  "lemma": "encourageant",
+                  "lemma": "encourager",
                   "pos": "verb",
-                  "meaning": "encourageant (French opera term)"
+                  "meaning": "encouraging"
                 }
               ]
             },
@@ -2718,13 +2718,13 @@ export const carmenAct1: Act = {
                   "word": "dame",
                   "lemma": "dame",
                   "pos": "noun",
-                  "meaning": "dame (French opera term)"
+                  "meaning": "lady"
                 },
                 {
                   "word": "accueille",
-                  "lemma": "accueille",
-                  "pos": "noun",
-                  "meaning": "accueille (French opera term)"
+                  "lemma": "accueillir",
+                  "pos": "verb",
+                  "meaning": "welcomes / receives"
                 },
                 {
                   "word": "le",
@@ -2735,8 +2735,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "galant",
                   "lemma": "galant",
-                  "pos": "verb",
-                  "meaning": "galant (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "gallant / suitor / courteous"
                 }
               ]
             },
@@ -2748,26 +2748,26 @@ export const carmenAct1: Act = {
                 {
                   "word": "Ha",
                   "lemma": "ha",
-                  "pos": "noun",
-                  "meaning": "ha (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "ha! / ah!"
                 },
                 {
                   "word": "ha",
                   "lemma": "ha",
-                  "pos": "noun",
-                  "meaning": "ha (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "ha! / ah!"
                 },
                 {
                   "word": "ha",
                   "lemma": "ha",
-                  "pos": "noun",
-                  "meaning": "ha (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "ha! / ah!"
                 },
                 {
                   "word": "ha",
                   "lemma": "ha",
-                  "pos": "noun",
-                  "meaning": "ha (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "ha! / ah!"
                 }
               ]
             },
@@ -2791,8 +2791,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "voilà",
                   "lemma": "voilà",
-                  "pos": "noun",
-                  "meaning": "voilà (French opera term)"
+                  "pos": "preposition",
+                  "meaning": "there is / behold / there comes"
                 }
               ]
             },
@@ -2810,8 +2810,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "comment",
                   "lemma": "comment",
-                  "pos": "noun",
-                  "meaning": "comment (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "how / what"
                 },
                 {
                   "word": "ça",
@@ -2842,9 +2842,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "III",
-                  "lemma": "iii",
+                  "lemma": "III",
                   "pos": "noun",
-                  "meaning": "iii (French opera term)"
+                  "meaning": "III (third)"
                 }
               ]
             },
@@ -2868,8 +2868,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "ensemble",
                   "lemma": "ensemble",
-                  "pos": "noun",
-                  "meaning": "ensemble (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "together"
                 },
                 {
                   "word": "quelques",
@@ -2904,9 +2904,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "levant",
-                  "lemma": "levant",
+                  "lemma": "lever",
                   "pos": "verb",
-                  "meaning": "levant (French opera term)"
+                  "meaning": "raising / lifting"
                 },
                 {
                   "word": "le",
@@ -2949,7 +2949,7 @@ export const carmenAct1: Act = {
                   "word": "mari",
                   "lemma": "mari",
                   "pos": "noun",
-                  "meaning": "mari (French opera term)"
+                  "meaning": "husband"
                 },
                 {
                   "word": "quelque",
@@ -2961,7 +2961,7 @@ export const carmenAct1: Act = {
                   "word": "chose",
                   "lemma": "chose",
                   "pos": "noun",
-                  "meaning": "chose (French opera term)"
+                  "meaning": "thing / matter (quelque chose: something)"
                 }
               ]
             },
@@ -2986,7 +2986,7 @@ export const carmenAct1: Act = {
                   "word": "mari",
                   "lemma": "mari",
                   "pos": "noun",
-                  "meaning": "mari (French opera term)"
+                  "meaning": "husband"
                 },
                 {
                   "word": "toujours",
@@ -2997,8 +2997,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "morose",
                   "lemma": "morose",
-                  "pos": "noun",
-                  "meaning": "morose (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "gloomy / sullen / morose"
                 }
               ]
             },
@@ -3041,7 +3041,7 @@ export const carmenAct1: Act = {
                   "word": "tour",
                   "lemma": "tour",
                   "pos": "noun",
-                  "meaning": "tour (French opera term)"
+                  "meaning": "turn / trick / tower (à tour de bras: with all one's might)"
                 },
                 {
                   "word": "est",
@@ -3078,7 +3078,7 @@ export const carmenAct1: Act = {
                   "word": "dame",
                   "lemma": "dame",
                   "pos": "noun",
-                  "meaning": "dame (French opera term)"
+                  "meaning": "lady"
                 },
                 {
                   "word": "a",
@@ -3102,7 +3102,7 @@ export const carmenAct1: Act = {
                   "word": "billet",
                   "lemma": "billet",
                   "pos": "noun",
-                  "meaning": "billet (French opera term)"
+                  "meaning": "note / letter / ticket"
                 }
               ]
             },
@@ -3114,26 +3114,26 @@ export const carmenAct1: Act = {
                 {
                   "word": "Ha",
                   "lemma": "ha",
-                  "pos": "noun",
-                  "meaning": "ha (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "ha! / ah!"
                 },
                 {
                   "word": "ha",
                   "lemma": "ha",
-                  "pos": "noun",
-                  "meaning": "ha (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "ha! / ah!"
                 },
                 {
                   "word": "ha",
                   "lemma": "ha",
-                  "pos": "noun",
-                  "meaning": "ha (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "ha! / ah!"
                 },
                 {
                   "word": "ha",
                   "lemma": "ha",
-                  "pos": "noun",
-                  "meaning": "ha (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "ha! / ah!"
                 }
               ]
             },
@@ -3151,8 +3151,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "voilà",
                   "lemma": "voilà",
-                  "pos": "noun",
-                  "meaning": "voilà (French opera term)"
+                  "pos": "preposition",
+                  "meaning": "there is / behold / there comes"
                 }
               ]
             },
@@ -3176,8 +3176,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "comment",
                   "lemma": "comment",
-                  "pos": "noun",
-                  "meaning": "comment (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "how / what"
                 },
                 {
                   "word": "ça",
@@ -3207,26 +3207,26 @@ export const carmenAct1: Act = {
                 {
                   "word": "Ha",
                   "lemma": "ha",
-                  "pos": "noun",
-                  "meaning": "ha (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "ha! / ah!"
                 },
                 {
                   "word": "ha",
                   "lemma": "ha",
-                  "pos": "noun",
-                  "meaning": "ha (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "ha! / ah!"
                 },
                 {
                   "word": "ha",
                   "lemma": "ha",
-                  "pos": "noun",
-                  "meaning": "ha (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "ha! / ah!"
                 },
                 {
                   "word": "ha",
                   "lemma": "ha",
-                  "pos": "noun",
-                  "meaning": "ha (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "ha! / ah!"
                 }
               ]
             },
@@ -3250,8 +3250,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "comment",
                   "lemma": "comment",
-                  "pos": "noun",
-                  "meaning": "comment (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "how / what"
                 },
                 {
                   "word": "ça",
@@ -3341,8 +3341,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "voilà",
                   "lemma": "voilà",
-                  "pos": "noun",
-                  "meaning": "voilà (French opera term)"
+                  "pos": "preposition",
+                  "meaning": "there is / behold / there comes"
                 }
               ]
             },
@@ -3365,9 +3365,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "éclatante",
-                  "lemma": "éclatante",
-                  "pos": "noun",
-                  "meaning": "éclatante (French opera term)"
+                  "lemma": "éclatant",
+                  "pos": "adjective",
+                  "meaning": "brilliant / dazzling / glowing (fem.)"
                 }
               ]
             },
@@ -3385,8 +3385,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "ra",
                   "lemma": "ra",
-                  "pos": "noun",
-                  "meaning": "ra (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "ra (sung syllable, ra-ta-ta)"
                 },
                 {
                   "word": "ta",
@@ -3409,8 +3409,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "ra",
                   "lemma": "ra",
-                  "pos": "noun",
-                  "meaning": "ra (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "ra (sung syllable, ra-ta-ta)"
                 },
                 {
                   "word": "ta",
@@ -3457,9 +3457,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "haute",
-                  "lemma": "haute",
-                  "pos": "noun",
-                  "meaning": "haute (French opera term)"
+                  "lemma": "haut",
+                  "pos": "adjective",
+                  "meaning": "high / tall (fem.)"
                 }
               ]
             },
@@ -3501,9 +3501,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Marquant",
-                  "lemma": "marquant",
+                  "lemma": "marquer",
                   "pos": "verb",
-                  "meaning": "marquant (French opera term)"
+                  "meaning": "marking / scoring"
                 },
                 {
                   "word": "sans",
@@ -3550,9 +3550,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "marquant",
-                  "lemma": "marquant",
+                  "lemma": "marquer",
                   "pos": "verb",
-                  "meaning": "marquant (French opera term)"
+                  "meaning": "marking / scoring"
                 },
                 {
                   "word": "le",
@@ -3581,9 +3581,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "épaules",
-                  "lemma": "épaules",
+                  "lemma": "épaule",
                   "pos": "noun",
-                  "meaning": "épaules (French opera term)"
+                  "meaning": "shoulders"
                 },
                 {
                   "word": "en",
@@ -3594,8 +3594,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "arrière",
                   "lemma": "arrière",
-                  "pos": "verb",
-                  "meaning": "arrière (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "back / behind (en arrière: back)"
                 }
               ]
             },
@@ -3620,7 +3620,7 @@ export const carmenAct1: Act = {
                   "word": "poitrine",
                   "lemma": "poitrine",
                   "pos": "noun",
-                  "meaning": "poitrine (French opera term)"
+                  "meaning": "chest / breast / bosom"
                 },
                 {
                   "word": "en",
@@ -3631,8 +3631,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "dehors",
                   "lemma": "dehors",
-                  "pos": "noun",
-                  "meaning": "dehors (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "outside / out"
                 }
               ]
             },
@@ -3668,8 +3668,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "manière",
                   "lemma": "manière",
-                  "pos": "verb",
-                  "meaning": "manière (French opera term)"
+                  "pos": "noun",
+                  "meaning": "manner / way (de manière: so as)"
                 }
               ]
             },
@@ -3699,8 +3699,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "long",
                   "lemma": "long",
-                  "pos": "noun",
-                  "meaning": "long (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "long (le long de: along)"
                 },
                 {
                   "word": "du",
@@ -3712,7 +3712,7 @@ export const carmenAct1: Act = {
                   "word": "corps",
                   "lemma": "corps",
                   "pos": "noun",
-                  "meaning": "corps (French opera term)"
+                  "meaning": "body / corps"
                 }
               ]
             },
@@ -3773,8 +3773,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "voilà",
                   "lemma": "voilà",
-                  "pos": "noun",
-                  "meaning": "voilà (French opera term)"
+                  "pos": "preposition",
+                  "meaning": "there is / behold / there comes"
                 }
               ]
             },
@@ -3797,9 +3797,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "éclatante",
-                  "lemma": "éclatante",
-                  "pos": "noun",
-                  "meaning": "éclatante (French opera term)"
+                  "lemma": "éclatant",
+                  "pos": "adjective",
+                  "meaning": "brilliant / dazzling / glowing (fem.)"
                 }
               ]
             },
@@ -3817,8 +3817,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "ra",
                   "lemma": "ra",
-                  "pos": "noun",
-                  "meaning": "ra (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "ra (sung syllable, ra-ta-ta)"
                 },
                 {
                   "word": "ta",
@@ -3841,8 +3841,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "ra",
                   "lemma": "ra",
-                  "pos": "noun",
-                  "meaning": "ra (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "ra (sung syllable, ra-ta-ta)"
                 },
                 {
                   "word": "ta",
@@ -3970,9 +3970,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "reviendrait",
-                  "lemma": "reviendrait",
+                  "lemma": "revenir",
                   "pos": "verb",
-                  "meaning": "reviendrait (French opera term)"
+                  "meaning": "would return / come back"
                 }
               ]
             }
@@ -4035,14 +4035,14 @@ export const carmenAct1: Act = {
                 {
                   "word": "gentiment",
                   "lemma": "gentiment",
-                  "pos": "noun",
-                  "meaning": "gentiment (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "nicely / sweetly / kindly"
                 },
                 {
                   "word": "habillée",
-                  "lemma": "habillée",
-                  "pos": "noun",
-                  "meaning": "habillée (French opera term)"
+                  "lemma": "habiller",
+                  "pos": "verb",
+                  "meaning": "dressed / clothed (fem.)"
                 },
                 {
                   "word": "une",
@@ -4094,9 +4094,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "épaules",
-                  "lemma": "épaules",
+                  "lemma": "épaule",
                   "pos": "noun",
-                  "meaning": "épaules (French opera term)"
+                  "meaning": "shoulders"
                 }
               ]
             }
@@ -4218,7 +4218,7 @@ export const carmenAct1: Act = {
                   "word": "nom",
                   "lemma": "nom",
                   "pos": "noun",
-                  "meaning": "nom (French opera term)"
+                  "meaning": "name"
                 }
               ]
             }
@@ -4255,9 +4255,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "descendante",
-                  "lemma": "descendante",
+                  "lemma": "descendant",
                   "pos": "noun",
-                  "meaning": "descendante (French opera term)"
+                  "meaning": "descendant / offspring (fem.)"
                 }
               ]
             },
@@ -4268,9 +4268,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Rentre",
-                  "lemma": "rentre",
+                  "lemma": "rentrer",
                   "pos": "verb",
-                  "meaning": "rentre (French opera term)"
+                  "meaning": "returns / comes back in / re-enters"
                 },
                 {
                   "word": "chez",
@@ -4329,9 +4329,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "éclatante",
-                  "lemma": "éclatante",
-                  "pos": "noun",
-                  "meaning": "éclatante (French opera term)"
+                  "lemma": "éclatant",
+                  "pos": "adjective",
+                  "meaning": "brilliant / dazzling / glowing (fem.)"
                 }
               ]
             },
@@ -4349,8 +4349,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "ra",
                   "lemma": "ra",
-                  "pos": "noun",
-                  "meaning": "ra (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "ra (sung syllable, ra-ta-ta)"
                 },
                 {
                   "word": "ta",
@@ -4373,8 +4373,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "ra",
                   "lemma": "ra",
-                  "pos": "noun",
-                  "meaning": "ra (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "ra (sung syllable, ra-ta-ta)"
                 },
                 {
                   "word": "ta",
@@ -4421,9 +4421,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "haute",
-                  "lemma": "haute",
-                  "pos": "noun",
-                  "meaning": "haute (French opera term)"
+                  "lemma": "haut",
+                  "pos": "adjective",
+                  "meaning": "high / tall (fem.)"
                 }
               ]
             },
@@ -4465,9 +4465,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Marquant",
-                  "lemma": "marquant",
+                  "lemma": "marquer",
                   "pos": "verb",
-                  "meaning": "marquant (French opera term)"
+                  "meaning": "marking / scoring"
                 },
                 {
                   "word": "sans",
@@ -4514,9 +4514,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "marquant",
-                  "lemma": "marquant",
+                  "lemma": "marquer",
                   "pos": "verb",
-                  "meaning": "marquant (French opera term)"
+                  "meaning": "marking / scoring"
                 },
                 {
                   "word": "le",
@@ -4545,9 +4545,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "épaules",
-                  "lemma": "épaules",
+                  "lemma": "épaule",
                   "pos": "noun",
-                  "meaning": "épaules (French opera term)"
+                  "meaning": "shoulders"
                 },
                 {
                   "word": "en",
@@ -4558,8 +4558,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "arrière",
                   "lemma": "arrière",
-                  "pos": "verb",
-                  "meaning": "arrière (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "back / behind (en arrière: back)"
                 }
               ]
             },
@@ -4584,7 +4584,7 @@ export const carmenAct1: Act = {
                   "word": "poitrine",
                   "lemma": "poitrine",
                   "pos": "noun",
-                  "meaning": "poitrine (French opera term)"
+                  "meaning": "chest / breast / bosom"
                 },
                 {
                   "word": "en",
@@ -4595,8 +4595,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "dehors",
                   "lemma": "dehors",
-                  "pos": "noun",
-                  "meaning": "dehors (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "outside / out"
                 }
               ]
             },
@@ -4632,8 +4632,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "manière",
                   "lemma": "manière",
-                  "pos": "verb",
-                  "meaning": "manière (French opera term)"
+                  "pos": "noun",
+                  "meaning": "manner / way (de manière: so as)"
                 }
               ]
             },
@@ -4663,8 +4663,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "long",
                   "lemma": "long",
-                  "pos": "noun",
-                  "meaning": "long (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "long (le long de: along)"
                 },
                 {
                   "word": "du",
@@ -4676,7 +4676,7 @@ export const carmenAct1: Act = {
                   "word": "corps",
                   "lemma": "corps",
                   "pos": "noun",
-                  "meaning": "corps (French opera term)"
+                  "meaning": "body / corps"
                 }
               ]
             },
@@ -4705,9 +4705,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "descendante",
-                  "lemma": "descendante",
+                  "lemma": "descendant",
                   "pos": "noun",
-                  "meaning": "descendante (French opera term)"
+                  "meaning": "descendant / offspring (fem.)"
                 }
               ]
             },
@@ -4718,9 +4718,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Rentre",
-                  "lemma": "rentre",
+                  "lemma": "rentrer",
                   "pos": "verb",
-                  "meaning": "rentre (French opera term)"
+                  "meaning": "returns / comes back in / re-enters"
                 },
                 {
                   "word": "chez",
@@ -4779,9 +4779,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "éclatante",
-                  "lemma": "éclatante",
-                  "pos": "noun",
-                  "meaning": "éclatante (French opera term)"
+                  "lemma": "éclatant",
+                  "pos": "adjective",
+                  "meaning": "brilliant / dazzling / glowing (fem.)"
                 }
               ]
             },
@@ -4799,8 +4799,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "ra",
                   "lemma": "ra",
-                  "pos": "noun",
-                  "meaning": "ra (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "ra (sung syllable, ra-ta-ta)"
                 },
                 {
                   "word": "ta",
@@ -4823,8 +4823,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "ra",
                   "lemma": "ra",
-                  "pos": "noun",
-                  "meaning": "ra (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "ra (sung syllable, ra-ta-ta)"
                 },
                 {
                   "word": "ta",
@@ -4949,7 +4949,7 @@ export const carmenAct1: Act = {
                   "word": "régiment",
                   "lemma": "régiment",
                   "pos": "noun",
-                  "meaning": "régiment (French opera term)"
+                  "meaning": "regiment"
                 },
                 {
                   "word": "que",
@@ -4960,8 +4960,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "depuis",
                   "lemma": "depuis",
-                  "pos": "noun",
-                  "meaning": "depuis (French opera term)"
+                  "pos": "preposition",
+                  "meaning": "since / for / from"
                 },
                 {
                   "word": "deux",
@@ -5075,7 +5075,7 @@ export const carmenAct1: Act = {
                   "word": "bâtiment",
                   "lemma": "bâtiment",
                   "pos": "noun",
-                  "meaning": "bâtiment (French opera term)"
+                  "meaning": "building / vessel"
                 }
               ]
             }
@@ -5306,7 +5306,7 @@ export const carmenAct1: Act = {
                   "word": "revenir",
                   "lemma": "revenir",
                   "pos": "verb",
-                  "meaning": "revenir (French opera term)"
+                  "meaning": "to come back / return"
                 },
                 {
                   "word": "Et",
@@ -5372,7 +5372,7 @@ export const carmenAct1: Act = {
                   "word": "monde",
                   "lemma": "monde",
                   "pos": "noun",
-                  "meaning": "monde (French opera term)"
+                  "meaning": "world / people (tout le monde: everyone)"
                 },
                 {
                   "word": "pour",
@@ -5452,7 +5452,7 @@ export const carmenAct1: Act = {
                   "word": "foi",
                   "lemma": "foi",
                   "pos": "noun",
-                  "meaning": "foi (French opera term)"
+                  "meaning": "faith / trust (ma foi: my faith)"
                 },
                 {
                   "word": "elles",
@@ -5504,9 +5504,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "roulent",
-                  "lemma": "roulent",
-                  "pos": "noun",
-                  "meaning": "roulent (French opera term)"
+                  "lemma": "rouler",
+                  "pos": "verb",
+                  "meaning": "roll (they)"
                 },
                 {
                   "word": "des",
@@ -5542,7 +5542,7 @@ export const carmenAct1: Act = {
                   "word": "salle",
                   "lemma": "salle",
                   "pos": "noun",
-                  "meaning": "salle (French opera term)"
+                  "meaning": "room / hall / theater house"
                 }
               ]
             }
@@ -5578,8 +5578,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "curieux",
                   "lemma": "curieux",
-                  "pos": "noun",
-                  "meaning": "curieux (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "curious / inquisitive / odd"
                 }
               ]
             }
@@ -5658,7 +5658,7 @@ export const carmenAct1: Act = {
                   "word": "salle",
                   "lemma": "salle",
                   "pos": "noun",
-                  "meaning": "salle (French opera term)"
+                  "meaning": "room / hall / theater house"
                 },
                 {
                   "word": "sans",
@@ -5676,7 +5676,7 @@ export const carmenAct1: Act = {
                   "word": "permission",
                   "lemma": "permission",
                   "pos": "noun",
-                  "meaning": "permission (French opera term)"
+                  "meaning": "permission / leave"
                 }
               ]
             }
@@ -5713,8 +5713,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "Parce",
                   "lemma": "parce",
-                  "pos": "noun",
-                  "meaning": "parce (French opera term)"
+                  "pos": "conjunction",
+                  "meaning": "because (parce que: because)"
                 },
                 {
                   "word": "que",
@@ -5724,9 +5724,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "lorsqu",
-                  "lemma": "lorsqu",
-                  "pos": "noun",
-                  "meaning": "lorsqu (French opera term)"
+                  "lemma": "lorsque",
+                  "pos": "conjunction",
+                  "meaning": "when / while (lorsqu'il)"
                 },
                 {
                   "word": "il",
@@ -5743,8 +5743,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "chaud",
                   "lemma": "chaud",
-                  "pos": "noun",
-                  "meaning": "chaud (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "warm / hot"
                 },
                 {
                   "word": "ces",
@@ -5786,7 +5786,7 @@ export const carmenAct1: Act = {
                   "word": "aise",
                   "lemma": "aise",
                   "pos": "noun",
-                  "meaning": "aise (French opera term)"
+                  "meaning": "ease / glad / pleased"
                 },
                 {
                   "word": "surtout",
@@ -5951,9 +5951,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "suppose",
-                  "lemma": "suppose",
-                  "pos": "noun",
-                  "meaning": "suppose (French opera term)"
+                  "lemma": "supposer",
+                  "pos": "verb",
+                  "meaning": "supposes / assume"
                 },
                 {
                   "word": "Mais",
@@ -6049,13 +6049,13 @@ export const carmenAct1: Act = {
                   "word": "fois",
                   "lemma": "fois",
                   "pos": "noun",
-                  "meaning": "fois (French opera term)"
+                  "meaning": "time (une fois: once)"
                 },
                 {
                   "word": "déjà",
                   "lemma": "déjà",
-                  "pos": "noun",
-                  "meaning": "déjà (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "already"
                 },
                 {
                   "word": "je",
@@ -6096,8 +6096,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "sûr",
                   "lemma": "sûr",
-                  "pos": "noun",
-                  "meaning": "sûr (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "sure / certain / safe"
                 },
                 {
                   "word": "car",
@@ -6207,9 +6207,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "Andalouses",
-                  "lemma": "andalouses",
-                  "pos": "noun",
-                  "meaning": "andalouses (French opera term)"
+                  "lemma": "andalou",
+                  "pos": "adjective",
+                  "meaning": "Andalusian"
                 },
                 {
                   "word": "me",
@@ -6227,7 +6227,7 @@ export const carmenAct1: Act = {
                   "word": "peur",
                   "lemma": "peur",
                   "pos": "noun",
-                  "meaning": "peur (French opera term)"
+                  "meaning": "fear (avoir peur: to be afraid)"
                 },
                 {
                   "word": "Je",
@@ -6273,9 +6273,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "manières",
-                  "lemma": "manières",
+                  "lemma": "manière",
                   "pos": "noun",
-                  "meaning": "manières (French opera term)"
+                  "meaning": "manners / ways"
                 },
                 {
                   "word": "toujours",
@@ -6293,7 +6293,7 @@ export const carmenAct1: Act = {
                   "word": "railler",
                   "lemma": "railler",
                   "pos": "verb",
-                  "meaning": "railler (French opera term)"
+                  "meaning": "to mock / scoff / jeer"
                 },
                 {
                   "word": "jamais",
@@ -6311,7 +6311,7 @@ export const carmenAct1: Act = {
                   "word": "mot",
                   "lemma": "mot",
                   "pos": "noun",
-                  "meaning": "mot (French opera term)"
+                  "meaning": "word"
                 },
                 {
                   "word": "de",
@@ -6323,7 +6323,7 @@ export const carmenAct1: Act = {
                   "word": "raison",
                   "lemma": "raison",
                   "pos": "noun",
-                  "meaning": "raison (French opera term)"
+                  "meaning": "reason / right (avoir raison: to be right)"
                 }
               ]
             }
@@ -6371,8 +6371,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "faible",
                   "lemma": "faible",
-                  "pos": "noun",
-                  "meaning": "faible (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "weak / feeble"
                 },
                 {
                   "word": "pour",
@@ -6442,9 +6442,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "épaules",
-                  "lemma": "épaules",
+                  "lemma": "épaule",
                   "pos": "noun",
-                  "meaning": "épaules (French opera term)"
+                  "meaning": "shoulders"
                 }
               ]
             }
@@ -6574,9 +6574,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "nierai",
-                  "lemma": "nierai",
-                  "pos": "noun",
-                  "meaning": "nierai (French opera term)"
+                  "lemma": "nier",
+                  "pos": "verb",
+                  "meaning": "shall deny"
                 },
                 {
                   "word": "pas",
@@ -6636,7 +6636,7 @@ export const carmenAct1: Act = {
                   "word": "costume",
                   "lemma": "costume",
                   "pos": "noun",
-                  "meaning": "costume (French opera term)"
+                  "meaning": "costume / attire / dress"
                 },
                 {
                   "word": "de",
@@ -6670,9 +6670,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "rappelle",
-                  "lemma": "rappelle",
-                  "pos": "noun",
-                  "meaning": "rappelle (French opera term)"
+                  "lemma": "rappeler",
+                  "pos": "verb",
+                  "meaning": "recalls / call back / remind"
                 },
                 {
                   "word": "le",
@@ -6684,7 +6684,7 @@ export const carmenAct1: Act = {
                   "word": "pays",
                   "lemma": "pays",
                   "pos": "noun",
-                  "meaning": "pays (French opera term)"
+                  "meaning": "country / land / compatriot"
                 }
               ]
             }
@@ -6714,8 +6714,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "Navarrais",
                   "lemma": "navarrais",
-                  "pos": "verb",
-                  "meaning": "navarrais (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "Navarrese / from Navarre"
                 }
               ]
             }
@@ -6745,8 +6745,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "chrétien",
                   "lemma": "chrétien",
-                  "pos": "noun",
-                  "meaning": "chrétien (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "Christian"
                 },
                 {
                   "word": "Don",
@@ -6762,9 +6762,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "Lizzarabengoa",
-                  "lemma": "lizzarabengoa",
+                  "lemma": "Lizarrabengoa",
                   "pos": "noun",
-                  "meaning": "lizzarabengoa (French opera term)"
+                  "meaning": "Lizarrabengoa (Don José's family)"
                 },
                 {
                   "word": "c",
@@ -6788,7 +6788,7 @@ export const carmenAct1: Act = {
                   "word": "nom",
                   "lemma": "nom",
                   "pos": "noun",
-                  "meaning": "nom (French opera term)"
+                  "meaning": "name"
                 },
                 {
                   "word": "On",
@@ -6816,9 +6816,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "fusse",
-                  "lemma": "fusse",
-                  "pos": "noun",
-                  "meaning": "fusse (French opera term)"
+                  "lemma": "être",
+                  "pos": "verb",
+                  "meaning": "were / might be (subjunctive)"
                 },
                 {
                   "word": "d",
@@ -6830,7 +6830,7 @@ export const carmenAct1: Act = {
                   "word": "église",
                   "lemma": "église",
                   "pos": "noun",
-                  "meaning": "église (French opera term)"
+                  "meaning": "church"
                 },
                 {
                   "word": "et",
@@ -6872,7 +6872,7 @@ export const carmenAct1: Act = {
                   "word": "étudier",
                   "lemma": "étudier",
                   "pos": "verb",
-                  "meaning": "étudier (French opera term)"
+                  "meaning": "to study / observe"
                 },
                 {
                   "word": "Mais",
@@ -6894,15 +6894,15 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "profitais",
-                  "lemma": "profitais",
+                  "lemma": "profiter",
                   "pos": "verb",
-                  "meaning": "profitais (French opera term)"
+                  "meaning": "was taking advantage / profited"
                 },
                 {
                   "word": "guère",
                   "lemma": "guère",
-                  "pos": "verb",
-                  "meaning": "guère (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "scarcely / hardly / little (ne... guère)"
                 },
                 {
                   "word": "j",
@@ -6944,7 +6944,7 @@ export const carmenAct1: Act = {
                   "word": "paume",
                   "lemma": "paume",
                   "pos": "noun",
-                  "meaning": "paume (French opera term)"
+                  "meaning": "palm (of hand)"
                 },
                 {
                   "word": "Un",
@@ -6992,7 +6992,7 @@ export const carmenAct1: Act = {
                   "word": "gars",
                   "lemma": "gars",
                   "pos": "noun",
-                  "meaning": "gars (French opera term)"
+                  "meaning": "lad / boy / fellow"
                 },
                 {
                   "word": "de",
@@ -7008,9 +7008,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "Alava",
-                  "lemma": "alava",
+                  "lemma": "Alava",
                   "pos": "noun",
-                  "meaning": "alava (French opera term)"
+                  "meaning": "Álava (Basque province)"
                 },
                 {
                   "word": "me",
@@ -7028,7 +7028,7 @@ export const carmenAct1: Act = {
                   "word": "querelle",
                   "lemma": "querelle",
                   "pos": "noun",
-                  "meaning": "querelle (French opera term)"
+                  "meaning": "quarrel / fight / dispute"
                 },
                 {
                   "word": "j",
@@ -7058,7 +7058,7 @@ export const carmenAct1: Act = {
                   "word": "avantage",
                   "lemma": "avantage",
                   "pos": "noun",
-                  "meaning": "avantage (French opera term)"
+                  "meaning": "advantage / benefit"
                 },
                 {
                   "word": "mais",
@@ -7080,9 +7080,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "obligea",
-                  "lemma": "obligea",
-                  "pos": "noun",
-                  "meaning": "obligea (French opera term)"
+                  "lemma": "obliger",
+                  "pos": "verb",
+                  "meaning": "obliged / compelled"
                 },
                 {
                   "word": "de",
@@ -7106,7 +7106,7 @@ export const carmenAct1: Act = {
                   "word": "pays",
                   "lemma": "pays",
                   "pos": "noun",
-                  "meaning": "pays (French opera term)"
+                  "meaning": "country / land / compatriot"
                 },
                 {
                   "word": "Je",
@@ -7122,9 +7122,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "fis",
-                  "lemma": "fis",
-                  "pos": "noun",
-                  "meaning": "fis (French opera term)"
+                  "lemma": "faire",
+                  "pos": "verb",
+                  "meaning": "did / made"
                 },
                 {
                   "word": "soldat",
@@ -7188,9 +7188,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "suivit",
-                  "lemma": "suivit",
-                  "pos": "noun",
-                  "meaning": "suivit (French opera term)"
+                  "lemma": "suivre",
+                  "pos": "verb",
+                  "meaning": "followed"
                 },
                 {
                   "word": "et",
@@ -7200,9 +7200,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "vint",
-                  "lemma": "vint",
-                  "pos": "noun",
-                  "meaning": "vint (French opera term)"
+                  "lemma": "venir",
+                  "pos": "verb",
+                  "meaning": "came"
                 },
                 {
                   "word": "s",
@@ -7214,7 +7214,7 @@ export const carmenAct1: Act = {
                   "word": "établir",
                   "lemma": "établir",
                   "pos": "verb",
-                  "meaning": "établir (French opera term)"
+                  "meaning": "to establish / settle"
                 },
                 {
                   "word": "à",
@@ -7230,9 +7230,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "lieues",
-                  "lemma": "lieues",
+                  "lemma": "lieue",
                   "pos": "noun",
-                  "meaning": "lieues (French opera term)"
+                  "meaning": "leagues (distance)"
                 },
                 {
                   "word": "de",
@@ -7290,9 +7290,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "orpheline",
-                  "lemma": "orpheline",
+                  "lemma": "orphelin",
                   "pos": "noun",
-                  "meaning": "orpheline (French opera term)"
+                  "meaning": "orphan girl (fem.)"
                 },
                 {
                   "word": "que",
@@ -7320,9 +7320,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "recueillie",
-                  "lemma": "recueillie",
-                  "pos": "noun",
-                  "meaning": "recueillie (French opera term)"
+                  "lemma": "recueillir",
+                  "pos": "verb",
+                  "meaning": "gathered / sheltered / recollected (fem.)"
                 },
                 {
                   "word": "et",
@@ -7370,7 +7370,7 @@ export const carmenAct1: Act = {
                   "word": "séparer",
                   "lemma": "séparer",
                   "pos": "verb",
-                  "meaning": "séparer (French opera term)"
+                  "meaning": "to separate / part"
                 },
                 {
                   "word": "d",
@@ -7406,14 +7406,14 @@ export const carmenAct1: Act = {
                 {
                   "word": "quel",
                   "lemma": "quel",
-                  "pos": "noun",
-                  "meaning": "quel (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "what / which"
                 },
                 {
                   "word": "âge",
                   "lemma": "âge",
                   "pos": "noun",
-                  "meaning": "âge (French opera term)"
+                  "meaning": "age"
                 },
                 {
                   "word": "a-t-elle",
@@ -7460,9 +7460,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "ans",
-                  "lemma": "ans",
+                  "lemma": "an",
                   "pos": "noun",
-                  "meaning": "ans (French opera term)"
+                  "meaning": "years"
                 }
               ]
             }
@@ -7518,7 +7518,7 @@ export const carmenAct1: Act = {
                   "word": "suite",
                   "lemma": "suite",
                   "pos": "noun",
-                  "meaning": "suite (French opera term)"
+                  "meaning": "following / retinue (tout de suite: immediately)"
                 },
                 {
                   "word": "Je",
@@ -7528,9 +7528,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "comprends",
-                  "lemma": "comprends",
-                  "pos": "noun",
-                  "meaning": "comprends (French opera term)"
+                  "lemma": "comprendre",
+                  "pos": "verb",
+                  "meaning": "understand / comprehend"
                 },
                 {
                   "word": "maintenant",
@@ -7541,8 +7541,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "pourquoi",
                   "lemma": "pourquoi",
-                  "pos": "noun",
-                  "meaning": "pourquoi (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "why"
                 },
                 {
                   "word": "vous",
@@ -7636,9 +7636,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "laides",
-                  "lemma": "laides",
-                  "pos": "noun",
-                  "meaning": "laides (French opera term)"
+                  "lemma": "laid",
+                  "pos": "adjective",
+                  "meaning": "ugly / plain (fem. pl.)"
                 }
               ]
             }
@@ -7658,8 +7658,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "Voici",
                   "lemma": "voici",
-                  "pos": "noun",
-                  "meaning": "voici (French opera term)"
+                  "pos": "preposition",
+                  "meaning": "here is / behold / here comes"
                 },
                 {
                   "word": "la",
@@ -7725,7 +7725,7 @@ export const carmenAct1: Act = {
                   "word": "juger",
                   "lemma": "juger",
                   "pos": "verb",
-                  "meaning": "juger (French opera term)"
+                  "meaning": "to judge / deem"
                 },
                 {
                   "word": "par",
@@ -7742,8 +7742,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "Quant",
                   "lemma": "quant",
-                  "pos": "verb",
-                  "meaning": "quant (French opera term)"
+                  "pos": "preposition",
+                  "meaning": "as for / regarding (quant à)"
                 },
                 {
                   "word": "à",
@@ -7797,7 +7797,7 @@ export const carmenAct1: Act = {
                   "word": "attacher",
                   "lemma": "attacher",
                   "pos": "verb",
-                  "meaning": "attacher (French opera term)"
+                  "meaning": "to attach / bind / tie"
                 },
                 {
                   "word": "mon",
@@ -7809,7 +7809,7 @@ export const carmenAct1: Act = {
                   "word": "épinglette",
                   "lemma": "épinglette",
                   "pos": "noun",
-                  "meaning": "épinglette (French opera term)"
+                  "meaning": "priming wire / musket pin"
                 }
               ]
             }
@@ -7904,7 +7904,7 @@ export const carmenAct1: Act = {
                   "word": "guetter",
                   "lemma": "guetter",
                   "pos": "verb",
-                  "meaning": "guetter (French opera term)"
+                  "meaning": "to watch / lie in wait for"
                 },
                 {
                   "word": "le",
@@ -7916,7 +7916,7 @@ export const carmenAct1: Act = {
                   "word": "retour",
                   "lemma": "retour",
                   "pos": "noun",
-                  "meaning": "retour (French opera term)"
+                  "meaning": "return (de retour: back)"
                 }
               ]
             },
@@ -7945,15 +7945,15 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "suivrons",
-                  "lemma": "suivrons",
+                  "lemma": "suivre",
                   "pos": "verb",
-                  "meaning": "suivrons (French opera term)"
+                  "meaning": "we shall follow"
                 },
                 {
                   "word": "brunes",
-                  "lemma": "brunes",
-                  "pos": "noun",
-                  "meaning": "brunes (French opera term)"
+                  "lemma": "brun",
+                  "pos": "adjective",
+                  "meaning": "brunette / dark / brown (fem. pl.)"
                 },
                 {
                   "word": "cigarières",
@@ -7982,9 +7982,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "murmurant",
-                  "lemma": "murmurant",
+                  "lemma": "murmurer",
                   "pos": "verb",
-                  "meaning": "murmurant (French opera term)"
+                  "meaning": "murmuring / whispering"
                 },
                 {
                   "word": "des",
@@ -7996,7 +7996,7 @@ export const carmenAct1: Act = {
                   "word": "propos",
                   "lemma": "propos",
                   "pos": "noun",
-                  "meaning": "propos (French opera term)"
+                  "meaning": "words / talk / intention (à propos: by the way)"
                 },
                 {
                   "word": "d",
@@ -8040,9 +8040,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "impudents",
-                  "lemma": "impudents",
-                  "pos": "noun",
-                  "meaning": "impudents (French opera term)"
+                  "lemma": "impudent",
+                  "pos": "adjective",
+                  "meaning": "impudent / insolent (pl.)"
                 }
               ]
             },
@@ -8055,13 +8055,13 @@ export const carmenAct1: Act = {
                   "word": "Mine",
                   "lemma": "mine",
                   "pos": "noun",
-                  "meaning": "mine (French opera term)"
+                  "meaning": "look / appearance / mien / mine"
                 },
                 {
                   "word": "coquette",
-                  "lemma": "coquette",
-                  "pos": "noun",
-                  "meaning": "coquette (French opera term)"
+                  "lemma": "coquet",
+                  "pos": "adjective",
+                  "meaning": "coquettish / coquette / flirt"
                 }
               ]
             },
@@ -8092,7 +8092,7 @@ export const carmenAct1: Act = {
                   "word": "bout",
                   "lemma": "bout",
                   "pos": "noun",
-                  "meaning": "bout (French opera term)"
+                  "meaning": "end / tip (au bout: at the end)"
                 },
                 {
                   "word": "des",
@@ -8102,9 +8102,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "dents",
-                  "lemma": "dents",
+                  "lemma": "dent",
                   "pos": "noun",
-                  "meaning": "dents (French opera term)"
+                  "meaning": "teeth"
                 }
               ]
             },
@@ -8164,9 +8164,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "suivons",
-                  "lemma": "suivons",
+                  "lemma": "suivre",
                   "pos": "verb",
-                  "meaning": "suivons (French opera term)"
+                  "meaning": "let us follow / we follow"
                 },
                 {
                   "word": "des",
@@ -8251,9 +8251,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "parfumée",
-                  "lemma": "parfumée",
-                  "pos": "noun",
-                  "meaning": "parfumée (French opera term)"
+                  "lemma": "parfumer",
+                  "pos": "verb",
+                  "meaning": "perfumed / scented (fem.)"
                 }
               ]
             },
@@ -8288,9 +8288,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "suivons",
-                  "lemma": "suivons",
+                  "lemma": "suivre",
                   "pos": "verb",
-                  "meaning": "suivons (French opera term)"
+                  "meaning": "let us follow / we follow"
                 },
                 {
                   "word": "des",
@@ -8402,8 +8402,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "doucement",
                   "lemma": "doucement",
-                  "pos": "noun",
-                  "meaning": "doucement (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "gently / softly / quietly"
                 }
               ]
             },
@@ -8458,8 +8458,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "gentiment",
                   "lemma": "gentiment",
-                  "pos": "noun",
-                  "meaning": "gentiment (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "nicely / sweetly / kindly"
                 }
               ]
             },
@@ -8525,9 +8525,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "suivons",
-                  "lemma": "suivons",
+                  "lemma": "suivre",
                   "pos": "verb",
-                  "meaning": "suivons (French opera term)"
+                  "meaning": "let us follow / we follow"
                 },
                 {
                   "word": "des",
@@ -8569,9 +8569,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Etc",
-                  "lemma": "etc",
-                  "pos": "noun",
-                  "meaning": "etc (French opera term)"
+                  "lemma": "etc.",
+                  "pos": "adverb",
+                  "meaning": "et cetera / and so forth"
                 }
               ]
             },
@@ -8650,9 +8650,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "transports",
-                  "lemma": "transports",
+                  "lemma": "transport",
                   "pos": "noun",
-                  "meaning": "transports (French opera term)"
+                  "meaning": "raptures / transports of joy"
                 },
                 {
                   "word": "et",
@@ -8668,9 +8668,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "serments",
-                  "lemma": "serments",
+                  "lemma": "serment",
                   "pos": "noun",
-                  "meaning": "serments (French opera term)"
+                  "meaning": "oaths / vows"
                 }
               ]
             },
@@ -8730,9 +8730,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "suivons",
-                  "lemma": "suivons",
+                  "lemma": "suivre",
                   "pos": "verb",
-                  "meaning": "suivons (French opera term)"
+                  "meaning": "let us follow / we follow"
                 },
                 {
                   "word": "des",
@@ -8774,9 +8774,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Etc",
-                  "lemma": "etc",
-                  "pos": "noun",
-                  "meaning": "etc (French opera term)"
+                  "lemma": "etc.",
+                  "pos": "adverb",
+                  "meaning": "et cetera / and so forth"
                 }
               ]
             }
@@ -8811,9 +8811,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "cruelles",
-                  "lemma": "cruelles",
-                  "pos": "noun",
-                  "meaning": "cruelles (French opera term)"
+                  "lemma": "cruel",
+                  "pos": "adjective",
+                  "meaning": "cruel (fem. pl.)"
                 }
               ]
             },
@@ -8892,9 +8892,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "idolâtrons",
-                  "lemma": "idolâtrons",
+                  "lemma": "idolâtrer",
                   "pos": "verb",
-                  "meaning": "idolâtrons (French opera term)"
+                  "meaning": "we idolize / worship"
                 }
               ]
             }
@@ -8999,9 +8999,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "suivons",
-                  "lemma": "suivons",
+                  "lemma": "suivre",
                   "pos": "verb",
-                  "meaning": "suivons (French opera term)"
+                  "meaning": "let us follow / we follow"
                 },
                 {
                   "word": "des",
@@ -9043,9 +9043,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Etc",
-                  "lemma": "etc",
-                  "pos": "noun",
-                  "meaning": "etc (French opera term)"
+                  "lemma": "etc.",
+                  "pos": "adverb",
+                  "meaning": "et cetera / and so forth"
                 }
               ]
             }
@@ -9103,9 +9103,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "Carmencita",
-                  "lemma": "carmencita",
+                  "lemma": "Carmencita",
                   "pos": "noun",
-                  "meaning": "carmencita (French opera term)"
+                  "meaning": "Carmencita (little Carmen)"
                 }
               ]
             }
@@ -9129,8 +9129,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "voilà",
                   "lemma": "voilà",
-                  "pos": "noun",
-                  "meaning": "voilà (French opera term)"
+                  "pos": "preposition",
+                  "meaning": "there is / behold / there comes"
                 }
               ]
             },
@@ -9142,8 +9142,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "Voilà",
                   "lemma": "voilà",
-                  "pos": "noun",
-                  "meaning": "voilà (French opera term)"
+                  "pos": "preposition",
+                  "meaning": "there is / behold / there comes"
                 },
                 {
                   "word": "la",
@@ -9153,9 +9153,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "Carmencita",
-                  "lemma": "carmencita",
+                  "lemma": "Carmencita",
                   "pos": "noun",
-                  "meaning": "carmencita (French opera term)"
+                  "meaning": "Carmencita (little Carmen)"
                 }
               ]
             }
@@ -9211,9 +9211,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "pressons",
-                  "lemma": "pressons",
+                  "lemma": "presser",
                   "pos": "verb",
-                  "meaning": "pressons (French opera term)"
+                  "meaning": "let us hurry / press (se presser)"
                 },
                 {
                   "word": "tous",
@@ -9242,9 +9242,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "gentille",
-                  "lemma": "gentille",
-                  "pos": "noun",
-                  "meaning": "gentille (French opera term)"
+                  "lemma": "gentil",
+                  "pos": "adjective",
+                  "meaning": "pretty / sweet / gentle (fem.)"
                 },
                 {
                   "word": "au",
@@ -9255,8 +9255,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "moins",
                   "lemma": "moins",
-                  "pos": "noun",
-                  "meaning": "moins (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "less / least (au moins: at least)"
                 },
                 {
                   "word": "réponds-nous",
@@ -9286,8 +9286,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "quel",
                   "lemma": "quel",
-                  "pos": "noun",
-                  "meaning": "quel (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "what / which"
                 },
                 {
                   "word": "jour",
@@ -9362,7 +9362,7 @@ export const carmenAct1: Act = {
                   "word": "foi",
                   "lemma": "foi",
                   "pos": "noun",
-                  "meaning": "foi (French opera term)"
+                  "meaning": "faith / trust (ma foi: my faith)"
                 },
                 {
                   "word": "je",
@@ -9459,8 +9459,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "certain",
                   "lemma": "certain",
-                  "pos": "noun",
-                  "meaning": "certain (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "certain / sure"
                 }
               ]
             },
@@ -9540,7 +9540,7 @@ export const carmenAct1: Act = {
                   "word": "apprivoiser",
                   "lemma": "apprivoiser",
                   "pos": "verb",
-                  "meaning": "apprivoiser (French opera term)"
+                  "meaning": "to tame / domesticate"
                 }
               ]
             },
@@ -9582,8 +9582,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "vain",
                   "lemma": "vain",
-                  "pos": "noun",
-                  "meaning": "vain (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "vain / idle (en vain: in vain)"
                 },
                 {
                   "word": "qu",
@@ -9605,9 +9605,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "appelle",
-                  "lemma": "appelle",
-                  "pos": "noun",
-                  "meaning": "appelle (French opera term)"
+                  "lemma": "appeler",
+                  "pos": "verb",
+                  "meaning": "calls / call / name"
                 }
               ]
             },
@@ -9636,9 +9636,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "convient",
-                  "lemma": "convient",
-                  "pos": "noun",
-                  "meaning": "convient (French opera term)"
+                  "lemma": "convenir",
+                  "pos": "verb",
+                  "meaning": "suits / is suitable / agreed"
                 },
                 {
                   "word": "de",
@@ -9650,7 +9650,7 @@ export const carmenAct1: Act = {
                   "word": "refuser",
                   "lemma": "refuser",
                   "pos": "verb",
-                  "meaning": "refuser (French opera term)"
+                  "meaning": "to refuse / decline"
                 }
               ]
             },
@@ -9685,9 +9685,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "menace",
-                  "lemma": "menace",
-                  "pos": "noun",
-                  "meaning": "menace (French opera term)"
+                  "lemma": "menacer",
+                  "pos": "verb",
+                  "meaning": "threatens / threat"
                 },
                 {
                   "word": "ou",
@@ -9698,8 +9698,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "prière",
                   "lemma": "prière",
-                  "pos": "verb",
-                  "meaning": "prière (French opera term)"
+                  "pos": "noun",
+                  "meaning": "prayer / plea / request"
                 }
               ]
             },
@@ -9752,9 +9752,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "tait",
-                  "lemma": "tait",
+                  "lemma": "taire",
                   "pos": "verb",
-                  "meaning": "tait (French opera term)"
+                  "meaning": "keeps quiet / falls silent"
                 }
               ]
             },
@@ -9807,9 +9807,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "préfère",
-                  "lemma": "préfère",
+                  "lemma": "préférer",
                   "pos": "verb",
-                  "meaning": "préfère (French opera term)"
+                  "meaning": "prefers / prefer"
                 }
               ]
             },
@@ -9868,9 +9868,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "plaît",
-                  "lemma": "plaît",
-                  "pos": "noun",
-                  "meaning": "plaît (French opera term)"
+                  "lemma": "plaire",
+                  "pos": "verb",
+                  "meaning": "pleases (s'il vous plaît: please)"
                 }
               ]
             },
@@ -9954,9 +9954,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "connu",
-                  "lemma": "connu",
-                  "pos": "noun",
-                  "meaning": "connu (French opera term)"
+                  "lemma": "connaître",
+                  "pos": "verb",
+                  "meaning": "known"
                 },
                 {
                   "word": "de",
@@ -10138,9 +10138,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Battit",
-                  "lemma": "battit",
-                  "pos": "noun",
-                  "meaning": "battit (French opera term)"
+                  "lemma": "battre",
+                  "pos": "verb",
+                  "meaning": "beat / struck / fought"
                 },
                 {
                   "word": "de",
@@ -10158,7 +10158,7 @@ export const carmenAct1: Act = {
                   "word": "aile",
                   "lemma": "aile",
                   "pos": "noun",
-                  "meaning": "aile (French opera term)"
+                  "meaning": "wing"
                 },
                 {
                   "word": "et",
@@ -10174,9 +10174,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "envola",
-                  "lemma": "envola",
-                  "pos": "noun",
-                  "meaning": "envola (French opera term)"
+                  "lemma": "envoler",
+                  "pos": "verb",
+                  "meaning": "flew away (s'envola)"
                 }
               ]
             },
@@ -10206,8 +10206,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "loin",
                   "lemma": "loin",
-                  "pos": "noun",
-                  "meaning": "loin (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "far / distant"
                 },
                 {
                   "word": "tu",
@@ -10304,8 +10304,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "autour",
                   "lemma": "autour",
-                  "pos": "noun",
-                  "meaning": "autour (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "around / about"
                 },
                 {
                   "word": "de",
@@ -10382,9 +10382,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "revient",
-                  "lemma": "revient",
-                  "pos": "noun",
-                  "meaning": "revient (French opera term)"
+                  "lemma": "revenir",
+                  "pos": "verb",
+                  "meaning": "returns / comes back"
                 }
               ]
             },
@@ -10431,9 +10431,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "évite",
-                  "lemma": "évite",
-                  "pos": "noun",
-                  "meaning": "évite (French opera term)"
+                  "lemma": "éviter",
+                  "pos": "verb",
+                  "meaning": "avoids / shun"
                 }
               ]
             },
@@ -10464,7 +10464,7 @@ export const carmenAct1: Act = {
                   "word": "éviter",
                   "lemma": "éviter",
                   "pos": "verb",
-                  "meaning": "éviter (French opera term)"
+                  "meaning": "to avoid / shun"
                 },
                 {
                   "word": "il",
@@ -10560,9 +10560,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "connu",
-                  "lemma": "connu",
-                  "pos": "noun",
-                  "meaning": "connu (French opera term)"
+                  "lemma": "connaître",
+                  "pos": "verb",
+                  "meaning": "known"
                 },
                 {
                   "word": "de",
@@ -10743,9 +10743,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "pressons",
-                  "lemma": "pressons",
+                  "lemma": "presser",
                   "pos": "verb",
-                  "meaning": "pressons (French opera term)"
+                  "meaning": "let us hurry / press (se presser)"
                 },
                 {
                   "word": "tous",
@@ -10774,9 +10774,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "gentille",
-                  "lemma": "gentille",
-                  "pos": "noun",
-                  "meaning": "gentille (French opera term)"
+                  "lemma": "gentil",
+                  "pos": "adjective",
+                  "meaning": "pretty / sweet / gentle (fem.)"
                 },
                 {
                   "word": "au",
@@ -10787,8 +10787,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "moins",
                   "lemma": "moins",
-                  "pos": "noun",
-                  "meaning": "moins (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "less / least (au moins: at least)"
                 },
                 {
                   "word": "réponds-nous",
@@ -10820,8 +10820,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "compère",
                   "lemma": "compère",
-                  "pos": "verb",
-                  "meaning": "compère (French opera term)"
+                  "pos": "noun",
+                  "meaning": "crony / comrade / accomplice"
                 },
                 {
                   "word": "qu",
@@ -10906,7 +10906,7 @@ export const carmenAct1: Act = {
                   "word": "fil",
                   "lemma": "fil",
                   "pos": "noun",
-                  "meaning": "fil (French opera term)"
+                  "meaning": "thread / wire / edge"
                 },
                 {
                   "word": "de",
@@ -10918,7 +10918,7 @@ export const carmenAct1: Act = {
                   "word": "laiton",
                   "lemma": "laiton",
                   "pos": "noun",
-                  "meaning": "laiton (French opera term)"
+                  "meaning": "brass"
                 },
                 {
                   "word": "une",
@@ -10942,7 +10942,7 @@ export const carmenAct1: Act = {
                   "word": "attacher",
                   "lemma": "attacher",
                   "pos": "verb",
-                  "meaning": "attacher (French opera term)"
+                  "meaning": "to attach / bind / tie"
                 },
                 {
                   "word": "mon",
@@ -10954,7 +10954,7 @@ export const carmenAct1: Act = {
                   "word": "épinglette",
                   "lemma": "épinglette",
                   "pos": "noun",
-                  "meaning": "épinglette (French opera term)"
+                  "meaning": "priming wire / musket pin"
                 }
               ]
             }
@@ -10979,7 +10979,7 @@ export const carmenAct1: Act = {
                   "word": "épinglette",
                   "lemma": "épinglette",
                   "pos": "noun",
-                  "meaning": "épinglette (French opera term)"
+                  "meaning": "priming wire / musket pin"
                 },
                 {
                   "word": "vraiment",
@@ -10997,13 +10997,13 @@ export const carmenAct1: Act = {
                   "word": "épinglette",
                   "lemma": "épinglette",
                   "pos": "noun",
-                  "meaning": "épinglette (French opera term)"
+                  "meaning": "priming wire / musket pin"
                 },
                 {
                   "word": "épinglier",
                   "lemma": "épinglier",
-                  "pos": "verb",
-                  "meaning": "épinglier (French opera term)"
+                  "pos": "noun",
+                  "meaning": "pin-maker / needle-case"
                 },
                 {
                   "word": "de",
@@ -11075,9 +11075,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Etc",
-                  "lemma": "etc",
-                  "pos": "noun",
-                  "meaning": "etc (French opera term)"
+                  "lemma": "etc.",
+                  "pos": "adverb",
+                  "meaning": "et cetera / and so forth"
                 }
               ]
             }
@@ -11153,15 +11153,15 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "Quelle",
-                  "lemma": "quelle",
-                  "pos": "noun",
-                  "meaning": "quelle (French opera term)"
+                  "lemma": "quel",
+                  "pos": "adjective",
+                  "meaning": "what / which (fem.)"
                 },
                 {
                   "word": "effronterie",
                   "lemma": "effronterie",
                   "pos": "noun",
-                  "meaning": "effronterie (French opera term)"
+                  "meaning": "effrontery / boldness / impudence"
                 }
               ]
             },
@@ -11185,8 +11185,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "parce",
                   "lemma": "parce",
-                  "pos": "noun",
-                  "meaning": "parce (French opera term)"
+                  "pos": "conjunction",
+                  "meaning": "because (parce que: because)"
                 },
                 {
                   "word": "que",
@@ -11222,7 +11222,7 @@ export const carmenAct1: Act = {
                   "word": "attention",
                   "lemma": "attention",
                   "pos": "noun",
-                  "meaning": "attention (French opera term)"
+                  "meaning": "attention / care"
                 },
                 {
                   "word": "à",
@@ -11244,9 +11244,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "suivant",
-                  "lemma": "suivant",
+                  "lemma": "suivre",
                   "pos": "verb",
-                  "meaning": "suivant (French opera term)"
+                  "meaning": "following / next"
                 },
                 {
                   "word": "l",
@@ -11258,7 +11258,7 @@ export const carmenAct1: Act = {
                   "word": "usage",
                   "lemma": "usage",
                   "pos": "noun",
-                  "meaning": "usage (French opera term)"
+                  "meaning": "use / custom / usage"
                 },
                 {
                   "word": "des",
@@ -11286,9 +11286,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "chats",
-                  "lemma": "chats",
+                  "lemma": "chat",
                   "pos": "noun",
-                  "meaning": "chats (French opera term)"
+                  "meaning": "cats"
                 },
                 {
                   "word": "qui",
@@ -11334,9 +11334,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "appelle",
-                  "lemma": "appelle",
-                  "pos": "noun",
-                  "meaning": "appelle (French opera term)"
+                  "lemma": "appeler",
+                  "pos": "verb",
+                  "meaning": "calls / call / name"
                 },
                 {
                   "word": "et",
@@ -11382,9 +11382,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "appelle",
-                  "lemma": "appelle",
-                  "pos": "noun",
-                  "meaning": "appelle (French opera term)"
+                  "lemma": "appeler",
+                  "pos": "verb",
+                  "meaning": "calls / call / name"
                 },
                 {
                   "word": "pas",
@@ -11425,15 +11425,15 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "quelle",
-                  "lemma": "quelle",
-                  "pos": "noun",
-                  "meaning": "quelle (French opera term)"
+                  "lemma": "quel",
+                  "pos": "adjective",
+                  "meaning": "what / which (fem.)"
                 },
                 {
                   "word": "adresse",
-                  "lemma": "adresse",
-                  "pos": "noun",
-                  "meaning": "adresse (French opera term)"
+                  "lemma": "adresser",
+                  "pos": "verb",
+                  "meaning": "address / send"
                 },
                 {
                   "word": "elle",
@@ -11461,9 +11461,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "lancée",
-                  "lemma": "lancée",
-                  "pos": "noun",
-                  "meaning": "lancée (French opera term)"
+                  "lemma": "lancer",
+                  "pos": "verb",
+                  "meaning": "thrown / launched (fem.)"
                 },
                 {
                   "word": "cette",
@@ -11486,8 +11486,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "juste",
                   "lemma": "juste",
-                  "pos": "noun",
-                  "meaning": "juste (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "just / right / accurate / fair"
                 },
                 {
                   "word": "entre",
@@ -11547,7 +11547,7 @@ export const carmenAct1: Act = {
                   "word": "effet",
                   "lemma": "effet",
                   "pos": "noun",
-                  "meaning": "effet (French opera term)"
+                  "meaning": "effect (en effet: indeed)"
                 },
                 {
                   "word": "d",
@@ -11613,14 +11613,14 @@ export const carmenAct1: Act = {
                 {
                   "word": "fort",
                   "lemma": "fort",
-                  "pos": "noun",
-                  "meaning": "fort (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "strong / loud / very"
                 },
                 {
                   "word": "Certainement",
                   "lemma": "certainement",
-                  "pos": "noun",
-                  "meaning": "certainement (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "certainly / definitely"
                 },
                 {
                   "word": "s",
@@ -11654,9 +11654,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "sorcières",
-                  "lemma": "sorcières",
+                  "lemma": "sorcière",
                   "pos": "noun",
-                  "meaning": "sorcières (French opera term)"
+                  "meaning": "witches / sorceresses"
                 },
                 {
                   "word": "cette",
@@ -11716,7 +11716,7 @@ export const carmenAct1: Act = {
                   "word": "Monsieur",
                   "lemma": "monsieur",
                   "pos": "noun",
-                  "meaning": "monsieur (French opera term)"
+                  "meaning": "sir / gentleman / mister"
                 },
                 {
                   "word": "le",
@@ -11960,9 +11960,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "envoie",
-                  "lemma": "envoie",
-                  "pos": "noun",
-                  "meaning": "envoie (French opera term)"
+                  "lemma": "envoyer",
+                  "pos": "verb",
+                  "meaning": "sends / dispatch"
                 }
               ]
             }
@@ -12053,9 +12053,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "apporte",
-                  "lemma": "apporte",
-                  "pos": "noun",
-                  "meaning": "apporte (French opera term)"
+                  "lemma": "apporter",
+                  "pos": "verb",
+                  "meaning": "brings / bring"
                 },
                 {
                   "word": "de",
@@ -12078,14 +12078,14 @@ export const carmenAct1: Act = {
                 {
                   "word": "fidèle",
                   "lemma": "fidèle",
-                  "pos": "noun",
-                  "meaning": "fidèle (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "faithful / loyal"
                 },
                 {
                   "word": "messagère",
-                  "lemma": "messagère",
-                  "pos": "verb",
-                  "meaning": "messagère (French opera term)"
+                  "lemma": "messager",
+                  "pos": "noun",
+                  "meaning": "messenger (fem.)"
                 }
               ]
             },
@@ -12103,8 +12103,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "lettre",
                   "lemma": "lettre",
-                  "pos": "verb",
-                  "meaning": "lettre (French opera term)"
+                  "pos": "noun",
+                  "meaning": "letter"
                 }
               ]
             }
@@ -12128,8 +12128,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "lettre",
                   "lemma": "lettre",
-                  "pos": "verb",
-                  "meaning": "lettre (French opera term)"
+                  "pos": "noun",
+                  "meaning": "letter"
                 }
               ]
             }
@@ -12199,7 +12199,7 @@ export const carmenAct1: Act = {
                   "word": "ajouter",
                   "lemma": "ajouter",
                   "pos": "verb",
-                  "meaning": "ajouter (French opera term)"
+                  "meaning": "to add"
                 },
                 {
                   "word": "à",
@@ -12217,7 +12217,7 @@ export const carmenAct1: Act = {
                   "word": "traitement",
                   "lemma": "traitement",
                   "pos": "noun",
-                  "meaning": "traitement (French opera term)"
+                  "meaning": "treatment / pay / salary"
                 }
               ]
             },
@@ -12310,9 +12310,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "ose",
-                  "lemma": "ose",
-                  "pos": "noun",
-                  "meaning": "ose (French opera term)"
+                  "lemma": "oser",
+                  "pos": "verb",
+                  "meaning": "dares / venture"
                 }
               ]
             },
@@ -12355,7 +12355,7 @@ export const carmenAct1: Act = {
                   "word": "chose",
                   "lemma": "chose",
                   "pos": "noun",
-                  "meaning": "chose (French opera term)"
+                  "meaning": "thing / matter (quelque chose: something)"
                 }
               ]
             },
@@ -12372,9 +12372,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "vaut",
-                  "lemma": "vaut",
-                  "pos": "noun",
-                  "meaning": "vaut (French opera term)"
+                  "lemma": "valoir",
+                  "pos": "verb",
+                  "meaning": "is worth (vaut mieux: is better)"
                 },
                 {
                   "word": "mieux",
@@ -12477,7 +12477,7 @@ export const carmenAct1: Act = {
                   "word": "prix",
                   "lemma": "prix",
                   "pos": "noun",
-                  "meaning": "prix (French opera term)"
+                  "meaning": "price / prize / cost"
                 }
               ]
             }
@@ -12508,13 +12508,13 @@ export const carmenAct1: Act = {
                   "word": "chose",
                   "lemma": "chose",
                   "pos": "noun",
-                  "meaning": "chose (French opera term)"
+                  "meaning": "thing / matter (quelque chose: something)"
                 },
                 {
                   "word": "quelle",
-                  "lemma": "quelle",
-                  "pos": "noun",
-                  "meaning": "quelle (French opera term)"
+                  "lemma": "quel",
+                  "pos": "adjective",
+                  "meaning": "what / which (fem.)"
                 },
                 {
                   "word": "est-elle",
@@ -12678,9 +12678,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "sortait",
-                  "lemma": "sortait",
+                  "lemma": "sortir",
                   "pos": "verb",
-                  "meaning": "sortait (French opera term)"
+                  "meaning": "was coming out / leaving"
                 },
                 {
                   "word": "de",
@@ -12698,7 +12698,7 @@ export const carmenAct1: Act = {
                   "word": "chapelle",
                   "lemma": "chapelle",
                   "pos": "noun",
-                  "meaning": "chapelle (French opera term)"
+                  "meaning": "chapel"
                 }
               ]
             },
@@ -12826,7 +12826,7 @@ export const carmenAct1: Act = {
                   "word": "ville",
                   "lemma": "ville",
                   "pos": "noun",
-                  "meaning": "ville (French opera term)"
+                  "meaning": "town / city"
                 }
               ]
             },
@@ -12845,7 +12845,7 @@ export const carmenAct1: Act = {
                   "word": "route",
                   "lemma": "route",
                   "pos": "noun",
-                  "meaning": "route (French opera term)"
+                  "meaning": "road / route / way (en route: on the way)"
                 },
                 {
                   "word": "n",
@@ -12867,9 +12867,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "longue",
-                  "lemma": "longue",
-                  "pos": "noun",
-                  "meaning": "longue (French opera term)"
+                  "lemma": "long",
+                  "pos": "adjective",
+                  "meaning": "long (fem.)"
                 },
                 {
                   "word": "une",
@@ -12881,7 +12881,7 @@ export const carmenAct1: Act = {
                   "word": "fois",
                   "lemma": "fois",
                   "pos": "noun",
-                  "meaning": "fois (French opera term)"
+                  "meaning": "time (une fois: once)"
                 },
                 {
                   "word": "à",
@@ -13045,8 +13045,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "absent",
                   "lemma": "absent",
-                  "pos": "noun",
-                  "meaning": "absent (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "absent / away"
                 }
               ]
             },
@@ -13069,9 +13069,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "regrette",
-                  "lemma": "regrette",
-                  "pos": "noun",
-                  "meaning": "regrette (French opera term)"
+                  "lemma": "regretter",
+                  "pos": "verb",
+                  "meaning": "regrets / regret"
                 },
                 {
                   "word": "et",
@@ -13093,9 +13093,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "espère",
-                  "lemma": "espère",
+                  "lemma": "espérer",
                   "pos": "verb",
-                  "meaning": "espère (French opera term)"
+                  "meaning": "hopes / hope"
                 }
               ]
             },
@@ -13118,9 +13118,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "pardonne",
-                  "lemma": "pardonne",
-                  "pos": "noun",
-                  "meaning": "pardonne (French opera term)"
+                  "lemma": "pardonner",
+                  "pos": "verb",
+                  "meaning": "forgives / forgive"
                 },
                 {
                   "word": "et",
@@ -13185,9 +13185,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "mignonne",
-                  "lemma": "mignonne",
-                  "pos": "noun",
-                  "meaning": "mignonne (French opera term)"
+                  "lemma": "mignon",
+                  "pos": "adjective",
+                  "meaning": "sweet / darling / pretty (fem.)"
                 }
               ]
             },
@@ -13332,9 +13332,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "rendras",
-                  "lemma": "rendras",
-                  "pos": "noun",
-                  "meaning": "rendras (French opera term)"
+                  "lemma": "rendre",
+                  "pos": "verb",
+                  "meaning": "thou wilt return / make"
                 }
               ]
             }
@@ -13488,9 +13488,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "promis",
-                  "lemma": "promis",
-                  "pos": "noun",
-                  "meaning": "promis (French opera term)"
+                  "lemma": "promettre",
+                  "pos": "verb",
+                  "meaning": "promised"
                 }
               ]
             }
@@ -13545,9 +13545,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "revois",
-                  "lemma": "revois",
-                  "pos": "noun",
-                  "meaning": "revois (French opera term)"
+                  "lemma": "revoir",
+                  "pos": "verb",
+                  "meaning": "see again"
                 },
                 {
                   "word": "mon",
@@ -13559,7 +13559,7 @@ export const carmenAct1: Act = {
                   "word": "village",
                   "lemma": "village",
                   "pos": "noun",
-                  "meaning": "village (French opera term)"
+                  "meaning": "village"
                 }
               ]
             },
@@ -13583,8 +13583,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "autrefois",
                   "lemma": "autrefois",
-                  "pos": "noun",
-                  "meaning": "autrefois (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "formerly / in the past"
                 },
                 {
                   "word": "souvenirs",
@@ -13602,7 +13602,7 @@ export const carmenAct1: Act = {
                   "word": "pays",
                   "lemma": "pays",
                   "pos": "noun",
-                  "meaning": "pays (French opera term)"
+                  "meaning": "country / land / compatriot"
                 }
               ]
             },
@@ -13619,9 +13619,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "remplissez",
-                  "lemma": "remplissez",
+                  "lemma": "remplir",
                   "pos": "verb",
-                  "meaning": "remplissez (French opera term)"
+                  "meaning": "fill / fulfill (you)"
                 },
                 {
                   "word": "mon",
@@ -13645,7 +13645,7 @@ export const carmenAct1: Act = {
                   "word": "force",
                   "lemma": "force",
                   "pos": "noun",
-                  "meaning": "force (French opera term)"
+                  "meaning": "force / strength"
                 },
                 {
                   "word": "et",
@@ -13663,7 +13663,7 @@ export const carmenAct1: Act = {
                   "word": "courage",
                   "lemma": "courage",
                   "pos": "noun",
-                  "meaning": "courage (French opera term)"
+                  "meaning": "courage / bravery"
                 }
               ]
             },
@@ -13675,8 +13675,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "Ô",
                   "lemma": "ô",
-                  "pos": "noun",
-                  "meaning": "ô (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "O! / oh!"
                 },
                 {
                   "word": "souvenirs",
@@ -13686,9 +13686,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "chéris",
-                  "lemma": "chéris",
-                  "pos": "noun",
-                  "meaning": "chéris (French opera term)"
+                  "lemma": "chérir",
+                  "pos": "verb",
+                  "meaning": "cherished / beloved"
                 }
               ]
             },
@@ -13712,8 +13712,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "autrefois",
                   "lemma": "autrefois",
-                  "pos": "noun",
-                  "meaning": "autrefois (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "formerly / in the past"
                 },
                 {
                   "word": "souvenirs",
@@ -13731,7 +13731,7 @@ export const carmenAct1: Act = {
                   "word": "pays",
                   "lemma": "pays",
                   "pos": "noun",
-                  "meaning": "pays (French opera term)"
+                  "meaning": "country / land / compatriot"
                 }
               ]
             }
@@ -13780,9 +13780,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "etc",
-                  "lemma": "etc",
-                  "pos": "noun",
-                  "meaning": "etc (French opera term)"
+                  "lemma": "etc.",
+                  "pos": "adverb",
+                  "meaning": "et cetera / and so forth"
                 }
               ]
             }
@@ -13823,15 +13823,15 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "revoit",
-                  "lemma": "revoit",
-                  "pos": "noun",
-                  "meaning": "revoit (French opera term)"
+                  "lemma": "revoir",
+                  "pos": "verb",
+                  "meaning": "sees again"
                 },
                 {
                   "word": "etc",
-                  "lemma": "etc",
-                  "pos": "noun",
-                  "meaning": "etc (French opera term)"
+                  "lemma": "etc.",
+                  "pos": "adverb",
+                  "meaning": "et cetera / and so forth"
                 }
               ]
             }
@@ -13867,14 +13867,14 @@ export const carmenAct1: Act = {
                 {
                   "word": "quel",
                   "lemma": "quel",
-                  "pos": "noun",
-                  "meaning": "quel (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "what / which"
                 },
                 {
                   "word": "démon",
                   "lemma": "démon",
                   "pos": "noun",
-                  "meaning": "démon (French opera term)"
+                  "meaning": "demon / devil / fiend"
                 },
                 {
                   "word": "j",
@@ -13904,7 +13904,7 @@ export const carmenAct1: Act = {
                   "word": "proie",
                   "lemma": "proie",
                   "pos": "noun",
-                  "meaning": "proie (French opera term)"
+                  "meaning": "prey / quarry"
                 }
               ]
             },
@@ -13928,8 +13928,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "loin",
                   "lemma": "loin",
-                  "pos": "noun",
-                  "meaning": "loin (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "far / distant"
                 },
                 {
                   "word": "ma",
@@ -13951,9 +13951,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "défend",
-                  "lemma": "défend",
-                  "pos": "noun",
-                  "meaning": "défend (French opera term)"
+                  "lemma": "défendre",
+                  "pos": "verb",
+                  "meaning": "defends / forbids"
                 }
               ]
             },
@@ -14000,9 +14000,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "envoie",
-                  "lemma": "envoie",
-                  "pos": "noun",
-                  "meaning": "envoie (French opera term)"
+                  "lemma": "envoyer",
+                  "pos": "verb",
+                  "meaning": "sends / dispatch"
                 }
               ]
             },
@@ -14013,9 +14013,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Écarte",
-                  "lemma": "écarte",
-                  "pos": "noun",
-                  "meaning": "écarte (French opera term)"
+                  "lemma": "écarter",
+                  "pos": "verb",
+                  "meaning": "sets aside / pushes away / diverges"
                 },
                 {
                   "word": "le",
@@ -14027,7 +14027,7 @@ export const carmenAct1: Act = {
                   "word": "péril",
                   "lemma": "péril",
                   "pos": "noun",
-                  "meaning": "péril (French opera term)"
+                  "meaning": "peril / danger"
                 },
                 {
                   "word": "et",
@@ -14071,26 +14071,26 @@ export const carmenAct1: Act = {
                 {
                   "word": "Quel",
                   "lemma": "quel",
-                  "pos": "noun",
-                  "meaning": "quel (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "what / which"
                 },
                 {
                   "word": "démon",
                   "lemma": "démon",
                   "pos": "noun",
-                  "meaning": "démon (French opera term)"
+                  "meaning": "demon / devil / fiend"
                 },
                 {
                   "word": "quel",
                   "lemma": "quel",
-                  "pos": "noun",
-                  "meaning": "quel (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "what / which"
                 },
                 {
                   "word": "péril",
                   "lemma": "péril",
                   "pos": "noun",
-                  "meaning": "péril (French opera term)"
+                  "meaning": "peril / danger"
                 },
                 {
                   "word": "je",
@@ -14106,9 +14106,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "comprends",
-                  "lemma": "comprends",
-                  "pos": "noun",
-                  "meaning": "comprends (French opera term)"
+                  "lemma": "comprendre",
+                  "pos": "verb",
+                  "meaning": "understand / comprehend"
                 },
                 {
                   "word": "pas",
@@ -14211,9 +14211,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "messagère",
-                  "lemma": "messagère",
-                  "pos": "verb",
-                  "meaning": "messagère (French opera term)"
+                  "lemma": "messager",
+                  "pos": "noun",
+                  "meaning": "messenger (fem.)"
                 }
               ]
             },
@@ -14238,7 +14238,7 @@ export const carmenAct1: Act = {
                   "word": "retourner",
                   "lemma": "retourner",
                   "pos": "verb",
-                  "meaning": "retourner (French opera term)"
+                  "meaning": "to return / go back"
                 },
                 {
                   "word": "au",
@@ -14250,7 +14250,7 @@ export const carmenAct1: Act = {
                   "word": "pays",
                   "lemma": "pays",
                   "pos": "noun",
-                  "meaning": "pays (French opera term)"
+                  "meaning": "country / land / compatriot"
                 }
               ]
             }
@@ -14443,9 +14443,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "vénère",
-                  "lemma": "vénère",
+                  "lemma": "vénérer",
                   "pos": "verb",
-                  "meaning": "vénère (French opera term)"
+                  "meaning": "venerates / revere"
                 }
               ]
             },
@@ -14480,9 +14480,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "conduit",
-                  "lemma": "conduit",
-                  "pos": "noun",
-                  "meaning": "conduit (French opera term)"
+                  "lemma": "conduire",
+                  "pos": "verb",
+                  "meaning": "leads / conducts / escorted"
                 },
                 {
                   "word": "aujourd'hui",
@@ -14513,7 +14513,7 @@ export const carmenAct1: Act = {
                   "word": "sujet",
                   "lemma": "sujet",
                   "pos": "noun",
-                  "meaning": "sujet (French opera term)"
+                  "meaning": "subject / topic / reason"
                 },
                 {
                   "word": "que",
@@ -14560,9 +14560,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "contente",
-                  "lemma": "contente",
-                  "pos": "noun",
-                  "meaning": "contente (French opera term)"
+                  "lemma": "content",
+                  "pos": "adjective",
+                  "meaning": "glad / satisfied / pleased (fem.)"
                 },
                 {
                   "word": "de",
@@ -14615,9 +14615,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "mignonne",
-                  "lemma": "mignonne",
-                  "pos": "noun",
-                  "meaning": "mignonne (French opera term)"
+                  "lemma": "mignon",
+                  "pos": "adjective",
+                  "meaning": "sweet / darling / pretty (fem.)"
                 }
               ]
             },
@@ -14762,9 +14762,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "rendras",
-                  "lemma": "rendras",
-                  "pos": "noun",
-                  "meaning": "rendras (French opera term)"
+                  "lemma": "rendre",
+                  "pos": "verb",
+                  "meaning": "thou wilt return / make"
                 }
               ]
             }
@@ -14807,9 +14807,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "promets",
-                  "lemma": "promets",
-                  "pos": "noun",
-                  "meaning": "promets (French opera term)"
+                  "lemma": "promettre",
+                  "pos": "verb",
+                  "meaning": "promise"
                 },
                 {
                   "word": "de",
@@ -14874,9 +14874,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "rendrai",
-                  "lemma": "rendrai",
-                  "pos": "noun",
-                  "meaning": "rendrai (French opera term)"
+                  "lemma": "rendre",
+                  "pos": "verb",
+                  "meaning": "shall return / render"
                 },
                 {
                   "word": "comme",
@@ -14904,9 +14904,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "promis",
-                  "lemma": "promis",
-                  "pos": "noun",
-                  "meaning": "promis (French opera term)"
+                  "lemma": "promettre",
+                  "pos": "verb",
+                  "meaning": "promised"
                 }
               ]
             }
@@ -14953,9 +14953,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "etc",
-                  "lemma": "etc",
-                  "pos": "noun",
-                  "meaning": "etc (French opera term)"
+                  "lemma": "etc.",
+                  "pos": "adverb",
+                  "meaning": "et cetera / and so forth"
                 }
               ]
             }
@@ -14996,15 +14996,15 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "revoit",
-                  "lemma": "revoit",
-                  "pos": "noun",
-                  "meaning": "revoit (French opera term)"
+                  "lemma": "revoir",
+                  "pos": "verb",
+                  "meaning": "sees again"
                 },
                 {
                   "word": "etc",
-                  "lemma": "etc",
-                  "pos": "noun",
-                  "meaning": "etc (French opera term)"
+                  "lemma": "etc.",
+                  "pos": "adverb",
+                  "meaning": "et cetera / and so forth"
                 }
               ]
             }
@@ -15059,7 +15059,7 @@ export const carmenAct1: Act = {
                   "word": "lire",
                   "lemma": "lire",
                   "pos": "verb",
-                  "meaning": "lire (French opera term)"
+                  "meaning": "to read"
                 },
                 {
                   "word": "sa",
@@ -15070,8 +15070,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "lettre",
                   "lemma": "lettre",
-                  "pos": "verb",
-                  "meaning": "lettre (French opera term)"
+                  "pos": "noun",
+                  "meaning": "letter"
                 }
               ]
             }
@@ -15102,7 +15102,7 @@ export const carmenAct1: Act = {
                   "word": "monsieur",
                   "lemma": "monsieur",
                   "pos": "noun",
-                  "meaning": "monsieur (French opera term)"
+                  "meaning": "sir / gentleman / mister"
                 },
                 {
                   "word": "le",
@@ -15156,9 +15156,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Continue",
-                  "lemma": "continue",
-                  "pos": "noun",
-                  "meaning": "continue (French opera term)"
+                  "lemma": "continuer",
+                  "pos": "verb",
+                  "meaning": "continues / continue"
                 },
                 {
                   "word": "à",
@@ -15182,7 +15182,7 @@ export const carmenAct1: Act = {
                   "word": "conduire",
                   "lemma": "conduire",
                   "pos": "verb",
-                  "meaning": "conduire (French opera term)"
+                  "meaning": "to lead / conduct / drive"
                 },
                 {
                   "word": "mon",
@@ -15216,9 +15216,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "promis",
-                  "lemma": "promis",
-                  "pos": "noun",
-                  "meaning": "promis (French opera term)"
+                  "lemma": "promettre",
+                  "pos": "verb",
+                  "meaning": "promised"
                 },
                 {
                   "word": "de",
@@ -15242,7 +15242,7 @@ export const carmenAct1: Act = {
                   "word": "maréchal",
                   "lemma": "maréchal",
                   "pos": "noun",
-                  "meaning": "maréchal (French opera term)"
+                  "meaning": "marshal / farrier (maréchal des logis: sergeant)"
                 },
                 {
                   "word": "des",
@@ -15254,7 +15254,7 @@ export const carmenAct1: Act = {
                   "word": "logis",
                   "lemma": "logis",
                   "pos": "noun",
-                  "meaning": "logis (French opera term)"
+                  "meaning": "dwelling / lodging / home"
                 },
                 {
                   "word": "peut-être",
@@ -15290,7 +15290,7 @@ export const carmenAct1: Act = {
                   "word": "service",
                   "lemma": "service",
                   "pos": "noun",
-                  "meaning": "service (French opera term)"
+                  "meaning": "service / duty"
                 },
                 {
                   "word": "te",
@@ -15338,7 +15338,7 @@ export const carmenAct1: Act = {
                   "word": "revenir",
                   "lemma": "revenir",
                   "pos": "verb",
-                  "meaning": "revenir (French opera term)"
+                  "meaning": "to come back / return"
                 },
                 {
                   "word": "près",
@@ -15366,9 +15366,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "commence",
-                  "lemma": "commence",
-                  "pos": "noun",
-                  "meaning": "commence (French opera term)"
+                  "lemma": "commencer",
+                  "pos": "verb",
+                  "meaning": "begins / start"
                 },
                 {
                   "word": "à",
@@ -15408,9 +15408,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "reviendrais",
-                  "lemma": "reviendrais",
+                  "lemma": "revenir",
                   "pos": "verb",
-                  "meaning": "reviendrais (French opera term)"
+                  "meaning": "would return / come back"
                 },
                 {
                   "word": "près",
@@ -15450,9 +15450,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "marierais",
-                  "lemma": "marierais",
+                  "lemma": "marier",
                   "pos": "verb",
-                  "meaning": "marierais (French opera term)"
+                  "meaning": "would marry"
                 },
                 {
                   "word": "Nous",
@@ -15468,9 +15468,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "aurions",
-                  "lemma": "aurions",
+                  "lemma": "avoir",
                   "pos": "verb",
-                  "meaning": "aurions (French opera term)"
+                  "meaning": "would have"
                 },
                 {
                   "word": "pas",
@@ -15553,8 +15553,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "quant",
                   "lemma": "quant",
-                  "pos": "verb",
-                  "meaning": "quant (French opera term)"
+                  "pos": "preposition",
+                  "meaning": "as for / regarding (quant à)"
                 },
                 {
                   "word": "à",
@@ -15570,9 +15570,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "celle",
-                  "lemma": "celle",
-                  "pos": "noun",
-                  "meaning": "celle (French opera term)"
+                  "lemma": "celui",
+                  "pos": "pronoun",
+                  "meaning": "the one / that one (fem.)"
                 },
                 {
                   "word": "que",
@@ -15594,9 +15594,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "conseillerais",
-                  "lemma": "conseillerais",
+                  "lemma": "conseiller",
                   "pos": "verb",
-                  "meaning": "conseillerais (French opera term)"
+                  "meaning": "would advise / recommend"
                 },
                 {
                   "word": "de",
@@ -15608,7 +15608,7 @@ export const carmenAct1: Act = {
                   "word": "choisir",
                   "lemma": "choisir",
                   "pos": "verb",
-                  "meaning": "choisir (French opera term)"
+                  "meaning": "to choose / select"
                 },
                 {
                   "word": "c",
@@ -15631,14 +15631,14 @@ export const carmenAct1: Act = {
                 {
                   "word": "justement",
                   "lemma": "justement",
-                  "pos": "noun",
-                  "meaning": "justement (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "justly / exactly / precisely"
                 },
                 {
                   "word": "celle",
-                  "lemma": "celle",
-                  "pos": "noun",
-                  "meaning": "celle (French opera term)"
+                  "lemma": "celui",
+                  "pos": "pronoun",
+                  "meaning": "the one / that one (fem.)"
                 },
                 {
                   "word": "qui",
@@ -15667,8 +15667,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "lettre",
                   "lemma": "lettre",
-                  "pos": "verb",
-                  "meaning": "lettre (French opera term)"
+                  "pos": "noun",
+                  "meaning": "letter"
                 },
                 {
                   "word": "Il",
@@ -15721,8 +15721,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "sage",
                   "lemma": "sage",
-                  "pos": "noun",
-                  "meaning": "sage (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "wise / sensible / well-behaved"
                 },
                 {
                   "word": "ni",
@@ -15744,9 +15744,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "gentille",
-                  "lemma": "gentille",
-                  "pos": "noun",
-                  "meaning": "gentille (French opera term)"
+                  "lemma": "gentil",
+                  "pos": "adjective",
+                  "meaning": "pretty / sweet / gentle (fem.)"
                 }
               ]
             }
@@ -15771,9 +15771,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "vaut",
-                  "lemma": "vaut",
-                  "pos": "noun",
-                  "meaning": "vaut (French opera term)"
+                  "lemma": "valoir",
+                  "pos": "verb",
+                  "meaning": "is worth (vaut mieux: is better)"
                 },
                 {
                   "word": "mieux",
@@ -15835,8 +15835,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "Pourquoi",
                   "lemma": "pourquoi",
-                  "pos": "noun",
-                  "meaning": "pourquoi (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "why"
                 },
                 {
                   "word": "donc",
@@ -15919,9 +15919,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "chargée",
-                  "lemma": "chargée",
-                  "pos": "noun",
-                  "meaning": "chargée (French opera term)"
+                  "lemma": "charger",
+                  "pos": "verb",
+                  "meaning": "charged / loaded / entrusted (fem.)"
                 },
                 {
                   "word": "de",
@@ -15943,9 +15943,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "achats",
-                  "lemma": "achats",
+                  "lemma": "achat",
                   "pos": "noun",
-                  "meaning": "achats (French opera term)"
+                  "meaning": "purchases / shopping"
                 },
                 {
                   "word": "je",
@@ -15975,7 +15975,7 @@ export const carmenAct1: Act = {
                   "word": "occuper",
                   "lemma": "occuper",
                   "pos": "verb",
-                  "meaning": "occuper (French opera term)"
+                  "meaning": "to occupy / busy oneself with (s'occuper)"
                 },
                 {
                   "word": "tout",
@@ -15993,7 +15993,7 @@ export const carmenAct1: Act = {
                   "word": "suite",
                   "lemma": "suite",
                   "pos": "noun",
-                  "meaning": "suite (French opera term)"
+                  "meaning": "following / retinue (tout de suite: immediately)"
                 }
               ]
             }
@@ -16042,9 +16042,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "fini",
-                  "lemma": "fini",
-                  "pos": "noun",
-                  "meaning": "fini (French opera term)"
+                  "lemma": "finir",
+                  "pos": "verb",
+                  "meaning": "finished / done"
                 }
               ]
             }
@@ -16067,9 +16067,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "finirez",
-                  "lemma": "finirez",
+                  "lemma": "finir",
                   "pos": "verb",
-                  "meaning": "finirez (French opera term)"
+                  "meaning": "will finish / end"
                 },
                 {
                   "word": "quand",
@@ -16136,7 +16136,7 @@ export const carmenAct1: Act = {
                   "word": "réponse",
                   "lemma": "réponse",
                   "pos": "noun",
-                  "meaning": "réponse (French opera term)"
+                  "meaning": "answer / reply"
                 }
               ]
             }
@@ -16159,9 +16159,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "reviendrai",
-                  "lemma": "reviendrai",
-                  "pos": "noun",
-                  "meaning": "reviendrai (French opera term)"
+                  "lemma": "revenir",
+                  "pos": "verb",
+                  "meaning": "shall return / come back"
                 },
                 {
                   "word": "la",
@@ -16191,7 +16191,7 @@ export const carmenAct1: Act = {
                   "word": "départ",
                   "lemma": "départ",
                   "pos": "noun",
-                  "meaning": "départ (French opera term)"
+                  "meaning": "departure / setting out"
                 },
                 {
                   "word": "et",
@@ -16239,7 +16239,7 @@ export const carmenAct1: Act = {
                   "word": "Adieu",
                   "lemma": "adieu",
                   "pos": "noun",
-                  "meaning": "adieu (French opera term)"
+                  "meaning": "farewell / goodbye"
                 }
               ]
             }
@@ -16293,9 +16293,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "reviendrai",
-                  "lemma": "reviendrai",
-                  "pos": "noun",
-                  "meaning": "reviendrai (French opera term)"
+                  "lemma": "revenir",
+                  "pos": "verb",
+                  "meaning": "shall return / come back"
                 },
                 {
                   "word": "j",
@@ -16329,9 +16329,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "reviendrai",
-                  "lemma": "reviendrai",
-                  "pos": "noun",
-                  "meaning": "reviendrai (French opera term)"
+                  "lemma": "revenir",
+                  "pos": "verb",
+                  "meaning": "shall return / come back"
                 },
                 {
                   "word": "je",
@@ -16341,9 +16341,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "reviendrai",
-                  "lemma": "reviendrai",
-                  "pos": "noun",
-                  "meaning": "reviendrai (French opera term)"
+                  "lemma": "revenir",
+                  "pos": "verb",
+                  "meaning": "shall return / come back"
                 }
               ]
             }
@@ -16420,8 +16420,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "sage",
                   "lemma": "sage",
-                  "pos": "noun",
-                  "meaning": "sage (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "wise / sensible / well-behaved"
                 },
                 {
                   "word": "ni",
@@ -16443,9 +16443,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "gentille",
-                  "lemma": "gentille",
-                  "pos": "noun",
-                  "meaning": "gentille (French opera term)"
+                  "lemma": "gentil",
+                  "pos": "adjective",
+                  "meaning": "pretty / sweet / gentle (fem.)"
                 },
                 {
                   "word": "il",
@@ -16510,8 +16510,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "davantage",
                   "lemma": "davantage",
-                  "pos": "noun",
-                  "meaning": "davantage (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "more / further"
                 },
                 {
                   "word": "et",
@@ -16593,9 +16593,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "désires",
-                  "lemma": "désires",
-                  "pos": "noun",
-                  "meaning": "désires (French opera term)"
+                  "lemma": "désirer",
+                  "pos": "verb",
+                  "meaning": "desire / wish"
                 },
                 {
                   "word": "j",
@@ -16605,9 +16605,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "épouserai",
-                  "lemma": "épouserai",
-                  "pos": "noun",
-                  "meaning": "épouserai (French opera term)"
+                  "lemma": "épouser",
+                  "pos": "verb",
+                  "meaning": "shall marry / wed"
                 },
                 {
                   "word": "Micaëla",
@@ -16624,8 +16624,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "quant",
                   "lemma": "quant",
-                  "pos": "verb",
-                  "meaning": "quant (French opera term)"
+                  "pos": "preposition",
+                  "meaning": "as for / regarding (quant à)"
                 },
                 {
                   "word": "à",
@@ -16671,9 +16671,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "ensorcellent",
-                  "lemma": "ensorcellent",
-                  "pos": "noun",
-                  "meaning": "ensorcellent (French opera term)"
+                  "lemma": "ensorceler",
+                  "pos": "verb",
+                  "meaning": "bewitch / enchant"
                 }
               ]
             }
@@ -16763,7 +16763,7 @@ export const carmenAct1: Act = {
                   "word": "secours",
                   "lemma": "secours",
                   "pos": "noun",
-                  "meaning": "secours (French opera term)"
+                  "meaning": "help / aid / relief (au secours: to the rescue)"
                 },
                 {
                   "word": "n",
@@ -16800,13 +16800,13 @@ export const carmenAct1: Act = {
                   "word": "secours",
                   "lemma": "secours",
                   "pos": "noun",
-                  "meaning": "secours (French opera term)"
+                  "meaning": "help / aid / relief (au secours: to the rescue)"
                 },
                 {
                   "word": "messieurs",
-                  "lemma": "messieurs",
+                  "lemma": "monsieur",
                   "pos": "noun",
-                  "meaning": "messieurs (French opera term)"
+                  "meaning": "gentlemen / sirs"
                 },
                 {
                   "word": "les",
@@ -16854,9 +16854,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "Carmencita",
-                  "lemma": "carmencita",
+                  "lemma": "Carmencita",
                   "pos": "noun",
-                  "meaning": "carmencita (French opera term)"
+                  "meaning": "Carmencita (little Carmen)"
                 }
               ]
             }
@@ -17016,7 +17016,7 @@ export const carmenAct1: Act = {
                   "word": "querelle",
                   "lemma": "querelle",
                   "pos": "noun",
-                  "meaning": "querelle (French opera term)"
+                  "meaning": "quarrel / fight / dispute"
                 }
               ]
             },
@@ -17057,9 +17057,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "coups",
-                  "lemma": "coups",
+                  "lemma": "coup",
                   "pos": "noun",
-                  "meaning": "coups (French opera term)"
+                  "meaning": "blows / shots / strikes"
                 }
               ]
             }
@@ -17102,7 +17102,7 @@ export const carmenAct1: Act = {
                   "word": "monsieur",
                   "lemma": "monsieur",
                   "pos": "noun",
-                  "meaning": "monsieur (French opera term)"
+                  "meaning": "sir / gentleman / mister"
                 },
                 {
                   "word": "écoutez-nous",
@@ -17133,9 +17133,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "Manuelita",
-                  "lemma": "manuelita",
+                  "lemma": "Manuelita",
                   "pos": "noun",
-                  "meaning": "manuelita (French opera term)"
+                  "meaning": "Manuelita"
                 },
                 {
                   "word": "disait",
@@ -17158,9 +17158,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "répétait",
-                  "lemma": "répétait",
+                  "lemma": "répéter",
                   "pos": "verb",
-                  "meaning": "répétait (French opera term)"
+                  "meaning": "was repeating / repeated"
                 },
                 {
                   "word": "à",
@@ -17176,9 +17176,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "haute",
-                  "lemma": "haute",
-                  "pos": "noun",
-                  "meaning": "haute (French opera term)"
+                  "lemma": "haut",
+                  "pos": "adjective",
+                  "meaning": "high / tall (fem.)"
                 }
               ]
             },
@@ -17201,9 +17201,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "achèterait",
-                  "lemma": "achèterait",
+                  "lemma": "acheter",
                   "pos": "verb",
-                  "meaning": "achèterait (French opera term)"
+                  "meaning": "would buy"
                 },
                 {
                   "word": "sans",
@@ -17234,7 +17234,7 @@ export const carmenAct1: Act = {
                   "word": "âne",
                   "lemma": "âne",
                   "pos": "noun",
-                  "meaning": "âne (French opera term)"
+                  "meaning": "donkey / ass"
                 },
                 {
                   "word": "qui",
@@ -17250,9 +17250,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "plaisait",
-                  "lemma": "plaisait",
+                  "lemma": "plaire",
                   "pos": "verb",
-                  "meaning": "plaisait (French opera term)"
+                  "meaning": "pleased / was pleasing"
                 }
               ]
             }
@@ -17283,9 +17283,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "Carmencita",
-                  "lemma": "carmencita",
+                  "lemma": "Carmencita",
                   "pos": "noun",
-                  "meaning": "carmencita (French opera term)"
+                  "meaning": "Carmencita (little Carmen)"
                 }
               ]
             },
@@ -17296,9 +17296,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Railleuse",
-                  "lemma": "railleuse",
-                  "pos": "noun",
-                  "meaning": "railleuse (French opera term)"
+                  "lemma": "railleur",
+                  "pos": "adjective",
+                  "meaning": "mocking / teasing / taunting (fem.)"
                 },
                 {
                   "word": "à",
@@ -17315,8 +17315,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "ordinaire",
                   "lemma": "ordinaire",
-                  "pos": "verb",
-                  "meaning": "ordinaire (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "ordinary / usual (d'ordinaire: usually)"
                 }
               ]
             },
@@ -17341,7 +17341,7 @@ export const carmenAct1: Act = {
                   "word": "âne",
                   "lemma": "âne",
                   "pos": "noun",
-                  "meaning": "âne (French opera term)"
+                  "meaning": "donkey / ass"
                 },
                 {
                   "word": "pour",
@@ -17378,7 +17378,7 @@ export const carmenAct1: Act = {
                   "word": "balai",
                   "lemma": "balai",
                   "pos": "noun",
-                  "meaning": "balai (French opera term)"
+                  "meaning": "broom"
                 },
                 {
                   "word": "te",
@@ -17388,9 +17388,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "suffira",
-                  "lemma": "suffira",
-                  "pos": "noun",
-                  "meaning": "suffira (French opera term)"
+                  "lemma": "suffire",
+                  "pos": "verb",
+                  "meaning": "will suffice / will be enough"
                 }
               ]
             }
@@ -17407,15 +17407,15 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Manuelita",
-                  "lemma": "manuelita",
+                  "lemma": "Manuelita",
                   "pos": "noun",
-                  "meaning": "manuelita (French opera term)"
+                  "meaning": "Manuelita"
                 },
                 {
                   "word": "riposta",
-                  "lemma": "riposta",
-                  "pos": "noun",
-                  "meaning": "riposta (French opera term)"
+                  "lemma": "riposter",
+                  "pos": "verb",
+                  "meaning": "retorted / struck back"
                 }
               ]
             },
@@ -17469,15 +17469,15 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "certaine",
-                  "lemma": "certaine",
-                  "pos": "noun",
-                  "meaning": "certaine (French opera term)"
+                  "lemma": "certain",
+                  "pos": "adjective",
+                  "meaning": "certain / sure (fem.)"
                 },
                 {
                   "word": "promenade",
                   "lemma": "promenade",
                   "pos": "noun",
-                  "meaning": "promenade (French opera term)"
+                  "meaning": "walk / promenade / stroll"
                 }
               ]
             },
@@ -17496,7 +17496,7 @@ export const carmenAct1: Act = {
                   "word": "âne",
                   "lemma": "âne",
                   "pos": "noun",
-                  "meaning": "âne (French opera term)"
+                  "meaning": "donkey / ass"
                 },
                 {
                   "word": "te",
@@ -17506,9 +17506,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "servira",
-                  "lemma": "servira",
-                  "pos": "noun",
-                  "meaning": "servira (French opera term)"
+                  "lemma": "servir",
+                  "pos": "verb",
+                  "meaning": "will serve / will be of use"
                 }
               ]
             }
@@ -17575,8 +17575,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "droit",
                   "lemma": "droit",
-                  "pos": "noun",
-                  "meaning": "droit (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "straight / right / upright"
                 },
                 {
                   "word": "faire",
@@ -17612,14 +17612,14 @@ export const carmenAct1: Act = {
                 {
                   "word": "laquais",
                   "lemma": "laquais",
-                  "pos": "verb",
-                  "meaning": "laquais (French opera term)"
+                  "pos": "noun",
+                  "meaning": "lackey / footman"
                 },
                 {
                   "word": "suivront",
-                  "lemma": "suivront",
+                  "lemma": "suivre",
                   "pos": "verb",
-                  "meaning": "suivront (French opera term)"
+                  "meaning": "will follow (they)"
                 },
                 {
                   "word": "derrière",
@@ -17642,9 +17642,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "émouchant",
-                  "lemma": "émouchant",
+                  "lemma": "émoucher",
                   "pos": "verb",
-                  "meaning": "émouchant (French opera term)"
+                  "meaning": "swatting flies / fanning away"
                 },
                 {
                   "word": "à",
@@ -17656,7 +17656,7 @@ export const carmenAct1: Act = {
                   "word": "tour",
                   "lemma": "tour",
                   "pos": "noun",
-                  "meaning": "tour (French opera term)"
+                  "meaning": "turn / trick / tower (à tour de bras: with all one's might)"
                 },
                 {
                   "word": "de",
@@ -17785,7 +17785,7 @@ export const carmenAct1: Act = {
                   "word": "bavardage",
                   "lemma": "bavardage",
                   "pos": "noun",
-                  "meaning": "bavardage (French opera term)"
+                  "meaning": "chatter / gossip / prattle"
                 }
               ]
             },
@@ -17858,8 +17858,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "dedans",
                   "lemma": "dedans",
-                  "pos": "noun",
-                  "meaning": "dedans (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "inside / within"
                 },
                 {
                   "word": "qui",
@@ -17871,7 +17871,7 @@ export const carmenAct1: Act = {
                   "word": "cause",
                   "lemma": "cause",
                   "pos": "noun",
-                  "meaning": "cause (French opera term)"
+                  "meaning": "cause / reason (à cause de: because of)"
                 },
                 {
                   "word": "ce",
@@ -17883,7 +17883,7 @@ export const carmenAct1: Act = {
                   "word": "tapage",
                   "lemma": "tapage",
                   "pos": "noun",
-                  "meaning": "tapage (French opera term)"
+                  "meaning": "racket / uproar / commotion / noise"
                 }
               ]
             }
@@ -17920,9 +17920,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "Carmencita",
-                  "lemma": "carmencita",
+                  "lemma": "Carmencita",
                   "pos": "noun",
-                  "meaning": "carmencita (French opera term)"
+                  "meaning": "Carmencita (little Carmen)"
                 }
               ]
             }
@@ -18175,9 +18175,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "Manuelita",
-                  "lemma": "manuelita",
+                  "lemma": "Manuelita",
                   "pos": "noun",
-                  "meaning": "manuelita (French opera term)"
+                  "meaning": "Manuelita"
                 },
                 {
                   "word": "disait",
@@ -18194,9 +18194,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Etc",
-                  "lemma": "etc",
-                  "pos": "noun",
-                  "meaning": "etc (French opera term)"
+                  "lemma": "etc.",
+                  "pos": "adverb",
+                  "meaning": "et cetera / and so forth"
                 }
               ]
             }
@@ -18225,9 +18225,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "Carmencita",
-                  "lemma": "carmencita",
+                  "lemma": "Carmencita",
                   "pos": "noun",
-                  "meaning": "carmencita (French opera term)"
+                  "meaning": "Carmencita (little Carmen)"
                 }
               ]
             },
@@ -18238,9 +18238,9 @@ export const carmenAct1: Act = {
               "tokens": [
                 {
                   "word": "Etc",
-                  "lemma": "etc",
-                  "pos": "noun",
-                  "meaning": "etc (French opera term)"
+                  "lemma": "etc.",
+                  "pos": "adverb",
+                  "meaning": "et cetera / and so forth"
                 }
               ]
             }
@@ -18386,7 +18386,7 @@ export const carmenAct1: Act = {
                   "word": "silence",
                   "lemma": "silence",
                   "pos": "noun",
-                  "meaning": "silence (French opera term)"
+                  "meaning": "silence"
                 },
                 {
                   "word": "qu",
@@ -18465,7 +18465,7 @@ export const carmenAct1: Act = {
                   "word": "abord",
                   "lemma": "abord",
                   "pos": "noun",
-                  "meaning": "abord (French opera term)"
+                  "meaning": "first / approach (d'abord: at first)"
                 },
                 {
                   "word": "trouvé",
@@ -18499,15 +18499,15 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "hurlant",
-                  "lemma": "hurlant",
+                  "lemma": "hurler",
                   "pos": "verb",
-                  "meaning": "hurlant (French opera term)"
+                  "meaning": "howling / yelling"
                 },
                 {
                   "word": "gesticulant",
-                  "lemma": "gesticulant",
+                  "lemma": "gesticuler",
                   "pos": "verb",
-                  "meaning": "gesticulant (French opera term)"
+                  "meaning": "gesticulating / waving arms"
                 },
                 {
                   "word": "faisant",
@@ -18525,7 +18525,7 @@ export const carmenAct1: Act = {
                   "word": "tapage",
                   "lemma": "tapage",
                   "pos": "noun",
-                  "meaning": "tapage (French opera term)"
+                  "meaning": "racket / uproar / commotion / noise"
                 },
                 {
                   "word": "à",
@@ -18561,7 +18561,7 @@ export const carmenAct1: Act = {
                   "word": "tonner",
                   "lemma": "tonner",
                   "pos": "verb",
-                  "meaning": "tonner (French opera term)"
+                  "meaning": "to thunder / roar"
                 },
                 {
                   "word": "D",
@@ -18578,8 +18578,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "côté",
                   "lemma": "côté",
-                  "pos": "verb",
-                  "meaning": "côté (French opera term)"
+                  "pos": "noun",
+                  "meaning": "side (à côté: beside)"
                 },
                 {
                   "word": "il",
@@ -18625,9 +18625,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "fers",
-                  "lemma": "fers",
+                  "lemma": "fer",
                   "pos": "noun",
-                  "meaning": "fers (French opera term)"
+                  "meaning": "irons / chains / fetters"
                 },
                 {
                   "word": "en",
@@ -18663,13 +18663,13 @@ export const carmenAct1: Act = {
                   "word": "Confession",
                   "lemma": "confession",
                   "pos": "noun",
-                  "meaning": "confession (French opera term)"
+                  "meaning": "confession"
                 },
                 {
                   "word": "confession",
                   "lemma": "confession",
                   "pos": "noun",
-                  "meaning": "confession (French opera term)"
+                  "meaning": "confession"
                 },
                 {
                   "word": "je",
@@ -18716,8 +18716,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "figure",
                   "lemma": "figure",
-                  "pos": "verb",
-                  "meaning": "figure (French opera term)"
+                  "pos": "noun",
+                  "meaning": "face / figure / countenance"
                 },
                 {
                   "word": "un",
@@ -18727,9 +18727,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "X",
-                  "lemma": "x",
+                  "lemma": "X",
                   "pos": "noun",
-                  "meaning": "x (French opera term)"
+                  "meaning": "X (ten / tenth)"
                 },
                 {
                   "word": "qu",
@@ -18765,7 +18765,7 @@ export const carmenAct1: Act = {
                   "word": "marquer",
                   "lemma": "marquer",
                   "pos": "verb",
-                  "meaning": "marquer (French opera term)"
+                  "meaning": "to mark / indicate / score"
                 },
                 {
                   "word": "en",
@@ -18781,9 +18781,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "coups",
-                  "lemma": "coups",
+                  "lemma": "coup",
                   "pos": "noun",
-                  "meaning": "coups (French opera term)"
+                  "meaning": "blows / shots / strikes"
                 },
                 {
                   "word": "de",
@@ -18807,7 +18807,7 @@ export const carmenAct1: Act = {
                   "word": "face",
                   "lemma": "face",
                   "pos": "noun",
-                  "meaning": "face (French opera term)"
+                  "meaning": "face (en face: opposite / in front)"
                 },
                 {
                   "word": "de",
@@ -18907,7 +18907,7 @@ export const carmenAct1: Act = {
                   "word": "mademoiselle",
                   "lemma": "mademoiselle",
                   "pos": "noun",
-                  "meaning": "mademoiselle (French opera term)"
+                  "meaning": "miss / young lady"
                 }
               ]
             }
@@ -18926,13 +18926,13 @@ export const carmenAct1: Act = {
                   "word": "Mademoiselle",
                   "lemma": "mademoiselle",
                   "pos": "noun",
-                  "meaning": "mademoiselle (French opera term)"
+                  "meaning": "miss / young lady"
                 },
                 {
                   "word": "Carmencita",
-                  "lemma": "carmencita",
+                  "lemma": "Carmencita",
                   "pos": "noun",
-                  "meaning": "carmencita (French opera term)"
+                  "meaning": "Carmencita (little Carmen)"
                 }
               ]
             }
@@ -19018,13 +19018,13 @@ export const carmenAct1: Act = {
                   "word": "mademoiselle",
                   "lemma": "mademoiselle",
                   "pos": "noun",
-                  "meaning": "mademoiselle (French opera term)"
+                  "meaning": "miss / young lady"
                 },
                 {
                   "word": "Carmencita",
-                  "lemma": "carmencita",
+                  "lemma": "Carmencita",
                   "pos": "noun",
-                  "meaning": "carmencita (French opera term)"
+                  "meaning": "Carmencita (little Carmen)"
                 }
               ]
             }
@@ -19083,9 +19083,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "serrait",
-                  "lemma": "serrait",
+                  "lemma": "serrer",
                   "pos": "verb",
-                  "meaning": "serrait (French opera term)"
+                  "meaning": "was grasping / squeezing / tightening"
                 },
                 {
                   "word": "les",
@@ -19095,9 +19095,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "dents",
-                  "lemma": "dents",
+                  "lemma": "dent",
                   "pos": "noun",
-                  "meaning": "dents (French opera term)"
+                  "meaning": "teeth"
                 },
                 {
                   "word": "et",
@@ -19107,9 +19107,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "roulait",
-                  "lemma": "roulait",
+                  "lemma": "rouler",
                   "pos": "verb",
-                  "meaning": "roulait (French opera term)"
+                  "meaning": "was rolling / coiled"
                 },
                 {
                   "word": "des",
@@ -19139,7 +19139,7 @@ export const carmenAct1: Act = {
                   "word": "caméléon",
                   "lemma": "caméléon",
                   "pos": "noun",
-                  "meaning": "caméléon (French opera term)"
+                  "meaning": "chameleon"
                 }
               ]
             }
@@ -19174,9 +19174,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "provoquée",
-                  "lemma": "provoquée",
-                  "pos": "noun",
-                  "meaning": "provoquée (French opera term)"
+                  "lemma": "provoquer",
+                  "pos": "verb",
+                  "meaning": "provoked / provoked (fem.)"
                 },
                 {
                   "word": "je",
@@ -19218,13 +19218,13 @@ export const carmenAct1: Act = {
                   "word": "défendre",
                   "lemma": "défendre",
                   "pos": "verb",
-                  "meaning": "défendre (French opera term)"
+                  "meaning": "to defend / protect / forbid"
                 },
                 {
                   "word": "Monsieur",
                   "lemma": "monsieur",
                   "pos": "noun",
-                  "meaning": "monsieur (French opera term)"
+                  "meaning": "sir / gentleman / mister"
                 },
                 {
                   "word": "le",
@@ -19285,7 +19285,7 @@ export const carmenAct1: Act = {
                   "word": "monsieur",
                   "lemma": "monsieur",
                   "pos": "noun",
-                  "meaning": "monsieur (French opera term)"
+                  "meaning": "sir / gentleman / mister"
                 },
                 {
                   "word": "le",
@@ -19366,7 +19366,7 @@ export const carmenAct1: Act = {
                   "word": "milieu",
                   "lemma": "milieu",
                   "pos": "noun",
-                  "meaning": "milieu (French opera term)"
+                  "meaning": "midst / middle (au milieu de: in the middle of)"
                 },
                 {
                   "word": "du",
@@ -19378,7 +19378,7 @@ export const carmenAct1: Act = {
                   "word": "bruit",
                   "lemma": "bruit",
                   "pos": "noun",
-                  "meaning": "bruit (French opera term)"
+                  "meaning": "noise / rumor / din"
                 },
                 {
                   "word": "c",
@@ -19408,7 +19408,7 @@ export const carmenAct1: Act = {
                   "word": "discussion",
                   "lemma": "discussion",
                   "pos": "noun",
-                  "meaning": "discussion (French opera term)"
+                  "meaning": "discussion / argument / dispute"
                 },
                 {
                   "word": "s",
@@ -19424,9 +19424,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "élevée",
-                  "lemma": "élevée",
-                  "pos": "noun",
-                  "meaning": "élevée (French opera term)"
+                  "lemma": "élever",
+                  "pos": "verb",
+                  "meaning": "raised / high / arisen (fem.)"
                 },
                 {
                   "word": "entre",
@@ -19448,9 +19448,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "dames",
-                  "lemma": "dames",
+                  "lemma": "dame",
                   "pos": "noun",
-                  "meaning": "dames (French opera term)"
+                  "meaning": "ladies"
                 },
                 {
                   "word": "et",
@@ -19480,7 +19480,7 @@ export const carmenAct1: Act = {
                   "word": "suite",
                   "lemma": "suite",
                   "pos": "noun",
-                  "meaning": "suite (French opera term)"
+                  "meaning": "following / retinue (tout de suite: immediately)"
                 },
                 {
                   "word": "de",
@@ -19498,13 +19498,13 @@ export const carmenAct1: Act = {
                   "word": "discussion",
                   "lemma": "discussion",
                   "pos": "noun",
-                  "meaning": "discussion (French opera term)"
+                  "meaning": "discussion / argument / dispute"
                 },
                 {
                   "word": "mademoiselle",
                   "lemma": "mademoiselle",
                   "pos": "noun",
-                  "meaning": "mademoiselle (French opera term)"
+                  "meaning": "miss / young lady"
                 },
                 {
                   "word": "avec",
@@ -19552,7 +19552,7 @@ export const carmenAct1: Act = {
                   "word": "bout",
                   "lemma": "bout",
                   "pos": "noun",
-                  "meaning": "bout (French opera term)"
+                  "meaning": "end / tip (au bout: at the end)"
                 },
                 {
                   "word": "des",
@@ -19574,9 +19574,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "commencé",
-                  "lemma": "commencé",
+                  "lemma": "commencer",
                   "pos": "verb",
-                  "meaning": "commencé (French opera term)"
+                  "meaning": "begun / started"
                 },
                 {
                   "word": "à",
@@ -19588,7 +19588,7 @@ export const carmenAct1: Act = {
                   "word": "dessiner",
                   "lemma": "dessiner",
                   "pos": "verb",
-                  "meaning": "dessiner (French opera term)"
+                  "meaning": "to draw / design"
                 },
                 {
                   "word": "des",
@@ -19600,7 +19600,7 @@ export const carmenAct1: Act = {
                   "word": "croix",
                   "lemma": "croix",
                   "pos": "noun",
-                  "meaning": "croix (French opera term)"
+                  "meaning": "cross"
                 },
                 {
                   "word": "de",
@@ -19667,7 +19667,7 @@ export const carmenAct1: Act = {
                   "word": "cas",
                   "lemma": "cas",
                   "pos": "noun",
-                  "meaning": "cas (French opera term)"
+                  "meaning": "case / instance"
                 },
                 {
                   "word": "m",
@@ -19683,15 +19683,15 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "paru",
-                  "lemma": "paru",
-                  "pos": "noun",
-                  "meaning": "paru (French opera term)"
+                  "lemma": "paraître",
+                  "pos": "verb",
+                  "meaning": "appeared / seemed"
                 },
                 {
                   "word": "clair",
                   "lemma": "clair",
-                  "pos": "verb",
-                  "meaning": "clair (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "clear / bright / plain"
                 },
                 {
                   "word": "J",
@@ -19715,7 +19715,7 @@ export const carmenAct1: Act = {
                   "word": "mademoiselle",
                   "lemma": "mademoiselle",
                   "pos": "noun",
-                  "meaning": "mademoiselle (French opera term)"
+                  "meaning": "miss / young lady"
                 },
                 {
                   "word": "de",
@@ -19757,7 +19757,7 @@ export const carmenAct1: Act = {
                   "word": "abord",
                   "lemma": "abord",
                   "pos": "noun",
-                  "meaning": "abord (French opera term)"
+                  "meaning": "first / approach (d'abord: at first)"
                 },
                 {
                   "word": "fait",
@@ -19775,7 +19775,7 @@ export const carmenAct1: Act = {
                   "word": "mouvement",
                   "lemma": "mouvement",
                   "pos": "noun",
-                  "meaning": "mouvement (French opera term)"
+                  "meaning": "movement / motion"
                 },
                 {
                   "word": "comme",
@@ -19793,7 +19793,7 @@ export const carmenAct1: Act = {
                   "word": "résister",
                   "lemma": "résister",
                   "pos": "verb",
-                  "meaning": "résister (French opera term)"
+                  "meaning": "to resist / withstand"
                 },
                 {
                   "word": "puis",
@@ -19821,9 +19821,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "résignée",
-                  "lemma": "résignée",
-                  "pos": "noun",
-                  "meaning": "résignée (French opera term)"
+                  "lemma": "résigné",
+                  "pos": "adjective",
+                  "meaning": "resigned (fem.)"
                 },
                 {
                   "word": "et",
@@ -19845,9 +19845,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "suivi",
-                  "lemma": "suivi",
-                  "pos": "noun",
-                  "meaning": "suivi (French opera term)"
+                  "lemma": "suivre",
+                  "pos": "verb",
+                  "meaning": "followed"
                 },
                 {
                   "word": "douce",
@@ -19871,7 +19871,7 @@ export const carmenAct1: Act = {
                   "word": "mouton",
                   "lemma": "mouton",
                   "pos": "noun",
-                  "meaning": "mouton (French opera term)"
+                  "meaning": "sheep / lamb"
                 }
               ]
             }
@@ -19903,8 +19903,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "blessure",
                   "lemma": "blessure",
-                  "pos": "verb",
-                  "meaning": "blessure (French opera term)"
+                  "pos": "noun",
+                  "meaning": "wound / injury"
                 },
                 {
                   "word": "de",
@@ -19975,9 +19975,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "balafres",
-                  "lemma": "balafres",
+                  "lemma": "balafre",
                   "pos": "noun",
-                  "meaning": "balafres (French opera term)"
+                  "meaning": "slashes / scars / gashes"
                 },
                 {
                   "word": "à",
@@ -20001,7 +20001,7 @@ export const carmenAct1: Act = {
                   "word": "peau",
                   "lemma": "peau",
                   "pos": "noun",
-                  "meaning": "peau (French opera term)"
+                  "meaning": "skin / hide"
                 }
               ]
             }
@@ -20105,7 +20105,7 @@ export const carmenAct1: Act = {
                   "word": "besoin",
                   "lemma": "besoin",
                   "pos": "noun",
-                  "meaning": "besoin (French opera term)"
+                  "meaning": "need (avoir besoin: to need)"
                 },
                 {
                   "word": "de",
@@ -20158,8 +20158,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "vérité",
                   "lemma": "vérité",
-                  "pos": "verb",
-                  "meaning": "vérité (French opera term)"
+                  "pos": "noun",
+                  "meaning": "truth"
                 }
               ]
             }
@@ -20180,7 +20180,7 @@ export const carmenAct1: Act = {
                   "word": "Foi",
                   "lemma": "foi",
                   "pos": "noun",
-                  "meaning": "foi (French opera term)"
+                  "meaning": "faith / trust (ma foi: my faith)"
                 },
                 {
                   "word": "de",
@@ -20191,8 +20191,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "Navarrais",
                   "lemma": "navarrais",
-                  "pos": "verb",
-                  "meaning": "navarrais (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "Navarrese / from Navarre"
                 },
                 {
                   "word": "mon",
@@ -20385,7 +20385,7 @@ export const carmenAct1: Act = {
                   "word": "feu",
                   "lemma": "feu",
                   "pos": "noun",
-                  "meaning": "feu (French opera term)"
+                  "meaning": "fire / light"
                 },
                 {
                   "word": "le",
@@ -20396,8 +20396,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "fer",
                   "lemma": "fer",
-                  "pos": "verb",
-                  "meaning": "fer (French opera term)"
+                  "pos": "noun",
+                  "meaning": "iron / sword / blade"
                 },
                 {
                   "word": "et",
@@ -20521,7 +20521,7 @@ export const carmenAct1: Act = {
                   "word": "réponse",
                   "lemma": "réponse",
                   "pos": "noun",
-                  "meaning": "réponse (French opera term)"
+                  "meaning": "answer / reply"
                 }
               ]
             }
@@ -20546,7 +20546,7 @@ export const carmenAct1: Act = {
                   "word": "secret",
                   "lemma": "secret",
                   "pos": "noun",
-                  "meaning": "secret (French opera term)"
+                  "meaning": "secret"
                 },
                 {
                   "word": "je",
@@ -20772,8 +20772,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "sûr",
                   "lemma": "sûr",
-                  "pos": "noun",
-                  "meaning": "sûr (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "sure / certain / safe"
                 },
                 {
                   "word": "n",
@@ -20843,9 +20843,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "coups",
-                  "lemma": "coups",
+                  "lemma": "coup",
                   "pos": "noun",
-                  "meaning": "coups (French opera term)"
+                  "meaning": "blows / shots / strikes"
                 },
                 {
                   "word": "de",
@@ -20959,14 +20959,14 @@ export const carmenAct1: Act = {
                 {
                   "word": "leste",
                   "lemma": "leste",
-                  "pos": "noun",
-                  "meaning": "leste (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "nimble / quick / agile"
                 },
                 {
                   "word": "décidément",
                   "lemma": "décidément",
-                  "pos": "noun",
-                  "meaning": "décidément (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "decidedly / definitely"
                 }
               ]
             },
@@ -21011,8 +21011,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "Voilà",
                   "lemma": "voilà",
-                  "pos": "noun",
-                  "meaning": "voilà (French opera term)"
+                  "pos": "preposition",
+                  "meaning": "there is / behold / there comes"
                 },
                 {
                   "word": "mon",
@@ -21106,7 +21106,7 @@ export const carmenAct1: Act = {
                   "word": "dommage",
                   "lemma": "dommage",
                   "pos": "noun",
-                  "meaning": "dommage (French opera term)"
+                  "meaning": "pity / shame / damage (c'est dommage: it's a pity)"
                 },
                 {
                   "word": "vraiment",
@@ -21134,9 +21134,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "gentille",
-                  "lemma": "gentille",
-                  "pos": "noun",
-                  "meaning": "gentille (French opera term)"
+                  "lemma": "gentil",
+                  "pos": "adjective",
+                  "meaning": "pretty / sweet / gentle (fem.)"
                 },
                 {
                   "word": "Mais",
@@ -21152,9 +21152,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "gentille",
-                  "lemma": "gentille",
-                  "pos": "noun",
-                  "meaning": "gentille (French opera term)"
+                  "lemma": "gentil",
+                  "pos": "adjective",
+                  "meaning": "pretty / sweet / gentle (fem.)"
                 },
                 {
                   "word": "que",
@@ -21207,8 +21207,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "moins",
                   "lemma": "moins",
-                  "pos": "noun",
-                  "meaning": "moins (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "less / least (au moins: at least)"
                 },
                 {
                   "word": "faire",
@@ -21226,7 +21226,7 @@ export const carmenAct1: Act = {
                   "word": "tour",
                   "lemma": "tour",
                   "pos": "noun",
-                  "meaning": "tour (French opera term)"
+                  "meaning": "turn / trick / tower (à tour de bras: with all one's might)"
                 },
                 {
                   "word": "à",
@@ -21254,9 +21254,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "pourrez",
-                  "lemma": "pourrez",
+                  "lemma": "pouvoir",
                   "pos": "verb",
-                  "meaning": "pourrez (French opera term)"
+                  "meaning": "will be able to / can"
                 },
                 {
                   "word": "y",
@@ -21371,7 +21371,7 @@ export const carmenAct1: Act = {
                   "word": "écrire",
                   "lemma": "écrire",
                   "pos": "verb",
-                  "meaning": "écrire (French opera term)"
+                  "meaning": "to write"
                 },
                 {
                   "word": "l",
@@ -21424,9 +21424,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "conduirez",
-                  "lemma": "conduirez",
+                  "lemma": "conduire",
                   "pos": "verb",
-                  "meaning": "conduirez (French opera term)"
+                  "meaning": "you will lead / conduct"
                 }
               ]
             }
@@ -21510,8 +21510,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "pauvre",
                   "lemma": "pauvre",
-                  "pos": "verb",
-                  "meaning": "pauvre (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "poor / wretched"
                 },
                 {
                   "word": "enfant",
@@ -21535,8 +21535,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "Hélas",
                   "lemma": "hélas",
-                  "pos": "noun",
-                  "meaning": "hélas (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "alas!"
                 },
                 {
                   "word": "que",
@@ -21554,7 +21554,7 @@ export const carmenAct1: Act = {
                   "word": "Seigneur",
                   "lemma": "seigneur",
                   "pos": "noun",
-                  "meaning": "seigneur (French opera term)"
+                  "meaning": "Lord / noble / master"
                 },
                 {
                   "word": "officier",
@@ -21571,8 +21571,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "pitié",
                   "lemma": "pitié",
-                  "pos": "verb",
-                  "meaning": "pitié (French opera term)"
+                  "pos": "noun",
+                  "meaning": "pity / mercy / compassion"
                 },
                 {
                   "word": "de",
@@ -21607,8 +21607,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "gentil",
                   "lemma": "gentil",
-                  "pos": "noun",
-                  "meaning": "gentil (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "pretty / nice / gentle"
                 }
               ]
             },
@@ -21655,9 +21655,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "serrée",
-                  "lemma": "serrée",
-                  "pos": "noun",
-                  "meaning": "serrée (French opera term)"
+                  "lemma": "serrer",
+                  "pos": "verb",
+                  "meaning": "tightened / clenched / squeezed (fem.)"
                 },
                 {
                   "word": "cette",
@@ -21691,9 +21691,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "poignets",
-                  "lemma": "poignets",
+                  "lemma": "poignet",
                   "pos": "noun",
-                  "meaning": "poignets (French opera term)"
+                  "meaning": "wrists / cuffs"
                 },
                 {
                   "word": "brisés",
@@ -21762,7 +21762,7 @@ export const carmenAct1: Act = {
                   "word": "desserrer",
                   "lemma": "desserrer",
                   "pos": "verb",
-                  "meaning": "desserrer (French opera term)"
+                  "meaning": "to loosen / unfasten / open"
                 },
                 {
                   "word": "Le",
@@ -21810,7 +21810,7 @@ export const carmenAct1: Act = {
                   "word": "attacher",
                   "lemma": "attacher",
                   "pos": "verb",
-                  "meaning": "attacher (French opera term)"
+                  "meaning": "to attach / bind / tie"
                 },
                 {
                   "word": "les",
@@ -21921,7 +21921,7 @@ export const carmenAct1: Act = {
                   "word": "morceau",
                   "lemma": "morceau",
                   "pos": "noun",
-                  "meaning": "morceau (French opera term)"
+                  "meaning": "piece / morsel / bit"
                 },
                 {
                   "word": "de",
@@ -21939,13 +21939,13 @@ export const carmenAct1: Act = {
                   "word": "bar",
                   "lemma": "bar",
                   "pos": "noun",
-                  "meaning": "bar (French opera term)"
+                  "meaning": "bar"
                 },
                 {
                   "word": "lachi",
                   "lemma": "lachi",
                   "pos": "noun",
-                  "meaning": "lachi (French opera term)"
+                  "meaning": "lucky / lodestone (bar lachi: loadstone)"
                 },
                 {
                   "word": "une",
@@ -21962,8 +21962,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "pierre",
                   "lemma": "pierre",
-                  "pos": "verb",
-                  "meaning": "pierre (French opera term)"
+                  "pos": "noun",
+                  "meaning": "stone / rock"
                 },
                 {
                   "word": "qui",
@@ -22078,9 +22078,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "balivernes",
-                  "lemma": "balivernes",
+                  "lemma": "baliverne",
                   "pos": "noun",
-                  "meaning": "balivernes (French opera term)"
+                  "meaning": "nonsense / idle talk"
                 },
                 {
                   "word": "Il",
@@ -22140,7 +22140,7 @@ export const carmenAct1: Act = {
                   "word": "consigne",
                   "lemma": "consigne",
                   "pos": "noun",
-                  "meaning": "consigne (French opera term)"
+                  "meaning": "orders / instructions"
                 },
                 {
                   "word": "et",
@@ -22188,7 +22188,7 @@ export const carmenAct1: Act = {
                   "word": "remède",
                   "lemma": "remède",
                   "pos": "noun",
-                  "meaning": "remède (French opera term)"
+                  "meaning": "remedy / cure"
                 }
               ]
             }
@@ -22251,7 +22251,7 @@ export const carmenAct1: Act = {
                   "word": "Foi",
                   "lemma": "foi",
                   "pos": "noun",
-                  "meaning": "foi (French opera term)"
+                  "meaning": "faith / trust (ma foi: my faith)"
                 },
                 {
                   "word": "de",
@@ -22262,8 +22262,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "Navarrais",
                   "lemma": "navarrais",
-                  "pos": "verb",
-                  "meaning": "navarrais (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "Navarrese / from Navarre"
                 },
                 {
                   "word": "vous",
@@ -22285,9 +22285,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "Provinces",
-                  "lemma": "provinces",
+                  "lemma": "province",
                   "pos": "noun",
-                  "meaning": "provinces (French opera term)"
+                  "meaning": "provinces"
                 }
               ]
             }
@@ -22322,9 +22322,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "Elizondo",
-                  "lemma": "elizondo",
+                  "lemma": "Elizondo",
                   "pos": "noun",
-                  "meaning": "elizondo (French opera term)"
+                  "meaning": "Elizondo (Basque town)"
                 }
               ]
             }
@@ -22360,9 +22360,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "Etchalar",
-                  "lemma": "etchalar",
+                  "lemma": "Etchalar",
                   "pos": "noun",
-                  "meaning": "etchalar (French opera term)"
+                  "meaning": "Etxalar (Basque town)"
                 }
               ]
             }
@@ -22385,9 +22385,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "Etchalar",
-                  "lemma": "etchalar",
+                  "lemma": "Etchalar",
                   "pos": "noun",
-                  "meaning": "etchalar (French opera term)"
+                  "meaning": "Etxalar (Basque town)"
                 },
                 {
                   "word": "c",
@@ -22427,15 +22427,15 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "Elizondo",
-                  "lemma": "elizondo",
+                  "lemma": "Elizondo",
                   "pos": "noun",
-                  "meaning": "elizondo (French opera term)"
+                  "meaning": "Elizondo (Basque town)"
                 },
                 {
                   "word": "Etchalar",
-                  "lemma": "etchalar",
+                  "lemma": "Etchalar",
                   "pos": "noun",
-                  "meaning": "etchalar (French opera term)"
+                  "meaning": "Etxalar (Basque town)"
                 }
               ]
             }
@@ -22496,9 +22496,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "née",
-                  "lemma": "née",
-                  "pos": "noun",
-                  "meaning": "née (French opera term)"
+                  "lemma": "naître",
+                  "pos": "verb",
+                  "meaning": "born (fem.)"
                 },
                 {
                   "word": "J",
@@ -22520,9 +22520,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "emmenée",
-                  "lemma": "emmenée",
-                  "pos": "noun",
-                  "meaning": "emmenée (French opera term)"
+                  "lemma": "emmener",
+                  "pos": "verb",
+                  "meaning": "taken away / led away (fem.)"
                 },
                 {
                   "word": "par",
@@ -22612,7 +22612,7 @@ export const carmenAct1: Act = {
                   "word": "retourner",
                   "lemma": "retourner",
                   "pos": "verb",
-                  "meaning": "retourner (French opera term)"
+                  "meaning": "to return / go back"
                 },
                 {
                   "word": "en",
@@ -22647,8 +22647,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "pauvre",
                   "lemma": "pauvre",
-                  "pos": "verb",
-                  "meaning": "pauvre (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "poor / wretched"
                 },
                 {
                   "word": "mère",
@@ -22696,7 +22696,7 @@ export const carmenAct1: Act = {
                   "word": "soutien",
                   "lemma": "soutien",
                   "pos": "noun",
-                  "meaning": "soutien (French opera term)"
+                  "meaning": "support / mainstay"
                 },
                 {
                   "word": "On",
@@ -22718,15 +22718,15 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "insultée",
-                  "lemma": "insultée",
-                  "pos": "noun",
-                  "meaning": "insultée (French opera term)"
+                  "lemma": "insulter",
+                  "pos": "verb",
+                  "meaning": "insulted (fem.)"
                 },
                 {
                   "word": "parce",
                   "lemma": "parce",
-                  "pos": "noun",
-                  "meaning": "parce (French opera term)"
+                  "pos": "conjunction",
+                  "meaning": "because (parce que: because)"
                 },
                 {
                   "word": "que",
@@ -22774,7 +22774,7 @@ export const carmenAct1: Act = {
                   "word": "pays",
                   "lemma": "pays",
                   "pos": "noun",
-                  "meaning": "pays (French opera term)"
+                  "meaning": "country / land / compatriot"
                 },
                 {
                   "word": "de",
@@ -22784,9 +22784,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "filous",
-                  "lemma": "filous",
+                  "lemma": "filou",
                   "pos": "noun",
-                  "meaning": "filous (French opera term)"
+                  "meaning": "pickpockets / scoundrels / rogues"
                 },
                 {
                   "word": "de",
@@ -22808,15 +22808,15 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "oranges",
-                  "lemma": "oranges",
+                  "lemma": "orange",
                   "pos": "noun",
-                  "meaning": "oranges (French opera term)"
+                  "meaning": "oranges"
                 },
                 {
                   "word": "pourries",
-                  "lemma": "pourries",
-                  "pos": "noun",
-                  "meaning": "pourries (French opera term)"
+                  "lemma": "pourrir",
+                  "pos": "verb",
+                  "meaning": "rotten / putrid (fem. pl.)"
                 },
                 {
                   "word": "et",
@@ -22832,9 +22832,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "coquines",
-                  "lemma": "coquines",
+                  "lemma": "coquin",
                   "pos": "noun",
-                  "meaning": "coquines (French opera term)"
+                  "meaning": "rogues / wenches / rascals (fem.)"
                 },
                 {
                   "word": "se",
@@ -22875,8 +22875,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "parce",
                   "lemma": "parce",
-                  "pos": "noun",
-                  "meaning": "parce (French opera term)"
+                  "pos": "conjunction",
+                  "meaning": "because (parce que: because)"
                 },
                 {
                   "word": "que",
@@ -22928,9 +22928,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "Jacques",
-                  "lemma": "jacques",
+                  "lemma": "Jacques",
                   "pos": "noun",
-                  "meaning": "jacques (French opera term)"
+                  "meaning": "James / Jacques (Maître Jacques)"
                 },
                 {
                   "word": "de",
@@ -22970,9 +22970,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "feraient",
-                  "lemma": "feraient",
-                  "pos": "noun",
-                  "meaning": "feraient (French opera term)"
+                  "lemma": "faire",
+                  "pos": "verb",
+                  "meaning": "would do / make"
                 },
                 {
                   "word": "pas",
@@ -22984,7 +22984,7 @@ export const carmenAct1: Act = {
                   "word": "peur",
                   "lemma": "peur",
                   "pos": "noun",
-                  "meaning": "peur (French opera term)"
+                  "meaning": "fear (avoir peur: to be afraid)"
                 },
                 {
                   "word": "à",
@@ -23002,7 +23002,7 @@ export const carmenAct1: Act = {
                   "word": "gars",
                   "lemma": "gars",
                   "pos": "noun",
-                  "meaning": "gars (French opera term)"
+                  "meaning": "lad / boy / fellow"
                 },
                 {
                   "word": "de",
@@ -23038,7 +23038,7 @@ export const carmenAct1: Act = {
                   "word": "béret",
                   "lemma": "béret",
                   "pos": "noun",
-                  "meaning": "béret (French opera term)"
+                  "meaning": "beret"
                 },
                 {
                   "word": "bleu",
@@ -23062,7 +23062,7 @@ export const carmenAct1: Act = {
                   "word": "maquila",
                   "lemma": "maquila",
                   "pos": "noun",
-                  "meaning": "maquila (French opera term)"
+                  "meaning": "makila (Basque walking stick)"
                 },
                 {
                   "word": "Camarade",
@@ -23116,7 +23116,7 @@ export const carmenAct1: Act = {
                   "word": "payse",
                   "lemma": "payse",
                   "pos": "noun",
-                  "meaning": "payse (French opera term)"
+                  "meaning": "compatriot / countrywoman"
                 }
               ]
             }
@@ -23145,9 +23145,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "Navarraise",
-                  "lemma": "navarraise",
-                  "pos": "noun",
-                  "meaning": "navarraise (French opera term)"
+                  "lemma": "navarrais",
+                  "pos": "adjective",
+                  "meaning": "Navarrese woman / Navarrese (fem.)"
                 },
                 {
                   "word": "vous",
@@ -23245,7 +23245,7 @@ export const carmenAct1: Act = {
                   "word": "mot",
                   "lemma": "mot",
                   "pos": "noun",
-                  "meaning": "mot (French opera term)"
+                  "meaning": "word"
                 },
                 {
                   "word": "de",
@@ -23287,7 +23287,7 @@ export const carmenAct1: Act = {
                   "word": "bouche",
                   "lemma": "bouche",
                   "pos": "noun",
-                  "meaning": "bouche (French opera term)"
+                  "meaning": "mouth"
                 },
                 {
                   "word": "votre",
@@ -23299,7 +23299,7 @@ export const carmenAct1: Act = {
                   "word": "teint",
                   "lemma": "teint",
                   "pos": "noun",
-                  "meaning": "teint (French opera term)"
+                  "meaning": "complexion / hue / dye"
                 },
                 {
                   "word": "Tout",
@@ -23390,8 +23390,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "sûr",
                   "lemma": "sûr",
-                  "pos": "noun",
-                  "meaning": "sûr (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "sure / certain / safe"
                 }
               ]
             }
@@ -23470,7 +23470,7 @@ export const carmenAct1: Act = {
                   "word": "peine",
                   "lemma": "peine",
                   "pos": "noun",
-                  "meaning": "peine (French opera term)"
+                  "meaning": "pain / trouble / sorrow (à peine: scarcely)"
                 },
                 {
                   "word": "de",
@@ -23482,7 +23482,7 @@ export const carmenAct1: Act = {
                   "word": "mentir",
                   "lemma": "mentir",
                   "pos": "verb",
-                  "meaning": "mentir (French opera term)"
+                  "meaning": "to lie / tell untruths"
                 },
                 {
                   "word": "Oui",
@@ -23541,8 +23541,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "moins",
                   "lemma": "moins",
-                  "pos": "noun",
-                  "meaning": "moins (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "less / least (au moins: at least)"
                 },
                 {
                   "word": "ce",
@@ -23595,8 +23595,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "parce",
                   "lemma": "parce",
-                  "pos": "noun",
-                  "meaning": "parce (French opera term)"
+                  "pos": "conjunction",
+                  "meaning": "because (parce que: because)"
                 },
                 {
                   "word": "que",
@@ -23734,9 +23734,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "connais",
-                  "lemma": "connais",
+                  "lemma": "connaître",
                   "pos": "verb",
-                  "meaning": "connais (French opera term)"
+                  "meaning": "know / am acquainted with"
                 },
                 {
                   "word": "tes",
@@ -23760,7 +23760,7 @@ export const carmenAct1: Act = {
                   "word": "façon",
                   "lemma": "façon",
                   "pos": "noun",
-                  "meaning": "façon (French opera term)"
+                  "meaning": "way / manner (de façon: so as to)"
                 },
                 {
                   "word": "dont",
@@ -23958,7 +23958,7 @@ export const carmenAct1: Act = {
                   "word": "charme",
                   "lemma": "charme",
                   "pos": "noun",
-                  "meaning": "charme (French opera term)"
+                  "meaning": "charm / spell / attraction"
                 },
                 {
                   "word": "a",
@@ -23968,9 +23968,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "opéré",
-                  "lemma": "opéré",
+                  "lemma": "opérer",
                   "pos": "verb",
-                  "meaning": "opéré (French opera term)"
+                  "meaning": "operated / worked / effected"
                 }
               ]
             }
@@ -24035,9 +24035,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "défends",
-                  "lemma": "défends",
-                  "pos": "noun",
-                  "meaning": "défends (French opera term)"
+                  "lemma": "défendre",
+                  "pos": "verb",
+                  "meaning": "defend / forbid"
                 },
                 {
                   "word": "de",
@@ -24100,7 +24100,7 @@ export const carmenAct1: Act = {
                   "word": "seigneur",
                   "lemma": "seigneur",
                   "pos": "noun",
-                  "meaning": "seigneur (French opera term)"
+                  "meaning": "Lord / noble / master"
                 },
                 {
                   "word": "officier",
@@ -24146,9 +24146,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "défendez",
-                  "lemma": "défendez",
+                  "lemma": "défendre",
                   "pos": "verb",
-                  "meaning": "défendez (French opera term)"
+                  "meaning": "defend / forbid"
                 },
                 {
                   "word": "de",
@@ -24215,9 +24215,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "remparts",
-                  "lemma": "remparts",
+                  "lemma": "rempart",
                   "pos": "noun",
-                  "meaning": "remparts (French opera term)"
+                  "meaning": "ramparts / walls"
                 },
                 {
                   "word": "de",
@@ -24303,7 +24303,7 @@ export const carmenAct1: Act = {
                   "word": "séguedille",
                   "lemma": "séguedille",
                   "pos": "noun",
-                  "meaning": "séguedille (French opera term)"
+                  "meaning": "seguidilla (Spanish song and dance)"
                 }
               ]
             },
@@ -24381,9 +24381,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "ennuie",
-                  "lemma": "ennuie",
-                  "pos": "noun",
-                  "meaning": "ennuie (French opera term)"
+                  "lemma": "ennuyer",
+                  "pos": "verb",
+                  "meaning": "bores / annoys / troubles"
                 }
               ]
             },
@@ -24413,8 +24413,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "plaisir",
                   "lemma": "plaisir",
-                  "pos": "verb",
-                  "meaning": "plaisir (French opera term)"
+                  "pos": "noun",
+                  "meaning": "pleasure / delight"
                 },
                 {
                   "word": "sont",
@@ -24469,7 +24469,7 @@ export const carmenAct1: Act = {
                   "word": "compagnie",
                   "lemma": "compagnie",
                   "pos": "noun",
-                  "meaning": "compagnie (French opera term)"
+                  "meaning": "company"
                 }
               ]
             },
@@ -24486,9 +24486,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "emmènerai",
-                  "lemma": "emmènerai",
-                  "pos": "noun",
-                  "meaning": "emmènerai (French opera term)"
+                  "lemma": "emmener",
+                  "pos": "verb",
+                  "meaning": "shall take away / lead away"
                 },
                 {
                   "word": "mon",
@@ -24616,8 +24616,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "pauvre",
                   "lemma": "pauvre",
-                  "pos": "verb",
-                  "meaning": "pauvre (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "poor / wretched"
                 },
                 {
                   "word": "cœur",
@@ -24634,8 +24634,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "consolable",
                   "lemma": "consolable",
-                  "pos": "noun",
-                  "meaning": "consolable (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "consolable"
                 }
               ]
             },
@@ -24713,9 +24713,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "galants",
-                  "lemma": "galants",
+                  "lemma": "galant",
                   "pos": "noun",
-                  "meaning": "galants (French opera term)"
+                  "meaning": "suitors / gallants (pl.)"
                 },
                 {
                   "word": "à",
@@ -24733,7 +24733,7 @@ export const carmenAct1: Act = {
                   "word": "douzaine",
                   "lemma": "douzaine",
                   "pos": "noun",
-                  "meaning": "douzaine (French opera term)"
+                  "meaning": "dozen"
                 }
               ]
             },
@@ -24787,8 +24787,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "gré",
                   "lemma": "gré",
-                  "pos": "verb",
-                  "meaning": "gré (French opera term)"
+                  "pos": "noun",
+                  "meaning": "will / liking (bon gré, mal gré: willy-nilly)"
                 }
               ]
             },
@@ -24800,8 +24800,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "Voici",
                   "lemma": "voici",
-                  "pos": "noun",
-                  "meaning": "voici (French opera term)"
+                  "pos": "preposition",
+                  "meaning": "here is / behold / here comes"
                 },
                 {
                   "word": "la",
@@ -24813,7 +24813,7 @@ export const carmenAct1: Act = {
                   "word": "fin",
                   "lemma": "fin",
                   "pos": "noun",
-                  "meaning": "fin (French opera term)"
+                  "meaning": "end / fine"
                 },
                 {
                   "word": "de",
@@ -24831,7 +24831,7 @@ export const carmenAct1: Act = {
                   "word": "semaine",
                   "lemma": "semaine",
                   "pos": "noun",
-                  "meaning": "semaine (French opera term)"
+                  "meaning": "week"
                 }
               ]
             },
@@ -25002,8 +25002,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "guère",
                   "lemma": "guère",
-                  "pos": "verb",
-                  "meaning": "guère (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "scarcely / hardly / little (ne... guère)"
                 },
                 {
                   "word": "le",
@@ -25056,9 +25056,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "nouvel",
-                  "lemma": "nouvel",
-                  "pos": "noun",
-                  "meaning": "nouvel (French opera term)"
+                  "lemma": "nouveau",
+                  "pos": "adjective",
+                  "meaning": "new (before vowel)"
                 },
                 {
                   "word": "amant",
@@ -25181,7 +25181,7 @@ export const carmenAct1: Act = {
                   "word": "séguedille",
                   "lemma": "séguedille",
                   "pos": "noun",
-                  "meaning": "séguedille (French opera term)"
+                  "meaning": "seguidilla (Spanish song and dance)"
                 }
               ]
             },
@@ -25405,9 +25405,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "défendu",
-                  "lemma": "défendu",
-                  "pos": "noun",
-                  "meaning": "défendu (French opera term)"
+                  "lemma": "défendre",
+                  "pos": "verb",
+                  "meaning": "defended / forbidden"
                 },
                 {
                   "word": "de",
@@ -25449,8 +25449,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "certain",
                   "lemma": "certain",
-                  "pos": "noun",
-                  "meaning": "certain (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "certain / sure"
                 },
                 {
                   "word": "officier",
@@ -25474,8 +25474,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "certain",
                   "lemma": "certain",
-                  "pos": "noun",
-                  "meaning": "certain (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "certain / sure"
                 },
                 {
                   "word": "officier",
@@ -25779,9 +25779,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "daigne",
-                  "lemma": "daigne",
-                  "pos": "noun",
-                  "meaning": "daigne (French opera term)"
+                  "lemma": "daigner",
+                  "pos": "verb",
+                  "meaning": "deigns / condescend"
                 },
                 {
                   "word": "m",
@@ -25799,7 +25799,7 @@ export const carmenAct1: Act = {
                   "word": "contenter",
                   "lemma": "contenter",
                   "pos": "verb",
-                  "meaning": "contenter (French opera term)"
+                  "meaning": "to satisfy / please / content"
                 }
               ]
             }
@@ -25853,8 +25853,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "ivre",
                   "lemma": "ivre",
-                  "pos": "verb",
-                  "meaning": "ivre (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "drunk / intoxicated"
                 }
               ]
             },
@@ -25877,9 +25877,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "cède",
-                  "lemma": "cède",
-                  "pos": "noun",
-                  "meaning": "cède (French opera term)"
+                  "lemma": "céder",
+                  "pos": "verb",
+                  "meaning": "yields / yield / give in"
                 },
                 {
                   "word": "si",
@@ -25902,8 +25902,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "livre",
                   "lemma": "livre",
-                  "pos": "verb",
-                  "meaning": "livre (French opera term)"
+                  "pos": "noun",
+                  "meaning": "book / pound"
                 }
               ]
             },
@@ -25922,7 +25922,7 @@ export const carmenAct1: Act = {
                   "word": "promesse",
                   "lemma": "promesse",
                   "pos": "noun",
-                  "meaning": "promesse (French opera term)"
+                  "meaning": "promise / pledge"
                 },
                 {
                   "word": "tu",
@@ -26108,7 +26108,7 @@ export const carmenAct1: Act = {
                   "word": "séguedille",
                   "lemma": "séguedille",
                   "pos": "noun",
-                  "meaning": "séguedille (French opera term)"
+                  "meaning": "seguidilla (Spanish song and dance)"
                 }
               ]
             },
@@ -26125,9 +26125,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "boirons",
-                  "lemma": "boirons",
+                  "lemma": "boire",
                   "pos": "verb",
-                  "meaning": "boirons (French opera term)"
+                  "meaning": "we shall drink"
                 },
                 {
                   "word": "du",
@@ -26207,8 +26207,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "Voici",
                   "lemma": "voici",
-                  "pos": "noun",
-                  "meaning": "voici (French opera term)"
+                  "pos": "preposition",
+                  "meaning": "here is / behold / here comes"
                 },
                 {
                   "word": "l",
@@ -26280,8 +26280,8 @@ export const carmenAct1: Act = {
                 {
                   "word": "pont",
                   "lemma": "pont",
-                  "pos": "verb",
-                  "meaning": "pont (French opera term)"
+                  "pos": "noun",
+                  "meaning": "bridge / deck"
                 },
                 {
                   "word": "je",
@@ -26297,9 +26297,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "pousserai",
-                  "lemma": "pousserai",
-                  "pos": "noun",
-                  "meaning": "pousserai (French opera term)"
+                  "lemma": "pousser",
+                  "pos": "verb",
+                  "meaning": "shall push / utter / drive"
                 }
               ]
             },
@@ -26311,14 +26311,14 @@ export const carmenAct1: Act = {
                 {
                   "word": "Aussi",
                   "lemma": "aussi",
-                  "pos": "noun",
-                  "meaning": "aussi (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "also / as well / too"
                 },
                 {
                   "word": "fort",
                   "lemma": "fort",
-                  "pos": "noun",
-                  "meaning": "fort (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "strong / loud / very"
                 },
                 {
                   "word": "que",
@@ -26361,7 +26361,7 @@ export const carmenAct1: Act = {
                   "word": "renverser",
                   "lemma": "renverser",
                   "pos": "verb",
-                  "meaning": "renverser (French opera term)"
+                  "meaning": "to overthrow / knock down / overturn"
                 },
                 {
                   "word": "le",
@@ -26463,9 +26463,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "connu",
-                  "lemma": "connu",
-                  "pos": "noun",
-                  "meaning": "connu (French opera term)"
+                  "lemma": "connaître",
+                  "pos": "verb",
+                  "meaning": "known"
                 },
                 {
                   "word": "de",

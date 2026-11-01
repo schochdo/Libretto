@@ -16447,5381 +16447,5381 @@
   "abord": {
     "lemma": "abord",
     "pos": "noun",
-    "meaning": "abord (French opera term)"
+    "meaning": "first / approach (d'abord: at first)"
   },
   "absent": {
     "lemma": "absent",
-    "pos": "noun",
-    "meaning": "absent (French opera term)"
+    "pos": "adjective",
+    "meaning": "absent / away"
   },
   "accepté": {
-    "lemma": "accepté",
+    "lemma": "accepter",
     "pos": "verb",
-    "meaning": "accepté (French opera term)"
+    "meaning": "accepted"
   },
   "acclame": {
-    "lemma": "acclame",
-    "pos": "noun",
-    "meaning": "acclame (French opera term)"
+    "lemma": "acclamer",
+    "pos": "verb",
+    "meaning": "acclaim / cheer"
   },
   "accompagne": {
-    "lemma": "accompagne",
-    "pos": "noun",
-    "meaning": "accompagne (French opera term)"
+    "lemma": "accompagner",
+    "pos": "verb",
+    "meaning": "accompanies / accompanies"
   },
   "accompagner": {
     "lemma": "accompagner",
     "pos": "verb",
-    "meaning": "accompagner (French opera term)"
+    "meaning": "to accompany / escort"
   },
   "accueille": {
-    "lemma": "accueille",
-    "pos": "noun",
-    "meaning": "accueille (French opera term)"
+    "lemma": "accueillir",
+    "pos": "verb",
+    "meaning": "welcomes / receives"
   },
   "accusais": {
-    "lemma": "accusais",
+    "lemma": "accuser",
     "pos": "verb",
-    "meaning": "accusais (French opera term)"
+    "meaning": "was accusing / blamed"
   },
   "achats": {
-    "lemma": "achats",
+    "lemma": "achat",
     "pos": "noun",
-    "meaning": "achats (French opera term)"
+    "meaning": "purchases / shopping"
   },
   "achèterait": {
-    "lemma": "achèterait",
+    "lemma": "acheter",
     "pos": "verb",
-    "meaning": "achèterait (French opera term)"
+    "meaning": "would buy"
   },
   "adieu": {
     "lemma": "adieu",
     "pos": "noun",
-    "meaning": "adieu (French opera term)"
+    "meaning": "farewell / goodbye"
   },
   "adieux": {
-    "lemma": "adieux",
+    "lemma": "adieu",
     "pos": "noun",
-    "meaning": "adieux (French opera term)"
+    "meaning": "farewells / goodbyes"
   },
   "admets": {
-    "lemma": "admets",
-    "pos": "noun",
-    "meaning": "admets (French opera term)"
+    "lemma": "admettre",
+    "pos": "verb",
+    "meaning": "admit / acknowledge"
   },
   "admettre": {
     "lemma": "admettre",
     "pos": "verb",
-    "meaning": "admettre (French opera term)"
+    "meaning": "to admit / accept"
   },
   "admirable": {
     "lemma": "admirable",
-    "pos": "noun",
-    "meaning": "admirable (French opera term)"
+    "pos": "adjective",
+    "meaning": "admirable / wonderful"
   },
   "adresse": {
-    "lemma": "adresse",
-    "pos": "noun",
-    "meaning": "adresse (French opera term)"
+    "lemma": "adresser",
+    "pos": "verb",
+    "meaning": "address / send"
   },
   "adversaire": {
     "lemma": "adversaire",
-    "pos": "verb",
-    "meaning": "adversaire (French opera term)"
+    "pos": "noun",
+    "meaning": "adversary / opponent"
   },
   "affaire": {
     "lemma": "affaire",
-    "pos": "verb",
-    "meaning": "affaire (French opera term)"
+    "pos": "noun",
+    "meaning": "matter / business / affair"
   },
   "affaires": {
-    "lemma": "affaires",
+    "lemma": "affaire",
     "pos": "noun",
-    "meaning": "affaires (French opera term)"
+    "meaning": "business / affairs / belongings"
   },
   "affiler": {
     "lemma": "affiler",
     "pos": "verb",
-    "meaning": "affiler (French opera term)"
+    "meaning": "to sharpen / whet"
   },
   "affronter": {
     "lemma": "affronter",
     "pos": "verb",
-    "meaning": "affronter (French opera term)"
+    "meaning": "to face / brave / confront"
   },
   "agit": {
-    "lemma": "agit",
-    "pos": "noun",
-    "meaning": "agit (French opera term)"
+    "lemma": "agir",
+    "pos": "verb",
+    "meaning": "acts / is about"
   },
   "agréable": {
     "lemma": "agréable",
-    "pos": "noun",
-    "meaning": "agréable (French opera term)"
+    "pos": "adjective",
+    "meaning": "pleasant / agreeable"
   },
   "aide": {
-    "lemma": "aide",
-    "pos": "noun",
-    "meaning": "aide (French opera term)"
+    "lemma": "aider",
+    "pos": "verb",
+    "meaning": "help / assist"
   },
   "aider": {
     "lemma": "aider",
     "pos": "verb",
-    "meaning": "aider (French opera term)"
+    "meaning": "to help / assist"
   },
   "aile": {
     "lemma": "aile",
     "pos": "noun",
-    "meaning": "aile (French opera term)"
+    "meaning": "wing"
   },
   "aise": {
     "lemma": "aise",
     "pos": "noun",
-    "meaning": "aise (French opera term)"
+    "meaning": "ease / glad / pleased"
   },
   "ajouter": {
     "lemma": "ajouter",
     "pos": "verb",
-    "meaning": "ajouter (French opera term)"
+    "meaning": "to add"
   },
   "ajuste": {
-    "lemma": "ajuste",
-    "pos": "noun",
-    "meaning": "ajuste (French opera term)"
+    "lemma": "ajuster",
+    "pos": "verb",
+    "meaning": "aims / adjusts"
   },
   "alava": {
-    "lemma": "alava",
+    "lemma": "Alava",
     "pos": "noun",
-    "meaning": "alava (French opera term)"
+    "meaning": "Álava (Basque province)"
   },
   "alcade": {
     "lemma": "alcade",
     "pos": "noun",
-    "meaning": "alcade (French opera term)"
+    "meaning": "alcalde / magistrate / mayor"
   },
   "alguazil": {
     "lemma": "alguazil",
     "pos": "noun",
-    "meaning": "alguazil (French opera term)"
+    "meaning": "alguacil / constable / officer"
   },
   "allaient": {
-    "lemma": "allaient",
-    "pos": "noun",
-    "meaning": "allaient (French opera term)"
+    "lemma": "aller",
+    "pos": "verb",
+    "meaning": "were going / went"
   },
   "almanza": {
-    "lemma": "almanza",
+    "lemma": "Almanza",
     "pos": "noun",
-    "meaning": "almanza (French opera term)"
+    "meaning": "Almanza (cavalry regiment)"
   },
   "amitié": {
     "lemma": "amitié",
-    "pos": "verb",
-    "meaning": "amitié (French opera term)"
+    "pos": "noun",
+    "meaning": "friendship / affection"
   },
   "amuser": {
     "lemma": "amuser",
     "pos": "verb",
-    "meaning": "amuser (French opera term)"
+    "meaning": "to amuse / entertain"
   },
   "amères": {
-    "lemma": "amères",
-    "pos": "noun",
-    "meaning": "amères (French opera term)"
+    "lemma": "amer",
+    "pos": "adjective",
+    "meaning": "bitter"
   },
   "ancien": {
     "lemma": "ancien",
-    "pos": "noun",
-    "meaning": "ancien (French opera term)"
+    "pos": "adjective",
+    "meaning": "former / old / ancient"
   },
   "andalouses": {
-    "lemma": "andalouses",
-    "pos": "noun",
-    "meaning": "andalouses (French opera term)"
+    "lemma": "andalou",
+    "pos": "adjective",
+    "meaning": "Andalusian"
   },
   "andré": {
-    "lemma": "andré",
-    "pos": "verb",
-    "meaning": "andré (French opera term)"
+    "lemma": "André",
+    "pos": "noun",
+    "meaning": "Andrew (Saint-André)"
   },
   "anglais": {
     "lemma": "anglais",
-    "pos": "verb",
-    "meaning": "anglais (French opera term)"
+    "pos": "adjective",
+    "meaning": "English / Englishman"
   },
   "anglaises": {
-    "lemma": "anglaises",
-    "pos": "noun",
-    "meaning": "anglaises (French opera term)"
+    "lemma": "anglais",
+    "pos": "adjective",
+    "meaning": "English"
   },
   "annonçant": {
-    "lemma": "annonçant",
+    "lemma": "annoncer",
     "pos": "verb",
-    "meaning": "annonçant (French opera term)"
+    "meaning": "announcing / proclaiming"
   },
   "ans": {
-    "lemma": "ans",
+    "lemma": "an",
     "pos": "noun",
-    "meaning": "ans (French opera term)"
+    "meaning": "years"
   },
   "apercevait": {
-    "lemma": "apercevait",
+    "lemma": "apercevoir",
     "pos": "verb",
-    "meaning": "apercevait (French opera term)"
+    "meaning": "perceived / noticed / glimpsed"
   },
   "apercevra": {
-    "lemma": "apercevra",
-    "pos": "noun",
-    "meaning": "apercevra (French opera term)"
+    "lemma": "apercevoir",
+    "pos": "verb",
+    "meaning": "will perceive / notice"
   },
   "apercevrais": {
-    "lemma": "apercevrais",
+    "lemma": "apercevoir",
     "pos": "verb",
-    "meaning": "apercevrais (French opera term)"
+    "meaning": "would perceive / notice"
   },
   "aperçu": {
-    "lemma": "aperçu",
-    "pos": "noun",
-    "meaning": "aperçu (French opera term)"
+    "lemma": "apercevoir",
+    "pos": "verb",
+    "meaning": "perceived / caught sight of"
   },
   "apostrophes": {
-    "lemma": "apostrophes",
+    "lemma": "apostrophe",
     "pos": "noun",
-    "meaning": "apostrophes (French opera term)"
+    "meaning": "apostrophes / sharp remarks"
   },
   "appel": {
     "lemma": "appel",
     "pos": "noun",
-    "meaning": "appel (French opera term)"
+    "meaning": "call / roll call / appeal"
   },
   "appelle": {
-    "lemma": "appelle",
-    "pos": "noun",
-    "meaning": "appelle (French opera term)"
+    "lemma": "appeler",
+    "pos": "verb",
+    "meaning": "calls / call / name"
   },
   "appliquer": {
     "lemma": "appliquer",
     "pos": "verb",
-    "meaning": "appliquer (French opera term)"
+    "meaning": "to apply / administer"
   },
   "apporte": {
-    "lemma": "apporte",
-    "pos": "noun",
-    "meaning": "apporte (French opera term)"
+    "lemma": "apporter",
+    "pos": "verb",
+    "meaning": "brings / bring"
   },
   "apporter": {
     "lemma": "apporter",
     "pos": "verb",
-    "meaning": "apporter (French opera term)"
+    "meaning": "to bring"
   },
   "apprivoiser": {
     "lemma": "apprivoiser",
     "pos": "verb",
-    "meaning": "apprivoiser (French opera term)"
+    "meaning": "to tame / domesticate"
   },
   "ardentes": {
-    "lemma": "ardentes",
-    "pos": "noun",
-    "meaning": "ardentes (French opera term)"
+    "lemma": "ardent",
+    "pos": "adjective",
+    "meaning": "ardent / burning / fiery"
   },
   "argument": {
     "lemma": "argument",
     "pos": "noun",
-    "meaning": "argument (French opera term)"
+    "meaning": "argument / reason"
   },
   "arme": {
     "lemma": "arme",
     "pos": "noun",
-    "meaning": "arme (French opera term)"
+    "meaning": "weapon / arm"
   },
   "arrangé": {
-    "lemma": "arrangé",
+    "lemma": "arranger",
     "pos": "verb",
-    "meaning": "arrangé (French opera term)"
+    "meaning": "arranged / settled"
   },
   "arrière": {
     "lemma": "arrière",
-    "pos": "verb",
-    "meaning": "arrière (French opera term)"
+    "pos": "adverb",
+    "meaning": "back / behind (en arrière: back)"
   },
   "art": {
     "lemma": "art",
     "pos": "noun",
-    "meaning": "art (French opera term)"
+    "meaning": "art / skill"
   },
   "artifices": {
-    "lemma": "artifices",
+    "lemma": "artifice",
     "pos": "noun",
-    "meaning": "artifices (French opera term)"
+    "meaning": "artifices / tricks / devices"
   },
   "assure": {
-    "lemma": "assure",
+    "lemma": "assurer",
     "pos": "verb",
-    "meaning": "assure (French opera term)"
+    "meaning": "assures / assure"
   },
   "assurer": {
     "lemma": "assurer",
     "pos": "verb",
-    "meaning": "assurer (French opera term)"
+    "meaning": "to assure / ensure"
   },
   "attacher": {
     "lemma": "attacher",
     "pos": "verb",
-    "meaning": "attacher (French opera term)"
+    "meaning": "to attach / bind / tie"
   },
   "attachez": {
-    "lemma": "attachez",
+    "lemma": "attacher",
     "pos": "verb",
-    "meaning": "attachez (French opera term)"
+    "meaning": "attach / tie / bind"
   },
   "attendant": {
-    "lemma": "attendant",
+    "lemma": "attendre",
     "pos": "verb",
-    "meaning": "attendant (French opera term)"
+    "meaning": "waiting (en attendant: meanwhile)"
   },
   "attendrir": {
     "lemma": "attendrir",
     "pos": "verb",
-    "meaning": "attendrir (French opera term)"
+    "meaning": "to soften / touch / move to pity"
   },
   "attention": {
     "lemma": "attention",
     "pos": "noun",
-    "meaning": "attention (French opera term)"
+    "meaning": "attention / care"
   },
   "attrape": {
-    "lemma": "attrape",
-    "pos": "noun",
-    "meaning": "attrape (French opera term)"
+    "lemma": "attraper",
+    "pos": "verb",
+    "meaning": "catches / catch"
   },
   "attribution": {
     "lemma": "attribution",
     "pos": "noun",
-    "meaning": "attribution (French opera term)"
+    "meaning": "attribution / assignment"
   },
   "aujourd": {
-    "lemma": "aujourd",
-    "pos": "noun",
-    "meaning": "aujourd (French opera term)"
+    "lemma": "aujourd'hui",
+    "pos": "adverb",
+    "meaning": "today (aujourd'hui)"
   },
   "aurions": {
-    "lemma": "aurions",
+    "lemma": "avoir",
     "pos": "verb",
-    "meaning": "aurions (French opera term)"
+    "meaning": "would have"
   },
   "aussi": {
     "lemma": "aussi",
-    "pos": "noun",
-    "meaning": "aussi (French opera term)"
+    "pos": "adverb",
+    "meaning": "also / as well / too"
   },
   "autorise": {
-    "lemma": "autorise",
-    "pos": "noun",
-    "meaning": "autorise (French opera term)"
+    "lemma": "autoriser",
+    "pos": "verb",
+    "meaning": "authorizes / permits"
   },
   "autour": {
     "lemma": "autour",
-    "pos": "noun",
-    "meaning": "autour (French opera term)"
+    "pos": "adverb",
+    "meaning": "around / about"
   },
   "autrefois": {
     "lemma": "autrefois",
-    "pos": "noun",
-    "meaning": "autrefois (French opera term)"
+    "pos": "adverb",
+    "meaning": "formerly / in the past"
   },
   "autrement": {
     "lemma": "autrement",
-    "pos": "noun",
-    "meaning": "autrement (French opera term)"
+    "pos": "adverb",
+    "meaning": "otherwise / differently"
   },
   "auxquels": {
-    "lemma": "auxquels",
-    "pos": "noun",
-    "meaning": "auxquels (French opera term)"
+    "lemma": "auquel",
+    "pos": "pronoun",
+    "meaning": "to which / to whom (pl.)"
   },
   "avantage": {
     "lemma": "avantage",
     "pos": "noun",
-    "meaning": "avantage (French opera term)"
+    "meaning": "advantage / benefit"
   },
   "avenir": {
     "lemma": "avenir",
-    "pos": "verb",
-    "meaning": "avenir (French opera term)"
+    "pos": "noun",
+    "meaning": "future"
   },
   "averti": {
-    "lemma": "averti",
-    "pos": "noun",
-    "meaning": "averti (French opera term)"
+    "lemma": "avertir",
+    "pos": "verb",
+    "meaning": "warned / notified"
   },
   "avertie": {
-    "lemma": "avertie",
-    "pos": "noun",
-    "meaning": "avertie (French opera term)"
+    "lemma": "avertir",
+    "pos": "verb",
+    "meaning": "warned / notified (fem.)"
   },
   "avertissements": {
-    "lemma": "avertissements",
+    "lemma": "avertissement",
     "pos": "noun",
-    "meaning": "avertissements (French opera term)"
+    "meaning": "warnings / notices"
   },
   "avis": {
     "lemma": "avis",
     "pos": "noun",
-    "meaning": "avis (French opera term)"
+    "meaning": "opinion / notice / advice"
   },
   "avisais": {
-    "lemma": "avisais",
+    "lemma": "aviser",
     "pos": "verb",
-    "meaning": "avisais (French opera term)"
+    "meaning": "was thinking / took into my head"
   },
   "avoid": {
     "lemma": "avoid",
-    "pos": "noun",
-    "meaning": "avoid (French opera term)"
+    "pos": "verb",
+    "meaning": "avoid"
   },
   "avouons": {
-    "lemma": "avouons",
+    "lemma": "avouer",
     "pos": "verb",
-    "meaning": "avouons (French opera term)"
+    "meaning": "let us confess / admit"
   },
   "ayant": {
-    "lemma": "ayant",
+    "lemma": "avoir",
     "pos": "verb",
-    "meaning": "ayant (French opera term)"
+    "meaning": "having"
   },
   "bah": {
     "lemma": "bah",
-    "pos": "noun",
-    "meaning": "bah (French opera term)"
+    "pos": "interjection",
+    "meaning": "bah! / pooh! / well!"
   },
   "balafres": {
-    "lemma": "balafres",
+    "lemma": "balafre",
     "pos": "noun",
-    "meaning": "balafres (French opera term)"
+    "meaning": "slashes / scars / gashes"
   },
   "balai": {
     "lemma": "balai",
     "pos": "noun",
-    "meaning": "balai (French opera term)"
+    "meaning": "broom"
   },
   "balivernes": {
-    "lemma": "balivernes",
+    "lemma": "baliverne",
     "pos": "noun",
-    "meaning": "balivernes (French opera term)"
+    "meaning": "nonsense / idle talk"
   },
   "ballots": {
-    "lemma": "ballots",
+    "lemma": "ballot",
     "pos": "noun",
-    "meaning": "ballots (French opera term)"
+    "meaning": "bundles / packages / bales"
   },
   "banderilleros": {
-    "lemma": "banderilleros",
+    "lemma": "banderillero",
     "pos": "noun",
-    "meaning": "banderilleros (French opera term)"
+    "meaning": "banderilleros (bullfighting)"
   },
   "banderilles": {
-    "lemma": "banderilles",
+    "lemma": "banderille",
     "pos": "noun",
-    "meaning": "banderilles (French opera term)"
+    "meaning": "banderillas (barbed darts)"
   },
   "bandit": {
     "lemma": "bandit",
     "pos": "noun",
-    "meaning": "bandit (French opera term)"
+    "meaning": "bandit / outlaw"
   },
   "bar": {
     "lemma": "bar",
     "pos": "noun",
-    "meaning": "bar (French opera term)"
+    "meaning": "bar"
   },
   "barreau": {
     "lemma": "barreau",
     "pos": "noun",
-    "meaning": "barreau (French opera term)"
+    "meaning": "bar / grating / rails"
   },
   "bartolomé": {
-    "lemma": "bartolomé",
-    "pos": "verb",
-    "meaning": "bartolomé (French opera term)"
+    "lemma": "Bartolomé",
+    "pos": "noun",
+    "meaning": "Bartholomew"
   },
   "bas": {
     "lemma": "bas",
-    "pos": "noun",
-    "meaning": "bas (French opera term)"
+    "pos": "adjective",
+    "meaning": "low / down (en bas: downstairs / below)"
   },
   "basque": {
     "lemma": "basque",
-    "pos": "noun",
-    "meaning": "basque (French opera term)"
+    "pos": "adjective",
+    "meaning": "Basque"
   },
   "bataille": {
     "lemma": "bataille",
     "pos": "noun",
-    "meaning": "bataille (French opera term)"
+    "meaning": "battle / fight"
   },
   "battit": {
-    "lemma": "battit",
-    "pos": "noun",
-    "meaning": "battit (French opera term)"
+    "lemma": "battre",
+    "pos": "verb",
+    "meaning": "beat / struck / fought"
   },
   "bavardage": {
     "lemma": "bavardage",
     "pos": "noun",
-    "meaning": "bavardage (French opera term)"
+    "meaning": "chatter / gossip / prattle"
   },
   "besoin": {
     "lemma": "besoin",
     "pos": "noun",
-    "meaning": "besoin (French opera term)"
+    "meaning": "need (avoir besoin: to need)"
   },
   "bienvenu": {
     "lemma": "bienvenu",
-    "pos": "noun",
-    "meaning": "bienvenu (French opera term)"
+    "pos": "adjective",
+    "meaning": "welcome"
   },
   "billet": {
     "lemma": "billet",
     "pos": "noun",
-    "meaning": "billet (French opera term)"
+    "meaning": "note / letter / ticket"
   },
   "bistrées": {
-    "lemma": "bistrées",
-    "pos": "noun",
-    "meaning": "bistrées (French opera term)"
+    "lemma": "bistré",
+    "pos": "adjective",
+    "meaning": "bistre-colored / dark-ringed / swarthy"
   },
   "blasphème": {
     "lemma": "blasphème",
     "pos": "noun",
-    "meaning": "blasphème (French opera term)"
+    "meaning": "blasphemy"
   },
   "blessure": {
     "lemma": "blessure",
-    "pos": "verb",
-    "meaning": "blessure (French opera term)"
+    "pos": "noun",
+    "meaning": "wound / injury"
   },
   "block": {
     "lemma": "block",
     "pos": "noun",
-    "meaning": "block (French opera term)"
+    "meaning": "block"
   },
   "boirons": {
-    "lemma": "boirons",
+    "lemma": "boire",
     "pos": "verb",
-    "meaning": "boirons (French opera term)"
+    "meaning": "we shall drink"
   },
   "bonbons": {
-    "lemma": "bonbons",
-    "pos": "verb",
-    "meaning": "bonbons (French opera term)"
+    "lemma": "bonbon",
+    "pos": "noun",
+    "meaning": "candies / sweets"
   },
   "bondissant": {
-    "lemma": "bondissant",
+    "lemma": "bondir",
     "pos": "verb",
-    "meaning": "bondissant (French opera term)"
+    "meaning": "bounding / leaping"
   },
   "bonheur": {
     "lemma": "bonheur",
     "pos": "noun",
-    "meaning": "bonheur (French opera term)"
+    "meaning": "happiness / joy / good fortune"
   },
   "bonsoir": {
     "lemma": "bonsoir",
-    "pos": "verb",
-    "meaning": "bonsoir (French opera term)"
+    "pos": "interjection",
+    "meaning": "good evening"
   },
   "bonté": {
     "lemma": "bonté",
-    "pos": "verb",
-    "meaning": "bonté (French opera term)"
+    "pos": "noun",
+    "meaning": "goodness / kindness"
   },
   "bouche": {
     "lemma": "bouche",
     "pos": "noun",
-    "meaning": "bouche (French opera term)"
+    "meaning": "mouth"
   },
   "bourgeois": {
     "lemma": "bourgeois",
     "pos": "noun",
-    "meaning": "bourgeois (French opera term)"
+    "meaning": "townsman / bourgeois / citizen"
   },
   "bousculade": {
     "lemma": "bousculade",
     "pos": "noun",
-    "meaning": "bousculade (French opera term)"
+    "meaning": "scramble / shoving / rush"
   },
   "bout": {
     "lemma": "bout",
     "pos": "noun",
-    "meaning": "bout (French opera term)"
+    "meaning": "end / tip (au bout: at the end)"
   },
   "bravera": {
-    "lemma": "bravera",
-    "pos": "noun",
-    "meaning": "bravera (French opera term)"
+    "lemma": "braver",
+    "pos": "verb",
+    "meaning": "will brave / defy"
   },
   "break": {
     "lemma": "break",
     "pos": "noun",
-    "meaning": "break (French opera term)"
+    "meaning": "break"
   },
   "broderie": {
     "lemma": "broderie",
     "pos": "noun",
-    "meaning": "broderie (French opera term)"
+    "meaning": "embroidery"
   },
   "bruit": {
     "lemma": "bruit",
     "pos": "noun",
-    "meaning": "bruit (French opera term)"
+    "meaning": "noise / rumor / din"
   },
   "brunes": {
-    "lemma": "brunes",
-    "pos": "noun",
-    "meaning": "brunes (French opera term)"
+    "lemma": "brun",
+    "pos": "adjective",
+    "meaning": "brunette / dark / brown (fem. pl.)"
   },
   "brèche": {
     "lemma": "brèche",
     "pos": "noun",
-    "meaning": "brèche (French opera term)"
+    "meaning": "breach / gap"
   },
   "bâtiment": {
     "lemma": "bâtiment",
     "pos": "noun",
-    "meaning": "bâtiment (French opera term)"
+    "meaning": "building / vessel"
   },
   "béret": {
     "lemma": "béret",
     "pos": "noun",
-    "meaning": "béret (French opera term)"
+    "meaning": "beret"
   },
   "bête": {
     "lemma": "bête",
     "pos": "noun",
-    "meaning": "bête (French opera term)"
+    "meaning": "beast / creature / stupid"
   },
   "bêtises": {
-    "lemma": "bêtises",
+    "lemma": "bêtise",
     "pos": "noun",
-    "meaning": "bêtises (French opera term)"
+    "meaning": "foolishness / nonsense / silly things"
   },
   "caballeros": {
-    "lemma": "caballeros",
+    "lemma": "caballero",
     "pos": "noun",
-    "meaning": "caballeros (French opera term)"
+    "meaning": "gentlemen / cavaliers"
   },
   "campe": {
-    "lemma": "campe",
-    "pos": "noun",
-    "meaning": "campe (French opera term)"
+    "lemma": "camper",
+    "pos": "verb",
+    "meaning": "camps / stands firm"
   },
   "caméléon": {
     "lemma": "caméléon",
     "pos": "noun",
-    "meaning": "caméléon (French opera term)"
+    "meaning": "chameleon"
   },
   "canari": {
     "lemma": "canari",
     "pos": "noun",
-    "meaning": "canari (French opera term)"
+    "meaning": "canary"
   },
   "caractère": {
     "lemma": "caractère",
-    "pos": "verb",
-    "meaning": "caractère (French opera term)"
+    "pos": "noun",
+    "meaning": "character / temper"
   },
   "carmencita": {
-    "lemma": "carmencita",
+    "lemma": "Carmencita",
     "pos": "noun",
-    "meaning": "carmencita (French opera term)"
+    "meaning": "Carmencita (little Carmen)"
   },
   "cas": {
     "lemma": "cas",
     "pos": "noun",
-    "meaning": "cas (French opera term)"
+    "meaning": "case / instance"
   },
   "catégorie": {
     "lemma": "catégorie",
     "pos": "noun",
-    "meaning": "catégorie (French opera term)"
+    "meaning": "category"
   },
   "cause": {
     "lemma": "cause",
     "pos": "noun",
-    "meaning": "cause (French opera term)"
+    "meaning": "cause / reason (à cause de: because of)"
   },
   "celle": {
-    "lemma": "celle",
-    "pos": "noun",
-    "meaning": "celle (French opera term)"
+    "lemma": "celui",
+    "pos": "pronoun",
+    "meaning": "the one / that one (fem.)"
   },
   "celles": {
-    "lemma": "celles",
-    "pos": "noun",
-    "meaning": "celles (French opera term)"
+    "lemma": "celui",
+    "pos": "pronoun",
+    "meaning": "those / the ones (fem. pl.)"
   },
   "celui": {
     "lemma": "celui",
-    "pos": "noun",
-    "meaning": "celui (French opera term)"
+    "pos": "pronoun",
+    "meaning": "the one / he / that one (masc.)"
   },
   "cependant": {
     "lemma": "cependant",
-    "pos": "verb",
-    "meaning": "cependant (French opera term)"
+    "pos": "adverb",
+    "meaning": "meanwhile / yet / however"
   },
   "certain": {
     "lemma": "certain",
-    "pos": "noun",
-    "meaning": "certain (French opera term)"
+    "pos": "adjective",
+    "meaning": "certain / sure"
   },
   "certaine": {
-    "lemma": "certaine",
-    "pos": "noun",
-    "meaning": "certaine (French opera term)"
+    "lemma": "certain",
+    "pos": "adjective",
+    "meaning": "certain / sure (fem.)"
   },
   "certainement": {
     "lemma": "certainement",
-    "pos": "noun",
-    "meaning": "certainement (French opera term)"
+    "pos": "adverb",
+    "meaning": "certainly / definitely"
   },
   "cesse": {
-    "lemma": "cesse",
-    "pos": "noun",
-    "meaning": "cesse (French opera term)"
+    "lemma": "cesser",
+    "pos": "verb",
+    "meaning": "ceases / stops (sans cesse: without ceasing)"
   },
   "ceux": {
-    "lemma": "ceux",
-    "pos": "noun",
-    "meaning": "ceux (French opera term)"
+    "lemma": "celui",
+    "pos": "pronoun",
+    "meaning": "those / the ones (masc. pl.)"
   },
   "changer": {
     "lemma": "changer",
     "pos": "verb",
-    "meaning": "changer (French opera term)"
+    "meaning": "to change / alter"
   },
   "changé": {
-    "lemma": "changé",
+    "lemma": "changer",
     "pos": "verb",
-    "meaning": "changé (French opera term)"
+    "meaning": "changed"
   },
   "chapelle": {
     "lemma": "chapelle",
     "pos": "noun",
-    "meaning": "chapelle (French opera term)"
+    "meaning": "chapel"
   },
   "chargé": {
-    "lemma": "chargé",
+    "lemma": "charger",
     "pos": "verb",
-    "meaning": "chargé (French opera term)"
+    "meaning": "charged / loaded / entrusted"
   },
   "chargée": {
-    "lemma": "chargée",
-    "pos": "noun",
-    "meaning": "chargée (French opera term)"
+    "lemma": "charger",
+    "pos": "verb",
+    "meaning": "charged / loaded / entrusted (fem.)"
   },
   "charmant": {
     "lemma": "charmant",
-    "pos": "verb",
-    "meaning": "charmant (French opera term)"
+    "pos": "adjective",
+    "meaning": "charming / lovely"
   },
   "charmante": {
-    "lemma": "charmante",
-    "pos": "noun",
-    "meaning": "charmante (French opera term)"
+    "lemma": "charmant",
+    "pos": "adjective",
+    "meaning": "charming / lovely (fem.)"
   },
   "charme": {
     "lemma": "charme",
     "pos": "noun",
-    "meaning": "charme (French opera term)"
+    "meaning": "charm / spell / attraction"
   },
   "chats": {
-    "lemma": "chats",
+    "lemma": "chat",
     "pos": "noun",
-    "meaning": "chats (French opera term)"
+    "meaning": "cats"
   },
   "chaud": {
     "lemma": "chaud",
-    "pos": "noun",
-    "meaning": "chaud (French opera term)"
+    "pos": "adjective",
+    "meaning": "warm / hot"
   },
   "chaumière": {
     "lemma": "chaumière",
-    "pos": "verb",
-    "meaning": "chaumière (French opera term)"
+    "pos": "noun",
+    "meaning": "cottage / thatched cottage"
   },
   "chef": {
     "lemma": "chef",
     "pos": "noun",
-    "meaning": "chef (French opera term)"
+    "meaning": "chief / leader / head"
   },
   "cheval": {
     "lemma": "cheval",
     "pos": "noun",
-    "meaning": "cheval (French opera term)"
+    "meaning": "horse"
   },
   "chien": {
     "lemma": "chien",
     "pos": "noun",
-    "meaning": "chien (French opera term)"
+    "meaning": "dog"
   },
   "choisir": {
     "lemma": "choisir",
     "pos": "verb",
-    "meaning": "choisir (French opera term)"
+    "meaning": "to choose / select"
   },
   "choix": {
     "lemma": "choix",
     "pos": "noun",
-    "meaning": "choix (French opera term)"
+    "meaning": "choice"
   },
   "chose": {
     "lemma": "chose",
     "pos": "noun",
-    "meaning": "chose (French opera term)"
+    "meaning": "thing / matter (quelque chose: something)"
   },
   "chrétien": {
     "lemma": "chrétien",
-    "pos": "noun",
-    "meaning": "chrétien (French opera term)"
+    "pos": "adjective",
+    "meaning": "Christian"
   },
   "chulos": {
-    "lemma": "chulos",
+    "lemma": "chulo",
     "pos": "noun",
-    "meaning": "chulos (French opera term)"
+    "meaning": "chulos (bullfighter assistants)"
   },
   "chut": {
     "lemma": "chut",
-    "pos": "noun",
-    "meaning": "chut (French opera term)"
+    "pos": "interjection",
+    "meaning": "hush! / quiet!"
   },
   "château": {
     "lemma": "château",
     "pos": "noun",
-    "meaning": "château (French opera term)"
+    "meaning": "castle / palace"
   },
   "chéris": {
-    "lemma": "chéris",
-    "pos": "noun",
-    "meaning": "chéris (French opera term)"
+    "lemma": "chérir",
+    "pos": "verb",
+    "meaning": "cherished / beloved"
   },
   "ci": {
     "lemma": "ci",
-    "pos": "noun",
-    "meaning": "ci (French opera term)"
+    "pos": "particle",
+    "meaning": "this / here (celle-ci: this one)"
   },
   "clair": {
     "lemma": "clair",
-    "pos": "verb",
-    "meaning": "clair (French opera term)"
+    "pos": "adjective",
+    "meaning": "clear / bright / plain"
   },
   "clefs": {
-    "lemma": "clefs",
+    "lemma": "clef",
     "pos": "noun",
-    "meaning": "clefs (French opera term)"
+    "meaning": "keys"
   },
   "clément": {
     "lemma": "clément",
-    "pos": "noun",
-    "meaning": "clément (French opera term)"
+    "pos": "adjective",
+    "meaning": "clement / merciful"
   },
   "code": {
     "lemma": "code",
     "pos": "noun",
-    "meaning": "code (French opera term)"
+    "meaning": "code / law"
   },
   "coin": {
     "lemma": "coin",
     "pos": "noun",
-    "meaning": "coin (French opera term)"
+    "meaning": "corner"
   },
   "colère": {
     "lemma": "colère",
-    "pos": "verb",
-    "meaning": "colère (French opera term)"
+    "pos": "noun",
+    "meaning": "anger / rage / wrath"
   },
   "combattant": {
     "lemma": "combattant",
-    "pos": "verb",
-    "meaning": "combattant (French opera term)"
+    "pos": "noun",
+    "meaning": "combatant / fighter"
   },
   "combattrai": {
-    "lemma": "combattrai",
-    "pos": "noun",
-    "meaning": "combattrai (French opera term)"
+    "lemma": "combattre",
+    "pos": "verb",
+    "meaning": "I shall fight"
   },
   "commandée": {
-    "lemma": "commandée",
-    "pos": "noun",
-    "meaning": "commandée (French opera term)"
+    "lemma": "commander",
+    "pos": "verb",
+    "meaning": "commanded / ordered"
   },
   "commence": {
-    "lemma": "commence",
-    "pos": "noun",
-    "meaning": "commence (French opera term)"
+    "lemma": "commencer",
+    "pos": "verb",
+    "meaning": "begins / start"
   },
   "commencer": {
     "lemma": "commencer",
     "pos": "verb",
-    "meaning": "commencer (French opera term)"
+    "meaning": "to begin / start"
   },
   "commencé": {
-    "lemma": "commencé",
+    "lemma": "commencer",
     "pos": "verb",
-    "meaning": "commencé (French opera term)"
+    "meaning": "begun / started"
   },
   "comment": {
     "lemma": "comment",
-    "pos": "noun",
-    "meaning": "comment (French opera term)"
+    "pos": "adverb",
+    "meaning": "how / what"
   },
   "commons": {
     "lemma": "commons",
-    "pos": "verb",
-    "meaning": "commons (French opera term)"
+    "pos": "noun",
+    "meaning": "commons"
   },
   "compagnie": {
     "lemma": "compagnie",
     "pos": "noun",
-    "meaning": "compagnie (French opera term)"
+    "meaning": "company"
   },
   "complet": {
     "lemma": "complet",
-    "pos": "noun",
-    "meaning": "complet (French opera term)"
+    "pos": "adjective",
+    "meaning": "complete / full"
   },
   "compliment": {
     "lemma": "compliment",
     "pos": "noun",
-    "meaning": "compliment (French opera term)"
+    "meaning": "compliment"
   },
   "comprend": {
-    "lemma": "comprend",
-    "pos": "noun",
-    "meaning": "comprend (French opera term)"
+    "lemma": "comprendre",
+    "pos": "verb",
+    "meaning": "understands / comprehends"
   },
   "comprends": {
-    "lemma": "comprends",
-    "pos": "noun",
-    "meaning": "comprends (French opera term)"
+    "lemma": "comprendre",
+    "pos": "verb",
+    "meaning": "understand / comprehend"
   },
   "comprenez": {
-    "lemma": "comprenez",
+    "lemma": "comprendre",
     "pos": "verb",
-    "meaning": "comprenez (French opera term)"
+    "meaning": "understand / comprehend (you)"
   },
   "compris": {
-    "lemma": "compris",
-    "pos": "noun",
-    "meaning": "compris (French opera term)"
+    "lemma": "comprendre",
+    "pos": "verb",
+    "meaning": "understood / comprehended"
   },
   "compte": {
-    "lemma": "compte",
-    "pos": "noun",
-    "meaning": "compte (French opera term)"
+    "lemma": "compter",
+    "pos": "verb",
+    "meaning": "counts / intends / accounts"
   },
   "compter": {
     "lemma": "compter",
     "pos": "verb",
-    "meaning": "compter (French opera term)"
+    "meaning": "to count / intend / reckon"
   },
   "compère": {
     "lemma": "compère",
-    "pos": "verb",
-    "meaning": "compère (French opera term)"
+    "pos": "noun",
+    "meaning": "crony / comrade / accomplice"
   },
   "condamné": {
-    "lemma": "condamné",
+    "lemma": "condamner",
     "pos": "verb",
-    "meaning": "condamné (French opera term)"
+    "meaning": "condemned / doomed"
   },
   "conditions": {
-    "lemma": "conditions",
-    "pos": "verb",
-    "meaning": "conditions (French opera term)"
+    "lemma": "condition",
+    "pos": "noun",
+    "meaning": "conditions / terms"
   },
   "conduire": {
     "lemma": "conduire",
     "pos": "verb",
-    "meaning": "conduire (French opera term)"
+    "meaning": "to lead / conduct / drive"
   },
   "conduirez": {
-    "lemma": "conduirez",
+    "lemma": "conduire",
     "pos": "verb",
-    "meaning": "conduirez (French opera term)"
+    "meaning": "you will lead / conduct"
   },
   "conduis": {
-    "lemma": "conduis",
-    "pos": "noun",
-    "meaning": "conduis (French opera term)"
+    "lemma": "conduire",
+    "pos": "verb",
+    "meaning": "lead / guide / conduct"
   },
   "conduisait": {
-    "lemma": "conduisait",
+    "lemma": "conduire",
     "pos": "verb",
-    "meaning": "conduisait (French opera term)"
+    "meaning": "was leading / conducted"
   },
   "conduises": {
-    "lemma": "conduises",
-    "pos": "noun",
-    "meaning": "conduises (French opera term)"
+    "lemma": "conduire",
+    "pos": "verb",
+    "meaning": "may lead / conduct"
   },
   "conduit": {
-    "lemma": "conduit",
-    "pos": "noun",
-    "meaning": "conduit (French opera term)"
+    "lemma": "conduire",
+    "pos": "verb",
+    "meaning": "leads / conducts / escorted"
   },
   "conduite": {
     "lemma": "conduite",
     "pos": "noun",
-    "meaning": "conduite (French opera term)"
+    "meaning": "conduct / behavior / escort"
   },
   "confession": {
     "lemma": "confession",
     "pos": "noun",
-    "meaning": "confession (French opera term)"
+    "meaning": "confession"
   },
   "confidentialité": {
     "lemma": "confidentialité",
-    "pos": "verb",
-    "meaning": "confidentialité (French opera term)"
+    "pos": "noun",
+    "meaning": "confidentiality / privacy"
   },
   "confie": {
-    "lemma": "confie",
-    "pos": "noun",
-    "meaning": "confie (French opera term)"
+    "lemma": "confier",
+    "pos": "verb",
+    "meaning": "entrust / confides"
   },
   "confits": {
-    "lemma": "confits",
-    "pos": "noun",
-    "meaning": "confits (French opera term)"
+    "lemma": "confire",
+    "pos": "verb",
+    "meaning": "preserved / candied"
   },
   "connais": {
-    "lemma": "connais",
+    "lemma": "connaître",
     "pos": "verb",
-    "meaning": "connais (French opera term)"
+    "meaning": "know / am acquainted with"
   },
   "connaissez": {
-    "lemma": "connaissez",
+    "lemma": "connaître",
     "pos": "verb",
-    "meaning": "connaissez (French opera term)"
+    "meaning": "know / are acquainted with"
   },
   "connaissions": {
-    "lemma": "connaissions",
+    "lemma": "connaître",
     "pos": "verb",
-    "meaning": "connaissions (French opera term)"
+    "meaning": "knew / were acquainted with"
   },
   "connaissons": {
-    "lemma": "connaissons",
+    "lemma": "connaître",
     "pos": "verb",
-    "meaning": "connaissons (French opera term)"
+    "meaning": "know / are acquainted with"
   },
   "connaîtrait": {
-    "lemma": "connaîtrait",
+    "lemma": "connaître",
     "pos": "verb",
-    "meaning": "connaîtrait (French opera term)"
+    "meaning": "would know"
   },
   "connu": {
-    "lemma": "connu",
-    "pos": "noun",
-    "meaning": "connu (French opera term)"
+    "lemma": "connaître",
+    "pos": "verb",
+    "meaning": "known"
   },
   "conseil": {
     "lemma": "conseil",
     "pos": "noun",
-    "meaning": "conseil (French opera term)"
+    "meaning": "counsel / advice / council"
   },
   "conseille": {
-    "lemma": "conseille",
-    "pos": "noun",
-    "meaning": "conseille (French opera term)"
+    "lemma": "conseiller",
+    "pos": "verb",
+    "meaning": "advises / recommend"
   },
   "conseillerais": {
-    "lemma": "conseillerais",
+    "lemma": "conseiller",
     "pos": "verb",
-    "meaning": "conseillerais (French opera term)"
+    "meaning": "would advise / recommend"
   },
   "consentez": {
-    "lemma": "consentez",
+    "lemma": "consentir",
     "pos": "verb",
-    "meaning": "consentez (French opera term)"
+    "meaning": "consent / agree"
   },
   "consenti": {
-    "lemma": "consenti",
-    "pos": "noun",
-    "meaning": "consenti (French opera term)"
+    "lemma": "consentir",
+    "pos": "verb",
+    "meaning": "consented / agreed"
   },
   "consigne": {
     "lemma": "consigne",
     "pos": "noun",
-    "meaning": "consigne (French opera term)"
+    "meaning": "orders / instructions"
   },
   "consolable": {
     "lemma": "consolable",
-    "pos": "noun",
-    "meaning": "consolable (French opera term)"
+    "pos": "adjective",
+    "meaning": "consolable"
   },
   "console": {
-    "lemma": "console",
-    "pos": "noun",
-    "meaning": "console (French opera term)"
+    "lemma": "consoler",
+    "pos": "verb",
+    "meaning": "consoles / comfort"
   },
   "consolerez": {
-    "lemma": "consolerez",
+    "lemma": "consoler",
     "pos": "verb",
-    "meaning": "consolerez (French opera term)"
+    "meaning": "will console / comfort"
   },
   "consoles": {
-    "lemma": "consoles",
-    "pos": "noun",
-    "meaning": "consoles (French opera term)"
+    "lemma": "consoler",
+    "pos": "verb",
+    "meaning": "consolest / comfortest"
   },
   "contacts": {
-    "lemma": "contacts",
+    "lemma": "contact",
     "pos": "noun",
-    "meaning": "contacts (French opera term)"
+    "meaning": "contacts"
   },
   "contente": {
-    "lemma": "contente",
-    "pos": "noun",
-    "meaning": "contente (French opera term)"
+    "lemma": "content",
+    "pos": "adjective",
+    "meaning": "glad / satisfied / pleased (fem.)"
   },
   "contenter": {
     "lemma": "contenter",
     "pos": "verb",
-    "meaning": "contenter (French opera term)"
+    "meaning": "to satisfy / please / content"
   },
   "contenterai": {
-    "lemma": "contenterai",
-    "pos": "noun",
-    "meaning": "contenterai (French opera term)"
+    "lemma": "contenter",
+    "pos": "verb",
+    "meaning": "shall satisfy / content myself"
   },
   "continue": {
-    "lemma": "continue",
-    "pos": "noun",
-    "meaning": "continue (French opera term)"
+    "lemma": "continuer",
+    "pos": "verb",
+    "meaning": "continues / continue"
   },
   "continues": {
-    "lemma": "continues",
-    "pos": "noun",
-    "meaning": "continues (French opera term)"
+    "lemma": "continuer",
+    "pos": "verb",
+    "meaning": "continuest / continuest"
   },
   "conviens": {
-    "lemma": "conviens",
-    "pos": "noun",
-    "meaning": "conviens (French opera term)"
+    "lemma": "convenir",
+    "pos": "verb",
+    "meaning": "admit / agree"
   },
   "convient": {
-    "lemma": "convient",
-    "pos": "noun",
-    "meaning": "convient (French opera term)"
+    "lemma": "convenir",
+    "pos": "verb",
+    "meaning": "suits / is suitable / agreed"
   },
   "coquette": {
-    "lemma": "coquette",
-    "pos": "noun",
-    "meaning": "coquette (French opera term)"
+    "lemma": "coquet",
+    "pos": "adjective",
+    "meaning": "coquettish / coquette / flirt"
   },
   "coquines": {
-    "lemma": "coquines",
+    "lemma": "coquin",
     "pos": "noun",
-    "meaning": "coquines (French opera term)"
+    "meaning": "rogues / wenches / rascals (fem.)"
   },
   "corps": {
     "lemma": "corps",
     "pos": "noun",
-    "meaning": "corps (French opera term)"
+    "meaning": "body / corps"
   },
   "corrégidor": {
     "lemma": "corrégidor",
     "pos": "noun",
-    "meaning": "corrégidor (French opera term)"
+    "meaning": "corregidor / magistrate"
   },
   "cortège": {
     "lemma": "cortège",
     "pos": "noun",
-    "meaning": "cortège (French opera term)"
+    "meaning": "procession / retinue"
   },
   "costume": {
     "lemma": "costume",
     "pos": "noun",
-    "meaning": "costume (French opera term)"
+    "meaning": "costume / attire / dress"
   },
   "couler": {
     "lemma": "couler",
     "pos": "verb",
-    "meaning": "couler (French opera term)"
+    "meaning": "to flow / run / cast"
   },
   "coup": {
     "lemma": "coup",
     "pos": "noun",
-    "meaning": "coup (French opera term)"
+    "meaning": "blow / shot / strike / stroke"
   },
   "coups": {
-    "lemma": "coups",
+    "lemma": "coup",
     "pos": "noun",
-    "meaning": "coups (French opera term)"
+    "meaning": "blows / shots / strikes"
   },
   "courage": {
     "lemma": "courage",
     "pos": "noun",
-    "meaning": "courage (French opera term)"
+    "meaning": "courage / bravery"
   },
   "course": {
     "lemma": "course",
     "pos": "noun",
-    "meaning": "course (French opera term)"
+    "meaning": "course / run / bullfight (course de taureaux)"
   },
   "courses": {
-    "lemma": "courses",
+    "lemma": "course",
     "pos": "noun",
-    "meaning": "courses (French opera term)"
+    "meaning": "courses / bullfights / errands"
   },
   "court": {
     "lemma": "court",
-    "pos": "noun",
-    "meaning": "court (French opera term)"
+    "pos": "adjective",
+    "meaning": "short / brief"
   },
   "coûter": {
     "lemma": "coûter",
     "pos": "verb",
-    "meaning": "coûter (French opera term)"
+    "meaning": "to cost"
   },
   "coûtera": {
-    "lemma": "coûtera",
-    "pos": "noun",
-    "meaning": "coûtera (French opera term)"
+    "lemma": "coûter",
+    "pos": "verb",
+    "meaning": "will cost"
   },
   "crainte": {
     "lemma": "crainte",
     "pos": "noun",
-    "meaning": "crainte (French opera term)"
+    "meaning": "fear / dread"
   },
   "creative": {
     "lemma": "creative",
-    "pos": "noun",
-    "meaning": "creative (French opera term)"
+    "pos": "adjective",
+    "meaning": "creative"
   },
   "crime": {
     "lemma": "crime",
     "pos": "noun",
-    "meaning": "crime (French opera term)"
+    "meaning": "crime"
   },
   "cris": {
-    "lemma": "cris",
+    "lemma": "cri",
     "pos": "noun",
-    "meaning": "cris (French opera term)"
+    "meaning": "cries / shouts"
   },
   "croix": {
     "lemma": "croix",
     "pos": "noun",
-    "meaning": "croix (French opera term)"
+    "meaning": "cross"
   },
   "croques": {
-    "lemma": "croques",
-    "pos": "noun",
-    "meaning": "croques (French opera term)"
+    "lemma": "croquer",
+    "pos": "verb",
+    "meaning": "crunch / sketch / bite"
   },
   "croupe": {
     "lemma": "croupe",
     "pos": "noun",
-    "meaning": "croupe (French opera term)"
+    "meaning": "croup / haunch / crupper"
   },
   "cruauté": {
     "lemma": "cruauté",
-    "pos": "verb",
-    "meaning": "cruauté (French opera term)"
+    "pos": "noun",
+    "meaning": "cruelty"
   },
   "cruelles": {
-    "lemma": "cruelles",
-    "pos": "noun",
-    "meaning": "cruelles (French opera term)"
+    "lemma": "cruel",
+    "pos": "adjective",
+    "meaning": "cruel (fem. pl.)"
   },
   "crânerie": {
     "lemma": "crânerie",
     "pos": "noun",
-    "meaning": "crânerie (French opera term)"
+    "meaning": "swagger / bravado / swaggering boldness"
   },
   "cuivre": {
     "lemma": "cuivre",
-    "pos": "verb",
-    "meaning": "cuivre (French opera term)"
+    "pos": "noun",
+    "meaning": "copper / brass"
   },
   "curieux": {
     "lemma": "curieux",
-    "pos": "noun",
-    "meaning": "curieux (French opera term)"
+    "pos": "adjective",
+    "meaning": "curious / inquisitive / odd"
   },
   "cède": {
-    "lemma": "cède",
-    "pos": "noun",
-    "meaning": "cède (French opera term)"
+    "lemma": "céder",
+    "pos": "verb",
+    "meaning": "yields / yield / give in"
   },
   "célèbre": {
     "lemma": "célèbre",
-    "pos": "verb",
-    "meaning": "célèbre (French opera term)"
+    "pos": "adjective",
+    "meaning": "famous / celebrated"
   },
   "côte": {
     "lemma": "côte",
     "pos": "noun",
-    "meaning": "côte (French opera term)"
+    "meaning": "coast / shore / rib / slope"
   },
   "côté": {
     "lemma": "côté",
-    "pos": "verb",
-    "meaning": "côté (French opera term)"
+    "pos": "noun",
+    "meaning": "side (à côté: beside)"
   },
   "daigne": {
-    "lemma": "daigne",
-    "pos": "noun",
-    "meaning": "daigne (French opera term)"
+    "lemma": "daigner",
+    "pos": "verb",
+    "meaning": "deigns / condescend"
   },
   "dame": {
     "lemma": "dame",
     "pos": "noun",
-    "meaning": "dame (French opera term)"
+    "meaning": "lady"
   },
   "dames": {
-    "lemma": "dames",
+    "lemma": "dame",
     "pos": "noun",
-    "meaning": "dames (French opera term)"
+    "meaning": "ladies"
   },
   "damnée": {
-    "lemma": "damnée",
-    "pos": "noun",
-    "meaning": "damnée (French opera term)"
+    "lemma": "damner",
+    "pos": "verb",
+    "meaning": "damned / doomed (fem.)"
   },
   "dangereuse": {
-    "lemma": "dangereuse",
-    "pos": "noun",
-    "meaning": "dangereuse (French opera term)"
+    "lemma": "dangereux",
+    "pos": "adjective",
+    "meaning": "dangerous (fem.)"
   },
   "davantage": {
     "lemma": "davantage",
-    "pos": "noun",
-    "meaning": "davantage (French opera term)"
+    "pos": "adverb",
+    "meaning": "more / further"
   },
   "debout": {
     "lemma": "debout",
-    "pos": "noun",
-    "meaning": "debout (French opera term)"
+    "pos": "adverb",
+    "meaning": "upright / standing"
   },
   "dedans": {
     "lemma": "dedans",
-    "pos": "noun",
-    "meaning": "dedans (French opera term)"
+    "pos": "adverb",
+    "meaning": "inside / within"
   },
   "dehors": {
     "lemma": "dehors",
-    "pos": "noun",
-    "meaning": "dehors (French opera term)"
+    "pos": "adverb",
+    "meaning": "outside / out"
   },
   "demeure": {
     "lemma": "demeure",
-    "pos": "verb",
-    "meaning": "demeure (French opera term)"
+    "pos": "noun",
+    "meaning": "dwelling / abode / home"
   },
   "demi": {
     "lemma": "demi",
-    "pos": "noun",
-    "meaning": "demi (French opera term)"
+    "pos": "adjective",
+    "meaning": "half"
   },
   "dents": {
-    "lemma": "dents",
+    "lemma": "dent",
     "pos": "noun",
-    "meaning": "dents (French opera term)"
+    "meaning": "teeth"
   },
   "depuis": {
     "lemma": "depuis",
-    "pos": "noun",
-    "meaning": "depuis (French opera term)"
+    "pos": "preposition",
+    "meaning": "since / for / from"
   },
   "dernier": {
     "lemma": "dernier",
-    "pos": "verb",
-    "meaning": "dernier (French opera term)"
+    "pos": "adjective",
+    "meaning": "last / final"
   },
   "dernière": {
-    "lemma": "dernière",
-    "pos": "verb",
-    "meaning": "dernière (French opera term)"
+    "lemma": "dernier",
+    "pos": "adjective",
+    "meaning": "last / final (fem.)"
   },
   "dernières": {
-    "lemma": "dernières",
-    "pos": "noun",
-    "meaning": "dernières (French opera term)"
+    "lemma": "dernier",
+    "pos": "adjective",
+    "meaning": "last / final (fem. pl.)"
   },
   "descendante": {
-    "lemma": "descendante",
+    "lemma": "descendant",
     "pos": "noun",
-    "meaning": "descendante (French opera term)"
+    "meaning": "descendant / offspring (fem.)"
   },
   "desserrer": {
     "lemma": "desserrer",
     "pos": "verb",
-    "meaning": "desserrer (French opera term)"
+    "meaning": "to loosen / unfasten / open"
   },
   "dessiner": {
     "lemma": "dessiner",
     "pos": "verb",
-    "meaning": "dessiner (French opera term)"
+    "meaning": "to draw / design"
   },
   "dessus": {
     "lemma": "dessus",
-    "pos": "noun",
-    "meaning": "dessus (French opera term)"
+    "pos": "adverb",
+    "meaning": "upon / on top / above"
   },
   "dettes": {
-    "lemma": "dettes",
+    "lemma": "dette",
     "pos": "noun",
-    "meaning": "dettes (French opera term)"
+    "meaning": "debts"
   },
   "devenu": {
-    "lemma": "devenu",
-    "pos": "noun",
-    "meaning": "devenu (French opera term)"
+    "lemma": "devenir",
+    "pos": "verb",
+    "meaning": "become / turned into"
   },
   "deviendrai": {
-    "lemma": "deviendrai",
-    "pos": "noun",
-    "meaning": "deviendrai (French opera term)"
+    "lemma": "devenir",
+    "pos": "verb",
+    "meaning": "I shall become"
   },
   "devient": {
-    "lemma": "devient",
-    "pos": "noun",
-    "meaning": "devient (French opera term)"
+    "lemma": "devenir",
+    "pos": "verb",
+    "meaning": "becomes"
   },
   "devions": {
-    "lemma": "devions",
+    "lemma": "devoir",
     "pos": "verb",
-    "meaning": "devions (French opera term)"
+    "meaning": "were supposed to / ought to"
   },
   "diamants": {
-    "lemma": "diamants",
+    "lemma": "diamant",
     "pos": "noun",
-    "meaning": "diamants (French opera term)"
+    "meaning": "diamonds"
   },
   "discours": {
     "lemma": "discours",
     "pos": "noun",
-    "meaning": "discours (French opera term)"
+    "meaning": "speech / talk / discourse"
   },
   "discussion": {
     "lemma": "discussion",
     "pos": "noun",
-    "meaning": "discussion (French opera term)"
+    "meaning": "discussion / argument / dispute"
   },
   "display": {
     "lemma": "display",
     "pos": "noun",
-    "meaning": "display (French opera term)"
+    "meaning": "display"
   },
   "disponibles": {
-    "lemma": "disponibles",
-    "pos": "noun",
-    "meaning": "disponibles (French opera term)"
+    "lemma": "disponible",
+    "pos": "adjective",
+    "meaning": "available"
   },
   "disposé": {
-    "lemma": "disposé",
+    "lemma": "disposer",
     "pos": "verb",
-    "meaning": "disposé (French opera term)"
+    "meaning": "disposed / inclined / ready"
   },
   "distingué": {
     "lemma": "distingué",
-    "pos": "verb",
-    "meaning": "distingué (French opera term)"
+    "pos": "adjective",
+    "meaning": "distinguished / elegant"
   },
   "distingués": {
-    "lemma": "distingués",
-    "pos": "noun",
-    "meaning": "distingués (French opera term)"
+    "lemma": "distingué",
+    "pos": "adjective",
+    "meaning": "distinguished / refined (pl.)"
   },
   "doives": {
-    "lemma": "doives",
-    "pos": "noun",
-    "meaning": "doives (French opera term)"
+    "lemma": "devoir",
+    "pos": "verb",
+    "meaning": "must / should (subjunctive)"
   },
   "dommage": {
     "lemma": "dommage",
     "pos": "noun",
-    "meaning": "dommage (French opera term)"
+    "meaning": "pity / shame / damage (c'est dommage: it's a pity)"
   },
   "doucement": {
     "lemma": "doucement",
-    "pos": "noun",
-    "meaning": "doucement (French opera term)"
+    "pos": "adverb",
+    "meaning": "gently / softly / quietly"
   },
   "douzaine": {
     "lemma": "douzaine",
     "pos": "noun",
-    "meaning": "douzaine (French opera term)"
+    "meaning": "dozen"
   },
   "drame": {
     "lemma": "drame",
     "pos": "noun",
-    "meaning": "drame (French opera term)"
+    "meaning": "drama / tragedy"
   },
   "drapeau": {
     "lemma": "drapeau",
     "pos": "noun",
-    "meaning": "drapeau (French opera term)"
+    "meaning": "flag / banner / colors"
   },
   "droit": {
     "lemma": "droit",
-    "pos": "noun",
-    "meaning": "droit (French opera term)"
+    "pos": "adjective",
+    "meaning": "straight / right / upright"
   },
   "drôle": {
     "lemma": "drôle",
-    "pos": "noun",
-    "meaning": "drôle (French opera term)"
+    "pos": "adjective",
+    "meaning": "strange / funny / odd"
   },
   "drôles": {
-    "lemma": "drôles",
-    "pos": "noun",
-    "meaning": "drôles (French opera term)"
+    "lemma": "drôle",
+    "pos": "adjective",
+    "meaning": "strange / funny / odd (pl.)"
   },
   "duperie": {
     "lemma": "duperie",
     "pos": "noun",
-    "meaning": "duperie (French opera term)"
+    "meaning": "trickery / deceit / delusion"
   },
   "durement": {
     "lemma": "durement",
-    "pos": "noun",
-    "meaning": "durement (French opera term)"
+    "pos": "adverb",
+    "meaning": "hard / harshly / severely"
   },
   "durent": {
-    "lemma": "durent",
-    "pos": "noun",
-    "meaning": "durent (French opera term)"
+    "lemma": "devoir",
+    "pos": "verb",
+    "meaning": "had to / must have"
   },
   "débarquement": {
     "lemma": "débarquement",
     "pos": "noun",
-    "meaning": "débarquement (French opera term)"
+    "meaning": "landing / disembarkation"
   },
   "débouchant": {
-    "lemma": "débouchant",
+    "lemma": "déboucher",
     "pos": "verb",
-    "meaning": "débouchant (French opera term)"
+    "meaning": "emerging / coming out"
   },
   "décampe": {
-    "lemma": "décampe",
-    "pos": "noun",
-    "meaning": "décampe (French opera term)"
+    "lemma": "décamper",
+    "pos": "verb",
+    "meaning": "decamps / clears out / runs off"
   },
   "décider": {
     "lemma": "décider",
     "pos": "verb",
-    "meaning": "décider (French opera term)"
+    "meaning": "to decide / determine"
   },
   "décidément": {
     "lemma": "décidément",
-    "pos": "noun",
-    "meaning": "décidément (French opera term)"
+    "pos": "adverb",
+    "meaning": "decidedly / definitely"
   },
   "défend": {
-    "lemma": "défend",
-    "pos": "noun",
-    "meaning": "défend (French opera term)"
+    "lemma": "défendre",
+    "pos": "verb",
+    "meaning": "defends / forbids"
   },
   "défendez": {
-    "lemma": "défendez",
+    "lemma": "défendre",
     "pos": "verb",
-    "meaning": "défendez (French opera term)"
+    "meaning": "defend / forbid"
   },
   "défendre": {
     "lemma": "défendre",
     "pos": "verb",
-    "meaning": "défendre (French opera term)"
+    "meaning": "to defend / protect / forbid"
   },
   "défends": {
-    "lemma": "défends",
-    "pos": "noun",
-    "meaning": "défends (French opera term)"
+    "lemma": "défendre",
+    "pos": "verb",
+    "meaning": "defend / forbid"
   },
   "défendu": {
-    "lemma": "défendu",
-    "pos": "noun",
-    "meaning": "défendu (French opera term)"
+    "lemma": "défendre",
+    "pos": "verb",
+    "meaning": "defended / forbidden"
   },
   "dégrader": {
     "lemma": "dégrader",
     "pos": "verb",
-    "meaning": "dégrader (French opera term)"
+    "meaning": "to degrade / demote"
   },
   "déjà": {
     "lemma": "déjà",
-    "pos": "noun",
-    "meaning": "déjà (French opera term)"
+    "pos": "adverb",
+    "meaning": "already"
   },
   "démon": {
     "lemma": "démon",
     "pos": "noun",
-    "meaning": "démon (French opera term)"
+    "meaning": "demon / devil / fiend"
   },
   "dénoncés": {
-    "lemma": "dénoncés",
-    "pos": "noun",
-    "meaning": "dénoncés (French opera term)"
+    "lemma": "dénoncer",
+    "pos": "verb",
+    "meaning": "denounced / reported"
   },
   "départ": {
     "lemma": "départ",
     "pos": "noun",
-    "meaning": "départ (French opera term)"
+    "meaning": "departure / setting out"
   },
   "déplaise": {
-    "lemma": "déplaise",
-    "pos": "noun",
-    "meaning": "déplaise (French opera term)"
+    "lemma": "déplaire",
+    "pos": "verb",
+    "meaning": "displeases (ne vous déplaise: with all due respect)"
   },
   "déserter": {
     "lemma": "déserter",
     "pos": "verb",
-    "meaning": "déserter (French opera term)"
+    "meaning": "to desert / abandon"
   },
   "déserteur": {
     "lemma": "déserteur",
     "pos": "noun",
-    "meaning": "déserteur (French opera term)"
+    "meaning": "deserter"
   },
   "déserté": {
-    "lemma": "déserté",
+    "lemma": "déserter",
     "pos": "verb",
-    "meaning": "déserté (French opera term)"
+    "meaning": "deserted / abandoned"
   },
   "désir": {
     "lemma": "désir",
-    "pos": "verb",
-    "meaning": "désir (French opera term)"
+    "pos": "noun",
+    "meaning": "desire / wish"
   },
   "désires": {
-    "lemma": "désires",
-    "pos": "noun",
-    "meaning": "désires (French opera term)"
+    "lemma": "désirer",
+    "pos": "verb",
+    "meaning": "desire / wish"
   },
   "désolée": {
-    "lemma": "désolée",
-    "pos": "noun",
-    "meaning": "désolée (French opera term)"
+    "lemma": "désoler",
+    "pos": "verb",
+    "meaning": "desolated / sorry / distressed (fem.)"
   },
   "détails": {
-    "lemma": "détails",
+    "lemma": "détail",
     "pos": "noun",
-    "meaning": "détails (French opera term)"
+    "meaning": "details"
   },
   "développement": {
     "lemma": "développement",
     "pos": "noun",
-    "meaning": "développement (French opera term)"
+    "meaning": "development"
   },
   "dût": {
-    "lemma": "dût",
-    "pos": "noun",
-    "meaning": "dût (French opera term)"
+    "lemma": "devoir",
+    "pos": "verb",
+    "meaning": "had to / should (subjunctive)"
   },
   "eau": {
     "lemma": "eau",
     "pos": "noun",
-    "meaning": "eau (French opera term)"
+    "meaning": "water"
   },
   "effet": {
     "lemma": "effet",
     "pos": "noun",
-    "meaning": "effet (French opera term)"
+    "meaning": "effect (en effet: indeed)"
   },
   "effrayer": {
     "lemma": "effrayer",
     "pos": "verb",
-    "meaning": "effrayer (French opera term)"
+    "meaning": "to frighten / scare"
   },
   "effroi": {
     "lemma": "effroi",
     "pos": "noun",
-    "meaning": "effroi (French opera term)"
+    "meaning": "terror / dread / fright"
   },
   "effronterie": {
     "lemma": "effronterie",
     "pos": "noun",
-    "meaning": "effronterie (French opera term)"
+    "meaning": "effrontery / boldness / impudence"
   },
   "elizondo": {
-    "lemma": "elizondo",
+    "lemma": "Elizondo",
     "pos": "noun",
-    "meaning": "elizondo (French opera term)"
+    "meaning": "Elizondo (Basque town)"
   },
   "embarras": {
     "lemma": "embarras",
     "pos": "noun",
-    "meaning": "embarras (French opera term)"
+    "meaning": "embarrassment / trouble / dilemma"
   },
   "emmener": {
     "lemma": "emmener",
     "pos": "verb",
-    "meaning": "emmener (French opera term)"
+    "meaning": "to take away / lead away"
   },
   "emmenée": {
-    "lemma": "emmenée",
-    "pos": "noun",
-    "meaning": "emmenée (French opera term)"
+    "lemma": "emmener",
+    "pos": "verb",
+    "meaning": "taken away / led away (fem.)"
   },
   "emmènerai": {
-    "lemma": "emmènerai",
-    "pos": "noun",
-    "meaning": "emmènerai (French opera term)"
+    "lemma": "emmener",
+    "pos": "verb",
+    "meaning": "shall take away / lead away"
   },
   "emparer": {
     "lemma": "emparer",
     "pos": "verb",
-    "meaning": "emparer (French opera term)"
+    "meaning": "to seize / take possession (s'emparer)"
   },
   "emporter": {
     "lemma": "emporter",
     "pos": "verb",
-    "meaning": "emporter (French opera term)"
+    "meaning": "to carry off / take away"
   },
   "emporterais": {
-    "lemma": "emporterais",
+    "lemma": "emporter",
     "pos": "verb",
-    "meaning": "emporterais (French opera term)"
+    "meaning": "would carry off / take away"
   },
   "emporterons": {
-    "lemma": "emporterons",
+    "lemma": "emporter",
     "pos": "verb",
-    "meaning": "emporterons (French opera term)"
+    "meaning": "shall carry off / take away"
   },
   "emporté": {
-    "lemma": "emporté",
+    "lemma": "emporter",
     "pos": "verb",
-    "meaning": "emporté (French opera term)"
+    "meaning": "carried away / swept away"
   },
   "emprisonner": {
     "lemma": "emprisonner",
     "pos": "verb",
-    "meaning": "emprisonner (French opera term)"
+    "meaning": "to imprison / jail"
   },
   "empêchait": {
-    "lemma": "empêchait",
+    "lemma": "empêcher",
     "pos": "verb",
-    "meaning": "empêchait (French opera term)"
+    "meaning": "was preventing / hindered"
   },
   "empêche": {
-    "lemma": "empêche",
-    "pos": "noun",
-    "meaning": "empêche (French opera term)"
+    "lemma": "empêcher",
+    "pos": "verb",
+    "meaning": "prevents / hinders"
   },
   "enceinte": {
     "lemma": "enceinte",
     "pos": "noun",
-    "meaning": "enceinte (French opera term)"
+    "meaning": "enclosure / precinct / walls"
   },
   "encor": {
-    "lemma": "encor",
-    "pos": "noun",
-    "meaning": "encor (French opera term)"
+    "lemma": "encore",
+    "pos": "adverb",
+    "meaning": "still / yet / again"
   },
   "encourageant": {
-    "lemma": "encourageant",
+    "lemma": "encourager",
     "pos": "verb",
-    "meaning": "encourageant (French opera term)"
+    "meaning": "encouraging"
   },
   "endroit": {
     "lemma": "endroit",
     "pos": "noun",
-    "meaning": "endroit (French opera term)"
+    "meaning": "place / spot"
   },
   "enfiévrées": {
-    "lemma": "enfiévrées",
-    "pos": "noun",
-    "meaning": "enfiévrées (French opera term)"
+    "lemma": "enfiévré",
+    "pos": "adjective",
+    "meaning": "feverish / impassioned (fem. pl.)"
   },
   "enlever": {
     "lemma": "enlever",
     "pos": "verb",
-    "meaning": "enlever (French opera term)"
+    "meaning": "to abduct / remove / carry off"
   },
   "ennuie": {
-    "lemma": "ennuie",
-    "pos": "noun",
-    "meaning": "ennuie (French opera term)"
+    "lemma": "ennuyer",
+    "pos": "verb",
+    "meaning": "bores / annoys / troubles"
   },
   "ensemble": {
     "lemma": "ensemble",
-    "pos": "noun",
-    "meaning": "ensemble (French opera term)"
+    "pos": "adverb",
+    "meaning": "together"
   },
   "ensorcelait": {
-    "lemma": "ensorcelait",
+    "lemma": "ensorceler",
     "pos": "verb",
-    "meaning": "ensorcelait (French opera term)"
+    "meaning": "was bewitching / enchanted"
   },
   "ensorcellent": {
-    "lemma": "ensorcellent",
-    "pos": "noun",
-    "meaning": "ensorcellent (French opera term)"
+    "lemma": "ensorceler",
+    "pos": "verb",
+    "meaning": "bewitch / enchant"
   },
   "ensuite": {
     "lemma": "ensuite",
-    "pos": "noun",
-    "meaning": "ensuite (French opera term)"
+    "pos": "adverb",
+    "meaning": "then / afterwards / next"
   },
   "entendras": {
-    "lemma": "entendras",
-    "pos": "noun",
-    "meaning": "entendras (French opera term)"
+    "lemma": "entendre",
+    "pos": "verb",
+    "meaning": "thou shalt hear / listen"
   },
   "entier": {
     "lemma": "entier",
-    "pos": "verb",
-    "meaning": "entier (French opera term)"
+    "pos": "adjective",
+    "meaning": "whole / entire"
   },
   "entiers": {
-    "lemma": "entiers",
-    "pos": "noun",
-    "meaning": "entiers (French opera term)"
+    "lemma": "entier",
+    "pos": "adjective",
+    "meaning": "whole / entire (pl.)"
   },
   "entières": {
-    "lemma": "entières",
-    "pos": "noun",
-    "meaning": "entières (French opera term)"
+    "lemma": "entier",
+    "pos": "adjective",
+    "meaning": "whole / entire (fem. pl.)"
   },
   "entr": {
-    "lemma": "entr",
-    "pos": "noun",
-    "meaning": "entr (French opera term)"
+    "lemma": "entre",
+    "pos": "preposition",
+    "meaning": "between / among (entr'eux)"
   },
   "entraînant": {
-    "lemma": "entraînant",
+    "lemma": "entraîner",
     "pos": "verb",
-    "meaning": "entraînant (French opera term)"
+    "meaning": "sweeping away / drawing along"
   },
   "entraîne": {
-    "lemma": "entraîne",
-    "pos": "noun",
-    "meaning": "entraîne (French opera term)"
+    "lemma": "entraîner",
+    "pos": "verb",
+    "meaning": "draws / carries away / drags along"
   },
   "entreprenant": {
     "lemma": "entreprenant",
-    "pos": "verb",
-    "meaning": "entreprenant (French opera term)"
+    "pos": "adjective",
+    "meaning": "enterprising / bold"
   },
   "envoie": {
-    "lemma": "envoie",
-    "pos": "noun",
-    "meaning": "envoie (French opera term)"
+    "lemma": "envoyer",
+    "pos": "verb",
+    "meaning": "sends / dispatch"
   },
   "envola": {
-    "lemma": "envola",
-    "pos": "noun",
-    "meaning": "envola (French opera term)"
+    "lemma": "envoler",
+    "pos": "verb",
+    "meaning": "flew away (s'envola)"
   },
   "envole": {
-    "lemma": "envole",
-    "pos": "noun",
-    "meaning": "envole (French opera term)"
+    "lemma": "envoler",
+    "pos": "verb",
+    "meaning": "flies away (s'envole)"
   },
   "envoyer": {
     "lemma": "envoyer",
     "pos": "verb",
-    "meaning": "envoyer (French opera term)"
+    "meaning": "to send / dispatch"
   },
   "envoyé": {
-    "lemma": "envoyé",
+    "lemma": "envoyer",
     "pos": "verb",
-    "meaning": "envoyé (French opera term)"
+    "meaning": "sent / messenger"
   },
   "errante": {
-    "lemma": "errante",
-    "pos": "noun",
-    "meaning": "errante (French opera term)"
+    "lemma": "errant",
+    "pos": "adjective",
+    "meaning": "wandering / straying (fem.)"
   },
   "espada": {
     "lemma": "espada",
     "pos": "noun",
-    "meaning": "espada (French opera term)"
+    "meaning": "espada / matador"
   },
   "espoir": {
     "lemma": "espoir",
-    "pos": "verb",
-    "meaning": "espoir (French opera term)"
+    "pos": "noun",
+    "meaning": "hope"
   },
   "esprit": {
     "lemma": "esprit",
     "pos": "noun",
-    "meaning": "esprit (French opera term)"
+    "meaning": "spirit / mind / wit"
   },
   "espère": {
-    "lemma": "espère",
+    "lemma": "espérer",
     "pos": "verb",
-    "meaning": "espère (French opera term)"
+    "meaning": "hopes / hope"
   },
   "essaie": {
-    "lemma": "essaie",
-    "pos": "noun",
-    "meaning": "essaie (French opera term)"
+    "lemma": "essayer",
+    "pos": "verb",
+    "meaning": "try / tries / attempt"
   },
   "etc": {
-    "lemma": "etc",
-    "pos": "noun",
-    "meaning": "etc (French opera term)"
+    "lemma": "etc.",
+    "pos": "adverb",
+    "meaning": "et cetera / and so forth"
   },
   "etchalar": {
-    "lemma": "etchalar",
+    "lemma": "Etchalar",
     "pos": "noun",
-    "meaning": "etchalar (French opera term)"
+    "meaning": "Etxalar (Basque town)"
   },
   "eusebio": {
-    "lemma": "eusebio",
+    "lemma": "Eusebio",
     "pos": "noun",
-    "meaning": "eusebio (French opera term)"
+    "meaning": "Eusebio"
   },
   "exact": {
     "lemma": "exact",
-    "pos": "noun",
-    "meaning": "exact (French opera term)"
+    "pos": "adjective",
+    "meaning": "exact / precise / punctual"
   },
   "exemple": {
     "lemma": "exemple",
     "pos": "noun",
-    "meaning": "exemple (French opera term)"
+    "meaning": "example (par exemple: for example)"
   },
   "face": {
     "lemma": "face",
     "pos": "noun",
-    "meaning": "face (French opera term)"
+    "meaning": "face (en face: opposite / in front)"
   },
   "facile": {
     "lemma": "facile",
-    "pos": "noun",
-    "meaning": "facile (French opera term)"
+    "pos": "adjective",
+    "meaning": "easy"
   },
   "faible": {
     "lemma": "faible",
-    "pos": "noun",
-    "meaning": "faible (French opera term)"
+    "pos": "adjective",
+    "meaning": "weak / feeble"
   },
   "faisaient": {
-    "lemma": "faisaient",
-    "pos": "noun",
-    "meaning": "faisaient (French opera term)"
+    "lemma": "faire",
+    "pos": "verb",
+    "meaning": "were doing / making"
   },
   "fameux": {
     "lemma": "fameux",
-    "pos": "noun",
-    "meaning": "fameux (French opera term)"
+    "pos": "adjective",
+    "meaning": "famous / notorious"
   },
   "faux": {
     "lemma": "faux",
-    "pos": "noun",
-    "meaning": "faux (French opera term)"
+    "pos": "adjective",
+    "meaning": "false / fake"
   },
   "façon": {
     "lemma": "façon",
     "pos": "noun",
-    "meaning": "façon (French opera term)"
+    "meaning": "way / manner (de façon: so as to)"
   },
   "façons": {
-    "lemma": "façons",
-    "pos": "verb",
-    "meaning": "façons (French opera term)"
+    "lemma": "façon",
+    "pos": "noun",
+    "meaning": "manners / ways"
   },
   "fer": {
     "lemma": "fer",
-    "pos": "verb",
-    "meaning": "fer (French opera term)"
+    "pos": "noun",
+    "meaning": "iron / sword / blade"
   },
   "feraient": {
-    "lemma": "feraient",
-    "pos": "noun",
-    "meaning": "feraient (French opera term)"
+    "lemma": "faire",
+    "pos": "verb",
+    "meaning": "would do / make"
   },
   "fers": {
-    "lemma": "fers",
+    "lemma": "fer",
     "pos": "noun",
-    "meaning": "fers (French opera term)"
+    "meaning": "irons / chains / fetters"
   },
   "feu": {
     "lemma": "feu",
     "pos": "noun",
-    "meaning": "feu (French opera term)"
+    "meaning": "fire / light"
   },
   "fi": {
     "lemma": "fi",
-    "pos": "noun",
-    "meaning": "fi (French opera term)"
+    "pos": "interjection",
+    "meaning": "fie! (fi donc: fie upon it!)"
   },
   "fidèle": {
     "lemma": "fidèle",
-    "pos": "noun",
-    "meaning": "fidèle (French opera term)"
+    "pos": "adjective",
+    "meaning": "faithful / loyal"
   },
   "figure": {
     "lemma": "figure",
-    "pos": "verb",
-    "meaning": "figure (French opera term)"
+    "pos": "noun",
+    "meaning": "face / figure / countenance"
   },
   "fil": {
     "lemma": "fil",
     "pos": "noun",
-    "meaning": "fil (French opera term)"
+    "meaning": "thread / wire / edge"
   },
   "filous": {
-    "lemma": "filous",
+    "lemma": "filou",
     "pos": "noun",
-    "meaning": "filous (French opera term)"
+    "meaning": "pickpockets / scoundrels / rogues"
   },
   "fin": {
     "lemma": "fin",
     "pos": "noun",
-    "meaning": "fin (French opera term)"
+    "meaning": "end / fine"
   },
   "fine": {
-    "lemma": "fine",
-    "pos": "noun",
-    "meaning": "fine (French opera term)"
+    "lemma": "fin",
+    "pos": "adjective",
+    "meaning": "fine / clever / shrewd (fem.)"
   },
   "fini": {
-    "lemma": "fini",
-    "pos": "noun",
-    "meaning": "fini (French opera term)"
+    "lemma": "finir",
+    "pos": "verb",
+    "meaning": "finished / done"
   },
   "finir": {
     "lemma": "finir",
     "pos": "verb",
-    "meaning": "finir (French opera term)"
+    "meaning": "to finish / end"
   },
   "finirai": {
-    "lemma": "finirai",
-    "pos": "noun",
-    "meaning": "finirai (French opera term)"
+    "lemma": "finir",
+    "pos": "verb",
+    "meaning": "shall finish / end"
   },
   "finirez": {
-    "lemma": "finirez",
+    "lemma": "finir",
     "pos": "verb",
-    "meaning": "finirez (French opera term)"
+    "meaning": "will finish / end"
   },
   "fis": {
-    "lemma": "fis",
-    "pos": "noun",
-    "meaning": "fis (French opera term)"
+    "lemma": "faire",
+    "pos": "verb",
+    "meaning": "did / made"
   },
   "flambeaux": {
-    "lemma": "flambeaux",
+    "lemma": "flambeau",
     "pos": "noun",
-    "meaning": "flambeaux (French opera term)"
+    "meaning": "torches / flambeaux"
   },
   "flanc": {
     "lemma": "flanc",
     "pos": "noun",
-    "meaning": "flanc (French opera term)"
+    "meaning": "flank / side"
   },
   "flattez": {
-    "lemma": "flattez",
+    "lemma": "flatter",
     "pos": "verb",
-    "meaning": "flattez (French opera term)"
+    "meaning": "flatter"
   },
   "flottaient": {
-    "lemma": "flottaient",
-    "pos": "noun",
-    "meaning": "flottaient (French opera term)"
+    "lemma": "flotter",
+    "pos": "verb",
+    "meaning": "were floating / wafting / waving"
   },
   "flétrie": {
-    "lemma": "flétrie",
-    "pos": "noun",
-    "meaning": "flétrie (French opera term)"
+    "lemma": "flétrir",
+    "pos": "verb",
+    "meaning": "withered / faded / tarnished (fem.)"
   },
   "foi": {
     "lemma": "foi",
     "pos": "noun",
-    "meaning": "foi (French opera term)"
+    "meaning": "faith / trust (ma foi: my faith)"
   },
   "fois": {
     "lemma": "fois",
     "pos": "noun",
-    "meaning": "fois (French opera term)"
+    "meaning": "time (une fois: once)"
   },
   "folie": {
     "lemma": "folie",
     "pos": "noun",
-    "meaning": "folie (French opera term)"
+    "meaning": "madness / folly"
   },
   "folies": {
-    "lemma": "folies",
+    "lemma": "folie",
     "pos": "noun",
-    "meaning": "folies (French opera term)"
+    "meaning": "follies / mad escapades"
   },
   "fond": {
     "lemma": "fond",
     "pos": "noun",
-    "meaning": "fond (French opera term)"
+    "meaning": "bottom / depth / background"
   },
   "force": {
     "lemma": "force",
     "pos": "noun",
-    "meaning": "force (French opera term)"
+    "meaning": "force / strength"
   },
   "forcenées": {
-    "lemma": "forcenées",
-    "pos": "noun",
-    "meaning": "forcenées (French opera term)"
+    "lemma": "forcené",
+    "pos": "adjective",
+    "meaning": "frenzied / mad / furious (fem. pl.)"
   },
   "forcerai": {
-    "lemma": "forcerai",
-    "pos": "noun",
-    "meaning": "forcerai (French opera term)"
+    "lemma": "forcer",
+    "pos": "verb",
+    "meaning": "shall force / compel"
   },
   "forcés": {
-    "lemma": "forcés",
-    "pos": "noun",
-    "meaning": "forcés (French opera term)"
+    "lemma": "forcer",
+    "pos": "verb",
+    "meaning": "forced / compelled (pl.)"
   },
   "fort": {
     "lemma": "fort",
-    "pos": "noun",
-    "meaning": "fort (French opera term)"
+    "pos": "adjective",
+    "meaning": "strong / loud / very"
   },
   "forte": {
-    "lemma": "forte",
-    "pos": "noun",
-    "meaning": "forte (French opera term)"
+    "lemma": "fort",
+    "pos": "adjective",
+    "meaning": "strong / powerful (fem.)"
   },
   "fortune": {
     "lemma": "fortune",
     "pos": "noun",
-    "meaning": "fortune (French opera term)"
+    "meaning": "fortune / wealth / destiny"
   },
   "fr": {
-    "lemma": "fr",
+    "lemma": "français",
     "pos": "noun",
-    "meaning": "fr (French opera term)"
+    "meaning": "French"
   },
   "fracas": {
     "lemma": "fracas",
     "pos": "noun",
-    "meaning": "fracas (French opera term)"
+    "meaning": "crash / uproar / din"
   },
   "frais": {
     "lemma": "frais",
-    "pos": "verb",
-    "meaning": "frais (French opera term)"
+    "pos": "adjective",
+    "meaning": "fresh / cool / expenses"
   },
   "franchit": {
-    "lemma": "franchit",
-    "pos": "noun",
-    "meaning": "franchit (French opera term)"
+    "lemma": "franchir",
+    "pos": "verb",
+    "meaning": "crosses / cleared / leaped over"
   },
   "fripier": {
     "lemma": "fripier",
-    "pos": "verb",
-    "meaning": "fripier (French opera term)"
+    "pos": "noun",
+    "meaning": "second-hand dealer / old-clothes seller"
   },
   "froids": {
-    "lemma": "froids",
-    "pos": "noun",
-    "meaning": "froids (French opera term)"
+    "lemma": "froid",
+    "pos": "adjective",
+    "meaning": "cold / chilly (pl.)"
   },
   "front": {
     "lemma": "front",
-    "pos": "verb",
-    "meaning": "front (French opera term)"
+    "pos": "noun",
+    "meaning": "forehead / brow / front"
   },
   "fruits": {
-    "lemma": "fruits",
+    "lemma": "fruit",
     "pos": "noun",
-    "meaning": "fruits (French opera term)"
+    "meaning": "fruits"
   },
   "fureur": {
     "lemma": "fureur",
     "pos": "noun",
-    "meaning": "fureur (French opera term)"
+    "meaning": "fury / rage"
   },
   "fusse": {
-    "lemma": "fusse",
-    "pos": "noun",
-    "meaning": "fusse (French opera term)"
+    "lemma": "être",
+    "pos": "verb",
+    "meaning": "were / might be (subjunctive)"
   },
   "fâche": {
-    "lemma": "fâche",
-    "pos": "noun",
-    "meaning": "fâche (French opera term)"
+    "lemma": "fâcher",
+    "pos": "verb",
+    "meaning": "angers / vexes (se fâcher)"
   },
   "galant": {
     "lemma": "galant",
-    "pos": "verb",
-    "meaning": "galant (French opera term)"
+    "pos": "adjective",
+    "meaning": "gallant / suitor / courteous"
   },
   "galants": {
-    "lemma": "galants",
+    "lemma": "galant",
     "pos": "noun",
-    "meaning": "galants (French opera term)"
+    "meaning": "suitors / gallants (pl.)"
   },
   "gare": {
     "lemma": "gare",
-    "pos": "verb",
-    "meaning": "gare (French opera term)"
+    "pos": "interjection",
+    "meaning": "beware! / look out! / watch out!"
   },
   "gars": {
     "lemma": "gars",
     "pos": "noun",
-    "meaning": "gars (French opera term)"
+    "meaning": "lad / boy / fellow"
   },
   "gens": {
     "lemma": "gens",
     "pos": "noun",
-    "meaning": "gens (French opera term)"
+    "meaning": "people / folk"
   },
   "gentil": {
     "lemma": "gentil",
-    "pos": "noun",
-    "meaning": "gentil (French opera term)"
+    "pos": "adjective",
+    "meaning": "pretty / nice / gentle"
   },
   "gentille": {
-    "lemma": "gentille",
-    "pos": "noun",
-    "meaning": "gentille (French opera term)"
+    "lemma": "gentil",
+    "pos": "adjective",
+    "meaning": "pretty / sweet / gentle (fem.)"
   },
   "gentiment": {
     "lemma": "gentiment",
-    "pos": "noun",
-    "meaning": "gentiment (French opera term)"
+    "pos": "adverb",
+    "meaning": "nicely / sweetly / kindly"
   },
   "gesticulant": {
-    "lemma": "gesticulant",
+    "lemma": "gesticuler",
     "pos": "verb",
-    "meaning": "gesticulant (French opera term)"
+    "meaning": "gesticulating / waving arms"
   },
   "geôlier": {
     "lemma": "geôlier",
-    "pos": "verb",
-    "meaning": "geôlier (French opera term)"
+    "pos": "noun",
+    "meaning": "jailer / gaoler"
   },
   "giberne": {
     "lemma": "giberne",
     "pos": "noun",
-    "meaning": "giberne (French opera term)"
+    "meaning": "cartridge box / ammunition pouch"
   },
   "gibraltar": {
-    "lemma": "gibraltar",
+    "lemma": "Gibraltar",
     "pos": "noun",
-    "meaning": "gibraltar (French opera term)"
+    "meaning": "Gibraltar"
   },
   "grade": {
     "lemma": "grade",
     "pos": "noun",
-    "meaning": "grade (French opera term)"
+    "meaning": "rank / grade / degree"
   },
   "grignoter": {
     "lemma": "grignoter",
     "pos": "verb",
-    "meaning": "grignoter (French opera term)"
+    "meaning": "to nibble / munch"
   },
   "grilles": {
-    "lemma": "grilles",
+    "lemma": "grille",
     "pos": "noun",
-    "meaning": "grilles (French opera term)"
+    "meaning": "gates / railings / bars"
   },
   "grimace": {
     "lemma": "grimace",
     "pos": "noun",
-    "meaning": "grimace (French opera term)"
+    "meaning": "grimace / wry face"
   },
   "grinçaient": {
-    "lemma": "grinçaient",
-    "pos": "noun",
-    "meaning": "grinçaient (French opera term)"
+    "lemma": "grincer",
+    "pos": "verb",
+    "meaning": "were grinding / gnashing"
   },
   "gros": {
     "lemma": "gros",
-    "pos": "noun",
-    "meaning": "gros (French opera term)"
+    "pos": "adjective",
+    "meaning": "big / thick / large"
   },
   "grâce": {
     "lemma": "grâce",
     "pos": "noun",
-    "meaning": "grâce (French opera term)"
+    "meaning": "grace / mercy / pardon"
   },
   "gré": {
     "lemma": "gré",
-    "pos": "verb",
-    "meaning": "gré (French opera term)"
+    "pos": "noun",
+    "meaning": "will / liking (bon gré, mal gré: willy-nilly)"
   },
   "guerre": {
     "lemma": "guerre",
-    "pos": "verb",
-    "meaning": "guerre (French opera term)"
+    "pos": "noun",
+    "meaning": "war"
   },
   "guette": {
-    "lemma": "guette",
-    "pos": "noun",
-    "meaning": "guette (French opera term)"
+    "lemma": "guetter",
+    "pos": "verb",
+    "meaning": "watches / lies in wait"
   },
   "guetter": {
     "lemma": "guetter",
     "pos": "verb",
-    "meaning": "guetter (French opera term)"
+    "meaning": "to watch / lie in wait for"
   },
   "guide": {
     "lemma": "guide",
     "pos": "noun",
-    "meaning": "guide (French opera term)"
+    "meaning": "guide / leader"
   },
   "guère": {
     "lemma": "guère",
-    "pos": "verb",
-    "meaning": "guère (French opera term)"
+    "pos": "adverb",
+    "meaning": "scarcely / hardly / little (ne... guère)"
   },
   "ha": {
     "lemma": "ha",
-    "pos": "noun",
-    "meaning": "ha (French opera term)"
+    "pos": "interjection",
+    "meaning": "ha! / ah!"
   },
   "habillée": {
-    "lemma": "habillée",
-    "pos": "noun",
-    "meaning": "habillée (French opera term)"
+    "lemma": "habiller",
+    "pos": "verb",
+    "meaning": "dressed / clothed (fem.)"
   },
   "habit": {
     "lemma": "habit",
     "pos": "noun",
-    "meaning": "habit (French opera term)"
+    "meaning": "coat / garment / dress"
   },
   "habitait": {
-    "lemma": "habitait",
+    "lemma": "habiter",
     "pos": "verb",
-    "meaning": "habitait (French opera term)"
+    "meaning": "lived in / inhabited"
   },
   "habitudes": {
-    "lemma": "habitudes",
+    "lemma": "habitude",
     "pos": "noun",
-    "meaning": "habitudes (French opera term)"
+    "meaning": "habits / customs"
   },
   "hais": {
-    "lemma": "hais",
+    "lemma": "haïr",
     "pos": "verb",
-    "meaning": "hais (French opera term)"
+    "meaning": "hate / detest"
   },
   "harceler": {
     "lemma": "harceler",
     "pos": "verb",
-    "meaning": "harceler (French opera term)"
+    "meaning": "to harass / badger"
   },
   "harcèle": {
-    "lemma": "harcèle",
-    "pos": "noun",
-    "meaning": "harcèle (French opera term)"
+    "lemma": "harceler",
+    "pos": "verb",
+    "meaning": "harasses / badgers"
   },
   "hardis": {
-    "lemma": "hardis",
-    "pos": "noun",
-    "meaning": "hardis (French opera term)"
+    "lemma": "hardi",
+    "pos": "adjective",
+    "meaning": "bold / daring (pl.)"
   },
   "hasard": {
     "lemma": "hasard",
     "pos": "noun",
-    "meaning": "hasard (French opera term)"
+    "meaning": "chance / accident (par hasard: by chance)"
   },
   "haut": {
     "lemma": "haut",
-    "pos": "noun",
-    "meaning": "haut (French opera term)"
+    "pos": "adjective",
+    "meaning": "high / loud / top"
   },
   "haute": {
-    "lemma": "haute",
-    "pos": "noun",
-    "meaning": "haute (French opera term)"
+    "lemma": "haut",
+    "pos": "adjective",
+    "meaning": "high / tall (fem.)"
   },
   "hauteur": {
     "lemma": "hauteur",
     "pos": "noun",
-    "meaning": "hauteur (French opera term)"
+    "meaning": "height / arrogance"
   },
   "heureuse": {
-    "lemma": "heureuse",
-    "pos": "noun",
-    "meaning": "heureuse (French opera term)"
+    "lemma": "heureux",
+    "pos": "adjective",
+    "meaning": "happy / fortunate (fem.)"
   },
   "heureux": {
     "lemma": "heureux",
-    "pos": "noun",
-    "meaning": "heureux (French opera term)"
+    "pos": "adjective",
+    "meaning": "happy / fortunate"
   },
   "honnête": {
     "lemma": "honnête",
-    "pos": "noun",
-    "meaning": "honnête (French opera term)"
+    "pos": "adjective",
+    "meaning": "honest / respectable / honorable"
   },
   "honte": {
     "lemma": "honte",
     "pos": "noun",
-    "meaning": "honte (French opera term)"
+    "meaning": "shame / disgrace"
   },
   "hors": {
     "lemma": "hors",
-    "pos": "noun",
-    "meaning": "hors (French opera term)"
+    "pos": "preposition",
+    "meaning": "outside / out of (hors de)"
   },
   "https": {
     "lemma": "https",
     "pos": "noun",
-    "meaning": "https (French opera term)"
+    "meaning": "https"
   },
   "hui": {
-    "lemma": "hui",
-    "pos": "noun",
-    "meaning": "hui (French opera term)"
+    "lemma": "aujourd'hui",
+    "pos": "adverb",
+    "meaning": "today (aujourd'hui)"
   },
   "hum": {
     "lemma": "hum",
-    "pos": "noun",
-    "meaning": "hum (French opera term)"
+    "pos": "interjection",
+    "meaning": "hum! / ahem!"
   },
   "humblement": {
     "lemma": "humblement",
-    "pos": "noun",
-    "meaning": "humblement (French opera term)"
+    "pos": "adverb",
+    "meaning": "humbly"
   },
   "hurlant": {
-    "lemma": "hurlant",
+    "lemma": "hurler",
     "pos": "verb",
-    "meaning": "hurlant (French opera term)"
+    "meaning": "howling / yelling"
   },
   "hurle": {
-    "lemma": "hurle",
-    "pos": "noun",
-    "meaning": "hurle (French opera term)"
+    "lemma": "hurler",
+    "pos": "verb",
+    "meaning": "howls / yells"
   },
   "hélas": {
     "lemma": "hélas",
-    "pos": "noun",
-    "meaning": "hélas (French opera term)"
+    "pos": "interjection",
+    "meaning": "alas!"
   },
   "hérite": {
-    "lemma": "hérite",
-    "pos": "noun",
-    "meaning": "hérite (French opera term)"
+    "lemma": "hériter",
+    "pos": "verb",
+    "meaning": "inherits"
   },
   "idolâtrons": {
-    "lemma": "idolâtrons",
+    "lemma": "idolâtrer",
     "pos": "verb",
-    "meaning": "idolâtrons (French opera term)"
+    "meaning": "we idolize / worship"
   },
   "idée": {
     "lemma": "idée",
     "pos": "noun",
-    "meaning": "idée (French opera term)"
+    "meaning": "idea / thought"
   },
   "ii": {
-    "lemma": "ii",
+    "lemma": "II",
     "pos": "noun",
-    "meaning": "ii (French opera term)"
+    "meaning": "II (second)"
   },
   "iii": {
-    "lemma": "iii",
+    "lemma": "III",
     "pos": "noun",
-    "meaning": "iii (French opera term)"
+    "meaning": "III (third)"
   },
   "illo": {
-    "lemma": "illo",
+    "lemma": "Illo",
     "pos": "noun",
-    "meaning": "illo (French opera term)"
+    "meaning": "Illo (Pepe Illo / Escamillo)"
   },
   "impitoyable": {
     "lemma": "impitoyable",
-    "pos": "noun",
-    "meaning": "impitoyable (French opera term)"
+    "pos": "adjective",
+    "meaning": "pitiless / merciless / ruthless"
   },
   "implore": {
-    "lemma": "implore",
+    "lemma": "implorer",
     "pos": "verb",
-    "meaning": "implore (French opera term)"
+    "meaning": "implores / beseeches"
   },
   "importe": {
-    "lemma": "importe",
-    "pos": "noun",
-    "meaning": "importe (French opera term)"
+    "lemma": "importer",
+    "pos": "verb",
+    "meaning": "matters (n'importe: no matter)"
   },
   "impossible": {
     "lemma": "impossible",
-    "pos": "noun",
-    "meaning": "impossible (French opera term)"
+    "pos": "adjective",
+    "meaning": "impossible"
   },
   "impudents": {
-    "lemma": "impudents",
-    "pos": "noun",
-    "meaning": "impudents (French opera term)"
+    "lemma": "impudent",
+    "pos": "adjective",
+    "meaning": "impudent / insolent (pl.)"
   },
   "index": {
     "lemma": "index",
     "pos": "noun",
-    "meaning": "index (French opera term)"
+    "meaning": "forefinger / index"
   },
   "indigne": {
     "lemma": "indigne",
-    "pos": "noun",
-    "meaning": "indigne (French opera term)"
+    "pos": "adjective",
+    "meaning": "unworthy / base / shameful"
   },
   "indiscret": {
     "lemma": "indiscret",
-    "pos": "noun",
-    "meaning": "indiscret (French opera term)"
+    "pos": "adjective",
+    "meaning": "indiscreet / prying / intrusive"
   },
   "indécise": {
-    "lemma": "indécise",
-    "pos": "noun",
-    "meaning": "indécise (French opera term)"
+    "lemma": "indécis",
+    "pos": "adjective",
+    "meaning": "hesitant / undecided (fem.)"
   },
   "infamie": {
     "lemma": "infamie",
     "pos": "noun",
-    "meaning": "infamie (French opera term)"
+    "meaning": "infamy / disgrace"
   },
   "inflexible": {
     "lemma": "inflexible",
-    "pos": "noun",
-    "meaning": "inflexible (French opera term)"
+    "pos": "adjective",
+    "meaning": "inflexible / unyielding"
   },
   "infâme": {
     "lemma": "infâme",
-    "pos": "noun",
-    "meaning": "infâme (French opera term)"
+    "pos": "adjective",
+    "meaning": "infamous / vile / abominable"
   },
   "inline": {
     "lemma": "inline",
-    "pos": "noun",
-    "meaning": "inline (French opera term)"
+    "pos": "adjective",
+    "meaning": "inline"
   },
   "inside": {
     "lemma": "inside",
-    "pos": "noun",
-    "meaning": "inside (French opera term)"
+    "pos": "adverb",
+    "meaning": "inside"
   },
   "installe": {
-    "lemma": "installe",
-    "pos": "noun",
-    "meaning": "installe (French opera term)"
+    "lemma": "installer",
+    "pos": "verb",
+    "meaning": "settles / installs (s'installer)"
   },
   "instant": {
     "lemma": "instant",
-    "pos": "verb",
-    "meaning": "instant (French opera term)"
+    "pos": "noun",
+    "meaning": "instant / moment"
   },
   "instruments": {
-    "lemma": "instruments",
+    "lemma": "instrument",
     "pos": "noun",
-    "meaning": "instruments (French opera term)"
+    "meaning": "instruments / tools"
   },
   "insultée": {
-    "lemma": "insultée",
-    "pos": "noun",
-    "meaning": "insultée (French opera term)"
+    "lemma": "insulter",
+    "pos": "verb",
+    "meaning": "insulted (fem.)"
   },
   "interpellent": {
-    "lemma": "interpellent",
-    "pos": "noun",
-    "meaning": "interpellent (French opera term)"
+    "lemma": "interpeller",
+    "pos": "verb",
+    "meaning": "call out to / question / shout to"
   },
   "intrépide": {
     "lemma": "intrépide",
-    "pos": "noun",
-    "meaning": "intrépide (French opera term)"
+    "pos": "adjective",
+    "meaning": "intrepid / fearless"
   },
   "invitation": {
     "lemma": "invitation",
     "pos": "noun",
-    "meaning": "invitation (French opera term)"
+    "meaning": "invitation"
   },
   "invite": {
-    "lemma": "invite",
-    "pos": "noun",
-    "meaning": "invite (French opera term)"
+    "lemma": "inviter",
+    "pos": "verb",
+    "meaning": "invites / invite"
   },
   "inviter": {
     "lemma": "inviter",
     "pos": "verb",
-    "meaning": "inviter (French opera term)"
+    "meaning": "to invite"
   },
   "ivre": {
     "lemma": "ivre",
-    "pos": "verb",
-    "meaning": "ivre (French opera term)"
+    "pos": "adjective",
+    "meaning": "drunk / intoxicated"
   },
   "jacques": {
-    "lemma": "jacques",
+    "lemma": "Jacques",
     "pos": "noun",
-    "meaning": "jacques (French opera term)"
+    "meaning": "James / Jacques (Maître Jacques)"
   },
   "jadis": {
     "lemma": "jadis",
-    "pos": "noun",
-    "meaning": "jadis (French opera term)"
+    "pos": "adverb",
+    "meaning": "formerly / long ago / of old"
   },
   "jalousie": {
     "lemma": "jalousie",
     "pos": "noun",
-    "meaning": "jalousie (French opera term)"
+    "meaning": "jealousy / Venetian blind"
   },
   "joindre": {
     "lemma": "joindre",
     "pos": "verb",
-    "meaning": "joindre (French opera term)"
+    "meaning": "to join / reach / unite"
   },
   "joindrons": {
-    "lemma": "joindrons",
+    "lemma": "joindre",
     "pos": "verb",
-    "meaning": "joindrons (French opera term)"
+    "meaning": "we shall join"
   },
   "joyeuse": {
-    "lemma": "joyeuse",
-    "pos": "noun",
-    "meaning": "joyeuse (French opera term)"
+    "lemma": "joyeux",
+    "pos": "adjective",
+    "meaning": "joyful / merry (fem.)"
   },
   "juger": {
     "lemma": "juger",
     "pos": "verb",
-    "meaning": "juger (French opera term)"
+    "meaning": "to judge / deem"
   },
   "jugé": {
-    "lemma": "jugé",
+    "lemma": "juger",
     "pos": "verb",
-    "meaning": "jugé (French opera term)"
+    "meaning": "judged / deemed"
   },
   "juridiques": {
-    "lemma": "juridiques",
-    "pos": "noun",
-    "meaning": "juridiques (French opera term)"
+    "lemma": "juridique",
+    "pos": "adjective",
+    "meaning": "legal / juridical (pl.)"
   },
   "jusqu": {
-    "lemma": "jusqu",
-    "pos": "noun",
-    "meaning": "jusqu (French opera term)"
+    "lemma": "jusque",
+    "pos": "preposition",
+    "meaning": "until / as far as (jusqu'à)"
   },
   "juste": {
     "lemma": "juste",
-    "pos": "noun",
-    "meaning": "juste (French opera term)"
+    "pos": "adjective",
+    "meaning": "just / right / accurate / fair"
   },
   "justement": {
     "lemma": "justement",
-    "pos": "noun",
-    "meaning": "justement (French opera term)"
+    "pos": "adverb",
+    "meaning": "justly / exactly / precisely"
   },
   "lachi": {
     "lemma": "lachi",
     "pos": "noun",
-    "meaning": "lachi (French opera term)"
+    "meaning": "lucky / lodestone (bar lachi: loadstone)"
   },
   "laides": {
-    "lemma": "laides",
-    "pos": "noun",
-    "meaning": "laides (French opera term)"
+    "lemma": "laid",
+    "pos": "adjective",
+    "meaning": "ugly / plain (fem. pl.)"
   },
   "laiton": {
     "lemma": "laiton",
     "pos": "noun",
-    "meaning": "laiton (French opera term)"
+    "meaning": "brass"
   },
   "lame": {
     "lemma": "lame",
     "pos": "noun",
-    "meaning": "lame (French opera term)"
+    "meaning": "blade / wave"
   },
   "lance": {
-    "lemma": "lance",
-    "pos": "noun",
-    "meaning": "lance (French opera term)"
+    "lemma": "lancer",
+    "pos": "verb",
+    "meaning": "throws / casts / flings"
   },
   "lancée": {
-    "lemma": "lancée",
-    "pos": "noun",
-    "meaning": "lancée (French opera term)"
+    "lemma": "lancer",
+    "pos": "verb",
+    "meaning": "thrown / launched (fem.)"
   },
   "langues": {
-    "lemma": "langues",
+    "lemma": "langue",
     "pos": "noun",
-    "meaning": "langues (French opera term)"
+    "meaning": "tongues / languages"
   },
   "laquais": {
     "lemma": "laquais",
-    "pos": "verb",
-    "meaning": "laquais (French opera term)"
+    "pos": "noun",
+    "meaning": "lackey / footman"
   },
   "leste": {
     "lemma": "leste",
-    "pos": "noun",
-    "meaning": "leste (French opera term)"
+    "pos": "adjective",
+    "meaning": "nimble / quick / agile"
   },
   "lettre": {
     "lemma": "lettre",
-    "pos": "verb",
-    "meaning": "lettre (French opera term)"
+    "pos": "noun",
+    "meaning": "letter"
   },
   "levaient": {
-    "lemma": "levaient",
-    "pos": "noun",
-    "meaning": "levaient (French opera term)"
+    "lemma": "lever",
+    "pos": "verb",
+    "meaning": "were raising / lifting"
   },
   "levant": {
-    "lemma": "levant",
+    "lemma": "lever",
     "pos": "verb",
-    "meaning": "levant (French opera term)"
+    "meaning": "raising / lifting"
   },
   "licence": {
     "lemma": "licence",
     "pos": "noun",
-    "meaning": "licence (French opera term)"
+    "meaning": "license / leave"
   },
   "lieu": {
     "lemma": "lieu",
     "pos": "noun",
-    "meaning": "lieu (French opera term)"
+    "meaning": "place / spot (au lieu de: instead of)"
   },
   "lieues": {
-    "lemma": "lieues",
+    "lemma": "lieue",
     "pos": "noun",
-    "meaning": "lieues (French opera term)"
+    "meaning": "leagues (distance)"
   },
   "lignes": {
-    "lemma": "lignes",
+    "lemma": "ligne",
     "pos": "noun",
-    "meaning": "lignes (French opera term)"
+    "meaning": "lines"
   },
   "lime": {
     "lemma": "lime",
     "pos": "noun",
-    "meaning": "lime (French opera term)"
+    "meaning": "file (tool)"
   },
   "lire": {
     "lemma": "lire",
     "pos": "verb",
-    "meaning": "lire (French opera term)"
+    "meaning": "to read"
   },
   "livre": {
     "lemma": "livre",
-    "pos": "verb",
-    "meaning": "livre (French opera term)"
+    "pos": "noun",
+    "meaning": "book / pound"
   },
   "lizzarabengoa": {
-    "lemma": "lizzarabengoa",
+    "lemma": "Lizarrabengoa",
     "pos": "noun",
-    "meaning": "lizzarabengoa (French opera term)"
+    "meaning": "Lizarrabengoa (Don José's family)"
   },
   "logis": {
     "lemma": "logis",
     "pos": "noun",
-    "meaning": "logis (French opera term)"
+    "meaning": "dwelling / lodging / home"
   },
   "loin": {
     "lemma": "loin",
-    "pos": "noun",
-    "meaning": "loin (French opera term)"
+    "pos": "adverb",
+    "meaning": "far / distant"
   },
   "long": {
     "lemma": "long",
-    "pos": "noun",
-    "meaning": "long (French opera term)"
+    "pos": "adjective",
+    "meaning": "long (le long de: along)"
   },
   "longue": {
-    "lemma": "longue",
-    "pos": "noun",
-    "meaning": "longue (French opera term)"
+    "lemma": "long",
+    "pos": "adjective",
+    "meaning": "long (fem.)"
   },
   "lorgnettes": {
-    "lemma": "lorgnettes",
+    "lemma": "lorgnette",
     "pos": "noun",
-    "meaning": "lorgnettes (French opera term)"
+    "meaning": "opera glasses / lorgnettes"
   },
   "lorsqu": {
-    "lemma": "lorsqu",
-    "pos": "noun",
-    "meaning": "lorsqu (French opera term)"
+    "lemma": "lorsque",
+    "pos": "conjunction",
+    "meaning": "when / while (lorsqu'il)"
   },
   "loup": {
     "lemma": "loup",
     "pos": "noun",
-    "meaning": "loup (French opera term)"
+    "meaning": "wolf"
   },
   "lu": {
-    "lemma": "lu",
-    "pos": "noun",
-    "meaning": "lu (French opera term)"
+    "lemma": "lire",
+    "pos": "verb",
+    "meaning": "read (past participle)"
   },
   "mademoiselle": {
     "lemma": "mademoiselle",
     "pos": "noun",
-    "meaning": "mademoiselle (French opera term)"
+    "meaning": "miss / young lady"
   },
   "maladresse": {
     "lemma": "maladresse",
     "pos": "noun",
-    "meaning": "maladresse (French opera term)"
+    "meaning": "clumsiness / awkwardness / blunder"
   },
   "malheureuse": {
-    "lemma": "malheureuse",
-    "pos": "noun",
-    "meaning": "malheureuse (French opera term)"
+    "lemma": "malheureux",
+    "pos": "adjective",
+    "meaning": "unfortunate / unhappy / wretched (fem.)"
   },
   "malheureusement": {
     "lemma": "malheureusement",
-    "pos": "noun",
-    "meaning": "malheureusement (French opera term)"
+    "pos": "adverb",
+    "meaning": "unfortunately / unhappily"
   },
   "manche": {
     "lemma": "manche",
     "pos": "noun",
-    "meaning": "manche (French opera term)"
+    "meaning": "sleeve / handle"
   },
   "mangeons": {
-    "lemma": "mangeons",
+    "lemma": "manger",
     "pos": "verb",
-    "meaning": "mangeons (French opera term)"
+    "meaning": "let us eat / we eat"
   },
   "manière": {
     "lemma": "manière",
-    "pos": "verb",
-    "meaning": "manière (French opera term)"
+    "pos": "noun",
+    "meaning": "manner / way (de manière: so as)"
   },
   "manières": {
-    "lemma": "manières",
+    "lemma": "manière",
     "pos": "noun",
-    "meaning": "manières (French opera term)"
+    "meaning": "manners / ways"
   },
   "manuelita": {
-    "lemma": "manuelita",
+    "lemma": "Manuelita",
     "pos": "noun",
-    "meaning": "manuelita (French opera term)"
+    "meaning": "Manuelita"
   },
   "maquila": {
     "lemma": "maquila",
     "pos": "noun",
-    "meaning": "maquila (French opera term)"
+    "meaning": "makila (Basque walking stick)"
   },
   "marchandises": {
-    "lemma": "marchandises",
+    "lemma": "marchandise",
     "pos": "noun",
-    "meaning": "marchandises (French opera term)"
+    "meaning": "goods / merchandise / contraband"
   },
   "mari": {
     "lemma": "mari",
     "pos": "noun",
-    "meaning": "mari (French opera term)"
+    "meaning": "husband"
   },
   "mariage": {
     "lemma": "mariage",
     "pos": "noun",
-    "meaning": "mariage (French opera term)"
+    "meaning": "marriage / wedding"
   },
   "mariait": {
-    "lemma": "mariait",
+    "lemma": "marier",
     "pos": "verb",
-    "meaning": "mariait (French opera term)"
+    "meaning": "was marrying / wed"
   },
   "marierais": {
-    "lemma": "marierais",
+    "lemma": "marier",
     "pos": "verb",
-    "meaning": "marierais (French opera term)"
+    "meaning": "would marry"
   },
   "marquant": {
-    "lemma": "marquant",
+    "lemma": "marquer",
     "pos": "verb",
-    "meaning": "marquant (French opera term)"
+    "meaning": "marking / scoring"
   },
   "marquer": {
     "lemma": "marquer",
     "pos": "verb",
-    "meaning": "marquer (French opera term)"
+    "meaning": "to mark / indicate / score"
   },
   "mars": {
     "lemma": "mars",
     "pos": "noun",
-    "meaning": "mars (French opera term)"
+    "meaning": "March (month) / Mars"
   },
   "maréchal": {
     "lemma": "maréchal",
     "pos": "noun",
-    "meaning": "maréchal (French opera term)"
+    "meaning": "marshal / farrier (maréchal des logis: sergeant)"
   },
   "matière": {
     "lemma": "matière",
-    "pos": "verb",
-    "meaning": "matière (French opera term)"
+    "pos": "noun",
+    "meaning": "matter / material / subject"
   },
   "maudit": {
-    "lemma": "maudit",
-    "pos": "noun",
-    "meaning": "maudit (French opera term)"
+    "lemma": "maudire",
+    "pos": "verb",
+    "meaning": "cursed / accursed"
   },
   "maudits": {
-    "lemma": "maudits",
-    "pos": "noun",
-    "meaning": "maudits (French opera term)"
+    "lemma": "maudire",
+    "pos": "verb",
+    "meaning": "cursed / accursed (pl.)"
   },
   "maître": {
     "lemma": "maître",
-    "pos": "verb",
-    "meaning": "maître (French opera term)"
+    "pos": "noun",
+    "meaning": "master / teacher"
   },
   "maîtresse": {
-    "lemma": "maîtresse",
+    "lemma": "maître",
     "pos": "noun",
-    "meaning": "maîtresse (French opera term)"
+    "meaning": "mistress"
   },
   "menace": {
-    "lemma": "menace",
-    "pos": "noun",
-    "meaning": "menace (French opera term)"
+    "lemma": "menacer",
+    "pos": "verb",
+    "meaning": "threatens / threat"
   },
   "menacer": {
     "lemma": "menacer",
     "pos": "verb",
-    "meaning": "menacer (French opera term)"
+    "meaning": "to threaten / menace"
   },
   "menti": {
-    "lemma": "menti",
-    "pos": "noun",
-    "meaning": "menti (French opera term)"
+    "lemma": "mentir",
+    "pos": "verb",
+    "meaning": "lied"
   },
   "mentir": {
     "lemma": "mentir",
     "pos": "verb",
-    "meaning": "mentir (French opera term)"
+    "meaning": "to lie / tell untruths"
   },
   "mentiront": {
-    "lemma": "mentiront",
+    "lemma": "mentir",
     "pos": "verb",
-    "meaning": "mentiront (French opera term)"
+    "meaning": "shall lie / will deceive"
   },
   "merci": {
     "lemma": "merci",
     "pos": "noun",
-    "meaning": "merci (French opera term)"
+    "meaning": "thanks / mercy"
   },
   "merveille": {
     "lemma": "merveille",
     "pos": "noun",
-    "meaning": "merveille (French opera term)"
+    "meaning": "marvel / wonder (à merveille: wonderfully)"
   },
   "mesdemoiselles": {
-    "lemma": "mesdemoiselles",
+    "lemma": "mademoiselle",
     "pos": "noun",
-    "meaning": "mesdemoiselles (French opera term)"
+    "meaning": "young ladies / misses"
   },
   "messagère": {
-    "lemma": "messagère",
-    "pos": "verb",
-    "meaning": "messagère (French opera term)"
+    "lemma": "messager",
+    "pos": "noun",
+    "meaning": "messenger (fem.)"
   },
   "messieurs": {
-    "lemma": "messieurs",
+    "lemma": "monsieur",
     "pos": "noun",
-    "meaning": "messieurs (French opera term)"
+    "meaning": "gentlemen / sirs"
   },
   "mettais": {
-    "lemma": "mettais",
+    "lemma": "mettre",
     "pos": "verb",
-    "meaning": "mettais (French opera term)"
+    "meaning": "was putting / placing"
   },
   "meure": {
-    "lemma": "meure",
+    "lemma": "mourir",
     "pos": "verb",
-    "meaning": "meure (French opera term)"
+    "meaning": "may die / perish (subjunctive)"
   },
   "mien": {
     "lemma": "mien",
-    "pos": "noun",
-    "meaning": "mien (French opera term)"
+    "pos": "pronoun",
+    "meaning": "mine (le mien)"
   },
   "mignonne": {
-    "lemma": "mignonne",
-    "pos": "noun",
-    "meaning": "mignonne (French opera term)"
+    "lemma": "mignon",
+    "pos": "adjective",
+    "meaning": "sweet / darling / pretty (fem.)"
   },
   "milieu": {
     "lemma": "milieu",
     "pos": "noun",
-    "meaning": "milieu (French opera term)"
+    "meaning": "midst / middle (au milieu de: in the middle of)"
   },
   "mine": {
     "lemma": "mine",
     "pos": "noun",
-    "meaning": "mine (French opera term)"
+    "meaning": "look / appearance / mien / mine"
   },
   "minutes": {
-    "lemma": "minutes",
+    "lemma": "minute",
     "pos": "noun",
-    "meaning": "minutes (French opera term)"
+    "meaning": "minutes"
   },
   "mobile": {
     "lemma": "mobile",
-    "pos": "noun",
-    "meaning": "mobile (French opera term)"
+    "pos": "adjective",
+    "meaning": "mobile / fickle / moving"
   },
   "modification": {
     "lemma": "modification",
     "pos": "noun",
-    "meaning": "modification (French opera term)"
+    "meaning": "modification / change"
   },
   "moins": {
     "lemma": "moins",
-    "pos": "noun",
-    "meaning": "moins (French opera term)"
+    "pos": "adverb",
+    "meaning": "less / least (au moins: at least)"
   },
   "monde": {
     "lemma": "monde",
     "pos": "noun",
-    "meaning": "monde (French opera term)"
+    "meaning": "world / people (tout le monde: everyone)"
   },
   "monsieur": {
     "lemma": "monsieur",
     "pos": "noun",
-    "meaning": "monsieur (French opera term)"
+    "meaning": "sir / gentleman / mister"
   },
   "montès": {
-    "lemma": "montès",
+    "lemma": "Montes",
     "pos": "noun",
-    "meaning": "montès (French opera term)"
+    "meaning": "Montes (celebrated matador Francisco Montes)"
   },
   "moquer": {
     "lemma": "moquer",
     "pos": "verb",
-    "meaning": "moquer (French opera term)"
+    "meaning": "to mock / laugh at (se moquer)"
   },
   "morceau": {
     "lemma": "morceau",
     "pos": "noun",
-    "meaning": "morceau (French opera term)"
+    "meaning": "piece / morsel / bit"
   },
   "mordre": {
     "lemma": "mordre",
     "pos": "verb",
-    "meaning": "mordre (French opera term)"
+    "meaning": "to bite"
   },
   "morose": {
     "lemma": "morose",
-    "pos": "noun",
-    "meaning": "morose (French opera term)"
+    "pos": "adjective",
+    "meaning": "gloomy / sullen / morose"
   },
   "mot": {
     "lemma": "mot",
     "pos": "noun",
-    "meaning": "mot (French opera term)"
+    "meaning": "word"
   },
   "mots": {
-    "lemma": "mots",
+    "lemma": "mot",
     "pos": "noun",
-    "meaning": "mots (French opera term)"
+    "meaning": "words"
   },
   "mouton": {
     "lemma": "mouton",
     "pos": "noun",
-    "meaning": "mouton (French opera term)"
+    "meaning": "sheep / lamb"
   },
   "mouvement": {
     "lemma": "mouvement",
     "pos": "noun",
-    "meaning": "mouvement (French opera term)"
+    "meaning": "movement / motion"
   },
   "moyen": {
     "lemma": "moyen",
     "pos": "noun",
-    "meaning": "moyen (French opera term)"
+    "meaning": "means / way (le moyen: how could one)"
   },
   "mpom": {
     "lemma": "mpom",
-    "pos": "noun",
-    "meaning": "mpom (French opera term)"
+    "pos": "interjection",
+    "meaning": "drum beat sound"
   },
   "mur": {
     "lemma": "mur",
     "pos": "noun",
-    "meaning": "mur (French opera term)"
+    "meaning": "wall"
   },
   "murmurant": {
-    "lemma": "murmurant",
+    "lemma": "murmurer",
     "pos": "verb",
-    "meaning": "murmurant (French opera term)"
+    "meaning": "murmuring / whispering"
   },
   "mw": {
     "lemma": "mw",
     "pos": "noun",
-    "meaning": "mw (French opera term)"
+    "meaning": "mw"
   },
   "mèreun": {
-    "lemma": "mèreun",
+    "lemma": "mère",
     "pos": "noun",
-    "meaning": "mèreun (French opera term)"
+    "meaning": "mother (mère un)"
   },
   "mélancolique": {
     "lemma": "mélancolique",
-    "pos": "noun",
-    "meaning": "mélancolique (French opera term)"
+    "pos": "adjective",
+    "meaning": "melancholic / sad / gloomy"
   },
   "ménage": {
     "lemma": "ménage",
     "pos": "noun",
-    "meaning": "ménage (French opera term)"
+    "meaning": "household / housekeeping"
   },
   "mésallier": {
     "lemma": "mésallier",
     "pos": "verb",
-    "meaning": "mésallier (French opera term)"
+    "meaning": "to marry beneath oneself (se mésallier)"
   },
   "métallique": {
     "lemma": "métallique",
-    "pos": "noun",
-    "meaning": "métallique (French opera term)"
+    "pos": "adjective",
+    "meaning": "metallic"
   },
   "métier": {
     "lemma": "métier",
-    "pos": "verb",
-    "meaning": "métier (French opera term)"
+    "pos": "noun",
+    "meaning": "trade / profession / craft"
   },
   "naguère": {
     "lemma": "naguère",
-    "pos": "verb",
-    "meaning": "naguère (French opera term)"
+    "pos": "adverb",
+    "meaning": "lately / not long ago / formerly"
   },
   "naturel": {
     "lemma": "naturel",
-    "pos": "noun",
-    "meaning": "naturel (French opera term)"
+    "pos": "adjective",
+    "meaning": "natural"
   },
   "navaja": {
     "lemma": "navaja",
     "pos": "noun",
-    "meaning": "navaja (French opera term)"
+    "meaning": "navaja (Spanish folding clasp knife)"
   },
   "navarrais": {
     "lemma": "navarrais",
-    "pos": "verb",
-    "meaning": "navarrais (French opera term)"
+    "pos": "adjective",
+    "meaning": "Navarrese / from Navarre"
   },
   "navarraise": {
-    "lemma": "navarraise",
-    "pos": "noun",
-    "meaning": "navarraise (French opera term)"
+    "lemma": "navarrais",
+    "pos": "adjective",
+    "meaning": "Navarrese woman / Navarrese (fem.)"
   },
   "navire": {
     "lemma": "navire",
-    "pos": "verb",
-    "meaning": "navire (French opera term)"
+    "pos": "noun",
+    "meaning": "ship / vessel"
   },
   "net": {
     "lemma": "net",
-    "pos": "noun",
-    "meaning": "net (French opera term)"
+    "pos": "adjective",
+    "meaning": "clear / clean / plain / blunt"
   },
   "nettement": {
     "lemma": "nettement",
-    "pos": "noun",
-    "meaning": "nettement (French opera term)"
+    "pos": "adverb",
+    "meaning": "clearly / plainly / distinctly"
   },
   "niais": {
     "lemma": "niais",
-    "pos": "verb",
-    "meaning": "niais (French opera term)"
+    "pos": "adjective",
+    "meaning": "simpleton / silly / foolish"
   },
   "nierai": {
-    "lemma": "nierai",
-    "pos": "noun",
-    "meaning": "nierai (French opera term)"
+    "lemma": "nier",
+    "pos": "verb",
+    "meaning": "shall deny"
   },
   "nom": {
     "lemma": "nom",
     "pos": "noun",
-    "meaning": "nom (French opera term)"
+    "meaning": "name"
   },
   "noms": {
-    "lemma": "noms",
+    "lemma": "nom",
     "pos": "noun",
-    "meaning": "noms (French opera term)"
+    "meaning": "names"
   },
   "nouvel": {
-    "lemma": "nouvel",
-    "pos": "noun",
-    "meaning": "nouvel (French opera term)"
+    "lemma": "nouveau",
+    "pos": "adjective",
+    "meaning": "new (before vowel)"
   },
   "nouvelles": {
-    "lemma": "nouvelles",
+    "lemma": "nouvelle",
     "pos": "noun",
-    "meaning": "nouvelles (French opera term)"
+    "meaning": "news / tidings (fem. pl.)"
   },
   "nécessaire": {
     "lemma": "nécessaire",
-    "pos": "verb",
-    "meaning": "nécessaire (French opera term)"
+    "pos": "adjective",
+    "meaning": "necessary / needful"
   },
   "née": {
-    "lemma": "née",
-    "pos": "noun",
-    "meaning": "née (French opera term)"
+    "lemma": "naître",
+    "pos": "verb",
+    "meaning": "born (fem.)"
   },
   "nôtres": {
-    "lemma": "nôtres",
-    "pos": "noun",
-    "meaning": "nôtres (French opera term)"
+    "lemma": "nôtre",
+    "pos": "pronoun",
+    "meaning": "ours / our people (les nôtres)"
   },
   "obligea": {
-    "lemma": "obligea",
-    "pos": "noun",
-    "meaning": "obligea (French opera term)"
+    "lemma": "obliger",
+    "pos": "verb",
+    "meaning": "obliged / compelled"
   },
   "obligé": {
-    "lemma": "obligé",
+    "lemma": "obliger",
     "pos": "verb",
-    "meaning": "obligé (French opera term)"
+    "meaning": "obliged / bound / forced"
   },
   "observer": {
     "lemma": "observer",
     "pos": "verb",
-    "meaning": "observer (French opera term)"
+    "meaning": "to observe / watch / comply with"
   },
   "obstinées": {
-    "lemma": "obstinées",
-    "pos": "noun",
-    "meaning": "obstinées (French opera term)"
+    "lemma": "obstiné",
+    "pos": "adjective",
+    "meaning": "obstinate / stubborn (fem. pl.)"
   },
   "obtiendras": {
-    "lemma": "obtiendras",
-    "pos": "noun",
-    "meaning": "obtiendras (French opera term)"
+    "lemma": "obtenir",
+    "pos": "verb",
+    "meaning": "thou shalt obtain / get"
   },
   "obéir": {
     "lemma": "obéir",
     "pos": "verb",
-    "meaning": "obéir (French opera term)"
+    "meaning": "to obey"
   },
   "obéirai": {
-    "lemma": "obéirai",
-    "pos": "noun",
-    "meaning": "obéirai (French opera term)"
+    "lemma": "obéir",
+    "pos": "verb",
+    "meaning": "shall obey"
   },
   "occuper": {
     "lemma": "occuper",
     "pos": "verb",
-    "meaning": "occuper (French opera term)"
+    "meaning": "to occupy / busy oneself with (s'occuper)"
   },
   "oldid": {
     "lemma": "oldid",
     "pos": "noun",
-    "meaning": "oldid (French opera term)"
+    "meaning": "old ID"
   },
   "opéra": {
     "lemma": "opéra",
     "pos": "noun",
-    "meaning": "opéra (French opera term)"
+    "meaning": "opera"
   },
   "opéré": {
-    "lemma": "opéré",
+    "lemma": "opérer",
     "pos": "verb",
-    "meaning": "opéré (French opera term)"
+    "meaning": "operated / worked / effected"
   },
   "orage": {
     "lemma": "orage",
     "pos": "noun",
-    "meaning": "orage (French opera term)"
+    "meaning": "storm / thunderstorm"
   },
   "orange": {
     "lemma": "orange",
     "pos": "noun",
-    "meaning": "orange (French opera term)"
+    "meaning": "orange"
   },
   "oranges": {
-    "lemma": "oranges",
+    "lemma": "orange",
     "pos": "noun",
-    "meaning": "oranges (French opera term)"
+    "meaning": "oranges"
   },
   "orchestre": {
     "lemma": "orchestre",
-    "pos": "verb",
-    "meaning": "orchestre (French opera term)"
+    "pos": "noun",
+    "meaning": "orchestra"
   },
   "ordinaire": {
     "lemma": "ordinaire",
-    "pos": "verb",
-    "meaning": "ordinaire (French opera term)"
+    "pos": "adjective",
+    "meaning": "ordinary / usual (d'ordinaire: usually)"
   },
   "org": {
     "lemma": "org",
     "pos": "noun",
-    "meaning": "org (French opera term)"
+    "meaning": "org"
   },
   "orpheline": {
-    "lemma": "orpheline",
+    "lemma": "orphelin",
     "pos": "noun",
-    "meaning": "orpheline (French opera term)"
+    "meaning": "orphan girl (fem.)"
   },
   "ose": {
-    "lemma": "ose",
-    "pos": "noun",
-    "meaning": "ose (French opera term)"
+    "lemma": "oser",
+    "pos": "verb",
+    "meaning": "dares / venture"
   },
   "output": {
     "lemma": "output",
     "pos": "noun",
-    "meaning": "output (French opera term)"
+    "meaning": "output"
   },
   "ouvert": {
-    "lemma": "ouvert",
-    "pos": "noun",
-    "meaning": "ouvert (French opera term)"
+    "lemma": "ouvrir",
+    "pos": "verb",
+    "meaning": "open / opened"
   },
   "ouvre": {
-    "lemma": "ouvre",
+    "lemma": "ouvrir",
     "pos": "verb",
-    "meaning": "ouvre (French opera term)"
+    "meaning": "opens / open"
   },
   "ouvrir": {
     "lemma": "ouvrir",
     "pos": "verb",
-    "meaning": "ouvrir (French opera term)"
+    "meaning": "to open"
   },
   "page": {
     "lemma": "page",
     "pos": "noun",
-    "meaning": "page (French opera term)"
+    "meaning": "page / pageboy"
   },
   "paie": {
-    "lemma": "paie",
-    "pos": "noun",
-    "meaning": "paie (French opera term)"
+    "lemma": "payer",
+    "pos": "verb",
+    "meaning": "pays / pay"
   },
   "paiera": {
-    "lemma": "paiera",
-    "pos": "noun",
-    "meaning": "paiera (French opera term)"
+    "lemma": "payer",
+    "pos": "verb",
+    "meaning": "will pay"
   },
   "pain": {
     "lemma": "pain",
     "pos": "noun",
-    "meaning": "pain (French opera term)"
+    "meaning": "bread / loaf"
   },
   "paix": {
     "lemma": "paix",
     "pos": "noun",
-    "meaning": "paix (French opera term)"
+    "meaning": "peace"
   },
   "paradis": {
     "lemma": "paradis",
     "pos": "noun",
-    "meaning": "paradis (French opera term)"
+    "meaning": "paradise / heaven"
   },
   "paraît": {
-    "lemma": "paraît",
-    "pos": "noun",
-    "meaning": "paraît (French opera term)"
+    "lemma": "paraître",
+    "pos": "verb",
+    "meaning": "appears / seems"
   },
   "paraître": {
     "lemma": "paraître",
     "pos": "verb",
-    "meaning": "paraître (French opera term)"
+    "meaning": "to appear / seem"
   },
   "parce": {
     "lemma": "parce",
-    "pos": "noun",
-    "meaning": "parce (French opera term)"
+    "pos": "conjunction",
+    "meaning": "because (parce que: because)"
   },
   "pardieu": {
     "lemma": "pardieu",
-    "pos": "noun",
-    "meaning": "pardieu (French opera term)"
+    "pos": "interjection",
+    "meaning": "by God! / indeed! / of course!"
   },
   "pardon": {
     "lemma": "pardon",
     "pos": "noun",
-    "meaning": "pardon (French opera term)"
+    "meaning": "pardon / forgiveness"
   },
   "pardonne": {
-    "lemma": "pardonne",
-    "pos": "noun",
-    "meaning": "pardonne (French opera term)"
+    "lemma": "pardonner",
+    "pos": "verb",
+    "meaning": "forgives / forgive"
   },
   "pardonnez": {
-    "lemma": "pardonnez",
+    "lemma": "pardonner",
     "pos": "verb",
-    "meaning": "pardonnez (French opera term)"
+    "meaning": "forgive / pardon (you)"
   },
   "pardonné": {
-    "lemma": "pardonné",
+    "lemma": "pardonner",
     "pos": "verb",
-    "meaning": "pardonné (French opera term)"
+    "meaning": "forgiven / pardoned"
   },
   "parer": {
     "lemma": "parer",
     "pos": "verb",
-    "meaning": "parer (French opera term)"
+    "meaning": "to parry / ward off / adorn"
   },
   "parfaitement": {
     "lemma": "parfaitement",
-    "pos": "noun",
-    "meaning": "parfaitement (French opera term)"
+    "pos": "adverb",
+    "meaning": "perfectly / completely"
   },
   "parfum": {
     "lemma": "parfum",
     "pos": "noun",
-    "meaning": "parfum (French opera term)"
+    "meaning": "perfume / fragrance / scent"
   },
   "parfumée": {
-    "lemma": "parfumée",
-    "pos": "noun",
-    "meaning": "parfumée (French opera term)"
+    "lemma": "parfumer",
+    "pos": "verb",
+    "meaning": "perfumed / scented (fem.)"
   },
   "parie": {
-    "lemma": "parie",
-    "pos": "noun",
-    "meaning": "parie (French opera term)"
+    "lemma": "parier",
+    "pos": "verb",
+    "meaning": "bets / wager"
   },
   "parierais": {
-    "lemma": "parierais",
+    "lemma": "parier",
     "pos": "verb",
-    "meaning": "parierais (French opera term)"
+    "meaning": "would bet / wager"
   },
   "parole": {
     "lemma": "parole",
     "pos": "noun",
-    "meaning": "parole (French opera term)"
+    "meaning": "word / speech / promise"
   },
   "parser": {
     "lemma": "parser",
-    "pos": "verb",
-    "meaning": "parser (French opera term)"
+    "pos": "noun",
+    "meaning": "parser"
   },
   "parsoid": {
     "lemma": "parsoid",
     "pos": "noun",
-    "meaning": "parsoid (French opera term)"
+    "meaning": "parsoid"
   },
   "partage": {
     "lemma": "partage",
     "pos": "noun",
-    "meaning": "partage (French opera term)"
+    "meaning": "sharing / division / portion"
   },
   "partirez": {
-    "lemma": "partirez",
+    "lemma": "partir",
     "pos": "verb",
-    "meaning": "partirez (French opera term)"
+    "meaning": "you will depart / leave"
   },
   "paru": {
-    "lemma": "paru",
-    "pos": "noun",
-    "meaning": "paru (French opera term)"
+    "lemma": "paraître",
+    "pos": "verb",
+    "meaning": "appeared / seemed"
   },
   "passage": {
     "lemma": "passage",
     "pos": "noun",
-    "meaning": "passage (French opera term)"
+    "meaning": "passage / passing through / lane"
   },
   "patron": {
     "lemma": "patron",
     "pos": "noun",
-    "meaning": "patron (French opera term)"
+    "meaning": "boss / patron / master"
   },
   "paume": {
     "lemma": "paume",
     "pos": "noun",
-    "meaning": "paume (French opera term)"
+    "meaning": "palm (of hand)"
   },
   "paupières": {
-    "lemma": "paupières",
+    "lemma": "paupière",
     "pos": "noun",
-    "meaning": "paupières (French opera term)"
+    "meaning": "eyelids"
   },
   "pauvre": {
     "lemma": "pauvre",
-    "pos": "verb",
-    "meaning": "pauvre (French opera term)"
+    "pos": "adjective",
+    "meaning": "poor / wretched"
   },
   "pays": {
     "lemma": "pays",
     "pos": "noun",
-    "meaning": "pays (French opera term)"
+    "meaning": "country / land / compatriot"
   },
   "payse": {
     "lemma": "payse",
     "pos": "noun",
-    "meaning": "payse (French opera term)"
+    "meaning": "compatriot / countrywoman"
   },
   "peau": {
     "lemma": "peau",
     "pos": "noun",
-    "meaning": "peau (French opera term)"
+    "meaning": "skin / hide"
   },
   "peaux": {
-    "lemma": "peaux",
+    "lemma": "peau",
     "pos": "noun",
-    "meaning": "peaux (French opera term)"
+    "meaning": "skins / hides"
   },
   "peine": {
     "lemma": "peine",
     "pos": "noun",
-    "meaning": "peine (French opera term)"
+    "meaning": "pain / trouble / sorrow (à peine: scarcely)"
   },
   "pepe": {
-    "lemma": "pepe",
+    "lemma": "Pepe",
     "pos": "noun",
-    "meaning": "pepe (French opera term)"
+    "meaning": "Pepe (celebrated bullfighter Pepe-Hillo)"
   },
   "perdrais": {
-    "lemma": "perdrais",
+    "lemma": "perdre",
     "pos": "verb",
-    "meaning": "perdrais (French opera term)"
+    "meaning": "would lose"
   },
   "perez": {
-    "lemma": "perez",
-    "pos": "verb",
-    "meaning": "perez (French opera term)"
+    "lemma": "Perez",
+    "pos": "noun",
+    "meaning": "Perez"
   },
   "permettez": {
-    "lemma": "permettez",
+    "lemma": "permettre",
     "pos": "verb",
-    "meaning": "permettez (French opera term)"
+    "meaning": "permit / allow (you)"
   },
   "permis": {
-    "lemma": "permis",
-    "pos": "noun",
-    "meaning": "permis (French opera term)"
+    "lemma": "permettre",
+    "pos": "verb",
+    "meaning": "permitted / allowed"
   },
   "permission": {
     "lemma": "permission",
     "pos": "noun",
-    "meaning": "permission (French opera term)"
+    "meaning": "permission / leave"
   },
   "peur": {
     "lemma": "peur",
     "pos": "noun",
-    "meaning": "peur (French opera term)"
+    "meaning": "fear (avoir peur: to be afraid)"
   },
   "php": {
     "lemma": "php",
     "pos": "noun",
-    "meaning": "php (French opera term)"
+    "meaning": "php"
   },
   "picador": {
     "lemma": "picador",
     "pos": "noun",
-    "meaning": "picador (French opera term)"
+    "meaning": "picador (mounted bullfighter with lance)"
   },
   "picadors": {
-    "lemma": "picadors",
+    "lemma": "picador",
     "pos": "noun",
-    "meaning": "picadors (French opera term)"
+    "meaning": "picadors (mounted bullfighters)"
   },
   "pierre": {
     "lemma": "pierre",
-    "pos": "verb",
-    "meaning": "pierre (French opera term)"
+    "pos": "noun",
+    "meaning": "stone / rock"
   },
   "pierreries": {
     "lemma": "pierreries",
     "pos": "noun",
-    "meaning": "pierreries (French opera term)"
+    "meaning": "precious stones / gems / jewels"
   },
   "pis": {
     "lemma": "pis",
-    "pos": "noun",
-    "meaning": "pis (French opera term)"
+    "pos": "adverb",
+    "meaning": "worse / worst (tant pis: so much the worse)"
   },
   "pitié": {
     "lemma": "pitié",
-    "pos": "verb",
-    "meaning": "pitié (French opera term)"
+    "pos": "noun",
+    "meaning": "pity / mercy / compassion"
   },
   "placer": {
     "lemma": "placer",
     "pos": "verb",
-    "meaning": "placer (French opera term)"
+    "meaning": "to place / put / invest"
   },
   "plaire": {
     "lemma": "plaire",
     "pos": "verb",
-    "meaning": "plaire (French opera term)"
+    "meaning": "to please (s'il vous plaît: please)"
   },
   "plaisait": {
-    "lemma": "plaisait",
+    "lemma": "plaire",
     "pos": "verb",
-    "meaning": "plaisait (French opera term)"
+    "meaning": "pleased / was pleasing"
   },
   "plaisir": {
     "lemma": "plaisir",
-    "pos": "verb",
-    "meaning": "plaisir (French opera term)"
+    "pos": "noun",
+    "meaning": "pleasure / delight"
   },
   "plante": {
-    "lemma": "plante",
-    "pos": "noun",
-    "meaning": "plante (French opera term)"
+    "lemma": "planter",
+    "pos": "verb",
+    "meaning": "plants / thrusts / drives in"
   },
   "plaît": {
-    "lemma": "plaît",
-    "pos": "noun",
-    "meaning": "plaît (French opera term)"
+    "lemma": "plaire",
+    "pos": "verb",
+    "meaning": "pleases (s'il vous plaît: please)"
   },
   "plein": {
     "lemma": "plein",
-    "pos": "noun",
-    "meaning": "plein (French opera term)"
+    "pos": "adjective",
+    "meaning": "full (en plein: in the middle of)"
   },
   "pleuvoir": {
     "lemma": "pleuvoir",
     "pos": "verb",
-    "meaning": "pleuvoir (French opera term)"
+    "meaning": "to rain"
   },
   "poignets": {
-    "lemma": "poignets",
+    "lemma": "poignet",
     "pos": "noun",
-    "meaning": "poignets (French opera term)"
+    "meaning": "wrists / cuffs"
   },
   "poitrine": {
     "lemma": "poitrine",
     "pos": "noun",
-    "meaning": "poitrine (French opera term)"
+    "meaning": "chest / breast / bosom"
   },
   "politique": {
     "lemma": "politique",
     "pos": "noun",
-    "meaning": "politique (French opera term)"
+    "meaning": "politics / policy"
   },
   "pont": {
     "lemma": "pont",
-    "pos": "verb",
-    "meaning": "pont (French opera term)"
+    "pos": "noun",
+    "meaning": "bridge / deck"
   },
   "possible": {
     "lemma": "possible",
-    "pos": "noun",
-    "meaning": "possible (French opera term)"
+    "pos": "adjective",
+    "meaning": "possible"
   },
   "pourquoi": {
     "lemma": "pourquoi",
-    "pos": "noun",
-    "meaning": "pourquoi (French opera term)"
+    "pos": "adverb",
+    "meaning": "why"
   },
   "pourrez": {
-    "lemma": "pourrez",
+    "lemma": "pouvoir",
     "pos": "verb",
-    "meaning": "pourrez (French opera term)"
+    "meaning": "will be able to / can"
   },
   "pourries": {
-    "lemma": "pourries",
-    "pos": "noun",
-    "meaning": "pourries (French opera term)"
+    "lemma": "pourrir",
+    "pos": "verb",
+    "meaning": "rotten / putrid (fem. pl.)"
   },
   "pourrions": {
-    "lemma": "pourrions",
+    "lemma": "pouvoir",
     "pos": "verb",
-    "meaning": "pourrions (French opera term)"
+    "meaning": "could / might be able to"
   },
   "pourront": {
-    "lemma": "pourront",
+    "lemma": "pouvoir",
     "pos": "verb",
-    "meaning": "pourront (French opera term)"
+    "meaning": "will be able to / can"
   },
   "pousserai": {
-    "lemma": "pousserai",
-    "pos": "noun",
-    "meaning": "pousserai (French opera term)"
+    "lemma": "pousser",
+    "pos": "verb",
+    "meaning": "shall push / utter / drive"
   },
   "poussière": {
     "lemma": "poussière",
-    "pos": "verb",
-    "meaning": "poussière (French opera term)"
+    "pos": "noun",
+    "meaning": "dust"
   },
   "poussés": {
-    "lemma": "poussés",
-    "pos": "noun",
-    "meaning": "poussés (French opera term)"
+    "lemma": "pousser",
+    "pos": "verb",
+    "meaning": "pushed / driven / uttered (pl.)"
   },
   "pouviez": {
-    "lemma": "pouviez",
+    "lemma": "pouvoir",
     "pos": "verb",
-    "meaning": "pouviez (French opera term)"
+    "meaning": "could / were able to"
   },
   "presque": {
     "lemma": "presque",
-    "pos": "noun",
-    "meaning": "presque (French opera term)"
+    "pos": "adverb",
+    "meaning": "almost / nearly"
   },
   "pressons": {
-    "lemma": "pressons",
+    "lemma": "presser",
     "pos": "verb",
-    "meaning": "pressons (French opera term)"
+    "meaning": "let us hurry / press (se presser)"
   },
   "pressé": {
-    "lemma": "pressé",
+    "lemma": "presser",
     "pos": "verb",
-    "meaning": "pressé (French opera term)"
+    "meaning": "hurried / in a rush / pressed"
   },
   "prix": {
     "lemma": "prix",
     "pos": "noun",
-    "meaning": "prix (French opera term)"
+    "meaning": "price / prize / cost"
   },
   "prière": {
     "lemma": "prière",
-    "pos": "verb",
-    "meaning": "prière (French opera term)"
+    "pos": "noun",
+    "meaning": "prayer / plea / request"
   },
   "prochaine": {
-    "lemma": "prochaine",
-    "pos": "noun",
-    "meaning": "prochaine (French opera term)"
+    "lemma": "prochain",
+    "pos": "adjective",
+    "meaning": "next / forthcoming (fem.)"
   },
   "profitais": {
-    "lemma": "profitais",
+    "lemma": "profiter",
     "pos": "verb",
-    "meaning": "profitais (French opera term)"
+    "meaning": "was taking advantage / profited"
   },
   "profondément": {
     "lemma": "profondément",
-    "pos": "noun",
-    "meaning": "profondément (French opera term)"
+    "pos": "adverb",
+    "meaning": "deeply / profoundly"
   },
   "programme": {
     "lemma": "programme",
     "pos": "noun",
-    "meaning": "programme (French opera term)"
+    "meaning": "program / plan"
   },
   "proie": {
     "lemma": "proie",
     "pos": "noun",
-    "meaning": "proie (French opera term)"
+    "meaning": "prey / quarry"
   },
   "promenade": {
     "lemma": "promenade",
     "pos": "noun",
-    "meaning": "promenade (French opera term)"
+    "meaning": "walk / promenade / stroll"
   },
   "promesse": {
     "lemma": "promesse",
     "pos": "noun",
-    "meaning": "promesse (French opera term)"
+    "meaning": "promise / pledge"
   },
   "promet": {
-    "lemma": "promet",
-    "pos": "noun",
-    "meaning": "promet (French opera term)"
+    "lemma": "promettre",
+    "pos": "verb",
+    "meaning": "promises"
   },
   "promets": {
-    "lemma": "promets",
-    "pos": "noun",
-    "meaning": "promets (French opera term)"
+    "lemma": "promettre",
+    "pos": "verb",
+    "meaning": "promise"
   },
   "promis": {
-    "lemma": "promis",
-    "pos": "noun",
-    "meaning": "promis (French opera term)"
+    "lemma": "promettre",
+    "pos": "verb",
+    "meaning": "promised"
   },
   "promène": {
-    "lemma": "promène",
-    "pos": "noun",
-    "meaning": "promène (French opera term)"
+    "lemma": "promener",
+    "pos": "verb",
+    "meaning": "walks / strolls (se promener)"
   },
   "prononcerai": {
-    "lemma": "prononcerai",
-    "pos": "noun",
-    "meaning": "prononcerai (French opera term)"
+    "lemma": "prononcer",
+    "pos": "verb",
+    "meaning": "shall pronounce / utter"
   },
   "propos": {
     "lemma": "propos",
     "pos": "noun",
-    "meaning": "propos (French opera term)"
+    "meaning": "words / talk / intention (à propos: by the way)"
   },
   "protégerez": {
-    "lemma": "protégerez",
+    "lemma": "protéger",
     "pos": "verb",
-    "meaning": "protégerez (French opera term)"
+    "meaning": "you will protect / shield"
   },
   "protégez": {
-    "lemma": "protégez",
+    "lemma": "protéger",
     "pos": "verb",
-    "meaning": "protégez (French opera term)"
+    "meaning": "protect / shield"
   },
   "province": {
     "lemma": "province",
     "pos": "noun",
-    "meaning": "province (French opera term)"
+    "meaning": "province"
   },
   "provinces": {
-    "lemma": "provinces",
+    "lemma": "province",
     "pos": "noun",
-    "meaning": "provinces (French opera term)"
+    "meaning": "provinces"
   },
   "provoquée": {
-    "lemma": "provoquée",
-    "pos": "noun",
-    "meaning": "provoquée (French opera term)"
+    "lemma": "provoquer",
+    "pos": "verb",
+    "meaning": "provoked / provoked (fem.)"
   },
   "prudent": {
     "lemma": "prudent",
-    "pos": "noun",
-    "meaning": "prudent (French opera term)"
+    "pos": "adjective",
+    "meaning": "prudent / cautious / careful"
   },
   "préfère": {
-    "lemma": "préfère",
+    "lemma": "préférer",
     "pos": "verb",
-    "meaning": "préfère (French opera term)"
+    "meaning": "prefers / prefer"
   },
   "prélasser": {
     "lemma": "prélasser",
     "pos": "verb",
-    "meaning": "prélasser (French opera term)"
+    "meaning": "to lounge / bask / strut (se prélasser)"
   },
   "présumé": {
-    "lemma": "présumé",
+    "lemma": "présumer",
     "pos": "verb",
-    "meaning": "présumé (French opera term)"
+    "meaning": "presumed / assumed"
   },
   "prévenus": {
-    "lemma": "prévenus",
-    "pos": "noun",
-    "meaning": "prévenus (French opera term)"
+    "lemma": "prévenir",
+    "pos": "verb",
+    "meaning": "warned / anticipated (pl.)"
   },
   "préviens": {
-    "lemma": "préviens",
-    "pos": "noun",
-    "meaning": "préviens (French opera term)"
+    "lemma": "prévenir",
+    "pos": "verb",
+    "meaning": "warn / notify"
   },
   "puisqu": {
-    "lemma": "puisqu",
-    "pos": "noun",
-    "meaning": "puisqu (French opera term)"
+    "lemma": "puisque",
+    "pos": "conjunction",
+    "meaning": "since / seeing that (puisqu'il)"
   },
   "puni": {
-    "lemma": "puni",
-    "pos": "noun",
-    "meaning": "puni (French opera term)"
+    "lemma": "punir",
+    "pos": "verb",
+    "meaning": "punished"
   },
   "péril": {
     "lemma": "péril",
     "pos": "noun",
-    "meaning": "péril (French opera term)"
+    "meaning": "peril / danger"
   },
   "quadrille": {
     "lemma": "quadrille",
     "pos": "noun",
-    "meaning": "quadrille (French opera term)"
+    "meaning": "quadrille (troupe of bullfighters / dance)"
   },
   "quant": {
     "lemma": "quant",
-    "pos": "verb",
-    "meaning": "quant (French opera term)"
+    "pos": "preposition",
+    "meaning": "as for / regarding (quant à)"
   },
   "quartier": {
     "lemma": "quartier",
-    "pos": "verb",
-    "meaning": "quartier (French opera term)"
+    "pos": "noun",
+    "meaning": "quarter / barracks / neighborhood"
   },
   "quel": {
     "lemma": "quel",
-    "pos": "noun",
-    "meaning": "quel (French opera term)"
+    "pos": "adjective",
+    "meaning": "what / which"
   },
   "quelle": {
-    "lemma": "quelle",
-    "pos": "noun",
-    "meaning": "quelle (French opera term)"
+    "lemma": "quel",
+    "pos": "adjective",
+    "meaning": "what / which (fem.)"
   },
   "quelqu": {
-    "lemma": "quelqu",
-    "pos": "noun",
-    "meaning": "quelqu (French opera term)"
+    "lemma": "quelque",
+    "pos": "adjective",
+    "meaning": "some / any (quelqu'un)"
   },
   "quels": {
-    "lemma": "quels",
-    "pos": "noun",
-    "meaning": "quels (French opera term)"
+    "lemma": "quel",
+    "pos": "adjective",
+    "meaning": "what / which (pl.)"
   },
   "querelle": {
     "lemma": "querelle",
     "pos": "noun",
-    "meaning": "querelle (French opera term)"
+    "meaning": "quarrel / fight / dispute"
   },
   "quinze": {
     "lemma": "quinze",
     "pos": "noun",
-    "meaning": "quinze (French opera term)"
+    "meaning": "fifteen"
   },
   "ra": {
     "lemma": "ra",
-    "pos": "noun",
-    "meaning": "ra (French opera term)"
+    "pos": "interjection",
+    "meaning": "ra (sung syllable, ra-ta-ta)"
   },
   "rage": {
     "lemma": "rage",
     "pos": "noun",
-    "meaning": "rage (French opera term)"
+    "meaning": "rage / fury"
   },
   "railler": {
     "lemma": "railler",
     "pos": "verb",
-    "meaning": "railler (French opera term)"
+    "meaning": "to mock / scoff / jeer"
   },
   "railleuse": {
-    "lemma": "railleuse",
-    "pos": "noun",
-    "meaning": "railleuse (French opera term)"
+    "lemma": "railleur",
+    "pos": "adjective",
+    "meaning": "mocking / teasing / taunting (fem.)"
   },
   "raison": {
     "lemma": "raison",
     "pos": "noun",
-    "meaning": "raison (French opera term)"
+    "meaning": "reason / right (avoir raison: to be right)"
   },
   "ramasserons": {
-    "lemma": "ramasserons",
+    "lemma": "ramasser",
     "pos": "verb",
-    "meaning": "ramasserons (French opera term)"
+    "meaning": "we shall gather / pick up"
   },
   "rapide": {
     "lemma": "rapide",
-    "pos": "noun",
-    "meaning": "rapide (French opera term)"
+    "pos": "adjective",
+    "meaning": "rapid / swift / fast"
   },
   "rappelle": {
-    "lemma": "rappelle",
-    "pos": "noun",
-    "meaning": "rappelle (French opera term)"
+    "lemma": "rappeler",
+    "pos": "verb",
+    "meaning": "recalls / call back / remind"
   },
   "rassurant": {
-    "lemma": "rassurant",
+    "lemma": "rassurer",
     "pos": "verb",
-    "meaning": "rassurant (French opera term)"
+    "meaning": "reassuring"
   },
   "ravi": {
-    "lemma": "ravi",
-    "pos": "noun",
-    "meaning": "ravi (French opera term)"
+    "lemma": "ravir",
+    "pos": "verb",
+    "meaning": "delighted / enraptured"
   },
   "ravie": {
-    "lemma": "ravie",
-    "pos": "noun",
-    "meaning": "ravie (French opera term)"
+    "lemma": "ravir",
+    "pos": "verb",
+    "meaning": "delighted / enraptured (fem.)"
   },
   "rechercher": {
     "lemma": "rechercher",
     "pos": "verb",
-    "meaning": "rechercher (French opera term)"
+    "meaning": "to seek / search for"
   },
   "recommence": {
-    "lemma": "recommence",
-    "pos": "noun",
-    "meaning": "recommence (French opera term)"
+    "lemma": "recommencer",
+    "pos": "verb",
+    "meaning": "begins again / restart"
   },
   "reconnais": {
-    "lemma": "reconnais",
+    "lemma": "reconnaître",
     "pos": "verb",
-    "meaning": "reconnais (French opera term)"
+    "meaning": "recognize / acknowledge"
   },
   "reconnaissant": {
     "lemma": "reconnaissant",
-    "pos": "verb",
-    "meaning": "reconnaissant (French opera term)"
+    "pos": "adjective",
+    "meaning": "grateful / thankful"
   },
   "recueillie": {
-    "lemma": "recueillie",
-    "pos": "noun",
-    "meaning": "recueillie (French opera term)"
+    "lemma": "recueillir",
+    "pos": "verb",
+    "meaning": "gathered / sheltered / recollected (fem.)"
   },
   "redevenu": {
-    "lemma": "redevenu",
-    "pos": "noun",
-    "meaning": "redevenu (French opera term)"
+    "lemma": "redevenir",
+    "pos": "verb",
+    "meaning": "become again"
   },
   "redoutable": {
     "lemma": "redoutable",
-    "pos": "noun",
-    "meaning": "redoutable (French opera term)"
+    "pos": "adjective",
+    "meaning": "fearsome / formidable / redoubtable"
   },
   "refrain": {
     "lemma": "refrain",
     "pos": "noun",
-    "meaning": "refrain (French opera term)"
+    "meaning": "refrain / chorus"
   },
   "refuse": {
-    "lemma": "refuse",
-    "pos": "noun",
-    "meaning": "refuse (French opera term)"
+    "lemma": "refuser",
+    "pos": "verb",
+    "meaning": "refuses / refuse"
   },
   "refusent": {
-    "lemma": "refusent",
-    "pos": "noun",
-    "meaning": "refusent (French opera term)"
+    "lemma": "refuser",
+    "pos": "verb",
+    "meaning": "refuse (they)"
   },
   "refuser": {
     "lemma": "refuser",
     "pos": "verb",
-    "meaning": "refuser (French opera term)"
+    "meaning": "to refuse / decline"
   },
   "refuseras": {
-    "lemma": "refuseras",
-    "pos": "noun",
-    "meaning": "refuseras (French opera term)"
+    "lemma": "refuser",
+    "pos": "verb",
+    "meaning": "thou wilt refuse"
   },
   "regrette": {
-    "lemma": "regrette",
-    "pos": "noun",
-    "meaning": "regrette (French opera term)"
+    "lemma": "regretter",
+    "pos": "verb",
+    "meaning": "regrets / regret"
   },
   "regrettes": {
-    "lemma": "regrettes",
-    "pos": "noun",
-    "meaning": "regrettes (French opera term)"
+    "lemma": "regretter",
+    "pos": "verb",
+    "meaning": "regrettest / regret"
   },
   "rejoindre": {
     "lemma": "rejoindre",
     "pos": "verb",
-    "meaning": "rejoindre (French opera term)"
+    "meaning": "to rejoin / join / catch up with"
   },
   "reluisaient": {
-    "lemma": "reluisaient",
-    "pos": "noun",
-    "meaning": "reluisaient (French opera term)"
+    "lemma": "reluire",
+    "pos": "verb",
+    "meaning": "were glistening / shining"
   },
   "remarquer": {
     "lemma": "remarquer",
     "pos": "verb",
-    "meaning": "remarquer (French opera term)"
+    "meaning": "to notice / remark (se faire remarquer: distinguish oneself)"
   },
   "remercie": {
-    "lemma": "remercie",
-    "pos": "noun",
-    "meaning": "remercie (French opera term)"
+    "lemma": "remercier",
+    "pos": "verb",
+    "meaning": "thank / thanks"
   },
   "remercions": {
-    "lemma": "remercions",
+    "lemma": "remercier",
     "pos": "verb",
-    "meaning": "remercions (French opera term)"
+    "meaning": "let us thank / we thank"
   },
   "remis": {
-    "lemma": "remis",
-    "pos": "noun",
-    "meaning": "remis (French opera term)"
+    "lemma": "remettre",
+    "pos": "verb",
+    "meaning": "handed over / postponed / recovered"
   },
   "remparts": {
-    "lemma": "remparts",
+    "lemma": "rempart",
     "pos": "noun",
-    "meaning": "remparts (French opera term)"
+    "meaning": "ramparts / walls"
   },
   "remplacera": {
-    "lemma": "remplacera",
-    "pos": "noun",
-    "meaning": "remplacera (French opera term)"
+    "lemma": "remplacer",
+    "pos": "verb",
+    "meaning": "will replace / take the place of"
   },
   "remplissez": {
-    "lemma": "remplissez",
+    "lemma": "remplir",
     "pos": "verb",
-    "meaning": "remplissez (French opera term)"
+    "meaning": "fill / fulfill (you)"
   },
   "remède": {
     "lemma": "remède",
     "pos": "noun",
-    "meaning": "remède (French opera term)"
+    "meaning": "remedy / cure"
   },
   "rendrai": {
-    "lemma": "rendrai",
-    "pos": "noun",
-    "meaning": "rendrai (French opera term)"
+    "lemma": "rendre",
+    "pos": "verb",
+    "meaning": "shall return / render"
   },
   "rendras": {
-    "lemma": "rendras",
-    "pos": "noun",
-    "meaning": "rendras (French opera term)"
+    "lemma": "rendre",
+    "pos": "verb",
+    "meaning": "thou wilt return / make"
   },
   "renseignements": {
-    "lemma": "renseignements",
+    "lemma": "renseignement",
     "pos": "noun",
-    "meaning": "renseignements (French opera term)"
+    "meaning": "information / inquiries"
   },
   "rentre": {
-    "lemma": "rentre",
+    "lemma": "rentrer",
     "pos": "verb",
-    "meaning": "rentre (French opera term)"
+    "meaning": "returns / comes back in / re-enters"
   },
   "renverser": {
     "lemma": "renverser",
     "pos": "verb",
-    "meaning": "renverser (French opera term)"
+    "meaning": "to overthrow / knock down / overturn"
   },
   "reparu": {
-    "lemma": "reparu",
-    "pos": "noun",
-    "meaning": "reparu (French opera term)"
+    "lemma": "reparaître",
+    "pos": "verb",
+    "meaning": "reappeared"
   },
   "reprendre": {
     "lemma": "reprendre",
     "pos": "verb",
-    "meaning": "reprendre (French opera term)"
+    "meaning": "to take back / resume / recover"
   },
   "reprenons": {
-    "lemma": "reprenons",
+    "lemma": "reprendre",
     "pos": "verb",
-    "meaning": "reprenons (French opera term)"
+    "meaning": "let us resume / take back"
   },
   "respectueusement": {
     "lemma": "respectueusement",
-    "pos": "noun",
-    "meaning": "respectueusement (French opera term)"
+    "pos": "adverb",
+    "meaning": "respectfully"
   },
   "respirais": {
-    "lemma": "respirais",
+    "lemma": "respirer",
     "pos": "verb",
-    "meaning": "respirais (French opera term)"
+    "meaning": "was breathing / breathed"
   },
   "respire": {
-    "lemma": "respire",
+    "lemma": "respirer",
     "pos": "verb",
-    "meaning": "respire (French opera term)"
+    "meaning": "breathes / breathe"
   },
   "retard": {
     "lemma": "retard",
     "pos": "noun",
-    "meaning": "retard (French opera term)"
+    "meaning": "delay (en retard: late)"
   },
   "retour": {
     "lemma": "retour",
     "pos": "noun",
-    "meaning": "retour (French opera term)"
+    "meaning": "return (de retour: back)"
   },
   "retourne": {
-    "lemma": "retourne",
-    "pos": "noun",
-    "meaning": "retourne (French opera term)"
+    "lemma": "retourner",
+    "pos": "verb",
+    "meaning": "returns / turns around"
   },
   "retourner": {
     "lemma": "retourner",
     "pos": "verb",
-    "meaning": "retourner (French opera term)"
+    "meaning": "to return / go back"
   },
   "retraite": {
     "lemma": "retraite",
     "pos": "noun",
-    "meaning": "retraite (French opera term)"
+    "meaning": "retreat / retirement / refuge (sonner la retraite)"
   },
   "retrouver": {
     "lemma": "retrouver",
     "pos": "verb",
-    "meaning": "retrouver (French opera term)"
+    "meaning": "to find again / meet again"
   },
   "revanche": {
     "lemma": "revanche",
     "pos": "noun",
-    "meaning": "revanche (French opera term)"
+    "meaning": "revenge / return (en revanche: in return)"
   },
   "revenir": {
     "lemma": "revenir",
     "pos": "verb",
-    "meaning": "revenir (French opera term)"
+    "meaning": "to come back / return"
   },
   "reverrons": {
-    "lemma": "reverrons",
+    "lemma": "revoir",
     "pos": "verb",
-    "meaning": "reverrons (French opera term)"
+    "meaning": "we shall see again"
   },
   "reviendrai": {
-    "lemma": "reviendrai",
-    "pos": "noun",
-    "meaning": "reviendrai (French opera term)"
+    "lemma": "revenir",
+    "pos": "verb",
+    "meaning": "shall return / come back"
   },
   "reviendrais": {
-    "lemma": "reviendrais",
+    "lemma": "revenir",
     "pos": "verb",
-    "meaning": "reviendrais (French opera term)"
+    "meaning": "would return / come back"
   },
   "reviendrait": {
-    "lemma": "reviendrait",
+    "lemma": "revenir",
     "pos": "verb",
-    "meaning": "reviendrait (French opera term)"
+    "meaning": "would return / come back"
   },
   "reviendront": {
-    "lemma": "reviendront",
+    "lemma": "revenir",
     "pos": "verb",
-    "meaning": "reviendront (French opera term)"
+    "meaning": "will return / come back"
   },
   "revient": {
-    "lemma": "revient",
-    "pos": "noun",
-    "meaning": "revient (French opera term)"
+    "lemma": "revenir",
+    "pos": "verb",
+    "meaning": "returns / comes back"
   },
   "revois": {
-    "lemma": "revois",
-    "pos": "noun",
-    "meaning": "revois (French opera term)"
+    "lemma": "revoir",
+    "pos": "verb",
+    "meaning": "see again"
   },
   "revoit": {
-    "lemma": "revoit",
-    "pos": "noun",
-    "meaning": "revoit (French opera term)"
+    "lemma": "revoir",
+    "pos": "verb",
+    "meaning": "sees again"
   },
   "riche": {
     "lemma": "riche",
-    "pos": "noun",
-    "meaning": "riche (French opera term)"
+    "pos": "adjective",
+    "meaning": "rich / wealthy"
   },
   "riposta": {
-    "lemma": "riposta",
-    "pos": "noun",
-    "meaning": "riposta (French opera term)"
+    "lemma": "riposter",
+    "pos": "verb",
+    "meaning": "retorted / struck back"
   },
   "rirais": {
-    "lemma": "rirais",
+    "lemma": "rire",
     "pos": "verb",
-    "meaning": "rirais (French opera term)"
+    "meaning": "would laugh"
   },
   "risquerait": {
-    "lemma": "risquerait",
+    "lemma": "risquer",
     "pos": "verb",
-    "meaning": "risquerait (French opera term)"
+    "meaning": "would risk"
   },
   "rive": {
     "lemma": "rive",
     "pos": "noun",
-    "meaning": "rive (French opera term)"
+    "meaning": "bank / shore"
   },
   "romalis": {
     "lemma": "romalis",
     "pos": "noun",
-    "meaning": "romalis (French opera term)"
+    "meaning": "romalis (traditional Romany dance)"
   },
   "rompra": {
-    "lemma": "rompra",
-    "pos": "noun",
-    "meaning": "rompra (French opera term)"
+    "lemma": "rompre",
+    "pos": "verb",
+    "meaning": "will break / shatter"
   },
   "roulait": {
-    "lemma": "roulait",
+    "lemma": "rouler",
     "pos": "verb",
-    "meaning": "roulait (French opera term)"
+    "meaning": "was rolling / coiled"
   },
   "roule": {
-    "lemma": "roule",
-    "pos": "noun",
-    "meaning": "roule (French opera term)"
+    "lemma": "rouler",
+    "pos": "verb",
+    "meaning": "rolls / roll"
   },
   "roulent": {
-    "lemma": "roulent",
-    "pos": "noun",
-    "meaning": "roulent (French opera term)"
+    "lemma": "rouler",
+    "pos": "verb",
+    "meaning": "roll (they)"
   },
   "route": {
     "lemma": "route",
     "pos": "noun",
-    "meaning": "route (French opera term)"
+    "meaning": "road / route / way (en route: on the way)"
   },
   "royal": {
     "lemma": "royal",
-    "pos": "noun",
-    "meaning": "royal (French opera term)"
+    "pos": "adjective",
+    "meaning": "royal / kingly"
   },
   "rudement": {
     "lemma": "rudement",
-    "pos": "noun",
-    "meaning": "rudement (French opera term)"
+    "pos": "adverb",
+    "meaning": "roughly / terribly / mighty"
   },
   "rythme": {
     "lemma": "rythme",
     "pos": "noun",
-    "meaning": "rythme (French opera term)"
+    "meaning": "rhythm / cadence"
   },
   "règlements": {
-    "lemma": "règlements",
+    "lemma": "règlement",
     "pos": "noun",
-    "meaning": "règlements (French opera term)"
+    "meaning": "regulations / rules"
   },
   "récupérée": {
-    "lemma": "récupérée",
-    "pos": "noun",
-    "meaning": "récupérée (French opera term)"
+    "lemma": "récupérer",
+    "pos": "verb",
+    "meaning": "recovered / retrieved"
   },
   "régales": {
-    "lemma": "régales",
-    "pos": "noun",
-    "meaning": "régales (French opera term)"
+    "lemma": "régaler",
+    "pos": "verb",
+    "meaning": "treatest / feast"
   },
   "régiment": {
     "lemma": "régiment",
     "pos": "noun",
-    "meaning": "régiment (French opera term)"
+    "meaning": "regiment"
   },
   "répondons": {
-    "lemma": "répondons",
+    "lemma": "répondre",
     "pos": "verb",
-    "meaning": "répondons (French opera term)"
+    "meaning": "we answer / let us answer"
   },
   "répondrais": {
-    "lemma": "répondrais",
+    "lemma": "répondre",
     "pos": "verb",
-    "meaning": "répondrais (French opera term)"
+    "meaning": "would answer / reply"
   },
   "réponse": {
     "lemma": "réponse",
     "pos": "noun",
-    "meaning": "réponse (French opera term)"
+    "meaning": "answer / reply"
   },
   "réponses": {
-    "lemma": "réponses",
+    "lemma": "réponse",
     "pos": "noun",
-    "meaning": "réponses (French opera term)"
+    "meaning": "answers / replies"
   },
   "répète": {
-    "lemma": "répète",
-    "pos": "noun",
-    "meaning": "répète (French opera term)"
+    "lemma": "répéter",
+    "pos": "verb",
+    "meaning": "repeats / repeat"
   },
   "répèterais": {
-    "lemma": "répèterais",
+    "lemma": "répéter",
     "pos": "verb",
-    "meaning": "répèterais (French opera term)"
+    "meaning": "would repeat"
   },
   "répétait": {
-    "lemma": "répétait",
+    "lemma": "répéter",
     "pos": "verb",
-    "meaning": "répétait (French opera term)"
+    "meaning": "was repeating / repeated"
   },
   "résignée": {
-    "lemma": "résignée",
-    "pos": "noun",
-    "meaning": "résignée (French opera term)"
+    "lemma": "résigné",
+    "pos": "adjective",
+    "meaning": "resigned (fem.)"
   },
   "résiste": {
-    "lemma": "résiste",
-    "pos": "noun",
-    "meaning": "résiste (French opera term)"
+    "lemma": "résister",
+    "pos": "verb",
+    "meaning": "resists / resist"
   },
   "résister": {
     "lemma": "résister",
     "pos": "verb",
-    "meaning": "résister (French opera term)"
+    "meaning": "to resist / withstand"
   },
   "sable": {
     "lemma": "sable",
     "pos": "noun",
-    "meaning": "sable (French opera term)"
+    "meaning": "sand / arena sand"
   },
   "sage": {
     "lemma": "sage",
-    "pos": "noun",
-    "meaning": "sage (French opera term)"
+    "pos": "adjective",
+    "meaning": "wise / sensible / well-behaved"
   },
   "saint": {
     "lemma": "saint",
-    "pos": "noun",
-    "meaning": "saint (French opera term)"
+    "pos": "adjective",
+    "meaning": "holy / saint"
   },
   "saints": {
-    "lemma": "saints",
+    "lemma": "saint",
     "pos": "noun",
-    "meaning": "saints (French opera term)"
+    "meaning": "saints (pl.)"
   },
   "salle": {
     "lemma": "salle",
     "pos": "noun",
-    "meaning": "salle (French opera term)"
+    "meaning": "room / hall / theater house"
   },
   "salut": {
     "lemma": "salut",
     "pos": "noun",
-    "meaning": "salut (French opera term)"
+    "meaning": "salvation / greeting / salute"
   },
   "sanglant": {
     "lemma": "sanglant",
-    "pos": "verb",
-    "meaning": "sanglant (French opera term)"
+    "pos": "adjective",
+    "meaning": "bloody / bleeding"
   },
   "scier": {
     "lemma": "scier",
     "pos": "verb",
-    "meaning": "scier (French opera term)"
+    "meaning": "to saw / cut"
   },
   "secouant": {
-    "lemma": "secouant",
+    "lemma": "secouer",
     "pos": "verb",
-    "meaning": "secouant (French opera term)"
+    "meaning": "shaking / tossing"
   },
   "secours": {
     "lemma": "secours",
     "pos": "noun",
-    "meaning": "secours (French opera term)"
+    "meaning": "help / aid / relief (au secours: to the rescue)"
   },
   "secret": {
     "lemma": "secret",
     "pos": "noun",
-    "meaning": "secret (French opera term)"
+    "meaning": "secret"
   },
   "seigneur": {
     "lemma": "seigneur",
     "pos": "noun",
-    "meaning": "seigneur (French opera term)"
+    "meaning": "Lord / noble / master"
   },
   "semaine": {
     "lemma": "semaine",
     "pos": "noun",
-    "meaning": "semaine (French opera term)"
+    "meaning": "week"
   },
   "sentais": {
-    "lemma": "sentais",
+    "lemma": "sentir",
     "pos": "verb",
-    "meaning": "sentais (French opera term)"
+    "meaning": "felt / smelled"
   },
   "serments": {
-    "lemma": "serments",
+    "lemma": "serment",
     "pos": "noun",
-    "meaning": "serments (French opera term)"
+    "meaning": "oaths / vows"
   },
   "serrait": {
-    "lemma": "serrait",
+    "lemma": "serrer",
     "pos": "verb",
-    "meaning": "serrait (French opera term)"
+    "meaning": "was grasping / squeezing / tightening"
   },
   "serrée": {
-    "lemma": "serrée",
-    "pos": "noun",
-    "meaning": "serrée (French opera term)"
+    "lemma": "serrer",
+    "pos": "verb",
+    "meaning": "tightened / clenched / squeezed (fem.)"
   },
   "sert": {
-    "lemma": "sert",
-    "pos": "noun",
-    "meaning": "sert (French opera term)"
+    "lemma": "servir",
+    "pos": "verb",
+    "meaning": "serves / is of use (ne sert à rien: is useless)"
   },
   "servi": {
-    "lemma": "servi",
-    "pos": "noun",
-    "meaning": "servi (French opera term)"
+    "lemma": "servir",
+    "pos": "verb",
+    "meaning": "served"
   },
   "service": {
     "lemma": "service",
     "pos": "noun",
-    "meaning": "service (French opera term)"
+    "meaning": "service / duty"
   },
   "servir": {
     "lemma": "servir",
     "pos": "verb",
-    "meaning": "servir (French opera term)"
+    "meaning": "to serve / be of use"
   },
   "servira": {
-    "lemma": "servira",
-    "pos": "noun",
-    "meaning": "servira (French opera term)"
+    "lemma": "servir",
+    "pos": "verb",
+    "meaning": "will serve / will be of use"
   },
   "serviteur": {
     "lemma": "serviteur",
     "pos": "noun",
-    "meaning": "serviteur (French opera term)"
+    "meaning": "servant"
   },
   "seulement": {
     "lemma": "seulement",
-    "pos": "noun",
-    "meaning": "seulement (French opera term)"
+    "pos": "adverb",
+    "meaning": "only / solely / merely"
   },
   "shako": {
     "lemma": "shako",
     "pos": "noun",
-    "meaning": "shako (French opera term)"
+    "meaning": "shako (military visor cap)"
   },
   "signe": {
     "lemma": "signe",
     "pos": "noun",
-    "meaning": "signe (French opera term)"
+    "meaning": "sign / signal / gesture"
   },
   "silence": {
     "lemma": "silence",
     "pos": "noun",
-    "meaning": "silence (French opera term)"
+    "meaning": "silence"
   },
   "simple": {
     "lemma": "simple",
-    "pos": "noun",
-    "meaning": "simple (French opera term)"
+    "pos": "adjective",
+    "meaning": "simple / mere / plain"
   },
   "simplement": {
     "lemma": "simplement",
-    "pos": "noun",
-    "meaning": "simplement (French opera term)"
+    "pos": "adverb",
+    "meaning": "simply / merely"
   },
   "sincères": {
-    "lemma": "sincères",
-    "pos": "noun",
-    "meaning": "sincères (French opera term)"
+    "lemma": "sincère",
+    "pos": "adjective",
+    "meaning": "sincere / truthful (pl.)"
   },
   "sistres": {
-    "lemma": "sistres",
+    "lemma": "sistre",
     "pos": "noun",
-    "meaning": "sistres (French opera term)"
+    "meaning": "sistrums (percussion instruments with jingling rods)"
   },
   "soi": {
     "lemma": "soi",
-    "pos": "noun",
-    "meaning": "soi (French opera term)"
+    "pos": "pronoun",
+    "meaning": "oneself / itself"
   },
   "sombreros": {
-    "lemma": "sombreros",
+    "lemma": "sombrero",
     "pos": "noun",
-    "meaning": "sombreros (French opera term)"
+    "meaning": "sombreros (broad-brimmed hats)"
   },
   "somme": {
     "lemma": "somme",
     "pos": "noun",
-    "meaning": "somme (French opera term)"
+    "meaning": "sum / amount (en somme: in short)"
   },
   "sommeil": {
     "lemma": "sommeil",
     "pos": "noun",
-    "meaning": "sommeil (French opera term)"
+    "meaning": "sleep / slumber"
   },
   "sorcières": {
-    "lemma": "sorcières",
+    "lemma": "sorcière",
     "pos": "noun",
-    "meaning": "sorcières (French opera term)"
+    "meaning": "witches / sorceresses"
   },
   "sort": {
     "lemma": "sort",
     "pos": "noun",
-    "meaning": "sort (French opera term)"
+    "meaning": "fate / destiny / lot / goes out"
   },
   "sortait": {
-    "lemma": "sortait",
+    "lemma": "sortir",
     "pos": "verb",
-    "meaning": "sortait (French opera term)"
+    "meaning": "was coming out / leaving"
   },
   "sorte": {
     "lemma": "sorte",
     "pos": "noun",
-    "meaning": "sorte (French opera term)"
+    "meaning": "kind / sort (de sorte que: so that)"
   },
   "sorti": {
-    "lemma": "sorti",
-    "pos": "noun",
-    "meaning": "sorti (French opera term)"
+    "lemma": "sortir",
+    "pos": "verb",
+    "meaning": "gone out / come out"
   },
   "sortir": {
     "lemma": "sortir",
     "pos": "verb",
-    "meaning": "sortir (French opera term)"
+    "meaning": "to go out / leave / step outside"
   },
   "souci": {
     "lemma": "souci",
     "pos": "noun",
-    "meaning": "souci (French opera term)"
+    "meaning": "worry / care / anxiety"
   },
   "souffre": {
-    "lemma": "souffre",
+    "lemma": "souffrir",
     "pos": "verb",
-    "meaning": "souffre (French opera term)"
+    "meaning": "suffers / suffer / endure"
   },
   "souffrez": {
-    "lemma": "souffrez",
+    "lemma": "souffrir",
     "pos": "verb",
-    "meaning": "souffrez (French opera term)"
+    "meaning": "suffer / allow / endure (you)"
   },
   "souffrir": {
     "lemma": "souffrir",
     "pos": "verb",
-    "meaning": "souffrir (French opera term)"
+    "meaning": "to suffer / endure / allow"
   },
   "soupçonneux": {
     "lemma": "soupçonneux",
-    "pos": "noun",
-    "meaning": "soupçonneux (French opera term)"
+    "pos": "adjective",
+    "meaning": "suspicious / distrustful"
   },
   "sourira": {
-    "lemma": "sourira",
-    "pos": "noun",
-    "meaning": "sourira (French opera term)"
+    "lemma": "sourire",
+    "pos": "verb",
+    "meaning": "will smile"
   },
   "soutien": {
     "lemma": "soutien",
     "pos": "noun",
-    "meaning": "soutien (French opera term)"
+    "meaning": "support / mainstay"
   },
   "souveraine": {
-    "lemma": "souveraine",
-    "pos": "noun",
-    "meaning": "souveraine (French opera term)"
+    "lemma": "souverain",
+    "pos": "adjective",
+    "meaning": "sovereign / supreme (fem.)"
   },
   "souviens": {
-    "lemma": "souviens",
-    "pos": "noun",
-    "meaning": "souviens (French opera term)"
+    "lemma": "souvenir",
+    "pos": "verb",
+    "meaning": "remember (se souvenir)"
   },
   "spectateurs": {
-    "lemma": "spectateurs",
+    "lemma": "spectateur",
     "pos": "noun",
-    "meaning": "spectateurs (French opera term)"
+    "meaning": "spectators / onlookers"
   },
   "statistiques": {
-    "lemma": "statistiques",
+    "lemma": "statistique",
     "pos": "noun",
-    "meaning": "statistiques (French opera term)"
+    "meaning": "statistics"
   },
   "strophe": {
     "lemma": "strophe",
     "pos": "noun",
-    "meaning": "strophe (French opera term)"
+    "meaning": "stanza / strophe"
   },
   "subir": {
     "lemma": "subir",
     "pos": "verb",
-    "meaning": "subir (French opera term)"
+    "meaning": "to undergo / endure / suffer"
   },
   "suffira": {
-    "lemma": "suffira",
-    "pos": "noun",
-    "meaning": "suffira (French opera term)"
+    "lemma": "suffire",
+    "pos": "verb",
+    "meaning": "will suffice / will be enough"
   },
   "suffise": {
-    "lemma": "suffise",
-    "pos": "noun",
-    "meaning": "suffise (French opera term)"
+    "lemma": "suffire",
+    "pos": "verb",
+    "meaning": "may suffice / be enough (subjunctive)"
   },
   "suite": {
     "lemma": "suite",
     "pos": "noun",
-    "meaning": "suite (French opera term)"
+    "meaning": "following / retinue (tout de suite: immediately)"
   },
   "suivant": {
-    "lemma": "suivant",
+    "lemma": "suivre",
     "pos": "verb",
-    "meaning": "suivant (French opera term)"
+    "meaning": "following / next"
   },
   "suivi": {
-    "lemma": "suivi",
-    "pos": "noun",
-    "meaning": "suivi (French opera term)"
+    "lemma": "suivre",
+    "pos": "verb",
+    "meaning": "followed"
   },
   "suivis": {
-    "lemma": "suivis",
-    "pos": "noun",
-    "meaning": "suivis (French opera term)"
+    "lemma": "suivre",
+    "pos": "verb",
+    "meaning": "followed (pl.)"
   },
   "suivit": {
-    "lemma": "suivit",
-    "pos": "noun",
-    "meaning": "suivit (French opera term)"
+    "lemma": "suivre",
+    "pos": "verb",
+    "meaning": "followed"
   },
   "suivons": {
-    "lemma": "suivons",
+    "lemma": "suivre",
     "pos": "verb",
-    "meaning": "suivons (French opera term)"
+    "meaning": "let us follow / we follow"
   },
   "suivrai": {
-    "lemma": "suivrai",
-    "pos": "noun",
-    "meaning": "suivrai (French opera term)"
+    "lemma": "suivre",
+    "pos": "verb",
+    "meaning": "shall follow"
   },
   "suivrais": {
-    "lemma": "suivrais",
+    "lemma": "suivre",
     "pos": "verb",
-    "meaning": "suivrais (French opera term)"
+    "meaning": "would follow"
   },
   "suivras": {
-    "lemma": "suivras",
-    "pos": "noun",
-    "meaning": "suivras (French opera term)"
+    "lemma": "suivre",
+    "pos": "verb",
+    "meaning": "thou wilt follow"
   },
   "suivrons": {
-    "lemma": "suivrons",
+    "lemma": "suivre",
     "pos": "verb",
-    "meaning": "suivrons (French opera term)"
+    "meaning": "we shall follow"
   },
   "suivront": {
-    "lemma": "suivront",
+    "lemma": "suivre",
     "pos": "verb",
-    "meaning": "suivront (French opera term)"
+    "meaning": "will follow (they)"
   },
   "sujet": {
     "lemma": "sujet",
     "pos": "noun",
-    "meaning": "sujet (French opera term)"
+    "meaning": "subject / topic / reason"
   },
   "superflus": {
-    "lemma": "superflus",
-    "pos": "noun",
-    "meaning": "superflus (French opera term)"
+    "lemma": "superflu",
+    "pos": "adjective",
+    "meaning": "superfluous / needless (pl.)"
   },
   "supplie": {
-    "lemma": "supplie",
-    "pos": "noun",
-    "meaning": "supplie (French opera term)"
+    "lemma": "supplier",
+    "pos": "verb",
+    "meaning": "beg / beseech / entreat"
   },
   "suppose": {
-    "lemma": "suppose",
-    "pos": "noun",
-    "meaning": "suppose (French opera term)"
+    "lemma": "supposer",
+    "pos": "verb",
+    "meaning": "supposes / assume"
   },
   "surprise": {
     "lemma": "surprise",
     "pos": "noun",
-    "meaning": "surprise (French opera term)"
+    "meaning": "surprise"
   },
   "sèche": {
-    "lemma": "sèche",
-    "pos": "noun",
-    "meaning": "sèche (French opera term)"
+    "lemma": "sec",
+    "pos": "adjective",
+    "meaning": "dry / curt / sharp (fem.)"
   },
   "sécurité": {
     "lemma": "sécurité",
-    "pos": "verb",
-    "meaning": "sécurité (French opera term)"
+    "pos": "noun",
+    "meaning": "security / safety"
   },
   "séguedille": {
     "lemma": "séguedille",
     "pos": "noun",
-    "meaning": "séguedille (French opera term)"
+    "meaning": "seguidilla (Spanish song and dance)"
   },
   "séparer": {
     "lemma": "séparer",
     "pos": "verb",
-    "meaning": "séparer (French opera term)"
+    "meaning": "to separate / part"
   },
   "sérieuse": {
-    "lemma": "sérieuse",
-    "pos": "noun",
-    "meaning": "sérieuse (French opera term)"
+    "lemma": "sérieux",
+    "pos": "adjective",
+    "meaning": "serious / earnest (fem.)"
   },
   "sûr": {
     "lemma": "sûr",
-    "pos": "noun",
-    "meaning": "sûr (French opera term)"
+    "pos": "adjective",
+    "meaning": "sure / certain / safe"
   },
   "taille": {
     "lemma": "taille",
     "pos": "noun",
-    "meaning": "taille (French opera term)"
+    "meaning": "waist / figure / stature / size"
   },
   "tais": {
-    "lemma": "tais",
+    "lemma": "taire",
     "pos": "verb",
-    "meaning": "tais (French opera term)"
+    "meaning": "be quiet / hold one's peace (se taire)"
   },
   "taisez": {
-    "lemma": "taisez",
+    "lemma": "taire",
     "pos": "verb",
-    "meaning": "taisez (French opera term)"
+    "meaning": "be quiet / hold your peace (taisez-vous)"
   },
   "taisons": {
-    "lemma": "taisons",
+    "lemma": "taire",
     "pos": "verb",
-    "meaning": "taisons (French opera term)"
+    "meaning": "let us be quiet (se taire)"
   },
   "tait": {
-    "lemma": "tait",
+    "lemma": "taire",
     "pos": "verb",
-    "meaning": "tait (French opera term)"
+    "meaning": "keeps quiet / falls silent"
   },
   "tambours": {
-    "lemma": "tambours",
+    "lemma": "tambour",
     "pos": "noun",
-    "meaning": "tambours (French opera term)"
+    "meaning": "drums"
   },
   "tapage": {
     "lemma": "tapage",
     "pos": "noun",
-    "meaning": "tapage (French opera term)"
+    "meaning": "racket / uproar / commotion / noise"
   },
   "tauromachie": {
     "lemma": "tauromachie",
     "pos": "noun",
-    "meaning": "tauromachie (French opera term)"
+    "meaning": "tauromachy / bullfighting"
   },
   "teint": {
     "lemma": "teint",
     "pos": "noun",
-    "meaning": "teint (French opera term)"
+    "meaning": "complexion / hue / dye"
   },
   "tend": {
-    "lemma": "tend",
-    "pos": "noun",
-    "meaning": "tend (French opera term)"
+    "lemma": "tendre",
+    "pos": "verb",
+    "meaning": "holds out / stretches / tends"
   },
   "terminer": {
     "lemma": "terminer",
     "pos": "verb",
-    "meaning": "terminer (French opera term)"
+    "meaning": "to finish / end / conclude"
   },
   "terrassé": {
-    "lemma": "terrassé",
+    "lemma": "terrasser",
     "pos": "verb",
-    "meaning": "terrassé (French opera term)"
+    "meaning": "struck down / felled / overcome"
   },
   "terrible": {
     "lemma": "terrible",
-    "pos": "noun",
-    "meaning": "terrible (French opera term)"
+    "pos": "adjective",
+    "meaning": "terrible / dreadful"
   },
   "texte": {
     "lemma": "texte",
     "pos": "noun",
-    "meaning": "texte (French opera term)"
+    "meaning": "text"
   },
   "textes": {
-    "lemma": "textes",
+    "lemma": "texte",
     "pos": "noun",
-    "meaning": "textes (French opera term)"
+    "meaning": "texts"
   },
   "théâtre": {
     "lemma": "théâtre",
-    "pos": "verb",
-    "meaning": "théâtre (French opera term)"
+    "pos": "noun",
+    "meaning": "theater / stage"
   },
   "tien": {
     "lemma": "tien",
-    "pos": "noun",
-    "meaning": "tien (French opera term)"
+    "pos": "pronoun",
+    "meaning": "thine / yours (le tien)"
   },
   "timide": {
     "lemma": "timide",
-    "pos": "noun",
-    "meaning": "timide (French opera term)"
+    "pos": "adjective",
+    "meaning": "timid / shy"
   },
   "tintaient": {
-    "lemma": "tintaient",
-    "pos": "noun",
-    "meaning": "tintaient (French opera term)"
+    "lemma": "tinter",
+    "pos": "verb",
+    "meaning": "were tinkling / chiming / ringing"
   },
   "title": {
     "lemma": "title",
     "pos": "noun",
-    "meaning": "title (French opera term)"
+    "meaning": "title"
   },
   "toast": {
     "lemma": "toast",
     "pos": "noun",
-    "meaning": "toast (French opera term)"
+    "meaning": "toast (drink)"
   },
   "tonner": {
     "lemma": "tonner",
     "pos": "verb",
-    "meaning": "tonner (French opera term)"
+    "meaning": "to thunder / roar"
   },
   "tonnerre": {
     "lemma": "tonnerre",
-    "pos": "verb",
-    "meaning": "tonnerre (French opera term)"
+    "pos": "noun",
+    "meaning": "thunder"
   },
   "toques": {
-    "lemma": "toques",
+    "lemma": "toque",
     "pos": "noun",
-    "meaning": "toques (French opera term)"
+    "meaning": "toques / caps / hats"
   },
   "torero": {
     "lemma": "torero",
     "pos": "noun",
-    "meaning": "torero (French opera term)"
+    "meaning": "bullfighter / torero"
   },
   "toreros": {
-    "lemma": "toreros",
+    "lemma": "torero",
     "pos": "noun",
-    "meaning": "toreros (French opera term)"
+    "meaning": "bullfighters / toreros"
   },
   "toril": {
     "lemma": "toril",
     "pos": "noun",
-    "meaning": "toril (French opera term)"
+    "meaning": "toril (bull enclosure before the arena)"
   },
   "toro": {
     "lemma": "toro",
     "pos": "noun",
-    "meaning": "toro (French opera term)"
+    "meaning": "bull (Spanish: toro)"
   },
   "torrent": {
     "lemma": "torrent",
     "pos": "noun",
-    "meaning": "torrent (French opera term)"
+    "meaning": "torrent / rushing stream"
   },
   "tort": {
     "lemma": "tort",
     "pos": "noun",
-    "meaning": "tort (French opera term)"
+    "meaning": "wrong (avoir tort: to be wrong)"
   },
   "tour": {
     "lemma": "tour",
     "pos": "noun",
-    "meaning": "tour (French opera term)"
+    "meaning": "turn / trick / tower (à tour de bras: with all one's might)"
   },
   "tourbillon": {
     "lemma": "tourbillon",
     "pos": "noun",
-    "meaning": "tourbillon (French opera term)"
+    "meaning": "whirlwind / vortex / swirl"
   },
   "tourmentée": {
-    "lemma": "tourmentée",
-    "pos": "noun",
-    "meaning": "tourmentée (French opera term)"
+    "lemma": "tourmenter",
+    "pos": "verb",
+    "meaning": "tormented / anguished (fem.)"
   },
   "trahira": {
-    "lemma": "trahira",
-    "pos": "noun",
-    "meaning": "trahira (French opera term)"
+    "lemma": "trahir",
+    "pos": "verb",
+    "meaning": "will betray"
   },
   "train": {
     "lemma": "train",
     "pos": "noun",
-    "meaning": "train (French opera term)"
+    "meaning": "pace / train (en train de: in the middle of)"
   },
   "traitement": {
     "lemma": "traitement",
     "pos": "noun",
-    "meaning": "traitement (French opera term)"
+    "meaning": "treatment / pay / salary"
   },
   "tranquille": {
     "lemma": "tranquille",
-    "pos": "noun",
-    "meaning": "tranquille (French opera term)"
+    "pos": "adjective",
+    "meaning": "quiet / calm / peaceful"
   },
   "tranquilles": {
-    "lemma": "tranquilles",
-    "pos": "noun",
-    "meaning": "tranquilles (French opera term)"
+    "lemma": "tranquille",
+    "pos": "adjective",
+    "meaning": "quiet / peaceful (pl.)"
   },
   "transports": {
-    "lemma": "transports",
+    "lemma": "transport",
     "pos": "noun",
-    "meaning": "transports (French opera term)"
+    "meaning": "raptures / transports of joy"
   },
   "travers": {
     "lemma": "travers",
     "pos": "noun",
-    "meaning": "travers (French opera term)"
+    "meaning": "breadth (à travers: through / across)"
   },
   "trembler": {
     "lemma": "trembler",
     "pos": "verb",
-    "meaning": "trembler (French opera term)"
+    "meaning": "to tremble / shake"
   },
   "tremblé": {
-    "lemma": "tremblé",
+    "lemma": "trembler",
     "pos": "verb",
-    "meaning": "tremblé (French opera term)"
+    "meaning": "trembled / shook"
   },
   "tringles": {
-    "lemma": "tringles",
+    "lemma": "tringle",
     "pos": "noun",
-    "meaning": "tringles (French opera term)"
+    "meaning": "metal rods / wires (of sistrums)"
   },
   "tromperie": {
     "lemma": "tromperie",
     "pos": "noun",
-    "meaning": "tromperie (French opera term)"
+    "meaning": "deceit / trickery / fraud"
   },
   "troublé": {
-    "lemma": "troublé",
+    "lemma": "troubler",
     "pos": "verb",
-    "meaning": "troublé (French opera term)"
+    "meaning": "troubled / unsettled / disturbed"
   },
   "trouer": {
     "lemma": "trouer",
     "pos": "verb",
-    "meaning": "trouer (French opera term)"
+    "meaning": "to pierce / bore / make holes"
   },
   "troupeau": {
     "lemma": "troupeau",
     "pos": "noun",
-    "meaning": "troupeau (French opera term)"
+    "meaning": "flock / herd"
   },
   "trépas": {
     "lemma": "trépas",
     "pos": "noun",
-    "meaning": "trépas (French opera term)"
+    "meaning": "death / demise / passing"
   },
   "tâcherai": {
-    "lemma": "tâcherai",
-    "pos": "noun",
-    "meaning": "tâcherai (French opera term)"
+    "lemma": "tâcher",
+    "pos": "verb",
+    "meaning": "shall try / endeavor"
   },
   "uniforme": {
     "lemma": "uniforme",
     "pos": "noun",
-    "meaning": "uniforme (French opera term)"
+    "meaning": "uniform"
   },
   "univers": {
     "lemma": "univers",
     "pos": "noun",
-    "meaning": "univers (French opera term)"
+    "meaning": "universe / world"
   },
   "usage": {
     "lemma": "usage",
     "pos": "noun",
-    "meaning": "usage (French opera term)"
+    "meaning": "use / custom / usage"
   },
   "utile": {
     "lemma": "utile",
-    "pos": "noun",
-    "meaning": "utile (French opera term)"
+    "pos": "adjective",
+    "meaning": "useful / helpful"
   },
   "utilisation": {
     "lemma": "utilisation",
     "pos": "noun",
-    "meaning": "utilisation (French opera term)"
+    "meaning": "use / utilization"
   },
   "vaillante": {
-    "lemma": "vaillante",
-    "pos": "noun",
-    "meaning": "vaillante (French opera term)"
+    "lemma": "vaillant",
+    "pos": "adjective",
+    "meaning": "valiant / brave (fem.)"
   },
   "vain": {
     "lemma": "vain",
-    "pos": "noun",
-    "meaning": "vain (French opera term)"
+    "pos": "adjective",
+    "meaning": "vain / idle (en vain: in vain)"
   },
   "vainqueur": {
     "lemma": "vainqueur",
     "pos": "noun",
-    "meaning": "vainqueur (French opera term)"
+    "meaning": "victor / conqueror / winner"
   },
   "vanter": {
     "lemma": "vanter",
     "pos": "verb",
-    "meaning": "vanter (French opera term)"
+    "meaning": "to boast / brag / praise (se vanter)"
   },
   "vaudra": {
-    "lemma": "vaudra",
-    "pos": "noun",
-    "meaning": "vaudra (French opera term)"
+    "lemma": "valoir",
+    "pos": "verb",
+    "meaning": "will be worth"
   },
   "vaut": {
-    "lemma": "vaut",
-    "pos": "noun",
-    "meaning": "vaut (French opera term)"
+    "lemma": "valoir",
+    "pos": "verb",
+    "meaning": "is worth (vaut mieux: is better)"
   },
   "veillez": {
-    "lemma": "veillez",
+    "lemma": "veiller",
     "pos": "verb",
-    "meaning": "veillez (French opera term)"
+    "meaning": "watch / look after / stay awake"
   },
   "version": {
     "lemma": "version",
     "pos": "noun",
-    "meaning": "version (French opera term)"
+    "meaning": "version"
   },
   "veuve": {
     "lemma": "veuve",
     "pos": "noun",
-    "meaning": "veuve (French opera term)"
+    "meaning": "widow"
   },
   "vieil": {
-    "lemma": "vieil",
-    "pos": "noun",
-    "meaning": "vieil (French opera term)"
+    "lemma": "vieux",
+    "pos": "adjective",
+    "meaning": "old (before vowel)"
   },
   "vielle": {
     "lemma": "vielle",
     "pos": "noun",
-    "meaning": "vielle (French opera term)"
+    "meaning": "hurdy-gurdy (vielle à roue)"
   },
   "viendrez": {
-    "lemma": "viendrez",
+    "lemma": "venir",
     "pos": "verb",
-    "meaning": "viendrez (French opera term)"
+    "meaning": "you will come"
   },
   "vilain": {
     "lemma": "vilain",
-    "pos": "noun",
-    "meaning": "vilain (French opera term)"
+    "pos": "adjective",
+    "meaning": "ugly / nasty / base / wretched"
   },
   "vilaine": {
-    "lemma": "vilaine",
-    "pos": "noun",
-    "meaning": "vilaine (French opera term)"
+    "lemma": "vilain",
+    "pos": "adjective",
+    "meaning": "ugly / nasty / wretched (fem.)"
   },
   "village": {
     "lemma": "village",
     "pos": "noun",
-    "meaning": "village (French opera term)"
+    "meaning": "village"
   },
   "ville": {
     "lemma": "ville",
     "pos": "noun",
-    "meaning": "ville (French opera term)"
+    "meaning": "town / city"
   },
   "vint": {
-    "lemma": "vint",
-    "pos": "noun",
-    "meaning": "vint (French opera term)"
+    "lemma": "venir",
+    "pos": "verb",
+    "meaning": "came"
   },
   "vivat": {
     "lemma": "vivat",
-    "pos": "noun",
-    "meaning": "vivat (French opera term)"
+    "pos": "interjection",
+    "meaning": "hurrah! / long live! / cheers!"
   },
   "vive": {
-    "lemma": "vive",
-    "pos": "noun",
-    "meaning": "vive (French opera term)"
+    "lemma": "vivre",
+    "pos": "verb",
+    "meaning": "long live! / hail! / may live"
   },
   "voici": {
     "lemma": "voici",
-    "pos": "noun",
-    "meaning": "voici (French opera term)"
+    "pos": "preposition",
+    "meaning": "here is / behold / here comes"
   },
   "voilà": {
     "lemma": "voilà",
-    "pos": "noun",
-    "meaning": "voilà (French opera term)"
+    "pos": "preposition",
+    "meaning": "there is / behold / there comes"
   },
   "volerie": {
     "lemma": "volerie",
     "pos": "noun",
-    "meaning": "volerie (French opera term)"
+    "meaning": "theft / robbery / thieving"
   },
   "volets": {
-    "lemma": "volets",
+    "lemma": "volet",
     "pos": "noun",
-    "meaning": "volets (French opera term)"
+    "meaning": "shutters"
   },
   "volonté": {
     "lemma": "volonté",
-    "pos": "verb",
-    "meaning": "volonté (French opera term)"
+    "pos": "noun",
+    "meaning": "will / wish / desire"
   },
   "voudrez": {
-    "lemma": "voudrez",
+    "lemma": "vouloir",
     "pos": "verb",
-    "meaning": "voudrez (French opera term)"
+    "meaning": "you will want / wish"
   },
   "voulant": {
-    "lemma": "voulant",
+    "lemma": "vouloir",
     "pos": "verb",
-    "meaning": "voulant (French opera term)"
+    "meaning": "wanting / wishing"
   },
   "voyage": {
     "lemma": "voyage",
     "pos": "noun",
-    "meaning": "voyage (French opera term)"
+    "meaning": "journey / trip / voyage"
   },
   "vénère": {
-    "lemma": "vénère",
+    "lemma": "vénérer",
     "pos": "verb",
-    "meaning": "vénère (French opera term)"
+    "meaning": "venerates / revere"
   },
   "vérité": {
     "lemma": "vérité",
-    "pos": "verb",
-    "meaning": "vérité (French opera term)"
+    "pos": "noun",
+    "meaning": "truth"
   },
   "w": {
     "lemma": "w",
     "pos": "noun",
-    "meaning": "w (French opera term)"
+    "meaning": "w"
   },
   "wikisource": {
-    "lemma": "wikisource",
+    "lemma": "Wikisource",
     "pos": "noun",
-    "meaning": "wikisource (French opera term)"
+    "meaning": "Wikisource"
   },
   "ws": {
     "lemma": "ws",
     "pos": "noun",
-    "meaning": "ws (French opera term)"
+    "meaning": "ws"
   },
   "x": {
-    "lemma": "x",
+    "lemma": "X",
     "pos": "noun",
-    "meaning": "x (French opera term)"
+    "meaning": "X (ten / tenth)"
   },
   "zingara": {
     "lemma": "zingara",
     "pos": "noun",
-    "meaning": "zingara (French opera term)"
+    "meaning": "gypsy woman / zingara"
   },
   "zingaras": {
-    "lemma": "zingaras",
+    "lemma": "zingara",
     "pos": "noun",
-    "meaning": "zingaras (French opera term)"
+    "meaning": "gypsies / zingaras (pl.)"
   },
   "zingarellas": {
-    "lemma": "zingarellas",
+    "lemma": "zingarella",
     "pos": "noun",
-    "meaning": "zingarellas (French opera term)"
+    "meaning": "little gypsy girls / zingarellas"
   },
   "zébrées": {
-    "lemma": "zébrées",
-    "pos": "noun",
-    "meaning": "zébrées (French opera term)"
+    "lemma": "zébré",
+    "pos": "adjective",
+    "meaning": "striped / zebra-striped (fem. pl.)"
   },
   "âge": {
     "lemma": "âge",
     "pos": "noun",
-    "meaning": "âge (French opera term)"
+    "meaning": "age"
   },
   "âne": {
     "lemma": "âne",
     "pos": "noun",
-    "meaning": "âne (French opera term)"
+    "meaning": "donkey / ass"
   },
   "éblouissant": {
     "lemma": "éblouissant",
-    "pos": "verb",
-    "meaning": "éblouissant (French opera term)"
+    "pos": "adjective",
+    "meaning": "dazzling"
   },
   "écarte": {
-    "lemma": "écarte",
-    "pos": "noun",
-    "meaning": "écarte (French opera term)"
+    "lemma": "écarter",
+    "pos": "verb",
+    "meaning": "sets aside / pushes away / diverges"
   },
   "éclat": {
     "lemma": "éclat",
     "pos": "noun",
-    "meaning": "éclat (French opera term)"
+    "meaning": "brilliance / flash / burst / glory"
   },
   "éclatante": {
-    "lemma": "éclatante",
-    "pos": "noun",
-    "meaning": "éclatante (French opera term)"
+    "lemma": "éclatant",
+    "pos": "adjective",
+    "meaning": "brilliant / dazzling / glowing (fem.)"
   },
   "écrire": {
     "lemma": "écrire",
     "pos": "verb",
-    "meaning": "écrire (French opera term)"
+    "meaning": "to write"
   },
   "écrit": {
-    "lemma": "écrit",
-    "pos": "noun",
-    "meaning": "écrit (French opera term)"
+    "lemma": "écrire",
+    "pos": "verb",
+    "meaning": "writes / written"
   },
   "égal": {
     "lemma": "égal",
-    "pos": "noun",
-    "meaning": "égal (French opera term)"
+    "pos": "adjective",
+    "meaning": "equal (c'est égal: it makes no difference)"
   },
   "égaler": {
     "lemma": "égaler",
     "pos": "verb",
-    "meaning": "égaler (French opera term)"
+    "meaning": "to equal / match"
   },
   "égard": {
     "lemma": "égard",
     "pos": "noun",
-    "meaning": "égard (French opera term)"
+    "meaning": "regard / respect (à l'égard de: with regard to)"
   },
   "égards": {
-    "lemma": "égards",
+    "lemma": "égard",
     "pos": "noun",
-    "meaning": "égards (French opera term)"
+    "meaning": "regards / consideration / respects"
   },
   "église": {
     "lemma": "église",
     "pos": "noun",
-    "meaning": "église (French opera term)"
+    "meaning": "church"
   },
   "égypte": {
-    "lemma": "égypte",
+    "lemma": "Égypte",
     "pos": "noun",
-    "meaning": "égypte (French opera term)"
+    "meaning": "Egypt"
   },
   "élance": {
-    "lemma": "élance",
-    "pos": "noun",
-    "meaning": "élance (French opera term)"
+    "lemma": "élancer",
+    "pos": "verb",
+    "meaning": "darts forward / rushes forth (s'élance)"
   },
   "élevée": {
-    "lemma": "élevée",
-    "pos": "noun",
-    "meaning": "élevée (French opera term)"
+    "lemma": "élever",
+    "pos": "verb",
+    "meaning": "raised / high / arisen (fem.)"
   },
   "éloignez": {
-    "lemma": "éloignez",
+    "lemma": "éloigner",
     "pos": "verb",
-    "meaning": "éloignez (French opera term)"
+    "meaning": "move away / depart"
   },
   "émouchant": {
-    "lemma": "émouchant",
+    "lemma": "émoucher",
     "pos": "verb",
-    "meaning": "émouchant (French opera term)"
+    "meaning": "swatting flies / fanning away"
   },
   "épargnes": {
-    "lemma": "épargnes",
+    "lemma": "épargne",
     "pos": "noun",
-    "meaning": "épargnes (French opera term)"
+    "meaning": "savings"
   },
   "épaules": {
-    "lemma": "épaules",
+    "lemma": "épaule",
     "pos": "noun",
-    "meaning": "épaules (French opera term)"
+    "meaning": "shoulders"
   },
   "épinglette": {
     "lemma": "épinglette",
     "pos": "noun",
-    "meaning": "épinglette (French opera term)"
+    "meaning": "priming wire / musket pin"
   },
   "épinglier": {
     "lemma": "épinglier",
-    "pos": "verb",
-    "meaning": "épinglier (French opera term)"
+    "pos": "noun",
+    "meaning": "pin-maker / needle-case"
   },
   "épouse": {
     "lemma": "épouse",
     "pos": "noun",
-    "meaning": "épouse (French opera term)"
+    "meaning": "wife / spouse / marry"
   },
   "épouserai": {
-    "lemma": "épouserai",
-    "pos": "noun",
-    "meaning": "épouserai (French opera term)"
+    "lemma": "épouser",
+    "pos": "verb",
+    "meaning": "shall marry / wed"
   },
   "épouvante": {
     "lemma": "épouvante",
     "pos": "noun",
-    "meaning": "épouvante (French opera term)"
+    "meaning": "dread / terror / horror"
   },
   "époux": {
     "lemma": "époux",
     "pos": "noun",
-    "meaning": "époux (French opera term)"
+    "meaning": "husband / spouse"
   },
   "établir": {
     "lemma": "établir",
     "pos": "verb",
-    "meaning": "établir (French opera term)"
+    "meaning": "to establish / settle"
   },
   "étant": {
-    "lemma": "étant",
+    "lemma": "être",
     "pos": "verb",
-    "meaning": "étant (French opera term)"
+    "meaning": "being"
   },
   "étincelle": {
     "lemma": "étincelle",
     "pos": "noun",
-    "meaning": "étincelle (French opera term)"
+    "meaning": "spark"
   },
   "étoffes": {
-    "lemma": "étoffes",
+    "lemma": "étoffe",
     "pos": "noun",
-    "meaning": "étoffes (French opera term)"
+    "meaning": "fabrics / cloth / stuffs"
   },
   "étonne": {
-    "lemma": "étonne",
-    "pos": "noun",
-    "meaning": "étonne (French opera term)"
+    "lemma": "étonner",
+    "pos": "verb",
+    "meaning": "astonishes / surprises"
   },
   "étrange": {
     "lemma": "étrange",
-    "pos": "noun",
-    "meaning": "étrange (French opera term)"
+    "pos": "adjective",
+    "meaning": "strange / odd / curious"
   },
   "étudier": {
     "lemma": "étudier",
     "pos": "verb",
-    "meaning": "étudier (French opera term)"
+    "meaning": "to study / observe"
   },
   "éventer": {
     "lemma": "éventer",
     "pos": "verb",
-    "meaning": "éventer (French opera term)"
+    "meaning": "to fan / reveal"
   },
   "évite": {
-    "lemma": "évite",
-    "pos": "noun",
-    "meaning": "évite (French opera term)"
+    "lemma": "éviter",
+    "pos": "verb",
+    "meaning": "avoids / shun"
   },
   "éviter": {
     "lemma": "éviter",
     "pos": "verb",
-    "meaning": "éviter (French opera term)"
+    "meaning": "to avoid / shun"
   },
   "ô": {
     "lemma": "ô",
-    "pos": "noun",
-    "meaning": "ô (French opera term)"
+    "pos": "interjection",
+    "meaning": "O! / oh!"
   },
   "ôté": {
-    "lemma": "ôté",
+    "lemma": "ôter",
     "pos": "verb",
-    "meaning": "ôté (French opera term)"
+    "meaning": "removed / taken off"
   }
 }

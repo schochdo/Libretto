@@ -88,8 +88,8 @@ export const faustAct4: Act = {
                 {
                   "word": "Autrefois",
                   "lemma": "autrefois",
-                  "pos": "noun",
-                  "meaning": "autrefois (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "formerly / in the past"
                 },
                 {
                   "word": "Maintenant",
@@ -121,8 +121,8 @@ export const faustAct4: Act = {
                 {
                   "word": "galant",
                   "lemma": "galant",
-                  "pos": "verb",
-                  "meaning": "galant (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "gallant / suitor / courteous"
                 },
                 {
                   "word": "étranger",
@@ -151,14 +151,14 @@ export const faustAct4: Act = {
                 {
                   "word": "court",
                   "lemma": "court",
-                  "pos": "noun",
-                  "meaning": "court (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "short / brief"
                 },
                 {
                   "word": "encor",
-                  "lemma": "encor",
-                  "pos": "noun",
-                  "meaning": "encor (French opera term)"
+                  "lemma": "encore",
+                  "pos": "adverb",
+                  "meaning": "still / yet / again"
                 }
               ]
             },
@@ -226,9 +226,9 @@ export const faustAct4: Act = {
                 },
                 {
                   "word": "cruelles",
-                  "lemma": "cruelles",
-                  "pos": "noun",
-                  "meaning": "cruelles (French opera term)"
+                  "lemma": "cruel",
+                  "pos": "adjective",
+                  "meaning": "cruel (fem. pl.)"
                 }
               ]
             },
@@ -282,8 +282,8 @@ export const faustAct4: Act = {
                 {
                   "word": "fort",
                   "lemma": "fort",
-                  "pos": "noun",
-                  "meaning": "fort (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "strong / loud / very"
                 }
               ]
             },
@@ -295,8 +295,8 @@ export const faustAct4: Act = {
                 {
                   "word": "Jadis",
                   "lemma": "jadis",
-                  "pos": "noun",
-                  "meaning": "jadis (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "formerly / long ago / of old"
                 },
                 {
                   "word": "pour",
@@ -386,8 +386,8 @@ export const faustAct4: Act = {
                 {
                   "word": "pitié",
                   "lemma": "pitié",
-                  "pos": "verb",
-                  "meaning": "pitié (French opera term)"
+                  "pos": "noun",
+                  "meaning": "pity / mercy / compassion"
                 },
                 {
                   "word": "pour",
@@ -403,9 +403,9 @@ export const faustAct4: Act = {
                 },
                 {
                   "word": "nôtres",
-                  "lemma": "nôtres",
-                  "pos": "noun",
-                  "meaning": "nôtres (French opera term)"
+                  "lemma": "nôtre",
+                  "pos": "pronoun",
+                  "meaning": "ours / our people (les nôtres)"
                 }
               ]
             },
@@ -442,7 +442,7 @@ export const faustAct4: Act = {
                   "word": "honte",
                   "lemma": "honte",
                   "pos": "noun",
-                  "meaning": "honte (French opera term)"
+                  "meaning": "shame / disgrace"
                 },
                 {
                   "word": "à",
@@ -460,7 +460,7 @@ export const faustAct4: Act = {
                   "word": "tour",
                   "lemma": "tour",
                   "pos": "noun",
-                  "meaning": "tour (French opera term)"
+                  "meaning": "turn / trick / tower (à tour de bras: with all one's might)"
                 }
               ]
             },
@@ -526,8 +526,8 @@ export const faustAct4: Act = {
                 {
                   "word": "infâme",
                   "lemma": "infâme",
-                  "pos": "noun",
-                  "meaning": "infâme (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "infamous / vile / abominable"
                 }
               ]
             },
@@ -607,7 +607,7 @@ export const faustAct4: Act = {
                   "word": "paraître",
                   "lemma": "paraître",
                   "pos": "verb",
-                  "meaning": "paraître (French opera term)"
+                  "meaning": "to appear / seem"
                 }
               ]
             },
@@ -618,9 +618,9 @@ export const faustAct4: Act = {
               "tokens": [
                 {
                   "word": "Quelle",
-                  "lemma": "quelle",
-                  "pos": "noun",
-                  "meaning": "quelle (French opera term)"
+                  "lemma": "quel",
+                  "pos": "adjective",
+                  "meaning": "what / which (fem.)"
                 },
                 {
                   "word": "joie",
@@ -631,8 +631,8 @@ export const faustAct4: Act = {
                 {
                   "word": "Hélas",
                   "lemma": "hélas",
-                  "pos": "noun",
-                  "meaning": "hélas (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "alas!"
                 }
               ]
             },
@@ -686,9 +686,9 @@ export const faustAct4: Act = {
                 },
                 {
                   "word": "revient",
-                  "lemma": "revient",
-                  "pos": "noun",
-                  "meaning": "revient (French opera term)"
+                  "lemma": "revenir",
+                  "pos": "verb",
+                  "meaning": "returns / comes back"
                 },
                 {
                   "word": "pas",
@@ -749,9 +749,9 @@ export const faustAct4: Act = {
               "tokens": [
                 {
                   "word": "Encor",
-                  "lemma": "encor",
-                  "pos": "noun",
-                  "meaning": "encor (French opera term)"
+                  "lemma": "encore",
+                  "pos": "adverb",
+                  "meaning": "still / yet / again"
                 },
                 {
                   "word": "des",
@@ -781,8 +781,8 @@ export const faustAct4: Act = {
                 {
                   "word": "Hélas",
                   "lemma": "hélas",
-                  "pos": "noun",
-                  "meaning": "hélas (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "alas!"
                 },
                 {
                   "word": "vous",
@@ -1127,7 +1127,7 @@ export const faustAct4: Act = {
                   "word": "bonheur",
                   "lemma": "bonheur",
                   "pos": "noun",
-                  "meaning": "bonheur (French opera term)"
+                  "meaning": "happiness / joy / good fortune"
                 },
                 {
                   "word": "à",
@@ -1149,9 +1149,9 @@ export const faustAct4: Act = {
                 },
                 {
                   "word": "invite",
-                  "lemma": "invite",
-                  "pos": "noun",
-                  "meaning": "invite (French opera term)"
+                  "lemma": "inviter",
+                  "pos": "verb",
+                  "meaning": "invites / invite"
                 }
               ]
             },
@@ -1544,7 +1544,7 @@ export const faustAct4: Act = {
                   "word": "Pardon",
                   "lemma": "pardon",
                   "pos": "noun",
-                  "meaning": "pardon (French opera term)"
+                  "meaning": "pardon / forgiveness"
                 },
                 {
                   "word": "vous",
@@ -1693,7 +1693,7 @@ export const faustAct4: Act = {
                   "word": "tort",
                   "lemma": "tort",
                   "pos": "noun",
-                  "meaning": "tort (French opera term)"
+                  "meaning": "wrong (avoir tort: to be wrong)"
                 },
                 {
                   "word": "Siebel",
@@ -1773,8 +1773,8 @@ export const faustAct4: Act = {
                 {
                   "word": "amitié",
                   "lemma": "amitié",
-                  "pos": "verb",
-                  "meaning": "amitié (French opera term)"
+                  "pos": "noun",
+                  "meaning": "friendship / affection"
                 },
                 {
                   "word": "m",
@@ -1803,9 +1803,9 @@ export const faustAct4: Act = {
               "tokens": [
                 {
                   "word": "Ceux",
-                  "lemma": "ceux",
-                  "pos": "noun",
-                  "meaning": "ceux (French opera term)"
+                  "lemma": "celui",
+                  "pos": "pronoun",
+                  "meaning": "those / the ones (masc. pl.)"
                 },
                 {
                   "word": "dont",
@@ -1907,14 +1907,14 @@ export const faustAct4: Act = {
                 {
                   "word": "saint",
                   "lemma": "saint",
-                  "pos": "noun",
-                  "meaning": "saint (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "holy / saint"
                 },
                 {
                   "word": "lieu",
                   "lemma": "lieu",
                   "pos": "noun",
-                  "meaning": "lieu (French opera term)"
+                  "meaning": "place / spot (au lieu de: instead of)"
                 }
               ]
             },
@@ -2008,7 +2008,7 @@ export const faustAct4: Act = {
                   "word": "Seigneur",
                   "lemma": "seigneur",
                   "pos": "noun",
-                  "meaning": "seigneur (French opera term)"
+                  "meaning": "Lord / noble / master"
                 },
                 {
                   "word": "daignez",
@@ -2149,7 +2149,7 @@ export const faustAct4: Act = {
                   "word": "épouvante",
                   "lemma": "épouvante",
                   "pos": "noun",
-                  "meaning": "épouvante (French opera term)"
+                  "meaning": "dread / terror / horror"
                 }
               ]
             },
@@ -2253,9 +2253,9 @@ export const faustAct4: Act = {
                 },
                 {
                   "word": "appelle",
-                  "lemma": "appelle",
-                  "pos": "noun",
-                  "meaning": "appelle (French opera term)"
+                  "lemma": "appeler",
+                  "pos": "verb",
+                  "meaning": "calls / call / name"
                 }
               ]
             },
@@ -2360,8 +2360,8 @@ export const faustAct4: Act = {
                 {
                   "word": "clément",
                   "lemma": "clément",
-                  "pos": "noun",
-                  "meaning": "clément (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "clement / merciful"
                 }
               ]
             },
@@ -2379,8 +2379,8 @@ export const faustAct4: Act = {
                 {
                   "word": "déjà",
                   "lemma": "déjà",
-                  "pos": "noun",
-                  "meaning": "déjà (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "already"
                 },
                 {
                   "word": "l",
@@ -2478,7 +2478,7 @@ export const faustAct4: Act = {
                   "word": "pardon",
                   "lemma": "pardon",
                   "pos": "noun",
-                  "meaning": "pardon (French opera term)"
+                  "meaning": "pardon / forgiveness"
                 }
               ]
             },
@@ -2582,7 +2582,7 @@ export const faustAct4: Act = {
                   "word": "Seigneur",
                   "lemma": "seigneur",
                   "pos": "noun",
-                  "meaning": "seigneur (French opera term)"
+                  "meaning": "Lord / noble / master"
                 }
               ]
             },
@@ -2668,7 +2668,7 @@ export const faustAct4: Act = {
                   "word": "peur",
                   "lemma": "peur",
                   "pos": "noun",
-                  "meaning": "peur (French opera term)"
+                  "meaning": "fear (avoir peur: to be afraid)"
                 }
               ]
             }
@@ -2777,8 +2777,8 @@ export const faustAct4: Act = {
                 {
                   "word": "fer",
                   "lemma": "fer",
-                  "pos": "verb",
-                  "meaning": "fer (French opera term)"
+                  "pos": "noun",
+                  "meaning": "iron / sword / blade"
                 }
               ]
             }
@@ -2799,7 +2799,7 @@ export const faustAct4: Act = {
                   "word": "Adieu",
                   "lemma": "adieu",
                   "pos": "noun",
-                  "meaning": "adieu (French opera term)"
+                  "meaning": "farewell / goodbye"
                 },
                 {
                   "word": "les",
@@ -2958,7 +2958,7 @@ export const faustAct4: Act = {
                   "word": "Seigneur",
                   "lemma": "seigneur",
                   "pos": "noun",
-                  "meaning": "seigneur (French opera term)"
+                  "meaning": "Lord / noble / master"
                 },
                 {
                   "word": "accueillez",
@@ -2975,8 +2975,8 @@ export const faustAct4: Act = {
                 {
                   "word": "prière",
                   "lemma": "prière",
-                  "pos": "verb",
-                  "meaning": "prière (French opera term)"
+                  "pos": "noun",
+                  "meaning": "prayer / plea / request"
                 }
               ]
             },
@@ -3197,8 +3197,8 @@ export const faustAct4: Act = {
                 {
                   "word": "voici",
                   "lemma": "voici",
-                  "pos": "noun",
-                  "meaning": "voici (French opera term)"
+                  "pos": "preposition",
+                  "meaning": "here is / behold / here comes"
                 },
                 {
                   "word": "venez",
@@ -3239,9 +3239,9 @@ export const faustAct4: Act = {
                 },
                 {
                   "word": "espère",
-                  "lemma": "espère",
+                  "lemma": "espérer",
                   "pos": "verb",
-                  "meaning": "espère (French opera term)"
+                  "meaning": "hopes / hope"
                 },
                 {
                   "word": "en",
@@ -3333,8 +3333,8 @@ export const faustAct4: Act = {
                 {
                   "word": "voici",
                   "lemma": "voici",
-                  "pos": "noun",
-                  "meaning": "voici (French opera term)"
+                  "pos": "preposition",
+                  "meaning": "here is / behold / here comes"
                 },
                 {
                   "word": "revenus",
@@ -3504,7 +3504,7 @@ export const faustAct4: Act = {
                   "word": "effet",
                   "lemma": "effet",
                   "pos": "noun",
-                  "meaning": "effet (French opera term)"
+                  "meaning": "effect (en effet: indeed)"
                 },
                 {
                   "word": "je",
@@ -3623,7 +3623,7 @@ export const faustAct4: Act = {
                   "word": "église",
                   "lemma": "église",
                   "pos": "noun",
-                  "meaning": "église (French opera term)"
+                  "meaning": "church"
                 },
                 {
                   "word": "je",
@@ -3825,8 +3825,8 @@ export const faustAct4: Act = {
                 {
                   "word": "plaisir",
                   "lemma": "plaisir",
-                  "pos": "verb",
-                  "meaning": "plaisir (French opera term)"
+                  "pos": "noun",
+                  "meaning": "pleasure / delight"
                 },
                 {
                   "word": "dans",
@@ -3898,8 +3898,8 @@ export const faustAct4: Act = {
                 {
                   "word": "bas",
                   "lemma": "bas",
-                  "pos": "noun",
-                  "meaning": "bas (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "low / down (en bas: downstairs / below)"
                 }
               ]
             },
@@ -3954,8 +3954,8 @@ export const faustAct4: Act = {
                 {
                   "word": "guerre",
                   "lemma": "guerre",
-                  "pos": "verb",
-                  "meaning": "guerre (French opera term)"
+                  "pos": "noun",
+                  "meaning": "war"
                 },
                 {
                   "word": "et",
@@ -4086,7 +4086,7 @@ export const faustAct4: Act = {
                   "word": "raison",
                   "lemma": "raison",
                   "pos": "noun",
-                  "meaning": "raison (French opera term)"
+                  "meaning": "reason / right (avoir raison: to be right)"
                 }
               ]
             }
@@ -4141,8 +4141,8 @@ export const faustAct4: Act = {
                 {
                   "word": "Pourquoi",
                   "lemma": "pourquoi",
-                  "pos": "noun",
-                  "meaning": "pourquoi (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "why"
                 },
                 {
                   "word": "tu",
@@ -4202,8 +4202,8 @@ export const faustAct4: Act = {
                 {
                   "word": "mien",
                   "lemma": "mien",
-                  "pos": "noun",
-                  "meaning": "mien (French opera term)"
+                  "pos": "pronoun",
+                  "meaning": "mine (le mien)"
                 },
                 {
                   "word": "Siebel",
@@ -4413,9 +4413,9 @@ export const faustAct4: Act = {
                 },
                 {
                   "word": "implore",
-                  "lemma": "implore",
+                  "lemma": "implorer",
                   "pos": "verb",
-                  "meaning": "implore (French opera term)"
+                  "meaning": "implores / beseeches"
                 },
                 {
                   "word": "Mon",
@@ -4512,9 +4512,9 @@ export const faustAct4: Act = {
                 },
                 {
                   "word": "maudit",
-                  "lemma": "maudit",
-                  "pos": "noun",
-                  "meaning": "maudit (French opera term)"
+                  "lemma": "maudire",
+                  "pos": "verb",
+                  "meaning": "cursed / accursed"
                 },
                 {
                   "word": "j",
@@ -4532,7 +4532,7 @@ export const faustAct4: Act = {
                   "word": "peur",
                   "lemma": "peur",
                   "pos": "noun",
-                  "meaning": "peur (French opera term)"
+                  "meaning": "fear (avoir peur: to be afraid)"
                 }
               ]
             },
@@ -4569,7 +4569,7 @@ export const faustAct4: Act = {
                   "word": "honte",
                   "lemma": "honte",
                   "pos": "noun",
-                  "meaning": "honte (French opera term)"
+                  "meaning": "shame / disgrace"
                 },
                 {
                   "word": "et",
@@ -4796,7 +4796,7 @@ export const faustAct4: Act = {
                   "word": "avis",
                   "lemma": "avis",
                   "pos": "noun",
-                  "meaning": "avis (French opera term)"
+                  "meaning": "opinion / notice / advice"
                 },
                 {
                   "word": "sont",
@@ -4881,7 +4881,7 @@ export const faustAct4: Act = {
                   "word": "ouvrir",
                   "lemma": "ouvrir",
                   "pos": "verb",
-                  "meaning": "ouvrir (French opera term)"
+                  "meaning": "to open"
                 },
                 {
                   "word": "la",
@@ -4924,7 +4924,7 @@ export const faustAct4: Act = {
                   "word": "besoin",
                   "lemma": "besoin",
                   "pos": "noun",
-                  "meaning": "besoin (French opera term)"
+                  "meaning": "need (avoir besoin: to need)"
                 },
                 {
                   "word": "du",
@@ -4936,7 +4936,7 @@ export const faustAct4: Act = {
                   "word": "secours",
                   "lemma": "secours",
                   "pos": "noun",
-                  "meaning": "secours (French opera term)"
+                  "meaning": "help / aid / relief (au secours: to the rescue)"
                 },
                 {
                   "word": "de",
@@ -5090,14 +5090,14 @@ export const faustAct4: Act = {
                 {
                   "word": "Pourquoi",
                   "lemma": "pourquoi",
-                  "pos": "noun",
-                  "meaning": "pourquoi (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "why"
                 },
                 {
                   "word": "refuser",
                   "lemma": "refuser",
                   "pos": "verb",
-                  "meaning": "refuser (French opera term)"
+                  "meaning": "to refuse / decline"
                 }
               ]
             },
@@ -5138,9 +5138,9 @@ export const faustAct4: Act = {
                 },
                 {
                   "word": "implore",
-                  "lemma": "implore",
+                  "lemma": "implorer",
                   "pos": "verb",
-                  "meaning": "implore (French opera term)"
+                  "meaning": "implores / beseeches"
                 }
               ]
             },
@@ -5195,14 +5195,14 @@ export const faustAct4: Act = {
                 {
                   "word": "galant",
                   "lemma": "galant",
-                  "pos": "verb",
-                  "meaning": "galant (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "gallant / suitor / courteous"
                 },
                 {
                   "word": "supplie",
-                  "lemma": "supplie",
-                  "pos": "noun",
-                  "meaning": "supplie (French opera term)"
+                  "lemma": "supplier",
+                  "pos": "verb",
+                  "meaning": "beg / beseech / entreat"
                 }
               ]
             },
@@ -5353,7 +5353,7 @@ export const faustAct4: Act = {
                   "word": "Pardon",
                   "lemma": "pardon",
                   "pos": "noun",
-                  "meaning": "pardon (French opera term)"
+                  "meaning": "pardon / forgiveness"
                 },
                 {
                   "word": "mon",
@@ -5555,9 +5555,9 @@ export const faustAct4: Act = {
               "tokens": [
                 {
                   "word": "Quelle",
-                  "lemma": "quelle",
-                  "pos": "noun",
-                  "meaning": "quelle (French opera term)"
+                  "lemma": "quel",
+                  "pos": "adjective",
+                  "meaning": "what / which (fem.)"
                 },
                 {
                   "word": "mouche",
@@ -5708,9 +5708,9 @@ export const faustAct4: Act = {
                 },
                 {
                   "word": "compte",
-                  "lemma": "compte",
-                  "pos": "noun",
-                  "meaning": "compte (French opera term)"
+                  "lemma": "compter",
+                  "pos": "verb",
+                  "meaning": "counts / intends / accounts"
                 }
               ]
             },
@@ -5759,7 +5759,7 @@ export const faustAct4: Act = {
                   "word": "honte",
                   "lemma": "honte",
                   "pos": "noun",
-                  "meaning": "honte (French opera term)"
+                  "meaning": "shame / disgrace"
                 }
               ]
             },
@@ -5818,9 +5818,9 @@ export const faustAct4: Act = {
                 },
                 {
                   "word": "coups",
-                  "lemma": "coups",
+                  "lemma": "coup",
                   "pos": "noun",
-                  "meaning": "coups (French opera term)"
+                  "meaning": "blows / shots / strikes"
                 }
               ]
             }
@@ -6002,8 +6002,8 @@ export const faustAct4: Act = {
                 {
                   "word": "seulement",
                   "lemma": "seulement",
-                  "pos": "noun",
-                  "meaning": "seulement (French opera term)"
+                  "pos": "adverb",
+                  "meaning": "only / solely / merely"
                 },
                 {
                   "word": "cher",
@@ -6053,8 +6053,8 @@ export const faustAct4: Act = {
                 {
                   "word": "Voici",
                   "lemma": "voici",
-                  "pos": "noun",
-                  "meaning": "voici (French opera term)"
+                  "pos": "preposition",
+                  "meaning": "here is / behold / here comes"
                 },
                 {
                   "word": "notre",
@@ -6135,7 +6135,7 @@ export const faustAct4: Act = {
                   "word": "Merci",
                   "lemma": "merci",
                   "pos": "noun",
-                  "meaning": "merci (French opera term)"
+                  "meaning": "thanks / mercy"
                 }
               ]
             },
@@ -6227,7 +6227,7 @@ export const faustAct4: Act = {
                   "word": "face",
                   "lemma": "face",
                   "pos": "noun",
-                  "meaning": "face (French opera term)"
+                  "meaning": "face (en face: opposite / in front)"
                 }
               ]
             },
@@ -6270,7 +6270,7 @@ export const faustAct4: Act = {
                   "word": "peur",
                   "lemma": "peur",
                   "pos": "noun",
-                  "meaning": "peur (French opera term)"
+                  "meaning": "fear (avoir peur: to be afraid)"
                 }
               ]
             }
@@ -6480,7 +6480,7 @@ export const faustAct4: Act = {
                   "word": "querelle",
                   "lemma": "querelle",
                   "pos": "noun",
-                  "meaning": "querelle (French opera term)"
+                  "meaning": "quarrel / fight / dispute"
                 }
               ]
             },
@@ -6556,13 +6556,13 @@ export const faustAct4: Act = {
                   "word": "Grâce",
                   "lemma": "grâce",
                   "pos": "noun",
-                  "meaning": "grâce (French opera term)"
+                  "meaning": "grace / mercy / pardon"
                 },
                 {
                   "word": "grâce",
                   "lemma": "grâce",
                   "pos": "noun",
-                  "meaning": "grâce (French opera term)"
+                  "meaning": "grace / mercy / pardon"
                 },
                 {
                   "word": "pour",
@@ -6604,8 +6604,8 @@ export const faustAct4: Act = {
                 {
                   "word": "ô",
                   "lemma": "ô",
-                  "pos": "noun",
-                  "meaning": "ô (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "O! / oh!"
                 },
                 {
                   "word": "châtiment",
@@ -6674,13 +6674,13 @@ export const faustAct4: Act = {
                   "word": "Grâce",
                   "lemma": "grâce",
                   "pos": "noun",
-                  "meaning": "grâce (French opera term)"
+                  "meaning": "grace / mercy / pardon"
                 },
                 {
                   "word": "grâce",
                   "lemma": "grâce",
                   "pos": "noun",
-                  "meaning": "grâce (French opera term)"
+                  "meaning": "grace / mercy / pardon"
                 },
                 {
                   "word": "soyez",
@@ -6691,8 +6691,8 @@ export const faustAct4: Act = {
                 {
                   "word": "clément",
                   "lemma": "clément",
-                  "pos": "noun",
-                  "meaning": "clément (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "clement / merciful"
                 }
               ]
             },
@@ -6945,8 +6945,8 @@ export const faustAct4: Act = {
                 {
                   "word": "haut",
                   "lemma": "haut",
-                  "pos": "noun",
-                  "meaning": "haut (French opera term)"
+                  "pos": "adjective",
+                  "meaning": "high / loud / top"
                 }
               ]
             },
@@ -6970,8 +6970,8 @@ export const faustAct4: Act = {
                 {
                   "word": "voilà",
                   "lemma": "voilà",
-                  "pos": "noun",
-                  "meaning": "voilà (French opera term)"
+                  "pos": "preposition",
+                  "meaning": "there is / behold / there comes"
                 },
                 {
                   "word": "dans",
@@ -7159,9 +7159,9 @@ export const faustAct4: Act = {
                 },
                 {
                   "word": "encor",
-                  "lemma": "encor",
-                  "pos": "noun",
-                  "meaning": "encor (French opera term)"
+                  "lemma": "encore",
+                  "pos": "adverb",
+                  "meaning": "still / yet / again"
                 }
               ]
             },
@@ -7242,7 +7242,7 @@ export const faustAct4: Act = {
                   "word": "honte",
                   "lemma": "honte",
                   "pos": "noun",
-                  "meaning": "honte (French opera term)"
+                  "meaning": "shame / disgrace"
                 },
                 {
                   "word": "t",
@@ -7369,9 +7369,9 @@ export const faustAct4: Act = {
                 },
                 {
                   "word": "pardonne",
-                  "lemma": "pardonne",
-                  "pos": "noun",
-                  "meaning": "pardonne (French opera term)"
+                  "lemma": "pardonner",
+                  "pos": "verb",
+                  "meaning": "forgives / forgive"
                 }
               ]
             },
@@ -7457,14 +7457,14 @@ export const faustAct4: Act = {
                 {
                   "word": "ô",
                   "lemma": "ô",
-                  "pos": "noun",
-                  "meaning": "ô (French opera term)"
+                  "pos": "interjection",
+                  "meaning": "O! / oh!"
                 },
                 {
                   "word": "blasphème",
                   "lemma": "blasphème",
                   "pos": "noun",
-                  "meaning": "blasphème (French opera term)"
+                  "meaning": "blasphemy"
                 }
               ]
             },
@@ -7550,9 +7550,9 @@ export const faustAct4: Act = {
               "tokens": [
                 {
                   "word": "Pardonne",
-                  "lemma": "pardonne",
-                  "pos": "noun",
-                  "meaning": "pardonne (French opera term)"
+                  "lemma": "pardonner",
+                  "pos": "verb",
+                  "meaning": "forgives / forgive"
                 },
                 {
                   "word": "si",
@@ -7592,9 +7592,9 @@ export const faustAct4: Act = {
                 },
                 {
                   "word": "pardonné",
-                  "lemma": "pardonné",
+                  "lemma": "pardonner",
                   "pos": "verb",
-                  "meaning": "pardonné (French opera term)"
+                  "meaning": "forgiven / pardoned"
                 }
               ]
             }
@@ -7794,7 +7794,7 @@ export const faustAct4: Act = {
                   "word": "seigneur",
                   "lemma": "seigneur",
                   "pos": "noun",
-                  "meaning": "seigneur (French opera term)"
+                  "meaning": "Lord / noble / master"
                 },
                 {
                   "word": "ait",
@@ -7829,9 +7829,9 @@ export const faustAct4: Act = {
                 },
                 {
                   "word": "pardonne",
-                  "lemma": "pardonne",
-                  "pos": "noun",
-                  "meaning": "pardonne (French opera term)"
+                  "lemma": "pardonner",
+                  "pos": "verb",
+                  "meaning": "forgives / forgive"
                 },
                 {
                   "word": "au",
