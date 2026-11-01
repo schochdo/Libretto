@@ -4383,7 +4383,7 @@ export const butterflyAct3: Act = {
             {
               "id": "a3_s3_c3_l2",
               "original": "<i>Pinkerton strette le mani al Console, esce rapidamente dal fondo: Sharpless crolla tristamente il capo.",
-              "literal": "<i>Pinkerton strette le mani al Console, esce rapidamente dal fondo: Sharpless crolla tristamente il capo.",
+              "literal": "Pinkerton, pressing the Consul's hands, quickly exits from the rear; Sharpless sadly bows his head.",
               "tokens": [
                 {
                   "word": "<i>Pinkerton",
@@ -6815,7 +6815,7 @@ export const butterflyAct3: Act = {
             {
               "id": "a3_s4_c31_l4",
               "original": "<i>Suzuki va a chiudere lo shosi, in modo che la camera rimane quasi in completa oscurità.",
-              "literal": "<i>Suzuki va a chiudere lo shosi, in modo che la camera rimane quasi in completa oscurità.",
+              "literal": "Suzuki goes to close the shoji, so that the room remains in almost complete darkness.",
               "tokens": [
                 {
                   "word": "<i>Suzuki",
@@ -7165,7 +7165,7 @@ export const butterflyAct3: Act = {
             {
               "id": "a3_s4_c36_l2",
               "original": "<i>Fa alzare Suuki, che piange disperatamente, e la spinge fuori dell'uscio di sinistra.",
-              "literal": "<i>Fa alzare Suuki, che piange disperatamente, e la spinge fuori dell'uscio di sinistra.",
+              "literal": "She raises Suzuki, who weeps desperately, and pushes her out the left door.",
               "tokens": [
                 {
                   "word": "<i>Fa",
@@ -8430,7 +8430,7 @@ export const butterflyAct3: Act = {
             {
               "id": "a3_s5_c1_l17",
               "original": "<i>Butterfly prende il bambino, lo posa su di una stuoia col viso voltato verso sinistra, gli dà nelle mani la banderuola americana ed una puppattola e lo invita a trastullarsene, mentre delicatamente gli benda gli occhi. Poi afferra il coltello e, collo sguardo sempre fisso sul bambino, va dietro il paravento.",
-              "literal": "<i>Butterfly prende il bambino, lo posa su di una stuoia col viso voltato verso sinistra, gli dà nelle mani la banderuola americana ed una puppattola e lo invita a trastullarsene, mentre delicatamente gli benda gli occhi. Poi afferra il coltello e, collo sguardo sempre fisso sul bambino, va dietro il paravento.",
+              "literal": "Butterfly takes the child, places him on a mat with his face turned toward the left, puts the American flag and a doll into his hands and invites him to play with them, while gently blindfolding his eyes. Then she seizes the knife and, with her gaze always fixed on the child, goes behind the screen.",
               "tokens": [
                 {
                   "word": "<i>Butterfly",

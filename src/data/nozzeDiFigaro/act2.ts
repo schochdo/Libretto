@@ -26249,8 +26249,8 @@ export const nozzeDiFigaroAct2: Act = {
             },
             {
               "id": "a2_s10_c78_l13",
-              "original": "qui ci/li ha fatti capitar.</p>\n<hr>",
-              "literal": "He made us/them happen here.</p> <hr>",
+              "original": "qui ci/li ha fatti capitar.\n",
+              "literal": "He made us/them happen here.",
               "tokens": [
                 {
                   "word": "qui",
@@ -26277,14 +26277,8 @@ export const nozzeDiFigaroAct2: Act = {
                   "meaning": "facts"
                 },
                 {
-                  "word": "capitar.</p>",
-                  "lemma": "capitar.</p>",
-                  "pos": "verb",
-                  "meaning": ""
-                },
-                {
-                  "word": "<hr>",
-                  "lemma": "<hr>",
+                  "word": "capitar.",
+                  "lemma": "capitar.",
                   "pos": "verb",
                   "meaning": ""
                 }
@@ -26292,12 +26286,12 @@ export const nozzeDiFigaroAct2: Act = {
             },
             {
               "id": "a2_s10_c78_l14",
-              "original": "<p>",
-              "literal": "<p>",
+              "original": "",
+              "literal": "",
               "tokens": [
                 {
-                  "word": "<p>",
-                  "lemma": "<p>",
+                  "word": "",
+                  "lemma": "",
                   "pos": "verb",
                   "meaning": ""
                 }

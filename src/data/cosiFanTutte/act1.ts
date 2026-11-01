@@ -33636,8 +33636,8 @@ export const cosiFanTutteAct1: Act = {
             },
             {
               "id": "a1_s16_c30_l6",
-              "original": "Terminasse in quel d'amor.<hr>",
-              "literal": "It ended in that of love.<hr>",
+              "original": "Terminasse in quel d'amor.",
+              "literal": "It ended in that of love.",
               "tokens": [
                 {
                   "word": "Terminasse",
@@ -33664,8 +33664,8 @@ export const cosiFanTutteAct1: Act = {
                   "meaning": "of"
                 },
                 {
-                  "word": "amor.<hr>",
-                  "lemma": "amor.<hr>",
+                  "word": "amor.",
+                  "lemma": "amor.",
                   "pos": "verb",
                   "meaning": ""
                 }

@@ -18925,8 +18925,8 @@ export const nozzeDiFigaroAct1: Act = {
             },
             {
               "id": "a1_s8_c29_l25",
-              "original": "<i>Partono tutti alla militare.</i></p>\n<hr>",
-              "literal": "<i>They all leave in the military style.</i></p> <hr>",
+              "original": "<i>Partono tutti alla militare.</i>\n",
+              "literal": "<i>They all leave in the military style.</i>",
               "tokens": [
                 {
                   "word": "<i>Partono",
@@ -18947,14 +18947,8 @@ export const nozzeDiFigaroAct1: Act = {
                   "meaning": "to-the"
                 },
                 {
-                  "word": "militare.</i></p>",
-                  "lemma": "militare.</i></p>",
-                  "pos": "verb",
-                  "meaning": ""
-                },
-                {
-                  "word": "<hr>",
-                  "lemma": "<hr>",
+                  "word": "militare.</i>",
+                  "lemma": "militare.</i>",
                   "pos": "verb",
                   "meaning": ""
                 }
@@ -18962,12 +18956,12 @@ export const nozzeDiFigaroAct1: Act = {
             },
             {
               "id": "a1_s8_c29_l26",
-              "original": "<p>",
-              "literal": "<p>",
+              "original": "",
+              "literal": "",
               "tokens": [
                 {
-                  "word": "<p>",
-                  "lemma": "<p>",
+                  "word": "",
+                  "lemma": "",
                   "pos": "verb",
                   "meaning": ""
                 }

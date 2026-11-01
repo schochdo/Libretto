@@ -20440,8 +20440,8 @@ export const normaAct1: Act = {
             },
             {
               "id": "a1_s9_c49_l4",
-              "original": "<i>Norma respinge d'un braccio Pollione, e gli accenna di uscire. Pollione si allontana furente.</i><hr>",
-              "literal": "<i>Norma pushes Pollione away with her arm and motions for him to go out. Pollione storms off.</i><hr>",
+              "original": "<i>Norma respinge d'un braccio Pollione, e gli accenna di uscire. Pollione si allontana furente.</i>",
+              "literal": "<i>Norma pushes Pollione away with her arm and motions for him to go out. Pollione storms off.</i>",
               "tokens": [
                 {
                   "word": "<i>Norma",
@@ -20528,8 +20528,8 @@ export const normaAct1: Act = {
                   "meaning": "allontana"
                 },
                 {
-                  "word": "furente.</i><hr>",
-                  "lemma": "furente.</i><hr>",
+                  "word": "furente.</i>",
+                  "lemma": "furente.</i>",
                   "pos": "verb",
                   "meaning": ""
                 }

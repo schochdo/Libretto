@@ -16927,8 +16927,8 @@ export const nozzeDiFigaroAct3: Act = {
             },
             {
               "id": "a3_s14_c6_l11",
-              "original": "<i>Tutti partono.</i></p>\n<hr>",
-              "literal": "<i>Everyone leaves.</i></p> <hr>",
+              "original": "<i>Tutti partono.</i>\n",
+              "literal": "<i>Everyone leaves.</i>",
               "tokens": [
                 {
                   "word": "<i>Tutti",
@@ -16937,14 +16937,8 @@ export const nozzeDiFigaroAct3: Act = {
                   "meaning": ""
                 },
                 {
-                  "word": "partono.</i></p>",
-                  "lemma": "partono.</i></p>",
-                  "pos": "verb",
-                  "meaning": ""
-                },
-                {
-                  "word": "<hr>",
-                  "lemma": "<hr>",
+                  "word": "partono.</i>",
+                  "lemma": "partono.</i>",
                   "pos": "verb",
                   "meaning": ""
                 }
@@ -16952,12 +16946,12 @@ export const nozzeDiFigaroAct3: Act = {
             },
             {
               "id": "a3_s14_c6_l12",
-              "original": "<p>",
-              "literal": "<p>",
+              "original": "",
+              "literal": "",
               "tokens": [
                 {
-                  "word": "<p>",
-                  "lemma": "<p>",
+                  "word": "",
+                  "lemma": "",
                   "pos": "verb",
                   "meaning": ""
                 }

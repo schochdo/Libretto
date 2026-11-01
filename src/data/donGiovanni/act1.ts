@@ -33048,8 +33048,8 @@ export const donGiovanniAct1: Act = {
             },
             {
               "id": "a1_s22_c36_l8",
-              "original": "Nulla mai temer mi fa.<hr>",
-              "literal": "Nothing ever makes me fear.<hr>",
+              "original": "Nulla mai temer mi fa.",
+              "literal": "Nothing ever makes me fear.",
               "tokens": [
                 {
                   "word": "Nulla",
@@ -33076,8 +33076,8 @@ export const donGiovanniAct1: Act = {
                   "meaning": "me / to-me"
                 },
                 {
-                  "word": "fa.<hr>",
-                  "lemma": "fa.<hr>",
+                  "word": "fa.",
+                  "lemma": "fa.",
                   "pos": "verb",
                   "meaning": ""
                 }

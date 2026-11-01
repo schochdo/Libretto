@@ -401,7 +401,7 @@ export const faustAct2: Act = {
             {
               "id": "a2_s1_c3_l2",
               "original": "Du tonneau <i>etc.</i>",
-              "literal": "Du tonneau <i>etc.</i>",
+              "literal": "From the barrel <i>etc.</i>",
               "tokens": [
                 {
                   "word": "Du",
@@ -9040,8 +9040,8 @@ export const faustAct2: Act = {
             },
             {
               "id": "a2_s5_c10_l17",
-              "original": "Dans tous les yeux!<hr>",
-              "literal": "Dans tous les yeux!<hr>",
+              "original": "Dans tous les yeux!",
+              "literal": "Dans tous les yeux!",
               "tokens": [
                 {
                   "word": "Dans",
@@ -9062,8 +9062,8 @@ export const faustAct2: Act = {
                   "meaning": "the (pl.)"
                 },
                 {
-                  "word": "yeux!<hr>",
-                  "lemma": "yeux!<hr>",
+                  "word": "yeux!",
+                  "lemma": "yeux!",
                   "pos": "verb",
                   "meaning": ""
                 }

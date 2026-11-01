@@ -13410,7 +13410,7 @@ export const butterflyAct1: Act = {
             {
               "id": "a1_s4_c57_l4",
               "original": "<i>Al cenno di Butterly tutti si inchinano innanzi a Pinkerton ed a Sharpless.",
-              "literal": "<i>Al cenno di Butterly tutti si inchinano innanzi a Pinkerton ed a Sharpless.",
+              "literal": "At Butterfly's signal everyone bows before Pinkerton and Sharpless.",
               "tokens": [
                 {
                   "word": "<i>Al",
@@ -14521,7 +14521,7 @@ export const butterflyAct1: Act = {
             {
               "id": "a1_s4_c74_l2",
               "original": "<i>Si allontana, rientrando nella casa.",
-              "literal": "<i>Si allontana, rientrando nella casa.",
+              "literal": "She moves away, returning inside the house.",
               "tokens": [
                 {
                   "word": "<i>Si",
@@ -22652,8 +22652,8 @@ export const butterflyAct1: Act = {
             },
             {
               "id": "a1_s7_c39_l4",
-              "original": "<i>Salgono dal giardino nella casetta.</i><hr>",
-              "literal": "<i>Salgono dal giardino nella casetta.</i><hr>",
+              "original": "<i>Salgono dal giardino nella casetta.</i>",
+              "literal": "They go up from the garden into the little house.",
               "tokens": [
                 {
                   "word": "<i>Salgono",
@@ -22680,8 +22680,8 @@ export const butterflyAct1: Act = {
                   "meaning": "in-the"
                 },
                 {
-                  "word": "casetta.</i><hr>",
-                  "lemma": "casetta.</i><hr>",
+                  "word": "casetta.</i>",
+                  "lemma": "casetta.</i>",
                   "pos": "verb",
                   "meaning": ""
                 }

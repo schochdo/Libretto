@@ -4476,8 +4476,8 @@ export const faustAct1: Act = {
           "lines": [
             {
               "id": "a1_s2_c30_l1",
-              "original": "En route!<hr>",
-              "literal": "En route!<hr>",
+              "original": "En route!",
+              "literal": "En route!",
               "tokens": [
                 {
                   "word": "En",
@@ -4486,8 +4486,8 @@ export const faustAct1: Act = {
                   "meaning": "of it / from there / in"
                 },
                 {
-                  "word": "route!<hr>",
-                  "lemma": "route!<hr>",
+                  "word": "route!",
+                  "lemma": "route!",
                   "pos": "verb",
                   "meaning": ""
                 }

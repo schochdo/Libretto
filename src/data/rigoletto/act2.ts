@@ -7984,8 +7984,8 @@ export const rigolettoAct2: Act = {
             },
             {
               "id": "a2_s3_c22_l2",
-              "original": "<i>Escono dal mezzo.</i><hr>",
-              "literal": "<i>They exit the vehicle.</i><hr>",
+              "original": "<i>Escono dal mezzo.</i>",
+              "literal": "<i>They exit the vehicle.</i>",
               "tokens": [
                 {
                   "word": "<i>Escono",
@@ -8000,8 +8000,8 @@ export const rigolettoAct2: Act = {
                   "meaning": "from-the"
                 },
                 {
-                  "word": "mezzo.</i><hr>",
-                  "lemma": "mezzo.</i><hr>",
+                  "word": "mezzo.</i>",
+                  "lemma": "mezzo.</i>",
                   "pos": "verb",
                   "meaning": ""
                 }

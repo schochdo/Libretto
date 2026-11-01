@@ -8167,8 +8167,8 @@ export const laTraviataAct1: Act = {
             },
             {
               "id": "a1_s5_c1_l50",
-              "original": "<i>Entra a sinistra</i><hr>",
-              "literal": "<i>Enter on the left</i><hr>",
+              "original": "<i>Entra a sinistra</i>",
+              "literal": "<i>Enter on the left</i>",
               "tokens": [
                 {
                   "word": "<i>Entra",
@@ -8183,8 +8183,8 @@ export const laTraviataAct1: Act = {
                   "meaning": "to / at"
                 },
                 {
-                  "word": "sinistra</i><hr>",
-                  "lemma": "sinistra</i><hr>",
+                  "word": "sinistra</i>",
+                  "lemma": "sinistra</i>",
                   "pos": "verb",
                   "meaning": ""
                 }

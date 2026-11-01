@@ -14984,8 +14984,8 @@ export const toscaAct2: Act = {
             },
             {
               "id": "a2_s5_c58_l4",
-              "original": "<i>si avvia per uscire, ma si pente, va a prendere le due candele che sono sulla mensola a sinistra e le accende al candelabro sulla tavola spegnendo poi questo. Colloca una candela accesa a destra della testa di Scarpia. Mette l'altra candela a sinistra . Cerca di nuovo intorno e vedendo un crocefisso va a staccarlo dalla parete e portandolo religiosamente si inginocchia per posarlo sul petto di Scarpia. Si alza e con grande precauzione esce, richiudendo dietro a sé la porta.</i><hr>",
-              "literal": "<i>he starts to go out, but regrets it, he goes to take the two candles that are on the shelf on the left and lights them on the candelabra on the table, then extinguishing it. Place a lit candle to the right of Scarpia's head. Place the other candle on the left. He searches around again and seeing a crucifix he goes to detach it from the wall and carrying it religiously he kneels down to place it on Scarpia's chest. He gets up and goes out with great caution, closing the door behind him.</i><hr>",
+              "original": "<i>si avvia per uscire, ma si pente, va a prendere le due candele che sono sulla mensola a sinistra e le accende al candelabro sulla tavola spegnendo poi questo. Colloca una candela accesa a destra della testa di Scarpia. Mette l'altra candela a sinistra . Cerca di nuovo intorno e vedendo un crocefisso va a staccarlo dalla parete e portandolo religiosamente si inginocchia per posarlo sul petto di Scarpia. Si alza e con grande precauzione esce, richiudendo dietro a sé la porta.</i>",
+              "literal": "<i>he starts to go out, but regrets it, he goes to take the two candles that are on the shelf on the left and lights them on the candelabra on the table, then extinguishing it. Place a lit candle to the right of Scarpia's head. Place the other candle on the left. He searches around again and seeing a crucifix he goes to detach it from the wall and carrying it religiously he kneels down to place it on Scarpia's chest. He gets up and goes out with great caution, closing the door behind him.</i>",
               "tokens": [
                 {
                   "word": "<i>si",
@@ -15474,8 +15474,8 @@ export const toscaAct2: Act = {
                   "meaning": "the / her / it"
                 },
                 {
-                  "word": "porta.</i><hr>",
-                  "lemma": "porta.</i><hr>",
+                  "word": "porta.</i>",
+                  "lemma": "porta.</i>",
                   "pos": "verb",
                   "meaning": ""
                 }

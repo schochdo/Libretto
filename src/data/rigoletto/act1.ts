@@ -16922,12 +16922,12 @@ export const rigolettoAct1: Act = {
             },
             {
               "id": "a1_s6_c28_l4",
-              "original": "<i>Sviene</i><hr>",
-              "literal": "<i>Faints</i><hr>",
+              "original": "<i>Sviene</i>",
+              "literal": "<i>Faints</i>",
               "tokens": [
                 {
-                  "word": "<i>Sviene</i><hr>",
-                  "lemma": "<i>sviene</i><hr>",
+                  "word": "<i>Sviene</i>",
+                  "lemma": "<i>sviene</i>",
                   "pos": "verb",
                   "meaning": ""
                 }

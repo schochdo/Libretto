@@ -9149,8 +9149,8 @@ export const trovatoreAct1: Act = {
             },
             {
               "id": "a1_s5_c20_l9",
-              "original": "<i>I due rivali si allontanano con le spade sguainate; Leonora cade, priva di sentimenti</i><hr>",
-              "literal": "<i>The two rivals walk away with drawn swords; Leonora falls, devoid of feelings</i><hr>",
+              "original": "<i>I due rivali si allontanano con le spade sguainate; Leonora cade, priva di sentimenti</i>",
+              "literal": "<i>The two rivals walk away with drawn swords; Leonora falls, devoid of feelings</i>",
               "tokens": [
                 {
                   "word": "<i>I",
@@ -9231,8 +9231,8 @@ export const trovatoreAct1: Act = {
                   "meaning": "of / by"
                 },
                 {
-                  "word": "sentimenti</i><hr>",
-                  "lemma": "sentimenti</i><hr>",
+                  "word": "sentimenti</i>",
+                  "lemma": "sentimenti</i>",
                   "pos": "verb",
                   "meaning": ""
                 }

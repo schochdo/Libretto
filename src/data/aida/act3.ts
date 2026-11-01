@@ -6534,7 +6534,7 @@ export const aidaAct3: Act = {
             {
               "id": "a3_s1_c59_l1",
               "original": "Là... tra foreste vergini, <i>ecc.</i>",
-              "literal": "Là... tra foreste vergini, <i>ecc.</i>",
+              "literal": "There... amidst virgin forests, <i>etc.</i>",
               "tokens": [
                 {
                   "word": "Là",
@@ -9714,8 +9714,8 @@ export const aidaAct3: Act = {
           "lines": [
             {
               "id": "a3_s1_c105_l1",
-              "original": "Sacerdote, io resto a te.<hr>",
-              "literal": "Sacerdote, io resto a te.<hr>",
+              "original": "Sacerdote, io resto a te.",
+              "literal": "Priest, I yield to you.",
               "tokens": [
                 {
                   "word": "Sacerdote",
@@ -9742,8 +9742,8 @@ export const aidaAct3: Act = {
                   "meaning": "to / at"
                 },
                 {
-                  "word": "te.<hr>",
-                  "lemma": "te.<hr>",
+                  "word": "te.",
+                  "lemma": "te.",
                   "pos": "verb",
                   "meaning": ""
                 }

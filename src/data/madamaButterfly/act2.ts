@@ -243,7 +243,7 @@ export const butterflyAct2: Act = {
             {
               "id": "a2_s1_c1_l6",
               "original": "<i>rimane pensierosa",
-              "literal": "<i>rimane pensierosa",
+              "literal": "remains pensive",
               "tokens": [
                 {
                   "word": "<i>rimane",
@@ -2775,7 +2775,7 @@ export const butterflyAct2: Act = {
             {
               "id": "a2_s1_c17_l34",
               "original": "<i>Butterfly e Suzuki si abbracciano commosse.",
-              "literal": "<i>Butterfly e Suzuki si abbracciano commosse.",
+              "literal": "Butterfly and Suzuki embrace each other deeply moved.",
               "tokens": [
                 {
                   "word": "<i>Butterfly",
@@ -8838,7 +8838,7 @@ export const butterflyAct2: Act = {
             {
               "id": "a2_s3_c25_l5",
               "original": "<i>Butterfly corre nella stanza di sinistra.",
-              "literal": "<i>Butterfly corre nella stanza di sinistra.",
+              "literal": "Butterfly runs into the room on the left.",
               "tokens": [
                 {
                   "word": "<i>Butterfly",
@@ -9573,7 +9573,7 @@ export const butterflyAct2: Act = {
             {
               "id": "a2_s3_c30_l9",
               "original": "<i>mettendo il bimbo a sedere sul cuscino e inginocchiandosi vicino a lui",
-              "literal": "<i>mettendo il bimbo a sedere sul cuscino e inginocchiandosi vicino a lui",
+              "literal": "seating the child on the cushion and kneeling beside him",
               "tokens": [
                 {
                   "word": "<i>mettendo",
@@ -10884,7 +10884,7 @@ export const butterflyAct2: Act = {
             {
               "id": "a2_s3_c36_l2",
               "original": "<i>entra trascinando con violenza Goro che tenta inutilmente di sfuggirle.",
-              "literal": "<i>entra trascinando con violenza Goro che tenta inutilmente di sfuggirle.",
+              "literal": "enters violently dragging Goro who tries in vain to escape from her.",
               "tokens": [
                 {
                   "word": "<i>entra",
@@ -11320,7 +11320,7 @@ export const butterflyAct2: Act = {
             {
               "id": "a2_s3_c39_l5",
               "original": "<i>grido selvaggio di Butterfly",
-              "literal": "<i>grido selvaggio di Butterfly",
+              "literal": "wild cry from Butterfly",
               "tokens": [
                 {
                   "word": "<i>grido",
@@ -11579,7 +11579,7 @@ export const butterflyAct2: Act = {
             {
               "id": "a2_s3_c43_l2",
               "original": "<i>Goro fugge. Butterfly rimane immobile come impietrita.",
-              "literal": "<i>Goro fugge. Butterfly rimane immobile come impietrita.",
+              "literal": "Goro flees. Butterfly remains motionless as if petrified.",
               "tokens": [
                 {
                   "word": "<i>Goro",
@@ -12085,7 +12085,7 @@ export const butterflyAct2: Act = {
             {
               "id": "a2_s4_c2_l4",
               "original": "<i>prende sul tavolino un cannocchiale e corre sul terrazzo ad osservare",
-              "literal": "<i>prende sul tavolino un cannocchiale e corre sul terrazzo ad osservare",
+              "literal": "takes a spyglass from the small table and runs out to the terrace to look",
               "tokens": [
                 {
                   "word": "<i>prende",
@@ -12741,7 +12741,7 @@ export const butterflyAct2: Act = {
             {
               "id": "a2_s4_c2_l18",
               "original": "<i>giubilante, corre sul terrazzo",
-              "literal": "<i>giubilante, corre sul terrazzo",
+              "literal": "jubilant, runs to the terrace",
               "tokens": [
                 {
                   "word": "<i>giubilante",
@@ -15821,7 +15821,7 @@ export const butterflyAct2: Act = {
             {
               "id": "a2_s5_c37_l3",
               "original": "<i>Scende sempre più la notte. Suzuki chiude lo shosi nel fondo. Butterfly conduce il bambino presso lo shosi...",
-              "literal": "<i>Scende sempre più la notte. Suzuki chiude lo shosi nel fondo. Butterfly conduce il bambino presso lo shosi...",
+              "literal": "Night falls deeper and deeper. Suzuki closes the shoji at the rear. Butterfly leads the child near the shoji...",
               "tokens": [
                 {
                   "word": "<i>Scende",

@@ -11421,8 +11421,8 @@ export const trovatoreAct2: Act = {
             },
             {
               "id": "a2_s5_c15_l3",
-              "original": "Scende subito la tela</i><hr>",
-              "literal": "The canvas immediately comes down</i><hr>",
+              "original": "Scende subito la tela</i>",
+              "literal": "The canvas immediately comes down</i>",
               "tokens": [
                 {
                   "word": "Scende",
@@ -11443,8 +11443,8 @@ export const trovatoreAct2: Act = {
                   "meaning": "the / her / it"
                 },
                 {
-                  "word": "tela</i><hr>",
-                  "lemma": "tela</i><hr>",
+                  "word": "tela</i>",
+                  "lemma": "tela</i>",
                   "pos": "verb",
                   "meaning": ""
                 }

@@ -7740,8 +7740,8 @@ export const luciaDiLammermoorAct2: Act = {
             },
             {
               "id": "a2_s4_c23_l6",
-              "original": "Mille gioje succeder non fa!</p>\n<hr>",
-              "literal": "A thousand joys cannot happen!</p> <hr>",
+              "original": "Mille gioje succeder non fa!\n",
+              "literal": "A thousand joys cannot happen!",
               "tokens": [
                 {
                   "word": "Mille",
@@ -7768,14 +7768,8 @@ export const luciaDiLammermoorAct2: Act = {
                   "meaning": "not"
                 },
                 {
-                  "word": "fa!</p>",
-                  "lemma": "fa!</p>",
-                  "pos": "verb",
-                  "meaning": ""
-                },
-                {
-                  "word": "<hr>",
-                  "lemma": "<hr>",
+                  "word": "fa!",
+                  "lemma": "fa!",
                   "pos": "verb",
                   "meaning": ""
                 }
@@ -7783,15 +7777,9 @@ export const luciaDiLammermoorAct2: Act = {
             },
             {
               "id": "a2_s4_c23_l7",
-              "original": "<p>\n <b>",
-              "literal": "<p> <b>",
+              "original": "\n <b>",
+              "literal": " <b>",
               "tokens": [
-                {
-                  "word": "<p>",
-                  "lemma": "<p>",
-                  "pos": "verb",
-                  "meaning": ""
-                },
                 {
                   "word": "<b>",
                   "lemma": "<b>",

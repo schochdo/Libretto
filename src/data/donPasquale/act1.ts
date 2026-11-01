@@ -11086,8 +11086,8 @@ export const donPasqualeAct1: Act = {
             },
             {
               "id": "a1_s5_c37_l4",
-              "original": "sentiremo ad iscoppiar.<hr>",
-              "literal": "we'll hear it explode.<hr>",
+              "original": "sentiremo ad iscoppiar.",
+              "literal": "we'll hear it explode.",
               "tokens": [
                 {
                   "word": "sentiremo",
@@ -11102,8 +11102,8 @@ export const donPasqualeAct1: Act = {
                   "meaning": "to / at"
                 },
                 {
-                  "word": "iscoppiar.<hr>",
-                  "lemma": "iscoppiar.<hr>",
+                  "word": "iscoppiar.",
+                  "lemma": "iscoppiar.",
                   "pos": "verb",
                   "meaning": ""
                 }

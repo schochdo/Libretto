@@ -7925,34 +7925,22 @@ export const luciaDiLammermoorAct1: Act = {
           "lines": [
             {
               "id": "a1_s5_c25_l1",
-              "original": "Addio.</p>\n<hr>",
-              "literal": "Goodbye.</p> <hr>",
+              "original": "Addio.\n",
+              "literal": "Goodbye.",
               "tokens": [
                 {
-                  "word": "Addio.</p>",
-                  "lemma": "addio.</p>",
+                  "word": "Addio.",
+                  "lemma": "addio.",
                   "pos": "noun",
-                  "meaning": ""
-                },
-                {
-                  "word": "<hr>",
-                  "lemma": "<hr>",
-                  "pos": "verb",
                   "meaning": ""
                 }
               ]
             },
             {
               "id": "a1_s5_c25_l2",
-              "original": "<p>\n <b>",
-              "literal": "<p> <b>",
+              "original": "\n <b>",
+              "literal": " <b>",
               "tokens": [
-                {
-                  "word": "<p>",
-                  "lemma": "<p>",
-                  "pos": "verb",
-                  "meaning": ""
-                },
                 {
                   "word": "<b>",
                   "lemma": "<b>",

@@ -13470,8 +13470,8 @@ export const donPasqualeAct2: Act = {
             },
             {
               "id": "a2_s5_c90_l4",
-              "original": "son vicino a soffocar.<hr>",
-              "literal": "I'm close to suffocating.<hr>",
+              "original": "son vicino a soffocar.",
+              "literal": "I'm close to suffocating.",
               "tokens": [
                 {
                   "word": "son",
@@ -13492,8 +13492,8 @@ export const donPasqualeAct2: Act = {
                   "meaning": "to / at"
                 },
                 {
-                  "word": "soffocar.<hr>",
-                  "lemma": "soffocar.<hr>",
+                  "word": "soffocar.",
+                  "lemma": "soffocar.",
                   "pos": "verb",
                   "meaning": ""
                 }

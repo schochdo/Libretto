@@ -19190,8 +19190,8 @@ export const laTraviataAct2: Act = {
             },
             {
               "id": "a2_s15_c6_l4",
-              "original": "Rasciuga il pianto - che t'inondò.<hr>",
-              "literal": "Dry up the tears - which flooded you.<hr>",
+              "original": "Rasciuga il pianto - che t'inondò.",
+              "literal": "Dry up the tears - which flooded you.",
               "tokens": [
                 {
                   "word": "Rasciuga",
@@ -19224,8 +19224,8 @@ export const laTraviataAct2: Act = {
                   "meaning": "you"
                 },
                 {
-                  "word": "inondò.<hr>",
-                  "lemma": "inondò.<hr>",
+                  "word": "inondò.",
+                  "lemma": "inondò.",
                   "pos": "verb",
                   "meaning": ""
                 }

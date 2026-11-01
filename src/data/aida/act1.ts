@@ -8198,7 +8198,7 @@ export const aidaAct1: Act = {
             {
               "id": "a1_s1_c57_l37",
               "original": "Numi, pietà del mio soffrir! <i>ecc.</i>",
-              "literal": "Numi, pietà del mio soffrir! <i>ecc.</i>",
+              "literal": "Gods, have pity on my suffering! <i>etc.</i>",
               "tokens": [
                 {
                   "word": "Numi",
@@ -10507,8 +10507,8 @@ export const aidaAct1: Act = {
             },
             {
               "id": "a1_s2_c23_l7",
-              "original": "Immenso Fthà!<hr>",
-              "literal": "Immenso Fthà!<hr>",
+              "original": "Immenso Fthà!",
+              "literal": "Immenso Fthà!",
               "tokens": [
                 {
                   "word": "Immenso",
@@ -10517,8 +10517,8 @@ export const aidaAct1: Act = {
                   "meaning": "immense"
                 },
                 {
-                  "word": "Fthà!<hr>",
-                  "lemma": "fthà!<hr>",
+                  "word": "Fthà!",
+                  "lemma": "fthà!",
                   "pos": "noun",
                   "meaning": ""
                 }

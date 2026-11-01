@@ -34129,8 +34129,8 @@ export const barbiereDiSivigliaAct1: Act = {
             },
             {
               "id": "a1_s15_c23_l13",
-              "original": "si riduce ad impazzar.</p>\n<hr>",
-              "literal": "is reduced to going crazy.</p> <hr>",
+              "original": "si riduce ad impazzar.\n",
+              "literal": "is reduced to going crazy.",
               "tokens": [
                 {
                   "word": "si",
@@ -34151,14 +34151,8 @@ export const barbiereDiSivigliaAct1: Act = {
                   "meaning": "to / at"
                 },
                 {
-                  "word": "impazzar.</p>",
-                  "lemma": "impazzar.</p>",
-                  "pos": "verb",
-                  "meaning": ""
-                },
-                {
-                  "word": "<hr>",
-                  "lemma": "<hr>",
+                  "word": "impazzar.",
+                  "lemma": "impazzar.",
                   "pos": "verb",
                   "meaning": ""
                 }
@@ -34166,15 +34160,9 @@ export const barbiereDiSivigliaAct1: Act = {
             },
             {
               "id": "a1_s15_c23_l14",
-              "original": "<p>\n <b>",
-              "literal": "<p> <b>",
+              "original": "\n <b>",
+              "literal": " <b>",
               "tokens": [
-                {
-                  "word": "<p>",
-                  "lemma": "<p>",
-                  "pos": "verb",
-                  "meaning": ""
-                },
                 {
                   "word": "<b>",
                   "lemma": "<b>",

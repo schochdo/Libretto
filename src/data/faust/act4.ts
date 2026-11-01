@@ -7818,8 +7818,8 @@ export const faustAct4: Act = {
             },
             {
               "id": "a4_s4_c19_l7",
-              "original": "Et pardonne au pêcheur! -<hr>",
-              "literal": "Et pardonne au pêcheur! -<hr>",
+              "original": "Et pardonne au pêcheur! -",
+              "literal": "Et pardonne au pêcheur! -",
               "tokens": [
                 {
                   "word": "Et",
@@ -7842,12 +7842,6 @@ export const faustAct4: Act = {
                 {
                   "word": "pêcheur",
                   "lemma": "pêcheur",
-                  "pos": "verb",
-                  "meaning": ""
-                },
-                {
-                  "word": "<hr>",
-                  "lemma": "<hr>",
                   "pos": "verb",
                   "meaning": ""
                 }

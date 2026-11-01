@@ -13426,8 +13426,8 @@ export const faustAct3: Act = {
           "lines": [
             {
               "id": "a3_s5_c32_l1",
-              "original": "Hein! hein!<hr>",
-              "literal": "Hein! hein!<hr>",
+              "original": "Hein! hein!",
+              "literal": "Hein! hein!",
               "tokens": [
                 {
                   "word": "Hein",
@@ -13436,8 +13436,8 @@ export const faustAct3: Act = {
                   "meaning": ""
                 },
                 {
-                  "word": "hein!<hr>",
-                  "lemma": "hein!<hr>",
+                  "word": "hein!",
+                  "lemma": "hein!",
                   "pos": "verb",
                   "meaning": ""
                 }
