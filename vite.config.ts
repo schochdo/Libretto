@@ -9,6 +9,7 @@ export default defineConfig({
     tailwindcss()
   ],
   build: {
+    target: ['es2020', 'safari14'],
     chunkSizeWarningLimit: 1200,
     rollupOptions: {
       output: {

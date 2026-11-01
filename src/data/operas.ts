@@ -450,16 +450,25 @@ const OPERA_LOADERS: Record<string, () => Promise<{ default: Opera }>> = {
 
 const operaCache = new Map<string, Opera>();
 
-export const loadOperaById = async (id: string): Promise<Opera> => {
+export const loadOperaById = async (id: string, retries = 1): Promise<Opera> => {
   const norm = id === 'magic-flute' ? 'die-zauberfloete' : id;
   if (operaCache.has(norm)) {
     return operaCache.get(norm)!;
   }
   const loader = OPERA_LOADERS[norm] || OPERA_LOADERS['die-zauberfloete'];
-  const module = await loader();
-  const opera = module.default;
-  operaCache.set(norm, opera);
-  return opera;
+  try {
+    const module = await loader();
+    const opera = module.default;
+    operaCache.set(norm, opera);
+    return opera;
+  } catch (err) {
+    if (retries > 0) {
+      // Brief pause then retry in case of transient mobile network interruption
+      await new Promise(r => setTimeout(r, 400));
+      return loadOperaById(norm, retries - 1);
+    }
+    throw err;
+  }
 };
 
 export const getCachedOpera = (id: string): Opera | undefined => {

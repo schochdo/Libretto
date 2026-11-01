@@ -30,6 +30,16 @@
           }
         } catch (e) {}
       })();
+
+      // Global auto-recovery for stale asset chunk mismatch on iOS / Safari
+      window.addEventListener('vite:preloadError', function(e) {
+        e.preventDefault();
+        var key = 'libretto_chunk_retry';
+        if (!sessionStorage.getItem(key)) {
+          sessionStorage.setItem(key, '1');
+          window.location.reload();
+        }
+      });
     </script>
   </head>
   <body class="antialiased selection:bg-amber-500/30 selection:text-amber-200">
