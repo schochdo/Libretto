@@ -153,7 +153,9 @@ export const LinguisticInspector: React.FC<LinguisticInspectorProps> = ({
                     }}
                   >
                     <span className="font-semibold">{tok.word}</span>
-                    <span className="opacity-75">→ {tok.meaning}</span>
+                    {tok.meaning ? (
+                      <span className="opacity-75">→ {tok.meaning}</span>
+                    ) : null}
                   </button>
                 );
               })}
@@ -212,7 +214,9 @@ export const LinguisticInspector: React.FC<LinguisticInspectorProps> = ({
                   {/* Meaning */}
                   <div className="text-sm sm:text-base leading-snug">
                     <span className="font-semibold opacity-85">Meaning: </span>
-                    <span className="opacity-95">{selectedToken.meaning}</span>
+                    <span className="opacity-95">
+                      {selectedToken.meaning || selectedToken.lemma || 'See verse translation'}
+                    </span>
                   </div>
 
                   {/* Notes if available */}

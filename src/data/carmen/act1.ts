@@ -6346,9 +6346,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "puis",
-                  "lemma": "pouvoir",
-                  "pos": "verb",
-                  "meaning": "can (1st sg. pres. formal)"
+                  "lemma": "puis",
+                  "pos": "adverb",
+                  "meaning": "then / and then"
                 },
                 {
                   "word": "nous",
@@ -10370,9 +10370,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "puis",
-                  "lemma": "pouvoir",
-                  "pos": "verb",
-                  "meaning": "can (1st sg. pres. formal)"
+                  "lemma": "puis",
+                  "pos": "adverb",
+                  "meaning": "then / afterwards"
                 },
                 {
                   "word": "il",
@@ -12154,9 +12154,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "puis",
-                  "lemma": "pouvoir",
-                  "pos": "verb",
-                  "meaning": "can (1st sg. pres. formal)"
+                  "lemma": "puis",
+                  "pos": "adverb",
+                  "meaning": "then / furthermore"
                 },
                 {
                   "word": "un",
@@ -12234,9 +12234,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "puis",
-                  "lemma": "pouvoir",
-                  "pos": "verb",
-                  "meaning": "can (1st sg. pres. formal)"
+                  "lemma": "puis",
+                  "pos": "adverb",
+                  "meaning": "then / and then"
                 }
               ]
             }
@@ -12261,9 +12261,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "puis",
-                  "lemma": "pouvoir",
-                  "pos": "verb",
-                  "meaning": "can (1st sg. pres. formal)"
+                  "lemma": "puis",
+                  "pos": "adverb",
+                  "meaning": "then / and then"
                 }
               ]
             }
@@ -12286,9 +12286,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "puis",
-                  "lemma": "pouvoir",
-                  "pos": "verb",
-                  "meaning": "can (1st sg. pres. formal)"
+                  "lemma": "puis",
+                  "pos": "adverb",
+                  "meaning": "then / and then"
                 },
                 {
                   "word": "Vraiment",
@@ -12329,9 +12329,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "puis",
-                  "lemma": "pouvoir",
-                  "pos": "verb",
-                  "meaning": "can (1st sg. pres. formal)"
+                  "lemma": "puis",
+                  "pos": "adverb",
+                  "meaning": "then / and then"
                 },
                 {
                   "word": "encore",
@@ -19797,9 +19797,9 @@ export const carmenAct1: Act = {
                 },
                 {
                   "word": "puis",
-                  "lemma": "pouvoir",
-                  "pos": "verb",
-                  "meaning": "can (1st sg. pres. formal)"
+                  "lemma": "puis",
+                  "pos": "adverb",
+                  "meaning": "then / afterwards"
                 },
                 {
                   "word": "elle",

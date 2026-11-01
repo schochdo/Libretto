@@ -17124,9 +17124,9 @@ export const carmenAct3: Act = {
                 },
                 {
                   "word": "puis",
-                  "lemma": "pouvoir",
-                  "pos": "verb",
-                  "meaning": "can (1st sg. pres. formal)"
+                  "lemma": "puis",
+                  "pos": "adverb",
+                  "meaning": "then / and then"
                 },
                 {
                   "word": "lui",

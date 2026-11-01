@@ -2032,9 +2032,9 @@ export const carmenAct4: Act = {
                 },
                 {
                   "word": "puis",
-                  "lemma": "pouvoir",
-                  "pos": "verb",
-                  "meaning": "can (1st sg. pres. formal)"
+                  "lemma": "puis",
+                  "pos": "adverb",
+                  "meaning": "then / and then"
                 },
                 {
                   "word": "saluons",
@@ -2470,9 +2470,9 @@ export const carmenAct4: Act = {
               "tokens": [
                 {
                   "word": "Puis",
-                  "lemma": "pouvoir",
-                  "pos": "verb",
-                  "meaning": "can (1st sg. pres. formal)"
+                  "lemma": "puis",
+                  "pos": "adverb",
+                  "meaning": "then / afterwards"
                 },
                 {
                   "word": "l",

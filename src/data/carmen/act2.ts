@@ -22620,9 +22620,9 @@ export const carmenAct2: Act = {
               "tokens": [
                 {
                   "word": "Puis",
-                  "lemma": "pouvoir",
-                  "pos": "verb",
-                  "meaning": "can (1st sg. pres. formal)"
+                  "lemma": "puis",
+                  "pos": "adverb",
+                  "meaning": "then / afterwards"
                 },
                 {
                   "word": "je",
