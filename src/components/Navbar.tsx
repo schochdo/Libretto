@@ -303,23 +303,38 @@ export const Navbar: React.FC<NavbarProps> = ({
       if (!isNativeFs) {
         if (typeof docEl.requestFullscreen === 'function') {
           const res = docEl.requestFullscreen();
-          if (res && typeof res.catch === 'function') {
-            res.catch(() => {});
+          if (res && typeof res.then === 'function') {
+            res
+              .then(() => setIsFullscreen(true))
+              .catch(() => {
+                // If native fullscreen was blocked by browser permissions, use in-app fullscreen
+                setIsFullscreen(true);
+              });
+          } else {
+            setIsFullscreen(true);
           }
         } else if (typeof docEl.webkitRequestFullscreen === 'function') {
           docEl.webkitRequestFullscreen();
+          setIsFullscreen(true);
+        } else {
+          setIsFullscreen(true);
         }
-        setIsFullscreen(true);
       } else {
         if (typeof document.exitFullscreen === 'function') {
           const res = document.exitFullscreen();
-          if (res && typeof res.catch === 'function') {
-            res.catch(() => {});
+          if (res && typeof res.then === 'function') {
+            res
+              .then(() => setIsFullscreen(false))
+              .catch(() => setIsFullscreen(false));
+          } else {
+            setIsFullscreen(false);
           }
         } else if (typeof doc.webkitExitFullscreen === 'function') {
           doc.webkitExitFullscreen();
+          setIsFullscreen(false);
+        } else {
+          setIsFullscreen(false);
         }
-        setIsFullscreen(false);
       }
     } catch (_) {
       // Guaranteed fallback: toggle in-app fullscreen even if native API throws

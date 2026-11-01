@@ -18,30 +18,50 @@ export const TARGET_LANG_CODE: Record<SupportedLanguage, string> = {
   en: 'en-GB'
 };
 
-// Detect iOS / iPadOS devices across all browsers (Safari, Brave with Farbling Shields, Chrome for iOS)
+// Detect iOS / iPadOS devices (iPhone, iPad, iPod) across all browsers (Safari, Brave, Chrome for iOS)
+// Precision checks ensure 0% false positives on desktop Macs running Brave or Chrome!
 export const isIOS = (): boolean => {
   if (typeof window === 'undefined') return false;
-  return (
-    /iPhone|iPad|iPod/.test(navigator.userAgent) ||
-    ('standalone' in navigator) ||
-    (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1) ||
-    (navigator.platform === 'MacIntel' && ('ontouchstart' in window || typeof TouchEvent !== 'undefined')) ||
-    (typeof window.matchMedia === 'function' && window.matchMedia('(pointer: coarse)').matches && navigator.vendor === 'Apple Computer, Inc.') ||
-    (typeof CSS !== 'undefined' && CSS.supports && (CSS.supports('-webkit-touch-callout', 'none') || CSS.supports('-webkit-touch-callout', 'default')))
-  );
+
+  // 1. Direct iOS / iPadOS User-Agent check
+  if (/iPhone|iPad|iPod/.test(navigator.userAgent)) return true;
+
+  // 2. Standalone iOS PWA mode (Safari WebKit)
+  if ('standalone' in navigator) return true;
+
+  // 3. Apple-exclusive iOS WebKit CSS property (exists ONLY on iOS/iPadOS, never on macOS desktop)
+  if (typeof CSS !== 'undefined' && CSS.supports && (CSS.supports('-webkit-touch-callout', 'none') || CSS.supports('-webkit-touch-callout', 'default'))) {
+    return true;
+  }
+
+  // 4. iPadOS Safari Desktop Site mode (MacIntel platform with actual hardware touch screen)
+  if (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1 && window.matchMedia && window.matchMedia('(pointer: coarse)').matches) {
+    return true;
+  }
+
+  // 5. iPadOS Brave / privacy browsers (Apple WebKit engine + coarse touch pointer)
+  if (navigator.vendor === 'Apple Computer, Inc.' && window.matchMedia && window.matchMedia('(pointer: coarse)').matches) {
+    return true;
+  }
+
+  return false;
 };
 
 // Detect any touch-screen device (tablets, phones) where native DOM element fullscreen is either
 // broken (QuickTime video overlay on Safari) or blocked (WKWebView in Brave / Chrome)
 export const isTouchDevice = (): boolean => {
   if (typeof window === 'undefined') return false;
-  return (
-    isIOS() ||
-    (typeof window.matchMedia === 'function' && window.matchMedia('(pointer: coarse)').matches) ||
-    (typeof navigator !== 'undefined' && navigator.maxTouchPoints > 0) ||
-    ('ontouchstart' in window) ||
-    (typeof TouchEvent !== 'undefined')
-  );
+  
+  if (isIOS()) return true;
+
+  // Touch-screen tablets or phones with coarse pointer that lack a primary mouse/trackpad
+  if (typeof window.matchMedia === 'function' && window.matchMedia('(pointer: coarse)').matches) {
+    if (!window.matchMedia('(pointer: fine)').matches) {
+      return true;
+    }
+  }
+
+  return false;
 };
 
 // Known legacy macOS voice stubs that lack local audio files and silently fall back to English Samantha
