@@ -21,8 +21,12 @@ export const TARGET_LANG_CODE: Record<SupportedLanguage, string> = {
 // Detect iOS devices (iPhone, iPad, iPod) where system voices have different naming & sandbox rules
 export const isIOS = (): boolean => {
   if (typeof window === 'undefined') return false;
-  return /iPhone|iPad|iPod/.test(navigator.userAgent) || 
-    (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+  return (
+    /iPhone|iPad|iPod/.test(navigator.userAgent) ||
+    ('standalone' in navigator) ||
+    (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1) ||
+    (navigator.platform === 'MacIntel' && ('ontouchstart' in window || typeof TouchEvent !== 'undefined'))
+  );
 };
 
 // Known legacy macOS voice stubs that lack local audio files and silently fall back to English Samantha
@@ -48,6 +52,28 @@ export const isChromiumBlockedVoice = (voice: SpeechSynthesisVoice): boolean => 
   
   // Sandbox trap: compact voices fail in Chromium, EXCEPT Samantha which is the ultimate safe default.
   return uri.includes('compact') && !name.includes('samantha');
+};
+
+// Quality score helper (Higher is better: Premium = 4, Enhanced = 3, Natural/Siri = 2, Standard = 1, Compact = 0)
+export const getVoiceQualityScore = (voice: SpeechSynthesisVoice): number => {
+  const name = (voice.name || '').toLowerCase();
+  const uri = (voice.voiceURI || '').toLowerCase();
+  
+  if (name.includes('premium') || uri.includes('premium')) return 4;
+  if (name.includes('enhanced') || uri.includes('enhanced')) return 3;
+  if (name.includes('natural') || name.includes('google') || uri.includes('natural')) return 2;
+  if (name.includes('siri') || uri.includes('siri') || uri.includes('neural')) return 2;
+  if (name.includes('compact') || uri.includes('compact')) return 0;
+  return 1;
+};
+
+// Extract clean base character name for deduplication
+// e.g. "Anna (Enhanced)" -> "Anna", "Alice (it-IT)" -> "Alice", "Samantha (Compact)" -> "Samantha"
+export const getBaseVoiceName = (name: string): string => {
+  return (name || '')
+    .replace(/\s*\((enhanced|premium|compact|natural|neural|high quality)\)/gi, '')
+    .replace(/\s*\([a-z]{2}[-_][a-z]{2}\)/gi, '')
+    .trim();
 };
 
 // Prioritize verified working voices installed on macOS / browsers
@@ -95,7 +121,14 @@ export const getSafeVoices = (): SpeechSynthesisVoice[] => {
   
   const live = window.speechSynthesis.getVoices();
   if (live && live.length > 0) {
-    persistentVoices = live;
+    // Deduplicate identical voiceURI instances right at root collection
+    const uriMap = new Map<string, SpeechSynthesisVoice>();
+    for (const v of live) {
+      if (v.voiceURI && !uriMap.has(v.voiceURI)) {
+        uriMap.set(v.voiceURI, v);
+      }
+    }
+    persistentVoices = Array.from(uriMap.values());
   }
   return persistentVoices;
 };
@@ -134,21 +167,38 @@ export const getAvailableVoicesForLanguage = (language: SupportedLanguage, inclu
     return isLangMatch && !isRejected && !isStub && !isChromiumBlockedVoice(v);
   });
 
+  // Deduplicate voices by normalized base character name
+  // WebKit on iOS / iPadOS frequently emits duplicate instances of the same voice
+  // (e.g. one compact, one enhanced, or duplicate URIs for the same persona).
+  // We group by base name (e.g. "Alice", "Anna", "Markus") and ALWAYS keep the HIGHEST quality tier!
+  const nameMap = new Map<string, SpeechSynthesisVoice>();
+  for (const voice of candidates) {
+    const baseName = getBaseVoiceName(voice.name || voice.voiceURI).toLowerCase();
+    const existing = nameMap.get(baseName);
+    if (!existing) {
+      nameMap.set(baseName, voice);
+    } else {
+      const existingScore = getVoiceQualityScore(existing);
+      const newScore = getVoiceQualityScore(voice);
+      // Keep higher quality tier (e.g. Enhanced over Compact)
+      if (newScore > existingScore) {
+        nameMap.set(baseName, voice);
+      }
+    }
+  }
+
+  const deduped = Array.from(nameMap.values());
+
   // If high-quality (Enhanced, Premium, or Google Natural) voices are installed for this language,
   // automatically filter out low-quality compact voices so the user never has to hear them!
   if (!includeCompactIfEnhancedAvailable) {
-    const hdVoices = candidates.filter(v => {
-      const n = (v.name || '').toLowerCase();
-      const u = (v.voiceURI || '').toLowerCase();
-      return n.includes('enhanced') || n.includes('premium') || n.includes('natural') || n.includes('google') || u.includes('enhanced') || u.includes('premium');
-    });
-
+    const hdVoices = deduped.filter(v => getVoiceQualityScore(v) >= 2);
     if (hdVoices.length > 0) {
       return hdVoices;
     }
   }
 
-  return candidates;
+  return deduped;
 };
 
 export const getSelectedVoiceURI = (language: SupportedLanguage): string | null => {
@@ -235,7 +285,19 @@ export const getBestVoiceForLanguage = (language: SupportedLanguage, requestedGe
   // 1. Check if user explicitly selected a voice in settings (and verify not a stub/blocked)
   const customVoiceURI = getSelectedVoiceURI(language);
   if (customVoiceURI) {
-    const custom = voices.find(v => (v.voiceURI === customVoiceURI || v.name === customVoiceURI) && !isStubVoice(v.name) && !isChromiumBlockedVoice(v));
+    let custom = voices.find(v => (v.voiceURI === customVoiceURI || v.name === customVoiceURI) && !isStubVoice(v.name) && !isChromiumBlockedVoice(v));
+    // If saved voice was compact/standard, check if an Enhanced/Premium version of the same character exists
+    if (custom && getVoiceQualityScore(custom) <= 1) {
+      const baseName = getBaseVoiceName(custom.name).toLowerCase();
+      const upgraded = voices.find(v => 
+        getBaseVoiceName(v.name).toLowerCase() === baseName && 
+        getVoiceQualityScore(v) > getVoiceQualityScore(custom!)
+      );
+      if (upgraded) {
+        custom = upgraded;
+        setSelectedVoiceURI(language, upgraded.voiceURI);
+      }
+    }
     if (custom) {
       // If a specific gender is requested, ignore the global custom voice if it strongly contradicts the gender
       if (requestedGender) {
@@ -263,7 +325,6 @@ export const getBestVoiceForLanguage = (language: SupportedLanguage, requestedGe
   const scored = matchingVoices.map(v => {
     let score = 0;
     const nameLower = (v.name || '').toLowerCase();
-    const uriLower = (v.voiceURI || '').toLowerCase();
 
     // Check if on preferred list
     preferred.forEach((pref, idx) => {
@@ -273,15 +334,11 @@ export const getBestVoiceForLanguage = (language: SupportedLanguage, requestedGe
     });
 
     // Massive tiered scoring for high definition:
-    if (nameLower.includes('premium') || uriLower.includes('premium')) {
-      score += 10000;
-    } else if (nameLower.includes('enhanced') || uriLower.includes('enhanced')) {
-      score += 8000;
-    } else if (nameLower.includes('natural') || nameLower.includes('google') || nameLower.includes('siri')) {
-      score += 5000;
-    } else if (nameLower.includes('compact') || uriLower.includes('compact')) {
-      score -= 8000; // Strong penalty against low-quality compact voices
-    }
+    const qScore = getVoiceQualityScore(v);
+    if (qScore === 4) score += 10000;
+    else if (qScore === 3) score += 8000;
+    else if (qScore === 2) score += 5000;
+    else if (qScore === 0) score -= 8000; // Strong penalty against low-quality compact voices
 
     // Strict gender filtering:
     if (requestedGender === 'male') {

@@ -5,9 +5,12 @@ import {
   getSelectedVoiceURI, 
   setSelectedVoiceURI, 
   speakText, 
-  getBestVoiceForLanguage 
+  getBestVoiceForLanguage,
+  getVoiceQualityScore,
+  getBaseVoiceName,
+  isIOS
 } from '../utils/speech';
-import { X, Volume2, Play, Check, Sliders, ExternalLink } from 'lucide-react';
+import { X, Volume2, Play, Check, Sliders, HelpCircle } from 'lucide-react';
 
 interface VoiceSettingsModalProps {
   isOpen: boolean;
@@ -37,6 +40,7 @@ export const VoiceSettingsModal: React.FC<VoiceSettingsModalProps> = ({
   const [selectedVoiceURI, setSelectedVoice] = useState<string>('');
   const [speechRate, setSpeechRate] = useState<number>(0.85);
   const [hdOnly, setHdOnly] = useState<boolean>(true);
+  const isDeviceIOS = isIOS();
 
   useEffect(() => {
     if (!isOpen) return;
@@ -44,24 +48,41 @@ export const VoiceSettingsModal: React.FC<VoiceSettingsModalProps> = ({
     const updateVoices = () => {
       const allAvail = getAvailableVoicesForLanguage(language, true);
 
-      // Sort voices: Premium > Enhanced > Google > Compact
+      // Sort voices: Premium > Enhanced > Natural/Siri > Standard > Compact, then alphabetically by name
       const sorted = [...allAvail].sort((a, b) => {
-        const aName = (a.name || '').toLowerCase() + (a.voiceURI || '').toLowerCase();
-        const bName = (b.name || '').toLowerCase() + (b.voiceURI || '').toLowerCase();
-        const getTier = (n: string) => {
-          if (n.includes('premium')) return 4;
-          if (n.includes('enhanced')) return 3;
-          if (n.includes('google') || n.includes('natural')) return 2;
-          return 1;
-        };
-        return getTier(bName) - getTier(aName);
+        const scoreDiff = getVoiceQualityScore(b) - getVoiceQualityScore(a);
+        if (scoreDiff !== 0) return scoreDiff;
+        const aName = getBaseVoiceName(a.name || a.voiceURI);
+        const bName = getBaseVoiceName(b.name || b.voiceURI);
+        return aName.localeCompare(bName);
       });
 
       setVoices(sorted);
       
       const currentURI = getSelectedVoiceURI(language);
-      if (currentURI) {
+      const isCurrentInSorted = currentURI && sorted.some(v => v.voiceURI === currentURI);
+
+      if (isCurrentInSorted) {
         setSelectedVoice(currentURI);
+      } else if (currentURI) {
+        // If saved URI was compact/standard and an Enhanced/Premium version is now available, auto-migrate
+        const baseCurrent = getBaseVoiceName(currentURI).toLowerCase();
+        const matchingUpgraded = sorted.find(v => {
+          const baseV = getBaseVoiceName(v.name || v.voiceURI).toLowerCase();
+          return baseV === baseCurrent || currentURI.toLowerCase().includes(baseV);
+        });
+        if (matchingUpgraded) {
+          setSelectedVoice(matchingUpgraded.voiceURI);
+          setSelectedVoiceURI(language, matchingUpgraded.voiceURI);
+          onVoiceChanged?.(matchingUpgraded.voiceURI);
+        } else {
+          const best = getBestVoiceForLanguage(language);
+          if (best) {
+            setSelectedVoice(best.voiceURI);
+            setSelectedVoiceURI(language, best.voiceURI);
+            onVoiceChanged?.(best.voiceURI);
+          }
+        }
       } else {
         const best = getBestVoiceForLanguage(language);
         if (best) {
@@ -166,15 +187,9 @@ export const VoiceSettingsModal: React.FC<VoiceSettingsModalProps> = ({
           {/* Detected Voices List */}
           <div>
             {(() => {
-              const hasHdVoices = voices.some(v => {
-                const n = (v.name || '').toLowerCase() + (v.voiceURI || '').toLowerCase();
-                return n.includes('enhanced') || n.includes('premium') || n.includes('google');
-              });
+              const hasHdVoices = voices.some(v => getVoiceQualityScore(v) >= 2);
               const displayedVoices = (hdOnly && hasHdVoices)
-                ? voices.filter(v => {
-                    const n = (v.name || '').toLowerCase() + (v.voiceURI || '').toLowerCase();
-                    return n.includes('enhanced') || n.includes('premium') || n.includes('google');
-                  })
+                ? voices.filter(v => getVoiceQualityScore(v) >= 2)
                 : voices;
 
               return (
@@ -204,11 +219,12 @@ export const VoiceSettingsModal: React.FC<VoiceSettingsModalProps> = ({
                     <div className="space-y-1.5 max-h-56 overflow-y-auto pr-1">
                       {displayedVoices.map((voice) => {
                         const isSelected = selectedVoiceURI === voice.voiceURI;
-                        const nLower = (voice.name || '').toLowerCase() + (voice.voiceURI || '').toLowerCase();
-                        const isPremium = nLower.includes('premium');
-                        const isEnhanced = !isPremium && nLower.includes('enhanced');
-                        const isGoogle = nLower.includes('google');
-                        const isCompact = !isPremium && !isEnhanced && !isGoogle;
+                        const score = getVoiceQualityScore(voice);
+                        const isPremium = score === 4;
+                        const isEnhanced = score === 3;
+                        const isNatural = score === 2;
+                        const isCompact = score <= 1;
+                        const displayName = getBaseVoiceName(voice.name) || voice.name || 'Voice';
 
                         return (
                           <div
@@ -229,7 +245,7 @@ export const VoiceSettingsModal: React.FC<VoiceSettingsModalProps> = ({
                                 {isSelected && <Check className="w-2.5 h-2.5" />}
                               </div>
                               <div className="truncate flex items-center gap-1.5 flex-wrap">
-                                <span className="font-medium">{voice.name}</span>
+                                <span className="font-medium">{displayName}</span>
                                 {isPremium && (
                                   <span className="text-[10px] uppercase px-1.5 py-0.5 rounded font-bold bg-purple-500/20 text-purple-400 border border-purple-500/30">
                                     ★ Premium HD
@@ -237,10 +253,10 @@ export const VoiceSettingsModal: React.FC<VoiceSettingsModalProps> = ({
                                 )}
                                 {isEnhanced && (
                                   <span className="text-[10px] uppercase px-1.5 py-0.5 rounded font-bold bg-amber-500/20 text-amber-500 border border-amber-500/30">
-                                    Enhanced
+                                    ★ Enhanced HD
                                   </span>
                                 )}
-                                {isGoogle && (
+                                {isNatural && (
                                   <span className="text-[10px] uppercase px-1.5 py-0.5 rounded font-bold bg-emerald-500/20 text-emerald-500 border border-emerald-500/30">
                                     Natural
                                   </span>
@@ -278,21 +294,50 @@ export const VoiceSettingsModal: React.FC<VoiceSettingsModalProps> = ({
             })()}
           </div>
 
-          {/* Mac Spoken Content Guide */}
-          <div className="p-3.5 rounded-xl border text-sm space-y-2"
+          {/* Apple High-Definition Voice Guide */}
+          <div className="p-3.5 rounded-xl border text-xs sm:text-sm space-y-3"
             style={{ backgroundColor: 'var(--bg-primary)', borderColor: 'var(--border-color)' }}
           >
-            <div className="flex items-center gap-1.5 font-bold" style={{ color: 'var(--accent)' }}>
-              <ExternalLink className="w-3.5 h-3.5" />
-              <span>How to unlock Apple's HD Natural Voices on Mac:</span>
+            <div className="flex items-center justify-between gap-2">
+              <div className="flex items-center gap-1.5 font-bold" style={{ color: 'var(--accent)' }}>
+                <HelpCircle className="w-4 h-4 shrink-0" />
+                <span>How Apple Enhanced Voices Work</span>
+              </div>
+              {isDeviceIOS && (
+                <span className="text-[10px] uppercase font-semibold px-2 py-0.5 rounded border"
+                  style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)', color: 'var(--text-secondary)' }}>
+                  iPad / iOS
+                </span>
+              )}
             </div>
-            <ol className="list-decimal list-inside space-y-1 opacity-85 leading-relaxed text-xs sm:text-sm">
-              <li>Press <kbd className="px-1 py-0.5 rounded bg-black/20 font-mono">⌘ Space</kbd> (Spotlight), type <strong>Spoken Content</strong>, and press Enter.</li>
-              <li>Or open <strong>System Settings → Accessibility → Spoken Content</strong>.</li>
-              <li>Click the <strong>System Voice</strong> dropdown menu.</li>
-              <li>Select <strong>Manage Voices...</strong>.</li>
-              <li>Find <strong>Italian, German, or French</strong>, click the arrow, and click the cloud download icon next to the <strong>"Enhanced"</strong> or <strong>"Premium"</strong> voices (e.g. <em>Alice</em>, <em>Anna</em>, <em>Thomas</em>).</li>
-            </ol>
+
+            <div className="space-y-2.5 opacity-90 leading-relaxed text-xs">
+              <div className="p-2.5 rounded-lg border" style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}>
+                <p className="font-semibold mb-1" style={{ color: 'var(--accent)' }}>
+                  On iPad & iPhone (iOS):
+                </p>
+                <ol className="list-decimal list-inside space-y-1">
+                  <li>Open the <strong>Settings</strong> app.</li>
+                  <li>Go to <strong>Accessibility → Spoken Content → Voices</strong>.</li>
+                  <li>Select <strong>{languageLabel}</strong> (or your target language).</li>
+                  <li>Tap your preferred character (e.g. <em>Alice</em>, <em>Anna</em>, <em>Luca</em>, <em>Markus</em>) and tap the <strong>cloud icon</strong> to download <strong>Enhanced</strong> or <strong>Premium</strong>.</li>
+                </ol>
+                <p className="mt-1.5 text-[11px] opacity-75 italic">
+                  Note: In Safari and iOS browsers, WebKit automatically upgrades voice synthesis to the downloaded HD audio model. Libretto automatically pairs with your highest quality voice.
+                </p>
+              </div>
+
+              <div className="p-2.5 rounded-lg border" style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}>
+                <p className="font-semibold mb-1 opacity-90">
+                  On Mac (macOS):
+                </p>
+                <ol className="list-decimal list-inside space-y-1">
+                  <li>Open <strong>System Settings → Accessibility → Spoken Content</strong>.</li>
+                  <li>Click <strong>System Voice → Manage Voices...</strong>.</li>
+                  <li>Download <strong>Enhanced</strong> or <strong>Premium</strong> for {languageLabel}.</li>
+                </ol>
+              </div>
+            </div>
           </div>
 
         </div>
