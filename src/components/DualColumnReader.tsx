@@ -160,7 +160,8 @@ export const DualColumnReader: React.FC<DualColumnReaderProps> = ({
               
               {/* Speaker & Direction for Cues with Sung/Spoken Lines */}
               {cue.lines && cue.lines.length > 0 ? (
-                <div className="pt-2 space-y-1">
+                <div className="pt-2 space-y-1.5">
+                  {/* Line 1: Speaker & Piece Title */}
                   <div className="flex flex-wrap items-baseline gap-2.5">
                     <h3 
                       className="font-display font-bold text-sm sm:text-base tracking-wider uppercase"
@@ -174,17 +175,25 @@ export const DualColumnReader: React.FC<DualColumnReaderProps> = ({
                         — {cue.pieceTitle}
                       </span>
                     )}
-
-                    {cue.stageDirection && (
-                      <span className="text-sm sm:text-base italic font-normal opacity-90" style={{ color: 'var(--text-secondary)' }}>
-                        [{cue.stageDirection}]
-                      </span>
-                    )}
                   </div>
 
+                  {/* Line 2: Original Stage Direction (without brackets) */}
+                  {cue.stageDirection && (
+                    <div 
+                      className="text-xs sm:text-sm font-libretto italic leading-relaxed pl-3 border-l-2"
+                      style={{ borderColor: 'var(--accent)', color: 'var(--text-secondary)' }}
+                    >
+                      {cue.stageDirection}
+                    </div>
+                  )}
+
+                  {/* Line 3: English Translation */}
                   {cue.stageDirection && cue.stageDirectionTranslation && 
                    cue.stageDirectionTranslation.trim().toLowerCase() !== cue.stageDirection.trim().toLowerCase() && (
-                    <div className="text-xs sm:text-sm italic font-normal pl-3 border-l-2" style={{ borderColor: 'var(--border)', color: 'var(--text-secondary)' }}>
+                    <div 
+                      className="text-xs sm:text-sm italic leading-relaxed pl-3 border-l-2"
+                      style={{ borderColor: 'var(--border)', color: 'var(--text-secondary)' }}
+                    >
                       <span className="opacity-75">↳ </span>{cue.stageDirectionTranslation}
                     </div>
                   )}
