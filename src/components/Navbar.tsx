@@ -347,6 +347,141 @@ export const Navbar: React.FC<NavbarProps> = ({
     return 'max(0.5rem, env(safe-area-inset-top))';
   }, []);
 
+  const renderOperaDropdownPopover = () => {
+    if (!isOperaDropdownOpen) return null;
+    return (
+      <div 
+        className="absolute left-0 top-full mt-1.5 w-[min(94vw,22rem)] sm:w-[26rem] md:w-[28rem] rounded-xl border shadow-2xl z-50 overflow-hidden animate-fadeIn backdrop-blur-md flex flex-col"
+        style={{
+          backgroundColor: 'var(--bg-secondary)',
+          borderColor: 'var(--border-color)',
+          color: 'var(--text-primary)'
+        }}
+        role="listbox"
+      >
+        {/* Top Browse Library Option */}
+        <div className="p-1.5 border-b shrink-0" style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}>
+          <button
+            type="button"
+            onClick={() => {
+              onNavigateToCatalog();
+              setIsOperaDropdownOpen(false);
+            }}
+            className={`w-full text-left px-3 py-2 rounded-lg text-xs sm:text-sm font-medium transition-all flex items-center justify-between gap-2.5 cursor-pointer ${
+              currentView === 'catalog' ? 'font-bold shadow-2xs' : 'hover:opacity-90'
+            }`}
+            style={{
+              backgroundColor: currentView === 'catalog' ? 'var(--bg-active)' : 'var(--bg-primary)',
+              borderColor: currentView === 'catalog' ? 'var(--border-active)' : 'var(--border-color)',
+              color: currentView === 'catalog' ? 'var(--accent)' : 'var(--text-primary)'
+            }}
+          >
+            <div className="flex items-center gap-2 min-w-0 flex-1">
+              <Library className="w-4 h-4 shrink-0" style={{ color: 'var(--accent)' }} />
+              <div className="min-w-0">
+                <div className="font-semibold text-xs sm:text-sm">✦ Browse Library (21 Operas)</div>
+                <div className="text-[11px] opacity-70 font-sans truncate">View full catalog gallery, composers & synopses</div>
+              </div>
+            </div>
+            {currentView === 'catalog' && (
+              <Check className="w-4 h-4 shrink-0" style={{ color: 'var(--accent)' }} />
+            )}
+          </button>
+        </div>
+
+        {/* Filter Input */}
+        <div className="p-2 border-b shrink-0" style={{ borderColor: 'var(--border-color)' }}>
+          <div className="relative">
+            <Search className="w-3.5 h-3.5 absolute left-2.5 top-1/2 -translate-y-1/2 opacity-50" />
+            <input
+              type="text"
+              autoFocus
+              value={operaFilterQuery}
+              onChange={(e) => setOperaFilterQuery(e.target.value)}
+              placeholder="Filter 21 operas or composers..."
+              className="w-full text-xs py-1.5 pl-8 pr-7 rounded-lg border focus:outline-none transition-colors"
+              style={{
+                backgroundColor: 'var(--bg-primary)',
+                borderColor: 'var(--border-color)',
+                color: 'var(--text-primary)'
+              }}
+            />
+            {operaFilterQuery && (
+              <button
+                type="button"
+                onClick={() => setOperaFilterQuery('')}
+                className="absolute right-2 top-1/2 -translate-y-1/2 text-xs opacity-50 hover:opacity-100 p-0.5 cursor-pointer"
+              >
+                <X className="w-3 h-3" />
+              </button>
+            )}
+          </div>
+        </div>
+
+        {/* Scrollable Opera List */}
+        <div className="max-h-[min(60dvh,20rem)] overflow-y-auto p-1.5 space-y-0.5 divide-y divide-[var(--border-color)]/25 overscroll-contain">
+          {filteredDropdownCatalog.length === 0 ? (
+            <div className="p-4 text-center text-xs opacity-60 italic font-serif">
+              No operas match "{operaFilterQuery}"
+            </div>
+          ) : (
+            filteredDropdownCatalog.map((op) => {
+              const isCurrent = currentView === 'reader' && op.id === currentOperaId;
+              const compLast = op.composer.split(' ').pop() || op.composer;
+              const dispTitle = op.id === 'die-zauberfloete'
+                ? 'Die Zauberflöte (The Magic Flute)'
+                : op.title;
+
+              return (
+                <button
+                  key={op.id}
+                  type="button"
+                  onClick={() => {
+                    onSelectOpera(op.id);
+                    setIsOperaDropdownOpen(false);
+                  }}
+                  className={`w-full text-left px-2.5 py-2 rounded-lg text-xs sm:text-sm transition-all flex items-center justify-between gap-2.5 cursor-pointer ${
+                    isCurrent ? 'font-semibold shadow-2xs' : 'hover:opacity-90'
+                  }`}
+                  style={{
+                    backgroundColor: isCurrent ? 'var(--bg-active)' : 'transparent',
+                    color: 'var(--text-primary)'
+                  }}
+                  role="option"
+                  aria-selected={isCurrent}
+                >
+                  <div className="min-w-0 flex-1">
+                    <div className="flex items-center gap-1.5">
+                      <span 
+                        className="font-serif font-bold text-[11px] uppercase tracking-wider shrink-0"
+                        style={{ color: 'var(--accent)' }}
+                      >
+                        {compLast}
+                      </span>
+                      <span className="opacity-30 text-[10px]">•</span>
+                      <span 
+                        className="text-[10px] px-1.5 py-0.2 rounded font-sans opacity-75 shrink-0 border"
+                        style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}
+                      >
+                        {op.languageLabel}
+                      </span>
+                    </div>
+                    <div className="font-display font-medium text-xs sm:text-sm leading-snug truncate mt-0.5">
+                      {dispTitle}
+                    </div>
+                  </div>
+                  {isCurrent && (
+                    <Check className="w-4 h-4 shrink-0" style={{ color: 'var(--accent)' }} />
+                  )}
+                </button>
+              );
+            })
+          )}
+        </div>
+      </div>
+    );
+  };
+
   return (
     <header className={`sticky top-0 z-30 border-b px-3 sm:px-6 transition-all ${isFullscreen ? 'py-1 sm:py-1.5' : 'py-2 sm:py-2.5'}`}
       style={{
@@ -382,24 +517,46 @@ export const Navbar: React.FC<NavbarProps> = ({
               </span>
             </button>
 
-            {currentOpera ? (
-              <div className="flex items-center gap-1.5 min-w-0 truncate">
-                <span className="opacity-30 text-xs hidden sm:inline">•</span>
-                <span className="font-serif font-semibold text-xs sm:text-sm truncate" style={{ color: 'var(--text-primary)' }}>
-                  {currentOpera.title}
-                </span>
-                <span className="text-[11px] opacity-60 truncate hidden md:inline font-serif italic">
-                  — {currentComposerLast}
-                </span>
-              </div>
-            ) : (
-              <div className="flex items-center gap-1.5 min-w-0 truncate">
-                <span className="opacity-30 text-xs hidden sm:inline">•</span>
-                <span className="font-serif font-medium text-xs sm:text-sm truncate opacity-80">
-                  Opera Library Catalog
-                </span>
-              </div>
-            )}
+            {/* Clickable Opera Selector Dropdown in Fullscreen */}
+            <div ref={isFullscreen ? operaDropdownRef : undefined} className="relative min-w-0 max-w-[200px] sm:max-w-xs md:max-w-sm">
+              <button
+                type="button"
+                onClick={() => {
+                  setIsOperaDropdownOpen(!isOperaDropdownOpen);
+                  setOperaFilterQuery('');
+                }}
+                className="flex items-center gap-1.5 font-serif text-xs sm:text-sm py-1 pl-2.5 pr-2 rounded-lg border cursor-pointer focus:outline-none transition-all truncate font-medium shadow-2xs select-none hover:opacity-95 active:scale-98"
+                style={{
+                  backgroundColor: 'var(--bg-primary)',
+                  borderColor: isOperaDropdownOpen ? 'var(--border-active)' : 'var(--border-color)',
+                  color: 'var(--text-primary)',
+                }}
+                title={currentView === 'catalog' ? 'Opera Library (21 Operas)' : `${currentSummary?.composer}: ${currentTitle} (Click to switch opera)`}
+                aria-haspopup="listbox"
+                aria-expanded={isOperaDropdownOpen}
+              >
+                <div className="flex items-center gap-1.5 truncate min-w-0">
+                  {currentView === 'catalog' ? (
+                    <span className="truncate flex items-center gap-1 font-semibold" style={{ color: 'var(--accent)' }}>
+                      <span>✦</span>
+                      <span>Browse Library</span>
+                    </span>
+                  ) : (
+                    <>
+                      <span style={{ color: 'var(--accent)' }} className="font-bold shrink-0">
+                        {currentComposerLast}:
+                      </span>
+                      <span className="truncate">
+                        {currentTitle}
+                      </span>
+                    </>
+                  )}
+                </div>
+                <ChevronDown className={`w-3.5 h-3.5 shrink-0 opacity-50 transition-transform duration-200 ${isOperaDropdownOpen ? 'rotate-180' : ''}`} />
+              </button>
+
+              {isFullscreen && renderOperaDropdownPopover()}
+            </div>
           </div>
 
           {/* Right: Essential Reading Controls */}
@@ -558,7 +715,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             </button>
 
             {/* Themed Opera Dropdown (Fine book-binding style) */}
-            <div ref={operaDropdownRef} className="relative flex-1 min-w-0 max-w-full sm:max-w-md lg:max-w-[210px] xl:max-w-xs 2xl:max-w-md">
+            <div ref={!isFullscreen ? operaDropdownRef : undefined} className="relative flex-1 min-w-0 max-w-full sm:max-w-md lg:max-w-[210px] xl:max-w-xs 2xl:max-w-md">
               <button
                 type="button"
                 onClick={() => {
@@ -604,137 +761,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               </button>
 
               {/* Themed Opera Popover Menu */}
-              {isOperaDropdownOpen && (
-                <div 
-                  className="absolute left-0 top-full mt-1.5 w-[min(94vw,22rem)] sm:w-[26rem] md:w-[28rem] rounded-xl border shadow-2xl z-50 overflow-hidden animate-fadeIn backdrop-blur-md flex flex-col"
-                  style={{
-                    backgroundColor: 'var(--bg-secondary)',
-                    borderColor: 'var(--border-color)',
-                    color: 'var(--text-primary)'
-                  }}
-                  role="listbox"
-                >
-                  {/* Top Browse Library Option */}
-                  <div className="p-1.5 border-b shrink-0" style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}>
-                    <button
-                      type="button"
-                      onClick={() => {
-                        onNavigateToCatalog();
-                        setIsOperaDropdownOpen(false);
-                      }}
-                      className={`w-full text-left px-3 py-2 rounded-lg text-xs sm:text-sm font-medium transition-all flex items-center justify-between gap-2.5 cursor-pointer ${
-                        currentView === 'catalog' ? 'font-bold shadow-2xs' : 'hover:opacity-90'
-                      }`}
-                      style={{
-                        backgroundColor: currentView === 'catalog' ? 'var(--bg-active)' : 'var(--bg-primary)',
-                        borderColor: currentView === 'catalog' ? 'var(--border-active)' : 'var(--border-color)',
-                        color: currentView === 'catalog' ? 'var(--accent)' : 'var(--text-primary)'
-                      }}
-                    >
-                      <div className="flex items-center gap-2 min-w-0 flex-1">
-                        <Library className="w-4 h-4 shrink-0" style={{ color: 'var(--accent)' }} />
-                        <div className="min-w-0">
-                          <div className="font-semibold text-xs sm:text-sm">✦ Browse Library (21 Operas)</div>
-                          <div className="text-[11px] opacity-70 font-sans truncate">View full catalog gallery, composers & synopses</div>
-                        </div>
-                      </div>
-                      {currentView === 'catalog' && (
-                        <Check className="w-4 h-4 shrink-0" style={{ color: 'var(--accent)' }} />
-                      )}
-                    </button>
-                  </div>
-
-                  {/* Filter Input */}
-                  <div className="p-2 border-b shrink-0" style={{ borderColor: 'var(--border-color)' }}>
-                    <div className="relative">
-                      <Search className="w-3.5 h-3.5 absolute left-2.5 top-1/2 -translate-y-1/2 opacity-50" />
-                      <input
-                        type="text"
-                        autoFocus
-                        value={operaFilterQuery}
-                        onChange={(e) => setOperaFilterQuery(e.target.value)}
-                        placeholder="Filter 21 operas or composers..."
-                        className="w-full text-xs py-1.5 pl-8 pr-7 rounded-lg border focus:outline-none transition-colors"
-                        style={{
-                          backgroundColor: 'var(--bg-primary)',
-                          borderColor: 'var(--border-color)',
-                          color: 'var(--text-primary)'
-                        }}
-                      />
-                      {operaFilterQuery && (
-                        <button
-                          type="button"
-                          onClick={() => setOperaFilterQuery('')}
-                          className="absolute right-2 top-1/2 -translate-y-1/2 text-xs opacity-50 hover:opacity-100 p-0.5 cursor-pointer"
-                        >
-                          <X className="w-3 h-3" />
-                        </button>
-                      )}
-                    </div>
-                  </div>
-
-                  {/* Scrollable Opera List */}
-                  <div className="max-h-[min(60dvh,20rem)] overflow-y-auto p-1.5 space-y-0.5 divide-y divide-[var(--border-color)]/25 overscroll-contain">
-                    {filteredDropdownCatalog.length === 0 ? (
-                      <div className="p-4 text-center text-xs opacity-60 italic font-serif">
-                        No operas match "{operaFilterQuery}"
-                      </div>
-                    ) : (
-                      filteredDropdownCatalog.map((op) => {
-                        const isCurrent = currentView === 'reader' && op.id === currentOperaId;
-                        const compLast = op.composer.split(' ').pop() || op.composer;
-                        const dispTitle = op.id === 'die-zauberfloete'
-                          ? 'Die Zauberflöte (The Magic Flute)'
-                          : op.title;
-
-                        return (
-                          <button
-                            key={op.id}
-                            type="button"
-                            onClick={() => {
-                              onSelectOpera(op.id);
-                              setIsOperaDropdownOpen(false);
-                            }}
-                            className={`w-full text-left px-2.5 py-2 rounded-lg text-xs sm:text-sm transition-all flex items-center justify-between gap-2.5 cursor-pointer ${
-                              isCurrent ? 'font-semibold shadow-2xs' : 'hover:opacity-90'
-                            }`}
-                            style={{
-                              backgroundColor: isCurrent ? 'var(--bg-active)' : 'transparent',
-                              color: 'var(--text-primary)'
-                            }}
-                            role="option"
-                            aria-selected={isCurrent}
-                          >
-                            <div className="min-w-0 flex-1">
-                              <div className="flex items-center gap-1.5">
-                                <span 
-                                  className="font-serif font-bold text-[11px] uppercase tracking-wider shrink-0"
-                                  style={{ color: 'var(--accent)' }}
-                                >
-                                  {compLast}
-                                </span>
-                                <span className="opacity-30 text-[10px]">•</span>
-                                <span 
-                                  className="text-[10px] px-1.5 py-0.2 rounded font-sans opacity-75 shrink-0 border"
-                                  style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-tertiary)' }}
-                                >
-                                  {op.languageLabel}
-                                </span>
-                              </div>
-                              <div className="font-display font-medium text-xs sm:text-sm leading-snug truncate mt-0.5">
-                                {dispTitle}
-                              </div>
-                            </div>
-                            {isCurrent && (
-                              <Check className="w-4 h-4 shrink-0" style={{ color: 'var(--accent)' }} />
-                            )}
-                          </button>
-                        );
-                      })
-                    )}
-                  </div>
-                </div>
-              )}
+              {!isFullscreen && renderOperaDropdownPopover()}
             </div>
           </div>
 

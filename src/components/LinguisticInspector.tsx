@@ -218,7 +218,7 @@ export const LinguisticInspector: React.FC<LinguisticInspectorProps> = ({
                   {/* Notes if available */}
                   {selectedToken.notes && (
                     <p className="text-xs sm:text-sm opacity-90 italic border-l-2 pl-2.5 py-0.5" style={{ borderColor: 'var(--accent)' }}>
-                      💡 {selectedToken.notes}
+                      <span className="font-semibold not-italic" style={{ color: 'var(--accent)' }}>Note: </span>{selectedToken.notes}
                     </p>
                   )}
                 </div>

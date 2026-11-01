@@ -493,7 +493,7 @@ export const SceneSettingCard: React.FC<SceneSettingCardProps> = ({
             style={{ borderColor: 'var(--border-color)', backgroundColor: 'rgba(var(--accent-rgb, 180, 140, 60), 0.02)' }}
           >
             <span>
-              💡 Tip: Hover any sentence to highlight its exact bilingual counterpart; tap the speaker icon to hear authentic pronunciation.
+              <span className="font-semibold" style={{ color: 'var(--accent)' }}>Tip: </span>Hover or tap any sentence to highlight its exact bilingual counterpart; tap the speaker icon to hear authentic pronunciation.
             </span>
           </div>
         </div>

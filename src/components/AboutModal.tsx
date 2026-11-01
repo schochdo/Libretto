@@ -74,7 +74,7 @@ export const AboutModal: React.FC<AboutModalProps> = ({ isOpen, onClose }) => {
               Libretto automatically selects native speaker voices for Italian (<em>Alice</em>), German (<em>Anna</em>), French (<em>Thomas</em>), and Russian (<em>Milena</em>), filtering out novelty and mismatched voices.
             </p>
             <p className="text-xs opacity-75 italic">
-              💡 <strong>Pro-Tip for macOS & iPad:</strong> In <em>System Settings → Accessibility → Spoken Content → System Voice</em>, you can download Apple's free "Enhanced" or "Premium" voice packs for stunningly natural, human pronunciation.
+              <strong className="not-italic" style={{ color: 'var(--accent)' }}>Pro-Tip for macOS & iPad: </strong>In <em>System Settings → Accessibility → Spoken Content → System Voice</em>, you can download Apple's free "Enhanced" or "Premium" voice packs for stunningly natural, human pronunciation.
             </p>
           </div>
 
