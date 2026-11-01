@@ -2463,7 +2463,7 @@ export const faustAct3: Act = {
         },
         {
           "id": "a3_s2_c5",
-          "speaker": "I.",
+          "speaker": "Marguerite",
           "lines": [
             {
               "id": "a3_s2_c5_l1",
@@ -2503,7 +2503,7 @@ export const faustAct3: Act = {
       "cues": [
         {
           "id": "a3_s3_c1",
-          "speaker": "Ii.",
+          "speaker": "Marguerite",
           "stageDirection": "S'interrompant",
           "stageDirectionTranslation": "Interrupting",
           "lines": [

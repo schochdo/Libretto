@@ -7845,81 +7845,81 @@ export const toscaAct2: Act = {
             {
               "id": "a2_s4_c66_l1",
               "original": "Judex ergo, cum sedebit,",
-              "literal": "Judex ergo, cum sedebit,",
+              "literal": "Therefore, when the Judge shall sit,",
               "tokens": [
                 {
                   "word": "Judex",
                   "lemma": "judex",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Judge"
                 },
                 {
                   "word": "ergo",
                   "lemma": "ergo",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "adverb",
+                  "meaning": "therefore"
                 },
                 {
                   "word": "cum",
                   "lemma": "cum",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "conjunction",
+                  "meaning": "when"
                 },
                 {
                   "word": "sedebit",
-                  "lemma": "sedebit",
+                  "lemma": "sedere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "shall sit (future)"
                 }
               ]
             },
             {
               "id": "a2_s4_c66_l2",
               "original": "Quidquid latet apparebit,",
-              "literal": "Quidquid latet apparebit,",
+              "literal": "Whatever is hidden shall appear,",
               "tokens": [
                 {
                   "word": "Quidquid",
                   "lemma": "quidquid",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "pronoun",
+                  "meaning": "whatever / anything that"
                 },
                 {
                   "word": "latet",
-                  "lemma": "latet",
+                  "lemma": "latere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "lies hidden / is concealed"
                 },
                 {
                   "word": "apparebit",
-                  "lemma": "apparebit",
+                  "lemma": "apparere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "shall appear / will be revealed"
                 }
               ]
             },
             {
               "id": "a2_s4_c66_l3",
               "original": "Nil inultum remanebit.",
-              "literal": "Nil inultum remanebit.",
+              "literal": "Nothing shall remain unavenged.",
               "tokens": [
                 {
                   "word": "Nil",
-                  "lemma": "nil",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "nihil",
+                  "pos": "pronoun",
+                  "meaning": "nothing"
                 },
                 {
                   "word": "inultum",
-                  "lemma": "inultum",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "inultus",
+                  "pos": "adjective",
+                  "meaning": "unpunished / unavenged"
                 },
                 {
                   "word": "remanebit",
-                  "lemma": "remanebit",
+                  "lemma": "remanere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "shall remain"
                 }
               ]
             }

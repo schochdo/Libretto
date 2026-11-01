@@ -11698,7 +11698,7 @@ export const laTraviataAct2: Act = {
         },
         {
           "id": "a2_s10_c2",
-          "speaker": "I.",
+          "speaker": "Prima Zingarella",
           "lines": [
             {
               "id": "a2_s10_c2_l1",
@@ -11756,7 +11756,7 @@ export const laTraviataAct2: Act = {
         },
         {
           "id": "a2_s10_c3",
-          "speaker": "Ii.",
+          "speaker": "Seconda Zingarella",
           "lines": [
             {
               "id": "a2_s10_c3_l1",

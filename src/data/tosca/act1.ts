@@ -521,198 +521,198 @@ export const toscaAct1: Act = {
             {
               "id": "a1_s2_c1_l8",
               "original": "Angelus Domini nuntiavit Mariae,",
-              "literal": "Angelus Domini nuntiavit Mariae,",
+              "literal": "The Angel of the Lord declared unto Mary,",
               "tokens": [
                 {
                   "word": "Angelus",
                   "lemma": "angelus",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "angel"
                 },
                 {
                   "word": "Domini",
-                  "lemma": "domini",
+                  "lemma": "dominus",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "of the Lord"
                 },
                 {
                   "word": "nuntiavit",
-                  "lemma": "nuntiavit",
+                  "lemma": "nuntiare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "declared / announced"
                 },
                 {
                   "word": "Mariae",
-                  "lemma": "mariae",
+                  "lemma": "Maria",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "unto Mary"
                 }
               ]
             },
             {
               "id": "a1_s2_c1_l9",
               "original": "Et concepit de Spiritu Sancto.",
-              "literal": "And conceived of the Holy Spirit.",
+              "literal": "And she conceived of the Holy Spirit.",
               "tokens": [
                 {
                   "word": "Et",
                   "lemma": "et",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "conjunction",
+                  "meaning": "and"
                 },
                 {
                   "word": "concepit",
-                  "lemma": "concepit",
+                  "lemma": "concipere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "conceived"
                 },
                 {
                   "word": "de",
                   "lemma": "de",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "by / of"
                 },
                 {
                   "word": "Spiritu",
-                  "lemma": "spiritu",
+                  "lemma": "spiritus",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "the Spirit"
                 },
                 {
                   "word": "Sancto",
-                  "lemma": "sancto",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "sanctus",
+                  "pos": "adjective",
+                  "meaning": "Holy"
                 }
               ]
             },
             {
               "id": "a1_s2_c1_l10",
               "original": "Ecce ancilla Domini,",
-              "literal": "Ecce ancilla Domini,",
+              "literal": "Behold the handmaid of the Lord,",
               "tokens": [
                 {
                   "word": "Ecce",
                   "lemma": "ecce",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "interjection",
+                  "meaning": "behold"
                 },
                 {
                   "word": "ancilla",
                   "lemma": "ancilla",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "handmaid / servant"
                 },
                 {
                   "word": "Domini",
-                  "lemma": "domini",
+                  "lemma": "dominus",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "of the Lord"
                 }
               ]
             },
             {
               "id": "a1_s2_c1_l11",
               "original": "Fiat mihi secundum verbum tuum.",
-              "literal": "Fiat mihi secundum verbum tuum.",
+              "literal": "Be it done unto me according to thy word.",
               "tokens": [
                 {
                   "word": "Fiat",
-                  "lemma": "fiat",
-                  "pos": "noun",
-                  "meaning": ""
+                  "lemma": "fieri",
+                  "pos": "verb",
+                  "meaning": "let it be done (subjunctive)"
                 },
                 {
                   "word": "mihi",
-                  "lemma": "mihi",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ego",
+                  "pos": "pronoun",
+                  "meaning": "unto me"
                 },
                 {
                   "word": "secundum",
                   "lemma": "secundum",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "preposition",
+                  "meaning": "according to"
                 },
                 {
                   "word": "verbum",
                   "lemma": "verbum",
-                  "pos": "verb",
-                  "meaning": ""
+                  "pos": "noun",
+                  "meaning": "word"
                 },
                 {
                   "word": "tuum",
-                  "lemma": "tuum",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "tuus",
+                  "pos": "adjective",
+                  "meaning": "thy / your"
                 }
               ]
             },
             {
               "id": "a1_s2_c1_l12",
               "original": "Et Verbum caro factum est,",
-              "literal": "Et Verbum caro factum est,",
+              "literal": "And the Word was made flesh,",
               "tokens": [
                 {
                   "word": "Et",
                   "lemma": "et",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "conjunction",
+                  "meaning": "and"
                 },
                 {
                   "word": "Verbum",
                   "lemma": "verbum",
                   "pos": "noun",
-                  "meaning": ""
+                  "meaning": "Word"
                 },
                 {
                   "word": "caro",
                   "lemma": "caro",
                   "pos": "noun",
-                  "meaning": "dear"
+                  "meaning": "flesh"
                 },
                 {
                   "word": "factum",
-                  "lemma": "factum",
+                  "lemma": "facere",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "made"
                 },
                 {
                   "word": "est",
-                  "lemma": "est",
-                  "pos": "noun",
-                  "meaning": "est"
+                  "lemma": "esse",
+                  "pos": "verb",
+                  "meaning": "was / is"
                 }
               ]
             },
             {
               "id": "a1_s2_c1_l13",
               "original": "Et habitavit in nobis...",
-              "literal": "Et habitavit in nobis...",
+              "literal": "And dwelt among us...",
               "tokens": [
                 {
                   "word": "Et",
                   "lemma": "et",
-                  "pos": "noun",
-                  "meaning": ""
+                  "pos": "conjunction",
+                  "meaning": "and"
                 },
                 {
                   "word": "habitavit",
-                  "lemma": "habitavit",
+                  "lemma": "habitare",
                   "pos": "verb",
-                  "meaning": ""
+                  "meaning": "dwelt"
                 },
                 {
                   "word": "in",
                   "lemma": "in",
-                  "pos": "noun",
-                  "meaning": "in / into"
+                  "pos": "preposition",
+                  "meaning": "in / among"
                 },
                 {
                   "word": "nobis",
-                  "lemma": "nobis",
-                  "pos": "verb",
-                  "meaning": ""
+                  "lemma": "ego",
+                  "pos": "pronoun",
+                  "meaning": "us"
                 }
               ]
             }

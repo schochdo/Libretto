@@ -2343,7 +2343,7 @@ export const donPasqualeAct1: Act = {
         },
         {
           "id": "a1_s2_c28",
-          "speaker": "Recitativo E Duetto",
+          "speaker": "Don Pasquale",
           "lines": [
             {
               "id": "a1_s2_c28_l1",
