@@ -160,29 +160,33 @@ export const DualColumnReader: React.FC<DualColumnReaderProps> = ({
               
               {/* Speaker & Direction for Cues with Sung/Spoken Lines */}
               {cue.lines && cue.lines.length > 0 ? (
-                <div className="flex flex-wrap items-baseline gap-2.5 pt-2">
-                  <h3 
-                    className="font-display font-bold text-sm sm:text-base tracking-wider uppercase"
-                    style={{ color: 'var(--accent)' }}
-                  >
-                    {cue.speaker}
-                  </h3>
+                <div className="pt-2 space-y-1">
+                  <div className="flex flex-wrap items-baseline gap-2.5">
+                    <h3 
+                      className="font-display font-bold text-sm sm:text-base tracking-wider uppercase"
+                      style={{ color: 'var(--accent)' }}
+                    >
+                      {cue.speaker}
+                    </h3>
 
-                  {showPieceTitle && (
-                    <span className="text-sm sm:text-base italic font-medium opacity-90">
-                      — {cue.pieceTitle}
-                    </span>
-                  )}
+                    {showPieceTitle && (
+                      <span className="text-sm sm:text-base italic font-medium opacity-90">
+                        — {cue.pieceTitle}
+                      </span>
+                    )}
 
-                  {cue.stageDirection && (
-                    <span className="text-sm sm:text-base italic font-normal opacity-90" style={{ color: 'var(--text-secondary)' }}>
-                      [{cue.stageDirection}{
-                        cue.stageDirectionTranslation && 
-                        cue.stageDirectionTranslation.trim().toLowerCase() !== cue.stageDirection.trim().toLowerCase()
-                          ? ` — ${cue.stageDirectionTranslation}` 
-                          : ''
-                      }]
-                    </span>
+                    {cue.stageDirection && (
+                      <span className="text-sm sm:text-base italic font-normal opacity-90" style={{ color: 'var(--text-secondary)' }}>
+                        [{cue.stageDirection}]
+                      </span>
+                    )}
+                  </div>
+
+                  {cue.stageDirection && cue.stageDirectionTranslation && 
+                   cue.stageDirectionTranslation.trim().toLowerCase() !== cue.stageDirection.trim().toLowerCase() && (
+                    <div className="text-xs sm:text-sm italic font-normal pl-3 border-l-2" style={{ borderColor: 'var(--border)', color: 'var(--text-secondary)' }}>
+                      <span className="opacity-75">↳ </span>{cue.stageDirectionTranslation}
+                    </div>
                   )}
                 </div>
             ) : (
