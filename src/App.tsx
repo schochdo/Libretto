@@ -407,10 +407,12 @@ export const App: React.FC = () => {
           {/* Pinned Top Scene Navigation Bar - cleanly positioned above the scroll container */}
           {displayedScene && currentOpera && (
             <div 
-              className="px-2.5 sm:px-6 py-2 sm:py-2.5 border-b shadow-xs flex items-center justify-between gap-1.5 sm:gap-3 shrink-0 transition-colors"
+              className="py-2 sm:py-2.5 border-b shadow-xs flex items-center justify-between gap-1.5 sm:gap-3 shrink-0 transition-colors"
               style={{ 
                 backgroundColor: 'var(--bg-secondary)', 
-                borderColor: 'var(--border-color)' 
+                borderColor: 'var(--border-color)',
+                paddingLeft: 'max(0.625rem, env(safe-area-inset-left, 0px))',
+                paddingRight: 'max(0.625rem, env(safe-area-inset-right, 0px))'
               }}
             >
               <button
@@ -637,7 +639,7 @@ export const App: React.FC = () => {
 
             {/* Inspector Container */}
             <aside 
-              className="fixed inset-x-0 bottom-0 max-h-[85dvh] z-50 rounded-t-2xl shadow-2xl flex flex-col border-t animate-slideUp md:animate-none md:relative md:inset-auto md:max-h-none md:rounded-none md:border-t-0 md:border-l md:w-[26rem] lg:w-[30rem] xl:w-[34rem] md:shrink-0 md:z-20 overflow-hidden pb-[max(0.75rem,env(safe-area-inset-bottom))]" 
+              className="fixed inset-x-0 bottom-0 max-h-[85dvh] z-50 rounded-t-2xl shadow-2xl flex flex-col border-t animate-slideUp md:animate-none md:relative md:inset-auto md:max-h-none md:rounded-none md:border-t-0 md:border-l md:w-[26rem] lg:w-[30rem] xl:w-[34rem] md:shrink-0 md:z-20 overflow-hidden pb-[max(0.75rem,env(safe-area-inset-bottom,0px))] pl-[max(0rem,env(safe-area-inset-left,0px))] pr-[max(0rem,env(safe-area-inset-right,0px))]" 
               style={{ backgroundColor: 'var(--bg-secondary)', borderColor: 'var(--border-color)' }}
             >
               {/* Mobile Drawer Pull Bar Handle */}

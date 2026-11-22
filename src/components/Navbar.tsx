@@ -342,9 +342,13 @@ export const Navbar: React.FC<NavbarProps> = ({
     }
   };
 
-  const headerPaddingTop = React.useMemo(() => {
-    // Natural hardware safe area clearance (e.g. Dynamic Island or notch if present, otherwise 0.5rem)
-    return 'max(0.5rem, env(safe-area-inset-top))';
+  const headerPaddingStyle = React.useMemo(() => {
+    // Natural hardware safe area clearance (e.g. Dynamic Island or notch if present, otherwise base padding)
+    return {
+      paddingTop: 'max(0.5rem, env(safe-area-inset-top, 0px))',
+      paddingLeft: 'max(0.75rem, env(safe-area-inset-left, 0px))',
+      paddingRight: 'max(0.75rem, env(safe-area-inset-right, 0px))'
+    };
   }, []);
 
   const renderOperaDropdownPopover = () => {
@@ -483,12 +487,12 @@ export const Navbar: React.FC<NavbarProps> = ({
   };
 
   return (
-    <header className={`sticky top-0 z-30 border-b px-3 sm:px-6 transition-all ${isFullscreen ? 'py-1 sm:py-1.5' : 'py-2 sm:py-2.5'}`}
+    <header className={`sticky top-0 z-30 border-b transition-all ${isFullscreen ? 'py-1 sm:py-1.5' : 'py-2 sm:py-2.5'}`}
       style={{
         backgroundColor: 'var(--bg-secondary)',
         borderColor: 'var(--border-color)',
         color: 'var(--text-primary)',
-        paddingTop: headerPaddingTop
+        ...headerPaddingStyle
       }}
     >
       {isFullscreen ? (

@@ -78,6 +78,12 @@
   --scrollbar-track: #0a0202;
 }
 
+/* Prevent iOS rubber-band overscroll & bounce conflicts */
+html,
+body {
+  overscroll-behavior: none;
+}
+
 body {
   background-color: var(--bg-primary);
   color: var(--text-primary);
@@ -174,7 +180,9 @@ select option {
 
 /* Header safe-area adjustments (preserves hardware safe areas without artificial gaps) */
 header {
-  padding-top: max(0.5rem, env(safe-area-inset-top));
+  padding-top: max(0.5rem, env(safe-area-inset-top, 0px));
+  padding-left: max(0.75rem, env(safe-area-inset-left, 0px));
+  padding-right: max(0.75rem, env(safe-area-inset-right, 0px));
 }
 
 /* Ensure header and interactive elements never capture window dragging or block taps */

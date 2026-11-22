@@ -21,21 +21,21 @@ export const TARGET_LANG_CODE: Record<SupportedLanguage, string> = {
 // Detect iOS / iPadOS devices (iPhone, iPad, iPod) across all browsers (Safari, Brave, Chrome for iOS)
 // Precision checks ensure 0% false positives on desktop Macs running Brave or Chrome!
 export const isIOS = (): boolean => {
-  if (typeof window === 'undefined') return false;
+  if (typeof window === 'undefined' || typeof navigator === 'undefined') return false;
 
   // 1. Direct iOS / iPadOS User-Agent check
-  if (/iPhone|iPad|iPod/.test(navigator.userAgent)) return true;
+  if (/iPad|iPhone|iPod/.test(navigator.userAgent || '')) return true;
 
-  // 2. Standalone iOS PWA mode (Safari WebKit)
-  if ('standalone' in navigator) return true;
-
-  // 3. Apple-exclusive iOS WebKit CSS property (exists ONLY on iOS/iPadOS, never on macOS desktop)
-  if (typeof CSS !== 'undefined' && CSS.supports && (CSS.supports('-webkit-touch-callout', 'none') || CSS.supports('-webkit-touch-callout', 'default'))) {
+  // 2. iPadOS Safari Desktop Site mode (MacIntel platform with actual hardware touch screen)
+  if (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1) {
     return true;
   }
 
-  // 4. iPadOS Safari Desktop Site mode (MacIntel platform with actual hardware touch screen)
-  if (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1 && window.matchMedia && window.matchMedia('(pointer: coarse)').matches) {
+  // 3. Standalone iOS PWA mode (Safari WebKit)
+  if ('standalone' in navigator) return true;
+
+  // 4. Apple-exclusive iOS WebKit CSS property (exists ONLY on iOS/iPadOS, never on macOS desktop)
+  if (typeof CSS !== 'undefined' && CSS.supports && (CSS.supports('-webkit-touch-callout', 'none') || CSS.supports('-webkit-touch-callout', 'default'))) {
     return true;
   }
 
